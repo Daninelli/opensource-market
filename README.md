@@ -221,6 +221,66 @@ token 会存进 Windows 凭据管理器，不会在磁盘上留明文文件。�
 
 ---
 
+## 网络不稳定时怎么推送
+
+国内访问 GitHub 各域名走的线路不一样，**站点能打开不代表能推送**：
+
+| 域名 | 用途 | 国内稳定性 |
+| --- | --- | --- |
+| `github.io` | 站点访问（Pages / Fastly CDN） | 通常较稳 |
+| `github.com` | 网页、**git push** | 时好时坏（DNS 污染 / TCP 重置） |
+| `api.github.com` | 接口 | 一般 |
+| `codeload.github.com` | 源码 zip 下载 | 一般 |
+| `raw.githubusercontent.com` | 原始文件 | 经常不通 |
+
+推送失败通常长这样，都是网络问题，跟代码无关：
+
+```
+Failed to connect to github.com port 443 after 21072 ms
+Connection was reset
+```
+
+### 办法一：用带重试的脚本（推荐）
+
+```powershell
+.\tools\push.ps1              # 自动重试 6 次，间隔逐次拉长
+.\tools\push.ps1 -Force       # 改写历史后用（内部是 --force-with-lease）
+.\tools\push.ps1 -Retries 10  # 自定义重试次数
+```
+
+认证失败、被仓库规则拒绝这类错误它不会傻等，会直接停下并提示。
+
+### 办法二：改走 SSH 的 443 端口
+
+有些网络封了 22 端口但放行 443，可以试：
+
+```powershell
+# ~/.ssh/config 里加：
+Host github.com
+  HostName ssh.github.com
+  Port 443
+  User git
+```
+
+然后 `git remote set-url origin git@github.com:Daninelli/opensource-market.git`。
+
+### 办法三：走代理
+
+如果你本机有代理（如 `127.0.0.1:7890`）：
+
+```powershell
+git config --global http.proxy http://127.0.0.1:7890
+git config --global https.proxy http://127.0.0.1:7890
+# 取消：
+git config --global --unset http.proxy
+```
+
+### 重要：本地提交不受网络影响
+
+`git add` / `git commit` 全在本地，断网也能做。**只有 `git push` 需要网络**。所以网络不好时照常改、照常提交，等网络恢复了一次性推上去即可。
+
+---
+
 ## 免责说明
 
 本项目仅做索引与展示，收录项目的代码、文档、商标均归各自作者所有；商用或二次分发前请自行确认对应开源协议的约束（尤其是 AGPL / GPL / LGPL / MPL / BSL / Sustainable Use License）。
