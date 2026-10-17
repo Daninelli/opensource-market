@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="开源集市：汇聚优质开源成品应用，按一级 / 二级分类筛选，拿过来直接用，或轻松二次开发。">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
     <title>开源集市 · 开源成品应用集合</title>
     <style>
         :root {
@@ -17,6 +18,8 @@
             --accent-hover: #2c974b;
             --demo: #0969da;
             --demo-hover: #0353b4;
+            --brand: #15803d;
+            --brand-soft: #dcfce7;
         }
 
         * { box-sizing: border-box; }
@@ -29,9 +32,54 @@
             margin: 0;
         }
 
+        /* ---------- 图标系统 ---------- */
+        .icon-sprite {
+            position: absolute;
+            width: 0;
+            height: 0;
+            overflow: hidden;
+        }
+
+        .icon {
+            width: 1em;
+            height: 1em;
+            display: inline-block;
+            vertical-align: -0.125em;
+            flex: none;
+            fill: none;
+            stroke: currentColor;
+            stroke-width: 1.8;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+        }
+
+        /* ---------- 页头 ---------- */
         .header { text-align: center; margin: 24px auto 12px; max-width: 760px; }
-        .header h1 { margin: 0 0 10px; font-size: 2rem; letter-spacing: .5px; }
-        .header p { margin: 0; color: #555; font-size: 15px; line-height: 1.6; }
+        .header-top {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+        }
+        .logo-mark {
+            width: 46px;
+            height: 46px;
+            display: grid;
+            place-items: center;
+            font-size: 27px;
+            color: var(--brand);
+            background: linear-gradient(180deg, #f0fdf4, var(--brand-soft));
+            border: 1px solid #bbf7d0;
+            border-radius: 13px;
+            flex: none;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 2rem;
+            letter-spacing: .5px;
+            color: var(--text-strong);
+        }
+        .header p { margin: 12px 0 0; color: #555; font-size: 15px; line-height: 1.6; }
 
         /* ---------- 分类筛选 ---------- */
         .filters-wrap {
@@ -45,7 +93,7 @@
         .filters, .subfilters {
             display: flex;
             flex-wrap: wrap;
-            gap: 8px;
+            gap: 6px;
             justify-content: center;
         }
 
@@ -76,6 +124,9 @@
         }
         .filter-btn:hover { border-color: #b9b9b9; background: #f5f5f5; }
         .filter-btn:focus-visible { outline: 2px solid #0969da; outline-offset: 2px; }
+
+        .filter-btn .icon { font-size: 14px; color: #7a7a7a; }
+        .filter-btn.is-active .icon { color: #fff; }
 
         .filter-btn--sub { font-size: 12.5px; padding: 7px 11px; border-style: dashed; }
 
@@ -129,7 +180,9 @@
 
         .tags { margin-bottom: 15px; }
         .tag {
-            display: inline-block;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
             background: #e0f2fe;
             color: #0369a1;
             padding: 3px 10px;
@@ -138,6 +191,7 @@
             margin: 0 5px 5px 0;
             white-space: nowrap;
         }
+        .tag .icon { font-size: 13px; }
         .tag.category { background: #ecfdf5; color: #047857; font-weight: 600; }
         .tag.subcategory { background: #f5f3ff; color: #6d28d9; }
         .tag.deploy { background: #fdf4ff; color: #c026d3; }
@@ -149,7 +203,10 @@
 
         .actions { display: flex; gap: 10px; margin-top: auto; }
         .btn {
-            display: inline-block;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
             padding: 8px 16px;
             background: var(--accent);
             color: #fff;
@@ -160,6 +217,7 @@
             flex: 1;
             transition: background .2s;
         }
+        .btn .icon { font-size: 15px; }
         .btn:hover { background: var(--accent-hover); }
         .btn-demo { background: var(--demo); }
         .btn-demo:hover { background: var(--demo-hover); }
@@ -199,14 +257,95 @@
         @media (max-width: 480px) {
             body { padding: 14px; }
             .header h1 { font-size: 1.6rem; }
+            .logo-mark { width: 40px; height: 40px; font-size: 23px; border-radius: 11px; }
             .grid-container { grid-template-columns: 1fr; }
             .filter-btn { font-size: 12px; padding: 7px 10px; }
         }
     </style>
 </head>
 <body>
+    <!-- 图标精灵：全部为手绘 24×24 线性图标，描边颜色继承 currentColor -->
+    <svg class="icon-sprite" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+        <symbol id="icon-market" viewBox="0 0 24 24">
+            <path d="M3.2 9 4.75 4.2a1 1 0 0 1 .95-.7h12.6a1 1 0 0 1 .95.7L20.8 9"/>
+            <path d="M3.2 9a2.93 2.93 0 0 0 5.87 0 2.93 2.93 0 0 0 5.86 0 2.93 2.93 0 0 0 5.87 0"/>
+            <path d="M5.2 12.2V18M18.8 12.2V18M3.2 18h17.6"/>
+            <path d="M9.6 18v-3.2a.8.8 0 0 1 .8-.8h3.2a.8.8 0 0 1 .8.8V18"/>
+        </symbol>
+        <symbol id="icon-cart" viewBox="0 0 24 24">
+            <path d="M2.8 4.2h2.1l2.35 9.8a1.9 1.9 0 0 0 1.85 1.45h7.1a1.9 1.9 0 0 0 1.85-1.4l1.45-5.6H6.2"/>
+            <circle cx="9.6" cy="19.6" r="1.35"/>
+            <circle cx="17.4" cy="19.6" r="1.35"/>
+        </symbol>
+        <symbol id="icon-gamepad" viewBox="0 0 24 24">
+            <path d="M6.4 8.2h11.2a4.1 4.1 0 0 1 4 4.9l-.85 3.4a2.55 2.55 0 0 1-4.5 1.1L14.6 15.1H9.4l-1.65 2.5a2.55 2.55 0 0 1-4.5-1.1l-.85-3.4a4.1 4.1 0 0 1 4-4.9Z"/>
+            <path d="M8.1 11.4v2.6M6.8 12.7h2.6"/>
+            <circle cx="15.9" cy="12.1" r=".95" fill="currentColor" stroke="none"/>
+            <circle cx="17.9" cy="14.1" r=".95" fill="currentColor" stroke="none"/>
+        </symbol>
+        <symbol id="icon-chat" viewBox="0 0 24 24">
+            <path d="M12.3 3.6c4.8 0 8.7 3.4 8.7 7.6 0 4.2-3.9 7.6-8.7 7.6-1.1 0-2.2-.2-3.2-.55L4.2 20.4l1.35-3.9C4.25 15.2 3.5 13.5 3.5 11.2c0-4.2 3.9-7.6 8.8-7.6Z"/>
+            <circle cx="8.6" cy="11.2" r=".95" fill="currentColor" stroke="none"/>
+            <circle cx="12.3" cy="11.2" r=".95" fill="currentColor" stroke="none"/>
+            <circle cx="16" cy="11.2" r=".95" fill="currentColor" stroke="none"/>
+        </symbol>
+        <symbol id="icon-money" viewBox="0 0 24 24">
+            <rect x="2.8" y="6.4" width="18.4" height="11.2" rx="2.4"/>
+            <circle cx="12" cy="12" r="2.6"/>
+            <path d="M6.4 10.2v3.6M17.6 10.2v3.6"/>
+        </symbol>
+        <symbol id="icon-cap" viewBox="0 0 24 24">
+            <path d="M2.6 9.4 12 4.8l9.4 4.6-9.4 4.6L2.6 9.4Z"/>
+            <path d="M6.2 11.6v4.6c0 1.7 2.6 3 5.8 3s5.8-1.3 5.8-3v-4.6"/>
+            <path d="M21.4 9.4v5.2"/>
+        </symbol>
+        <symbol id="icon-medical" viewBox="0 0 24 24">
+            <rect x="3.6" y="3.6" width="16.8" height="16.8" rx="4.4"/>
+            <path d="M12 8.2v7.6M8.2 12h7.6"/>
+        </symbol>
+        <symbol id="icon-building" viewBox="0 0 24 24">
+            <path d="M4.2 20.6V5.8A1.8 1.8 0 0 1 6 4h6.2a1.8 1.8 0 0 1 1.8 1.8v14.8"/>
+            <path d="M14 10.4h4a1.8 1.8 0 0 1 1.8 1.8v8.4"/>
+            <path d="M2.6 20.6h18.8"/>
+            <path d="M7.4 7.6h3.2M7.4 11.4h3.2M7.4 15.2h3.2M16.6 14.2h1.2M16.6 17.4h1.2"/>
+        </symbol>
+        <symbol id="icon-media" viewBox="0 0 24 24">
+            <rect x="3.4" y="4.6" width="17.2" height="14.8" rx="3.4"/>
+            <path d="M10.4 9.2 15 12l-4.6 2.8V9.2Z" fill="currentColor" stroke="none"/>
+        </symbol>
+        <symbol id="icon-tool" viewBox="0 0 24 24">
+            <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/>
+        </symbol>
+        <symbol id="icon-landmark" viewBox="0 0 24 24">
+            <path d="M3 9.8 12 4.4l9 5.4H3Z"/>
+            <path d="M5.4 9.8v10.8M9.8 9.8v10.8M14.2 9.8v10.8M18.6 9.8v10.8"/>
+            <path d="M2.8 20.6h18.4"/>
+        </symbol>
+        <symbol id="icon-grid" viewBox="0 0 24 24">
+            <rect x="3.6" y="3.6" width="7" height="7" rx="1.8"/>
+            <rect x="13.4" y="3.6" width="7" height="7" rx="1.8"/>
+            <rect x="3.6" y="13.4" width="7" height="7" rx="1.8"/>
+            <rect x="13.4" y="13.4" width="7" height="7" rx="1.8"/>
+        </symbol>
+        <symbol id="icon-download" viewBox="0 0 24 24">
+            <path d="M12 4.2v10.2"/>
+            <path d="m7.8 10.6 4.2 4.2 4.2-4.2"/>
+            <path d="M5 19.4h14"/>
+        </symbol>
+        <symbol id="icon-external" viewBox="0 0 24 24">
+            <path d="M14.2 4.2h5.6v5.6"/>
+            <path d="M20 4.2 11.4 12.8"/>
+            <path d="M18.2 13.6v4.2a2.4 2.4 0 0 1-2.4 2.4H6a2.4 2.4 0 0 1-2.4-2.4V8.4A2.4 2.4 0 0 1 6 6h4.2"/>
+        </symbol>
+    </svg>
+
     <div class="header">
-        <h1>🏪 开源集市</h1>
+        <div class="header-top">
+            <span class="logo-mark" aria-hidden="true">
+                <svg class="icon"><use href="#icon-market"></use></svg>
+            </span>
+            <h1>开源集市</h1>
+        </div>
         <p>汇聚优质开源成品应用，拿过来直接用，或轻松二次开发。</p>
     </div>
 

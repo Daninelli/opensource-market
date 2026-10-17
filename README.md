@@ -1,4 +1,4 @@
-# 🏪 开源集市
+# 开源集市
 
 一个纯静态的开源成品应用导航站：把「拿来就能用、或者稍微改改就能二次开发」的开源项目集中展示出来，支持**一级分类 + 二级分类**联动筛选。
 
@@ -12,9 +12,10 @@
 
 ```
 opensource-market/
-├── index.html          # 页面结构与样式
+├── index.html          # 页面结构、样式、SVG 图标精灵
 ├── app.js              # 分类体系 + 读取 projects.json 并渲染
 ├── projects.json       # 项目数据（要新增项目改这里）
+├── favicon.svg         # 自绘站点图标
 ├── tools/
 │   └── check-data.mjs  # 数据自检脚本（分类、字段、重复仓库）
 ├── .nojekyll           # 告诉 GitHub Pages 不要用 Jekyll 处理
@@ -24,7 +25,7 @@ opensource-market/
 
 ---
 
-## ⚠️ 本地预览：不要直接双击 index.html
+## 注意：本地预览不要直接双击 index.html
 
 浏览器出于安全策略，**禁止 `file://` 页面用 fetch 读取同目录的 JSON**，所以直接双击打开会看到「数据没有加载出来」。这不是文件坏了，换一种方式打开即可：
 
@@ -82,7 +83,28 @@ git push -u origin main
 | 政务 `government` | 公众参与 `participation`、开放数据 `open-data` |
 | 其他 `other` | —（未归类项目兜底） |
 
-> 想加新分类：在 `app.js` 的 `TAXONOMY` 里加一个 `{ slug, label, children }`，同时在 `tools/check-data.mjs` 的 `TAXONOMY` 里加一行，再在 `projects.json` 里引用新 slug 即可。
+> 想加新分类：在 `app.js` 的 `TAXONOMY` 里加一个 `{ slug, label, icon, children }`，同时在 `tools/check-data.mjs` 的 `TAXONOMY` 里加一行，再在 `projects.json` 里引用新 slug 即可。
+
+---
+
+## 图标系统（全部自绘，不用 emoji）
+
+页面里没有任何 emoji 字符，所有图形都是手绘的 **24×24 线性 SVG**，定义在 `index.html` 顶部的 `<svg class="icon-sprite">` 里，用 `<use href="#icon-xxx">` 引用：
+
+| 图标 id | 用途 |
+| --- | --- |
+| `icon-market` | 站点 Logo（集市摊位） |
+| `icon-cart` / `icon-gamepad` / `icon-chat` / `icon-money` / `icon-cap` / `icon-medical` / `icon-building` / `icon-media` / `icon-tool` / `icon-landmark` / `icon-grid` | 11 个一级分类图标（依次对应电商、游戏、社交、金融、教育、医疗、企业服务、内容媒体、工具、政务、其他） |
+| `icon-download` / `icon-external` | 卡片按钮：去 GitHub 下载 / 在线演示 |
+
+约定：
+
+- 统一 `viewBox="0 0 24 24"`、`stroke-width: 1.8`、圆角端点与连接
+- 颜色一律 `currentColor`，图标会跟随文字颜色（筛选按钮选中时自动变白）
+- 尺寸用 `font-size` 控制（`.icon` 宽高为 `1em`），不用为每个位置单独写尺寸
+- 新增图标：在精灵里加一个 `<symbol id="icon-xxx" viewBox="0 0 24 24">`，JS 里用 `iconMarkup("xxx")` 引用
+
+`favicon.svg` 是同一套摊位图形的独立文件版本，浏览器标签页图标也用它。
 
 ---
 
@@ -108,17 +130,17 @@ git push -u origin main
 
 | 字段 | 必填 | 说明 |
 | --- | --- | --- |
-| `name` | ✅ | 展示名称 |
-| `repo` | ✅ | GitHub 仓库，格式 `owner/repo`，卡片按钮自动拼成 `https://github.com/owner/repo` |
-| `category` | ✅ | 一级分类中文名，必须与 `category_slug` 对应 |
-| `category_slug` | ✅ | 一级分类英文 slug，见上表 |
+| `name` | 是 | 展示名称 |
+| `repo` | 是 | GitHub 仓库，格式 `owner/repo`，卡片按钮自动拼成 `https://github.com/owner/repo` |
+| `category` | 是 | 一级分类中文名，必须与 `category_slug` 对应 |
+| `category_slug` | 是 | 一级分类英文 slug，见上表 |
 | `subcategory` | 建议 | 二级分类中文名，必须与 `subcategory_slug` 对应 |
 | `subcategory_slug` | 建议 | 二级分类英文 slug，见上表 |
-| `tech_stack` | ✅ | 技术栈标签，字符串数组 |
-| `deploy_type` | ✅ | 部署形态：前端源码 / Docker 部署 / 传统部署 / 二进制 等 |
-| `note_zh` | ✅ | 中文简介，卡片正文 |
-| `demo_url` | ✅ | 在线演示地址，没有就留空字符串 `""` |
-| `license` | ✅ | 开源协议，**请以仓库 LICENSE 文件为准** |
+| `tech_stack` | 是 | 技术栈标签，字符串数组 |
+| `deploy_type` | 是 | 部署形态：前端源码 / Docker 部署 / 传统部署 / 二进制 等 |
+| `note_zh` | 是 | 中文简介，卡片正文 |
+| `demo_url` | 是 | 在线演示地址，没有就留空字符串 `""` |
+| `license` | 是 | 开源协议，**请以仓库 LICENSE 文件为准** |
 
 ### 改完记得自检
 
@@ -126,7 +148,7 @@ git push -u origin main
 node tools/check-data.mjs
 ```
 
-它会检查 JSON 语法、必填字段、分类 slug 是否存在于分类体系、`owner/repo` 格式、是否有重复仓库，并打印各分类的项目数量。全部通过会输出 `✅ 数据检查通过`。
+它会检查 JSON 语法、必填字段、分类 slug 是否存在于分类体系、`owner/repo` 格式、是否有重复仓库，并打印各分类的项目数量。全部通过会输出 `[OK] 数据检查通过`。
 
 ---
 

@@ -59,12 +59,12 @@ let projects;
 try {
     projects = JSON.parse(raw);
 } catch (error) {
-    console.error("❌ projects.json 不是合法 JSON：", error.message);
+    console.error("[ERROR] projects.json 不是合法 JSON：", error.message);
     process.exit(1);
 }
 
 if (!Array.isArray(projects)) {
-    console.error("❌ projects.json 最外层必须是数组 []");
+    console.error("[ERROR] projects.json 最外层必须是数组 []");
     process.exit(1);
 }
 
@@ -129,9 +129,9 @@ Object.entries(TAXONOMY).forEach(([slug, meta]) => {
 });
 
 if (problems.length) {
-    console.error(`\n❌ 发现 ${problems.length} 个问题：`);
+    console.error(`\n[ERROR] 发现 ${problems.length} 个问题：`);
     problems.forEach((item) => console.error("  - " + item));
     process.exit(1);
 }
 
-console.log("\n✅ 数据检查通过");
+console.log("\n[OK] 数据检查通过");

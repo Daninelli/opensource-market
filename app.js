@@ -20,6 +20,7 @@
         {
             slug: "ecommerce",
             label: "电商",
+            icon: "cart",
             children: [
                 { slug: "headless", label: "无头电商" },
                 { slug: "storefront", label: "电商前端" },
@@ -29,6 +30,7 @@
         {
             slug: "game",
             label: "游戏",
+            icon: "gamepad",
             children: [
                 { slug: "engine", label: "游戏引擎" },
                 { slug: "client", label: "游戏客户端" }
@@ -37,6 +39,7 @@
         {
             slug: "social",
             label: "社交",
+            icon: "chat",
             children: [
                 { slug: "microblog", label: "微博客" },
                 { slug: "im", label: "即时通讯" },
@@ -46,6 +49,7 @@
         {
             slug: "finance",
             label: "金融",
+            icon: "money",
             children: [
                 { slug: "personal-finance", label: "个人财务" },
                 { slug: "investment", label: "投资管理" }
@@ -54,6 +58,7 @@
         {
             slug: "education",
             label: "教育",
+            icon: "cap",
             children: [
                 { slug: "lms", label: "在线学习" },
                 { slug: "interactive", label: "互动课程" }
@@ -62,11 +67,13 @@
         {
             slug: "medical",
             label: "医疗",
+            icon: "medical",
             children: [{ slug: "emr", label: "电子病历" }]
         },
         {
             slug: "enterprise",
             label: "企业服务",
+            icon: "building",
             children: [
                 { slug: "admin", label: "后台管理" },
                 { slug: "low-code", label: "低代码平台" },
@@ -77,6 +84,7 @@
         {
             slug: "media",
             label: "内容媒体",
+            icon: "media",
             children: [
                 { slug: "cms", label: "建站与 CMS" },
                 { slug: "streaming", label: "影音媒体" }
@@ -85,6 +93,7 @@
         {
             slug: "tool",
             label: "工具",
+            icon: "tool",
             children: [
                 { slug: "design", label: "设计工具" },
                 { slug: "notes", label: "笔记工具" },
@@ -99,6 +108,7 @@
         {
             slug: "government",
             label: "政务",
+            icon: "landmark",
             children: [
                 { slug: "participation", label: "公众参与" },
                 { slug: "open-data", label: "开放数据" }
@@ -107,6 +117,7 @@
         {
             slug: "other",
             label: "其他",
+            icon: "grid",
             children: []
         }
     ];
@@ -171,7 +182,7 @@
                 return item.label === project.category;
             })[0];
         }
-        return meta || { slug: "other", label: project.category || "其他", children: [] };
+        return meta || { slug: "other", label: project.category || "其他", icon: "grid", children: [] };
     }
 
     function resolveSubcategory(project, primary) {
@@ -217,10 +228,15 @@
         var counts = countByPrimary(state.projects);
         els.filters.innerHTML = "";
 
-        var options = [{ slug: "all", label: "全部", count: state.projects.length }];
+        var options = [{ slug: "all", label: "全部", count: state.projects.length, icon: "grid" }];
         TAXONOMY.forEach(function (item) {
             if (counts[item.slug]) {
-                options.push({ slug: item.slug, label: item.label, count: counts[item.slug] });
+                options.push({
+                    slug: item.slug,
+                    label: item.label,
+                    count: counts[item.slug],
+                    icon: item.icon
+                });
             }
         });
 
@@ -287,6 +303,7 @@
         button.setAttribute("data-slug", option.slug);
         button.setAttribute("aria-pressed", String(isActive));
         button.innerHTML =
+            (option.icon ? iconMarkup(option.icon) : "") +
             escapeHtml(option.label) + '<span class="filter-count">' + option.count + "</span>";
         button.addEventListener("click", onClick);
         return button;
@@ -374,7 +391,7 @@
         var techStack = Array.isArray(project.tech_stack) ? project.tech_stack : [];
 
         var tagsHtml =
-            '<span class="tag category">' + escapeHtml(primary.label) + "</span>" +
+            '<span class="tag category">' + iconMarkup(primary.icon) + escapeHtml(primary.label) + "</span>" +
             (sub ? '<span class="tag subcategory">' + escapeHtml(sub.label) + "</span>" : "") +
             (project.deploy_type
                 ? '<span class="tag deploy">' + escapeHtml(project.deploy_type) + "</span>"
@@ -398,10 +415,12 @@
             "</div>" +
             '<div class="actions">' +
             (repoUrl
-                ? '<a class="btn" href="' + escapeHtml(repoUrl) + '" target="_blank" rel="noopener noreferrer">去 GitHub 下载</a>'
+                ? '<a class="btn" href="' + escapeHtml(repoUrl) + '" target="_blank" rel="noopener noreferrer">' +
+                  iconMarkup("download") + "去 GitHub 下载</a>"
                 : "") +
             (demoUrl
-                ? '<a class="btn btn-demo" href="' + escapeHtml(demoUrl) + '" target="_blank" rel="noopener noreferrer">在线演示</a>'
+                ? '<a class="btn btn-demo" href="' + escapeHtml(demoUrl) + '" target="_blank" rel="noopener noreferrer">' +
+                  iconMarkup("external") + "在线演示</a>"
                 : "") +
             "</div>";
 
@@ -443,6 +462,15 @@
     }
 
     /* --------------------------- 工具函数 --------------------------- */
+
+    /** 引用 index.html 里的图标精灵：<use href="#icon-xxx"> */
+    function iconMarkup(name) {
+        return (
+            '<svg class="icon" aria-hidden="true" focusable="false"><use href="#icon-' +
+            escapeHtml(name) +
+            '"></use></svg>'
+        );
+    }
 
     function escapeHtml(value) {
         return String(value == null ? "" : value)
