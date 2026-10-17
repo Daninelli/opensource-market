@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="开源集市：汇聚优质开源成品应用，按一级 / 二级分类筛选，拿过来直接用，或轻松二次开发。">
+    <title>开源集市 · 开源成品应用集合</title>
+    <style>
+        :root {
+            --bg: #f9f9f9;
+            --card-bg: #fff;
+            --border: #eaeaea;
+            --text: #333;
+            --text-strong: #1a1a1a;
+            --text-muted: #888;
+            --accent: #2ea44f;
+            --accent-hover: #2c974b;
+            --demo: #0969da;
+            --demo-hover: #0353b4;
+        }
+
+        * { box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
+            padding: 20px;
+            background: var(--bg);
+            color: var(--text);
+            margin: 0;
+        }
+
+        .header { text-align: center; margin: 24px auto 12px; max-width: 760px; }
+        .header h1 { margin: 0 0 10px; font-size: 2rem; letter-spacing: .5px; }
+        .header p { margin: 0; color: #555; font-size: 15px; line-height: 1.6; }
+
+        /* ---------- 分类筛选 ---------- */
+        .filters-wrap {
+            max-width: 1200px;
+            margin: 0 auto 10px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .filters, .subfilters {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            justify-content: center;
+        }
+
+        .subfilters {
+            padding: 10px 12px;
+            background: #fff;
+            border: 1px solid var(--border);
+            border-radius: 10px;
+        }
+
+        /* 注意：.subfilters 的 display 会覆盖 UA 的 [hidden]{display:none}，必须显式补一条 */
+        .subfilters[hidden] { display: none; }
+
+        .filter-btn {
+            font: inherit;
+            font-size: 13px;
+            line-height: 1;
+            padding: 8px 12px;
+            border-radius: 999px;
+            border: 1px solid #dcdcdc;
+            background: #fff;
+            color: #444;
+            cursor: pointer;
+            transition: all .15s;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .filter-btn:hover { border-color: #b9b9b9; background: #f5f5f5; }
+        .filter-btn:focus-visible { outline: 2px solid #0969da; outline-offset: 2px; }
+
+        .filter-btn--sub { font-size: 12.5px; padding: 7px 11px; border-style: dashed; }
+
+        .filter-btn.is-active {
+            background: #1f6feb;
+            border-color: #1f6feb;
+            color: #fff;
+            border-style: solid;
+        }
+
+        .filter-count {
+            font-size: 11px;
+            padding: 1px 6px;
+            border-radius: 999px;
+            background: #eef1f4;
+            color: #666;
+        }
+        .filter-btn.is-active .filter-count { background: rgba(255, 255, 255, .25); color: #fff; }
+
+        .status {
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 13px;
+            margin: 0 auto 24px;
+            min-height: 18px;
+            padding: 0 12px;
+        }
+
+        /* ---------- 卡片网格 ---------- */
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding-bottom: 40px;
+        }
+
+        .card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, .02);
+            transition: transform .2s, box-shadow .2s;
+            display: flex;
+            flex-direction: column;
+        }
+        .card:hover { transform: translateY(-3px); box-shadow: 0 6px 12px rgba(0, 0, 0, .08); }
+        .card h3 { margin: 0 0 10px; color: var(--text-strong); font-size: 1.2rem; line-height: 1.3; }
+
+        .tags { margin-bottom: 15px; }
+        .tag {
+            display: inline-block;
+            background: #e0f2fe;
+            color: #0369a1;
+            padding: 3px 10px;
+            border-radius: 12px;
+            font-size: 12px;
+            margin: 0 5px 5px 0;
+            white-space: nowrap;
+        }
+        .tag.category { background: #ecfdf5; color: #047857; font-weight: 600; }
+        .tag.subcategory { background: #f5f3ff; color: #6d28d9; }
+        .tag.deploy { background: #fdf4ff; color: #c026d3; }
+
+        .desc { color: #555; font-size: 14px; line-height: 1.6; flex-grow: 1; margin-bottom: 15px; }
+        .meta { font-size: 13px; color: var(--text-muted); margin-bottom: 15px; line-height: 1.6; }
+        .meta strong { color: #666; }
+        .meta code { font-size: 12px; color: #666; }
+
+        .actions { display: flex; gap: 10px; margin-top: auto; }
+        .btn {
+            display: inline-block;
+            padding: 8px 16px;
+            background: var(--accent);
+            color: #fff;
+            text-decoration: none;
+            border-radius: 6px;
+            font-size: 14px;
+            text-align: center;
+            flex: 1;
+            transition: background .2s;
+        }
+        .btn:hover { background: var(--accent-hover); }
+        .btn-demo { background: var(--demo); }
+        .btn-demo:hover { background: var(--demo-hover); }
+
+        .placeholder, .error {
+            grid-column: 1 / -1;
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 14px;
+            line-height: 1.8;
+        }
+        .error {
+            background: #fff;
+            border: 1px solid #f3d6d6;
+            border-radius: 10px;
+            padding: 24px;
+            color: #7a2b2b;
+            text-align: left;
+            max-width: 820px;
+            margin: 0 auto;
+        }
+        .error h2 { margin: 0 0 12px; font-size: 1.1rem; color: #8b1a1a; }
+        .error p { margin: 0 0 10px; }
+        .error pre {
+            background: #f6f8fa;
+            border: 1px solid #e5e7eb;
+            border-radius: 6px;
+            padding: 10px 12px;
+            overflow-x: auto;
+            font-size: 13px;
+            color: #24292f;
+        }
+
+        .footer { text-align: center; color: #aaa; font-size: 12px; padding: 10px 0 40px; }
+        .footer a { color: #999; }
+
+        @media (max-width: 480px) {
+            body { padding: 14px; }
+            .header h1 { font-size: 1.6rem; }
+            .grid-container { grid-template-columns: 1fr; }
+            .filter-btn { font-size: 12px; padding: 7px 10px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🏪 开源集市</h1>
+        <p>汇聚优质开源成品应用，拿过来直接用，或轻松二次开发。</p>
+    </div>
+
+    <div class="filters-wrap">
+        <nav id="filters" class="filters" aria-label="按一级分类筛选"></nav>
+        <nav id="subfilters" class="subfilters" aria-label="按二级分类筛选" hidden></nav>
+    </div>
+
+    <p id="status" class="status">正在加载开源项目...</p>
+
+    <div id="app" class="grid-container">
+        <p class="placeholder">正在加载开源项目...</p>
+    </div>
+
+    <div class="footer">
+        数据源：<code>projects.json</code> · 收录项目均为各自作者开源，使用时请遵守对应协议
+    </div>
+
+    <noscript>
+        <p class="error">这个页面需要启用 JavaScript 才能渲染项目卡片。</p>
+    </noscript>
+
+    <script src="app.js"></script>
+</body>
+</html>

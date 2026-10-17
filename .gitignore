@@ -1,0 +1,13 @@
+# 系统垃圾文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 依赖 / 构建产物
+node_modules/
+dist/
