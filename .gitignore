@@ -11,3 +11,7 @@ Desktop.ini
 # 依赖 / 构建产物
 node_modules/
 dist/
+
+# 本地 Git 凭据（勿提交）
+.git-credentials
+*git-credentials

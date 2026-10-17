@@ -371,14 +371,18 @@
                 return '<span class="chip-tag">' + escapeHtml(item) + "</span>";
             }).join("");
 
-        /* 统计信息：stars / 最近更新（数据里没有就不显示） */
-        var stats = "";
-        if (typeof project.stars === "number" && project.stars > 0) {
-            stats += '<span class="stat-item">' + iconMarkup("star") + formatCount(project.stars) + "</span>";
-        }
-        if (project.updated_at) {
-            stats += '<span class="stat-item">' + iconMarkup("clock") + relativeTime(project.updated_at) + "</span>";
-        }
+        /* 统计行：star 固定在第一位，更新时间紧随其后。
+           两个槽位都固定占位，这样同行卡片的横线才对齐 */
+        var starsCell =
+            typeof project.stars === "number" && project.stars > 0
+                ? '<span class="stat-item">' + iconMarkup("star") + formatCount(project.stars) + "</span>"
+                : '<span class="stat-item is-empty">' + iconMarkup("star") + "0</span>";
+
+        var timeCell = project.updated_at
+            ? '<span class="stat-item">' + iconMarkup("clock") + relativeTime(project.updated_at) + "</span>"
+            : '<span class="stat-item is-empty">' + iconMarkup("clock") + "更新时间待补充</span>";
+
+        var stats = starsCell + timeCell;
 
         /* 源码 zip：codeload 直链 */
         var sourceUrl = project.download_url || (project.repo ? "https://github.com/" + project.repo : "");
@@ -425,7 +429,7 @@
             "</span>" +
             "</div></div>" +
             '<p class="desc">' + escapeHtml(project.note_zh || "暂无简介") + "</p>" +
-            (stats ? '<div class="stats-row">' + stats + "</div>" : "") +
+            '<div class="stats-row">' + stats + "</div>" +
             '<div class="tags">' + tags + "</div>" +
             '<div class="card-foot">' +
             '<div class="dl-group">' +

@@ -266,6 +266,8 @@
             padding: 16px 18px;
             display: flex;
             flex-direction: column;
+            /* 关键：等高时由最高的卡片决定，同行卡片一起拉齐 */
+            height: 100%;
             gap: 10px;
             box-shadow: 0 1px 2px rgba(17, 24, 39, .04);
             transition: transform .18s, box-shadow .18s, border-color .18s;
@@ -279,8 +281,8 @@
         .card-top { display: flex; align-items: flex-start; gap: 10px; }
         .card-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 10px; }
         .card-top > div { min-width: 0; flex: 1; }
-        .title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 10px; }
-        .card h3 { margin: 0; font-size: 1.02rem; color: var(--ink); line-height: 1.4; min-width: 0; }
+        .title-row { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; }
+        .card h3 { margin: 0; font-size: 1.02rem; color: var(--ink); line-height: 20px; min-width: 0; }
         .card .repo {
             display: inline-block;
             margin-top: 2px;
@@ -290,20 +292,45 @@
             word-break: break-all;
         }
 
+        /* 定高槽位：保证同一行卡片的横线对齐 */
         .desc {
             margin: 0;
             font-size: 13.5px;
-            line-height: 1.5;
+            line-height: 20px;
+            height: 20px;            /* 固定一行高 */
             color: #4b5563;
-            /* 桌面：单行省略，保持卡片高度整齐 */
             white-space: nowrap;
             overflow: hidden;
             text-overflow: ellipsis;
         }
 
-        .tags { display: flex; flex-wrap: wrap; gap: 6px; }
+        /* 标签固定一行，超出用省略号，避免有的换行有的不换 */
+        .tags {
+            display: flex;
+            flex-wrap: nowrap;
+            gap: 6px;
+            height: 22px;             /* 固定一行高 */
+            overflow: hidden;
+            align-items: center;
+        }
+        .tags .chip-tag {
+            white-space: nowrap;
+            flex: none;
+            max-width: 140px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
 
-        .stats-row { display: flex; gap: 14px; align-items: center; margin: -2px 0 0; }
+        /* 统计行固定高度：没有数据时也占位，保证下方按钮对齐 */
+        .stats-row {
+            display: flex;
+            gap: 14px;
+            align-items: center;
+            height: 18px;
+            margin: -2px 0 0;
+            overflow: hidden;
+            white-space: nowrap;
+        }
         .stat-item {
             display: inline-flex;
             align-items: center;
@@ -313,6 +340,8 @@
         }
         .stat-item .icon { font-size: 13px; color: #c0c4ca; }
         .stat-item:first-child .icon { color: #e0a30a; }
+        .stat-item.is-empty { color: #bcc1c8; }
+        .stat-item.is-empty .icon { color: #d5d9de; }
         .chip-tag {
             font-size: 11.5px;
             padding: 3px 8px;
@@ -328,7 +357,8 @@
             align-items: center;
             justify-content: flex-end;
             gap: 10px;
-            margin-top: 2px;
+            margin-top: auto;     /* 关键：按钮永远贴卡片底部，同行卡片横向对齐 */
+            padding-top: 2px;
             flex-wrap: wrap;
         }
         .dl-group {
@@ -413,10 +443,12 @@
             color: var(--muted);
             background: #fafbfc;
             border: 1px solid var(--border);
-            padding: 2px 8px;
+            padding: 1px 8px;
             border-radius: 6px;
             white-space: nowrap;
             flex: none;
+            line-height: 16px;
+            align-self: flex-start;
         }
 
         .btn {
