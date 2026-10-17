@@ -15,7 +15,8 @@
     "note_zh": "模块化的开源电商后端，商品、订单、支付、库存都有完整 API，可搭配任意前端做无头商城。",
     "license": "MIT",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/medusajs/medusa/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/medusajs/medusa/zip/refs/heads/master",
+    "stars": 36780
   },
   {
     "name": "Saleor",
@@ -34,7 +35,8 @@
     "note_zh": "高性能无头电商平台，GraphQL 优先，自带后台管理界面，适合中大型 B2C 商城和定制化交易场景。",
     "license": "BSD-3-Clause",
     "default_branch": "main",
-    "download_url": "https://codeload.github.com/saleor/saleor/zip/refs/heads/main"
+    "download_url": "https://codeload.github.com/saleor/saleor/zip/refs/heads/main",
+    "stars": 23449
   },
   {
     "name": "Sylius",
@@ -51,7 +53,8 @@
     "note_zh": "Symfony 生态里的无头电商框架，组件化设计、测试覆盖好，适合需要深度定制业务流程的电商项目。",
     "license": "MIT",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/Sylius/Sylius/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/Sylius/Sylius/zip/refs/heads/master",
+    "stars": 8559
   },
   {
     "name": "Next.js Commerce",
@@ -69,7 +72,8 @@
     "note_zh": "Vercel 官方的电商前端模板，接上任意电商后端即可上线，适合做轻量独立站和品牌官网商城。",
     "license": "MIT",
     "default_branch": "main",
-    "download_url": "https://codeload.github.com/vercel/commerce/zip/refs/heads/main"
+    "download_url": "https://codeload.github.com/vercel/commerce/zip/refs/heads/main",
+    "stars": 14309
   },
   {
     "name": "Bagisto",
@@ -87,7 +91,8 @@
     "note_zh": "基于 Laravel 的开源电商与多商户市场系统，自带前后台、多语言和多币种，适合中小商家自建商城。",
     "license": "MIT",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/bagisto/bagisto/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/bagisto/bagisto/zip/refs/heads/master",
+    "stars": 28246
   },
   {
     "name": "Godot Engine",
@@ -104,7 +109,8 @@
     "note_zh": "完整开源的游戏引擎，编辑器、2D/3D 渲染和导出管线全都自带，独立游戏和小型商业项目都能直接用。",
     "license": "MIT",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/godotengine/godot/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/godotengine/godot/zip/refs/heads/master",
+    "stars": 118552
   },
   {
     "name": "Luanti（原 Minetest）",
@@ -121,7 +127,8 @@
     "note_zh": "开源体素沙盒游戏引擎，玩法类似 Minecraft，可自建服务器、装模组，配置要求低，适合做沙盒类产品底座。",
     "license": "LGPL-2.1",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/minetest/minetest/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/minetest/minetest/zip/refs/heads/master",
+    "stars": 13735
   },
   {
     "name": "OpenRA",
@@ -138,7 +145,8 @@
     "note_zh": "红警、泰伯利亚黎明等经典即时战略游戏的开源重制版，自带地图编辑器和联机对战，Windows / macOS / Linux 都能跑。",
     "license": "GPL-3.0",
     "default_branch": "bleed",
-    "download_url": "https://codeload.github.com/OpenRA/OpenRA/zip/refs/heads/bleed"
+    "download_url": "https://codeload.github.com/OpenRA/OpenRA/zip/refs/heads/bleed",
+    "stars": 17581
   },
   {
     "name": "Mastodon",
@@ -155,7 +163,8 @@
     "note_zh": "去中心化的开源微博客，可以自建实例并与其他实例互联，适合搭建垂直社区或品牌社区。",
     "license": "AGPL-3.0",
     "default_branch": "main",
-    "download_url": "https://codeload.github.com/mastodon/mastodon/zip/refs/heads/main"
+    "download_url": "https://codeload.github.com/mastodon/mastodon/zip/refs/heads/main",
+    "stars": 50413
   },
   {
     "name": "Element Web",
@@ -173,7 +182,8 @@
     "note_zh": "Matrix 协议的官方 Web 客户端，可对接自建 homeserver，用来做团队即时通讯和端到端加密聊天。",
     "license": "AGPL-3.0",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/element-hq/element-web/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/element-hq/element-web/zip/refs/heads/master",
+    "stars": 13585
   },
   {
     "name": "Discourse",
@@ -190,7 +200,8 @@
     "note_zh": "老牌开源论坛系统，社区功能完整、SEO 友好，很多技术社区和产品社区都在用。",
     "license": "GPL-2.0",
     "default_branch": "main",
-    "download_url": "https://codeload.github.com/discourse/discourse/zip/refs/heads/main"
+    "download_url": "https://codeload.github.com/discourse/discourse/zip/refs/heads/main",
+    "stars": 47988
   },
   {
     "name": "Firefly III",
@@ -208,7 +219,8 @@
     "note_zh": "自托管的个人财务管理工具，支持多账户、预算、账单和报表，财务数据完全留在自己服务器上。",
     "license": "AGPL-3.0",
     "default_branch": "main",
-    "download_url": "https://codeload.github.com/firefly-iii/firefly-iii/zip/refs/heads/main"
+    "download_url": "https://codeload.github.com/firefly-iii/firefly-iii/zip/refs/heads/main",
+    "stars": 24917
   },
   {
     "name": "Actual Budget",
@@ -225,7 +237,8 @@
     "note_zh": "本地优先的个人记账工具，信封预算、银行流水导入和多端同步都有，可以自建服务端完全掌握数据。",
     "license": "MIT",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/actualbudget/actual/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/actualbudget/actual/zip/refs/heads/master",
+    "stars": 29573
   },
   {
     "name": "Ghostfolio",
@@ -243,7 +256,8 @@
     "note_zh": "开源的投资组合追踪工具，统一管理股票、ETF 和加密资产持仓，自动计算收益与资产配置比例。",
     "license": "AGPL-3.0",
     "default_branch": "main",
-    "download_url": "https://codeload.github.com/ghostfolio/ghostfolio/zip/refs/heads/main"
+    "download_url": "https://codeload.github.com/ghostfolio/ghostfolio/zip/refs/heads/main",
+    "stars": 9496
   },
   {
     "name": "Moodle",
@@ -260,7 +274,8 @@
     "note_zh": "老牌开源在线学习平台（LMS），课程、作业、测验、成绩管理一整套都有，学校和企业的培训系统常用。",
     "license": "GPL-3.0",
     "default_branch": "main",
-    "download_url": "https://codeload.github.com/moodle/moodle/zip/refs/heads/main"
+    "download_url": "https://codeload.github.com/moodle/moodle/zip/refs/heads/main",
+    "stars": 7489
   },
   {
     "name": "Oppia",
@@ -277,7 +292,8 @@
     "note_zh": "开源互动课程平台，用来创建和分享可交互的课程内容，适合做在线教育产品的原型或教学工具。",
     "license": "Apache-2.0",
     "default_branch": "develop",
-    "download_url": "https://codeload.github.com/oppia/oppia/zip/refs/heads/develop"
+    "download_url": "https://codeload.github.com/oppia/oppia/zip/refs/heads/develop",
+    "stars": 6865
   },
   {
     "name": "OpenEMR",
@@ -294,7 +310,8 @@
     "note_zh": "使用最广的开源电子病历与诊所管理系统，覆盖预约排班、处方、账单和病历记录。",
     "license": "GPL-3.0",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/openemr/openemr/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/openemr/openemr/zip/refs/heads/master",
+    "stars": 5530
   },
   {
     "name": "Vue Vben Admin",
@@ -313,7 +330,8 @@
     "note_zh": "开箱即用的中后台管理系统模板，自带权限控制、动态菜单和大量业务组件，适合直接拿来做企业级后台项目。",
     "license": "MIT",
     "default_branch": "main",
-    "download_url": "https://codeload.github.com/vbenjs/vue-vben-admin/zip/refs/heads/main"
+    "download_url": "https://codeload.github.com/vbenjs/vue-vben-admin/zip/refs/heads/main",
+    "stars": 33623
   },
   {
     "name": "Vue Pure Admin",
@@ -332,7 +350,8 @@
     "note_zh": "全面 ESM 编写的 Vue3 后台管理系统，兼容移动端，主题系统和权限方案都比较完整，中文文档友好。",
     "license": "MIT",
     "default_branch": "main",
-    "download_url": "https://codeload.github.com/pure-admin/vue-pure-admin/zip/refs/heads/main"
+    "download_url": "https://codeload.github.com/pure-admin/vue-pure-admin/zip/refs/heads/main",
+    "stars": 20697
   },
   {
     "name": "Ant Design Pro",
@@ -351,7 +370,8 @@
     "note_zh": "蚂蚁开源的中后台前端解决方案，脚手架、组件、图表和权限一应俱全，生态成熟、中文资料最多。",
     "license": "MIT",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/ant-design/ant-design-pro/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/ant-design/ant-design-pro/zip/refs/heads/master",
+    "stars": 38862
   },
   {
     "name": "Appsmith",
@@ -369,7 +389,8 @@
     "note_zh": "可视化搭建内部工具和后台面板，拖拽组件连接 25+ 数据库和任意 API，适合快速交付管理后台。",
     "license": "Apache-2.0",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/appsmithorg/appsmith/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/appsmithorg/appsmith/zip/refs/heads/master",
+    "stars": 41077
   },
   {
     "name": "ToolJet",
@@ -387,7 +408,8 @@
     "note_zh": "开源内部工具搭建平台，可连接数据库与第三方接口，支持工作流和 AI 生成页面，常被当作 Retool 的开源替代。",
     "license": "AGPL-3.0",
     "default_branch": "main",
-    "download_url": "https://codeload.github.com/ToolJet/ToolJet/zip/refs/heads/main"
+    "download_url": "https://codeload.github.com/ToolJet/ToolJet/zip/refs/heads/main",
+    "stars": 41103
   },
   {
     "name": "NocoDB",
@@ -405,7 +427,8 @@
     "note_zh": "开源的 Airtable 替代品，能把任何数据库变成智能表格，适合团队协作和低代码数据管理。",
     "license": "AGPL-3.0",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/nocodb/nocodb/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/nocodb/nocodb/zip/refs/heads/master",
+    "stars": 65291
   },
   {
     "name": "Metabase",
@@ -423,7 +446,8 @@
     "note_zh": "开箱即用的 BI 工具，连上数据库就能拖拽出图表和看板，业务同学也能自己查数据。",
     "license": "AGPL-3.0",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/metabase/metabase/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/metabase/metabase/zip/refs/heads/master",
+    "stars": 49712
   },
   {
     "name": "Apache Superset",
@@ -441,7 +465,8 @@
     "note_zh": "Apache 旗下的数据可视化平台，图表类型丰富、自带 SQL 编辑器，适合做企业内部数据看板。",
     "license": "Apache-2.0",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/apache/superset/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/apache/superset/zip/refs/heads/master",
+    "stars": 75185
   },
   {
     "name": "Grafana",
@@ -459,7 +484,8 @@
     "note_zh": "监控与可观测性看板的事实标准，对接 Prometheus、Loki 等数据源，做运维监控和指标展示的首选。",
     "license": "AGPL-3.0",
     "default_branch": "main",
-    "download_url": "https://codeload.github.com/grafana/grafana/zip/refs/heads/main"
+    "download_url": "https://codeload.github.com/grafana/grafana/zip/refs/heads/main",
+    "stars": 77332
   },
   {
     "name": "Nextcloud",
@@ -477,7 +503,8 @@
     "note_zh": "自建的私有云盘与协作套件，文件同步、在线文档、日历、视频会议都有，可以整体替代网盘。",
     "license": "AGPL-3.0",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/nextcloud/server/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/nextcloud/server/zip/refs/heads/master",
+    "stars": 37157
   },
   {
     "name": "Chatwoot",
@@ -494,7 +521,8 @@
     "note_zh": "开源的在线客服与多渠道工单系统，把网站聊天、邮件、WhatsApp 等消息汇总到一个收件箱。",
     "license": "MIT",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/chatwoot/chatwoot/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/chatwoot/chatwoot/zip/refs/heads/master",
+    "stars": 37890
   },
   {
     "name": "Wekan",
@@ -511,7 +539,8 @@
     "note_zh": "开源看板工具，Trello 的自托管替代，支持泳道、卡片、成员分配和标签，适合小团队排任务。",
     "license": "MIT",
     "default_branch": "main",
-    "download_url": "https://codeload.github.com/wekan/wekan/zip/refs/heads/main"
+    "download_url": "https://codeload.github.com/wekan/wekan/zip/refs/heads/main",
+    "stars": 21123
   },
   {
     "name": "Halo",
@@ -529,7 +558,8 @@
     "note_zh": "国内流行的开源建站与博客系统，后台体验好、插件主题生态完善，适合个人站点和小团队官网。",
     "license": "GPL-3.0",
     "default_branch": "main",
-    "download_url": "https://codeload.github.com/halo-dev/halo/zip/refs/heads/main"
+    "download_url": "https://codeload.github.com/halo-dev/halo/zip/refs/heads/main",
+    "stars": 39947
   },
   {
     "name": "WordPress",
@@ -546,7 +576,8 @@
     "note_zh": "全球使用最广的建站系统，主题和插件生态极其丰富，博客、企业站、电商都能做。",
     "license": "GPL-2.0",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/WordPress/WordPress/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/WordPress/WordPress/zip/refs/heads/master",
+    "stars": 21477
   },
   {
     "name": "Jellyfin",
@@ -564,7 +595,8 @@
     "note_zh": "完全开源的媒体服务器，把本地影视音乐变成家庭影院，客户端覆盖电视、手机和浏览器。",
     "license": "GPL-2.0",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/jellyfin/jellyfin/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/jellyfin/jellyfin/zip/refs/heads/master",
+    "stars": 58156
   },
   {
     "name": "Navidrome",
@@ -581,7 +613,8 @@
     "note_zh": "自托管音乐流媒体服务，扫描本地音乐库后可在浏览器和手机上随时听，兼容 Subsonic 客户端。",
     "license": "GPL-3.0",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/navidrome/navidrome/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/navidrome/navidrome/zip/refs/heads/master",
+    "stars": 24203
   },
   {
     "name": "Penpot",
@@ -598,7 +631,8 @@
     "note_zh": "开源的设计与原型协作平台，Figma 的自托管替代，支持多人实时协作、组件库和设计稿交付。",
     "license": "MPL-2.0",
     "default_branch": "main",
-    "download_url": "https://codeload.github.com/penpot/penpot/zip/refs/heads/main"
+    "download_url": "https://codeload.github.com/penpot/penpot/zip/refs/heads/main",
+    "stars": 61273
   },
   {
     "name": "Excalidraw",
@@ -616,7 +650,8 @@
     "note_zh": "手绘风格的白板画图工具，画架构图、流程图和脑图都很顺手，支持导出 PNG/SVG 和多人协作。",
     "license": "MIT",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/excalidraw/excalidraw/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/excalidraw/excalidraw/zip/refs/heads/master",
+    "stars": 134045
   },
   {
     "name": "draw.io",
@@ -633,7 +668,8 @@
     "note_zh": "老牌免费流程图工具，支持 UML、网络拓扑、泳道图等，可离线部署成团队内部的画图站。",
     "license": "Apache-2.0",
     "default_branch": "dev",
-    "download_url": "https://codeload.github.com/jgraph/drawio/zip/refs/heads/dev"
+    "download_url": "https://codeload.github.com/jgraph/drawio/zip/refs/heads/dev",
+    "stars": 8836
   },
   {
     "name": "Memos",
@@ -650,7 +686,8 @@
     "note_zh": "一个极简的自托管备忘录中心，界面类似 Flomo，支持 Markdown 和标签，资源占用极低。",
     "license": "MIT",
     "default_branch": "main",
-    "download_url": "https://codeload.github.com/usememos/memos/zip/refs/heads/main"
+    "download_url": "https://codeload.github.com/usememos/memos/zip/refs/heads/main",
+    "stars": 63867
   },
   {
     "name": "Joplin",
@@ -668,7 +705,8 @@
     "note_zh": "跨平台开源笔记应用，支持 Markdown、端到端加密和自建同步服务，可替代 Evernote。",
     "license": "AGPL-3.0",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/laurent22/joplin/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/laurent22/joplin/zip/refs/heads/master",
+    "stars": 56776
   },
   {
     "name": "AppFlowy",
@@ -685,7 +723,8 @@
     "note_zh": "开源的知识库与项目管理工具，Notion 的自托管替代，数据完全掌握在自己手里。",
     "license": "AGPL-3.0",
     "default_branch": "main",
-    "download_url": "https://codeload.github.com/AppFlowy-IO/AppFlowy/zip/refs/heads/main"
+    "download_url": "https://codeload.github.com/AppFlowy-IO/AppFlowy/zip/refs/heads/main",
+    "stars": 77508
   },
   {
     "name": "PhotoPrism",
@@ -703,7 +742,8 @@
     "note_zh": "自带 AI 识别的自托管相册，能按人物、地点、画面内容自动分类，适合替代网盘管理家庭照片。",
     "license": "AGPL-3.0",
     "default_branch": "develop",
-    "download_url": "https://codeload.github.com/photoprism/photoprism/zip/refs/heads/develop"
+    "download_url": "https://codeload.github.com/photoprism/photoprism/zip/refs/heads/develop",
+    "stars": 40311
   },
   {
     "name": "Immich",
@@ -721,7 +761,8 @@
     "note_zh": "高性能自托管照片视频备份方案，手机端自动备份、人脸识别、时间轴浏览，体验接近 Google Photos。",
     "license": "AGPL-3.0",
     "default_branch": "main",
-    "download_url": "https://codeload.github.com/immich-app/immich/zip/refs/heads/main"
+    "download_url": "https://codeload.github.com/immich-app/immich/zip/refs/heads/main",
+    "stars": 116471
   },
   {
     "name": "Supabase",
@@ -739,7 +780,8 @@
     "note_zh": "Firebase 的开源替代，一个 Postgres 数据库搞定鉴权、存储、实时订阅和边缘函数，前后端都能直接接。",
     "license": "Apache-2.0",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/supabase/supabase/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/supabase/supabase/zip/refs/heads/master",
+    "stars": 111682
   },
   {
     "name": "Appwrite",
@@ -757,7 +799,8 @@
     "note_zh": "自托管的后端服务平台，提供用户认证、数据库、文件存储、云函数等能力，移动端和 Web 都能直接用。",
     "license": "BSD-3-Clause",
     "default_branch": "main",
-    "download_url": "https://codeload.github.com/appwrite/appwrite/zip/refs/heads/main"
+    "download_url": "https://codeload.github.com/appwrite/appwrite/zip/refs/heads/main",
+    "stars": 57714
   },
   {
     "name": "n8n",
@@ -775,7 +818,8 @@
     "note_zh": "可视化的自动化工作流平台，400+ 集成节点，支持自托管，适合把各种重复的跨系统工作串起来。",
     "license": "Sustainable Use License",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/n8n-io/n8n/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/n8n-io/n8n/zip/refs/heads/master",
+    "stars": 207794
   },
   {
     "name": "Uptime Kuma",
@@ -793,7 +837,8 @@
     "note_zh": "自托管的网站与接口监控工具，支持 HTTP/TCP/Ping 监控和多种告警通知，界面清爽、部署简单。",
     "license": "MIT",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/louislam/uptime-kuma/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/louislam/uptime-kuma/zip/refs/heads/master",
+    "stars": 92567
   },
   {
     "name": "IT-Tools",
@@ -810,7 +855,8 @@
     "note_zh": "开发者在线工具箱，JSON 格式化、Base64、正则测试、时间戳转换等几十个小工具一站搞定，可自建。",
     "license": "GPL-3.0",
     "default_branch": "main",
-    "download_url": "https://codeload.github.com/CorentinTh/it-tools/zip/refs/heads/main"
+    "download_url": "https://codeload.github.com/CorentinTh/it-tools/zip/refs/heads/main",
+    "stars": 40882
   },
   {
     "name": "FreshRSS",
@@ -827,7 +873,8 @@
     "note_zh": "自托管的 RSS 阅读器，支持多用户和手机端，适合把关注的信息源集中起来一次性读完。",
     "license": "AGPL-3.0",
     "default_branch": "edge",
-    "download_url": "https://codeload.github.com/FreshRSS/FreshRSS/zip/refs/heads/edge"
+    "download_url": "https://codeload.github.com/FreshRSS/FreshRSS/zip/refs/heads/edge",
+    "stars": 16308
   },
   {
     "name": "Hoppscotch",
@@ -844,7 +891,8 @@
     "note_zh": "开源的接口调试工具，Postman 的轻量替代，支持 REST、GraphQL、WebSocket，浏览器打开即用。",
     "license": "MIT",
     "default_branch": "main",
-    "download_url": "https://codeload.github.com/hoppscotch/hoppscotch/zip/refs/heads/main"
+    "download_url": "https://codeload.github.com/hoppscotch/hoppscotch/zip/refs/heads/main",
+    "stars": 80636
   },
   {
     "name": "Gogs",
@@ -862,7 +910,8 @@
     "note_zh": "轻量级自建 Git 服务，一个二进制文件就能跑，资源占用低，适合小团队内部代码托管。",
     "license": "MIT",
     "default_branch": "main",
-    "download_url": "https://codeload.github.com/gogs/gogs/zip/refs/heads/main"
+    "download_url": "https://codeload.github.com/gogs/gogs/zip/refs/heads/main",
+    "stars": 47879
   },
   {
     "name": "Meilisearch",
@@ -878,7 +927,8 @@
     "note_zh": "轻量级全文搜索引擎，自带中文和拼音支持，几行代码就能给应用加上搜索框。",
     "license": "MIT",
     "default_branch": "main",
-    "download_url": "https://codeload.github.com/meilisearch/meilisearch/zip/refs/heads/main"
+    "download_url": "https://codeload.github.com/meilisearch/meilisearch/zip/refs/heads/main",
+    "stars": 59590
   },
   {
     "name": "Decidim",
@@ -895,7 +945,8 @@
     "note_zh": "开源的参与式民主平台，用来做公众提案、投票和社区议事，多个城市的政府数字化项目在用。",
     "license": "AGPL-3.0",
     "default_branch": "develop",
-    "download_url": "https://codeload.github.com/decidim/decidim/zip/refs/heads/develop"
+    "download_url": "https://codeload.github.com/decidim/decidim/zip/refs/heads/develop",
+    "stars": 1829
   },
   {
     "name": "CKAN",
@@ -913,7 +964,8 @@
     "note_zh": "开源数据门户平台，政府和研究机构用它发布开放数据集，自带检索、元数据管理和开放 API。",
     "license": "AGPL-3.0",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/ckan/ckan/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/ckan/ckan/zip/refs/heads/master",
+    "stars": 5138
   },
   {
     "name": "Home Assistant",
@@ -930,7 +982,8 @@
     "subcategory": "智能家居",
     "subcategory_slug": "smart-home",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/home-assistant/core/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/home-assistant/core/zip/refs/heads/master",
+    "stars": 91571
   },
   {
     "name": "Syncthing",
@@ -946,7 +999,8 @@
     "subcategory": "私有同步",
     "subcategory_slug": "sync",
     "default_branch": "main",
-    "download_url": "https://codeload.github.com/syncthing/syncthing/zip/refs/heads/main"
+    "download_url": "https://codeload.github.com/syncthing/syncthing/zip/refs/heads/main",
+    "stars": 89472
   },
   {
     "name": "Pi-hole",
@@ -963,7 +1017,8 @@
     "subcategory": "系统工具",
     "subcategory_slug": "system",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/pi-hole/pi-hole/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/pi-hole/pi-hole/zip/refs/heads/master",
+    "stars": 61306
   },
   {
     "name": "Paperless-ngx",
@@ -981,7 +1036,8 @@
     "subcategory": "文档归档",
     "subcategory_slug": "documents",
     "default_branch": "main",
-    "download_url": "https://codeload.github.com/paperless-ngx/paperless-ngx/zip/refs/heads/main"
+    "download_url": "https://codeload.github.com/paperless-ngx/paperless-ngx/zip/refs/heads/main",
+    "stars": 46805
   },
   {
     "name": "Krita",
@@ -998,6 +1054,7 @@
     "subcategory": "设计工具",
     "subcategory_slug": "design",
     "default_branch": "master",
-    "download_url": "https://codeload.github.com/KDE/krita/zip/refs/heads/master"
+    "download_url": "https://codeload.github.com/KDE/krita/zip/refs/heads/master",
+    "stars": 10572
   }
 ]

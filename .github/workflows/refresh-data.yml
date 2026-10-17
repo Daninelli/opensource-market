@@ -19,10 +19,11 @@ jobs:
         with:
           node-version: "20"
 
-      # actions/ 提供的令牌自带 5000 次/小时配额，足够一次刷完全部项目
-      - name: 抓取 star / 更新时间 / 默认分支
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # 用 Playwright 抓仓库网页里的 star / 更新时间（不消耗 API 配额）
+      - name: 安装浏览器
+        run: npx playwright install --with-deps chromium
+
+      - name: 抓取 star / 更新时间
         run: node tools/fetch-repo-data.mjs
 
       - name: 校验数据
