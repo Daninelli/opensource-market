@@ -1,0 +1,39 @@
+#!/bin/sh
+#
+# 提交前拦截：禁止把 token / 密钥提交进仓库
+#
+# 启用方式（只需一次）：
+#   git config core.hooksPath .githooks
+#
+# 拦截范围：GitHub token、AWS Access Key、常见私钥头
+# 如果确实要提交含密钥的测试数据，用 git commit --no-verify 跳过（不建议）
+
+patterns='github_pat_[A-Za-z0-9_]{20,}|ghp_[A-Za-z0-9]{30,}|gho_[A-Za-z0-9]{30,}|ghu_[A-Za-z0-9]{30,}|ghs_[A-Za-z0-9]{30,}|AKIA[0-9A-Z]{16}|-----BEGIN (RSA |EC |OPENSSH |PGP )?PRIVATE KEY-----'
+
+files=$(git diff --cached --name-only --diff-filter=ACM)
+[ -z "$files" ] && exit 0
+
+found=0
+for f in $files; do
+    case "$f" in
+        # 钩子脚本自身包含这些匹配规则，跳过
+        .githooks/*) continue ;;
+        *.png|*.jpg|*.jpeg|*.gif|*.ico|*.webp|*.pdf|*.zip|*.gz|*.woff|*.woff2|*.ttf|*.otf)
+            continue ;;
+    esac
+
+    if git show ":$f" 2>/dev/null | grep -Eq "$patterns"; then
+        echo ""
+        echo "  提交被阻止：$f 中检测到疑似密钥 / token"
+        echo ""
+        found=1
+    fi
+done
+
+if [ "$found" -eq 1 ]; then
+    echo "请删除密钥后重新提交。"
+    echo "凭据请存放在系统凭据管理器，不要写进仓库文件。"
+    exit 1
+fi
+
+exit 0
