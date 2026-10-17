@@ -171,6 +171,56 @@ node tools/check-data.mjs
 
 ---
 
+## 凭据安全（重要）
+
+推送代码需要的 GitHub token **绝对不要写进仓库里的任何文件**。本项目为此做了三层防护：
+
+### 1. `.gitignore` 已屏蔽
+
+```
+.git-credentials
+*git-credentials
+*.pem
+*.key
+.env
+.env.local
+```
+
+### 2. 提交前自动拦截
+
+`.githooks/pre-commit` 会扫描暂存区，发现 GitHub token、AWS Access Key、私钥头就**直接拒绝提交**。
+
+启用（每台机器只需一次）：
+
+```powershell
+git config core.hooksPath .githooks
+```
+
+### 3. 凭据存在系统凭据管理器
+
+```powershell
+git config credential.helper wincred
+```
+
+token 会存进 Windows 凭据管理器，不会在磁盘上留明文文件。首次 `git push` 时输入一次用户名和 token，之后自动复用。
+
+> 如果之前存过明文文件 `~/.git-credentials`，可以删掉：
+> `Remove-Item "$env:USERPROFILE\.git-credentials" -Force`
+
+### 万一还是提交了 token
+
+1. **立刻去 GitHub 撤销该 token**（Settings → Developer settings → Personal access tokens）
+2. 从历史中清除：
+   ```powershell
+   git filter-branch --force --index-filter "git rm --cached --ignore-unmatch <文件路径>" --prune-empty -- --all
+   git for-each-ref --format='delete %(refname)' refs/original | git update-ref --stdin
+   git reflog expire --expire=now --all && git gc --prune=now --aggressive
+   git push --force origin main
+   ```
+3. 如果推送时被 GitHub 的 Push Protection 拦截，**不要**谎报成 false positive，应选择「I'll fix it later」并按要求撤销 token。
+
+---
+
 ## 免责说明
 
 本项目仅做索引与展示，收录项目的代码、文档、商标均归各自作者所有；商用或二次分发前请自行确认对应开源协议的约束（尤其是 AGPL / GPL / LGPL / MPL / BSL / Sustainable Use License）。
