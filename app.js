@@ -275,6 +275,7 @@
                 .join("");
 
         els.nav.innerHTML = navHtml;
+        requestAnimationFrame(updateNavMask);
     }
 
     function renderSections(groups) {
@@ -440,6 +441,13 @@
         }
     }
 
+    /** 空间够就取消右侧渐隐，不够则保留滑动提示 */
+    function updateNavMask() {
+        if (!els.nav) return;
+        var overflowing = els.nav.scrollWidth > els.nav.clientWidth + 1;
+        els.nav.classList.toggle("is-fit", !overflowing);
+    }
+
     /* ------------------------------ 滚动高亮 ------------------------------ */
 
     function initScrollSpy() {
@@ -477,10 +485,27 @@
             });
             links.forEach(function (link) { link.classList.remove("is-active"); });
             var toHighlight = current || allLink;
-            if (toHighlight) toHighlight.classList.add("is-active");
+            if (toHighlight) {
+                toHighlight.classList.add("is-active");
+                keepInView(toHighlight);
+            }
+        }
+
+        /** 横向滑动时，把当前高亮的分类滚到可见位置 */
+        function keepInView(link) {
+            var nav = els.nav;
+            if (!nav) return;
+            var left = link.offsetLeft;
+            var right = left + link.offsetWidth;
+            if (left < nav.scrollLeft) {
+                nav.scrollLeft = left - 12;
+            } else if (right > nav.scrollLeft + nav.clientWidth) {
+                nav.scrollLeft = right - nav.clientWidth + 12;
+            }
         }
 
         window.addEventListener("scroll", onScroll, { passive: true });
+        window.addEventListener("resize", updateNavMask, { passive: true });
         onScroll();
     }
 

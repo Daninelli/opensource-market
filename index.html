@@ -76,7 +76,7 @@
         }
         .hero .tagline {
             margin: 10px auto 0;
-            max-width: 620px;
+            max-width: 680px;
             font-size: 15px;
             line-height: 1.7;
             color: var(--muted);
@@ -107,22 +107,35 @@
             padding: 9px 20px;
         }
         .toolbar-inner {
-            max-width: var(--max-width);
+            max-width: 1420px; /* 比内容区宽：一级分类必须单行放下 */
             margin: 0 auto;
             display: flex;
-            align-items: flex-start;
+            align-items: center;
             gap: 16px;
             justify-content: space-between;
         }
 
+        /* 一级分类：固定单行不换行，空间不足时横向滑动（任何窗口宽度都只有一行） */
         .nav-primary {
+            position: relative;
             flex: 1 1 auto;
             min-width: 0;
             display: flex;
-            flex-wrap: wrap;
-            row-gap: 5px;
-            column-gap: 4px;
-            align-content: flex-start;
+            flex-wrap: nowrap;
+            gap: 4px;
+            white-space: nowrap;
+            overflow-x: auto;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+            /* 可滑动时右侧渐隐，提示还有内容 */
+            -webkit-mask-image: linear-gradient(to right, #000 calc(100% - 28px), transparent 100%);
+            mask-image: linear-gradient(to right, #000 calc(100% - 28px), transparent 100%);
+        }
+        .nav-primary::-webkit-scrollbar { display: none; }
+        /* 空间足够时不要渐隐 */
+        .nav-primary.is-fit {
+            -webkit-mask-image: none;
+            mask-image: none;
         }
 
         .nav-link {
@@ -279,6 +292,7 @@
             font-size: 13.5px;
             line-height: 1.5;
             color: #4b5563;
+            /* 桌面：单行省略，保持卡片高度整齐 */
             white-space: nowrap;
             overflow: hidden;
             text-overflow: ellipsis;
@@ -413,6 +427,13 @@
             .toolbar { padding: 8px 14px; }
             .grid { grid-template-columns: 1fr; }
             .stats { gap: 8px 18px; }
+            /* 手机上卡片是整行宽度，描述截断反而难读，改为完整换行 */
+            .desc {
+                white-space: normal;
+                overflow: visible;
+                text-overflow: clip;
+                line-height: 1.6;
+            }
         }
     </style>
 </head>
@@ -504,7 +525,7 @@
                 <svg class="icon"><use href="#icon-market"></use></svg>
             </span>
             <h1>开源集市</h1>
-            <p class="tagline">按分类整理的开源成品应用：能直接用、也能直接二次开发。每张卡片一键跳到 GitHub，下载源码或 Release。</p>
+            <p class="tagline">按分类整理的开源成品应用，能直接用，也能直接二次开发。点按钮直达 GitHub 下载源码。</p>
             <ul class="stats">
                 <li><b id="stat-projects">–</b><span>个开源项目</span></li>
                 <li><b id="stat-primary">–</b><span>个一级分类</span></li>
