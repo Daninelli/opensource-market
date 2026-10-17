@@ -110,7 +110,7 @@
             max-width: var(--max-width);
             margin: 0 auto;
             display: flex;
-            align-items: center;
+            align-items: flex-start;
             gap: 16px;
             justify-content: space-between;
         }
@@ -119,12 +119,11 @@
             flex: 1 1 auto;
             min-width: 0;
             display: flex;
-            gap: 4px;
-            overflow-x: auto;
-            scrollbar-width: none;
-            -ms-overflow-style: none;
+            flex-wrap: wrap;
+            row-gap: 5px;
+            column-gap: 4px;
+            align-content: flex-start;
         }
-        .nav-primary::-webkit-scrollbar { display: none; }
 
         .nav-link {
             display: inline-flex;
@@ -147,19 +146,19 @@
         .nav-link.is-active .icon,
         .nav-link.is-active .n { color: #fff; }
 
-        .search { position: relative; flex: 0 0 auto; }
+        .search { position: relative; flex: 0 0 auto; padding-top: 1px; }
         .search .icon {
             position: absolute;
-            left: 12px;
+            left: 11px;
             top: 50%;
             transform: translateY(-50%);
-            font-size: 14px;
+            font-size: 13px;
             color: var(--faint);
             pointer-events: none;
         }
         .search input {
-            width: 240px;
-            padding: 8px 14px 8px 34px;
+            width: 226px;
+            padding: 8px 30px 8px 32px;
             border-radius: 999px;
             border: 1px solid var(--border-strong);
             background: var(--surface);
@@ -175,7 +174,7 @@
         }
         .search-kbd {
             position: absolute;
-            right: 10px;
+            right: 8px;
             top: 50%;
             transform: translateY(-50%);
             font-family: inherit;
@@ -275,9 +274,28 @@
             word-break: break-all;
         }
 
-        .desc { margin: 0; font-size: 13.5px; line-height: 1.65; color: #4b5563; }
+        .desc {
+            margin: 0;
+            font-size: 13.5px;
+            line-height: 1.5;
+            color: #4b5563;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
 
         .tags { display: flex; flex-wrap: wrap; gap: 6px; }
+
+        .stats-row { display: flex; gap: 14px; align-items: center; margin: -2px 0 0; }
+        .stat-item {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            font-size: 11.5px;
+            color: var(--muted);
+        }
+        .stat-item .icon { font-size: 13px; color: #c0c4ca; }
+        .stat-item:first-child .icon { color: #e0a30a; }
         .chip-tag {
             font-size: 11.5px;
             padding: 3px 8px;
@@ -319,6 +337,15 @@
         }
         .btn .icon { font-size: 15px; }
         .btn:hover { background: var(--brand-hover); }
+
+        .repo-link {
+            font-size: 12px;
+            color: var(--muted);
+            text-decoration: none;
+            padding: 6px 4px;
+            border-radius: 6px;
+        }
+        .repo-link:hover { color: var(--brand); }
 
         .empty {
             padding: 60px 20px;
@@ -462,6 +489,13 @@
             <circle cx="11" cy="11" r="6.4"/>
             <path d="m15.8 15.8 4.4 4.4"/>
         </symbol>
+        <symbol id="icon-star" viewBox="0 0 24 24">
+            <path d="m12 3.6 2.6 5.3 5.8.85-4.2 4.1 1 5.75L12 16.9l-5.2 2.7 1-5.75-4.2-4.1 5.8-.85Z"/>
+        </symbol>
+        <symbol id="icon-clock" viewBox="0 0 24 24">
+            <circle cx="12" cy="12" r="8.4"/>
+            <path d="M12 7.2V12l3.2 1.9"/>
+        </symbol>
     </svg>
 
     <header class="hero">
@@ -485,7 +519,7 @@
             <nav id="nav" class="nav-primary" aria-label="一级分类导航"></nav>
             <div class="search">
                 <svg class="icon" aria-hidden="true"><use href="#icon-search"></use></svg>
-                <input id="search" type="search" placeholder="搜索项目 / 技术栈 / 仓库" aria-label="搜索项目">
+                <input id="search" type="search" placeholder="搜索项目 / 技术栈" aria-label="搜索项目">
                 <kbd class="search-kbd">/</kbd>
             </div>
         </div>

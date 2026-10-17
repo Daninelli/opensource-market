@@ -106,8 +106,13 @@
         },
         {
             slug: "other", label: "其他", icon: "grid", color: "#64748b",
-            blurb: "暂时还没归类的项目",
-            children: []
+            blurb: "智能家居、文件同步与创作工具",
+            children: [
+                { slug: "smart-home", label: "智能家居" },
+                { slug: "sync", label: "私有同步" },
+                { slug: "system", label: "系统工具" },
+                { slug: "documents", label: "文档归档" }
+            ]
         }
     ];
 
@@ -364,7 +369,16 @@
                 return '<span class="chip-tag">' + escapeHtml(item) + "</span>";
             }).join("");
 
-        /* download_url 可选：填了 Release / 归档直链就优先用它，否则跳仓库首页 */
+        /* 统计信息：stars / 最近更新（数据里没有就不显示） */
+        var stats = "";
+        if (typeof project.stars === "number" && project.stars > 0) {
+            stats += '<span class="stat-item">' + iconMarkup("star") + formatCount(project.stars) + "</span>";
+        }
+        if (project.updated_at) {
+            stats += '<span class="stat-item">' + iconMarkup("clock") + relativeTime(project.updated_at) + "</span>";
+        }
+
+        /* download_url 优先：codeload zip 直链；否则跳仓库首页 */
         var downloadUrl = project.download_url || (project.repo ? "https://github.com/" + project.repo : "");
 
         card.innerHTML =
@@ -374,16 +388,42 @@
             '<span class="repo">' + escapeHtml(project.repo || "") + "</span>" +
             "</div></div>" +
             '<p class="desc">' + escapeHtml(project.note_zh || "暂无简介") + "</p>" +
+            (stats ? '<div class="stats-row">' + stats + "</div>" : "") +
             '<div class="tags">' + tags + "</div>" +
             '<div class="card-foot">' +
             '<span class="license">' + escapeHtml(project.license || "未知协议") + "</span>" +
             (downloadUrl
                 ? '<a class="btn" href="' + escapeHtml(downloadUrl) + '" target="_blank" rel="noopener noreferrer">' +
-                  iconMarkup("download") + "去 GitHub</a>"
+                  iconMarkup("download") + "下载源码</a>"
+                : "") +
+            (project.repo
+                ? '<a class="repo-link" href="https://github.com/' + escapeHtml(project.repo) +
+                  '" target="_blank" rel="noopener noreferrer" title="在 GitHub 打开仓库">GitHub</a>'
                 : "") +
             "</div>";
 
         return card;
+    }
+
+    /** 12345 -> 12.3k */
+    function formatCount(n) {
+        if (n >= 10000) return (n / 1000).toFixed(1).replace(/\.0$/, "") + "k";
+        if (n >= 1000) return (n / 1000).toFixed(1).replace(/\.0$/, "") + "k";
+        return String(n);
+    }
+
+    /** ISO 时间 -> 相对时间（刚刚 / 3 天前 / 2 个月前 ...） */
+    function relativeTime(iso) {
+        var then = new Date(iso).getTime();
+        if (!then) return "";
+        var diff = Date.now() - then;
+        var min = 60 * 1000, hour = 60 * min, day = 24 * hour, month = 30 * day, year = 365 * day;
+        if (diff < min) return "刚刚";
+        if (diff < hour) return Math.floor(diff / min) + " 分钟前";
+        if (diff < day) return Math.floor(diff / hour) + " 小时前";
+        if (diff < month) return Math.floor(diff / day) + " 天前";
+        if (diff < year) return Math.floor(diff / month) + " 个月前";
+        return Math.floor(diff / year) + " 年前";
     }
 
     function renderStatus(groups) {

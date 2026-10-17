@@ -45,7 +45,10 @@ const TAXONOMY = {
         }
     },
     government: { label: "政务", children: { participation: "公众参与", "open-data": "开放数据" } },
-    other: { label: "其他", children: {} }
+    other: {
+        label: "其他",
+        children: { "smart-home": "智能家居", sync: "私有同步", system: "系统工具", documents: "文档归档" }
+    }
 };
 
 const problems = [];

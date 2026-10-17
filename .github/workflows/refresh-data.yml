@@ -1,0 +1,41 @@
+name: 刷新仓库数据
+
+# 每天 UTC 03:17 抓一次（避开整点的流量高峰）；也可以在仓库页面手动点 "Run workflow"
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # actions/ 提供的令牌自带 5000 次/小时配额，足够一次刷完全部项目
+      - name: 抓取 star / 更新时间 / 默认分支
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node tools/fetch-repo-data.mjs
+
+      - name: 校验数据
+        run: node tools/check-data.mjs
+
+      - name: 有变化就提交
+        run: |
+          if git diff --quiet -- projects.json; then
+            echo "数据没有变化，跳过提交"
+          else
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add projects.json
+            git commit -m "chore: 更新 star / 更新时间（自动）"
+            git push
+          fi
