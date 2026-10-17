@@ -36,7 +36,21 @@
     "license": "BSD-3-Clause",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/saleor/saleor/zip/refs/heads/main",
-    "stars": 23449
+    "stars": 23449,
+    "release": {
+      "tag": "3.23.42",
+      "name": "3.23.42",
+      "published": "2026-10-16T06:44:14Z",
+      "url": "https://github.com/saleor/saleor/releases/tag/3.23.42",
+      "assets": [
+        {
+          "name": "schema.graphql",
+          "size": 1101635,
+          "url": "https://github.com/saleor/saleor/releases/download/3.23.42/schema.graphql",
+          "downloads": 303
+        }
+      ]
+    }
   },
   {
     "name": "Sylius",
@@ -110,7 +124,293 @@
     "license": "MIT",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/godotengine/godot/zip/refs/heads/master",
-    "stars": 118552
+    "stars": 118552,
+    "release": {
+      "tag": "4.7.2-stable",
+      "name": "4.7.2-stable",
+      "published": "2026-08-18T16:12:28Z",
+      "url": "https://github.com/godotengine/godot/releases/tag/4.7.2-stable",
+      "assets": [
+        {
+          "name": "godot-4.7.2-stable.tar.xz",
+          "size": 47744300,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/godot-4.7.2-stable.tar.xz",
+          "downloads": 5387
+        },
+        {
+          "name": "godot-4.7.2-stable.tar.xz.sha256",
+          "size": 92,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/godot-4.7.2-stable.tar.xz.sha256",
+          "downloads": 1667
+        },
+        {
+          "name": "godot-lib.4.7.2.stable.mono.template_release.aar",
+          "size": 103605746,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/godot-lib.4.7.2.stable.mono.template_release.aar",
+          "downloads": 263
+        },
+        {
+          "name": "godot-lib.4.7.2.stable.template_release.aar",
+          "size": 103251267,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/godot-lib.4.7.2.stable.template_release.aar",
+          "downloads": 2064
+        },
+        {
+          "name": "godot-lib.4.7.2.stable.template_release.perfetto.aar",
+          "size": 105863162,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/godot-lib.4.7.2.stable.template_release.perfetto.aar",
+          "downloads": 169
+        },
+        {
+          "name": "Godot_native_debug_symbols.4.7.2.stable.editor.android.zip",
+          "size": 1309969445,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_native_debug_symbols.4.7.2.stable.editor.android.zip",
+          "downloads": 647
+        },
+        {
+          "name": "Godot_native_debug_symbols.4.7.2.stable.template_release.android.zip",
+          "size": 780497672,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_native_debug_symbols.4.7.2.stable.template_release.android.zip",
+          "downloads": 955
+        },
+        {
+          "name": "Godot_v4.7.2-stable_android_debug.perfetto.apk",
+          "size": 130087617,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_android_debug.perfetto.apk",
+          "downloads": 1047
+        },
+        {
+          "name": "Godot_v4.7.2-stable_android_editor.aab",
+          "size": 331935184,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_android_editor.aab",
+          "downloads": 276
+        },
+        {
+          "name": "Godot_v4.7.2-stable_android_editor.apk",
+          "size": 688166381,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_android_editor.apk",
+          "downloads": 3982
+        },
+        {
+          "name": "Godot_v4.7.2-stable_android_editor_horizonos.apk",
+          "size": 168981853,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_android_editor_horizonos.apk",
+          "downloads": 204
+        },
+        {
+          "name": "Godot_v4.7.2-stable_android_editor_picoos.apk",
+          "size": 176377894,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_android_editor_picoos.apk",
+          "downloads": 187
+        },
+        {
+          "name": "Godot_v4.7.2-stable_android_release.perfetto.apk",
+          "size": 107415229,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_android_release.perfetto.apk",
+          "downloads": 460
+        },
+        {
+          "name": "Godot_v4.7.2-stable_android_source.perfetto.zip",
+          "size": 219513141,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_android_source.perfetto.zip",
+          "downloads": 249
+        },
+        {
+          "name": "Godot_v4.7.2-stable_export_templates.tpz",
+          "size": 1281349702,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_export_templates.tpz",
+          "downloads": 277668
+        },
+        {
+          "name": "Godot_v4.7.2-stable_linux.arm32.zip",
+          "size": 74780990,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_linux.arm32.zip",
+          "downloads": 614
+        },
+        {
+          "name": "Godot_v4.7.2-stable_linux.arm64.zip",
+          "size": 77008699,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_linux.arm64.zip",
+          "downloads": 10873
+        },
+        {
+          "name": "Godot_v4.7.2-stable_linux.x86_32.zip",
+          "size": 78111204,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_linux.x86_32.zip",
+          "downloads": 418
+        },
+        {
+          "name": "Godot_v4.7.2-stable_linux.x86_64.zip",
+          "size": 77860424,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_linux.x86_64.zip",
+          "downloads": 485381
+        },
+        {
+          "name": "Godot_v4.7.2-stable_macos.universal.zip",
+          "size": 170622178,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_macos.universal.zip",
+          "downloads": 204726
+        },
+        {
+          "name": "Godot_v4.7.2-stable_mono_export_templates.tpz",
+          "size": 1202598411,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_mono_export_templates.tpz",
+          "downloads": 25738
+        },
+        {
+          "name": "Godot_v4.7.2-stable_mono_linux_arm32.zip",
+          "size": 104613285,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_mono_linux_arm32.zip",
+          "downloads": 187
+        },
+        {
+          "name": "Godot_v4.7.2-stable_mono_linux_arm64.zip",
+          "size": 106869118,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_mono_linux_arm64.zip",
+          "downloads": 850
+        },
+        {
+          "name": "Godot_v4.7.2-stable_mono_linux_x86_32.zip",
+          "size": 107861168,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_mono_linux_x86_32.zip",
+          "downloads": 234
+        },
+        {
+          "name": "Godot_v4.7.2-stable_mono_linux_x86_64.zip",
+          "size": 107698034,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_mono_linux_x86_64.zip",
+          "downloads": 56637
+        },
+        {
+          "name": "Godot_v4.7.2-stable_mono_macos.universal.zip",
+          "size": 200756622,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_mono_macos.universal.zip",
+          "downloads": 7986
+        },
+        {
+          "name": "Godot_v4.7.2-stable_mono_win32.zip",
+          "size": 118429361,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_mono_win32.zip",
+          "downloads": 742
+        },
+        {
+          "name": "Godot_v4.7.2-stable_mono_win64.zip",
+          "size": 116582061,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_mono_win64.zip",
+          "downloads": 25957
+        },
+        {
+          "name": "Godot_v4.7.2-stable_mono_windows_arm64.zip",
+          "size": 114880839,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_mono_windows_arm64.zip",
+          "downloads": 612
+        },
+        {
+          "name": "Godot_v4.7.2-stable_web_editor.zip",
+          "size": 54031095,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_web_editor.zip",
+          "downloads": 548
+        },
+        {
+          "name": "Godot_v4.7.2-stable_win32.exe.zip",
+          "size": 87837088,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_win32.exe.zip",
+          "downloads": 1184
+        },
+        {
+          "name": "Godot_v4.7.2-stable_win64.exe.zip",
+          "size": 86013866,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_win64.exe.zip",
+          "downloads": 174198
+        },
+        {
+          "name": "Godot_v4.7.2-stable_windows_arm64.exe.zip",
+          "size": 84263370,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_windows_arm64.exe.zip",
+          "downloads": 1445
+        },
+        {
+          "name": "SHA512-SUMS.txt",
+          "size": 5682,
+          "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/SHA512-SUMS.txt",
+          "downloads": 95692
+        }
+      ]
+    },
+    "best_assets": [
+      {
+        "name": "Godot_v4.7.2-stable_windows_arm64.exe.zip",
+        "size": 84263370,
+        "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_windows_arm64.exe.zip",
+        "platform": "Windows"
+      },
+      {
+        "name": "Godot_v4.7.2-stable_win64.exe.zip",
+        "size": 86013866,
+        "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_win64.exe.zip",
+        "platform": "Windows"
+      },
+      {
+        "name": "Godot_v4.7.2-stable_macos.universal.zip",
+        "size": 170622178,
+        "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_macos.universal.zip",
+        "platform": "macOS"
+      },
+      {
+        "name": "Godot_v4.7.2-stable_mono_macos.universal.zip",
+        "size": 200756622,
+        "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_mono_macos.universal.zip",
+        "platform": "macOS"
+      },
+      {
+        "name": "Godot_v4.7.2-stable_linux.arm32.zip",
+        "size": 74780990,
+        "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_linux.arm32.zip",
+        "platform": "Linux"
+      },
+      {
+        "name": "Godot_v4.7.2-stable_linux.arm64.zip",
+        "size": 77008699,
+        "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_linux.arm64.zip",
+        "platform": "Linux"
+      },
+      {
+        "name": "Godot_v4.7.2-stable_android_release.perfetto.apk",
+        "size": 107415229,
+        "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_android_release.perfetto.apk",
+        "platform": "Android"
+      },
+      {
+        "name": "Godot_v4.7.2-stable_android_editor_horizonos.apk",
+        "size": 168981853,
+        "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_android_editor_horizonos.apk",
+        "platform": "Android"
+      },
+      {
+        "name": "godot-4.7.2-stable.tar.xz",
+        "size": 47744300,
+        "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/godot-4.7.2-stable.tar.xz",
+        "platform": "通用"
+      },
+      {
+        "name": "Godot_v4.7.2-stable_web_editor.zip",
+        "size": 54031095,
+        "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_web_editor.zip",
+        "platform": "通用"
+      },
+      {
+        "name": "Godot_v4.7.2-stable_mono_export_templates.tpz",
+        "size": 1202598411,
+        "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_mono_export_templates.tpz",
+        "platform": "其他平台"
+      },
+      {
+        "name": "Godot_v4.7.2-stable_export_templates.tpz",
+        "size": 1281349702,
+        "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_export_templates.tpz",
+        "platform": "其他平台"
+      }
+    ]
   },
   {
     "name": "Luanti（原 Minetest）",
@@ -128,7 +428,107 @@
     "license": "LGPL-2.1",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/minetest/minetest/zip/refs/heads/master",
-    "stars": 13735
+    "stars": 13735,
+    "release": {
+      "tag": "5.17.0",
+      "name": "Luanti 5.17.0",
+      "published": "2026-08-20T17:45:51Z",
+      "url": "https://github.com/luanti-org/luanti/releases/tag/5.17.0",
+      "assets": [
+        {
+          "name": "luanti-5.17.0-arm64-v8a.apk",
+          "size": 17515108,
+          "url": "https://github.com/luanti-org/luanti/releases/download/5.17.0/luanti-5.17.0-arm64-v8a.apk",
+          "downloads": 6233
+        },
+        {
+          "name": "luanti-5.17.0-armeabi-v7a.apk",
+          "size": 16663144,
+          "url": "https://github.com/luanti-org/luanti/releases/download/5.17.0/luanti-5.17.0-armeabi-v7a.apk",
+          "downloads": 1725
+        },
+        {
+          "name": "luanti-5.17.0-win32.zip",
+          "size": 17861980,
+          "url": "https://github.com/luanti-org/luanti/releases/download/5.17.0/luanti-5.17.0-win32.zip",
+          "downloads": 4801
+        },
+        {
+          "name": "luanti-5.17.0-win64.zip",
+          "size": 17539019,
+          "url": "https://github.com/luanti-org/luanti/releases/download/5.17.0/luanti-5.17.0-win64.zip",
+          "downloads": 10714
+        },
+        {
+          "name": "luanti-5.17.0-x86.apk",
+          "size": 18281048,
+          "url": "https://github.com/luanti-org/luanti/releases/download/5.17.0/luanti-5.17.0-x86.apk",
+          "downloads": 681
+        },
+        {
+          "name": "luanti-5.17.0-x86_64.apk",
+          "size": 17936990,
+          "url": "https://github.com/luanti-org/luanti/releases/download/5.17.0/luanti-5.17.0-x86_64.apk",
+          "downloads": 1136
+        },
+        {
+          "name": "luanti-5.17.0.exe",
+          "size": 12137492,
+          "url": "https://github.com/luanti-org/luanti/releases/download/5.17.0/luanti-5.17.0.exe",
+          "downloads": 43058
+        },
+        {
+          "name": "luanti_5.17.0_macos12.3_arm64.zip",
+          "size": 13619805,
+          "url": "https://github.com/luanti-org/luanti/releases/download/5.17.0/luanti_5.17.0_macos12.3_arm64.zip",
+          "downloads": 4990
+        },
+        {
+          "name": "luanti_5.17.0_macos12.3_x86_64.zip",
+          "size": 14265525,
+          "url": "https://github.com/luanti-org/luanti/releases/download/5.17.0/luanti_5.17.0_macos12.3_x86_64.zip",
+          "downloads": 2071
+        }
+      ]
+    },
+    "best_assets": [
+      {
+        "name": "luanti-5.17.0.exe",
+        "size": 12137492,
+        "url": "https://github.com/luanti-org/luanti/releases/download/5.17.0/luanti-5.17.0.exe",
+        "platform": "Windows"
+      },
+      {
+        "name": "luanti_5.17.0_macos12.3_arm64.zip",
+        "size": 13619805,
+        "url": "https://github.com/luanti-org/luanti/releases/download/5.17.0/luanti_5.17.0_macos12.3_arm64.zip",
+        "platform": "macOS"
+      },
+      {
+        "name": "luanti_5.17.0_macos12.3_x86_64.zip",
+        "size": 14265525,
+        "url": "https://github.com/luanti-org/luanti/releases/download/5.17.0/luanti_5.17.0_macos12.3_x86_64.zip",
+        "platform": "macOS"
+      },
+      {
+        "name": "luanti-5.17.0-win64.zip",
+        "size": 17539019,
+        "url": "https://github.com/luanti-org/luanti/releases/download/5.17.0/luanti-5.17.0-win64.zip",
+        "platform": "Windows"
+      },
+      {
+        "name": "luanti-5.17.0-armeabi-v7a.apk",
+        "size": 16663144,
+        "url": "https://github.com/luanti-org/luanti/releases/download/5.17.0/luanti-5.17.0-armeabi-v7a.apk",
+        "platform": "Android"
+      },
+      {
+        "name": "luanti-5.17.0-arm64-v8a.apk",
+        "size": 17515108,
+        "url": "https://github.com/luanti-org/luanti/releases/download/5.17.0/luanti-5.17.0-arm64-v8a.apk",
+        "platform": "Android"
+      }
+    ]
   },
   {
     "name": "OpenRA",
@@ -146,7 +546,119 @@
     "license": "GPL-3.0",
     "default_branch": "bleed",
     "download_url": "https://codeload.github.com/OpenRA/OpenRA/zip/refs/heads/bleed",
-    "stars": 17581
+    "stars": 17581,
+    "release": {
+      "tag": "release-20250330",
+      "name": "release-20250330",
+      "published": "2025-03-30T17:36:43Z",
+      "url": "https://github.com/OpenRA/OpenRA/releases/tag/release-20250330",
+      "assets": [
+        {
+          "name": "OpenRA-Dune-2000-x86_64.AppImage",
+          "size": 47892984,
+          "url": "https://github.com/OpenRA/OpenRA/releases/download/release-20250330/OpenRA-Dune-2000-x86_64.AppImage",
+          "downloads": 19672
+        },
+        {
+          "name": "OpenRA-Dune-2000-x86_64.AppImage.zsync",
+          "size": 164005,
+          "url": "https://github.com/OpenRA/OpenRA/releases/download/release-20250330/OpenRA-Dune-2000-x86_64.AppImage.zsync",
+          "downloads": 3734
+        },
+        {
+          "name": "OpenRA-Red-Alert-x86_64.AppImage",
+          "size": 44026360,
+          "url": "https://github.com/OpenRA/OpenRA/releases/download/release-20250330/OpenRA-Red-Alert-x86_64.AppImage",
+          "downloads": 71713
+        },
+        {
+          "name": "OpenRA-Red-Alert-x86_64.AppImage.zsync",
+          "size": 150789,
+          "url": "https://github.com/OpenRA/OpenRA/releases/download/release-20250330/OpenRA-Red-Alert-x86_64.AppImage.zsync",
+          "downloads": 4528
+        },
+        {
+          "name": "OpenRA-release-20250330-source.tar.bz2",
+          "size": 32489806,
+          "url": "https://github.com/OpenRA/OpenRA/releases/download/release-20250330/OpenRA-release-20250330-source.tar.bz2",
+          "downloads": 18925
+        },
+        {
+          "name": "OpenRA-release-20250330-x64-winportable.zip",
+          "size": 73079233,
+          "url": "https://github.com/OpenRA/OpenRA/releases/download/release-20250330/OpenRA-release-20250330-x64-winportable.zip",
+          "downloads": 7717
+        },
+        {
+          "name": "OpenRA-release-20250330-x64.exe",
+          "size": 61266292,
+          "url": "https://github.com/OpenRA/OpenRA/releases/download/release-20250330/OpenRA-release-20250330-x64.exe",
+          "downloads": 158532
+        },
+        {
+          "name": "OpenRA-release-20250330-x86-winportable.zip",
+          "size": 69848515,
+          "url": "https://github.com/OpenRA/OpenRA/releases/download/release-20250330/OpenRA-release-20250330-x86-winportable.zip",
+          "downloads": 1639
+        },
+        {
+          "name": "OpenRA-release-20250330-x86.exe",
+          "size": 58528821,
+          "url": "https://github.com/OpenRA/OpenRA/releases/download/release-20250330/OpenRA-release-20250330-x86.exe",
+          "downloads": 4896
+        },
+        {
+          "name": "OpenRA-release-20250330.dmg",
+          "size": 159559841,
+          "url": "https://github.com/OpenRA/OpenRA/releases/download/release-20250330/OpenRA-release-20250330.dmg",
+          "downloads": 73973
+        },
+        {
+          "name": "OpenRA-Tiberian-Dawn-x86_64.AppImage",
+          "size": 55323128,
+          "url": "https://github.com/OpenRA/OpenRA/releases/download/release-20250330/OpenRA-Tiberian-Dawn-x86_64.AppImage",
+          "downloads": 16671
+        },
+        {
+          "name": "OpenRA-Tiberian-Dawn-x86_64.AppImage.zsync",
+          "size": 189409,
+          "url": "https://github.com/OpenRA/OpenRA/releases/download/release-20250330/OpenRA-Tiberian-Dawn-x86_64.AppImage.zsync",
+          "downloads": 2760
+        }
+      ]
+    },
+    "best_assets": [
+      {
+        "name": "OpenRA-release-20250330-x86.exe",
+        "size": 58528821,
+        "url": "https://github.com/OpenRA/OpenRA/releases/download/release-20250330/OpenRA-release-20250330-x86.exe",
+        "platform": "Windows"
+      },
+      {
+        "name": "OpenRA-release-20250330-x64.exe",
+        "size": 61266292,
+        "url": "https://github.com/OpenRA/OpenRA/releases/download/release-20250330/OpenRA-release-20250330-x64.exe",
+        "platform": "Windows"
+      },
+      {
+        "name": "OpenRA-release-20250330.dmg",
+        "size": 159559841,
+        "url": "https://github.com/OpenRA/OpenRA/releases/download/release-20250330/OpenRA-release-20250330.dmg",
+        "platform": "macOS"
+      },
+      {
+        "name": "OpenRA-Red-Alert-x86_64.AppImage",
+        "size": 44026360,
+        "url": "https://github.com/OpenRA/OpenRA/releases/download/release-20250330/OpenRA-Red-Alert-x86_64.AppImage",
+        "platform": "Linux"
+      },
+      {
+        "name": "OpenRA-Dune-2000-x86_64.AppImage",
+        "size": 47892984,
+        "url": "https://github.com/OpenRA/OpenRA/releases/download/release-20250330/OpenRA-Dune-2000-x86_64.AppImage",
+        "platform": "Linux"
+      }
+    ]
   },
   {
     "name": "Mastodon",
@@ -183,7 +695,41 @@
     "license": "AGPL-3.0",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/element-hq/element-web/zip/refs/heads/master",
-    "stars": 13585
+    "stars": 13585,
+    "release": {
+      "tag": "v1.12.32",
+      "name": "v1.12.32",
+      "published": "2026-10-16T13:17:44Z",
+      "url": "https://github.com/element-hq/element-web/releases/tag/v1.12.32",
+      "assets": [
+        {
+          "name": "element-v1.12.32.tar.gz",
+          "size": 53236279,
+          "url": "https://github.com/element-hq/element-web/releases/download/v1.12.32/element-v1.12.32.tar.gz",
+          "downloads": 474
+        },
+        {
+          "name": "element-v1.12.32.tar.gz.asc",
+          "size": 833,
+          "url": "https://github.com/element-hq/element-web/releases/download/v1.12.32/element-v1.12.32.tar.gz.asc",
+          "downloads": 56
+        },
+        {
+          "name": "v1.12.32.tar.gz.asc",
+          "size": 833,
+          "url": "https://github.com/element-hq/element-web/releases/download/v1.12.32/v1.12.32.tar.gz.asc",
+          "downloads": 8
+        }
+      ]
+    },
+    "best_assets": [
+      {
+        "name": "element-v1.12.32.tar.gz",
+        "size": 53236279,
+        "url": "https://github.com/element-hq/element-web/releases/download/v1.12.32/element-v1.12.32.tar.gz",
+        "platform": "通用"
+      }
+    ]
   },
   {
     "name": "Discourse",
@@ -220,7 +766,71 @@
     "license": "AGPL-3.0",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/firefly-iii/firefly-iii/zip/refs/heads/main",
-    "stars": 24917
+    "stars": 24917,
+    "release": {
+      "tag": "v6.7.9",
+      "name": "v6.7.9",
+      "published": "2026-10-11T19:16:51Z",
+      "url": "https://github.com/firefly-iii/firefly-iii/releases/tag/v6.7.9",
+      "assets": [
+        {
+          "name": "FireflyIII-v6.7.9.tar.gz",
+          "size": 16387727,
+          "url": "https://github.com/firefly-iii/firefly-iii/releases/download/v6.7.9/FireflyIII-v6.7.9.tar.gz",
+          "downloads": 236
+        },
+        {
+          "name": "FireflyIII-v6.7.9.tar.gz.asc",
+          "size": 833,
+          "url": "https://github.com/firefly-iii/firefly-iii/releases/download/v6.7.9/FireflyIII-v6.7.9.tar.gz.asc",
+          "downloads": 7
+        },
+        {
+          "name": "FireflyIII-v6.7.9.tar.gz.sha256",
+          "size": 91,
+          "url": "https://github.com/firefly-iii/firefly-iii/releases/download/v6.7.9/FireflyIII-v6.7.9.tar.gz.sha256",
+          "downloads": 68
+        },
+        {
+          "name": "FireflyIII-v6.7.9.zip",
+          "size": 23987467,
+          "url": "https://github.com/firefly-iii/firefly-iii/releases/download/v6.7.9/FireflyIII-v6.7.9.zip",
+          "downloads": 409
+        },
+        {
+          "name": "FireflyIII-v6.7.9.zip.asc",
+          "size": 833,
+          "url": "https://github.com/firefly-iii/firefly-iii/releases/download/v6.7.9/FireflyIII-v6.7.9.zip.asc",
+          "downloads": 7
+        },
+        {
+          "name": "FireflyIII-v6.7.9.zip.sha256",
+          "size": 88,
+          "url": "https://github.com/firefly-iii/firefly-iii/releases/download/v6.7.9/FireflyIII-v6.7.9.zip.sha256",
+          "downloads": 28
+        },
+        {
+          "name": "HEAD.txt",
+          "size": 41,
+          "url": "https://github.com/firefly-iii/firefly-iii/releases/download/v6.7.9/HEAD.txt",
+          "downloads": 14
+        }
+      ]
+    },
+    "best_assets": [
+      {
+        "name": "FireflyIII-v6.7.9.tar.gz",
+        "size": 16387727,
+        "url": "https://github.com/firefly-iii/firefly-iii/releases/download/v6.7.9/FireflyIII-v6.7.9.tar.gz",
+        "platform": "通用"
+      },
+      {
+        "name": "FireflyIII-v6.7.9.zip",
+        "size": 23987467,
+        "url": "https://github.com/firefly-iii/firefly-iii/releases/download/v6.7.9/FireflyIII-v6.7.9.zip",
+        "platform": "通用"
+      }
+    ]
   },
   {
     "name": "Actual Budget",
@@ -238,7 +848,119 @@
     "license": "MIT",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/actualbudget/actual/zip/refs/heads/master",
-    "stars": 29573
+    "stars": 29573,
+    "release": {
+      "tag": "v26.10.0",
+      "name": "v26.10.0",
+      "published": "2026-10-02T15:32:36Z",
+      "url": "https://github.com/actualbudget/actual/releases/tag/v26.10.0",
+      "assets": [
+        {
+          "name": "Actual-linux-arm64.AppImage",
+          "size": 148674369,
+          "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-linux-arm64.AppImage",
+          "downloads": 158
+        },
+        {
+          "name": "Actual-linux-x86_64.AppImage",
+          "size": 150190753,
+          "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-linux-x86_64.AppImage",
+          "downloads": 838
+        },
+        {
+          "name": "Actual-linux-x86_64.flatpak",
+          "size": 101660064,
+          "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-linux-x86_64.flatpak",
+          "downloads": 58
+        },
+        {
+          "name": "Actual-mac-arm64.dmg",
+          "size": 143479378,
+          "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-mac-arm64.dmg",
+          "downloads": 5693
+        },
+        {
+          "name": "Actual-mac-x64.dmg",
+          "size": 148589723,
+          "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-mac-x64.dmg",
+          "downloads": 532
+        },
+        {
+          "name": "Actual-windows-arm64.appx",
+          "size": 182510010,
+          "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-windows-arm64.appx",
+          "downloads": 59
+        },
+        {
+          "name": "Actual-windows-arm64.exe",
+          "size": 126490064,
+          "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-windows-arm64.exe",
+          "downloads": 278
+        },
+        {
+          "name": "Actual-windows-ia32.appx",
+          "size": 161740461,
+          "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-windows-ia32.appx",
+          "downloads": 45
+        },
+        {
+          "name": "Actual-windows-ia32.exe",
+          "size": 111813535,
+          "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-windows-ia32.exe",
+          "downloads": 159
+        },
+        {
+          "name": "Actual-windows-x64.appx",
+          "size": 179658765,
+          "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-windows-x64.appx",
+          "downloads": 126
+        },
+        {
+          "name": "Actual-windows-x64.exe",
+          "size": 122844362,
+          "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-windows-x64.exe",
+          "downloads": 2928
+        }
+      ]
+    },
+    "best_assets": [
+      {
+        "name": "Actual-windows-ia32.exe",
+        "size": 111813535,
+        "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-windows-ia32.exe",
+        "platform": "Windows"
+      },
+      {
+        "name": "Actual-windows-x64.exe",
+        "size": 122844362,
+        "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-windows-x64.exe",
+        "platform": "Windows"
+      },
+      {
+        "name": "Actual-mac-arm64.dmg",
+        "size": 143479378,
+        "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-mac-arm64.dmg",
+        "platform": "macOS"
+      },
+      {
+        "name": "Actual-mac-x64.dmg",
+        "size": 148589723,
+        "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-mac-x64.dmg",
+        "platform": "macOS"
+      },
+      {
+        "name": "Actual-linux-x86_64.flatpak",
+        "size": 101660064,
+        "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-linux-x86_64.flatpak",
+        "platform": "Linux"
+      },
+      {
+        "name": "Actual-linux-arm64.AppImage",
+        "size": 148674369,
+        "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-linux-arm64.AppImage",
+        "platform": "Linux"
+      }
+    ]
   },
   {
     "name": "Ghostfolio",
@@ -311,7 +1033,83 @@
     "license": "GPL-3.0",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/openemr/openemr/zip/refs/heads/master",
-    "stars": 5530
+    "stars": 5530,
+    "release": {
+      "tag": "v8_4_1",
+      "name": "OpenEMR 8.4.1",
+      "published": "2026-09-20T07:43:44Z",
+      "url": "https://github.com/openemr/openemr/releases/tag/v8_4_1",
+      "assets": [
+        {
+          "name": "changelog.md",
+          "size": 1392,
+          "url": "https://github.com/openemr/openemr/releases/download/v8_4_1/changelog.md",
+          "downloads": 16
+        },
+        {
+          "name": "openemr-8.4.1.tar.gz",
+          "size": 165895874,
+          "url": "https://github.com/openemr/openemr/releases/download/v8_4_1/openemr-8.4.1.tar.gz",
+          "downloads": 493
+        },
+        {
+          "name": "openemr-8.4.1.tar.gz.md5",
+          "size": 55,
+          "url": "https://github.com/openemr/openemr/releases/download/v8_4_1/openemr-8.4.1.tar.gz.md5",
+          "downloads": 5
+        },
+        {
+          "name": "openemr-8.4.1.tar.gz.sha256",
+          "size": 87,
+          "url": "https://github.com/openemr/openemr/releases/download/v8_4_1/openemr-8.4.1.tar.gz.sha256",
+          "downloads": 79
+        },
+        {
+          "name": "openemr-8.4.1.tar.gz.sha512",
+          "size": 151,
+          "url": "https://github.com/openemr/openemr/releases/download/v8_4_1/openemr-8.4.1.tar.gz.sha512",
+          "downloads": 10
+        },
+        {
+          "name": "openemr-8.4.1.zip",
+          "size": 214944047,
+          "url": "https://github.com/openemr/openemr/releases/download/v8_4_1/openemr-8.4.1.zip",
+          "downloads": 1266
+        },
+        {
+          "name": "openemr-8.4.1.zip.md5",
+          "size": 52,
+          "url": "https://github.com/openemr/openemr/releases/download/v8_4_1/openemr-8.4.1.zip.md5",
+          "downloads": 3
+        },
+        {
+          "name": "openemr-8.4.1.zip.sha256",
+          "size": 84,
+          "url": "https://github.com/openemr/openemr/releases/download/v8_4_1/openemr-8.4.1.zip.sha256",
+          "downloads": 27
+        },
+        {
+          "name": "openemr-8.4.1.zip.sha512",
+          "size": 148,
+          "url": "https://github.com/openemr/openemr/releases/download/v8_4_1/openemr-8.4.1.zip.sha512",
+          "downloads": 11
+        }
+      ]
+    },
+    "best_assets": [
+      {
+        "name": "openemr-8.4.1.tar.gz",
+        "size": 165895874,
+        "url": "https://github.com/openemr/openemr/releases/download/v8_4_1/openemr-8.4.1.tar.gz",
+        "platform": "通用"
+      },
+      {
+        "name": "openemr-8.4.1.zip",
+        "size": 214944047,
+        "url": "https://github.com/openemr/openemr/releases/download/v8_4_1/openemr-8.4.1.zip",
+        "platform": "通用"
+      }
+    ]
   },
   {
     "name": "Vue Vben Admin",
@@ -485,7 +1283,107 @@
     "license": "AGPL-3.0",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/grafana/grafana/zip/refs/heads/main",
-    "stars": 77332
+    "stars": 77332,
+    "release": {
+      "tag": "v13.2.4",
+      "name": "13.2.4",
+      "published": "2026-10-13T11:41:03Z",
+      "url": "https://github.com/grafana/grafana/releases/tag/v13.2.4",
+      "assets": [
+        {
+          "name": "grafana-enterprise-rpi_13.2.4_38252365904_linux_arm-6.deb",
+          "size": 366774160,
+          "url": "https://github.com/grafana/grafana/releases/download/v13.2.4/grafana-enterprise-rpi_13.2.4_38252365904_linux_arm-6.deb",
+          "downloads": 38
+        },
+        {
+          "name": "grafana-enterprise_13.2.4_38252365904_linux_amd64.deb",
+          "size": 403953492,
+          "url": "https://github.com/grafana/grafana/releases/download/v13.2.4/grafana-enterprise_13.2.4_38252365904_linux_amd64.deb",
+          "downloads": 51
+        },
+        {
+          "name": "grafana-enterprise_13.2.4_38252365904_linux_amd64.rpm",
+          "size": 314368425,
+          "url": "https://github.com/grafana/grafana/releases/download/v13.2.4/grafana-enterprise_13.2.4_38252365904_linux_amd64.rpm",
+          "downloads": 30
+        },
+        {
+          "name": "grafana-enterprise_13.2.4_38252365904_linux_arm-7.deb",
+          "size": 366727296,
+          "url": "https://github.com/grafana/grafana/releases/download/v13.2.4/grafana-enterprise_13.2.4_38252365904_linux_arm-7.deb",
+          "downloads": 25
+        },
+        {
+          "name": "grafana-enterprise_13.2.4_38252365904_linux_arm64.deb",
+          "size": 370476956,
+          "url": "https://github.com/grafana/grafana/releases/download/v13.2.4/grafana-enterprise_13.2.4_38252365904_linux_arm64.deb",
+          "downloads": 30
+        },
+        {
+          "name": "grafana-enterprise_13.2.4_38252365904_linux_arm64.rpm",
+          "size": 288413369,
+          "url": "https://github.com/grafana/grafana/releases/download/v13.2.4/grafana-enterprise_13.2.4_38252365904_linux_arm64.rpm",
+          "downloads": 24
+        },
+        {
+          "name": "grafana-rpi_13.2.4_38252365904_linux_arm-6.deb",
+          "size": 345243176,
+          "url": "https://github.com/grafana/grafana/releases/download/v13.2.4/grafana-rpi_13.2.4_38252365904_linux_arm-6.deb",
+          "downloads": 22
+        },
+        {
+          "name": "grafana-v13.2.4.spdx.json",
+          "size": 4042962,
+          "url": "https://github.com/grafana/grafana/releases/download/v13.2.4/grafana-v13.2.4.spdx.json",
+          "downloads": 34
+        },
+        {
+          "name": "grafana_13.2.4_38252365904_linux_amd64.deb",
+          "size": 380538600,
+          "url": "https://github.com/grafana/grafana/releases/download/v13.2.4/grafana_13.2.4_38252365904_linux_amd64.deb",
+          "downloads": 415
+        },
+        {
+          "name": "grafana_13.2.4_38252365904_linux_amd64.rpm",
+          "size": 290420217,
+          "url": "https://github.com/grafana/grafana/releases/download/v13.2.4/grafana_13.2.4_38252365904_linux_amd64.rpm",
+          "downloads": 73
+        },
+        {
+          "name": "grafana_13.2.4_38252365904_linux_arm-7.deb",
+          "size": 345157384,
+          "url": "https://github.com/grafana/grafana/releases/download/v13.2.4/grafana_13.2.4_38252365904_linux_arm-7.deb",
+          "downloads": 18
+        },
+        {
+          "name": "grafana_13.2.4_38252365904_linux_arm64.deb",
+          "size": 348297112,
+          "url": "https://github.com/grafana/grafana/releases/download/v13.2.4/grafana_13.2.4_38252365904_linux_arm64.deb",
+          "downloads": 40
+        },
+        {
+          "name": "grafana_13.2.4_38252365904_linux_arm64.rpm",
+          "size": 266309797,
+          "url": "https://github.com/grafana/grafana/releases/download/v13.2.4/grafana_13.2.4_38252365904_linux_arm64.rpm",
+          "downloads": 61
+        }
+      ]
+    },
+    "best_assets": [
+      {
+        "name": "grafana_13.2.4_38252365904_linux_arm64.rpm",
+        "size": 266309797,
+        "url": "https://github.com/grafana/grafana/releases/download/v13.2.4/grafana_13.2.4_38252365904_linux_arm64.rpm",
+        "platform": "Linux"
+      },
+      {
+        "name": "grafana_13.2.4_38252365904_linux_amd64.rpm",
+        "size": 290420217,
+        "url": "https://github.com/grafana/grafana/releases/download/v13.2.4/grafana_13.2.4_38252365904_linux_amd64.rpm",
+        "platform": "Linux"
+      }
+    ]
   },
   {
     "name": "Nextcloud",
@@ -540,7 +1438,857 @@
     "license": "MIT",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/wekan/wekan/zip/refs/heads/main",
-    "stars": 21123
+    "stars": 21123,
+    "release": {
+      "tag": "v12.51",
+      "name": "v12.51",
+      "published": "2026-10-17T15:42:08Z",
+      "url": "https://github.com/wekan/wekan/releases/tag/v12.51",
+      "assets": [
+        {
+          "name": "WeKan-12.51-aarch64.AppImage",
+          "size": 213117448,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/WeKan-12.51-aarch64.AppImage",
+          "downloads": 0
+        },
+        {
+          "name": "WeKan-12.51-aarch64.AppImage.md5sum",
+          "size": 63,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/WeKan-12.51-aarch64.AppImage.md5sum",
+          "downloads": 0
+        },
+        {
+          "name": "WeKan-12.51-aarch64.AppImage.sha256sum",
+          "size": 95,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/WeKan-12.51-aarch64.AppImage.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-amd64-single-file",
+          "size": 323197320,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-amd64-single-file",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-amd64-single-file.sha256sum",
+          "size": 96,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-amd64-single-file.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-amd64.zip",
+          "size": 258572537,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-amd64.zip",
+          "downloads": 11
+        },
+        {
+          "name": "wekan-12.51-amd64.zip.sha256sum",
+          "size": 88,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-amd64.zip.sha256sum",
+          "downloads": 6
+        },
+        {
+          "name": "wekan-12.51-arm64-single-file",
+          "size": 323271048,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-arm64-single-file",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-arm64-single-file.sha256sum",
+          "size": 96,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-arm64-single-file.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-arm64.zip",
+          "size": 260532306,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-arm64.zip",
+          "downloads": 9
+        },
+        {
+          "name": "wekan-12.51-arm64.zip.sha256sum",
+          "size": 88,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-arm64.zip.sha256sum",
+          "downloads": 4
+        },
+        {
+          "name": "wekan-12.51-armhf-single-file",
+          "size": 282276528,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-armhf-single-file",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-armhf-single-file.sha256sum",
+          "size": 96,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-armhf-single-file.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "WeKan-12.51-armhf.AppImage",
+          "size": 190684548,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/WeKan-12.51-armhf.AppImage",
+          "downloads": 0
+        },
+        {
+          "name": "WeKan-12.51-armhf.AppImage.md5sum",
+          "size": 61,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/WeKan-12.51-armhf.AppImage.md5sum",
+          "downloads": 0
+        },
+        {
+          "name": "WeKan-12.51-armhf.AppImage.sha256sum",
+          "size": 93,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/WeKan-12.51-armhf.AppImage.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-armhf.zip",
+          "size": 236111860,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-armhf.zip",
+          "downloads": 6
+        },
+        {
+          "name": "wekan-12.51-armhf.zip.sha256sum",
+          "size": 88,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-armhf.zip.sha256sum",
+          "downloads": 3
+        },
+        {
+          "name": "wekan-12.51-armv6-single-file",
+          "size": 288684240,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-armv6-single-file",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-armv6-single-file.sha256sum",
+          "size": 96,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-armv6-single-file.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-armv6.zip",
+          "size": 237105855,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-armv6.zip",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-armv6.zip.sha256sum",
+          "size": 88,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-armv6.zip.sha256sum",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-armv7-single-file",
+          "size": 282325680,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-armv7-single-file",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-armv7-single-file.sha256sum",
+          "size": 96,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-armv7-single-file.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-armv7.zip",
+          "size": 236146167,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-armv7.zip",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-armv7.zip.sha256sum",
+          "size": 88,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-armv7.zip.sha256sum",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-bun-android-arm64.zip",
+          "size": 445963578,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-android-arm64.zip",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-bun-android-arm64.zip.sha256sum",
+          "size": 100,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-android-arm64.zip.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-bun-android-x64.zip",
+          "size": 436592748,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-android-x64.zip",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-bun-android-x64.zip.sha256sum",
+          "size": 98,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-android-x64.zip.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-bun-freebsd-arm64.zip",
+          "size": 438481681,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-freebsd-arm64.zip",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-bun-freebsd-arm64.zip.sha256sum",
+          "size": 100,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-freebsd-arm64.zip.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-bun-freebsd-x64.zip",
+          "size": 438944740,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-freebsd-x64.zip",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-bun-freebsd-x64.zip.sha256sum",
+          "size": 98,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-freebsd-x64.zip.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-bun-linux-arm64-musl-single-file",
+          "size": 538972080,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-linux-arm64-musl-single-file",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-bun-linux-arm64-musl-single-file.sha256sum",
+          "size": 111,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-linux-arm64-musl-single-file.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-bun-linux-arm64-musl.zip",
+          "size": 456239214,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-linux-arm64-musl.zip",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-bun-linux-arm64-musl.zip.sha256sum",
+          "size": 103,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-linux-arm64-musl.zip.sha256sum",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-bun-linux-arm64-single-file",
+          "size": 547277608,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-linux-arm64-single-file",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-bun-linux-arm64-single-file.sha256sum",
+          "size": 106,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-linux-arm64-single-file.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-bun-linux-arm64.zip",
+          "size": 456931135,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-linux-arm64.zip",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-bun-linux-arm64.zip.sha256sum",
+          "size": 98,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-linux-arm64.zip.sha256sum",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-bun-linux-x64-musl-single-file",
+          "size": 542890224,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-linux-x64-musl-single-file",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-bun-linux-x64-musl-single-file.sha256sum",
+          "size": 109,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-linux-x64-musl-single-file.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-bun-linux-x64-musl.zip",
+          "size": 458547265,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-linux-x64-musl.zip",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-bun-linux-x64-musl.zip.sha256sum",
+          "size": 101,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-linux-x64-musl.zip.sha256sum",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-bun-linux-x64-single-file",
+          "size": 550139872,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-linux-x64-single-file",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-bun-linux-x64-single-file.sha256sum",
+          "size": 104,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-linux-x64-single-file.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-bun-linux-x64.zip",
+          "size": 459337342,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-linux-x64.zip",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-bun-linux-x64.zip.sha256sum",
+          "size": 96,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-linux-x64.zip.sha256sum",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-bun-macos-arm64-single-file",
+          "size": 519427442,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-macos-arm64-single-file",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-bun-macos-arm64-single-file.sha256sum",
+          "size": 106,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-macos-arm64-single-file.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-bun-macos-arm64.zip",
+          "size": 445093673,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-macos-arm64.zip",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-bun-macos-arm64.zip.sha256sum",
+          "size": 98,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-macos-arm64.zip.sha256sum",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-bun-macos-x64-single-file",
+          "size": 529604080,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-macos-x64-single-file",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-bun-macos-x64-single-file.sha256sum",
+          "size": 104,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-macos-x64-single-file.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-bun-macos-x64.zip",
+          "size": 450879836,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-macos-x64.zip",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-bun-macos-x64.zip.sha256sum",
+          "size": 96,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-macos-x64.zip.sha256sum",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-bun-windows-arm64-single-file.exe",
+          "size": 539667456,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-windows-arm64-single-file.exe",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-bun-windows-arm64-single-file.exe.sha256sum",
+          "size": 112,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-windows-arm64-single-file.exe.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-bun-windows-arm64.zip",
+          "size": 456408326,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-windows-arm64.zip",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-bun-windows-arm64.zip.sha256sum",
+          "size": 100,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-windows-arm64.zip.sha256sum",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-bun-windows-x64-single-file.exe",
+          "size": 560272896,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-windows-x64-single-file.exe",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-bun-windows-x64-single-file.exe.sha256sum",
+          "size": 110,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-windows-x64-single-file.exe.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-bun-windows-x64.zip",
+          "size": 463884525,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-windows-x64.zip",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-bun-windows-x64.zip.sha256sum",
+          "size": 98,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-windows-x64.zip.sha256sum",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-freebsd-x64.zip",
+          "size": 261493929,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-freebsd-x64.zip",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-freebsd-x64.zip.sha256sum",
+          "size": 94,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-freebsd-x64.zip.sha256sum",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-i386.zip",
+          "size": 242063091,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-i386.zip",
+          "downloads": 10
+        },
+        {
+          "name": "wekan-12.51-i386.zip.sha256sum",
+          "size": 87,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-i386.zip.sha256sum",
+          "downloads": 8
+        },
+        {
+          "name": "WeKan-12.51-i686.AppImage",
+          "size": 196423032,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/WeKan-12.51-i686.AppImage",
+          "downloads": 0
+        },
+        {
+          "name": "WeKan-12.51-i686.AppImage.md5sum",
+          "size": 60,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/WeKan-12.51-i686.AppImage.md5sum",
+          "downloads": 0
+        },
+        {
+          "name": "WeKan-12.51-i686.AppImage.sha256sum",
+          "size": 92,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/WeKan-12.51-i686.AppImage.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-linux-arm64-musl.zip",
+          "size": 271224323,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-linux-arm64-musl.zip",
+          "downloads": 2
+        },
+        {
+          "name": "wekan-12.51-linux-arm64-musl.zip.sha256sum",
+          "size": 99,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-linux-arm64-musl.zip.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-linux-x64-musl.zip",
+          "size": 270121555,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-linux-x64-musl.zip",
+          "downloads": 2
+        },
+        {
+          "name": "wekan-12.51-linux-x64-musl.zip.sha256sum",
+          "size": 97,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-linux-x64-musl.zip.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "WeKan-12.51-mac-amd64.app.zip",
+          "size": 262003468,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/WeKan-12.51-mac-amd64.app.zip",
+          "downloads": 0
+        },
+        {
+          "name": "WeKan-12.51-mac-amd64.app.zip.sha256sum",
+          "size": 96,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/WeKan-12.51-mac-amd64.app.zip.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-mac-arm64-single-file",
+          "size": 319313328,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-mac-arm64-single-file",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-mac-arm64-single-file.sha256sum",
+          "size": 100,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-mac-arm64-single-file.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "WeKan-12.51-mac-arm64.app.zip",
+          "size": 262879340,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/WeKan-12.51-mac-arm64.app.zip",
+          "downloads": 0
+        },
+        {
+          "name": "WeKan-12.51-mac-arm64.app.zip.sha256sum",
+          "size": 96,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/WeKan-12.51-mac-arm64.app.zip.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-mac-arm64.zip",
+          "size": 257017657,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-mac-arm64.zip",
+          "downloads": 3
+        },
+        {
+          "name": "wekan-12.51-mac-arm64.zip.sha256sum",
+          "size": 92,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-mac-arm64.zip.sha256sum",
+          "downloads": 2
+        },
+        {
+          "name": "wekan-12.51-mac-x64-single-file",
+          "size": 325531760,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-mac-x64-single-file",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-mac-x64-single-file.sha256sum",
+          "size": 98,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-mac-x64-single-file.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-mac-x64.zip",
+          "size": 256138402,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-mac-x64.zip",
+          "downloads": 2
+        },
+        {
+          "name": "wekan-12.51-mac-x64.zip.sha256sum",
+          "size": 90,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-mac-x64.zip.sha256sum",
+          "downloads": 2
+        },
+        {
+          "name": "wekan-12.51-netbsd-x64-single-file",
+          "size": 326904312,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-netbsd-x64-single-file",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-netbsd-x64-single-file.sha256sum",
+          "size": 101,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-netbsd-x64-single-file.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-netbsd-x64.zip",
+          "size": 264287154,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-netbsd-x64.zip",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-netbsd-x64.zip.sha256sum",
+          "size": 93,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-netbsd-x64.zip.sha256sum",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-ppc64le-single-file",
+          "size": 325159384,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-ppc64le-single-file",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-ppc64le-single-file.sha256sum",
+          "size": 98,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-ppc64le-single-file.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-ppc64le.zip",
+          "size": 252866520,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-ppc64le.zip",
+          "downloads": 4
+        },
+        {
+          "name": "wekan-12.51-ppc64le.zip.sha256sum",
+          "size": 90,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-ppc64le.zip.sha256sum",
+          "downloads": 2
+        },
+        {
+          "name": "wekan-12.51-riscv64-single-file",
+          "size": 317907000,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-riscv64-single-file",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-riscv64-single-file.sha256sum",
+          "size": 98,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-riscv64-single-file.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-riscv64.zip",
+          "size": 265173585,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-riscv64.zip",
+          "downloads": 4
+        },
+        {
+          "name": "wekan-12.51-riscv64.zip.sha256sum",
+          "size": 90,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-riscv64.zip.sha256sum",
+          "downloads": 2
+        },
+        {
+          "name": "wekan-12.51-s390x-single-file",
+          "size": 324249992,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-s390x-single-file",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-s390x-single-file.sha256sum",
+          "size": 96,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-s390x-single-file.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-s390x.zip",
+          "size": 253615608,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-s390x.zip",
+          "downloads": 4
+        },
+        {
+          "name": "wekan-12.51-s390x.zip.sha256sum",
+          "size": 88,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-s390x.zip.sha256sum",
+          "downloads": 2
+        },
+        {
+          "name": "wekan-12.51-sandstorm.spk",
+          "size": 185097988,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-sandstorm.spk",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-win-arm64-single-file.exe",
+          "size": 300751176,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-win-arm64-single-file.exe",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-win-arm64-single-file.exe.sha256sum",
+          "size": 104,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-win-arm64-single-file.exe.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-win-arm64.zip",
+          "size": 244429216,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-win-arm64.zip",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-win-arm64.zip.sha256sum",
+          "size": 92,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-win-arm64.zip.sha256sum",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-win32-single-file.exe",
+          "size": 291969024,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-win32-single-file.exe",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-win32-single-file.exe.sha256sum",
+          "size": 100,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-win32-single-file.exe.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-win32.zip",
+          "size": 237848628,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-win32.zip",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-win32.zip.sha256sum",
+          "size": 88,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-win32.zip.sha256sum",
+          "downloads": 1
+        },
+        {
+          "name": "wekan-12.51-win64-single-file.exe",
+          "size": 317383496,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-win64-single-file.exe",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-win64-single-file.exe.sha256sum",
+          "size": 100,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-win64-single-file.exe.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "WeKan-12.51-win64.exe",
+          "size": 252766021,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/WeKan-12.51-win64.exe",
+          "downloads": 0
+        },
+        {
+          "name": "WeKan-12.51-win64.exe.sha256sum",
+          "size": 89,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/WeKan-12.51-win64.exe.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan-12.51-win64.zip",
+          "size": 252602613,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-win64.zip",
+          "downloads": 3
+        },
+        {
+          "name": "wekan-12.51-win64.zip.sha256sum",
+          "size": 88,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-win64.zip.sha256sum",
+          "downloads": 2
+        },
+        {
+          "name": "WeKan-12.51-x86_64.AppImage",
+          "size": 215263736,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/WeKan-12.51-x86_64.AppImage",
+          "downloads": 0
+        },
+        {
+          "name": "WeKan-12.51-x86_64.AppImage.md5sum",
+          "size": 62,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/WeKan-12.51-x86_64.AppImage.md5sum",
+          "downloads": 0
+        },
+        {
+          "name": "WeKan-12.51-x86_64.AppImage.sha256sum",
+          "size": 94,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/WeKan-12.51-x86_64.AppImage.sha256sum",
+          "downloads": 0
+        },
+        {
+          "name": "wekan_12.51_amd64.snap",
+          "size": 567754752,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan_12.51_amd64.snap",
+          "downloads": 0
+        },
+        {
+          "name": "wekan_12.51_arm64.snap",
+          "size": 460201984,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan_12.51_arm64.snap",
+          "downloads": 0
+        },
+        {
+          "name": "wekan_12.51_armhf.snap",
+          "size": 270569472,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan_12.51_armhf.snap",
+          "downloads": 0
+        },
+        {
+          "name": "wekan_12.51_ppc64el.snap",
+          "size": 290304000,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan_12.51_ppc64el.snap",
+          "downloads": 0
+        },
+        {
+          "name": "wekan_12.51_s390x.snap",
+          "size": 289730560,
+          "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan_12.51_s390x.snap",
+          "downloads": 0
+        }
+      ]
+    },
+    "best_assets": [
+      {
+        "name": "wekan-12.51-win32.zip",
+        "size": 237848628,
+        "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-win32.zip",
+        "platform": "Windows"
+      },
+      {
+        "name": "wekan-12.51-win-arm64.zip",
+        "size": 244429216,
+        "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-win-arm64.zip",
+        "platform": "Windows"
+      },
+      {
+        "name": "wekan-12.51-mac-x64.zip",
+        "size": 256138402,
+        "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-mac-x64.zip",
+        "platform": "macOS"
+      },
+      {
+        "name": "wekan-12.51-mac-arm64.zip",
+        "size": 257017657,
+        "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-mac-arm64.zip",
+        "platform": "macOS"
+      },
+      {
+        "name": "WeKan-12.51-armhf.AppImage",
+        "size": 190684548,
+        "url": "https://github.com/wekan/wekan/releases/download/v12.51/WeKan-12.51-armhf.AppImage",
+        "platform": "Linux"
+      },
+      {
+        "name": "WeKan-12.51-i686.AppImage",
+        "size": 196423032,
+        "url": "https://github.com/wekan/wekan/releases/download/v12.51/WeKan-12.51-i686.AppImage",
+        "platform": "Linux"
+      },
+      {
+        "name": "wekan-12.51-bun-android-x64.zip",
+        "size": 436592748,
+        "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-android-x64.zip",
+        "platform": "Android"
+      },
+      {
+        "name": "wekan-12.51-bun-android-arm64.zip",
+        "size": 445963578,
+        "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-android-arm64.zip",
+        "platform": "Android"
+      },
+      {
+        "name": "wekan-12.51-armhf.zip",
+        "size": 236111860,
+        "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-armhf.zip",
+        "platform": "通用"
+      },
+      {
+        "name": "wekan-12.51-armv7.zip",
+        "size": 236146167,
+        "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-armv7.zip",
+        "platform": "通用"
+      },
+      {
+        "name": "wekan-12.51-armhf-single-file",
+        "size": 282276528,
+        "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-armhf-single-file",
+        "platform": "其他平台"
+      },
+      {
+        "name": "wekan-12.51-armv7-single-file",
+        "size": 282325680,
+        "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-armv7-single-file",
+        "platform": "其他平台"
+      }
+    ]
   },
   {
     "name": "Halo",
@@ -559,7 +2307,35 @@
     "license": "GPL-3.0",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/halo-dev/halo/zip/refs/heads/main",
-    "stars": 39947
+    "stars": 39947,
+    "release": {
+      "tag": "v2.27.0",
+      "name": "2.27.0",
+      "published": "2026-10-14T09:26:07Z",
+      "url": "https://github.com/halo-dev/halo/releases/tag/v2.27.0",
+      "assets": [
+        {
+          "name": "halo-2.27.0.jar",
+          "size": 129633799,
+          "url": "https://github.com/halo-dev/halo/releases/download/v2.27.0/halo-2.27.0.jar",
+          "downloads": 130
+        },
+        {
+          "name": "halo-2.27.0.jar.sha256",
+          "size": 64,
+          "url": "https://github.com/halo-dev/halo/releases/download/v2.27.0/halo-2.27.0.jar.sha256",
+          "downloads": 20
+        }
+      ]
+    },
+    "best_assets": [
+      {
+        "name": "halo-2.27.0.jar",
+        "size": 129633799,
+        "url": "https://github.com/halo-dev/halo/releases/download/v2.27.0/halo-2.27.0.jar",
+        "platform": "通用"
+      }
+    ]
   },
   {
     "name": "WordPress",
@@ -614,7 +2390,221 @@
     "license": "GPL-3.0",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/navidrome/navidrome/zip/refs/heads/master",
-    "stars": 24203
+    "stars": 24203,
+    "release": {
+      "tag": "v0.64.2",
+      "name": "v0.64.2",
+      "published": "2026-09-24T23:26:20Z",
+      "url": "https://github.com/navidrome/navidrome/releases/tag/v0.64.2",
+      "assets": [
+        {
+          "name": "navidrome_0.64.2_darwin_amd64.tar.gz",
+          "size": 24891038,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_darwin_amd64.tar.gz",
+          "downloads": 1813
+        },
+        {
+          "name": "navidrome_0.64.2_darwin_arm64.tar.gz",
+          "size": 23317421,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_darwin_arm64.tar.gz",
+          "downloads": 917
+        },
+        {
+          "name": "navidrome_0.64.2_linux_386.deb",
+          "size": 23512132,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_386.deb",
+          "downloads": 365
+        },
+        {
+          "name": "navidrome_0.64.2_linux_386.rpm",
+          "size": 23416917,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_386.rpm",
+          "downloads": 146
+        },
+        {
+          "name": "navidrome_0.64.2_linux_386.tar.gz",
+          "size": 23525723,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_386.tar.gz",
+          "downloads": 165
+        },
+        {
+          "name": "navidrome_0.64.2_linux_amd64.deb",
+          "size": 24701478,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_amd64.deb",
+          "downloads": 4701
+        },
+        {
+          "name": "navidrome_0.64.2_linux_amd64.rpm",
+          "size": 24609936,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_amd64.rpm",
+          "downloads": 265
+        },
+        {
+          "name": "navidrome_0.64.2_linux_amd64.tar.gz",
+          "size": 24712357,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_amd64.tar.gz",
+          "downloads": 3325
+        },
+        {
+          "name": "navidrome_0.64.2_linux_arm64.deb",
+          "size": 23157018,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_arm64.deb",
+          "downloads": 676
+        },
+        {
+          "name": "navidrome_0.64.2_linux_arm64.rpm",
+          "size": 23025423,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_arm64.rpm",
+          "downloads": 140
+        },
+        {
+          "name": "navidrome_0.64.2_linux_arm64.tar.gz",
+          "size": 23173867,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_arm64.tar.gz",
+          "downloads": 772
+        },
+        {
+          "name": "navidrome_0.64.2_linux_armv5.deb",
+          "size": 23222188,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_armv5.deb",
+          "downloads": 36
+        },
+        {
+          "name": "navidrome_0.64.2_linux_armv5.rpm",
+          "size": 23088346,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_armv5.rpm",
+          "downloads": 30
+        },
+        {
+          "name": "navidrome_0.64.2_linux_armv5.tar.gz",
+          "size": 23237614,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_armv5.tar.gz",
+          "downloads": 34
+        },
+        {
+          "name": "navidrome_0.64.2_linux_armv6.deb",
+          "size": 23191400,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_armv6.deb",
+          "downloads": 41
+        },
+        {
+          "name": "navidrome_0.64.2_linux_armv6.rpm",
+          "size": 23059917,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_armv6.rpm",
+          "downloads": 28
+        },
+        {
+          "name": "navidrome_0.64.2_linux_armv6.tar.gz",
+          "size": 23211013,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_armv6.tar.gz",
+          "downloads": 56
+        },
+        {
+          "name": "navidrome_0.64.2_linux_armv7.deb",
+          "size": 23120710,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_armv7.deb",
+          "downloads": 65
+        },
+        {
+          "name": "navidrome_0.64.2_linux_armv7.rpm",
+          "size": 22993307,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_armv7.rpm",
+          "downloads": 28
+        },
+        {
+          "name": "navidrome_0.64.2_linux_armv7.tar.gz",
+          "size": 23138113,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_armv7.tar.gz",
+          "downloads": 145
+        },
+        {
+          "name": "navidrome_0.64.2_linux_riscv64.deb",
+          "size": 23321840,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_riscv64.deb",
+          "downloads": 34
+        },
+        {
+          "name": "navidrome_0.64.2_linux_riscv64.rpm",
+          "size": 23219647,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_riscv64.rpm",
+          "downloads": 30
+        },
+        {
+          "name": "navidrome_0.64.2_linux_riscv64.tar.gz",
+          "size": 23335565,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_riscv64.tar.gz",
+          "downloads": 37
+        },
+        {
+          "name": "navidrome_0.64.2_windows_386.zip",
+          "size": 23613825,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_windows_386.zip",
+          "downloads": 334
+        },
+        {
+          "name": "navidrome_0.64.2_windows_386_installer.msi",
+          "size": 101132288,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_windows_386_installer.msi",
+          "downloads": 660
+        },
+        {
+          "name": "navidrome_0.64.2_windows_amd64.zip",
+          "size": 24508330,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_windows_amd64.zip",
+          "downloads": 1631
+        },
+        {
+          "name": "navidrome_0.64.2_windows_amd64_installer.msi",
+          "size": 131622912,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_windows_amd64_installer.msi",
+          "downloads": 2522
+        },
+        {
+          "name": "navidrome_checksums.txt",
+          "size": 2506,
+          "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_checksums.txt",
+          "downloads": 1036
+        }
+      ]
+    },
+    "best_assets": [
+      {
+        "name": "navidrome_0.64.2_darwin_arm64.tar.gz",
+        "size": 23317421,
+        "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_darwin_arm64.tar.gz",
+        "platform": "macOS"
+      },
+      {
+        "name": "navidrome_0.64.2_windows_386.zip",
+        "size": 23613825,
+        "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_windows_386.zip",
+        "platform": "Windows"
+      },
+      {
+        "name": "navidrome_0.64.2_windows_amd64.zip",
+        "size": 24508330,
+        "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_windows_amd64.zip",
+        "platform": "Windows"
+      },
+      {
+        "name": "navidrome_0.64.2_darwin_amd64.tar.gz",
+        "size": 24891038,
+        "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_darwin_amd64.tar.gz",
+        "platform": "macOS"
+      },
+      {
+        "name": "navidrome_0.64.2_linux_armv7.rpm",
+        "size": 22993307,
+        "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_armv7.rpm",
+        "platform": "Linux"
+      },
+      {
+        "name": "navidrome_0.64.2_linux_arm64.rpm",
+        "size": 23025423,
+        "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_arm64.rpm",
+        "platform": "Linux"
+      }
+    ]
   },
   {
     "name": "Penpot",
@@ -669,7 +2659,29 @@
     "license": "Apache-2.0",
     "default_branch": "dev",
     "download_url": "https://codeload.github.com/jgraph/drawio/zip/refs/heads/dev",
-    "stars": 8836
+    "stars": 8836,
+    "release": {
+      "tag": "v32.4.1",
+      "name": "v32.4.1",
+      "published": "2026-10-08T21:49:28Z",
+      "url": "https://github.com/jgraph/drawio/releases/tag/v32.4.1",
+      "assets": [
+        {
+          "name": "draw.war",
+          "size": 48442174,
+          "url": "https://github.com/jgraph/drawio/releases/download/v32.4.1/draw.war",
+          "downloads": 4298
+        }
+      ]
+    },
+    "best_assets": [
+      {
+        "name": "draw.war",
+        "size": 48442174,
+        "url": "https://github.com/jgraph/drawio/releases/download/v32.4.1/draw.war",
+        "platform": "通用"
+      }
+    ]
   },
   {
     "name": "Memos",
@@ -687,7 +2699,89 @@
     "license": "MIT",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/usememos/memos/zip/refs/heads/main",
-    "stars": 63867
+    "stars": 63867,
+    "release": {
+      "tag": "v0.31.0",
+      "name": "v0.31.0",
+      "published": "2026-09-19T16:50:57Z",
+      "url": "https://github.com/usememos/memos/releases/tag/v0.31.0",
+      "assets": [
+        {
+          "name": "checksums.txt",
+          "size": 589,
+          "url": "https://github.com/usememos/memos/releases/download/v0.31.0/checksums.txt",
+          "downloads": 922
+        },
+        {
+          "name": "memos_0.31.0_darwin_amd64.tar.gz",
+          "size": 22189145,
+          "url": "https://github.com/usememos/memos/releases/download/v0.31.0/memos_0.31.0_darwin_amd64.tar.gz",
+          "downloads": 178
+        },
+        {
+          "name": "memos_0.31.0_darwin_arm64.tar.gz",
+          "size": 21058705,
+          "url": "https://github.com/usememos/memos/releases/download/v0.31.0/memos_0.31.0_darwin_arm64.tar.gz",
+          "downloads": 372
+        },
+        {
+          "name": "memos_0.31.0_linux_amd64.tar.gz",
+          "size": 21825067,
+          "url": "https://github.com/usememos/memos/releases/download/v0.31.0/memos_0.31.0_linux_amd64.tar.gz",
+          "downloads": 1924
+        },
+        {
+          "name": "memos_0.31.0_linux_arm64.tar.gz",
+          "size": 20181109,
+          "url": "https://github.com/usememos/memos/releases/download/v0.31.0/memos_0.31.0_linux_arm64.tar.gz",
+          "downloads": 369
+        },
+        {
+          "name": "memos_0.31.0_linux_armv7.tar.gz",
+          "size": 20646858,
+          "url": "https://github.com/usememos/memos/releases/download/v0.31.0/memos_0.31.0_linux_armv7.tar.gz",
+          "downloads": 133
+        },
+        {
+          "name": "memos_0.31.0_windows_amd64.zip",
+          "size": 22181849,
+          "url": "https://github.com/usememos/memos/releases/download/v0.31.0/memos_0.31.0_windows_amd64.zip",
+          "downloads": 2138
+        }
+      ]
+    },
+    "best_assets": [
+      {
+        "name": "memos_0.31.0_darwin_arm64.tar.gz",
+        "size": 21058705,
+        "url": "https://github.com/usememos/memos/releases/download/v0.31.0/memos_0.31.0_darwin_arm64.tar.gz",
+        "platform": "macOS"
+      },
+      {
+        "name": "memos_0.31.0_windows_amd64.zip",
+        "size": 22181849,
+        "url": "https://github.com/usememos/memos/releases/download/v0.31.0/memos_0.31.0_windows_amd64.zip",
+        "platform": "Windows"
+      },
+      {
+        "name": "memos_0.31.0_darwin_amd64.tar.gz",
+        "size": 22189145,
+        "url": "https://github.com/usememos/memos/releases/download/v0.31.0/memos_0.31.0_darwin_amd64.tar.gz",
+        "platform": "macOS"
+      },
+      {
+        "name": "memos_0.31.0_linux_arm64.tar.gz",
+        "size": 20181109,
+        "url": "https://github.com/usememos/memos/releases/download/v0.31.0/memos_0.31.0_linux_arm64.tar.gz",
+        "platform": "Linux"
+      },
+      {
+        "name": "memos_0.31.0_linux_armv7.tar.gz",
+        "size": 20646858,
+        "url": "https://github.com/usememos/memos/releases/download/v0.31.0/memos_0.31.0_linux_armv7.tar.gz",
+        "platform": "Linux"
+      }
+    ]
   },
   {
     "name": "Joplin",
@@ -706,7 +2800,185 @@
     "license": "AGPL-3.0",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/laurent22/joplin/zip/refs/heads/master",
-    "stars": 56776
+    "stars": 56776,
+    "release": {
+      "tag": "v3.7.21",
+      "name": "v3.7.21",
+      "published": "2026-09-25T21:31:12Z",
+      "url": "https://github.com/laurent22/joplin/releases/tag/v3.7.21",
+      "assets": [
+        {
+          "name": "Joplin-3.7.21-arm64.DMG",
+          "size": 208484343,
+          "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21-arm64.DMG",
+          "downloads": 43837
+        },
+        {
+          "name": "Joplin-3.7.21-arm64.dmg.blockmap",
+          "size": 217838,
+          "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21-arm64.dmg.blockmap",
+          "downloads": 138
+        },
+        {
+          "name": "Joplin-3.7.21-arm64.pkg",
+          "size": 208136863,
+          "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21-arm64.pkg",
+          "downloads": 303
+        },
+        {
+          "name": "Joplin-3.7.21-arm64.zip",
+          "size": 200073544,
+          "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21-arm64.zip",
+          "downloads": 825
+        },
+        {
+          "name": "Joplin-3.7.21-arm64.zip.blockmap",
+          "size": 210217,
+          "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21-arm64.zip.blockmap",
+          "downloads": 131
+        },
+        {
+          "name": "Joplin-3.7.21-mac.zip",
+          "size": 198453324,
+          "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21-mac.zip",
+          "downloads": 433
+        },
+        {
+          "name": "Joplin-3.7.21-mac.zip.blockmap",
+          "size": 209015,
+          "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21-mac.zip.blockmap",
+          "downloads": 130
+        },
+        {
+          "name": "Joplin-3.7.21.AppImage",
+          "size": 201462481,
+          "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.AppImage",
+          "downloads": 24097
+        },
+        {
+          "name": "Joplin-3.7.21.AppImage.sha512",
+          "size": 128,
+          "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.AppImage.sha512",
+          "downloads": 1185
+        },
+        {
+          "name": "Joplin-3.7.21.deb",
+          "size": 162700892,
+          "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.deb",
+          "downloads": 3467
+        },
+        {
+          "name": "Joplin-3.7.21.dmg",
+          "size": 206702267,
+          "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.dmg",
+          "downloads": 9644
+        },
+        {
+          "name": "Joplin-3.7.21.dmg.blockmap",
+          "size": 219276,
+          "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.dmg.blockmap",
+          "downloads": 112
+        },
+        {
+          "name": "Joplin-3.7.21.pkg",
+          "size": 206477574,
+          "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.pkg",
+          "downloads": 249
+        },
+        {
+          "name": "Joplin-Setup-3.7.21.exe",
+          "size": 361008040,
+          "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-Setup-3.7.21.exe",
+          "downloads": 130365
+        },
+        {
+          "name": "Joplin-Setup-3.7.21.exe.blockmap",
+          "size": 378206,
+          "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-Setup-3.7.21.exe.blockmap",
+          "downloads": 4861
+        },
+        {
+          "name": "JoplinPortable.exe",
+          "size": 360779352,
+          "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/JoplinPortable.exe",
+          "downloads": 7359
+        },
+        {
+          "name": "latest-linux.yml",
+          "size": 515,
+          "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/latest-linux.yml",
+          "downloads": 219
+        },
+        {
+          "name": "latest-mac-arm64.yml",
+          "size": 498,
+          "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/latest-mac-arm64.yml",
+          "downloads": 18118
+        },
+        {
+          "name": "latest-mac.yml",
+          "size": 498,
+          "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/latest-mac.yml",
+          "downloads": 21791
+        },
+        {
+          "name": "latest.yml",
+          "size": 344,
+          "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/latest.yml",
+          "downloads": 63523
+        }
+      ]
+    },
+    "best_assets": [
+      {
+        "name": "Joplin-3.7.21.pkg",
+        "size": 206477574,
+        "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.pkg",
+        "platform": "macOS"
+      },
+      {
+        "name": "Joplin-3.7.21.dmg",
+        "size": 206702267,
+        "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.dmg",
+        "platform": "macOS"
+      },
+      {
+        "name": "JoplinPortable.exe",
+        "size": 360779352,
+        "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/JoplinPortable.exe",
+        "platform": "Windows"
+      },
+      {
+        "name": "Joplin-Setup-3.7.21.exe",
+        "size": 361008040,
+        "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-Setup-3.7.21.exe",
+        "platform": "Windows"
+      },
+      {
+        "name": "Joplin-3.7.21.deb",
+        "size": 162700892,
+        "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.deb",
+        "platform": "Linux"
+      },
+      {
+        "name": "Joplin-3.7.21.AppImage",
+        "size": 201462481,
+        "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.AppImage",
+        "platform": "Linux"
+      },
+      {
+        "name": "Joplin-3.7.21-mac.zip",
+        "size": 198453324,
+        "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21-mac.zip",
+        "platform": "通用"
+      },
+      {
+        "name": "Joplin-3.7.21-arm64.zip",
+        "size": 200073544,
+        "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21-arm64.zip",
+        "platform": "通用"
+      }
+    ]
   },
   {
     "name": "AppFlowy",
@@ -724,7 +2996,131 @@
     "license": "AGPL-3.0",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/AppFlowy-IO/AppFlowy/zip/refs/heads/main",
-    "stars": 77508
+    "stars": 77508,
+    "release": {
+      "tag": "0.14.8",
+      "name": "v0.14.8",
+      "published": "2026-10-08T11:00:14Z",
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/tag/0.14.8",
+      "assets": [
+        {
+          "name": "appcast-linux-x86_64.xml",
+          "size": 680,
+          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/appcast-linux-x86_64.xml",
+          "downloads": 10716
+        },
+        {
+          "name": "appcast-macos-arm64.xml",
+          "size": 961,
+          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/appcast-macos-arm64.xml",
+          "downloads": 30148
+        },
+        {
+          "name": "appcast-windows-x86_64.xml",
+          "size": 981,
+          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/appcast-windows-x86_64.xml",
+          "downloads": 25723
+        },
+        {
+          "name": "AppFlowy-0.14.8-android.apk",
+          "size": 222375877,
+          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-android.apk",
+          "downloads": 1694
+        },
+        {
+          "name": "AppFlowy-0.14.8-linux-x86_64.AppImage",
+          "size": 176978424,
+          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-linux-x86_64.AppImage",
+          "downloads": 207
+        },
+        {
+          "name": "AppFlowy-0.14.8-linux-x86_64.deb",
+          "size": 139584408,
+          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-linux-x86_64.deb",
+          "downloads": 730
+        },
+        {
+          "name": "AppFlowy-0.14.8-linux-x86_64.rpm",
+          "size": 189647774,
+          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-linux-x86_64.rpm",
+          "downloads": 109
+        },
+        {
+          "name": "AppFlowy-0.14.8-linux-x86_64.tar.gz",
+          "size": 190550131,
+          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-linux-x86_64.tar.gz",
+          "downloads": 152
+        },
+        {
+          "name": "AppFlowy-0.14.8-macos-arm64.dmg",
+          "size": 138310942,
+          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-macos-arm64.dmg",
+          "downloads": 449
+        },
+        {
+          "name": "AppFlowy-0.14.8-macos-arm64.zip",
+          "size": 139819259,
+          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-macos-arm64.zip",
+          "downloads": 137
+        },
+        {
+          "name": "AppFlowy-0.14.8-windows-x86_64.exe",
+          "size": 88714064,
+          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-windows-x86_64.exe",
+          "downloads": 2580
+        },
+        {
+          "name": "AppFlowy-0.14.8-windows-x86_64.zip",
+          "size": 127899051,
+          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-windows-x86_64.zip",
+          "downloads": 475
+        }
+      ]
+    },
+    "best_assets": [
+      {
+        "name": "AppFlowy-0.14.8-windows-x86_64.exe",
+        "size": 88714064,
+        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-windows-x86_64.exe",
+        "platform": "Windows"
+      },
+      {
+        "name": "AppFlowy-0.14.8-windows-x86_64.zip",
+        "size": 127899051,
+        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-windows-x86_64.zip",
+        "platform": "Windows"
+      },
+      {
+        "name": "AppFlowy-0.14.8-macos-arm64.dmg",
+        "size": 138310942,
+        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-macos-arm64.dmg",
+        "platform": "macOS"
+      },
+      {
+        "name": "AppFlowy-0.14.8-macos-arm64.zip",
+        "size": 139819259,
+        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-macos-arm64.zip",
+        "platform": "macOS"
+      },
+      {
+        "name": "AppFlowy-0.14.8-linux-x86_64.deb",
+        "size": 139584408,
+        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-linux-x86_64.deb",
+        "platform": "Linux"
+      },
+      {
+        "name": "AppFlowy-0.14.8-linux-x86_64.AppImage",
+        "size": 176978424,
+        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-linux-x86_64.AppImage",
+        "platform": "Linux"
+      },
+      {
+        "name": "AppFlowy-0.14.8-android.apk",
+        "size": 222375877,
+        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-android.apk",
+        "platform": "Android"
+      }
+    ]
   },
   {
     "name": "PhotoPrism",
@@ -743,7 +3139,41 @@
     "license": "AGPL-3.0",
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/photoprism/photoprism/zip/refs/heads/develop",
-    "stars": 40311
+    "stars": 40311,
+    "release": {
+      "tag": "261007-65faaae5d",
+      "name": "October 7, 2026",
+      "published": "2026-10-07T09:20:36Z",
+      "url": "https://github.com/photoprism/photoprism/releases/tag/261007-65faaae5d",
+      "assets": [
+        {
+          "name": "photoprism_261007-65faaae5d-linux-amd64.tar.gz",
+          "size": 421508754,
+          "url": "https://github.com/photoprism/photoprism/releases/download/261007-65faaae5d/photoprism_261007-65faaae5d-linux-amd64.tar.gz",
+          "downloads": 308
+        },
+        {
+          "name": "photoprism_261007-65faaae5d-linux-arm64.tar.gz",
+          "size": 396866292,
+          "url": "https://github.com/photoprism/photoprism/releases/download/261007-65faaae5d/photoprism_261007-65faaae5d-linux-arm64.tar.gz",
+          "downloads": 71
+        }
+      ]
+    },
+    "best_assets": [
+      {
+        "name": "photoprism_261007-65faaae5d-linux-arm64.tar.gz",
+        "size": 396866292,
+        "url": "https://github.com/photoprism/photoprism/releases/download/261007-65faaae5d/photoprism_261007-65faaae5d-linux-arm64.tar.gz",
+        "platform": "Linux"
+      },
+      {
+        "name": "photoprism_261007-65faaae5d-linux-amd64.tar.gz",
+        "size": 421508754,
+        "url": "https://github.com/photoprism/photoprism/releases/download/261007-65faaae5d/photoprism_261007-65faaae5d-linux-amd64.tar.gz",
+        "platform": "Linux"
+      }
+    ]
   },
   {
     "name": "Immich",
@@ -762,7 +3192,89 @@
     "license": "AGPL-3.0",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/immich-app/immich/zip/refs/heads/main",
-    "stars": 116471
+    "stars": 116471,
+    "release": {
+      "tag": "v3.3.3",
+      "name": "v3.3.3",
+      "published": "2026-10-14T16:56:21Z",
+      "url": "https://github.com/immich-app/immich/releases/tag/v3.3.3",
+      "assets": [
+        {
+          "name": "app-arm64-v8a-release.apk",
+          "size": 69260129,
+          "url": "https://github.com/immich-app/immich/releases/download/v3.3.3/app-arm64-v8a-release.apk",
+          "downloads": 18905
+        },
+        {
+          "name": "app-armeabi-v7a-release.apk",
+          "size": 63974801,
+          "url": "https://github.com/immich-app/immich/releases/download/v3.3.3/app-armeabi-v7a-release.apk",
+          "downloads": 164
+        },
+        {
+          "name": "app-release.apk",
+          "size": 179772021,
+          "url": "https://github.com/immich-app/immich/releases/download/v3.3.3/app-release.apk",
+          "downloads": 696
+        },
+        {
+          "name": "app-x86_64-release.apk",
+          "size": 71980079,
+          "url": "https://github.com/immich-app/immich/releases/download/v3.3.3/app-x86_64-release.apk",
+          "downloads": 136
+        },
+        {
+          "name": "docker-compose.rootless.yml",
+          "size": 3263,
+          "url": "https://github.com/immich-app/immich/releases/download/v3.3.3/docker-compose.rootless.yml",
+          "downloads": 221
+        },
+        {
+          "name": "docker-compose.yml",
+          "size": 2844,
+          "url": "https://github.com/immich-app/immich/releases/download/v3.3.3/docker-compose.yml",
+          "downloads": 14015
+        },
+        {
+          "name": "example.env",
+          "size": 979,
+          "url": "https://github.com/immich-app/immich/releases/download/v3.3.3/example.env",
+          "downloads": 7444
+        },
+        {
+          "name": "hwaccel.ml.yml",
+          "size": 1265,
+          "url": "https://github.com/immich-app/immich/releases/download/v3.3.3/hwaccel.ml.yml",
+          "downloads": 890
+        },
+        {
+          "name": "hwaccel.transcoding.yml",
+          "size": 1679,
+          "url": "https://github.com/immich-app/immich/releases/download/v3.3.3/hwaccel.transcoding.yml",
+          "downloads": 804
+        },
+        {
+          "name": "prometheus.yml",
+          "size": 260,
+          "url": "https://github.com/immich-app/immich/releases/download/v3.3.3/prometheus.yml",
+          "downloads": 133
+        }
+      ]
+    },
+    "best_assets": [
+      {
+        "name": "app-armeabi-v7a-release.apk",
+        "size": 63974801,
+        "url": "https://github.com/immich-app/immich/releases/download/v3.3.3/app-armeabi-v7a-release.apk",
+        "platform": "Android"
+      },
+      {
+        "name": "app-arm64-v8a-release.apk",
+        "size": 69260129,
+        "url": "https://github.com/immich-app/immich/releases/download/v3.3.3/app-arm64-v8a-release.apk",
+        "platform": "Android"
+      }
+    ]
   },
   {
     "name": "Supabase",
@@ -819,7 +3331,33 @@
     "license": "Sustainable Use License",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/n8n-io/n8n/zip/refs/heads/master",
-    "stars": 207794
+    "stars": 207794,
+    "release": {
+      "tag": "n8n@2.43.7",
+      "name": "n8n@2.43.7",
+      "published": "2026-10-16T07:23:56Z",
+      "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.43.7",
+      "assets": [
+        {
+          "name": "sbom-source.cdx.json",
+          "size": 6893675,
+          "url": "https://github.com/n8n-io/n8n/releases/download/n8n%402.43.7/sbom-source.cdx.json",
+          "downloads": 14
+        },
+        {
+          "name": "THIRD_PARTY_LICENSES.md",
+          "size": 145864,
+          "url": "https://github.com/n8n-io/n8n/releases/download/n8n%402.43.7/THIRD_PARTY_LICENSES.md",
+          "downloads": 14
+        },
+        {
+          "name": "vex.openvex.json",
+          "size": 328,
+          "url": "https://github.com/n8n-io/n8n/releases/download/n8n%402.43.7/vex.openvex.json",
+          "downloads": 14
+        }
+      ]
+    }
   },
   {
     "name": "Uptime Kuma",
@@ -838,7 +3376,29 @@
     "license": "MIT",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/louislam/uptime-kuma/zip/refs/heads/master",
-    "stars": 92567
+    "stars": 92567,
+    "release": {
+      "tag": "2.5.6",
+      "name": "2.5.6",
+      "published": "2026-10-09T15:46:26Z",
+      "url": "https://github.com/louislam/uptime-kuma/releases/tag/2.5.6",
+      "assets": [
+        {
+          "name": "dist.tar.gz",
+          "size": 7557568,
+          "url": "https://github.com/louislam/uptime-kuma/releases/download/2.5.6/dist.tar.gz",
+          "downloads": 5798
+        }
+      ]
+    },
+    "best_assets": [
+      {
+        "name": "dist.tar.gz",
+        "size": 7557568,
+        "url": "https://github.com/louislam/uptime-kuma/releases/download/2.5.6/dist.tar.gz",
+        "platform": "通用"
+      }
+    ]
   },
   {
     "name": "IT-Tools",
@@ -856,7 +3416,29 @@
     "license": "GPL-3.0",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/CorentinTh/it-tools/zip/refs/heads/main",
-    "stars": 40882
+    "stars": 40882,
+    "release": {
+      "tag": "v2024.10.22-7ca5933",
+      "name": "v2024.10.22-7ca5933",
+      "published": "2024-10-22T09:58:03Z",
+      "url": "https://github.com/CorentinTh/it-tools/releases/tag/v2024.10.22-7ca5933",
+      "assets": [
+        {
+          "name": "it-tools-2024.10.22-7ca5933.zip",
+          "size": 4071978,
+          "url": "https://github.com/CorentinTh/it-tools/releases/download/v2024.10.22-7ca5933/it-tools-2024.10.22-7ca5933.zip",
+          "downloads": 12819
+        }
+      ]
+    },
+    "best_assets": [
+      {
+        "name": "it-tools-2024.10.22-7ca5933.zip",
+        "size": 4071978,
+        "url": "https://github.com/CorentinTh/it-tools/releases/download/v2024.10.22-7ca5933/it-tools-2024.10.22-7ca5933.zip",
+        "platform": "通用"
+      }
+    ]
   },
   {
     "name": "FreshRSS",
@@ -911,7 +3493,137 @@
     "license": "MIT",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/gogs/gogs/zip/refs/heads/main",
-    "stars": 47879
+    "stars": 47879,
+    "release": {
+      "tag": "v0.14.3",
+      "name": "0.14.3",
+      "published": "2026-06-07T20:51:06Z",
+      "url": "https://github.com/gogs/gogs/releases/tag/v0.14.3",
+      "assets": [
+        {
+          "name": "gogs_v0.14.3_darwin_amd64.zip",
+          "size": 42520387,
+          "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_darwin_amd64.zip",
+          "downloads": 623
+        },
+        {
+          "name": "gogs_v0.14.3_darwin_arm64.zip",
+          "size": 41161431,
+          "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_darwin_arm64.zip",
+          "downloads": 662
+        },
+        {
+          "name": "gogs_v0.14.3_linux_386.tar.gz",
+          "size": 40101557,
+          "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_linux_386.tar.gz",
+          "downloads": 241
+        },
+        {
+          "name": "gogs_v0.14.3_linux_386.zip",
+          "size": 40108862,
+          "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_linux_386.zip",
+          "downloads": 228
+        },
+        {
+          "name": "gogs_v0.14.3_linux_amd64.tar.gz",
+          "size": 41296761,
+          "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_linux_amd64.tar.gz",
+          "downloads": 2273
+        },
+        {
+          "name": "gogs_v0.14.3_linux_amd64.zip",
+          "size": 41303067,
+          "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_linux_amd64.zip",
+          "downloads": 740
+        },
+        {
+          "name": "gogs_v0.14.3_linux_arm64.tar.gz",
+          "size": 39087328,
+          "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_linux_arm64.tar.gz",
+          "downloads": 595
+        },
+        {
+          "name": "gogs_v0.14.3_linux_arm64.zip",
+          "size": 39095579,
+          "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_linux_arm64.zip",
+          "downloads": 327
+        },
+        {
+          "name": "gogs_v0.14.3_windows_386.zip",
+          "size": 40771532,
+          "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_windows_386.zip",
+          "downloads": 745
+        },
+        {
+          "name": "gogs_v0.14.3_windows_386_mws.zip",
+          "size": 40789539,
+          "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_windows_386_mws.zip",
+          "downloads": 284
+        },
+        {
+          "name": "gogs_v0.14.3_windows_amd64.zip",
+          "size": 41735277,
+          "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_windows_amd64.zip",
+          "downloads": 1279
+        },
+        {
+          "name": "gogs_v0.14.3_windows_amd64_mws.zip",
+          "size": 41754140,
+          "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_windows_amd64_mws.zip",
+          "downloads": 390
+        },
+        {
+          "name": "gogs_v0.14.3_windows_arm64.zip",
+          "size": 39323900,
+          "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_windows_arm64.zip",
+          "downloads": 224
+        },
+        {
+          "name": "gogs_v0.14.3_windows_arm64_mws.zip",
+          "size": 39347057,
+          "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_windows_arm64_mws.zip",
+          "downloads": 198
+        }
+      ]
+    },
+    "best_assets": [
+      {
+        "name": "gogs_v0.14.3_windows_arm64.zip",
+        "size": 39323900,
+        "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_windows_arm64.zip",
+        "platform": "Windows"
+      },
+      {
+        "name": "gogs_v0.14.3_windows_arm64_mws.zip",
+        "size": 39347057,
+        "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_windows_arm64_mws.zip",
+        "platform": "Windows"
+      },
+      {
+        "name": "gogs_v0.14.3_darwin_arm64.zip",
+        "size": 41161431,
+        "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_darwin_arm64.zip",
+        "platform": "macOS"
+      },
+      {
+        "name": "gogs_v0.14.3_darwin_amd64.zip",
+        "size": 42520387,
+        "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_darwin_amd64.zip",
+        "platform": "macOS"
+      },
+      {
+        "name": "gogs_v0.14.3_linux_arm64.tar.gz",
+        "size": 39087328,
+        "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_linux_arm64.tar.gz",
+        "platform": "Linux"
+      },
+      {
+        "name": "gogs_v0.14.3_linux_arm64.zip",
+        "size": 39095579,
+        "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_linux_arm64.zip",
+        "platform": "Linux"
+      }
+    ]
   },
   {
     "name": "Meilisearch",
@@ -928,7 +3640,137 @@
     "license": "MIT",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/meilisearch/meilisearch/zip/refs/heads/main",
-    "stars": 59590
+    "stars": 59590,
+    "release": {
+      "tag": "v1.55.0",
+      "name": "v1.55.0 🔭",
+      "published": "2026-10-12T09:21:50Z",
+      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.55.0",
+      "assets": [
+        {
+          "name": "meilisearch-enterprise-linux-aarch64",
+          "size": 352566232,
+          "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-enterprise-linux-aarch64",
+          "downloads": 20
+        },
+        {
+          "name": "meilisearch-enterprise-linux-amd64",
+          "size": 359127176,
+          "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-enterprise-linux-amd64",
+          "downloads": 37
+        },
+        {
+          "name": "meilisearch-enterprise-linux-riscv64",
+          "size": 351687792,
+          "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-enterprise-linux-riscv64",
+          "downloads": 13
+        },
+        {
+          "name": "meilisearch-enterprise-macos-amd64",
+          "size": 353022880,
+          "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-enterprise-macos-amd64",
+          "downloads": 10
+        },
+        {
+          "name": "meilisearch-enterprise-macos-apple-silicon",
+          "size": 349926784,
+          "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-enterprise-macos-apple-silicon",
+          "downloads": 17
+        },
+        {
+          "name": "meilisearch-enterprise-windows-amd64.exe",
+          "size": 354473984,
+          "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-enterprise-windows-amd64.exe",
+          "downloads": 64
+        },
+        {
+          "name": "meilisearch-error-codes.json",
+          "size": 52030,
+          "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-error-codes.json",
+          "downloads": 22
+        },
+        {
+          "name": "meilisearch-linux-aarch64",
+          "size": 350825800,
+          "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-linux-aarch64",
+          "downloads": 170
+        },
+        {
+          "name": "meilisearch-linux-amd64",
+          "size": 357184032,
+          "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-linux-amd64",
+          "downloads": 2795
+        },
+        {
+          "name": "meilisearch-linux-riscv64",
+          "size": 349925584,
+          "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-linux-riscv64",
+          "downloads": 15
+        },
+        {
+          "name": "meilisearch-macos-amd64",
+          "size": 351225696,
+          "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-macos-amd64",
+          "downloads": 77
+        },
+        {
+          "name": "meilisearch-macos-apple-silicon",
+          "size": 348295984,
+          "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-macos-apple-silicon",
+          "downloads": 257
+        },
+        {
+          "name": "meilisearch-openapi.json",
+          "size": 825816,
+          "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-openapi.json",
+          "downloads": 83
+        },
+        {
+          "name": "meilisearch-windows-amd64.exe",
+          "size": 352880640,
+          "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-windows-amd64.exe",
+          "downloads": 630
+        }
+      ]
+    },
+    "best_assets": [
+      {
+        "name": "meilisearch-macos-apple-silicon",
+        "size": 348295984,
+        "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-macos-apple-silicon",
+        "platform": "macOS"
+      },
+      {
+        "name": "meilisearch-macos-amd64",
+        "size": 351225696,
+        "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-macos-amd64",
+        "platform": "macOS"
+      },
+      {
+        "name": "meilisearch-windows-amd64.exe",
+        "size": 352880640,
+        "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-windows-amd64.exe",
+        "platform": "Windows"
+      },
+      {
+        "name": "meilisearch-linux-riscv64",
+        "size": 349925584,
+        "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-linux-riscv64",
+        "platform": "Linux"
+      },
+      {
+        "name": "meilisearch-linux-aarch64",
+        "size": 350825800,
+        "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-linux-aarch64",
+        "platform": "Linux"
+      },
+      {
+        "name": "meilisearch-enterprise-windows-amd64.exe",
+        "size": 354473984,
+        "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-enterprise-windows-amd64.exe",
+        "platform": "Windows"
+      }
+    ]
   },
   {
     "name": "Decidim",
@@ -1000,7 +3842,275 @@
     "subcategory_slug": "sync",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/syncthing/syncthing/zip/refs/heads/main",
-    "stars": 89472
+    "stars": 89472,
+    "release": {
+      "tag": "v2.1.6",
+      "name": "v2.1.6",
+      "published": "2026-10-06T06:08:27Z",
+      "url": "https://github.com/syncthing/syncthing/releases/tag/v2.1.6",
+      "assets": [
+        {
+          "name": "compat.json",
+          "size": 112,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/compat.json",
+          "downloads": 128
+        },
+        {
+          "name": "sha1sum.txt.asc",
+          "size": 8797,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/sha1sum.txt.asc",
+          "downloads": 109
+        },
+        {
+          "name": "sha256sum.txt.asc",
+          "size": 11029,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/sha256sum.txt.asc",
+          "downloads": 4071
+        },
+        {
+          "name": "syncthing-freebsd-386-v2.1.6.tar.gz",
+          "size": 12554389,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-freebsd-386-v2.1.6.tar.gz",
+          "downloads": 136
+        },
+        {
+          "name": "syncthing-freebsd-amd64-v2.1.6.tar.gz",
+          "size": 13048372,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-freebsd-amd64-v2.1.6.tar.gz",
+          "downloads": 204
+        },
+        {
+          "name": "syncthing-freebsd-arm-v2.1.6.tar.gz",
+          "size": 12456517,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-freebsd-arm-v2.1.6.tar.gz",
+          "downloads": 106
+        },
+        {
+          "name": "syncthing-freebsd-arm64-v2.1.6.tar.gz",
+          "size": 12105886,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-freebsd-arm64-v2.1.6.tar.gz",
+          "downloads": 122
+        },
+        {
+          "name": "syncthing-illumos-amd64-v2.1.6.tar.gz",
+          "size": 14705954,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-illumos-amd64-v2.1.6.tar.gz",
+          "downloads": 120
+        },
+        {
+          "name": "syncthing-linux-386-v2.1.6.tar.gz",
+          "size": 11397279,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-386-v2.1.6.tar.gz",
+          "downloads": 333
+        },
+        {
+          "name": "syncthing-linux-amd64-v2.1.6.tar.gz",
+          "size": 11788735,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-amd64-v2.1.6.tar.gz",
+          "downloads": 5964
+        },
+        {
+          "name": "syncthing-linux-arm-v2.1.6.tar.gz",
+          "size": 11274069,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-arm-v2.1.6.tar.gz",
+          "downloads": 459
+        },
+        {
+          "name": "syncthing-linux-arm64-v2.1.6.tar.gz",
+          "size": 10844382,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-arm64-v2.1.6.tar.gz",
+          "downloads": 1113
+        },
+        {
+          "name": "syncthing-linux-loong64-v2.1.6.tar.gz",
+          "size": 11335006,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-loong64-v2.1.6.tar.gz",
+          "downloads": 83
+        },
+        {
+          "name": "syncthing-linux-mips-v2.1.6.tar.gz",
+          "size": 11185947,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-mips-v2.1.6.tar.gz",
+          "downloads": 93
+        },
+        {
+          "name": "syncthing-linux-mips64-v2.1.6.tar.gz",
+          "size": 11655671,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-mips64-v2.1.6.tar.gz",
+          "downloads": 86
+        },
+        {
+          "name": "syncthing-linux-mips64le-v2.1.6.tar.gz",
+          "size": 11421887,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-mips64le-v2.1.6.tar.gz",
+          "downloads": 87
+        },
+        {
+          "name": "syncthing-linux-mipsle-v2.1.6.tar.gz",
+          "size": 11037758,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-mipsle-v2.1.6.tar.gz",
+          "downloads": 86
+        },
+        {
+          "name": "syncthing-linux-ppc64le-v2.1.6.tar.gz",
+          "size": 11059202,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-ppc64le-v2.1.6.tar.gz",
+          "downloads": 92
+        },
+        {
+          "name": "syncthing-linux-riscv64-v2.1.6.tar.gz",
+          "size": 11209081,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-riscv64-v2.1.6.tar.gz",
+          "downloads": 114
+        },
+        {
+          "name": "syncthing-linux-s390x-v2.1.6.tar.gz",
+          "size": 11689489,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-s390x-v2.1.6.tar.gz",
+          "downloads": 84
+        },
+        {
+          "name": "syncthing-macos-amd64-v2.1.6.zip",
+          "size": 12420300,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-macos-amd64-v2.1.6.zip",
+          "downloads": 707
+        },
+        {
+          "name": "syncthing-macos-arm64-v2.1.6.zip",
+          "size": 11192122,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-macos-arm64-v2.1.6.zip",
+          "downloads": 1611
+        },
+        {
+          "name": "syncthing-macos-universal-v2.1.6.zip",
+          "size": 23577031,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-macos-universal-v2.1.6.zip",
+          "downloads": 881
+        },
+        {
+          "name": "syncthing-netbsd-amd64-v2.1.6.tar.gz",
+          "size": 12969082,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-netbsd-amd64-v2.1.6.tar.gz",
+          "downloads": 109
+        },
+        {
+          "name": "syncthing-openbsd-amd64-v2.1.6.tar.gz",
+          "size": 12992580,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-openbsd-amd64-v2.1.6.tar.gz",
+          "downloads": 102
+        },
+        {
+          "name": "syncthing-openbsd-arm64-v2.1.6.tar.gz",
+          "size": 12058554,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-openbsd-arm64-v2.1.6.tar.gz",
+          "downloads": 93
+        },
+        {
+          "name": "syncthing-source-v2.1.6.tar.gz",
+          "size": 43172847,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-source-v2.1.6.tar.gz",
+          "downloads": 604
+        },
+        {
+          "name": "syncthing-source-v2.1.6.tar.gz.asc",
+          "size": 1391,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-source-v2.1.6.tar.gz.asc",
+          "downloads": 138
+        },
+        {
+          "name": "syncthing-windows-386-v2.1.6.zip",
+          "size": 11718143,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-windows-386-v2.1.6.zip",
+          "downloads": 1234
+        },
+        {
+          "name": "syncthing-windows-amd64-v2.1.6.zip",
+          "size": 11980853,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-windows-amd64-v2.1.6.zip",
+          "downloads": 38663
+        },
+        {
+          "name": "syncthing-windows-arm64-v2.1.6.zip",
+          "size": 10896902,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-windows-arm64-v2.1.6.zip",
+          "downloads": 785
+        },
+        {
+          "name": "syncthing_2.1.6_amd64.deb",
+          "size": 11814934,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing_2.1.6_amd64.deb",
+          "downloads": 372
+        },
+        {
+          "name": "syncthing_2.1.6_arm64.deb",
+          "size": 10892992,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing_2.1.6_arm64.deb",
+          "downloads": 186
+        },
+        {
+          "name": "syncthing_2.1.6_armel.deb",
+          "size": 11293960,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing_2.1.6_armel.deb",
+          "downloads": 99
+        },
+        {
+          "name": "syncthing_2.1.6_armhf.deb",
+          "size": 11293802,
+          "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing_2.1.6_armhf.deb",
+          "downloads": 100
+        }
+      ]
+    },
+    "best_assets": [
+      {
+        "name": "syncthing-windows-arm64-v2.1.6.zip",
+        "size": 10896902,
+        "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-windows-arm64-v2.1.6.zip",
+        "platform": "Windows"
+      },
+      {
+        "name": "syncthing-macos-arm64-v2.1.6.zip",
+        "size": 11192122,
+        "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-macos-arm64-v2.1.6.zip",
+        "platform": "macOS"
+      },
+      {
+        "name": "syncthing-windows-386-v2.1.6.zip",
+        "size": 11718143,
+        "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-windows-386-v2.1.6.zip",
+        "platform": "Windows"
+      },
+      {
+        "name": "syncthing-macos-amd64-v2.1.6.zip",
+        "size": 12420300,
+        "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-macos-amd64-v2.1.6.zip",
+        "platform": "macOS"
+      },
+      {
+        "name": "syncthing-linux-arm64-v2.1.6.tar.gz",
+        "size": 10844382,
+        "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-arm64-v2.1.6.tar.gz",
+        "platform": "Linux"
+      },
+      {
+        "name": "syncthing_2.1.6_arm64.deb",
+        "size": 10892992,
+        "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing_2.1.6_arm64.deb",
+        "platform": "Linux"
+      },
+      {
+        "name": "syncthing-openbsd-arm64-v2.1.6.tar.gz",
+        "size": 12058554,
+        "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-openbsd-arm64-v2.1.6.tar.gz",
+        "platform": "通用"
+      },
+      {
+        "name": "syncthing-freebsd-arm64-v2.1.6.tar.gz",
+        "size": 12105886,
+        "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-freebsd-arm64-v2.1.6.tar.gz",
+        "platform": "通用"
+      }
+    ]
   },
   {
     "name": "Pi-hole",
@@ -1037,7 +4147,29 @@
     "subcategory_slug": "documents",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/paperless-ngx/paperless-ngx/zip/refs/heads/main",
-    "stars": 46805
+    "stars": 46805,
+    "release": {
+      "tag": "v3.3.2",
+      "name": "Paperless-ngx v3.3.2",
+      "published": "2026-10-16T06:14:32Z",
+      "url": "https://github.com/paperless-ngx/paperless-ngx/releases/tag/v3.3.2",
+      "assets": [
+        {
+          "name": "paperless-ngx-v3.3.2.tar.xz",
+          "size": 328930672,
+          "url": "https://github.com/paperless-ngx/paperless-ngx/releases/download/v3.3.2/paperless-ngx-v3.3.2.tar.xz",
+          "downloads": 1497
+        }
+      ]
+    },
+    "best_assets": [
+      {
+        "name": "paperless-ngx-v3.3.2.tar.xz",
+        "size": 328930672,
+        "url": "https://github.com/paperless-ngx/paperless-ngx/releases/download/v3.3.2/paperless-ngx-v3.3.2.tar.xz",
+        "platform": "通用"
+      }
+    ]
   },
   {
     "name": "Krita",

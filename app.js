@@ -341,6 +341,7 @@
         group.visible.forEach(function (project) {
             grid.appendChild(buildCard(project, primary));
         });
+        bindPlatformPickers();
         section.appendChild(grid);
 
         return section;
@@ -379,31 +380,101 @@
             stats += '<span class="stat-item">' + iconMarkup("clock") + relativeTime(project.updated_at) + "</span>";
         }
 
-        /* download_url 优先：codeload zip 直链；否则跳仓库首页 */
-        var downloadUrl = project.download_url || (project.repo ? "https://github.com/" + project.repo : "");
+        /* 源码 zip：codeload 直链 */
+        var sourceUrl = project.download_url || (project.repo ? "https://github.com/" + project.repo : "");
+
+        /* 安装包：从 Release 资产里挑出的候选包 */
+        var assets = Array.isArray(project.best_assets) ? project.best_assets : [];
+
+        /* 有多个包时才显示选择器，避免下拉只有一个选项显得多余 */
+        var platformPicker = "";
+        if (assets.length > 1) {
+            var options = assets
+                .map(function (asset) {
+                    return (
+                        '<option value="' + escapeHtml(asset.url) + '">' +
+                        escapeHtml(asset.platform + " · " + asset.name + " · " + formatSize(asset.size)) +
+                        "</option>"
+                    );
+                })
+                .join("");
+            platformPicker =
+                '<select class="platform-select" aria-label="选择安装包" data-btn-for="' +
+                escapeHtml(project.repo || "") + '">' + options + "</select>";
+        }
+
+        var repoUrl = project.repo ? "https://github.com/" + project.repo : "";
+        var version = project.release ? project.release.tag : "";
 
         card.innerHTML =
             '<div class="card-top">' +
             "<div>" +
             "<h3>" + escapeHtml(project.name || "未命名项目") + "</h3>" +
-            '<span class="repo">' + escapeHtml(project.repo || "") + "</span>" +
+            '<span class="repo">' + escapeHtml(project.repo || "") +
+            (version ? ' <em class="ver">' + escapeHtml(version) + "</em>" : "") +
+            "</span>" +
             "</div></div>" +
             '<p class="desc">' + escapeHtml(project.note_zh || "暂无简介") + "</p>" +
             (stats ? '<div class="stats-row">' + stats + "</div>" : "") +
             '<div class="tags">' + tags + "</div>" +
             '<div class="card-foot">' +
             '<span class="license">' + escapeHtml(project.license || "未知协议") + "</span>" +
-            (downloadUrl
-                ? '<a class="btn" href="' + escapeHtml(downloadUrl) + '" target="_blank" rel="noopener noreferrer">' +
+            '<div class="dl-group">' +
+            platformPicker +
+            (assets.length
+                ? '<a class="btn btn-dl" href="' + escapeHtml(assets[0].url) +
+                  '" target="_blank" rel="noopener noreferrer" data-dl-for="' +
+                  escapeHtml(project.repo || "") + '">' +
+                  iconMarkup("package") + '<span class="btn-label">下载应用</span>' +
+                  '<span class="dl-size">' + escapeHtml(formatSize(assets[0].size)) + "</span></a>"
+                // 没有官方编译包：按钮置灰不可点，提示只能自行构建
+                : '<span class="btn btn-dl is-disabled" aria-disabled="true" title="该项目未提供官方编译包，请从源码自行构建或用 Docker 部署">' +
+                  iconMarkup("package") + '<span class="btn-label">下载应用</span>' +
+                  '<span class="dl-size">无官方包</span></span>') +
+            (sourceUrl
+                ? '<a class="btn btn-src" href="' + escapeHtml(sourceUrl) +
+                  '" target="_blank" rel="noopener noreferrer">' +
                   iconMarkup("download") + "下载源码</a>"
                 : "") +
-            (project.repo
-                ? '<a class="repo-link" href="https://github.com/' + escapeHtml(project.repo) +
+            (repoUrl
+                ? '<a class="repo-link" href="' + escapeHtml(repoUrl) +
                   '" target="_blank" rel="noopener noreferrer" title="在 GitHub 打开仓库">GitHub</a>'
                 : "") +
-            "</div>";
+            "</div></div>";
 
         return card;
+    }
+
+    /** 切换安装包选择器时，更新「下载应用」的链接与体积 */
+    function bindPlatformPickers() {
+        Array.prototype.forEach.call(
+            document.querySelectorAll(".platform-select"),
+            function (select) {
+                select.addEventListener("change", function () {
+                    var repo = select.getAttribute("data-btn-for");
+                    var button = document.querySelector('.btn-dl[data-dl-for="' + repo + '"]');
+                    if (!button) return;
+                    button.setAttribute("href", select.value);
+
+                    // 从选项文本里取出体积更新到按钮上
+                    var option = select.options[select.selectedIndex];
+                    var sizeNode = button.querySelector(".dl-size");
+                    if (sizeNode && option) {
+                        var match = /\s·\s([\d.]+\s(?:KB|MB|GB))$/.exec(option.textContent);
+                        if (match) sizeNode.textContent = match[1];
+                    }
+                });
+            }
+        );
+    }
+
+    /** 字节数 -> 人类可读体积 */
+    function formatSize(bytes) {
+        if (!bytes) return "";
+        var mb = bytes / 1048576;
+        if (mb >= 1024) return (mb / 1024).toFixed(1) + " GB";
+        if (mb >= 1) return mb.toFixed(mb >= 100 ? 0 : 1) + " MB";
+        return Math.max(1, Math.round(bytes / 1024)) + " KB";
     }
 
     /** 12345 -> 12.3k */
