@@ -2,9 +2,9 @@
  * 开源集市 · 前端渲染逻辑
  * 数据源：同目录下的 projects.json
  *
- * 分类是两级结构：
- *   一级分类（category_slug）→ 二级分类（subcategory_slug）
- * 新增项目时只需要编辑 projects.json，本文件通常无需改动。
+ * 页面结构：顶部一级分类导航（带滚动高亮） → 按一级分类分区的内容区，
+ * 每个分区内部用二级分类小标签做筛选，全局还有一个搜索框。
+ * 新增项目只需要编辑 projects.json，本文件通常无需改动。
  */
 (function () {
     "use strict";
@@ -13,14 +13,13 @@
 
     /**
      * 分类体系：一级 + 二级。
-     * slug 用于数据匹配与筛选，label 用于展示，顺序即筛选栏的展示顺序。
-     * 新增分类时在这里加一项，再在 projects.json 里用对应 slug 引用即可。
+     * slug 用于数据匹配与筛选，label 用于展示，color 是分区配色。
+     * 新增分类：在两处（app.js / tools/check-data.mjs）同步加一项即可。
      */
     var TAXONOMY = [
         {
-            slug: "ecommerce",
-            label: "电商",
-            icon: "cart",
+            slug: "ecommerce", label: "电商", icon: "cart", color: "#15803d",
+            blurb: "商城系统、无头电商与前端模板",
             children: [
                 { slug: "headless", label: "无头电商" },
                 { slug: "storefront", label: "电商前端" },
@@ -28,18 +27,16 @@
             ]
         },
         {
-            slug: "game",
-            label: "游戏",
-            icon: "gamepad",
+            slug: "game", label: "游戏", icon: "gamepad", color: "#6d28d9",
+            blurb: "游戏引擎与可玩的开源客户端",
             children: [
                 { slug: "engine", label: "游戏引擎" },
                 { slug: "client", label: "游戏客户端" }
             ]
         },
         {
-            slug: "social",
-            label: "社交",
-            icon: "chat",
+            slug: "social", label: "社交", icon: "chat", color: "#0369a1",
+            blurb: "论坛、微博客与即时通讯",
             children: [
                 { slug: "microblog", label: "微博客" },
                 { slug: "im", label: "即时通讯" },
@@ -47,33 +44,29 @@
             ]
         },
         {
-            slug: "finance",
-            label: "金融",
-            icon: "money",
+            slug: "finance", label: "金融", icon: "money", color: "#b45309",
+            blurb: "记账、预算与投资组合管理",
             children: [
                 { slug: "personal-finance", label: "个人财务" },
                 { slug: "investment", label: "投资管理" }
             ]
         },
         {
-            slug: "education",
-            label: "教育",
-            icon: "cap",
+            slug: "education", label: "教育", icon: "cap", color: "#0e7490",
+            blurb: "在线学习平台与互动课程工具",
             children: [
                 { slug: "lms", label: "在线学习" },
                 { slug: "interactive", label: "互动课程" }
             ]
         },
         {
-            slug: "medical",
-            label: "医疗",
-            icon: "medical",
+            slug: "medical", label: "医疗", icon: "medical", color: "#be123c",
+            blurb: "电子病历与诊所管理系统",
             children: [{ slug: "emr", label: "电子病历" }]
         },
         {
-            slug: "enterprise",
-            label: "企业服务",
-            icon: "building",
+            slug: "enterprise", label: "企业服务", icon: "building", color: "#1d4ed8",
+            blurb: "后台管理、低代码、数据分析与协作",
             children: [
                 { slug: "admin", label: "后台管理" },
                 { slug: "low-code", label: "低代码平台" },
@@ -82,18 +75,16 @@
             ]
         },
         {
-            slug: "media",
-            label: "内容媒体",
-            icon: "media",
+            slug: "media", label: "内容媒体", icon: "media", color: "#be185d",
+            blurb: "建站系统与影音媒体服务",
             children: [
                 { slug: "cms", label: "建站与 CMS" },
                 { slug: "streaming", label: "影音媒体" }
             ]
         },
         {
-            slug: "tool",
-            label: "工具",
-            icon: "tool",
+            slug: "tool", label: "工具", icon: "tool", color: "#334155",
+            blurb: "设计、笔记、开发与自动化工具",
             children: [
                 { slug: "design", label: "设计工具" },
                 { slug: "notes", label: "笔记工具" },
@@ -106,38 +97,36 @@
             ]
         },
         {
-            slug: "government",
-            label: "政务",
-            icon: "landmark",
+            slug: "government", label: "政务", icon: "landmark", color: "#57534e",
+            blurb: "公众参与与开放数据平台",
             children: [
                 { slug: "participation", label: "公众参与" },
                 { slug: "open-data", label: "开放数据" }
             ]
         },
         {
-            slug: "other",
-            label: "其他",
-            icon: "grid",
+            slug: "other", label: "其他", icon: "grid", color: "#64748b",
+            blurb: "暂时还没归类的项目",
             children: []
         }
     ];
 
+    /** 每个分区的二级筛选状态：{ 一级slug: "all" | 二级slug } */
     var state = {
         projects: [],
-        activeSlug: "all",
-        activeSub: "all"
+        query: "",
+        sub: {}
     };
 
-    var els = { grid: null, filters: null, subfilters: null, status: null };
+    var els = { nav: null, app: null, status: null, search: null };
 
     document.addEventListener("DOMContentLoaded", init);
 
     function init() {
-        els.grid = document.getElementById("app");
-        els.filters = document.getElementById("filters");
-        els.subfilters = document.getElementById("subfilters");
+        els.nav = document.getElementById("nav");
+        els.app = document.getElementById("app");
         els.status = document.getElementById("status");
-        if (!els.grid) return;
+        els.search = document.getElementById("search");
 
         fetch(DATA_URL, { cache: "no-store" })
             .then(function (response) {
@@ -151,30 +140,64 @@
                     throw new Error("projects.json 的最外层必须是一个数组 []");
                 }
                 state.projects = projects;
-                renderPrimaryFilters();
-                applyFilter("all", "all");
+                bindSearch();
+                renderAll();
+                initScrollSpy();
+                updateStats();
             })
             .catch(function (error) {
                 console.error("加载数据失败:", error);
-                els.grid.innerHTML = "";
-                els.grid.appendChild(buildErrorPanel(error));
-                if (els.filters) els.filters.innerHTML = "";
-                if (els.subfilters) els.subfilters.innerHTML = "";
-                if (els.status) els.status.textContent = "";
+                els.app.innerHTML = "";
+                els.app.appendChild(buildErrorPanel(error));
+                els.status.textContent = "";
+                if (els.nav) els.nav.innerHTML = "";
             });
     }
 
-    /* --------------------------- 分类解析 --------------------------- */
+    /* ------------------------------ 搜索 ------------------------------ */
 
-    function findPrimary(slug) {
-        return (
-            TAXONOMY.filter(function (item) {
-                return item.slug === slug;
-            })[0] || null
-        );
+    function bindSearch() {
+        if (!els.search) return;
+        var timer = null;
+        els.search.addEventListener("input", function () {
+            clearTimeout(timer);
+            timer = setTimeout(function () {
+                state.query = els.search.value.trim().toLowerCase();
+                renderAll();
+            }, 120);
+        });
+        document.addEventListener("keydown", function (event) {
+            var tag = (event.target && event.target.tagName) || "";
+            if (event.key === "/" && tag !== "INPUT" && tag !== "TEXTAREA") {
+                event.preventDefault();
+                els.search.focus();
+            }
+        });
     }
 
-    /** 兼容只写中文、或写了未知 slug 的数据：落到「其他」 */
+    function matchesQuery(project) {
+        if (!state.query) return true;
+        var haystack = [
+            project.name,
+            project.note_zh,
+            project.repo,
+            project.category,
+            project.subcategory,
+            project.license,
+            project.deploy_type,
+            (project.tech_stack || []).join(" ")
+        ]
+            .join(" ")
+            .toLowerCase();
+        return haystack.indexOf(state.query) !== -1;
+    }
+
+    /* ------------------------------ 分类解析 ------------------------------ */
+
+    function findPrimary(slug) {
+        return TAXONOMY.filter(function (item) { return item.slug === slug; })[0] || null;
+    }
+
     function resolveCategory(project) {
         var meta = project.category_slug ? findPrimary(project.category_slug) : null;
         if (!meta && project.category) {
@@ -182,265 +205,299 @@
                 return item.label === project.category;
             })[0];
         }
-        return meta || { slug: "other", label: project.category || "其他", icon: "grid", children: [] };
+        return meta || { slug: "other", label: project.category || "其他", icon: "grid", color: "#64748b", children: [] };
     }
 
     function resolveSubcategory(project, primary) {
         var children = primary.children || [];
         var sub = project.subcategory_slug
-            ? children.filter(function (item) {
-                  return item.slug === project.subcategory_slug;
-              })[0]
+            ? children.filter(function (item) { return item.slug === project.subcategory_slug; })[0]
             : null;
         if (!sub && project.subcategory) {
-            sub = children.filter(function (item) {
-                return item.label === project.subcategory;
-            })[0];
+            sub = children.filter(function (item) { return item.label === project.subcategory; })[0];
         }
         return sub || null;
     }
 
-    function countByPrimary(projects) {
+    /* ------------------------------ 渲染 ------------------------------ */
+
+    /** 分组：按一级分类聚合，同时应用搜索与二级筛选 */
+    function groupProjects() {
+        var groups = TAXONOMY.map(function (primary) {
+            var all = state.projects.filter(function (project) {
+                return resolveCategory(project).slug === primary.slug;
+            });
+            var visible = all.filter(function (project) {
+                if (!matchesQuery(project)) return false;
+                var activeSub = state.sub[primary.slug] || "all";
+                if (activeSub === "all") return true;
+                var sub = resolveSubcategory(project, primary);
+                return !!sub && sub.slug === activeSub;
+            });
+            return { primary: primary, all: all, visible: visible };
+        });
+        return groups.filter(function (group) {
+            return group.visible.length > 0;
+        });
+    }
+
+    function renderAll() {
+        var groups = groupProjects();
+        renderNav(groups);
+        renderSections(groups);
+        renderStatus(groups);
+    }
+
+    function renderNav(groups) {
+        if (!els.nav) return;
         var counts = {};
-        projects.forEach(function (project) {
+        state.projects.forEach(function (project) {
             var slug = resolveCategory(project).slug;
             counts[slug] = (counts[slug] || 0) + 1;
         });
-        return counts;
-    }
 
-    function countBySub(projects, primarySlug) {
-        var counts = {};
-        projects.forEach(function (project) {
-            var primary = resolveCategory(project);
-            if (primary.slug !== primarySlug) return;
-            var sub = resolveSubcategory(project, primary);
-            if (!sub) return;
-            counts[sub.slug] = (counts[sub.slug] || 0) + 1;
-        });
-        return counts;
-    }
-
-    /* --------------------------- 一级筛选栏 --------------------------- */
-
-    function renderPrimaryFilters() {
-        if (!els.filters) return;
-        var counts = countByPrimary(state.projects);
-        els.filters.innerHTML = "";
-
-        var options = [{ slug: "all", label: "全部", count: state.projects.length, icon: "grid" }];
-        TAXONOMY.forEach(function (item) {
-            if (counts[item.slug]) {
-                options.push({
-                    slug: item.slug,
-                    label: item.label,
-                    count: counts[item.slug],
-                    icon: item.icon
-                });
-            }
-        });
-
-        options.forEach(function (option) {
-            els.filters.appendChild(
-                buildFilterButton(option, "primary", option.slug === state.activeSlug, function () {
-                    applyFilter(option.slug, "all");
-                })
-            );
-        });
-    }
-
-    /* --------------------------- 二级筛选栏 --------------------------- */
-
-    function renderSubFilters() {
-        if (!els.subfilters) return;
-        els.subfilters.innerHTML = "";
-
-        var primary = state.activeSlug === "all" ? null : findPrimary(state.activeSlug);
-        var children = primary ? primary.children || [] : [];
-
-        if (!primary || !children.length) {
-            els.subfilters.hidden = true;
-            return;
-        }
-
-        var counts = countBySub(state.projects, primary.slug);
-        var total = countByPrimary(state.projects)[primary.slug] || 0;
-
-        els.subfilters.hidden = false;
-        els.subfilters.appendChild(
-            buildFilterButton(
-                { slug: "all", label: "全部" + primary.label, count: total },
-                "sub",
-                state.activeSub === "all",
-                function () {
-                    applyFilter(primary.slug, "all");
-                }
-            )
-        );
-
-        children.forEach(function (child) {
-            if (!counts[child.slug]) return;
-            els.subfilters.appendChild(
-                buildFilterButton(
-                    { slug: child.slug, label: child.label, count: counts[child.slug] },
-                    "sub",
-                    state.activeSub === child.slug,
-                    function () {
-                        applyFilter(primary.slug, child.slug);
-                    }
-                )
-            );
-        });
-    }
-
-    function buildFilterButton(option, level, isActive, onClick) {
-        var button = document.createElement("button");
-        button.type = "button";
-        button.className =
-            "filter-btn " + (level === "sub" ? "filter-btn--sub" : "filter-btn--primary") +
-            (isActive ? " is-active" : "");
-        button.setAttribute("data-level", level);
-        button.setAttribute("data-slug", option.slug);
-        button.setAttribute("aria-pressed", String(isActive));
-        button.innerHTML =
-            (option.icon ? iconMarkup(option.icon) : "") +
-            escapeHtml(option.label) + '<span class="filter-count">' + option.count + "</span>";
-        button.addEventListener("click", onClick);
-        return button;
-    }
-
-    /* --------------------------- 应用筛选 --------------------------- */
-
-    function applyFilter(primarySlug, subSlug) {
-        state.activeSlug = primarySlug;
-        state.activeSub = subSlug || "all";
-
-        syncButtons("primary", primarySlug);
-        renderSubFilters();
-        syncButtons("sub", state.activeSub);
-
-        var visible = state.projects.filter(function (project) {
-            var primary = resolveCategory(project);
-            if (primarySlug !== "all" && primary.slug !== primarySlug) return false;
-            if (state.activeSub === "all") return true;
-            var sub = resolveSubcategory(project, primary);
-            return !!sub && sub.slug === state.activeSub;
-        });
-
-        renderGrid(visible);
-        updateStatus(visible);
-    }
-
-    function syncButtons(level, activeSlug) {
-        var buttons = document.querySelectorAll('.filter-btn[data-level="' + level + '"]');
-        Array.prototype.forEach.call(buttons, function (button) {
-            var isActive = button.getAttribute("data-slug") === activeSlug;
-            button.classList.toggle("is-active", isActive);
-            button.setAttribute("aria-pressed", String(isActive));
-        });
-    }
-
-    function updateStatus(visible) {
-        if (!els.status) return;
-        var total = state.projects.length;
-        var parts = [];
-
-        if (state.activeSlug === "all") {
-            parts.push("共收录 " + total + " 个开源项目 · 点分类筛选，点按钮直达仓库");
-        } else {
-            var primary = findPrimary(state.activeSlug);
-            var label = primary ? primary.label : state.activeSlug;
-            if (state.activeSub !== "all") {
-                var child = (primary.children || []).filter(function (item) {
-                    return item.slug === state.activeSub;
-                })[0];
-                if (child) label += " / " + child.label;
-            }
-            parts.push(
-                "当前分类：" + label + " · " + visible.length + " 个项目（共 " + total + " 个）"
-            );
-        }
-
-        els.status.textContent = parts.join(" ");
-    }
-
-    /* --------------------------- 卡片渲染 --------------------------- */
-
-    function renderGrid(projects) {
-        els.grid.innerHTML = "";
-        if (!projects.length) {
-            var empty = document.createElement("p");
-            empty.className = "placeholder";
-            empty.textContent = "这个分类下还没有收录项目，去 projects.json 里加一个吧。";
-            els.grid.appendChild(empty);
-            return;
-        }
-        var fragment = document.createDocumentFragment();
-        projects.forEach(function (project) {
-            fragment.appendChild(buildCard(project));
-        });
-        els.grid.appendChild(fragment);
-    }
-
-    function buildCard(project) {
-        var card = document.createElement("div");
-        card.className = "card";
-
-        var primary = resolveCategory(project);
-        var sub = resolveSubcategory(project, primary);
-        var techStack = Array.isArray(project.tech_stack) ? project.tech_stack : [];
-
-        var tagsHtml =
-            '<span class="tag category">' + iconMarkup(primary.icon) + escapeHtml(primary.label) + "</span>" +
-            (sub ? '<span class="tag subcategory">' + escapeHtml(sub.label) + "</span>" : "") +
-            (project.deploy_type
-                ? '<span class="tag deploy">' + escapeHtml(project.deploy_type) + "</span>"
-                : "") +
-            techStack
-                .map(function (tech) {
-                    return '<span class="tag">' + escapeHtml(tech) + "</span>";
+        var navHtml =
+            '<a class="nav-link" href="#top" data-slug="__all__">' + iconMarkup("grid") + "全部" +
+            '<span class="n">' + state.projects.length + "</span></a>" +
+            TAXONOMY.filter(function (item) { return counts[item.slug]; })
+                .map(function (item) {
+                    return (
+                        '<a class="nav-link" href="#sec-' + item.slug + '" data-slug="' +
+                        escapeHtml(item.slug) + '">' + iconMarkup(item.icon) + escapeHtml(item.label) +
+                        '<span class="n">' + (counts[item.slug] || 0) + "</span></a>"
+                    );
                 })
                 .join("");
 
-        var repoUrl = project.repo ? "https://github.com/" + project.repo : "";
-        var demoUrl = project.demo_url || "";
+        els.nav.innerHTML = navHtml;
+    }
+
+    function renderSections(groups) {
+        els.app.innerHTML = "";
+        if (!groups.length) {
+            els.app.appendChild(buildEmptyState());
+            return;
+        }
+        var fragment = document.createDocumentFragment();
+        groups.forEach(function (group) {
+            fragment.appendChild(buildSection(group));
+        });
+        els.app.appendChild(fragment);
+    }
+
+    function buildSection(group) {
+        var primary = group.primary;
+        var section = document.createElement("section");
+        section.className = "section";
+        section.id = "sec-" + primary.slug;
+
+        /* 分区头：图标 + 标题 + 数量 */
+        var head = document.createElement("div");
+        head.className = "section-head";
+        head.innerHTML =
+            '<span class="section-icon" style="background:' + tint(primary.color, .12) + ";color:" + primary.color + '">' +
+            iconMarkup(primary.icon) +
+            "</span>" +
+            '<div class="section-title">' +
+            "<h2>" + escapeHtml(primary.label) + "</h2>" +
+            "<p>" + escapeHtml(primary.blurb || "") + " · " + group.visible.length + " 个项目</p>" +
+            "</div>";
+        section.appendChild(head);
+
+        /* 二级分类筛选行 */
+        var subCounts = {};
+        group.all.forEach(function (project) {
+            var sub = resolveSubcategory(project, primary);
+            if (sub) subCounts[sub.slug] = (subCounts[sub.slug] || 0) + 1;
+        });
+
+        var activeSub = state.sub[primary.slug] || "all";
+        var hasSub = (primary.children || []).length > 0;
+        if (hasSub) {
+            var chips = document.createElement("div");
+            chips.className = "subchips";
+
+            chips.appendChild(
+                buildSubChip(primary.slug, "all", "全部", group.visible.length, activeSub === "all")
+            );
+            primary.children.forEach(function (child) {
+                if (!subCounts[child.slug]) return;
+                chips.appendChild(
+                    buildSubChip(primary.slug, child.slug, child.label, subCounts[child.slug], activeSub === child.slug)
+                );
+            });
+            section.appendChild(chips);
+        }
+
+        /* 卡片网格 */
+        var grid = document.createElement("div");
+        grid.className = "grid";
+        group.visible.forEach(function (project) {
+            grid.appendChild(buildCard(project, primary));
+        });
+        section.appendChild(grid);
+
+        return section;
+    }
+
+    function buildSubChip(primarySlug, subSlug, label, count, isActive) {
+        var chip = document.createElement("button");
+        chip.type = "button";
+        chip.className = "chip" + (isActive ? " is-active" : "");
+        chip.innerHTML = escapeHtml(label) + '<span class="n">' + count + "</span>";
+        chip.addEventListener("click", function () {
+            state.sub[primarySlug] = subSlug;
+            renderAll();
+        });
+        return chip;
+    }
+
+    function buildCard(project, primary) {
+        var card = document.createElement("article");
+        card.className = "card";
+
+        var sub = resolveSubcategory(project, primary);
+        var tech = (Array.isArray(project.tech_stack) ? project.tech_stack : []).slice(0, 4);
+        var tags = (sub ? '<span class="chip-tag sub">' + escapeHtml(sub.label) + "</span>" : "") +
+            (project.deploy_type ? '<span class="chip-tag deploy">' + escapeHtml(project.deploy_type) + "</span>" : "") +
+            tech.map(function (item) {
+                return '<span class="chip-tag">' + escapeHtml(item) + "</span>";
+            }).join("");
+
+        /* download_url 可选：填了 Release / 归档直链就优先用它，否则跳仓库首页 */
+        var downloadUrl = project.download_url || (project.repo ? "https://github.com/" + project.repo : "");
 
         card.innerHTML =
+            '<div class="card-top">' +
+            "<div>" +
             "<h3>" + escapeHtml(project.name || "未命名项目") + "</h3>" +
-            '<div class="tags">' + tagsHtml + "</div>" +
-            '<div class="desc">' + escapeHtml(project.note_zh || "暂无简介") + "</div>" +
-            '<div class="meta">' +
-            "<strong>协议：</strong>" + escapeHtml(project.license || "未知") + " &nbsp;|&nbsp; " +
-            "<strong>仓库：</strong><code>" + escapeHtml(project.repo || "-") + "</code>" +
-            "</div>" +
-            '<div class="actions">' +
-            (repoUrl
-                ? '<a class="btn" href="' + escapeHtml(repoUrl) + '" target="_blank" rel="noopener noreferrer">' +
-                  iconMarkup("download") + "去 GitHub 下载</a>"
-                : "") +
-            (demoUrl
-                ? '<a class="btn btn-demo" href="' + escapeHtml(demoUrl) + '" target="_blank" rel="noopener noreferrer">' +
-                  iconMarkup("external") + "在线演示</a>"
+            '<span class="repo">' + escapeHtml(project.repo || "") + "</span>" +
+            "</div></div>" +
+            '<p class="desc">' + escapeHtml(project.note_zh || "暂无简介") + "</p>" +
+            '<div class="tags">' + tags + "</div>" +
+            '<div class="card-foot">' +
+            '<span class="license">' + escapeHtml(project.license || "未知协议") + "</span>" +
+            (downloadUrl
+                ? '<a class="btn" href="' + escapeHtml(downloadUrl) + '" target="_blank" rel="noopener noreferrer">' +
+                  iconMarkup("download") + "去 GitHub</a>"
                 : "") +
             "</div>";
 
         return card;
     }
 
-    /* --------------------------- 错误提示 --------------------------- */
+    function renderStatus(groups) {
+        if (!els.status) return;
+        var total = state.projects.length;
+        var shown = groups.reduce(function (sum, group) { return sum + group.visible.length; }, 0);
+
+        if (state.query) {
+            els.status.textContent = "搜索「" + state.query + "」，命中 " + shown + " 个项目（共 " + total + " 个）";
+        } else if (groups.length === 1) {
+            els.status.textContent = "分类：[" + groups[0].primary.label + "]" + " · " + shown + " 个项目（共 " + total + " 个）";
+        } else {
+            els.status.textContent = "共收录 " + total + " 个开源项目，点上方分类可以快速定位。";
+        }
+    }
+
+    /* ------------------------------ 滚动高亮 ------------------------------ */
+
+    function initScrollSpy() {
+        var links = Array.prototype.slice.call(document.querySelectorAll(".nav-link"));
+
+        links.forEach(function (link) {
+            link.addEventListener("click", function (event) {
+                event.preventDefault();
+                var slug = link.getAttribute("data-slug");
+                if (slug === "__all__") {
+                    window.scrollTo({ top: 0, behavior: "smooth" });
+                    return;
+                }
+                var target = document.getElementById("sec-" + slug);
+                if (target) {
+                    window.scrollTo({ top: target.getBoundingClientRect().top + window.pageYOffset - 76, behavior: "smooth" });
+                }
+            });
+        });
+
+        function onScroll() {
+            var current = null;
+            var allLink = null;
+            if (window.pageYOffset <= 120) {
+                allLink = links.filter(function (link) {
+                    return link.getAttribute("data-slug") === "__all__";
+                })[0];
+            }
+            links.forEach(function (link) {
+                if (link.getAttribute("data-slug") === "__all__") return;
+                var section = document.getElementById("sec-" + link.getAttribute("data-slug"));
+                if (section && section.getBoundingClientRect().top <= 90) {
+                    current = link;
+                }
+            });
+            links.forEach(function (link) { link.classList.remove("is-active"); });
+            var toHighlight = current || allLink;
+            if (toHighlight) toHighlight.classList.add("is-active");
+        }
+
+        window.addEventListener("scroll", onScroll, { passive: true });
+        onScroll();
+    }
+
+    /* ------------------------------ 统计 / 空态 / 错误 ------------------------------ */
+
+    function updateStats() {
+        var primaryCount = new Set(state.projects.map(function (project) {
+            return resolveCategory(project).slug;
+        })).size;
+        var subSet = {};
+        state.projects.forEach(function (project) {
+            var primary = resolveCategory(project);
+            var sub = resolveSubcategory(project, primary);
+            if (sub) subSet[primary.slug + "/" + sub.slug] = true;
+        });
+
+        setText("stat-projects", state.projects.length);
+        setText("stat-primary", primaryCount);
+        setText("stat-sub", Object.keys(subSet).length);
+        setText("stat-download", state.projects.filter(function (project) {
+            return !!(project.download_url || project.repo);
+        }).length);
+    }
+
+    function setText(id, value) {
+        var node = document.getElementById(id);
+        if (node) node.textContent = value;
+    }
+
+    function buildEmptyState() {
+        var box = document.createElement("div");
+        box.className = "empty";
+        box.innerHTML = "<p>没有符合条件的项目。</p>";
+        var btn = document.createElement("button");
+        btn.type = "button";
+        btn.textContent = "清除搜索与筛选";
+        btn.addEventListener("click", function () {
+            state.query = "";
+            state.sub = {};
+            if (els.search) els.search.value = "";
+            renderAll();
+        });
+        box.appendChild(btn);
+        return box;
+    }
 
     function buildErrorPanel(error) {
         var panel = document.createElement("div");
         panel.className = "error";
 
-        var isFileProtocol =
-            typeof location !== "undefined" && location.protocol === "file:";
+        var isFileProtocol = typeof location !== "undefined" && location.protocol === "file:";
 
         if (isFileProtocol) {
             panel.innerHTML =
                 "<h2>数据没有加载出来：浏览器禁止本地文件读取 projects.json</h2>" +
                 "<p>你是直接双击打开的 <code>index.html</code>（地址栏是 <code>file://</code>）。" +
-                "浏览器出于安全策略，不允许页面用 fetch 读取同目录的 JSON 文件，所以卡片区域是空的。" +
+                "浏览器出于安全策略，不允许页面用 fetch 读取同目录的 JSON 文件，所以这里是空的。" +
                 "文件本身没有问题，换一种打开方式即可。</p>" +
                 "<p><strong>方式一：起一个本地静态服务器（推荐，任选一条）</strong></p>" +
                 "<pre>python -m http.server 8000\n# 然后浏览器访问 http://localhost:8000</pre>" +
@@ -454,22 +511,24 @@
                 "<h2>数据加载失败</h2>" +
                 "<p>请检查 <code>projects.json</code> 是否存在，以及 JSON 格式是否合法" +
                 "（常见问题：多写了逗号、用了中文引号、括号没闭合）。</p>" +
-                "<pre>" + escapeHtml(String(error && error.message ? error.message : error)) + "</pre>" +
-                "<p>提示：可以在 VS Code 里打开 projects.json，出现红色波浪线的地方就是语法错误。</p>";
+                "<pre>" + escapeHtml(String(error && error.message ? error.message : error)) + "</pre>";
         }
 
         return panel;
     }
 
-    /* --------------------------- 工具函数 --------------------------- */
+    /* ------------------------------ 工具 ------------------------------ */
+
+    /** 给分类主色调一个浅色底，用作图标方块背景 */
+    function tint(hex, alpha) {
+        var m = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex || "");
+        if (!m) return "#f3f4f6";
+        return "rgba(" + parseInt(m[1], 16) + "," + parseInt(m[2], 16) + "," + parseInt(m[3], 16) + "," + alpha + ")";
+    }
 
     /** 引用 index.html 里的图标精灵：<use href="#icon-xxx"> */
     function iconMarkup(name) {
-        return (
-            '<svg class="icon" aria-hidden="true" focusable="false"><use href="#icon-' +
-            escapeHtml(name) +
-            '"></use></svg>'
-        );
+        return '<svg class="icon" aria-hidden="true" focusable="false"><use href="#icon-' + escapeHtml(name) + '"></use></svg>';
     }
 
     function escapeHtml(value) {

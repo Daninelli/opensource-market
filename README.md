@@ -13,7 +13,7 @@
 ```
 opensource-market/
 ├── index.html          # 页面结构、样式、SVG 图标精灵
-├── app.js              # 分类体系 + 读取 projects.json 并渲染
+├── app.js              # 分类体系 + 分区渲染 + 二级筛选 + 搜索
 ├── projects.json       # 项目数据（要新增项目改这里）
 ├── favicon.svg         # 自绘站点图标
 ├── tools/
@@ -22,6 +22,17 @@ opensource-market/
 ├── .gitignore
 └── README.md
 ```
+
+---
+
+## 页面结构
+
+- **Hero 区**：站点名 + 一句话介绍 + 实时统计（项目数 / 一级分类数 / 二级分类数 / 可下载数）
+- **工具条（吸顶）**：一级分类导航（带项目数，滚动时自动高亮当前分区）+ 搜索框（按 `/` 快速聚焦）
+- **内容区**：按**一级分类分区**展示。每个分区有标题、一句说明，以及**二级分类筛选 chip**；卡片按筛选结果实时过滤
+- **搜索**：跨项目名 / 简介 / 仓库 / 技术栈 / 分类 / 部署方式 / 协议全文匹配
+
+每张卡片只有一个 **「去 GitHub」** 下载按钮，直达 GitHub 仓库（若数据里提供了 `download_url`，会优先跳到 Release 或归档直链）。本站是纯静态托管，不托管任何项目演示，所以没有演示按钮。
 
 ---
 
@@ -123,24 +134,24 @@ git push -u origin main
   "tech_stack": ["Vue 3", "TypeScript"],
   "deploy_type": "Docker 部署",
   "note_zh": "一两句话说清楚：它是什么、解决什么问题、适合谁用。",
-  "demo_url": "https://在线演示地址（没有就填空字符串）",
-  "license": "MIT"
+  "license": "MIT",
+  "download_url": ""
 }
 ```
 
 | 字段 | 必填 | 说明 |
 | --- | --- | --- |
 | `name` | 是 | 展示名称 |
-| `repo` | 是 | GitHub 仓库，格式 `owner/repo`，卡片按钮自动拼成 `https://github.com/owner/repo` |
+| `repo` | 是 | GitHub 仓库，格式 `owner/repo`，下载按钮默认跳这里 |
 | `category` | 是 | 一级分类中文名，必须与 `category_slug` 对应 |
 | `category_slug` | 是 | 一级分类英文 slug，见上表 |
 | `subcategory` | 建议 | 二级分类中文名，必须与 `subcategory_slug` 对应 |
 | `subcategory_slug` | 建议 | 二级分类英文 slug，见上表 |
-| `tech_stack` | 是 | 技术栈标签，字符串数组 |
+| `tech_stack` | 是 | 技术栈标签，字符串数组（卡片最多展示 4 个） |
 | `deploy_type` | 是 | 部署形态：前端源码 / Docker 部署 / 传统部署 / 二进制 等 |
 | `note_zh` | 是 | 中文简介，卡片正文 |
-| `demo_url` | 是 | 在线演示地址，没有就留空字符串 `""` |
 | `license` | 是 | 开源协议，**请以仓库 LICENSE 文件为准** |
+| `download_url` | 否 | 想直接给 Release / 归档 zip 链接时填；留空或删除则跳仓库首页 |
 
 ### 改完记得自检
 
@@ -154,9 +165,9 @@ node tools/check-data.mjs
 
 ## 后续可以加的功能
 
-- 关键词搜索框（配合现有两级筛选）
-- 按 star 数排序、随机推荐
-- GitHub Action 定时抓取仓库 star / 更新时间，自动刷新 `projects.json`
+- 按 star 数排序（可配合 GitHub Action 定时抓取仓库 star / 更新时间）
+- 深色模式
+- 收藏 / 稍后看（存 localStorage）
 
 ---
 
