@@ -277,7 +277,10 @@
         }
 
         .card-top { display: flex; align-items: flex-start; gap: 10px; }
-        .card h3 { margin: 0; font-size: 1.02rem; color: var(--ink); line-height: 1.4; }
+        .card-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 10px; }
+        .card-top > div { min-width: 0; flex: 1; }
+        .title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 10px; }
+        .card h3 { margin: 0; font-size: 1.02rem; color: var(--ink); line-height: 1.4; min-width: 0; }
         .card .repo {
             display: inline-block;
             margin-top: 2px;
@@ -323,7 +326,7 @@
         .card-foot {
             display: flex;
             align-items: center;
-            justify-content: space-between;
+            justify-content: flex-end;
             gap: 10px;
             margin-top: 2px;
             flex-wrap: wrap;
@@ -332,25 +335,51 @@
             display: flex;
             align-items: center;
             gap: 6px;
-            flex-wrap: wrap;
+            flex-wrap: nowrap;
             justify-content: flex-end;
         }
 
-        .platform-select {
-            font: inherit;
-            font-size: 12px;
-            padding: 6px 6px 6px 9px;
+        /* 安装包切换器：平时是一个小图标按钮，展开时才给足宽度 */
+        .dl-picker {
+            position: relative;
+            display: inline-flex;
+            align-items: center;
+        }
+        .dl-picker-btn {
+            display: inline-grid;
+            place-items: center;
+            width: 30px;
+            height: 30px;
             border-radius: 7px;
             border: 1px solid var(--border-strong);
             background: var(--surface);
-            color: var(--ink-soft);
+            color: var(--muted);
             cursor: pointer;
+            pointer-events: none;
         }
-        .platform-select:focus {
-            outline: none;
-            border-color: var(--brand);
-            box-shadow: 0 0 0 3px rgba(21, 128, 61, .12);
+        .dl-picker-btn .icon { font-size: 13px; }
+
+        .platform-select {
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 32px;
+            height: 30px;
+            opacity: 0;
+            cursor: pointer;
+            font: inherit;
+            font-size: 12.5px;
+            border-radius: 7px;
         }
+        /* 悬停 / 聚焦时把原生 select 放大成正常宽度的下拉 */
+        .dl-picker:hover .platform-select,
+        .dl-picker:focus-within .platform-select {
+            width: 250px;
+            opacity: 1;
+        }
+        .dl-picker:hover .dl-picker-btn,
+        .dl-picker:focus-within .dl-picker-btn { opacity: 0; }
+        .platform-select:focus { outline: none; }
 
         .ver {
             font-style: normal;
@@ -380,12 +409,14 @@
         .btn-dl.is-disabled:hover { background: #eef0f2; }
 
         .license {
-            font-size: 11.5px;
+            font-size: 11px;
             color: var(--muted);
             background: #fafbfc;
             border: 1px solid var(--border);
-            padding: 4px 9px;
+            padding: 2px 8px;
             border-radius: 6px;
+            white-space: nowrap;
+            flex: none;
         }
 
         .btn {
@@ -403,6 +434,7 @@
         }
         .btn .icon { font-size: 15px; }
         .btn:hover { background: var(--brand-hover); }
+        .btn { flex: none; white-space: nowrap; }
 
         /* 下载应用：主操作（实心）；下载源码：次操作（描边） */
         .btn-dl { background: var(--brand); color: #fff; }
@@ -582,6 +614,9 @@
             <path d="M20.5 8.2 12 3.6 3.5 8.2v7.6L12 20.4l8.5-4.6V8.2Z"/>
             <path d="M3.5 8.2 12 12.8l8.5-4.6"/>
             <path d="M12 12.8v7.6"/>
+        </symbol>
+        <symbol id="icon-caret" viewBox="0 0 24 24">
+            <path d="m8.5 10 3.5 3.5L15.5 10"/>
         </symbol>
     </svg>
 

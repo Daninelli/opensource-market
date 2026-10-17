@@ -398,9 +398,14 @@
                     );
                 })
                 .join("");
+            // 收起时用紧凑的图标按钮，展开时由 CSS 给足宽度
             platformPicker =
+                '<span class="dl-picker">' +
+                '<span class="dl-picker-btn" title="切换安装包" aria-hidden="true">' +
+                iconMarkup("caret") + "</span>" +
                 '<select class="platform-select" aria-label="选择安装包" data-btn-for="' +
-                escapeHtml(project.repo || "") + '">' + options + "</select>";
+                escapeHtml(project.repo || "") + '">' + options + "</select>" +
+                "</span>";
         }
 
         var repoUrl = project.repo ? "https://github.com/" + project.repo : "";
@@ -409,7 +414,12 @@
         card.innerHTML =
             '<div class="card-top">' +
             "<div>" +
+            // 协议标签与项目名同一行、靠右对齐
+            '<div class="title-row">' +
             "<h3>" + escapeHtml(project.name || "未命名项目") + "</h3>" +
+            '<span class="license" title="' + escapeHtml(project.license || "未知协议") + '">' +
+            escapeHtml(project.license || "未知协议") + "</span>" +
+            "</div>" +
             '<span class="repo">' + escapeHtml(project.repo || "") +
             (version ? ' <em class="ver">' + escapeHtml(version) + "</em>" : "") +
             "</span>" +
@@ -418,7 +428,6 @@
             (stats ? '<div class="stats-row">' + stats + "</div>" : "") +
             '<div class="tags">' + tags + "</div>" +
             '<div class="card-foot">' +
-            '<span class="license">' + escapeHtml(project.license || "未知协议") + "</span>" +
             '<div class="dl-group">' +
             platformPicker +
             (assets.length
