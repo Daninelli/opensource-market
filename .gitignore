@@ -40,3 +40,5 @@ CLAUDE.md
 *.key
 .env
 .env.local
+_*.log
+_*.txt
