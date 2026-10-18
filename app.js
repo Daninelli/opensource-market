@@ -165,6 +165,10 @@
                     throw new Error("projects.json 的最外层必须是一个数组 []");
                 }
                 state.projects = projects;
+                // 排序兜底用的随机值：每次打开页面固定一次，重排时不会乱跳
+                projects.forEach(function (project) {
+                    project._rand = Math.random();
+                });
                 bindSearch();
                 bindPickerDismiss();
                 bindNavJump();
@@ -260,6 +264,20 @@
     /* ------------------------------ 渲染 ------------------------------ */
 
     /** 分组：按一级分类聚合，同时应用搜索与二级筛选 */
+    /** 分类内排序：star 降序优先，其次最近更新，最后随机兜底 */
+    function compareProjects(a, b) {
+        var starsA = typeof a.stars === "number" ? a.stars : -1;
+        var starsB = typeof b.stars === "number" ? b.stars : -1;
+        if (starsB !== starsA) return starsB - starsA;
+
+        var timeA = a.updated_at ? Date.parse(a.updated_at) || 0 : 0;
+        var timeB = b.updated_at ? Date.parse(b.updated_at) || 0 : 0;
+        if (timeB !== timeA) return timeB - timeA;
+
+        // star 和时间都相同：用本次会话固定的随机值排序，避免每次重排都乱跳
+        return (a._rand || 0) - (b._rand || 0);
+    }
+
     function groupProjects() {
         var groups = TAXONOMY.map(function (primary) {
             var all = state.projects.filter(function (project) {
@@ -272,6 +290,8 @@
                 var sub = resolveSubcategory(project, primary);
                 return !!sub && sub.slug === activeSub;
             });
+            all.sort(compareProjects);
+            visible.sort(compareProjects);
             return { primary: primary, all: all, visible: visible };
         });
         return groups.filter(function (group) {
