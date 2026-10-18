@@ -8,6 +8,8 @@
   "subcategory": "个人财务",
   "subcategory_slug": "personal-finance",
   "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "PHP",
     "Laravel",
@@ -41,5 +43,6 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

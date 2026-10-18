@@ -8,6 +8,8 @@
   "subcategory": "影音媒体",
   "subcategory_slug": "streaming",
   "license": "MIT",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "Go",
     "React",
@@ -25,5 +27,6 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

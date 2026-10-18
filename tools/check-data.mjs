@@ -239,6 +239,26 @@ if (manyTags.length) {
     manyTags.slice(0, 10).forEach((p) => console.log(`  - ${p.name}`));
 }
 
+/* 协议分类检查：license_category 由 classify-licenses.mjs 生成，必须存在且合法 */
+const VALID_CATEGORY = new Set(["open", "restricted", "unknown"]);
+const missingCategory = projects.filter((p) => !VALID_CATEGORY.has(p.license_category));
+if (missingCategory.length) {
+    problems.push(
+        `有 ${missingCategory.length} 个项目缺少合法的 license_category` +
+            `（${missingCategory.slice(0, 3).map((p) => p.name).join("、")}…），请运行 node tools/classify-licenses.mjs`
+    );
+}
+
+/* 非开源协议统计：这类项目会在页面上自动标注，数量变化值得留意 */
+const restrictedProjects = projects.filter((p) => p.license_category === "restricted");
+if (restrictedProjects.length) {
+    console.log(`\n[INFO] 非 OSI 开源协议项目 ${restrictedProjects.length} 个（页面自动标注「非开源」）：`);
+    restrictedProjects
+        .sort((a, b) => (b.stars || 0) - (a.stars || 0))
+        .slice(0, 10)
+        .forEach((p) => console.log(`  - ${p.name}（${p.license}）`));
+}
+
 if (problems.length) {
     console.error(`\n[ERROR] 发现 ${problems.length} 个问题：`);
     problems.forEach((item) => console.error("  - " + item));

@@ -8,6 +8,8 @@
   "subcategory": "平台商城",
   "subcategory_slug": "platform",
   "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "Java",
     "Spring Cloud Alibaba",
@@ -30,5 +32,6 @@
     "repo": "macrozheng/mall-swarm",
     "url": "https://gitee.com/macrozheng/mall-swarm",
     "stars": 1900
-  }
+  },
+  "changes": []
 }

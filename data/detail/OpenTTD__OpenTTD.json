@@ -8,6 +8,8 @@
   "subcategory": "游戏客户端",
   "subcategory_slug": "client",
   "license": "GPL-2.0",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "C++",
     "SDL2"
@@ -24,5 +26,6 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

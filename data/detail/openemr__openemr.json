@@ -8,6 +8,8 @@
   "subcategory": "电子病历",
   "subcategory_slug": "emr",
   "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "PHP",
     "MySQL"
@@ -40,5 +42,6 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

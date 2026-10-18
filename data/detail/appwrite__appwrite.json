@@ -8,6 +8,8 @@
   "subcategory": "后端服务",
   "subcategory_slug": "backend",
   "license": "BSD-3-Clause",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "PHP",
     "TypeScript",
@@ -25,5 +27,6 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

@@ -26,6 +26,23 @@ function toSlug(repo) {
 
 const projects = JSON.parse(await readFile(join(root, "projects.json"), "utf8"));
 
+// 变更记录：协议变更、归档等，由 fetch-repo-data.mjs 自动累积
+let changeLog = { events: [] };
+try {
+    changeLog = JSON.parse(await readFile(join(root, "data", "changes.json"), "utf8"));
+} catch {
+    /* 还没有变更记录 */
+}
+const allEvents = Array.isArray(changeLog.events) ? changeLog.events : [];
+
+// 按仓库分组，省得每个项目扫一遍全表
+const eventsByRepo = new Map();
+for (const event of allEvents) {
+    if (!event.repo) continue;
+    if (!eventsByRepo.has(event.repo)) eventsByRepo.set(event.repo, []);
+    eventsByRepo.get(event.repo).push(event);
+}
+
 await mkdir(OUT_DIR, { recursive: true });
 
 // 清掉旧分片，避免项目被删除后留下孤儿文件
@@ -57,6 +74,8 @@ for (const project of projects) {
         subcategory: project.subcategory || null,
         subcategory_slug: project.subcategory_slug || null,
         license: project.license || "",
+        license_category: project.license_category || "unknown",
+        archived: project.archived === true,
         tech_stack: Array.isArray(project.tech_stack) ? project.tech_stack : [],
         deploy_type: project.deploy_type || "",
         platform: project.platform || "github",
@@ -80,7 +99,10 @@ for (const project of projects) {
                   url: project.gitee_url || `https://gitee.com/${project.gitee_repo}`,
                   stars: typeof project.gitee_stars === "number" ? project.gitee_stars : null
               }
-            : null
+            : null,
+
+        // 变动记录（协议变更 / 归档等），没有就是空数组
+        changes: eventsByRepo.get(project.repo) || []
     };
 
     await writeFile(join(OUT_DIR, `${detail.slug}.json`), JSON.stringify(detail, null, 2) + "\n", "utf8");

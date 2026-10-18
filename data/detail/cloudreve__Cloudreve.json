@@ -8,6 +8,8 @@
   "subcategory": "文件管理与网盘",
   "subcategory_slug": "file",
   "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "Go",
     "Vue",
@@ -25,5 +27,6 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

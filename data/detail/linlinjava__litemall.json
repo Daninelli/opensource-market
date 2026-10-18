@@ -8,6 +8,8 @@
   "subcategory": "平台商城",
   "subcategory_slug": "platform",
   "license": "MIT",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "Java",
     "Spring Boot",
@@ -30,5 +32,6 @@
     "repo": "linlinjava/litemall",
     "url": "https://gitee.com/linlinjava/litemall",
     "stars": 9000
-  }
+  },
+  "changes": []
 }

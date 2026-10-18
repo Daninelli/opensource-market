@@ -8,6 +8,8 @@
   "subcategory": "加密协作",
   "subcategory_slug": "collab-suite",
   "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "JavaScript",
     "Node.js"
@@ -24,5 +26,6 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

@@ -8,6 +8,8 @@
   "subcategory": "游戏引擎",
   "subcategory_slug": "engine",
   "license": "LGPL-2.1",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "C++",
     "Lua"
@@ -60,5 +62,6 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

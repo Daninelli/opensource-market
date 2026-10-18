@@ -8,6 +8,8 @@
   "subcategory": "后台管理",
   "subcategory_slug": "admin",
   "license": "MIT",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "Vue 3",
     "Vite",
@@ -26,5 +28,6 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

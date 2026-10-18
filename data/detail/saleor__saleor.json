@@ -8,6 +8,8 @@
   "subcategory": "无头电商",
   "subcategory_slug": "headless",
   "license": "BSD-3-Clause",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "Python",
     "Django",
@@ -31,5 +33,6 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

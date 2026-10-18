@@ -8,6 +8,8 @@
   "subcategory": "文档与知识库",
   "subcategory_slug": "docs",
   "license": "BUSL-1.1",
+  "license_category": "restricted",
+  "archived": false,
   "tech_stack": [
     "TypeScript",
     "React",
@@ -26,5 +28,6 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

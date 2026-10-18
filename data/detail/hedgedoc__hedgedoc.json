@@ -8,6 +8,8 @@
   "subcategory": "文档与知识库",
   "subcategory_slug": "docs",
   "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "TypeScript",
     "Node.js",
@@ -25,5 +27,6 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

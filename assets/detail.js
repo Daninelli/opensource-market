@@ -308,6 +308,55 @@
         );
     }
 
+    /* ------------------------------ 变动记录 ------------------------------ */
+
+    var CHANGE_LABELS = {
+        license: { text: "许可协议变更", tone: "warn" },
+        archived: { text: "仓库已归档", tone: "warn" },
+        unarchived: { text: "仓库恢复维护", tone: "good" },
+        pinned: { text: "加入置顶", tone: "brand" },
+        unpinned: { text: "取消置顶", tone: "" },
+        pin_label: { text: "推荐位调整", tone: "brand" }
+    };
+
+    /** 项目变动记录；没有记录就整块不渲染 */
+    function renderChanges(changes) {
+        if (!Array.isArray(changes) || !changes.length) return "";
+
+        var rows = changes
+            .slice()
+            .sort(function (a, b) {
+                return a.date < b.date ? 1 : -1;
+            })
+            .map(function (item) {
+                var meta = CHANGE_LABELS[item.type] || { text: item.type, tone: "" };
+                var detail = "";
+                // 协议变更 / 推荐位变化都带 from → to
+                if (item.from != null && item.to != null) {
+                    detail =
+                        '<span class="change-from">' + escapeHtml(item.from || "—") + "</span>" +
+                        '<span class="change-arrow">→</span>' +
+                        '<span class="change-to">' + escapeHtml(item.to || "—") + "</span>";
+                }
+                return (
+                    '<li class="change-row">' +
+                    '<time class="change-date">' + escapeHtml(item.date) + "</time>" +
+                    '<span class="change-tag ' + meta.tone + '">' + escapeHtml(meta.text) + "</span>" +
+                    '<span class="change-detail">' + detail + "</span>" +
+                    "</li>"
+                );
+            })
+            .join("");
+
+        return (
+            '<section class="detail-panel">' +
+            '<div class="panel-head"><h2>变动记录</h2>' +
+            '<span class="panel-hint">自动检测 · 最多保留 3 年</span></div>' +
+            '<ul class="change-list">' + rows + "</ul>" +
+            "</section>"
+        );
+    }
+
     /* ------------------------------ 基本信息 ------------------------------ */
 
     function renderFacts(data) {
@@ -372,6 +421,29 @@
             })
             .join("");
 
+        // 非 OSI 开源协议：自动判定后展示，避免用户误以为全部都是开源项目
+        var licenseBadge = "";
+        var licenseNotice = "";
+        if (data.license_category === "restricted") {
+            licenseBadge = '<span class="license-badge">非开源</span>';
+            licenseNotice =
+                '<div class="license-notice">' +
+                icon("info") +
+                "<span>该项目使用 <b>" + escapeHtml(data.license || "未知协议") +
+                "</b>，属于「源码公开可获取」但<b>不属于 OSI 认可的开源协议</b>，通常对商业使用或托管服务有限制。" +
+                "商用或二次分发前，请务必阅读原仓库的许可条款。</span>" +
+                "</div>";
+        } else if (data.license_category === "unknown") {
+            licenseNotice =
+                '<div class="license-notice is-muted">' +
+                icon("info") +
+                "<span>未能自动识别该项目的许可协议，请以原仓库为准。</span>" +
+                "</div>";
+        }
+
+        // 变动记录：协议变更、归档等，全部由脚本自动累积
+        var changesPanel = renderChanges(data.changes);
+
         var crumb =
             '<nav class="detail-crumb">' +
             '<a href="index.html">开源集市</a>' +
@@ -402,17 +474,20 @@
             '<div class="detail-title-row">' +
             "<h1>" + escapeHtml(data.name) + "</h1>" +
             pinBadge +
+            licenseBadge +
             (data.license ? '<span class="license">' + escapeHtml(data.license) + "</span>" : "") +
             "</div>" +
             '<a class="detail-repo" href="' + escapeHtml(repoHref) + '" target="_blank" rel="noopener noreferrer">' +
             escapeHtml(data.repo) + icon("external") + "</a>" +
             (data.note_zh ? '<p class="detail-desc">' + escapeHtml(data.note_zh) + "</p>" : "") +
             (tags ? '<div class="detail-tags">' + tags + "</div>" : "") +
+            licenseNotice +
             actions +
             "</header>" +
             renderStarPanel(data) +
             renderFacts(data) +
-            renderDownloads(data);
+            renderDownloads(data) +
+            changesPanel;
 
         root.innerHTML = html;
         document.title = data.name + " · 开源集市";

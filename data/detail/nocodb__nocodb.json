@@ -8,6 +8,8 @@
   "subcategory": "低代码平台",
   "subcategory_slug": "low-code",
   "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "Node.js",
     "Vue",
@@ -25,5 +27,6 @@
   "pin_label": "推荐",
   "pin_note": "开源版 Airtable，搭建内部工具最快的一档",
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

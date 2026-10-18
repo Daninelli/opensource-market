@@ -8,6 +8,8 @@
   "subcategory": "效率工具",
   "subcategory_slug": "utility",
   "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "JavaScript",
     "Next.js",
@@ -25,5 +27,6 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

@@ -8,6 +8,8 @@
   "subcategory": "记账核算",
   "subcategory_slug": "accounting",
   "license": "ELv2",
+  "license_category": "restricted",
+  "archived": false,
   "tech_stack": [
     "PHP",
     "Laravel",
@@ -25,5 +27,6 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

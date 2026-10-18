@@ -8,6 +8,8 @@
   "subcategory": "医疗影像",
   "subcategory_slug": "imaging",
   "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "Java",
     "Spring",
@@ -26,5 +28,6 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

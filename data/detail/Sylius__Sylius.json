@@ -8,6 +8,8 @@
   "subcategory": "无头电商",
   "subcategory_slug": "headless",
   "license": "MIT",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "PHP",
     "Symfony"
@@ -24,5 +26,6 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

@@ -1830,3 +1830,137 @@
             color: var(--faint);
         }
         .chart-note .icon { font-size: 13px; flex: none; }
+
+        /* ------------------------------ 协议标注 ------------------------------ */
+        /* 「非开源」徽章：由 classify-licenses.mjs 自动判定后渲染，不靠人工 */
+        .license-badge {
+            display: inline-flex;
+            align-items: center;
+            height: 18px;
+            padding: 0 6px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: 500;
+            line-height: 1;
+            color: #b45309;
+            background: #fffbeb;
+            border: 1px solid #fde68a;
+            white-space: nowrap;
+            cursor: help;
+        }
+
+        .license-notice {
+            display: flex;
+            align-items: flex-start;
+            gap: 8px;
+            margin: 4px 0 18px;
+            padding: 11px 13px;
+            border-radius: 10px;
+            background: #fffbeb;
+            border: 1px solid #fde68a;
+            font-size: 12.5px;
+            line-height: 1.65;
+            color: #92400e;
+        }
+        .license-notice .icon {
+            flex: none;
+            font-size: 15px;
+            margin-top: 1px;
+        }
+        .license-notice b { color: #78350f; }
+        .license-notice.is-muted {
+            background: #f9fafb;
+            border-color: var(--border-strong);
+            color: var(--muted);
+        }
+        .license-notice.is-muted b { color: var(--ink-soft); }
+
+        /* ------------------------------ 变动记录 ------------------------------ */
+        .change-list {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+        .change-row {
+            display: flex;
+            align-items: baseline;
+            gap: 12px;
+            padding: 9px 0;
+            border-bottom: 1px dashed #f0f1f3;
+            font-size: 13px;
+        }
+        .change-row:last-child { border-bottom: 0; }
+        .change-date {
+            flex: none;
+            width: 84px;
+            color: var(--faint);
+            font-size: 12px;
+            font-variant-numeric: tabular-nums;
+        }
+        .change-tag {
+            flex: none;
+            padding: 1px 7px;
+            border-radius: 5px;
+            font-size: 11.5px;
+            font-weight: 500;
+            background: #f3f4f6;
+            color: var(--ink-soft);
+            white-space: nowrap;
+        }
+        .change-tag.warn { background: #fffbeb; color: #b45309; }
+        .change-tag.good { background: #ecfdf5; color: #15803d; }
+        .change-detail {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            color: var(--ink-soft);
+            font-size: 12.5px;
+            flex-wrap: wrap;
+        }
+        .change-from {
+            color: var(--muted);
+            text-decoration: line-through;
+            text-decoration-color: #d1d5db;
+        }
+        .change-arrow { color: var(--faint); }
+        .change-to { color: var(--ink); font-weight: 500; }
+
+        @media (max-width: 640px) {
+            .change-row { flex-wrap: wrap; gap: 6px 10px; }
+            .change-date { width: auto; }
+        }
+
+        /* ------------------------------ 底部数据时效提示 ------------------------------ */
+        .footer-notice {
+            display: flex;
+            align-items: flex-start;
+            gap: 9px;
+            margin: 0 auto 18px;
+            max-width: 720px;
+            padding: 13px 15px;
+            border-radius: 10px;
+            background: #fffbeb;
+            border: 1px solid #fde68a;
+            font-size: 12.5px;
+            line-height: 1.7;
+            color: #92400e;
+            text-align: left;
+        }
+        .footer-notice .icon {
+            flex: none;
+            font-size: 15px;
+            margin-top: 1px;
+        }
+        .footer-notice b { color: #78350f; }
+        .footer-notice a {
+            color: #92400e;
+            text-decoration: underline;
+            text-underline-offset: 2px;
+        }
+        .footer-notice a:hover { color: #78350f; }
+
+        .change-tag.brand { background: #eff6ff; color: #1d4ed8; }
+
+        @media (max-width: 640px) {
+            .footer-notice { font-size: 12px; padding: 11px 12px; }
+        }

@@ -8,6 +8,8 @@
   "subcategory": "后台管理",
   "subcategory_slug": "admin",
   "license": "MIT",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "Java",
     "Spring Boot",
@@ -29,5 +31,6 @@
     "repo": "y_project/RuoYi",
     "url": "https://gitee.com/y_project/RuoYi",
     "stars": 48900
-  }
+  },
+  "changes": []
 }

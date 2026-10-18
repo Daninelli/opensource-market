@@ -6,7 +6,7 @@
     <meta name="description" content="开源集市收录项目的开源协议说明：MIT、Apache-2.0、BSD、MPL、GPL、AGPL 的区别，以及二次开发与商用前需要注意什么。">
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
     <title>开源协议说明 · 开源集市</title>
-    <link rel="stylesheet" href="assets/site.css?v=20261018i">
+    <link rel="stylesheet" href="assets/site.css?v=20261019b">
 </head>
 <body>
     <svg class="icon-sprite" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
@@ -116,12 +116,24 @@
                 商用不等于侵权。GPL / AGPL 项目完全可以商用，前提是遵守它的开源义务；真正不能做的是「拿了 GPL 代码闭源卖」。
             </div>
 
+            <h2>「开源」在这里指什么</h2>
+            <p>本站的收录门槛是<strong>源码公开可获取</strong>，而不是严格的 OSI 开源认证。这两者有区别：</p>
+            <ul>
+                <li><strong>OSI 开源协议</strong>：MIT、Apache-2.0、GPL、AGPL、MPL、BSD 等。允许自由使用、修改、分发（部分协议带传染性或保留条款）。</li>
+                <li><strong>源码可用但非开源</strong>：BUSL（商业源码许可）、Elastic License 2.0、Sustainable Use License，以及部分项目自定义的社区协议。这类协议通常<strong>限制商业使用或托管服务</strong>，不符合 OSI 的开源定义。</li>
+            </ul>
+            <p>本站会把后一类项目自动标注为「<strong>非开源</strong>」徽章。判定由脚本按 SPDX 标识自动完成，不依赖人工逐个核对，因此不会因为项目变多而漏标。如果你只需要严格意义上的开源项目，看到这个徽章请先查阅原仓库的许可条款。</p>
+            <div class="note">
+                「非开源」标记由 <code>tools/classify-licenses.mjs</code> 生成，随每次数据刷新自动更新。某项目的协议后续发生变化时，也会记录在详情页的「变动记录」里。
+            </div>
+
             <h2>本站的收录立场</h2>
             <ul>
                 <li>本站只记录项目的<strong>协议名称</strong>，不复制、不修改、不再分发任何项目代码。</li>
                 <li>「下载应用」按钮指向项目方在 GitHub / Gitee 上自己发布的 Release 资产，文件由官方服务器直接提供。</li>
                 <li>协议信息以抓取时的仓库状态为准，<strong>可能滞后或存在误差</strong>；以仓库内 <code>LICENSE</code> 文件为准。</li>
-                <li>部分项目的协议标注为人工整理，若与官方不一致，欢迎通过 <a href="https://github.com/Daninelli/opensource-market/issues/new" target="_blank" rel="noopener noreferrer">Issue</a> 指出。</li>
+                <li>协议分类（开源 / 非开源）由脚本自动判定，目的是帮你快速筛选，<strong>不构成法律意见</strong>。</li>
+                <li>若发现标注与官方不一致，欢迎通过 <a href="https://github.com/Daninelli/opensource-market/issues/new" target="_blank" rel="noopener noreferrer">Issue</a> 指出。</li>
             </ul>
 
             <h2>常见误区</h2>
@@ -142,7 +154,13 @@
             <a href="disclaimer.html">免责声明</a>
             <a href="https://github.com/Daninelli/opensource-market" target="_blank" rel="noopener noreferrer">GitHub 仓库</a>
         </div>
-        <p>收录项目的代码、商标与文档均归原作者所有。</p>
+        <div class="footer-notice">
+            <svg class="icon" aria-hidden="true"><use href="#icon-info"></use></svg>
+            <span><b>信息可能已过期。</b>本页 star 数、更新时间与许可协议由脚本定时抓取，并非实时；
+            项目可能已停止维护、变更协议、迁移或删除仓库。<b>一切以项目官方仓库的实际内容与 LICENSE 文件为准</b>，
+            本站信息不构成授权或法律意见。详见 <a href="disclaimer.html">免责声明</a>。</span>
+        </div>
+        <p>收录项目的代码、商标与文档均归原作者所有。数据由脚本自动抓取，<strong>可能滞后或有误差，请以项目仓库的实际内容与许可协议为准</strong>。部分项目采用非开源协议，商用前务必查阅原文。</p>
         <p class="footer-license">
             本站页面与数据以 <strong>MIT 协议</strong>开源 ·
             <a href="https://github.com/Daninelli/opensource-market/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">查看协议</a> ·

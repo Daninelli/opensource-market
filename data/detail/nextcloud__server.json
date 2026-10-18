@@ -8,6 +8,8 @@
   "subcategory": "团队协作",
   "subcategory_slug": "collaboration",
   "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "PHP",
     "Vue",
@@ -25,5 +27,6 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

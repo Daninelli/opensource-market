@@ -1069,6 +1069,10 @@
                 : escapeHtml(project.name || "未命名项目")) +
             "</h3>" +
             '<div class="title-badges">' + pinBadge +
+            // 非 OSI 开源协议：自动判定（tools/classify-licenses.mjs），不靠人工
+            (project.license_category === "restricted"
+                ? '<span class="license-badge" title="该项目的许可协议不属于 OSI 认可的开源协议，商用前请先阅读原仓库协议">非开源</span>'
+                : "") +
             '<span class="license" title="' + escapeHtml(project.license || "未知协议") + '">' +
             escapeHtml(project.license || "未知协议") + "</span>" +
             "</div>" +

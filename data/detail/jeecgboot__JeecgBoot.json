@@ -8,6 +8,8 @@
   "subcategory": "低代码平台",
   "subcategory_slug": "low-code",
   "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "Java",
     "Spring Boot",
@@ -30,5 +32,6 @@
     "repo": "jeecg/JeecgBoot",
     "url": "https://gitee.com/jeecg/JeecgBoot",
     "stars": 18500
-  }
+  },
+  "changes": []
 }

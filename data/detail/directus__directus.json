@@ -8,6 +8,8 @@
   "subcategory": "低代码平台",
   "subcategory_slug": "low-code",
   "license": "MSCL-1.0-GPL",
+  "license_category": "restricted",
+  "archived": false,
   "tech_stack": [
     "TypeScript",
     "Node.js",
@@ -26,5 +28,6 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

@@ -8,6 +8,8 @@
   "subcategory": "记账核算",
   "subcategory_slug": "accounting",
   "license": "GPL-2.0-or-later",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "C",
     "Scheme",
@@ -25,5 +27,6 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

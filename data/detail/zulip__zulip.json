@@ -8,6 +8,8 @@
   "subcategory": "即时通讯",
   "subcategory_slug": "im",
   "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "Python",
     "Django",
@@ -26,5 +28,6 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

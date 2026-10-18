@@ -8,6 +8,8 @@
   "subcategory": "公众参与",
   "subcategory_slug": "participation",
   "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "Ruby on Rails",
     "PostgreSQL"
@@ -24,5 +26,6 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

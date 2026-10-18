@@ -8,6 +8,8 @@
   "subcategory": "数据分析",
   "subcategory_slug": "bi",
   "license": "MIT",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "TypeScript",
     "React",
@@ -25,5 +27,6 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

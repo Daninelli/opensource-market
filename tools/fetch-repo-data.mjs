@@ -14,10 +14,15 @@
  *   GITHUB_TOKEN 环境变量 → GH_TOKEN 环境变量 → 本地 git 凭据（git credential fill）
  *
  * 写入字段：
- *   stars            star 数
- *   updated_at       最近推送时间
- *   default_branch   默认分支
- *   download_url     默认分支源码 zip 直链
+ *   stars              star 数
+ *   updated_at         最近推送时间
+ *   default_branch     默认分支
+ *   download_url       默认分支源码 zip 直链
+ *   license            协议（仅在 GitHub 有明确识别结果时更新）
+ *   archived           仓库是否已归档
+ *
+ * 同时做协议/归档的变更比对，把变化追加到 data/changes.json，
+ * 供详情页展示「变动记录」。全部自动完成，不需要人工核对。
  */
 import { readFile, writeFile } from "node:fs/promises";
 import { readFileSync } from "node:fs";
@@ -78,7 +83,9 @@ async function fetchViaApi(repo) {
         data: {
             stars: info.stargazers_count,
             updated_at: info.pushed_at || info.updated_at,
-            default_branch: info.default_branch || "main"
+            default_branch: info.default_branch || "main",
+            license: info.license && info.license.spdx_id ? info.license.spdx_id : null,
+            archived: info.archived === true
         }
     };
 }
@@ -164,6 +171,16 @@ let ok = 0;
 let failed = 0;
 let skipped = 0;
 
+/* ---------------------- 协议 / 归档字段更新 ---------------------- */
+// GitHub 有时会返回 NOASSERTION 或 null（协议文件改过、解析失败），
+// 这种情况当成「没读到」，不能覆盖已有值。
+// 变更记录由 tools/track-changes.mjs 统一比对生成。
+const UNRELIABLE_LICENSE = new Set(["", "noassertion", "other", "none", "unknown"]);
+
+function isReliableLicense(value) {
+    return Boolean(value) && !UNRELIABLE_LICENSE.has(String(value).trim().toLowerCase());
+}
+
 for (const project of targets) {
     let result;
     try {
@@ -179,13 +196,24 @@ for (const project of targets) {
         failed += 1;
         console.error(`\n失败  ${project.repo} -> ${result.error}`);
     } else {
-        const { stars, updated_at, default_branch } = result.data;
+        const { stars, updated_at, default_branch, license, archived } = result.data;
         if (typeof stars === "number") project.stars = stars;
         if (updated_at) project.updated_at = updated_at;
         if (default_branch) {
             project.default_branch = default_branch;
             project.download_url = `https://codeload.github.com/${project.repo}/zip/refs/heads/${default_branch}`;
         }
+
+        // 协议：只在 GitHub 给出可信结果时才覆盖已有值
+        if (isReliableLicense(license)) {
+            project.license = license;
+        }
+
+        // 归档状态
+        if (typeof archived === "boolean") {
+            project.archived = archived;
+        }
+
         ok += 1;
         process.stdout.write(".");
     }

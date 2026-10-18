@@ -25,7 +25,8 @@
     "updated_at": "2026-10-17T08:16:09Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/deepseek-ai/deepseek-harness/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -85,7 +86,8 @@
     "updated_at": "2026-10-18T09:51:47.672Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/KnifeLemon/Filee/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "OpenClaw",
@@ -107,7 +109,8 @@
     "updated_at": "2026-10-18T09:47:03Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/openclaw/openclaw/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Hermes Agent",
@@ -129,7 +132,8 @@
     "updated_at": "2026-10-18T09:45:07Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/NousResearch/hermes-agent/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -199,7 +203,8 @@
     "updated_at": "2026-10-18T06:58:25Z",
     "default_branch": "dev",
     "download_url": "https://codeload.github.com/anomalyco/opencode/zip/refs/heads/dev",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "OpenMRS",
@@ -222,7 +227,8 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/openmrs/openmrs-core/zip/refs/heads/master",
     "platform": "github",
-    "verified": true
+    "verified": true,
+    "license_category": "open"
   },
   {
     "name": "Open edX",
@@ -245,7 +251,8 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/openedx/openedx-platform/zip/refs/heads/master",
     "platform": "github",
-    "verified": true
+    "verified": true,
+    "license_category": "open"
   },
   {
     "name": "Chamilo LMS",
@@ -267,7 +274,8 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/chamilo/chamilo-lms/zip/refs/heads/master",
     "platform": "github",
-    "verified": true
+    "verified": true,
+    "license_category": "open"
   },
   {
     "name": "EspoCRM",
@@ -290,7 +298,8 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/espocrm/espocrm/zip/refs/heads/master",
     "platform": "github",
-    "verified": true
+    "verified": true,
+    "license_category": "open"
   },
   {
     "name": "Twenty",
@@ -315,7 +324,8 @@
     "download_url": "https://codeload.github.com/twentyhq/twenty/zip/refs/heads/main",
     "platform": "github",
     "verified": true,
-    "note_verify": "GitHub 返回 NOASSERTION，需查 LICENSE 文件确认"
+    "note_verify": "GitHub 返回 NOASSERTION，需查 LICENSE 文件确认",
+    "license_category": "open"
   },
   {
     "name": "ERPNext",
@@ -339,7 +349,8 @@
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/frappe/erpnext/zip/refs/heads/develop",
     "platform": "github",
-    "verified": true
+    "verified": true,
+    "license_category": "open"
   },
   {
     "name": "Odoo",
@@ -363,7 +374,8 @@
     "download_url": "https://codeload.github.com/odoo/odoo/zip/refs/heads/20.0",
     "platform": "github",
     "verified": true,
-    "note_verify": "GitHub 返回 NOASSERTION，需查 LICENSE 文件确认"
+    "note_verify": "GitHub 返回 NOASSERTION，需查 LICENSE 文件确认",
+    "license_category": "open"
   },
   {
     "name": "Leantime",
@@ -386,7 +398,8 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/Leantime/leantime/zip/refs/heads/master",
     "platform": "github",
-    "verified": true
+    "verified": true,
+    "license_category": "open"
   },
   {
     "name": "Kanboard",
@@ -408,7 +421,8 @@
     "default_branch": "main",
     "download_url": "https://codeload.github.com/kanboard/kanboard/zip/refs/heads/main",
     "platform": "github",
-    "verified": true
+    "verified": true,
+    "license_category": "open"
   },
   {
     "name": "Mattermost",
@@ -433,7 +447,8 @@
     "download_url": "https://codeload.github.com/mattermost/mattermost/zip/refs/heads/master",
     "platform": "github",
     "verified": true,
-    "note_verify": "GitHub 返回 NOASSERTION，仓库含 Apache/MIT 混合许可，需查 LICENSE 目录"
+    "note_verify": "GitHub 返回 NOASSERTION，仓库含 Apache/MIT 混合许可，需查 LICENSE 目录",
+    "license_category": "open"
   },
   {
     "name": "Rocket.Chat",
@@ -458,7 +473,8 @@
     "download_url": "https://codeload.github.com/RocketChat/Rocket.Chat/zip/refs/heads/develop",
     "platform": "github",
     "verified": true,
-    "note_verify": "GitHub 返回 NOASSERTION，需查 LICENSE 文件"
+    "note_verify": "GitHub 返回 NOASSERTION，需查 LICENSE 文件",
+    "license_category": "open"
   },
   {
     "name": "Cryptpad",
@@ -480,7 +496,8 @@
     "default_branch": "main",
     "download_url": "https://codeload.github.com/cryptpad/cryptpad/zip/refs/heads/main",
     "platform": "github",
-    "verified": true
+    "verified": true,
+    "license_category": "open"
   },
   {
     "name": "Maybe Finance",
@@ -503,7 +520,8 @@
     "default_branch": "main",
     "download_url": "https://codeload.github.com/maybe-finance/maybe/zip/refs/heads/main",
     "platform": "github",
-    "verified": true
+    "verified": true,
+    "license_category": "open"
   },
   {
     "name": "Akaunting",
@@ -527,7 +545,8 @@
     "download_url": "https://codeload.github.com/akaunting/akaunting/zip/refs/heads/master",
     "platform": "github",
     "verified": true,
-    "note_verify": "GitHub 返回 NOASSERTION，需查 LICENSE 文件"
+    "note_verify": "GitHub 返回 NOASSERTION，需查 LICENSE 文件",
+    "license_category": "restricted"
   },
   {
     "name": "Invoice Ninja",
@@ -551,7 +570,8 @@
     "download_url": "https://codeload.github.com/invoiceninja/invoiceninja/zip/refs/heads/v5-stable",
     "platform": "github",
     "verified": true,
-    "note_verify": "GitHub 返回 NOASSERTION，需查 LICENSE 文件"
+    "note_verify": "GitHub 返回 NOASSERTION，需查 LICENSE 文件",
+    "license_category": "restricted"
   },
   {
     "name": "GnuCash",
@@ -575,7 +595,8 @@
     "download_url": "https://codeload.github.com/gnucash/gnucash/zip/refs/heads/stable",
     "platform": "github",
     "verified": true,
-    "note_verify": "GitHub 返回 NOASSERTION，需查 LICENSE 文件"
+    "note_verify": "GitHub 返回 NOASSERTION，需查 LICENSE 文件",
+    "license_category": "open"
   },
   {
     "name": "OpenRCT2",
@@ -597,7 +618,8 @@
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/OpenRCT2/OpenRCT2/zip/refs/heads/develop",
     "platform": "github",
-    "verified": true
+    "verified": true,
+    "license_category": "open"
   },
   {
     "name": "Veloren",
@@ -619,7 +641,8 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/veloren/veloren/zip/refs/heads/master",
     "platform": "github",
-    "verified": true
+    "verified": true,
+    "license_category": "open"
   },
   {
     "name": "Vaultwarden",
@@ -642,7 +665,8 @@
     "default_branch": "main",
     "download_url": "https://codeload.github.com/dani-garcia/vaultwarden/zip/refs/heads/main",
     "platform": "github",
-    "verified": true
+    "verified": true,
+    "license_category": "open"
   },
   {
     "name": "Keycloak",
@@ -665,7 +689,8 @@
     "default_branch": "main",
     "download_url": "https://codeload.github.com/keycloak/keycloak/zip/refs/heads/main",
     "platform": "github",
-    "verified": true
+    "verified": true,
+    "license_category": "open"
   },
   {
     "name": "Portainer",
@@ -688,7 +713,8 @@
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/portainer/portainer/zip/refs/heads/develop",
     "platform": "github",
-    "verified": true
+    "verified": true,
+    "license_category": "open"
   },
   {
     "name": "changedetection.io",
@@ -711,7 +737,8 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/dgtlmoon/changedetection.io/zip/refs/heads/master",
     "platform": "github",
-    "verified": true
+    "verified": true,
+    "license_category": "open"
   },
   {
     "name": "Lightdash",
@@ -734,7 +761,8 @@
     "default_branch": "main",
     "download_url": "https://codeload.github.com/lightdash/lightdash/zip/refs/heads/main",
     "platform": "github",
-    "verified": true
+    "verified": true,
+    "license_category": "open"
   },
   {
     "name": "Evidence",
@@ -757,7 +785,8 @@
     "default_branch": "main",
     "download_url": "https://codeload.github.com/evidence-dev/evidence/zip/refs/heads/main",
     "platform": "github",
-    "verified": true
+    "verified": true,
+    "license_category": "open"
   },
   {
     "name": "wallabag",
@@ -780,7 +809,8 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/wallabag/wallabag/zip/refs/heads/master",
     "platform": "github",
-    "verified": true
+    "verified": true,
+    "license_category": "open"
   },
   {
     "name": "Karakeep",
@@ -803,7 +833,8 @@
     "default_branch": "main",
     "download_url": "https://codeload.github.com/karakeep-app/karakeep/zip/refs/heads/main",
     "platform": "github",
-    "verified": true
+    "verified": true,
+    "license_category": "open"
   },
   {
     "name": "Stump",
@@ -826,7 +857,8 @@
     "default_branch": "main",
     "download_url": "https://codeload.github.com/stumpapp/stump/zip/refs/heads/main",
     "platform": "github",
-    "verified": true
+    "verified": true,
+    "license_category": "open"
   },
   {
     "name": "litemall",
@@ -855,7 +887,8 @@
     "gitee_stars": 9000,
     "github_mirror": "https://github.com/linlinjava/litemall",
     "mirror_note": "GitHub 为主仓库，Gitee 为国内镜像",
-    "verified": true
+    "verified": true,
+    "license_category": "open"
   },
   {
     "name": "newbee-mall",
@@ -879,7 +912,8 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/newbee-ltd/newbee-mall/zip/refs/heads/master",
     "platform": "github",
-    "verified": true
+    "verified": true,
+    "license_category": "open"
   },
   {
     "name": "Budibase",
@@ -904,7 +938,8 @@
     "download_url": "https://codeload.github.com/Budibase/budibase/zip/refs/heads/master",
     "platform": "github",
     "verified": true,
-    "note_verify": "GitHub 返回 NOASSERTION，需查 LICENSE 文件"
+    "note_verify": "GitHub 返回 NOASSERTION，需查 LICENSE 文件",
+    "license_category": "open"
   },
   {
     "name": "Baserow",
@@ -929,7 +964,8 @@
     "download_url": "https://codeload.github.com/baserow/baserow/zip/refs/heads/develop",
     "platform": "github",
     "verified": true,
-    "note_verify": "Baserow Open Source Edition 为 MIT Expat；premium/ 与 enterprise/ 目录为商业授权"
+    "note_verify": "Baserow Open Source Edition 为 MIT Expat；premium/ 与 enterprise/ 目录为商业授权",
+    "license_category": "open"
   },
   {
     "name": "Directus",
@@ -954,7 +990,8 @@
     "download_url": "https://codeload.github.com/directus/directus/zip/refs/heads/main",
     "platform": "github",
     "verified": true,
-    "note_verify": "Monospace Sustainable Core License 1.0（源码可用，非 OSI 认证），到期后转 GPL"
+    "note_verify": "Monospace Sustainable Core License 1.0（源码可用，非 OSI 认证），到期后转 GPL",
+    "license_category": "restricted"
   },
   {
     "name": "CONSUL Democracy",
@@ -976,7 +1013,8 @@
     "updated_at": "2026-10-16T10:35:51Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/consuldemocracy/consuldemocracy/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "PortalJS",
@@ -998,7 +1036,8 @@
     "updated_at": "2026-10-16T17:25:52Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/datopian/portaljs/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "OpenGovernment",
@@ -1019,7 +1058,8 @@
     "updated_at": "2023-01-03T16:20:02Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/opengovernment/opengovernment/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Shareabouts",
@@ -1041,7 +1081,8 @@
     "updated_at": "2026-09-22T20:56:59Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/openplans/shareabouts/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Jitsi Meet",
@@ -1063,7 +1104,8 @@
     "updated_at": "2026-10-17T00:30:31Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/jitsi/jitsi-meet/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Rallly",
@@ -1086,7 +1128,8 @@
     "updated_at": "2026-10-18T05:21:41Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/lukevella/rallly/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Grist",
@@ -1109,7 +1152,8 @@
     "updated_at": "2026-10-18T03:51:31Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/gristlabs/grist-core/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Filestash",
@@ -1130,7 +1174,8 @@
     "updated_at": "2026-10-16T17:24:07Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/mickael-kerjean/filestash/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "DBeaver",
@@ -1151,7 +1196,8 @@
     "updated_at": "2026-10-17T16:40:45Z",
     "default_branch": "devel",
     "download_url": "https://codeload.github.com/dbeaver/dbeaver/zip/refs/heads/devel",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Mealie",
@@ -1174,7 +1220,8 @@
     "updated_at": "2026-10-18T04:11:01Z",
     "default_branch": "mealie-next",
     "download_url": "https://codeload.github.com/mealie-recipes/mealie/zip/refs/heads/mealie-next",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Homepage",
@@ -1196,7 +1243,8 @@
     "updated_at": "2026-10-17T06:40:14Z",
     "default_branch": "dev",
     "download_url": "https://codeload.github.com/gethomepage/homepage/zip/refs/heads/dev",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Heimdall",
@@ -1218,7 +1266,8 @@
     "updated_at": "2026-10-03T13:31:53Z",
     "default_branch": "2.x",
     "download_url": "https://codeload.github.com/linuxserver/Heimdall/zip/refs/heads/2.x",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "mall-swarm",
@@ -1246,7 +1295,8 @@
     "gitee_url": "https://gitee.com/macrozheng/mall-swarm",
     "gitee_stars": 1900,
     "github_mirror": "https://github.com/macrozheng/mall-swarm",
-    "mirror_note": "Gitee 与 GitHub 双仓库同步维护"
+    "mirror_note": "Gitee 与 GitHub 双仓库同步维护",
+    "license_category": "open"
   },
   {
     "name": "Cloudreve",
@@ -1268,7 +1318,8 @@
     "updated_at": "2026-09-21T06:15:15Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/cloudreve/Cloudreve/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "JeecgBoot",
@@ -1296,7 +1347,8 @@
     "gitee_url": "https://gitee.com/jeecg/JeecgBoot",
     "gitee_stars": 18500,
     "github_mirror": "https://github.com/jeecgboot/JeecgBoot",
-    "mirror_note": "Gitee 为主要维护仓库，GitHub 为同步镜像（Gitee 正确路径是 jeecg/JeecgBoot）"
+    "mirror_note": "Gitee 为主要维护仓库，GitHub 为同步镜像（Gitee 正确路径是 jeecg/JeecgBoot）",
+    "license_category": "open"
   },
   {
     "name": "Canvas LMS",
@@ -1319,7 +1371,8 @@
     "updated_at": "2026-04-30T14:52:10Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/instructure/canvas-lms/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "OpenOlat",
@@ -1341,7 +1394,8 @@
     "updated_at": "2026-10-16T14:37:38Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/OpenOLAT/OpenOLAT/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "HospitalRun",
@@ -1364,7 +1418,8 @@
     "updated_at": "2023-01-09T08:00:58Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/HospitalRun/hospitalrun-frontend/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "LibreHealth EHR",
@@ -1385,7 +1440,8 @@
     "updated_at": "2023-09-09T09:33:00Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/LibreHealthIO/lh-ehr/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "cBioPortal",
@@ -1408,7 +1464,8 @@
     "updated_at": "2026-10-16T20:44:46Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/cBioPortal/cbioportal/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "OpenBoxes",
@@ -1430,7 +1487,8 @@
     "updated_at": "2026-10-18T05:22:51Z",
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/openboxes/openboxes/zip/refs/heads/develop",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "OpenTTD",
@@ -1451,7 +1509,8 @@
     "updated_at": "2026-10-15T19:41:35Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/OpenTTD/OpenTTD/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "CorsixTH",
@@ -1473,7 +1532,8 @@
     "updated_at": "2026-10-13T22:29:42Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/CorsixTH/CorsixTH/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Strapi",
@@ -1497,7 +1557,8 @@
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/strapi/strapi/zip/refs/heads/develop",
     "platform": "github",
-    "note_verify": "社区版 MIT，企业版功能单独授权"
+    "note_verify": "社区版 MIT，企业版功能单独授权",
+    "license_category": "open"
   },
   {
     "name": "Ghost",
@@ -1520,7 +1581,8 @@
     "updated_at": "2026-10-17T13:12:04Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/TryGhost/Ghost/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Owncast",
@@ -1542,7 +1604,8 @@
     "updated_at": "2026-10-17T21:11:12Z",
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/owncast/owncast/zip/refs/heads/develop",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Calibre-Web",
@@ -1564,7 +1627,8 @@
     "updated_at": "2026-10-10T05:40:20Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/janeczku/calibre-web/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "AzuraCast",
@@ -1587,7 +1651,8 @@
     "updated_at": "2026-10-17T21:35:08Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/AzuraCast/AzuraCast/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "BookStack",
@@ -1610,7 +1675,8 @@
     "default_branch": "development",
     "download_url": "https://codeload.github.com/BookStackApp/BookStack/zip/refs/heads/development",
     "platform": "github",
-    "note_verify": "README 标注主仓库已迁移到 Codeberg，GitHub 可能停止更新"
+    "note_verify": "README 标注主仓库已迁移到 Codeberg，GitHub 可能停止更新",
+    "license_category": "open"
   },
   {
     "name": "Outline",
@@ -1633,7 +1699,8 @@
     "updated_at": "2026-10-18T01:45:34Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/outline/outline/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "restricted"
   },
   {
     "name": "Frappe LMS",
@@ -1656,7 +1723,8 @@
     "updated_at": "2026-10-16T20:34:08Z",
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/frappe/lms/zip/refs/heads/develop",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "BigBlueButton",
@@ -1679,7 +1747,8 @@
     "updated_at": "2026-10-16T21:32:50Z",
     "default_branch": "v4.0.x-develop",
     "download_url": "https://codeload.github.com/BigBlueButton/bigbluebutton/zip/refs/heads/v4.0.x-develop",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Medplum",
@@ -1702,7 +1771,8 @@
     "updated_at": "2026-10-17T20:47:20Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/medplum/medplum/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "React Admin",
@@ -1725,7 +1795,8 @@
     "updated_at": "2026-10-16T14:13:16Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/marmelab/react-admin/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "ILLA Builder",
@@ -1748,7 +1819,8 @@
     "updated_at": "2026-05-27T02:22:32Z",
     "default_branch": "beta",
     "download_url": "https://codeload.github.com/illacloud/illa-builder/zip/refs/heads/beta",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "DataEase",
@@ -1771,7 +1843,8 @@
     "updated_at": "2026-10-18T05:27:53Z",
     "default_branch": "dev-v3",
     "download_url": "https://codeload.github.com/dataease/dataease/zip/refs/heads/dev-v3",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "PostHog",
@@ -1795,7 +1868,8 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/posthog/posthog/zip/refs/heads/master",
     "platform": "github",
-    "note_verify": "协议为 MIT Expat；部分企业功能另有商业授权"
+    "note_verify": "协议为 MIT Expat；部分企业功能另有商业授权",
+    "license_category": "open"
   },
   {
     "name": "Zulip",
@@ -1818,7 +1892,8 @@
     "updated_at": "2026-10-16T15:34:49Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/zulip/zulip/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Planka",
@@ -1842,7 +1917,8 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/plankanban/planka/zip/refs/heads/master",
     "platform": "github",
-    "note_verify": "社区版为自定义协议（非 OSI 认证），商用需确认条款"
+    "note_verify": "社区版为自定义协议（非 OSI 认证），商用需确认条款",
+    "license_category": "restricted"
   },
   {
     "name": "Radicale",
@@ -1864,7 +1940,8 @@
     "updated_at": "2026-10-18T05:17:29Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/Kozea/Radicale/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Baikal",
@@ -1886,7 +1963,8 @@
     "updated_at": "2026-08-13T20:02:23Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/sabre-io/Baikal/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Hyperswitch",
@@ -1908,7 +1986,8 @@
     "updated_at": "2026-10-17T20:35:47Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/juspay/hyperswitch/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Kill Bill",
@@ -1930,7 +2009,8 @@
     "updated_at": "2026-10-12T23:02:51Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/killbill/killbill/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "eLabFTW",
@@ -1952,7 +2032,8 @@
     "updated_at": "2026-10-16T21:04:25Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/elabftw/elabftw/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "OSF",
@@ -1974,7 +2055,8 @@
     "updated_at": "2026-10-16T15:24:58Z",
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/CenterForOpenScience/osf.io/zip/refs/heads/develop",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "ThingsBoard",
@@ -1997,7 +2079,8 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/thingsboard/thingsboard/zip/refs/heads/master",
     "platform": "github",
-    "note_verify": "协议为 Business Source License 1.1，非 OSI 认证，商用需确认条款"
+    "note_verify": "协议为 Business Source License 1.1，非 OSI 认证，商用需确认条款",
+    "license_category": "restricted"
   },
   {
     "name": "Node-RED",
@@ -2019,7 +2102,8 @@
     "updated_at": "2026-10-17T09:19:28Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/node-red/node-red/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "HandBrake",
@@ -2041,7 +2125,8 @@
     "updated_at": "2026-10-17T16:49:44Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/HandBrake/HandBrake/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "FFmpeg",
@@ -2063,7 +2148,8 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/FFmpeg/FFmpeg/zip/refs/heads/master",
     "platform": "github",
-    "note_verify": "默认 LGPL-2.1+，启用 GPL 组件后为 GPL-2.0；仓库含 COPYING.GPLv2"
+    "note_verify": "默认 LGPL-2.1+，启用 GPL 组件后为 GPL-2.0；仓库含 COPYING.GPLv2",
+    "license_category": "open"
   },
   {
     "name": "Misskey",
@@ -2085,7 +2171,8 @@
     "updated_at": "2026-10-17T12:21:23Z",
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/misskey-dev/misskey/zip/refs/heads/develop",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "WriteFreely",
@@ -2107,7 +2194,8 @@
     "updated_at": "2026-10-01T22:21:43Z",
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/writefreely/writefreely/zip/refs/heads/develop",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Flarum",
@@ -2129,7 +2217,8 @@
     "updated_at": "2026-10-09T18:15:31Z",
     "default_branch": "2.x",
     "download_url": "https://codeload.github.com/flarum/flarum/zip/refs/heads/2.x",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "NodeBB",
@@ -2151,7 +2240,8 @@
     "updated_at": "2026-10-18T04:18:07Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/NodeBB/NodeBB/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Lemmy",
@@ -2173,7 +2263,8 @@
     "updated_at": "2026-10-16T13:48:59Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/LemmyNet/lemmy/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Portfolio Performance",
@@ -2194,7 +2285,8 @@
     "updated_at": "2026-10-18T02:04:30Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/portfolio-performance/portfolio/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "OHIF Viewer",
@@ -2216,7 +2308,8 @@
     "updated_at": "2026-10-16T17:10:22Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/OHIF/Viewers/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Castopod",
@@ -2238,7 +2331,8 @@
     "updated_at": "2026-06-05T19:47:06Z",
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/ad-aures/castopod/zip/refs/heads/develop",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Gitea",
@@ -2260,7 +2354,8 @@
     "updated_at": "2026-10-17T14:17:04Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/go-gitea/gitea/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Medusa Next.js Starter",
@@ -2282,7 +2377,8 @@
     "updated_at": "2026-04-23T12:19:05Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/medusajs/nextjs-starter-medusa/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "EverShop",
@@ -2305,7 +2401,8 @@
     "updated_at": "2026-10-18T05:45:37Z",
     "default_branch": "dev",
     "download_url": "https://codeload.github.com/evershopcommerce/evershop/zip/refs/heads/dev",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "HedgeDoc",
@@ -2327,7 +2424,8 @@
     "updated_at": "2026-10-16T11:02:04Z",
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/hedgedoc/hedgedoc/zip/refs/heads/develop",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Etherpad",
@@ -2349,7 +2447,8 @@
     "updated_at": "2026-10-16T16:02:39Z",
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/ether/etherpad/zip/refs/heads/develop",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "RuoYi",
@@ -2375,7 +2474,8 @@
     "gitee_repo": "y_project/RuoYi",
     "gitee_url": "https://gitee.com/y_project/RuoYi",
     "gitee_stars": 48900,
-    "gitee_updated_at": "2026-10-10T15:36:00+08:00"
+    "gitee_updated_at": "2026-10-10T15:36:00+08:00",
+    "license_category": "open"
   },
   {
     "name": "mall",
@@ -2406,7 +2506,8 @@
     "pinned": true,
     "pin_label": "置顶",
     "pin_note": "国内最知名的开源电商实战项目，覆盖商品、订单、支付、营销完整链路",
-    "pin_until": "2026-12-31"
+    "pin_until": "2026-12-31",
+    "license_category": "open"
   },
   {
     "name": "Sa-Token",
@@ -2431,7 +2532,8 @@
     "gitee_repo": "dromara/Sa-Token",
     "gitee_url": "https://gitee.com/dromara/Sa-Token",
     "gitee_stars": 49500,
-    "gitee_updated_at": "2026-10-16T17:53:00+08:00"
+    "gitee_updated_at": "2026-10-16T17:53:00+08:00",
+    "license_category": "open"
   },
   {
     "name": "Home Assistant",
@@ -2452,7 +2554,8 @@
     "updated_at": "2026-10-18T01:21:17Z",
     "default_branch": "dev",
     "download_url": "https://codeload.github.com/home-assistant/core/zip/refs/heads/dev",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -2520,7 +2623,8 @@
     "updated_at": "2026-10-13T12:28:45Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/syncthing/syncthing/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Pi-hole",
@@ -2541,7 +2645,8 @@
     "updated_at": "2026-10-17T20:27:58Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/pi-hole/pi-hole/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -2576,7 +2681,8 @@
     "updated_at": "2026-10-18T00:54:22Z",
     "default_branch": "dev",
     "download_url": "https://codeload.github.com/paperless-ngx/paperless-ngx/zip/refs/heads/dev",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Krita",
@@ -2597,7 +2703,8 @@
     "updated_at": "2026-10-18T00:47:16Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/KDE/krita/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Medusa",
@@ -2619,7 +2726,8 @@
     "updated_at": "2026-10-17T10:23:09Z",
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/medusajs/medusa/zip/refs/heads/develop",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -2648,7 +2756,8 @@
     "updated_at": "2026-10-16T14:04:06Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/saleor/saleor/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Sylius",
@@ -2669,7 +2778,8 @@
     "updated_at": "2026-10-18T02:11:27Z",
     "default_branch": "2.3",
     "download_url": "https://codeload.github.com/Sylius/Sylius/zip/refs/heads/2.3",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Next.js Commerce",
@@ -2691,7 +2801,8 @@
     "updated_at": "2026-10-06T19:42:41Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/vercel/commerce/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Bagisto",
@@ -2713,7 +2824,8 @@
     "updated_at": "2026-10-16T16:08:11Z",
     "default_branch": "2.5",
     "download_url": "https://codeload.github.com/bagisto/bagisto/zip/refs/heads/2.5",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -2802,7 +2914,8 @@
     "updated_at": "2026-10-16T16:38:08Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/godotengine/godot/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -2861,7 +2974,8 @@
     "updated_at": "2026-10-17T17:13:53Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/minetest/minetest/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -2915,7 +3029,8 @@
     "updated_at": "2026-10-11T14:29:17Z",
     "default_branch": "bleed",
     "download_url": "https://codeload.github.com/OpenRA/OpenRA/zip/refs/heads/bleed",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Mastodon",
@@ -2936,7 +3051,8 @@
     "updated_at": "2026-10-17T20:25:15Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/mastodon/mastodon/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -2971,7 +3087,8 @@
     "updated_at": "2026-10-17T12:48:57Z",
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/element-hq/element-web/zip/refs/heads/develop",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Discourse",
@@ -2992,7 +3109,8 @@
     "updated_at": "2026-10-18T02:19:16Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/discourse/discourse/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -3032,7 +3150,8 @@
     "updated_at": "2026-10-18T03:47:43Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/firefly-iii/firefly-iii/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -3091,7 +3210,8 @@
     "updated_at": "2026-10-18T00:19:56Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/actualbudget/actual/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Ghostfolio",
@@ -3113,7 +3233,8 @@
     "updated_at": "2026-10-17T19:02:24Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/ghostfolio/ghostfolio/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Moodle",
@@ -3134,7 +3255,8 @@
     "updated_at": "2026-10-13T12:07:26Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/moodle/moodle/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Oppia",
@@ -3155,7 +3277,8 @@
     "updated_at": "2026-10-16T22:11:15Z",
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/oppia/oppia/zip/refs/heads/develop",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -3194,7 +3317,8 @@
     "updated_at": "2026-10-18T03:34:07Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/openemr/openemr/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Vue Vben Admin",
@@ -3217,7 +3341,8 @@
     "updated_at": "2026-10-16T19:45:21Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/vbenjs/vue-vben-admin/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Vue Pure Admin",
@@ -3240,7 +3365,8 @@
     "updated_at": "2026-10-12T06:10:23Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/pure-admin/vue-pure-admin/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Ant Design Pro",
@@ -3263,7 +3389,8 @@
     "updated_at": "2026-10-15T01:57:02Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/ant-design/ant-design-pro/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Appsmith",
@@ -3285,7 +3412,8 @@
     "updated_at": "2026-10-16T15:24:38Z",
     "default_branch": "release",
     "download_url": "https://codeload.github.com/appsmithorg/appsmith/zip/refs/heads/release",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "ToolJet",
@@ -3307,7 +3435,8 @@
     "updated_at": "2026-10-18T03:25:57Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/ToolJet/ToolJet/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "NocoDB",
@@ -3333,7 +3462,8 @@
     "pinned": true,
     "pin_label": "推荐",
     "pin_note": "开源版 Airtable，搭建内部工具最快的一档",
-    "pin_until": "2026-11-30"
+    "pin_until": "2026-11-30",
+    "license_category": "open"
   },
   {
     "name": "Metabase",
@@ -3355,7 +3485,8 @@
     "updated_at": "2026-10-18T03:52:18Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/metabase/metabase/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Apache Superset",
@@ -3377,7 +3508,8 @@
     "updated_at": "2026-10-18T01:37:43Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/apache/superset/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -3417,7 +3549,8 @@
     "updated_at": "2026-10-18T01:10:35Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/grafana/grafana/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Nextcloud",
@@ -3439,7 +3572,8 @@
     "updated_at": "2026-10-18T02:41:15Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/nextcloud/server/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Chatwoot",
@@ -3460,7 +3594,8 @@
     "updated_at": "2026-10-18T01:59:12Z",
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/chatwoot/chatwoot/zip/refs/heads/develop",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -3549,7 +3684,8 @@
     "updated_at": "2026-10-17T23:50:01Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/wekan/wekan/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -3584,7 +3720,8 @@
     "updated_at": "2026-10-16T14:35:12Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/halo-dev/halo/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "WordPress",
@@ -3605,7 +3742,8 @@
     "updated_at": "2026-10-18T04:19:06Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/WordPress/WordPress/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Jellyfin",
@@ -3627,7 +3765,8 @@
     "updated_at": "2026-10-18T01:10:24Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/jellyfin/jellyfin/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -3686,7 +3825,8 @@
     "updated_at": "2026-10-17T10:14:01Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/navidrome/navidrome/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Penpot",
@@ -3707,7 +3847,8 @@
     "updated_at": "2026-10-17T20:51:44Z",
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/penpot/penpot/zip/refs/heads/develop",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Excalidraw",
@@ -3729,7 +3870,8 @@
     "updated_at": "2026-10-17T15:15:02Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/excalidraw/excalidraw/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -3763,7 +3905,8 @@
     "updated_at": "2026-10-08T21:48:25Z",
     "default_branch": "dev",
     "download_url": "https://codeload.github.com/jgraph/drawio/zip/refs/heads/dev",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -3817,7 +3960,8 @@
     "updated_at": "2026-10-18T04:11:59Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/usememos/memos/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -3887,7 +4031,8 @@
     "updated_at": "2026-10-18T04:24:46Z",
     "default_branch": "dev",
     "download_url": "https://codeload.github.com/laurent22/joplin/zip/refs/heads/dev",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -3951,7 +4096,8 @@
     "updated_at": "2026-10-08T11:00:14Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/AppFlowy-IO/AppFlowy/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -3991,7 +4137,8 @@
     "updated_at": "2026-10-17T20:12:05Z",
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/photoprism/photoprism/zip/refs/heads/develop",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -4031,7 +4178,8 @@
     "updated_at": "2026-10-17T23:51:40Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/immich-app/immich/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Supabase",
@@ -4053,7 +4201,8 @@
     "updated_at": "2026-10-18T00:37:42Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/supabase/supabase/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Appwrite",
@@ -4075,7 +4224,8 @@
     "updated_at": "2026-10-17T21:56:55Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/appwrite/appwrite/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -4103,7 +4253,8 @@
     "updated_at": "2026-10-17T21:01:17Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/n8n-io/n8n/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "restricted"
   },
   {
     "release": {
@@ -4142,7 +4293,8 @@
     "pinned": true,
     "pin_label": "推荐",
     "pin_note": "自托管监控的轻量首选，部署简单、界面清爽",
-    "pin_until": "2026-11-30"
+    "pin_until": "2026-11-30",
+    "license_category": "open"
   },
   {
     "release": {
@@ -4176,7 +4328,8 @@
     "updated_at": "2026-10-13T15:36:13Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/CorentinTh/it-tools/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "FreshRSS",
@@ -4197,7 +4350,8 @@
     "updated_at": "2026-10-17T15:37:28Z",
     "default_branch": "edge",
     "download_url": "https://codeload.github.com/FreshRSS/FreshRSS/zip/refs/heads/edge",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Hoppscotch",
@@ -4218,7 +4372,8 @@
     "updated_at": "2026-10-12T04:41:25Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/hoppscotch/hoppscotch/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -4278,7 +4433,8 @@
     "updated_at": "2026-09-12T20:28:48Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/gogs/gogs/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "release": {
@@ -4336,7 +4492,8 @@
     "updated_at": "2026-10-15T15:53:55Z",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/meilisearch/meilisearch/zip/refs/heads/main",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "Decidim",
@@ -4357,7 +4514,8 @@
     "updated_at": "2026-10-17T20:54:41Z",
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/decidim/decidim/zip/refs/heads/develop",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   },
   {
     "name": "CKAN",
@@ -4379,6 +4537,7 @@
     "updated_at": "2026-10-16T23:42:17Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/ckan/ckan/zip/refs/heads/master",
-    "platform": "github"
+    "platform": "github",
+    "license_category": "open"
   }
 ]

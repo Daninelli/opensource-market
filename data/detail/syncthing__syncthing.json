@@ -8,6 +8,8 @@
   "subcategory": "私有同步",
   "subcategory_slug": "sync",
   "license": "MPL-2.0",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "Go"
   ],
@@ -69,5 +71,6 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

@@ -8,6 +8,8 @@
   "subcategory": "微博客",
   "subcategory_slug": "microblog",
   "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "Ruby on Rails",
     "React"
@@ -24,5 +26,6 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null
+  "gitee": null,
+  "changes": []
 }

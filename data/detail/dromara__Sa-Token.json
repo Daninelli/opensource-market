@@ -8,6 +8,8 @@
   "subcategory": "后端服务",
   "subcategory_slug": "backend",
   "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "Java",
     "Spring Boot"
@@ -28,5 +30,6 @@
     "repo": "dromara/Sa-Token",
     "url": "https://gitee.com/dromara/Sa-Token",
     "stars": 49500
-  }
+  },
+  "changes": []
 }

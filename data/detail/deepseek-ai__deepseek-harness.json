@@ -8,6 +8,8 @@
   "subcategory": "智能体",
   "subcategory_slug": "agent",
   "license": "MIT",
+  "license_category": "open",
+  "archived": false,
   "tech_stack": [
     "TypeScript",
     "Node.js",
@@ -15,7 +17,6 @@
   ],
   "deploy_type": "源码",
   "platform": "github",
-  "stars": 252626,
   "updated_at": "2026-10-17T08:16:09Z",
   "added_at": "2026-10-18T10:17:41.839Z",
   "default_branch": "master",
@@ -32,9 +33,5 @@
   "pin_note": null,
   "submitted_by": null,
   "gitee": null,
-  "star_series": [],
-  "star_points": 1,
-  "history_days": 2,
-  "delta_7d": null,
-  "delta_30d": null
+  "changes": []
 }
