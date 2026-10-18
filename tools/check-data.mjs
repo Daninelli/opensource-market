@@ -12,6 +12,7 @@
  * 最后输出各分类的项目数量统计。
  */
 import { readFile } from "node:fs/promises";
+import { readFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 
@@ -257,6 +258,26 @@ if (restrictedProjects.length) {
         .sort((a, b) => (b.stars || 0) - (a.stars || 0))
         .slice(0, 10)
         .forEach((p) => console.log(`  - ${p.name}（${p.license}）`));
+}
+
+/**
+ * 派生文件的一致性检查。
+ *
+ * 页面上的「监控 N 个项目」这类数字只有一个来源：projects.json。
+ * 如果生成的 changes-feed.json 是旧的，页面就会显示过期数字，
+ * 所以这里直接比对，对不上就报错，逼着重新生成。
+ */
+try {
+    const feed = JSON.parse(readFileSync(join(root, "data", "changes-feed.json"), "utf8"));
+    const expected = projects.filter((p) => p.repo).length;
+    if (feed.monitored !== expected) {
+        problems.push(
+            `data/changes-feed.json 的 monitored=${feed.monitored} 与 projects.json 的 ${expected} 不一致，` +
+                `请运行 node tools/build-changes-feed.mjs`
+        );
+    }
+} catch {
+    problems.push("缺少 data/changes-feed.json，请运行 node tools/build-changes-feed.mjs");
 }
 
 if (problems.length) {
