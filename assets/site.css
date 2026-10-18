@@ -292,6 +292,28 @@
         .skeleton-line.is-tags { height: 20px; width: 60%; border-radius: 6px; }
         .skeleton-line.is-foot { height: 32px; width: 55%; margin-top: auto; align-self: flex-end; }
 
+        /* 筛选后该分区没有项目时的占位 */
+        .section-empty {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 14px;
+            padding: 44px 20px;
+            border: 1px dashed var(--border-strong);
+            border-radius: 14px;
+            background: #fbfcfd;
+            color: var(--muted);
+            font-size: 13.5px;
+            text-align: center;
+        }
+        .section-empty p { margin: 0; }
+        .btn-reset {
+            background: var(--surface);
+            border: 1px solid var(--border-strong);
+            color: var(--ink);
+        }
+        .btn-reset:hover { border-color: var(--brand); color: var(--brand); }
+
         /* 「更多」卡片：占一个格子，点开展开该分区全部项目 */
         .more-card {
             position: relative;

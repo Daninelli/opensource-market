@@ -375,21 +375,13 @@
         // 分区先只建骨架，滚到附近再填卡片（懒渲染）
         Array.prototype.forEach.call(els.app.querySelectorAll(".section"), observeSection);
 
-        // 搜索 / 二级筛选时结果少，直接全部渲染
-        if (state.query || hasActiveSubFilter()) {
+        // 搜索时结果通常很少，直接全部渲染；二级筛选走 refreshSection 局部刷新
+        if (state.query) {
             Array.prototype.forEach.call(els.app.querySelectorAll(".section"), fillSection);
         }
 
         // 卡片进入文档后才能量出标签行数
         applyTagOverflow();
-    }
-
-    function hasActiveSubFilter() {
-        var keys = Object.keys(state.sub || {});
-        for (var i = 0; i < keys.length; i++) {
-            if (state.sub[keys[i]] && state.sub[keys[i]] !== "all") return true;
-        }
-        return false;
     }
 
     /** 当前宽度下网格有几列 */
@@ -456,7 +448,8 @@
     function renderGridCards(grid, projects, primary, section) {
         var cols = gridColumns();
         var limit = cols * 2; // 两行
-        var collapsed = !state.query && !hasActiveSubFilter() && projects.length > limit;
+        // 二级筛选不展开，仍然保持两行 + 更多；搜索时展开全部匹配
+        var collapsed = !state.query && projects.length > limit;
 
         var visible = collapsed ? projects.slice(0, limit - 1) : projects;
         visible.forEach(function (project) {
@@ -638,10 +631,87 @@
         chip.className = "chip" + (isActive ? " is-active" : "");
         chip.innerHTML = escapeHtml(label) + '<span class="n">' + count + "</span>";
         chip.addEventListener("click", function () {
+            if (state.sub[primarySlug] === subSlug) return;
             state.sub[primarySlug] = subSlug;
-            renderAll();
+            refreshSection(primarySlug);
         });
         return chip;
+    }
+
+    /**
+     * 二级筛选：只重渲染当前分区，其他分区保持原样。
+     * 渲染前后把分区在视口中的位置对齐，避免筛选时页面跳动。
+     */
+    function refreshSection(primarySlug) {
+        var old = document.getElementById("sec-" + primarySlug);
+        if (!old) return;
+
+        var groups = groupProjects();
+        var group = null;
+        for (var i = 0; i < groups.length; i++) {
+            if (groups[i].primary.slug === primarySlug) {
+                group = groups[i];
+                break;
+            }
+        }
+
+        var beforeTop = old.getBoundingClientRect().top;
+        var next = group ? buildSection(group) : buildEmptySection(primarySlug);
+        old.parentNode.replaceChild(next, old);
+        if (group) fillSection(next);
+
+        var afterTop = next.getBoundingClientRect().top;
+        if (Math.abs(afterTop - beforeTop) > 1) {
+            window.scrollBy(0, afterTop - beforeTop);
+        }
+
+        renderStatus(groups);
+    }
+
+    /** 筛选后该分区没有项目时的占位 */
+    function buildEmptySection(primarySlug) {
+        var primary = null;
+        for (var i = 0; i < TAXONOMY.length; i++) {
+            if (TAXONOMY[i].slug === primarySlug) {
+                primary = TAXONOMY[i];
+                break;
+            }
+        }
+
+        var section = document.createElement("section");
+        section.className = "section";
+        section.id = "sec-" + primarySlug;
+
+        if (primary) {
+            var head = document.createElement("div");
+            head.className = "section-head";
+            head.innerHTML =
+                '<span class="section-icon" style="background:' + tint(primary.color, .12) + ";color:" + primary.color + '">' +
+                iconMarkup(primary.icon) +
+                "</span>" +
+                '<div class="section-title">' +
+                "<h2>" + escapeHtml(primary.label) + "</h2>" +
+                "<p>" + escapeHtml(primary.blurb || "") + " · 0 个项目</p>" +
+                "</div>";
+            section.appendChild(head);
+        }
+
+        var empty = document.createElement("div");
+        empty.className = "section-empty";
+        empty.innerHTML = "<p>这个分类下暂时没有符合筛选条件的项目。</p>";
+
+        var reset = document.createElement("button");
+        reset.type = "button";
+        reset.className = "btn btn-reset";
+        reset.textContent = "查看全部";
+        reset.addEventListener("click", function () {
+            state.sub[primarySlug] = "all";
+            refreshSection(primarySlug);
+        });
+        empty.appendChild(reset);
+
+        section.appendChild(empty);
+        return section;
     }
 
     /* 平台来源：一个项目可能同时存在于 GitHub 与 Gitee */
