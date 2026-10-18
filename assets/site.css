@@ -2030,3 +2030,69 @@
             .footer-guide ul { grid-template-columns: 1fr; }
             .footer-guide li { font-size: 12px; }
         }
+
+        /* ------------------------------ 更新日志页 ------------------------------ */
+        .changes-legend {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px 20px;
+            margin: 0 0 16px;
+            padding: 11px 14px;
+            border-radius: 10px;
+            background: #fafbfc;
+            border: 1px solid var(--border);
+            font-size: 12px;
+            color: var(--muted);
+        }
+        .legend-item {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .changes-table .recent-row {
+            grid-template-columns: 96px minmax(0, 1.6fr) 96px 112px minmax(0, 1fr);
+        }
+        a.changes-row {
+            text-decoration: none;
+            color: inherit;
+        }
+        a.changes-row:hover { background: #fafbfc; }
+        .changes-row .c-type { display: flex; align-items: center; }
+        .changes-row .c-detail {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 12.5px;
+            color: var(--ink-soft);
+        }
+        .change-none { color: var(--faint); }
+
+        .changes-empty {
+            padding: 52px 24px;
+            text-align: center;
+        }
+        .changes-empty h2 {
+            margin: 0 0 12px;
+            font-size: 15px;
+            font-weight: 600;
+            color: var(--ink-soft);
+        }
+        .changes-empty p {
+            margin: 0 auto 10px;
+            max-width: 520px;
+            font-size: 13px;
+            line-height: 1.8;
+            color: var(--muted);
+        }
+        .changes-empty b { color: var(--ink); }
+        .changes-empty-note { color: var(--faint) !important; font-size: 12.5px !important; }
+
+        @media (max-width: 760px) {
+            .changes-legend { display: none; }
+            .changes-table .recent-row {
+                grid-template-columns: 1fr auto;
+                gap: 6px 10px;
+            }
+            .changes-table .recent-row-head { display: none; }
+        }

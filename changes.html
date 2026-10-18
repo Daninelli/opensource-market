@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="开源集市更新日志：项目许可协议变更、仓库归档、置顶与推荐调整，全部自动记录并标注日期。">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <title>更新日志 · 开源集市</title>
+    <link rel="stylesheet" href="assets/site.css?v=20261019d">
+</head>
+<body>
+    <svg class="icon-sprite" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+        <symbol id="icon-market" viewBox="0 0 24 24">
+            <path d="M3.2 9 4.75 4.2a1 1 0 0 1 .95-.7h12.6a1 1 0 0 1 .95.7L20.8 9"/>
+            <path d="M3.2 9a2.93 2.93 0 0 0 5.87 0 2.93 2.93 0 0 0 5.86 0 2.93 2.93 0 0 0 5.87 0"/>
+            <path d="M5.2 12.2V18M18.8 12.2V18M3.2 18h17.6"/>
+            <path d="M9.6 18v-3.2a.8.8 0 0 1 .8-.8h3.2a.8.8 0 0 1 .8.8V18"/>
+        </symbol>
+        <symbol id="icon-github" viewBox="0 0 24 24">
+            <path d="M9.2 20.4c-4.2 1.2-4.2-2.1-5.9-2.6m11.8 5v-3.4c0-1 .1-1.4-.5-2 2.4-.3 4.9-1.2 4.9-5.4a4.2 4.2 0 0 0-1.2-2.9 3.9 3.9 0 0 0-.1-2.9s-.9-.3-3 1.2a10.3 10.3 0 0 0-5.4 0C7.7 6 6.8 6.3 6.8 6.3a3.9 3.9 0 0 0-.1 2.9 4.2 4.2 0 0 0-1.2 2.9c0 4.2 2.5 5.1 4.9 5.4-.6.6-.6 1.2-.5 2v3.4"/>
+        </symbol>
+        <symbol id="icon-info" viewBox="0 0 24 24">
+            <circle cx="12" cy="12" r="8.4"/>
+            <path d="M12 11v5.2"/>
+            <path d="M12 7.9h.01"/>
+        </symbol>
+        <symbol id="icon-arrow-up" viewBox="0 0 24 24">
+            <path d="M12 19V5"/>
+            <path d="m6 11 6-6 6 6"/>
+        </symbol>
+    </svg>
+
+    <nav class="topnav">
+        <div class="topnav-inner">
+            <a class="topnav-brand" href="index.html">
+                <span class="topnav-mark" aria-hidden="true">
+                    <svg class="icon"><use href="#icon-market"></use></svg>
+                </span>
+                <span class="topnav-name">开源集市</span>
+            </a>
+            <div class="topnav-links">
+                <a href="recent.html">最近收录</a>
+                <a href="changes.html" class="is-active">更新日志</a>
+                <a href="licenses.html">协议说明</a>
+                <a href="disclaimer.html">免责声明</a>
+                <a href="https://github.com/Daninelli/opensource-market/issues/new" target="_blank" rel="noopener noreferrer">提交项目</a>
+                <a class="topnav-github" href="https://github.com/Daninelli/opensource-market" target="_blank" rel="noopener noreferrer">
+                    <svg class="icon" aria-hidden="true"><use href="#icon-github"></use></svg>
+                    <span>GitHub</span>
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="recent-wrap">
+        <a class="doc-back" href="index.html">← 返回开源集市</a>
+
+        <div class="recent-head">
+            <h1>更新日志</h1>
+            <p id="changes-sub">项目许可协议变更、仓库归档、置顶与推荐调整 · 每天自动比对</p>
+        </div>
+
+        <div class="changes-legend">
+            <span class="legend-item"><span class="change-tag warn">许可协议变更</span>项目换了许可证，可能影响能否商用</span>
+            <span class="legend-item"><span class="change-tag warn">仓库已归档</span>作者停止维护</span>
+            <span class="legend-item"><span class="change-tag brand">置顶 / 推荐</span>本站编辑位调整</span>
+        </div>
+
+        <div class="recent-table changes-table" role="table" aria-label="项目变动记录">
+            <div class="recent-row recent-row-head" role="row">
+                <span class="c-time" role="columnheader">日期</span>
+                <span class="c-name" role="columnheader">项目</span>
+                <span class="c-cat" role="columnheader">分类</span>
+                <span class="c-type" role="columnheader">变动</span>
+                <span class="c-detail" role="columnheader">详情</span>
+            </div>
+            <div id="changes-body"></div>
+        </div>
+
+        <p class="recent-foot" id="changes-foot"></p>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-links">
+            <a href="index.html">开源集市</a>
+            <a href="recent.html">最近收录</a>
+            <a href="changes.html">更新日志</a>
+            <a href="licenses.html">开源协议说明</a>
+            <a href="disclaimer.html">免责声明</a>
+            <a href="https://github.com/Daninelli/opensource-market" target="_blank" rel="noopener noreferrer">GitHub 仓库</a>
+        </div>
+        <div class="footer-notice">
+            <svg class="icon" aria-hidden="true"><use href="#icon-info"></use></svg>
+            <span><b>信息可能已过期。</b>star 数、更新时间与许可协议由脚本定时抓取，并非实时；项目可能已停止维护、变更协议或迁移仓库。<b>一切以项目官方仓库的实际内容与 LICENSE 文件为准</b>，本站信息不构成授权或法律意见。</span>
+        </div>
+        <p>收录项目的代码、商标与文档均归原作者所有。本站只做收录与跳转，<strong>不托管、不存储、不分发</strong>任何第三方的代码或安装包。</p>
+        <p class="footer-license">
+            本站页面与数据以 <strong>MIT 协议</strong>开源 ·
+            <a href="https://github.com/Daninelli/opensource-market/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">查看协议</a> ·
+            欢迎 <a href="https://github.com/Daninelli/opensource-market/pulls" target="_blank" rel="noopener noreferrer">Pull Request</a>
+        </p>
+    </footer>
+
+    <button id="to-top" class="to-top" type="button" aria-label="回到顶部" title="回到顶部">
+        <svg class="icon" aria-hidden="true"><use href="#icon-arrow-up"></use></svg>
+    </button>
+
+    <script src="assets/changes.js?v=20261019d"></script>
+</body>
+</html>
