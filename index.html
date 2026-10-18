@@ -405,41 +405,44 @@
         .card-foot {
             position: relative;       /* 下拉面板以此为定位基准 */
             display: flex;
-            flex-wrap: wrap;
+            flex-wrap: nowrap;
             align-items: center;
-            justify-content: flex-end;
-            gap: 8px 6px;
+            gap: 8px;
             margin-top: auto;     /* 关键：按钮永远贴卡片底部，同行卡片横向对齐 */
             padding-top: 2px;
         }
 
-        /* 下载源切换：双源时是可点的分段开关，单源时是一行静态标签 */
-        .src-switch {
-            display: flex;
-            width: 100%;
-            justify-content: flex-start;
-        }
-        .src-opt {
+        /* 下载源：双源时是一个开关，点一下切到另一个；单源时是静态标签 */
+        .src-toggle {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
             font: inherit;
-            font-size: 11.5px;
+            font-size: 11px;
             line-height: 16px;
-            padding: 4px 11px;
+            padding: 4px 8px;
+            border-radius: 999px;
             border: 1px solid var(--border-strong);
             background: var(--surface);
-            color: var(--muted);
+            color: var(--ink-soft);
             cursor: pointer;
-            transition: background .15s, color .15s, border-color .15s;
+            flex: none;
+            transition: border-color .15s, background .15s, color .15s;
         }
-        .src-opt:first-child { border-radius: 7px 0 0 7px; }
-        .src-opt:last-child { border-radius: 0 7px 7px 0; margin-left: -1px; }
-        .src-opt:hover { color: var(--ink); background: #f3f4f6; }
-        .src-opt.is-active {
-            background: var(--ink);
-            border-color: var(--ink);
-            color: #fff;
-            position: relative;
-            z-index: 1;
+        .src-toggle:hover {
+            border-color: var(--brand);
+            background: #f0fdf4;
+            color: var(--brand);
         }
+        .src-toggle .icon { font-size: 11px; opacity: .7; }
+        .src-dot {
+            width: 7px;
+            height: 7px;
+            border-radius: 50%;
+            flex: none;
+        }
+        .src-dot-github { background: #24292f; }
+        .src-dot-gitee { background: #c71d23; }
         .src-static {
             font-size: 11.5px;
             color: var(--faint);
@@ -577,13 +580,13 @@
         .btn {
             display: inline-flex;
             align-items: center;
-            gap: 6px;
+            gap: 5px;
             height: 34px;             /* 与下拉按钮等高，保证同一行对齐 */
-            padding: 0 14px;
+            padding: 0 11px;
             background: var(--brand);
             color: #fff;
             border-radius: 8px;
-            font-size: 13.5px;
+            font-size: 13px;
             font-weight: 500;
             text-decoration: none;
             transition: background .15s;
@@ -676,7 +679,8 @@
             .toolbar { padding: 8px 14px; }
             .grid { grid-template-columns: 1fr; }
             .stats { gap: 8px 18px; }
-            /* 手机上卡片是整行宽度，不截断，给三行完整阅读 */
+            /* 手机上空间不够时允许换行 */
+            .card-foot { flex-wrap: wrap; }
             .desc {
                 height: auto;
                 -webkit-line-clamp: 3;
@@ -775,6 +779,12 @@
         <symbol id="icon-caret" viewBox="0 0 24 24">
             <path d="m8.5 10 3.5 3.5L15.5 10"/>
         </symbol>
+        <symbol id="icon-swap" viewBox="0 0 24 24">
+            <path d="M4 8.5h13"/>
+            <path d="m14 5.5 3 3-3 3"/>
+            <path d="M20 15.5H7"/>
+            <path d="m10 12.5-3 3 3 3"/>
+        </symbol>
     </svg>
 
     <header class="hero">
@@ -818,6 +828,6 @@
         <p class="error">这个页面需要启用 JavaScript 才能渲染项目卡片。</p>
     </noscript>
 
-    <script src="app.js?v=20261018c"></script>
+    <script src="app.js?v=20261018d"></script>
 </body>
 </html>

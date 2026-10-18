@@ -553,21 +553,19 @@
             return appButton + srcButton;
         }
 
-        /* 源切换：双源可切，单源显示当前标签 */
+        /* 源切换：单源显示静态标签；双源是一个可点的开关，点一下切到另一个 */
         var canSwitch = sources.length > 1;
         var initialKey = sources.length ? sources[0].key : "github";
+        var initialLabel = sources.length ? sources[0].label : "GitHub";
 
         var srcSwitch = canSwitch
-            ? '<div class="src-switch" role="group" aria-label="切换下载源">' +
-              sources
-                  .map(function (source, index) {
-                      return '<button type="button" class="src-opt' +
-                          (index === 0 ? " is-active" : "") +
-                          '" data-src="' + source.key + '">' + source.label + "</button>";
-                  })
-                  .join("") +
-              "</div>"
-            : '<span class="src-static">' + (sources.length ? sources[0].label : "GitHub") + "</span>";
+            ? '<button type="button" class="src-toggle" data-src="' + initialKey +
+              '" title="点击切换下载源">' +
+              '<span class="src-dot src-dot-' + initialKey + '"></span>' +
+              '<span class="src-label">' + initialLabel + "</span>" +
+              iconMarkup("swap") +
+              "</button>"
+            : '<span class="src-static">' + initialLabel + "</span>";
 
         card.innerHTML =
             // 标题 + 协议
@@ -591,21 +589,28 @@
             '<span class="dl-controls">' + buildControls(initialKey) + "</span>" +
             "</div>";
 
-        /* 切换源时实时替换下载控件 */
-        Array.prototype.forEach.call(card.querySelectorAll(".src-opt"), function (button) {
-            button.addEventListener("click", function () {
-                var key = button.getAttribute("data-src");
-                Array.prototype.forEach.call(card.querySelectorAll(".src-opt"), function (other) {
-                    other.classList.remove("is-active");
-                });
-                button.classList.add("is-active");
+        /* 点击开关：切到下一个源，下载控件实时跟着变 */
+        var srcToggle = card.querySelector(".src-toggle");
+        if (srcToggle) {
+            srcToggle.addEventListener("click", function () {
+                var current = srcToggle.getAttribute("data-src");
+                var index = 0;
+                for (var i = 0; i < sources.length; i++) {
+                    if (sources[i].key === current) index = i;
+                }
+                var next = sources[(index + 1) % sources.length];
+
+                srcToggle.setAttribute("data-src", next.key);
+                srcToggle.querySelector(".src-label").textContent = next.label;
+                srcToggle.querySelector(".src-dot").className = "src-dot src-dot-" + next.key;
+
                 var controls = card.querySelector(".dl-controls");
                 if (controls) {
-                    controls.innerHTML = buildControls(key);
+                    controls.innerHTML = buildControls(next.key);
                     bindPicker(card);
                 }
             });
-        });
+        }
 
         bindPicker(card);
         return card;
