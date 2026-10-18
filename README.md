@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-把「拿来就能用，或稍微改改就能二次开发」的开源成品应用集中展示的纯静态导航站。
+按分类整理的开源成品应用导航站，用于学习、开发、交流。
 
 - 纯 HTML + CSS + 原生 JS，无框架、无构建步骤
 - 数据全部放在 `projects.json`，新增项目只改这一个文件
