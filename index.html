@@ -346,26 +346,21 @@
             overflow: hidden;
         }
 
-        /* 标签一行，超出折叠成 +N */
+        /* 标签：全部展示，最多两行 */
         .tags {
             display: flex;
-            flex-wrap: nowrap;
+            flex-wrap: wrap;
             gap: 6px;
-            height: 22px;
+            max-height: 44px;         /* 两行，再多就裁（数据里最多 6 个，放得下） */
             overflow: hidden;
-            align-items: center;
+            align-content: flex-start;
         }
         .tags .chip-tag {
             white-space: nowrap;
             flex: none;
-            max-width: 140px;
+            max-width: 100%;
             overflow: hidden;
             text-overflow: ellipsis;
-        }
-        .chip-tag.more {
-            background: #eef0f2;
-            color: var(--muted);
-            flex: none;
         }
 
         /* 统计行固定高度：没有数据时也占位，保证下方按钮对齐 */
@@ -410,12 +405,51 @@
         .card-foot {
             position: relative;       /* 下拉面板以此为定位基准 */
             display: flex;
+            flex-wrap: wrap;
             align-items: center;
             justify-content: flex-end;
-            gap: 10px;
+            gap: 8px 6px;
             margin-top: auto;     /* 关键：按钮永远贴卡片底部，同行卡片横向对齐 */
             padding-top: 2px;
-            flex-wrap: wrap;
+        }
+
+        /* 下载源切换：双源时是可点的分段开关，单源时是一行静态标签 */
+        .src-switch {
+            display: flex;
+            width: 100%;
+            justify-content: flex-start;
+        }
+        .src-opt {
+            font: inherit;
+            font-size: 11.5px;
+            line-height: 16px;
+            padding: 4px 11px;
+            border: 1px solid var(--border-strong);
+            background: var(--surface);
+            color: var(--muted);
+            cursor: pointer;
+            transition: background .15s, color .15s, border-color .15s;
+        }
+        .src-opt:first-child { border-radius: 7px 0 0 7px; }
+        .src-opt:last-child { border-radius: 0 7px 7px 0; margin-left: -1px; }
+        .src-opt:hover { color: var(--ink); background: #f3f4f6; }
+        .src-opt.is-active {
+            background: var(--ink);
+            border-color: var(--ink);
+            color: #fff;
+            position: relative;
+            z-index: 1;
+        }
+        .src-static {
+            font-size: 11.5px;
+            color: var(--faint);
+        }
+        .dl-controls {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            justify-content: flex-end;
+            margin-left: auto;
         }
         .dl-group {
             display: flex;
@@ -425,41 +459,20 @@
             justify-content: flex-end;
         }
 
-        /* 安装包切换器：收起时是方形图标按钮，点开在卡片内展开面板 */
-        .dl-picker {
-            display: inline-flex;
-            align-items: center;
-            flex: none;
+        /* 有多个安装包时，按钮内嵌一个下拉角标；点按钮先弹面板 */
+        .btn-dl.has-menu {
+            border: 0;
+            cursor: pointer;
+            font-family: inherit;
         }
-        .dl-picker-btn {
+        .btn-dl .dl-caret {
             display: inline-grid;
             place-items: center;
-            width: 34px;
-            height: 34px;
-            border-radius: 8px;
-            border: 1px solid var(--border-strong);
-            background: var(--surface);
-            color: var(--muted);
-            cursor: pointer;
-            padding: 0;
-            transition: border-color .15s, color .15s, background .15s;
+            margin-left: 2px;
+            opacity: .85;
         }
-        .dl-picker-btn:hover,
-        .dl-picker.is-open .dl-picker-btn {
-            border-color: var(--brand);
-            color: var(--brand);
-            background: #f0fdf4;
-        }
-        .dl-picker-btn .icon { font-size: 15px; transition: transform .15s; }
-        .dl-picker.is-open .dl-picker-btn .icon { transform: rotate(180deg); }
-
-        /* 没有下拉框的卡片用等宽空位占住，保证同一行按钮对齐 */
-        .dl-picker.is-empty {
-            width: 34px;
-            height: 34px;
-            visibility: hidden;
-            pointer-events: none;
-        }
+        .btn-dl .dl-caret .icon { font-size: 13px; transition: transform .15s; }
+        .btn-dl.is-open .dl-caret .icon { transform: rotate(180deg); }
 
         /* 下拉面板：锚定在卡片底部区域，宽度与卡片内容等宽，永远不溢出 */
         .pkg-menu {
@@ -492,9 +505,10 @@
             font-size: 12.5px;
             color: var(--ink-soft);
             text-align: left;
+            text-decoration: none;
             cursor: pointer;
         }
-        .pkg-option:hover { background: #f3f4f6; }
+        .pkg-option:hover { background: #f3f4f6; color: var(--ink); }
         .pkg-option .opt-platform {
             flex: none;
             font-size: 9.5px;

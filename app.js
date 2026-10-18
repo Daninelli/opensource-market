@@ -446,7 +446,7 @@
             })
             .join("");
 
-        /* 标签：最多显示 4 个，其余折叠成 +N */
+        /* 标签：全部展示，最多两行（数据里最多 6 个，放得下） */
         var sub = resolveSubcategory(project, primary);
         var tagList = [];
         if (sub) tagList.push({ cls: "sub", text: sub.label });
@@ -455,20 +455,11 @@
             tagList.push({ cls: "", text: item });
         });
 
-        var TAG_LIMIT = 4;
-        var shownTags = tagList.slice(0, TAG_LIMIT);
-        var restCount = tagList.length - shownTags.length;
-
-        var tags = shownTags
+        var tags = tagList
             .map(function (item) {
                 return '<span class="chip-tag ' + item.cls + '">' + escapeHtml(item.text) + "</span>";
             })
             .join("");
-        if (restCount > 0) {
-            tags += '<span class="chip-tag more" title="' +
-                escapeHtml(tagList.slice(TAG_LIMIT).map(function (t) { return t.text; }).join(" / ")) +
-                '">+' + restCount + "</span>";
-        }
 
         /* 更新时间：双平台取较新的那个 */
         var updatedAt = project.updated_at || "";
@@ -488,44 +479,95 @@
                 ? '<span class="stat-item">' + iconMarkup("clock") + relativeTime(updatedAt) + "</span>"
                 : '<span class="stat-item is-empty">' + iconMarkup("clock") + "更新时间待补充</span>");
 
-        /* 源码 zip：GitHub 用 codeload 直链，Gitee 用 archive 直链 */
-        var sourceUrl =
-            platform === "gitee"
-                ? project.download_url || giteeZipUrl(project)
-                : project.download_url ||
-                  (project.repo ? "https://github.com/" + project.repo : giteeZipUrl(project));
+        /* 每个源各自的下载内容 */
+        var sourcePayload = {
+            github: {
+                assets: Array.isArray(project.best_assets) ? project.best_assets : [],
+                srcUrl:
+                    project.download_url ||
+                    (project.repo
+                        ? "https://codeload.github.com/" + project.repo + "/zip/refs/heads/" +
+                          (project.default_branch || "main")
+                        : "")
+            },
+            gitee: {
+                // Gitee 的发行版资产暂未采集，先只提供源码包
+                assets: [],
+                srcUrl: giteeZipUrl(project)
+            }
+        };
 
-        /* 安装包：从 Release 资产里挑出的候选包（仅 GitHub 有） */
-        var assets = Array.isArray(project.best_assets) ? project.best_assets : [];
+        /* 生成某一源对应的下载控件（下载应用 + 下载源码） */
+        function buildControls(key) {
+            var payload = sourcePayload[key] || sourcePayload.github;
+            var list = payload.assets;
 
-        /* 安装包选择器：多个包时显示，否则放等宽空位占住，
-           保证同一行所有卡片的下载按钮横向对齐 */
-        var platformPicker = "";
-        if (assets.length > 1) {
-            var options = assets
-                .map(function (asset) {
-                    return (
-                        '<button type="button" class="pkg-option" data-url="' + escapeHtml(asset.url) +
-                        '" data-size="' + escapeHtml(formatSize(asset.size)) + '">' +
-                        '<span class="opt-platform">' + escapeHtml(asset.platform) + "</span>" +
-                        '<span class="opt-name" title="' + escapeHtml(asset.name) + '">' +
-                        escapeHtml(asset.name) + "</span>" +
-                        '<span class="opt-size">' + escapeHtml(formatSize(asset.size)) + "</span>" +
-                        "</button>"
-                    );
-                })
-                .join("");
+            var appButton;
+            if (list.length === 0) {
+                // 没有安装包：置灰不可点
+                appButton =
+                    '<span class="btn btn-dl is-disabled" aria-disabled="true" title="' +
+                    (key === "gitee"
+                        ? "Gitee 源的安装包数据暂未采集，可下载源码自行构建"
+                        : "该项目未提供官方编译包，请从源码自行构建或用 Docker 部署") +
+                    '">' + iconMarkup("package") + '<span class="btn-label">下载应用</span>' +
+                    '<span class="dl-size">' + (key === "gitee" ? "暂无数据" : "无官方包") + "</span></span>";
+            } else if (list.length === 1) {
+                // 只有一个包：直接下载，不弹面板
+                appButton =
+                    '<a class="btn btn-dl" href="' + escapeHtml(list[0].url) +
+                    '" target="_blank" rel="noopener noreferrer">' +
+                    iconMarkup("package") + '<span class="btn-label">下载应用</span>' +
+                    '<span class="dl-size">' + escapeHtml(formatSize(list[0].size)) + "</span></a>";
+            } else {
+                // 多个包：点按钮先弹面板，选一个再下载
+                var options = list
+                    .map(function (asset) {
+                        return (
+                            '<a class="pkg-option" href="' + escapeHtml(asset.url) +
+                            '" target="_blank" rel="noopener noreferrer">' +
+                            '<span class="opt-platform">' + escapeHtml(asset.platform) + "</span>" +
+                            '<span class="opt-name" title="' + escapeHtml(asset.name) + '">' +
+                            escapeHtml(asset.name) + "</span>" +
+                            '<span class="opt-size">' + escapeHtml(formatSize(asset.size)) + "</span>" +
+                            "</a>"
+                        );
+                    })
+                    .join("");
 
-            // 自定义面板：宽度跟随卡片，长文件名自动省略
-            platformPicker =
-                '<span class="dl-picker" data-repo="' + escapeHtml(project.repo || "") + '">' +
-                '<button type="button" class="dl-picker-btn" aria-label="选择安装包" aria-haspopup="true">' +
-                iconMarkup("caret") + "</button>" +
-                '<div class="pkg-menu" role="menu">' + options + "</div>" +
-                "</span>";
-        } else {
-            platformPicker = '<span class="dl-picker is-empty" aria-hidden="true"></span>';
+                appButton =
+                    '<button type="button" class="btn btn-dl has-menu" aria-haspopup="true" ' +
+                    'aria-label="选择安装包后下载">' +
+                    iconMarkup("package") + '<span class="btn-label">下载应用</span>' +
+                    '<span class="dl-caret" aria-hidden="true">' + iconMarkup("caret") + "</span>" +
+                    "</button>" +
+                    '<div class="pkg-menu" role="menu">' + options + "</div>";
+            }
+
+            var srcButton = payload.srcUrl
+                ? '<a class="btn btn-src" href="' + escapeHtml(payload.srcUrl) +
+                  '" target="_blank" rel="noopener noreferrer">' +
+                  iconMarkup("download") + "下载源码</a>"
+                : "";
+
+            return appButton + srcButton;
         }
+
+        /* 源切换：双源可切，单源显示当前标签 */
+        var canSwitch = sources.length > 1;
+        var initialKey = sources.length ? sources[0].key : "github";
+
+        var srcSwitch = canSwitch
+            ? '<div class="src-switch" role="group" aria-label="切换下载源">' +
+              sources
+                  .map(function (source, index) {
+                      return '<button type="button" class="src-opt' +
+                          (index === 0 ? " is-active" : "") +
+                          '" data-src="' + source.key + '">' + source.label + "</button>";
+                  })
+                  .join("") +
+              "</div>"
+            : '<span class="src-static">' + (sources.length ? sources[0].label : "GitHub") + "</span>";
 
         card.innerHTML =
             // 标题 + 协议
@@ -541,71 +583,65 @@
             escapeHtml(project.note_zh || "暂无简介") + "</p>" +
             // 版本 + 更新时间
             '<div class="stats-row">' + stats + "</div>" +
-            // 标签（超出折叠为 +N）
+            // 标签
             '<div class="tags">' + tags + "</div>" +
-            // 下载区
+            // 下载区：源开关 + 下载控件
             '<div class="card-foot">' +
-            '<div class="dl-group">' +
-            platformPicker +
-            (assets.length
-                ? '<a class="btn btn-dl" href="' + escapeHtml(assets[0].url) +
-                  '" target="_blank" rel="noopener noreferrer" data-dl-for="' +
-                  escapeHtml(project.repo || "") + '">' +
-                  iconMarkup("package") + '<span class="btn-label">下载应用</span>' +
-                  '<span class="dl-size">' + escapeHtml(formatSize(assets[0].size)) + "</span></a>"
-                // 没有官方编译包：按钮置灰不可点，提示只能自行构建
-                : '<span class="btn btn-dl is-disabled" aria-disabled="true" title="该项目未提供官方编译包，请从源码自行构建或用 Docker 部署">' +
-                  iconMarkup("package") + '<span class="btn-label">下载应用</span>' +
-                  '<span class="dl-size">无官方包</span></span>') +
-            (sourceUrl
-                ? '<a class="btn btn-src" href="' + escapeHtml(sourceUrl) +
-                  '" target="_blank" rel="noopener noreferrer">' +
-                  iconMarkup("download") + "下载源码</a>"
-                : "") +
-            "</div></div>";
+            srcSwitch +
+            '<span class="dl-controls">' + buildControls(initialKey) + "</span>" +
+            "</div>";
+
+        /* 切换源时实时替换下载控件 */
+        Array.prototype.forEach.call(card.querySelectorAll(".src-opt"), function (button) {
+            button.addEventListener("click", function () {
+                var key = button.getAttribute("data-src");
+                Array.prototype.forEach.call(card.querySelectorAll(".src-opt"), function (other) {
+                    other.classList.remove("is-active");
+                });
+                button.classList.add("is-active");
+                var controls = card.querySelector(".dl-controls");
+                if (controls) {
+                    controls.innerHTML = buildControls(key);
+                    bindPicker(card);
+                }
+            });
+        });
 
         bindPicker(card);
         return card;
     }
 
-    /** 收起所有安装包面板（except 指定的那个保持打开） */    function closeAllPickers(except) {
-        Array.prototype.forEach.call(document.querySelectorAll(".dl-picker.is-open"), function (picker) {
-            if (picker === except) return;
-            picker.classList.remove("is-open");
-            var menu = picker.querySelector(".pkg-menu");
+    /** 收起所有安装包面板（except 指定的那个保持打开） */
+    function closeAllPickers(except) {
+        Array.prototype.forEach.call(document.querySelectorAll(".btn-dl.has-menu.is-open"), function (button) {
+            if (button === except) return;
+            button.classList.remove("is-open");
+            var menu = button.parentNode.querySelector(".pkg-menu");
             if (menu) menu.classList.remove("is-open");
         });
     }
 
     /** 绑定单张卡片的安装包下拉。
-        直接作用在卡片元素上，不依赖它是否已经挂进文档。 */
+        一个按钮：没有选项直达，有选项先弹面板。 */
     function bindPicker(card) {
-        var picker = card.querySelector(".dl-picker:not(.is-empty)");
-        if (!picker) return;
+        var trigger = card.querySelector(".btn-dl.has-menu");
+        if (!trigger) return;
 
-        var trigger = picker.querySelector(".dl-picker-btn");
-        var menu = picker.querySelector(".pkg-menu");
-        if (!trigger || !menu) return;
+        var menu = trigger.parentNode.querySelector(".pkg-menu");
+        if (!menu) return;
 
         trigger.addEventListener("click", function (event) {
             event.stopPropagation();
-            closeAllPickers(picker);
+            closeAllPickers(trigger);
             var opened = menu.classList.toggle("is-open");
-            picker.classList.toggle("is-open", opened);
+            trigger.classList.toggle("is-open", opened);
         });
 
+        // 选中某个包时收起面板（链接本身会打开下载）
         Array.prototype.forEach.call(menu.querySelectorAll(".pkg-option"), function (option) {
-            option.addEventListener("click", function (event) {
-                event.stopPropagation();
-                var repo = picker.getAttribute("data-repo");
-                var button = document.querySelector('.btn-dl[data-dl-for="' + repo + '"]');
-                if (button) {
-                    button.setAttribute("href", option.getAttribute("data-url"));
-                    var sizeNode = button.querySelector(".dl-size");
-                    if (sizeNode) sizeNode.textContent = option.getAttribute("data-size");
-                }
+            option.addEventListener("click", function () {
                 menu.classList.remove("is-open");
-                picker.classList.remove("is-open");
+                trigger.classList.remove("is-open");
             });
         });
     }
