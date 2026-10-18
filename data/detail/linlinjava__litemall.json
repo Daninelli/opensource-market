@@ -16,7 +16,6 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "both",
-  "stars": 20389,
   "updated_at": "2026-08-20T00:43:07Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
@@ -31,10 +30,5 @@
     "repo": "linlinjava/litemall",
     "url": "https://gitee.com/linlinjava/litemall",
     "stars": 9000
-  },
-  "star_series": [],
-  "star_points": 1,
-  "history_days": 2,
-  "delta_7d": null,
-  "delta_30d": null
+  }
 }

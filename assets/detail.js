@@ -59,6 +59,64 @@
         return String(value).replace("/", "__");
     }
 
+    /**
+     * 从共享的 star 快照里取这个项目的曲线。
+     *
+     * 为什么不在分片里存：star 每天都在变，写进 159 个分片会让它们
+     * 每天全部重写，白白撑大 Git 历史。快照文件是唯一每天变动的数据源。
+     *
+     * @param {{dates: string[], series: Object}} history 全站 star 快照
+     * @param {string} repo 仓库全名
+     * @param {number} window 展示窗口（天）
+     */
+    function buildStarData(history, repo, window) {
+        var dates = (history && Array.isArray(history.dates)) ? history.dates : [];
+        var values = (history && history.series) ? history.series[repo] : null;
+
+        if (!Array.isArray(values) || !values.length) {
+            return { stars: null, series: [], delta7: null, delta30: null };
+        }
+
+        // 对齐日期，缺失补 null
+        var series = dates.map(function (date, i) {
+            return {
+                date: date,
+                stars: typeof values[i] === "number" ? values[i] : null
+            };
+        });
+
+        // 当前 star 数 = 最后一个有效值
+        var stars = null;
+        for (var i = values.length - 1; i >= 0; i -= 1) {
+            if (typeof values[i] === "number") {
+                stars = values[i];
+                break;
+            }
+        }
+
+        /**
+         * N 天增量：只有快照天数足够覆盖整个窗口时才算。
+         * 否则「近 7 天」和「近 30 天」会算出同一个数字（假数据）。
+         */
+        function delta(days) {
+            if (values.length < days + 1) return null;
+            var last = values[values.length - 1];
+            var base = values[values.length - 1 - days];
+            if (typeof last !== "number" || typeof base !== "number") return null;
+            return last - base;
+        }
+
+        // 曲线只展示最近 window 天
+        var tail = series.slice(Math.max(0, series.length - window));
+
+        return {
+            stars: stars,
+            series: tail,
+            delta7: delta(7),
+            delta30: delta(30)
+        };
+    }
+
     /* ------------------------------ Star 曲线 ------------------------------ */
 
     /**
@@ -155,22 +213,23 @@
         );
     }
 
-    /** Star 区块：有曲线画曲线，没有就说明为什么没有 */
+    /** Star 区块：有曲线画曲线，数据不够就说明原因，绝不画假曲线 */
     function renderStarPanel(data) {
-        var series = Array.isArray(data.star_series) ? data.star_series : [];
+        var star = data.star || { series: [], delta7: null, delta30: null };
+        var series = Array.isArray(star.series) ? star.series : [];
         var valid = series.filter(function (p) {
             return typeof p.stars === "number";
         });
 
         var deltaBits = "";
-        if (typeof data.delta_7d === "number") {
-            var d7 = data.delta_7d;
+        if (typeof star.delta7 === "number") {
+            var d7 = star.delta7;
             deltaBits +=
                 '<span class="star-delta' + (d7 > 0 ? "" : " is-zero") + '">' +
                 icon("arrow-up") + (d7 > 0 ? "+" : "") + formatCount(d7) + " 本周</span>";
         }
-        if (typeof data.delta_30d === "number") {
-            var d30 = data.delta_30d;
+        if (typeof star.delta30 === "number") {
+            var d30 = star.delta30;
             deltaBits +=
                 '<span class="star-delta' + (d30 > 0 ? "" : " is-zero") + '">' +
                 icon("arrow-up") + (d30 > 0 ? "+" : "") + formatCount(d30) + " 30 天</span>";
@@ -199,7 +258,7 @@
             '<div class="panel-head">' +
             "<h2>Star 趋势</h2>" +
             '<div class="star-summary">' +
-            '<span class="star-total">' + icon("star") + formatCount(data.stars) + "</span>" +
+            '<span class="star-total">' + icon("star") + formatCount(star.stars) + "</span>" +
             deltaBits +
             "</div>" +
             "</div>" +
@@ -397,8 +456,10 @@
         return;
     }
 
-    // 用分片文件，只下载这一个项目的数据
-    fetch("data/detail/" + toSlug(repo) + ".json?t=" + Date.now(), { cache: "no-store" })
+    var bust = "?t=" + Date.now();
+
+    // 分片只含静态信息；star 曲线读共享快照现算，避免分片每天被重写
+    var shardPromise = fetch("data/detail/" + toSlug(repo) + ".json" + bust, { cache: "no-store" })
         .then(function (response) {
             if (response.status === 404) {
                 throw new Error("没有找到「" + repo + "」的数据，可能已下线。");
@@ -407,8 +468,24 @@
                 throw new Error("加载失败：HTTP " + response.status);
             }
             return response.json();
+        });
+
+    // 快照拿不到不算失败：页面照常显示，只是没有 star 曲线
+    var historyPromise = fetch("data/stars-history.json" + bust, { cache: "no-store" })
+        .then(function (response) {
+            return response.ok ? response.json() : { dates: [], series: {} };
         })
-        .then(render)
+        .catch(function () {
+            return { dates: [], series: {} };
+        });
+
+    Promise.all([shardPromise, historyPromise])
+        .then(function (results) {
+            var data = results[0];
+            var history = results[1];
+            data.star = buildStarData(history, repo, 7);
+            render(data);
+        })
         .catch(function (error) {
             renderError(error.message || "未知错误");
         });

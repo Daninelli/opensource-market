@@ -16,7 +16,6 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "both",
-  "stars": 48244,
   "updated_at": "2026-10-14T01:56:30Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
@@ -31,10 +30,5 @@
     "repo": "jeecg/JeecgBoot",
     "url": "https://gitee.com/jeecg/JeecgBoot",
     "stars": 18500
-  },
-  "star_series": [],
-  "star_points": 1,
-  "history_days": 2,
-  "delta_7d": null,
-  "delta_30d": null
+  }
 }

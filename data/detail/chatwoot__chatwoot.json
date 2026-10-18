@@ -14,7 +14,6 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "stars": 37910,
   "updated_at": "2026-10-18T01:59:12Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "develop",
@@ -25,10 +24,5 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null,
-  "star_series": [],
-  "star_points": 1,
-  "history_days": 2,
-  "delta_7d": null,
-  "delta_30d": null
+  "gitee": null
 }

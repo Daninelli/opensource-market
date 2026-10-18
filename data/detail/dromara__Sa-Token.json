@@ -14,7 +14,6 @@
   ],
   "deploy_type": "依赖库（Maven）",
   "platform": "both",
-  "stars": 19087,
   "updated_at": "2026-10-16T11:50:09Z",
   "added_at": "2026-10-18T12:36:48+08:00",
   "default_branch": "dev",
@@ -29,10 +28,5 @@
     "repo": "dromara/Sa-Token",
     "url": "https://gitee.com/dromara/Sa-Token",
     "stars": 49500
-  },
-  "star_series": [],
-  "star_points": 1,
-  "history_days": 2,
-  "delta_7d": null,
-  "delta_30d": null
+  }
 }

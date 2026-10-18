@@ -48,12 +48,15 @@ jobs:
 
       - name: 有变化就提交
         run: |
-          if git diff --quiet -- projects.json meta.json trending.json recent.json data/stars-history.json data/detail; then
-            echo "数据没有变化，跳过提交"
+          # meta.json 里的 refreshed_at 每次运行都会变，不能拿它判断「有没有变化」，
+          # 否则每天都会产生一次没有实际意义的提交。
+          if git diff --quiet -- projects.json trending.json recent.json data/stars-history.json data/detail; then
+            git checkout -- meta.json 2>/dev/null || true
+            echo "数据没有实质变化，跳过提交"
           else
             git config user.name  "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add projects.json meta.json trending.json recent.json data/stars-history.json data/detail
-            git commit -m "chore: 更新 star / 更新时间 / 热门榜 / 最近收录 / 详情页（自动）"
+            git commit -m "chore: 更新 star / 更新时间和派生数据（自动）"
             git push
           fi

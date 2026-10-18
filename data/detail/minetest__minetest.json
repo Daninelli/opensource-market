@@ -14,7 +14,6 @@
   ],
   "deploy_type": "客户端 + 服务端",
   "platform": "github",
-  "stars": 13735,
   "updated_at": "2026-10-17T17:13:53Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
@@ -61,10 +60,5 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null,
-  "star_series": [],
-  "star_points": 1,
-  "history_days": 2,
-  "delta_7d": null,
-  "delta_30d": null
+  "gitee": null
 }

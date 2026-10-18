@@ -16,7 +16,6 @@
   ],
   "deploy_type": "传统部署 / Docker",
   "platform": "both",
-  "stars": 84915,
   "updated_at": "2026-09-15T02:34:44Z",
   "added_at": "2026-10-18T12:36:48+08:00",
   "default_branch": "master",
@@ -31,19 +30,5 @@
     "repo": "macrozheng/mall",
     "url": "https://gitee.com/macrozheng/mall",
     "stars": 27300
-  },
-  "star_series": [
-    {
-      "date": "2026-10-17",
-      "stars": 84900
-    },
-    {
-      "date": "2026-10-18",
-      "stars": 84915
-    }
-  ],
-  "star_points": 2,
-  "history_days": 2,
-  "delta_7d": null,
-  "delta_30d": null
+  }
 }

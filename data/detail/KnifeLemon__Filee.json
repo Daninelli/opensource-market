@@ -15,7 +15,6 @@
   ],
   "deploy_type": "桌面应用",
   "platform": "github",
-  "stars": 3055,
   "updated_at": "2026-10-18T09:51:47.672Z",
   "added_at": "2026-10-18T09:51:47.672Z",
   "default_branch": "main",
@@ -62,10 +61,5 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null,
-  "star_series": [],
-  "star_points": 1,
-  "history_days": 2,
-  "delta_7d": null,
-  "delta_30d": null
+  "gitee": null
 }

@@ -16,7 +16,6 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "both",
-  "stars": 13166,
   "updated_at": "2026-07-31T20:39:07Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
@@ -31,10 +30,5 @@
     "repo": "macrozheng/mall-swarm",
     "url": "https://gitee.com/macrozheng/mall-swarm",
     "stars": 1900
-  },
-  "star_series": [],
-  "star_points": 1,
-  "history_days": 2,
-  "delta_7d": null,
-  "delta_30d": null
+  }
 }

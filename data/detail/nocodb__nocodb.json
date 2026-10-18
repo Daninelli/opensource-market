@@ -15,7 +15,6 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "stars": 65294,
   "updated_at": "2026-10-18T02:08:26Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "develop",
@@ -26,10 +25,5 @@
   "pin_label": "推荐",
   "pin_note": "开源版 Airtable，搭建内部工具最快的一档",
   "submitted_by": null,
-  "gitee": null,
-  "star_series": [],
-  "star_points": 1,
-  "history_days": 2,
-  "delta_7d": null,
-  "delta_30d": null
+  "gitee": null
 }
