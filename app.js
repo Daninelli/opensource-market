@@ -10,6 +10,8 @@
     "use strict";
 
     var DATA_URL = "./projects.json";
+    // 每次加载都带时间戳，避免 GitHub Pages 的 10 分钟 CDN 缓存返回旧数据
+    var CACHE_BUST = "?t=" + Date.now();
 
     /**
      * 分类体系：一级 + 二级。
@@ -154,7 +156,7 @@
         els.status = document.getElementById("status");
         els.search = document.getElementById("search");
 
-        fetch(DATA_URL, { cache: "no-store" })
+        fetch(DATA_URL + CACHE_BUST, { cache: "no-store" })
             .then(function (response) {
                 if (!response.ok) {
                     throw new Error("请求 projects.json 失败：HTTP " + response.status);
@@ -323,7 +325,7 @@
         if (totalNode) totalNode.textContent = state.projects.length;
 
         if (!timeNode) return;
-        fetch("meta.json", { cache: "no-store" })
+        fetch("meta.json" + CACHE_BUST, { cache: "no-store" })
             .then(function (response) {
                 if (!response.ok) throw new Error("no meta");
                 return response.json();
@@ -349,7 +351,7 @@
         var grid = document.getElementById("hot-grid");
         if (!grid) return;
 
-        fetch("trending.json", { cache: "no-store" })
+        fetch("trending.json" + CACHE_BUST, { cache: "no-store" })
             .then(function (response) {
                 if (!response.ok) throw new Error("HTTP " + response.status);
                 return response.json();

@@ -97,7 +97,7 @@
             data.total_projects + " 个项目｜数据更新于 " + formatDate(data.refreshed_at);
     }
 
-    fetch("recent.json", { cache: "no-store" })
+    fetch("recent.json?t=" + Date.now(), { cache: "no-store" })
         .then(function (response) {
             if (!response.ok) throw new Error("HTTP " + response.status);
             return response.json();

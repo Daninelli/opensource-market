@@ -1,6 +1,34 @@
 [
   {
     "release": {
+      "tag": "dsh-v0.2.1-rc.2",
+      "name": "dsh-v0.2.1-rc.2",
+      "published": "2026-10-17T08:16:33Z",
+      "url": "https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.2.1-rc.2"
+    },
+    "name": "DeepSeek Harness",
+    "repo": "deepseek-ai/deepseek-harness",
+    "category": "工具",
+    "category_slug": "tool",
+    "subcategory": "智能体",
+    "subcategory_slug": "agent",
+    "tech_stack": [
+      "TypeScript",
+      "Node.js",
+      "插件架构"
+    ],
+    "deploy_type": "源码",
+    "note_zh": "DeepSeek 开源的智能体运行时，一切皆插件，可自建与扩展 Agent。",
+    "license": "MIT",
+    "added_at": "2026-10-18T10:17:41.839Z",
+    "stars": 252626,
+    "updated_at": "2026-10-17T08:16:09Z",
+    "default_branch": "master",
+    "download_url": "https://codeload.github.com/deepseek-ai/deepseek-harness/zip/refs/heads/master",
+    "platform": "github"
+  },
+  {
+    "release": {
       "tag": "v1.11.0",
       "name": "Filee 1.11.0",
       "published": "2026-10-17T05:14:07Z",
