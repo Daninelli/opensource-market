@@ -259,43 +259,99 @@
             grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
             gap: 16px;
         }
-        /* 还没填充卡片的分区先占住两行高度，避免滚动时页面跳动 */
+        /* 还没填充卡片的分区：先铺骨架屏，避免出现大片空白 */
         .grid.is-pending {
             min-height: 600px;
         }
+        .skeleton-card {
+            position: relative;
+            overflow: hidden;
+            height: 100%;
+            min-height: 210px;
+            padding: 16px 18px;
+            border: 1px solid var(--border);
+            border-radius: 14px;
+            background: var(--surface);
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        .skeleton-card::after {
+            content: "";
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, .75), transparent);
+            transform: translateX(-100%);
+            animation: skeleton-shimmer 1.4s infinite;
+        }
+        @keyframes skeleton-shimmer {
+            100% { transform: translateX(100%); }
+        }
+        .skeleton-line {
+            height: 11px;
+            border-radius: 6px;
+            background: #eef0f2;
+        }
+        .skeleton-line.is-title { height: 17px; width: 52%; }
+        .skeleton-line.is-repo { width: 68%; }
+        .skeleton-line.is-desc { width: 100%; }
+        .skeleton-line.is-desc-2 { width: 82%; }
+        .skeleton-line.is-tags { height: 20px; width: 60%; border-radius: 6px; }
+        .skeleton-line.is-foot { height: 32px; width: 55%; margin-top: auto; align-self: flex-end; }
 
         /* 「更多」卡片：占一个格子，点开展开该分区全部项目 */
         .more-card {
+            position: relative;
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            gap: 6px;
+            gap: 10px;
             min-height: 200px;
-            padding: 20px;
+            padding: 24px 20px;
             border: 1px dashed var(--border-strong);
             border-radius: 14px;
             background: linear-gradient(180deg, #fbfcfd, #f4f6f8);
             color: var(--muted);
             font: inherit;
             cursor: pointer;
-            transition: border-color .18s, background .18s, color .18s, transform .18s;
+            transition: border-color .18s, background .18s, color .18s, transform .18s, box-shadow .18s;
         }
         .more-card:hover {
             border-color: var(--brand);
             background: #f0fdf4;
             color: var(--brand);
             transform: translateY(-2px);
+            box-shadow: 0 10px 24px rgba(17, 24, 39, .08);
+        }
+        .more-card .more-icon {
+            display: grid;
+            place-items: center;
+            width: 44px;
+            height: 44px;
+            border-radius: 12px;
+            background: #fff;
+            border: 1px solid var(--border);
+            color: var(--muted);
+            transition: color .18s, border-color .18s, transform .18s;
+        }
+        .more-card .more-icon .icon { font-size: 22px; }
+        .more-card:hover .more-icon {
+            color: var(--brand);
+            border-color: rgba(21, 128, 61, .35);
+            transform: scale(1.06);
         }
         .more-card .more-count {
-            font-size: 1.5rem;
+            font-size: 1.35rem;
             font-weight: 600;
             color: var(--ink);
             line-height: 1.1;
+            font-variant-numeric: tabular-nums;
         }
         .more-card:hover .more-count { color: var(--brand); }
         .more-card .more-label {
             font-size: 12.5px;
+            line-height: 1.4;
         }
 
         .card {
@@ -854,6 +910,14 @@
             <path d="M20 15.5H7"/>
             <path d="m10 12.5-3 3 3 3"/>
         </symbol>
+        <!-- 「更多」卡片专用：三格已展开 + 一格待展开 -->
+        <symbol id="icon-grid-more" viewBox="0 0 24 24">
+            <rect x="3.4" y="3.4" width="7.2" height="7.2" rx="1.8"/>
+            <rect x="13.4" y="3.4" width="7.2" height="7.2" rx="1.8"/>
+            <rect x="3.4" y="13.4" width="7.2" height="7.2" rx="1.8"/>
+            <path d="M17 13.6v6.8"/>
+            <path d="M13.6 17h6.8"/>
+        </symbol>
     </svg>
 
     <header class="hero">
@@ -897,6 +961,6 @@
         <p class="error">这个页面需要启用 JavaScript 才能渲染项目卡片。</p>
     </noscript>
 
-    <script src="app.js?v=20261018f"></script>
+    <script src="app.js?v=20261018g"></script>
 </body>
 </html>

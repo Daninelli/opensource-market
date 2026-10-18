@@ -394,6 +394,21 @@
         sectionObserver.observe(section);
     }
 
+    /** 骨架屏卡片：懒渲染时的占位 */
+    function buildSkeletonCard() {
+        var card = document.createElement("div");
+        card.className = "skeleton-card";
+        card.setAttribute("aria-hidden", "true");
+        card.innerHTML =
+            '<span class="skeleton-line is-title"></span>' +
+            '<span class="skeleton-line is-repo"></span>' +
+            '<span class="skeleton-line is-desc"></span>' +
+            '<span class="skeleton-line is-desc-2"></span>' +
+            '<span class="skeleton-line is-tags"></span>' +
+            '<span class="skeleton-line is-foot"></span>';
+        return card;
+    }
+
     /** 把某个分区的卡片真正渲染出来 */
     function fillSection(section) {
         if (!section || !section._pending) return;
@@ -403,6 +418,8 @@
         var grid = section.querySelector(".grid");
         if (!grid) return;
         grid.classList.remove("is-pending");
+        grid.removeAttribute("style");
+        grid.innerHTML = ""; // 清掉骨架屏
         renderGridCards(grid, pending.projects, pending.primary, section);
     }
 
@@ -424,6 +441,7 @@
         more.type = "button";
         more.className = "more-card";
         more.innerHTML =
+            '<span class="more-icon">' + iconMarkup("grid-more") + "</span>" +
             '<span class="more-count">+' + rest + "</span>" +
             '<span class="more-label">查看全部 ' + projects.length + " 个</span>";
         more.setAttribute("aria-label", "展开" + primary.label + "全部 " + projects.length + " 个项目");
@@ -543,6 +561,11 @@
         grid.className = "grid is-pending";
         if (rows > 0) {
             grid.style.minHeight = rows * 310 + (rows - 1) * 16 + "px";
+        }
+        // 先铺骨架屏占位，滚到附近再换成真实卡片
+        var skeletonCount = Math.min(rows * cols, 6);
+        for (var i = 0; i < skeletonCount; i++) {
+            grid.appendChild(buildSkeletonCard());
         }
         section.appendChild(grid);
 
