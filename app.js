@@ -175,6 +175,7 @@
                 renderAll();
                 initScrollSpy();
                 updateStats();
+                loadMeta();
             })
             .catch(function (error) {
                 console.error("加载数据失败:", error);
@@ -297,6 +298,34 @@
         return groups.filter(function (group) {
             return group.visible.length > 0;
         });
+    }
+
+    /** 读取数据刷新时间，填到页脚 */
+    function loadMeta() {
+        var timeNode = document.getElementById("refreshed-at");
+        var totalNode = document.getElementById("footer-total");
+        if (totalNode) totalNode.textContent = state.projects.length;
+
+        if (!timeNode) return;
+        fetch("meta.json", { cache: "no-store" })
+            .then(function (response) {
+                if (!response.ok) throw new Error("no meta");
+                return response.json();
+            })
+            .then(function (meta) {
+                if (!meta || !meta.refreshed_at) return;
+                var date = new Date(meta.refreshed_at);
+                if (isNaN(date.getTime())) return;
+                var pad = function (n) {
+                    return n < 10 ? "0" + n : String(n);
+                };
+                timeNode.textContent =
+                    date.getFullYear() + "-" + pad(date.getMonth() + 1) + "-" + pad(date.getDate()) +
+                    " " + pad(date.getHours()) + ":" + pad(date.getMinutes());
+            })
+            .catch(function () {
+                timeNode.textContent = "未知";
+            });
     }
 
     function renderAll() {

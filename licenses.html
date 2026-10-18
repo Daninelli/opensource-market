@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="开源集市收录项目的开源协议说明：MIT、Apache-2.0、BSD、MPL、GPL、AGPL 的区别，以及二次开发与商用前需要注意什么。">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <title>开源协议说明 · 开源集市</title>
+    <link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+    <svg class="icon-sprite" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+        <symbol id="icon-market" viewBox="0 0 24 24">
+            <path d="M3.2 9 4.75 4.2a1 1 0 0 1 .95-.7h12.6a1 1 0 0 1 .95.7L20.8 9"/>
+            <path d="M3.2 9a2.93 2.93 0 0 0 5.87 0 2.93 2.93 0 0 0 5.86 0 2.93 2.93 0 0 0 5.87 0"/>
+            <path d="M5.2 12.2V18M18.8 12.2V18M3.2 18h17.6"/>
+            <path d="M9.6 18v-3.2a.8.8 0 0 1 .8-.8h3.2a.8.8 0 0 1 .8.8V18"/>
+        </symbol>
+        <symbol id="icon-github" viewBox="0 0 24 24">
+            <path d="M9.2 20.4c-4.2 1.2-4.2-2.1-5.9-2.6m11.8 5v-3.4c0-1 .1-1.4-.5-2 2.4-.3 4.9-1.2 4.9-5.4a4.2 4.2 0 0 0-1.2-2.9 3.9 3.9 0 0 0-.1-2.9s-.9-.3-3 1.2a10.3 10.3 0 0 0-5.4 0C7.7 6 6.8 6.3 6.8 6.3a3.9 3.9 0 0 0-.1 2.9 4.2 4.2 0 0 0-1.2 2.9c0 4.2 2.5 5.1 4.9 5.4-.6.6-.6 1.2-.5 2v3.4"/>
+        </symbol>
+    </svg>
+
+    <nav class="topnav">
+        <div class="topnav-inner">
+            <a class="topnav-brand" href="index.html">
+                <span class="topnav-mark" aria-hidden="true">
+                    <svg class="icon"><use href="#icon-market"></use></svg>
+                </span>
+                <span class="topnav-name">开源集市</span>
+            </a>
+            <div class="topnav-links">
+                <a href="licenses.html" style="color:var(--ink);background:#f3f4f6">协议说明</a>
+                <a href="disclaimer.html">免责声明</a>
+                <a href="https://github.com/Daninelli/opensource-market/issues/new" target="_blank" rel="noopener noreferrer">提交项目</a>
+                <a class="topnav-github" href="https://github.com/Daninelli/opensource-market" target="_blank" rel="noopener noreferrer">
+                    <svg class="icon" aria-hidden="true"><use href="#icon-github"></use></svg>
+                    <span>GitHub</span>
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="doc">
+        <a class="doc-back" href="index.html">← 返回开源集市</a>
+
+        <div class="doc-head">
+            <h1>开源协议说明</h1>
+            <p>本站只做收录与跳转，不托管任何项目代码。以下是对常见开源协议的通俗解释，帮助你判断「能不能改、能不能商用、要不要公开源码」。</p>
+        </div>
+
+        <div class="prose">
+            <div class="note">
+                本文只是常识性梳理，<strong>不构成法律意见</strong>。协议以各项目仓库根目录下的 <code>LICENSE</code> 文件原文为准；商用前请自行阅读原文或咨询律师。
+            </div>
+
+            <h2>一句话判断</h2>
+            <table>
+                <thead>
+                    <tr><th>协议</th><th>能商用吗</th><th>改了要开源吗</th><th>典型项目</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td><strong>MIT</strong></td><td>可以</td><td>不用</td><td>Medusa、Memos</td></tr>
+                    <tr><td><strong>Apache-2.0</strong></td><td>可以</td><td>不用（但要保留声明）</td><td>mall、Sa-Token</td></tr>
+                    <tr><td><strong>BSD-3-Clause</strong></td><td>可以</td><td>不用</td><td>Saleor</td></tr>
+                    <tr><td><strong>MPL-2.0</strong></td><td>可以</td><td>改动的<strong>文件</strong>要开源</td><td>Penpot</td></tr>
+                    <tr><td><strong>LGPL</strong></td><td>可以</td><td>改库本身要开源</td><td>部分工具链</td></tr>
+                    <tr><td><strong>GPL-2.0 / 3.0</strong></td><td>可以，但<strong>衍生作品也要 GPL</strong></td><td>要</td><td>Godot、Odoo、ERPNext</td></tr>
+                    <tr><td><strong>AGPL-3.0</strong></td><td>可以，但<strong>提供网络服务也要开源</strong></td><td>要</td><td>Grafana、Immich、Mastodon</td></tr>
+                    <tr><td><strong>MulanPSL-2.0</strong></td><td>可以</td><td>不用</td><td>hutool</td></tr>
+                </tbody>
+            </table>
+
+            <h2>宽松协议（MIT / Apache-2.0 / BSD）</h2>
+            <p>最适合二次开发和商用。基本只要保留原作者的版权声明和许可证文本，就可以闭源修改、集成进商业产品。</p>
+            <ul>
+                <li><strong>MIT</strong>：最短、最宽松，几乎不限制你怎么用。</li>
+                <li><strong>Apache-2.0</strong>：比 MIT 多两条——要保留 <code>NOTICE</code> 文件，以及明确授予专利许可。</li>
+                <li><strong>BSD-3-Clause</strong>：与 MIT 接近，多一条「不能用原作者名义背书」。</li>
+            </ul>
+
+            <h2>弱传染协议（MPL / LGPL）</h2>
+            <p>介于宽松和强传染之间，边界在「文件」或「库」这一级：</p>
+            <ul>
+                <li><strong>MPL-2.0</strong>：你修改过的<em>那几个文件</em>要以 MPL 开源，但项目其他部分可以闭源。</li>
+                <li><strong>LGPL</strong>：动态链接使用不触发开源义务；修改库本身则要开源。</li>
+            </ul>
+
+            <h2>强传染协议（GPL / AGPL）</h2>
+            <p>如果你的产品基于它做衍生，整个衍生作品都要以同样的协议开源。</p>
+            <ul>
+                <li><strong>GPL-2.0 / GPL-3.0</strong>：分发二进制时必须提供源码。</li>
+                <li><strong>AGPL-3.0</strong>：在 GPL 基础上补了一个漏洞——<strong>即使不分发，只要通过网络提供服务，也要提供源码</strong>。做 SaaS 时要特别注意。</li>
+            </ul>
+
+            <div class="note">
+                商用不等于侵权。GPL / AGPL 项目完全可以商用，前提是遵守它的开源义务；真正不能做的是「拿了 GPL 代码闭源卖」。
+            </div>
+
+            <h2>本站的收录立场</h2>
+            <ul>
+                <li>本站只记录项目的<strong>协议名称</strong>，不复制、不修改、不再分发任何项目代码。</li>
+                <li>「下载应用」按钮指向项目方在 GitHub / Gitee 上自己发布的 Release 资产，文件由官方服务器直接提供。</li>
+                <li>协议信息以抓取时的仓库状态为准，<strong>可能滞后或存在误差</strong>；以仓库内 <code>LICENSE</code> 文件为准。</li>
+                <li>部分项目的协议标注为人工整理，若与官方不一致，欢迎通过 <a href="https://github.com/Daninelli/opensource-market/issues/new" target="_blank" rel="noopener noreferrer">Issue</a> 指出。</li>
+            </ul>
+
+            <h2>常见误区</h2>
+            <ul>
+                <li><strong>「开源 = 免费 = 可以随便用」</strong>：错。开源是授权方式，不是放弃权利。</li>
+                <li><strong>「没写协议 = 公共领域」</strong>：错。没有 LICENSE 文件默认保留所有权利，不能直接用。</li>
+                <li><strong>「改了名字就不是衍生作品」</strong>：错。是否衍生看代码来源，不看名字。</li>
+                <li><strong>「自己内部用不用管协议」</strong>：GPL 一般不触发（没有分发），但 AGPL 会因为对外提供服务而触发。</li>
+            </ul>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-links">
+            <a href="licenses.html">开源协议说明</a>
+            <a href="disclaimer.html">免责声明</a>
+            <a href="https://github.com/Daninelli/opensource-market" target="_blank" rel="noopener noreferrer">GitHub 仓库</a>
+            <a href="https://github.com/Daninelli/opensource-market/issues/new" target="_blank" rel="noopener noreferrer">提交项目</a>
+        </div>
+        <p>收录项目的代码、商标与文档均归原作者所有。</p>
+    </footer>
+</body>
+</html>

@@ -180,6 +180,22 @@ if (browser) await browser.close();
 
 await writeFile(dataPath, JSON.stringify(projects, null, 2) + "\n", "utf8");
 
+// 同时写一份 meta.json，供页面显示「数据刷新于 …」
+const metaPath = join(root, "meta.json");
+await writeFile(
+    metaPath,
+    JSON.stringify(
+        {
+            refreshed_at: new Date().toISOString(),
+            total: projects.length,
+            note: "由 tools/fetch-repo-data.mjs 自动生成"
+        },
+        null,
+        2
+    ) + "\n",
+    "utf8"
+);
+
 const haveStars = projects.filter((p) => typeof p.stars === "number").length;
 const haveTime = projects.filter((p) => p.updated_at).length;
 
