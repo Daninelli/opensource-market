@@ -1,0 +1,30 @@
+{
+  "repo": "netdata/netdata",
+  "slug": "netdata__netdata",
+  "name": "Netdata",
+  "note_zh": "实时系统健康监控，秒级指标采集，自带可视化面板开箱即用。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C"
+  ],
+  "deploy_type": "二进制 / Docker",
+  "platform": "github",
+  "updated_at": "2026-10-18T10:51:34Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/netdata/netdata/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

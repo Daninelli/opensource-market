@@ -1,0 +1,31 @@
+{
+  "repo": "calcom/cal.diy",
+  "slug": "calcom__cal.diy",
+  "name": "Cal.com",
+  "note_zh": "开源日程编排平台，Calendly 替代品，可自建预约与会议链接。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "日历与日程",
+  "subcategory_slug": "calendar",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Next.js"
+  ],
+  "deploy_type": "Docker",
+  "platform": "github",
+  "updated_at": "2026-10-18T10:27:02Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/calcom/cal.diy/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

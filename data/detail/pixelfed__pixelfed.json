@@ -1,0 +1,31 @@
+{
+  "repo": "pixelfed/pixelfed",
+  "slug": "pixelfed__pixelfed",
+  "name": "Pixelfed",
+  "note_zh": "去中心化图片分享平台，Fediverse 的 Instagram 替代，可自建实例。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "微博客",
+  "subcategory_slug": "microblog",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "Laravel"
+  ],
+  "deploy_type": "Docker",
+  "platform": "github",
+  "updated_at": "2026-10-18T11:32:58Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/pixelfed/pixelfed/zip/refs/heads/dev",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

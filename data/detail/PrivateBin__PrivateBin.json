@@ -1,0 +1,30 @@
+{
+  "repo": "PrivateBin/PrivateBin",
+  "slug": "PrivateBin__PrivateBin",
+  "name": "PrivateBin",
+  "note_zh": "零知识加密粘贴板，分享文本不求人，服务端也读不到内容。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "加密协作",
+  "subcategory_slug": "collab-suite",
+  "license": "Zlib",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP"
+  ],
+  "deploy_type": "Docker",
+  "platform": "github",
+  "updated_at": "2026-10-18T09:50:16Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/PrivateBin/PrivateBin/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

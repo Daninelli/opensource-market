@@ -1,0 +1,30 @@
+{
+  "repo": "Significant-Gravitas/AutoGPT",
+  "slug": "Significant-Gravitas__AutoGPT",
+  "name": "AutoGPT",
+  "note_zh": "自主 AI 智能体先驱，给个目标让 GPT 自动拆解并执行任务。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "源码 / Docker",
+  "platform": "github",
+  "updated_at": "2026-10-18T09:09:52Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/Significant-Gravitas/AutoGPT/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

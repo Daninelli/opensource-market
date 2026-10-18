@@ -1,0 +1,31 @@
+{
+  "repo": "Kareadita/Kavita",
+  "slug": "Kareadita__Kavita",
+  "name": "Kavita",
+  "note_zh": "自托管电子书与漫画服务器，跨设备同步阅读进度，UI 现代。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "电子书与阅读",
+  "subcategory_slug": "ebook",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET"
+  ],
+  "deploy_type": "Docker",
+  "platform": "github",
+  "updated_at": "2026-10-16T12:14:52Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/Kareadita/Kavita/zip/refs/heads/develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

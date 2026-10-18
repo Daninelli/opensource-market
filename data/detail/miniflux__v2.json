@@ -1,0 +1,30 @@
+{
+  "repo": "miniflux/v2",
+  "slug": "miniflux__v2",
+  "name": "Miniflux",
+  "note_zh": "极简 RSS 阅读器，单二进制部署，专注阅读无多余功能。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "稍后读与收藏",
+  "subcategory_slug": "readlater",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "二进制 / Docker",
+  "platform": "github",
+  "updated_at": "2026-10-14T22:32:44Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/miniflux/v2/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

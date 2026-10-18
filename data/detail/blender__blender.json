@@ -1,0 +1,31 @@
+{
+  "repo": "blender/blender",
+  "slug": "blender__blender",
+  "name": "Blender",
+  "note_zh": "全功能开源 3D 创作套件，建模、雕刻、动画与渲染一站式。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Python"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-17T14:10:49Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/blender/blender/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

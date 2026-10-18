@@ -1,0 +1,30 @@
+{
+  "repo": "PrestaShop/PrestaShop",
+  "slug": "PrestaShop__PrestaShop",
+  "name": "PrestaShop",
+  "note_zh": "老牌 PHP 开源商城系统，模块市场丰富，中小商家建站首选之一。",
+  "category": "电商",
+  "category_slug": "ecommerce",
+  "subcategory": "平台商城",
+  "subcategory_slug": "platform",
+  "license": "OSL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP"
+  ],
+  "deploy_type": "Docker / 传统部署",
+  "platform": "github",
+  "updated_at": "2026-10-17T11:46:12Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/PrestaShop/PrestaShop/zip/refs/heads/develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,31 @@
+{
+  "repo": "btcpayserver/btcpayserver",
+  "slug": "btcpayserver__btcpayserver",
+  "name": "BTCPay Server",
+  "note_zh": "自托管加密货币支付网关，零手续费，商家可直连自己的节点。",
+  "category": "金融",
+  "category_slug": "finance",
+  "subcategory": "支付网关",
+  "subcategory_slug": "payment",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET"
+  ],
+  "deploy_type": "Docker",
+  "platform": "github",
+  "updated_at": "2026-10-17T01:59:10Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/btcpayserver/btcpayserver/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

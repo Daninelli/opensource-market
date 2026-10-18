@@ -1,0 +1,31 @@
+{
+  "repo": "bitwarden/server",
+  "slug": "bitwarden__server",
+  "name": "Bitwarden",
+  "note_zh": "自托管密码管理器服务端，配合各平台客户端实现全端同步。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET"
+  ],
+  "deploy_type": "Docker",
+  "platform": "github",
+  "updated_at": "2026-10-18T01:42:50Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/bitwarden/server/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

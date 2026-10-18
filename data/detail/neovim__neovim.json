@@ -1,0 +1,31 @@
+{
+  "repo": "neovim/neovim",
+  "slug": "neovim__neovim",
+  "name": "Neovim",
+  "note_zh": "现代化 Vim 分支，内置 LSP 支持与插件生态，终端编辑器之选。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C",
+    "Lua"
+  ],
+  "deploy_type": "二进制",
+  "platform": "github",
+  "updated_at": "2026-10-18T11:38:28Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/neovim/neovim/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

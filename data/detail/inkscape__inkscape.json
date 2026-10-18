@@ -1,0 +1,31 @@
+{
+  "repo": "inkscape/inkscape",
+  "slug": "inkscape__inkscape",
+  "name": "Inkscape",
+  "note_zh": "专业开源矢量绘图工具，Illustrator 替代，支持 SVG 全面特性。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Python"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2022-03-03T20:52:00Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/inkscape/inkscape/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

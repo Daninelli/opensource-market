@@ -1,0 +1,30 @@
+{
+  "repo": "restic/restic",
+  "slug": "restic__restic",
+  "name": "restic",
+  "note_zh": "加密备份工具，增量快照存到本地或云，恢复简单可靠。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "私有同步",
+  "subcategory_slug": "sync",
+  "license": "BSD-2-Clause",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "二进制",
+  "platform": "github",
+  "updated_at": "2026-10-17T19:40:52Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/restic/restic/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

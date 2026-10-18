@@ -1,0 +1,31 @@
+{
+  "repo": "opencollective/opencollective",
+  "slug": "opencollective__opencollective",
+  "name": "Open Collective",
+  "note_zh": "透明账本的集体资助平台，开源项目收捐款、花经费全公开。",
+  "category": "金融",
+  "category_slug": "finance",
+  "subcategory": "支付网关",
+  "subcategory_slug": "payment",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Node.js",
+    "GraphQL"
+  ],
+  "deploy_type": "Docker",
+  "platform": "github",
+  "updated_at": "2026-10-16T13:47:22Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/opencollective/opencollective/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

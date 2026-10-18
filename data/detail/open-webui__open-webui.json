@@ -1,0 +1,31 @@
+{
+  "repo": "open-webui/open-webui",
+  "slug": "open-webui__open-webui",
+  "name": "Open WebUI",
+  "note_zh": "可扩展的本地 LLM 聊天界面，对接 Ollama 等后端，支持多人。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Svelte",
+    "Python"
+  ],
+  "deploy_type": "Docker",
+  "platform": "github",
+  "updated_at": "2026-10-16T14:59:01Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/open-webui/open-webui/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

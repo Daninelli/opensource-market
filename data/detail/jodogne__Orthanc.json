@@ -1,0 +1,30 @@
+{
+  "repo": "jodogne/Orthanc",
+  "slug": "jodogne__Orthanc",
+  "name": "Orthanc",
+  "note_zh": "轻量 DICOM 影像服务器，自带 REST API 与 Web 查看器，易部署。",
+  "category": "医疗",
+  "category_slug": "medical",
+  "subcategory": "医疗影像",
+  "subcategory_slug": "imaging",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++"
+  ],
+  "deploy_type": "Docker",
+  "platform": "github",
+  "updated_at": "2020-06-30T04:51:17Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/jodogne/Orthanc/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

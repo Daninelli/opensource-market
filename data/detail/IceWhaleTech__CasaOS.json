@@ -1,0 +1,31 @@
+{
+  "repo": "IceWhaleTech/CasaOS",
+  "slug": "IceWhaleTech__CasaOS",
+  "name": "CasaOS",
+  "note_zh": "轻量家庭云系统，装到任意设备即可管理应用、文件与存储。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Vue"
+  ],
+  "deploy_type": "Docker",
+  "platform": "github",
+  "updated_at": "2026-09-28T10:37:14Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/IceWhaleTech/CasaOS/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

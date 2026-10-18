@@ -1,0 +1,31 @@
+{
+  "repo": "requarks/wiki",
+  "slug": "requarks__wiki",
+  "name": "Wiki.js",
+  "note_zh": "现代化自托管 Wiki，界面美观，支持多存储与细粒度权限。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "文档与知识库",
+  "subcategory_slug": "docs",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Node.js",
+    "Vue"
+  ],
+  "deploy_type": "Docker",
+  "platform": "github",
+  "updated_at": "2026-10-18T07:06:31Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "scarlett",
+  "download_url": "https://codeload.github.com/requarks/wiki/zip/refs/heads/scarlett",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

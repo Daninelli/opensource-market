@@ -1,0 +1,31 @@
+{
+  "repo": "hasura/graphql-engine",
+  "slug": "hasura__graphql-engine",
+  "name": "Hasura",
+  "note_zh": "数据库直出 GraphQL 引擎，秒建实时 API，权限模型内置。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Haskell",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker",
+  "platform": "github",
+  "updated_at": "2026-10-17T09:42:43Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/hasura/graphql-engine/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

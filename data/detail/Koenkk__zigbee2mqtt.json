@@ -1,0 +1,30 @@
+{
+  "repo": "Koenkk/zigbee2mqtt",
+  "slug": "Koenkk__zigbee2mqtt",
+  "name": "Zigbee2MQTT",
+  "note_zh": "Zigbee 设备免网关接入 MQTT，兼容 2000+ 设备，开源常用。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "物联网",
+  "subcategory_slug": "iot",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "Docker",
+  "platform": "github",
+  "updated_at": "2026-10-18T06:03:21Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/Koenkk/zigbee2mqtt/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

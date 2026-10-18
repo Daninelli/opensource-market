@@ -1,0 +1,30 @@
+{
+  "repo": "seaweedfs/seaweedfs",
+  "slug": "seaweedfs__seaweedfs",
+  "name": "SeaweedFS",
+  "note_zh": "快速分布式对象存储，S3 兼容，小文件海量场景性能出色。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "文件管理与网盘",
+  "subcategory_slug": "file",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "二进制",
+  "platform": "github",
+  "updated_at": "2026-10-18T12:20:48Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/seaweedfs/seaweedfs/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

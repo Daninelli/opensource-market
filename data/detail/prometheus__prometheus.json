@@ -1,0 +1,30 @@
+{
+  "repo": "prometheus/prometheus",
+  "slug": "prometheus__prometheus",
+  "name": "Prometheus",
+  "note_zh": "云原生监控事实标准，拉取式指标采集，配合 Grafana 与告警。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "二进制 / Docker",
+  "platform": "github",
+  "updated_at": "2026-10-18T08:25:03Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/prometheus/prometheus/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

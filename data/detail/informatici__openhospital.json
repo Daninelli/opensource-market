@@ -1,0 +1,30 @@
+{
+  "repo": "informatici/openhospital",
+  "slug": "informatici__openhospital",
+  "name": "Open Hospital",
+  "note_zh": "面向发展中国家的医院管理信息系统，覆盖门诊、入院与药房。",
+  "category": "医疗",
+  "category_slug": "medical",
+  "subcategory": "诊所与实验室",
+  "subcategory_slug": "practice",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java"
+  ],
+  "deploy_type": "Docker",
+  "platform": "github",
+  "updated_at": "2026-10-14T19:56:52Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/informatici/openhospital/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

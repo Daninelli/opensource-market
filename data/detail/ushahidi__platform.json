@@ -1,0 +1,30 @@
+{
+  "repo": "ushahidi/platform",
+  "slug": "ushahidi__platform",
+  "name": "Ushahidi",
+  "note_zh": "开源众包危机信息平台，收集与地图化现场报告，政务参与常用。",
+  "category": "政务",
+  "category_slug": "government",
+  "subcategory": "公众参与",
+  "subcategory_slug": "participation",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP"
+  ],
+  "deploy_type": "Docker",
+  "platform": "github",
+  "updated_at": "2026-08-10T12:27:35Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/ushahidi/platform/zip/refs/heads/develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

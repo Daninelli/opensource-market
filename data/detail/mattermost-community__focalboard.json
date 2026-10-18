@@ -1,0 +1,31 @@
+{
+  "repo": "mattermost-community/focalboard",
+  "slug": "mattermost-community__focalboard",
+  "name": "Focalboard",
+  "note_zh": "Trello 式项目管理看板，Mattermost 出品，支持自托管单机版。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "团队协作",
+  "subcategory_slug": "collaboration",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "React"
+  ],
+  "deploy_type": "Docker",
+  "platform": "github",
+  "updated_at": "2026-05-18T16:05:00Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/mattermost-community/focalboard/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

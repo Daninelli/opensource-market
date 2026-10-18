@@ -1,0 +1,31 @@
+{
+  "repo": "esphome/esphome",
+  "slug": "esphome__esphome",
+  "name": "ESPHome",
+  "note_zh": "用 YAML 配置驱动 ESP8266/ESP32，编译固件接入智能家居。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "物联网",
+  "subcategory_slug": "iot",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Python"
+  ],
+  "deploy_type": "源码 / Docker",
+  "platform": "github",
+  "updated_at": "2026-10-18T09:46:22Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/esphome/esphome/zip/refs/heads/dev",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

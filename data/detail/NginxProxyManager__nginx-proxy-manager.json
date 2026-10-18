@@ -1,0 +1,31 @@
+{
+  "repo": "NginxProxyManager/nginx-proxy-manager",
+  "slug": "NginxProxyManager__nginx-proxy-manager",
+  "name": "Nginx Proxy Manager",
+  "note_zh": "反向代理可视化管理面板，Let's Encrypt 证书一键申请续期。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Nginx"
+  ],
+  "deploy_type": "Docker",
+  "platform": "github",
+  "updated_at": "2026-10-13T21:10:53Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/NginxProxyManager/nginx-proxy-manager/zip/refs/heads/develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

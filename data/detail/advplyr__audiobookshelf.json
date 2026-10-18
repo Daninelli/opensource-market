@@ -1,0 +1,30 @@
+{
+  "repo": "advplyr/audiobookshelf",
+  "slug": "advplyr__audiobookshelf",
+  "name": "Audiobookshelf",
+  "note_zh": "自托管有声书与播客服务器，多用户进度同步，支持移动端。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "电子书与阅读",
+  "subcategory_slug": "ebook",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Node.js"
+  ],
+  "deploy_type": "Docker",
+  "platform": "github",
+  "updated_at": "2026-10-05T22:45:25Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/advplyr/audiobookshelf/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

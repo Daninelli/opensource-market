@@ -1,0 +1,30 @@
+{
+  "repo": "Dolibarr/dolibarr",
+  "slug": "Dolibarr__dolibarr",
+  "name": "Dolibarr",
+  "note_zh": "模块化 ERP/CRM，按需开启进销存、发票与项目管理，中小公司适用。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "企业资源",
+  "subcategory_slug": "erp",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP"
+  ],
+  "deploy_type": "Docker / 传统部署",
+  "platform": "github",
+  "updated_at": "2026-10-18T04:13:03Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/Dolibarr/dolibarr/zip/refs/heads/develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

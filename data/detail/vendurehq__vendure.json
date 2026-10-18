@@ -1,0 +1,31 @@
+{
+  "repo": "vendurehq/vendure",
+  "slug": "vendurehq__vendure",
+  "name": "Vendure",
+  "note_zh": "TypeScript 无头电商框架，可定制的 GraphQL API 与后台，适合自建商城。",
+  "category": "电商",
+  "category_slug": "ecommerce",
+  "subcategory": "无头电商",
+  "subcategory_slug": "headless",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "NestJS"
+  ],
+  "deploy_type": "Docker",
+  "platform": "github",
+  "updated_at": "2026-10-18T09:02:52Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/vendurehq/vendure/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -85,7 +85,7 @@ python -m http.server 8000
 抓取 star / 更新时间 → 写 meta.json + star 快照 → 生成 trending.json → 校验 → 有变化才提交
 ```
 
-- API 额度来自 Actions 自带的 `GITHUB_TOKEN`（1000 次/小时，154 个项目绰绰有余）
+- API 额度来自 Actions 自带的 `GITHUB_TOKEN`（1000 次/小时，241 个项目绰绰有余）
 - 同一份流程可以手动触发：仓库 Actions 页面 → `刷新仓库数据` → `Run workflow`
 - 改了 `tools/fetch-repo-data.mjs`、`tools/build-trending.mjs` 或该工作流本身时，推送后也会自动跑一次
 

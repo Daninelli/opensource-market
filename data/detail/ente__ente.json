@@ -1,0 +1,31 @@
+{
+  "repo": "ente/ente",
+  "slug": "ente__ente",
+  "name": "Ente",
+  "note_zh": "端到端加密相册，自建服务器保留全家照片，客户端全平台。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "相册管理",
+  "subcategory_slug": "photos",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Dart"
+  ],
+  "deploy_type": "Docker / 客户端",
+  "platform": "github",
+  "updated_at": "2026-10-18T10:49:23Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/ente/ente/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

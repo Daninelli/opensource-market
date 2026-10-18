@@ -1,0 +1,31 @@
+{
+  "repo": "Slicer/Slicer",
+  "slug": "Slicer__Slicer",
+  "name": "3D Slicer",
+  "note_zh": "跨平台医学影像分析与可视化软件，支持分割、配准与扩展插件。",
+  "category": "医疗",
+  "category_slug": "medical",
+  "subcategory": "医疗影像",
+  "subcategory_slug": "imaging",
+  "license": "BSD-3-Clause",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Python"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-17T08:16:24Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Slicer/Slicer/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,31 @@
+{
+  "repo": "GetDKAN/dkan",
+  "slug": "GetDKAN__dkan",
+  "name": "DKAN",
+  "note_zh": "Drupal 开放数据门户，发布数据集与可视化，政府开放数据标配。",
+  "category": "政务",
+  "category_slug": "government",
+  "subcategory": "开放数据",
+  "subcategory_slug": "open-data",
+  "license": "GPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "Drupal"
+  ],
+  "deploy_type": "Docker",
+  "platform": "github",
+  "updated_at": "2026-10-15T20:50:57Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "4.x",
+  "download_url": "https://codeload.github.com/GetDKAN/dkan/zip/refs/heads/4.x",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,30 @@
+{
+  "repo": "VictoriaMetrics/VictoriaMetrics",
+  "slug": "VictoriaMetrics__VictoriaMetrics",
+  "name": "VictoriaMetrics",
+  "note_zh": "高性能时序数据库，Prometheus 兼容，单机版资源占用极低。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "二进制",
+  "platform": "github",
+  "updated_at": "2026-10-17T16:56:52Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/VictoriaMetrics/VictoriaMetrics/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

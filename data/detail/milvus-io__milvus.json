@@ -1,0 +1,31 @@
+{
+  "repo": "milvus-io/milvus",
+  "slug": "milvus-io__milvus",
+  "name": "Milvus",
+  "note_zh": "云原生向量数据库，支撑百万级向量检索，RAG 应用的基础设施。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "向量数据库"
+  ],
+  "deploy_type": "Docker / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-17T13:37:49Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/milvus-io/milvus/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

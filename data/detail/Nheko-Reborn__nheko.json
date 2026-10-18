@@ -1,0 +1,31 @@
+{
+  "repo": "Nheko-Reborn/nheko",
+  "slug": "Nheko-Reborn__nheko",
+  "name": "Nheko",
+  "note_zh": "原生桌面 Matrix 客户端，Qt 实现，界面简洁，加密消息支持好。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "即时通讯",
+  "subcategory_slug": "im",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Qt"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-09-11T07:41:21Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/Nheko-Reborn/nheko/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,31 @@
+{
+  "repo": "AlistGo/alist",
+  "slug": "AlistGo__alist",
+  "name": "Alist",
+  "note_zh": "网盘聚合工具，把本地与各家云盘挂到一个统一 Web 界面。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "文件管理与网盘",
+  "subcategory_slug": "file",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Vue"
+  ],
+  "deploy_type": "二进制 / Docker",
+  "platform": "github",
+  "updated_at": "2026-10-13T03:26:06Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/AlistGo/alist/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

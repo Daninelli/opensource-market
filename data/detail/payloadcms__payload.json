@@ -1,0 +1,31 @@
+{
+  "repo": "payloadcms/payload",
+  "slug": "payloadcms__payload",
+  "name": "Payload",
+  "note_zh": "开发者友好的无头 CMS，代码优先配置，内容模型完全可编程。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Next.js"
+  ],
+  "deploy_type": "源码 / Docker",
+  "platform": "github",
+  "updated_at": "2026-10-17T13:21:04Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/payloadcms/payload/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

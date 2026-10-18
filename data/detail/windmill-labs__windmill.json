@@ -1,0 +1,31 @@
+{
+  "repo": "windmill-labs/windmill",
+  "slug": "windmill-labs__windmill",
+  "name": "Windmill",
+  "note_zh": "开发者优先的自动化与内部工具平台，脚本秒变定时任务与 API。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-18T10:33:02Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/windmill-labs/windmill/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

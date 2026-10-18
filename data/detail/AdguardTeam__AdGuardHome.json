@@ -1,0 +1,30 @@
+{
+  "repo": "AdguardTeam/AdGuardHome",
+  "slug": "AdguardTeam__AdGuardHome",
+  "name": "AdGuard Home",
+  "note_zh": "全网广告拦截 DNS 服务器，Pi-hole 替代，自带管理界面。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "系统工具",
+  "subcategory_slug": "system",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "二进制 / Docker",
+  "platform": "github",
+  "updated_at": "2026-10-16T06:39:38Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/AdguardTeam/AdGuardHome/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

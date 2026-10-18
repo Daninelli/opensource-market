@@ -1,0 +1,31 @@
+{
+  "repo": "freeCodeCamp/freeCodeCamp",
+  "slug": "freeCodeCamp__freeCodeCamp",
+  "name": "freeCodeCamp",
+  "note_zh": "免费编程学习平台，认证课程覆盖前端、数据与后端，可本地部署。",
+  "category": "教育",
+  "category_slug": "education",
+  "subcategory": "在线学习",
+  "subcategory_slug": "lms",
+  "license": "BSD-3-Clause",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T01:46:51Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/freeCodeCamp/freeCodeCamp/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

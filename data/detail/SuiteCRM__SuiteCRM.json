@@ -1,0 +1,30 @@
+{
+  "repo": "SuiteCRM/SuiteCRM",
+  "slug": "SuiteCRM__SuiteCRM",
+  "name": "SuiteCRM",
+  "note_zh": "Salesforce 替代的老牌开源 CRM，销售、营销与服务模块齐全。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "客户关系",
+  "subcategory_slug": "crm",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP"
+  ],
+  "deploy_type": "Docker / 传统部署",
+  "platform": "github",
+  "updated_at": "2026-10-15T14:34:39Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "hotfix",
+  "download_url": "https://codeload.github.com/SuiteCRM/SuiteCRM/zip/refs/heads/hotfix",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

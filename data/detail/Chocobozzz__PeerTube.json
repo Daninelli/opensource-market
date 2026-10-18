@@ -1,0 +1,31 @@
+{
+  "repo": "Chocobozzz/PeerTube",
+  "slug": "Chocobozzz__PeerTube",
+  "name": "PeerTube",
+  "note_zh": "去中心化视频平台，Fediverse 的 YouTube 替代，可自建并联邦。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "影音媒体",
+  "subcategory_slug": "streaming",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Angular"
+  ],
+  "deploy_type": "Docker",
+  "platform": "github",
+  "updated_at": "2026-10-16T15:07:08Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/Chocobozzz/PeerTube/zip/refs/heads/develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

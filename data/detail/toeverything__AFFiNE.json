@@ -1,0 +1,30 @@
+{
+  "repo": "toeverything/AFFiNE",
+  "slug": "toeverything__AFFiNE",
+  "name": "AFFiNE",
+  "note_zh": "白板与文档二合一，Notion 与 Miro 的开源替代，本地优先。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "客户端 / Docker",
+  "platform": "github",
+  "updated_at": "2026-10-12T09:51:10Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "canary",
+  "download_url": "https://codeload.github.com/toeverything/AFFiNE/zip/refs/heads/canary",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

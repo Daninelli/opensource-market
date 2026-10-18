@@ -1,0 +1,31 @@
+{
+  "repo": "1Panel-dev/1Panel",
+  "slug": "1Panel-dev__1Panel",
+  "name": "1Panel",
+  "note_zh": "现代化 Linux 服务器管理面板，应用商店一键部署容器服务。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Vue"
+  ],
+  "deploy_type": "二进制",
+  "platform": "github",
+  "updated_at": "2026-10-16T09:27:51Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "dev-v2",
+  "download_url": "https://codeload.github.com/1Panel-dev/1Panel/zip/refs/heads/dev-v2",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

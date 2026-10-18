@@ -1,0 +1,31 @@
+{
+  "repo": "zotero/zotero",
+  "slug": "zotero__zotero",
+  "name": "Zotero",
+  "note_zh": "开源文献管理工具，抓取网页文献、组织引用、生成参考文献。",
+  "category": "教育",
+  "category_slug": "education",
+  "subcategory": "实验与科研记录",
+  "subcategory_slug": "lab",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "C++"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-15T21:58:16Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/zotero/zotero/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

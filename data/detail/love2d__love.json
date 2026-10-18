@@ -1,0 +1,31 @@
+{
+  "repo": "love2d/love",
+  "slug": "love2d__love",
+  "name": "LÖVE",
+  "note_zh": "用 Lua 做游戏的轻量 2D 引擎，上手快，适合快速原型与独立小游戏。",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏引擎",
+  "subcategory_slug": "engine",
+  "license": "Zlib",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Lua",
+    "C++"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-09-20T14:36:40Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/love2d/love/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,31 @@
+{
+  "repo": "jupyterlab/jupyterlab",
+  "slug": "jupyterlab__jupyterlab",
+  "name": "JupyterLab",
+  "note_zh": "交互式计算笔记本环境，科研与数据分析的标准工具，支持多内核。",
+  "category": "教育",
+  "category_slug": "education",
+  "subcategory": "实验与科研记录",
+  "subcategory_slug": "lab",
+  "license": "BSD-3-Clause",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Python"
+  ],
+  "deploy_type": "Docker / 客户端",
+  "platform": "github",
+  "updated_at": "2026-10-16T14:00:21Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/jupyterlab/jupyterlab/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,30 @@
+{
+  "repo": "assafelovic/gpt-researcher",
+  "slug": "assafelovic__gpt-researcher",
+  "name": "GPT Researcher",
+  "note_zh": "自主深度调研智能体，联网搜索并产出带引用的研究报告。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "源码 / Docker",
+  "platform": "github",
+  "updated_at": "2026-10-10T22:03:53Z",
+  "added_at": "2026-10-18T12:28:58.583Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/assafelovic/gpt-researcher/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

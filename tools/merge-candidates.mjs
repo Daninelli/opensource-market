@@ -78,6 +78,7 @@ const TAXONOMY = {
     tool: {
         label: "工具",
         children: {
+            agent: "智能体",
             design: "设计工具",
             notes: "笔记工具",
             photos: "相册管理",
