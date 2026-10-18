@@ -12,16 +12,27 @@
 
 ```
 opensource-market/
-├── index.html          # 页面结构、样式、SVG 图标精灵
-├── app.js              # 分类体系 + 分区渲染 + 二级筛选 + 搜索
-├── projects.json       # 项目数据（要新增项目改这里）
-├── favicon.svg         # 自绘站点图标
+├── index.html               # 页面结构、样式、SVG 图标精灵
+├── app.js                   # 分类体系 + 分区渲染 + 二级筛选 + 搜索
+├── projects.json            # 项目数据（站点唯一数据源）
+├── projects-candidates.json # 候选池：待人工审核的新项目（不直接被站点读取）
+├── favicon.svg              # 自绘站点图标
+├── DATA-FORMAT.md           # 字段规范（含 Gitee 扩展字段）★ 新增
+├── CATEGORY-GAPS.md         # 分类覆盖清单（现状 vs 候选池）★ 新增
 ├── tools/
-│   └── check-data.mjs  # 数据自检脚本（分类、字段、重复仓库）
-├── .nojekyll           # 告诉 GitHub Pages 不要用 Jekyll 处理
+│   ├── check-data.mjs       # 数据自检（分类、字段、重复仓库）
+│   ├── check-candidates.mjs # 候选池自检（字段、platform 自洽、license）★ 新增
+│   ├── merge-candidates.mjs # 候选池合并进 projects.json（去重 + 备份）★ 新增
+│   ├── fetch-repo-data.mjs  # 用 Playwright 抓 star 与更新时间
+│   ├── fetch-releases.mjs   # 抓 Release 资产
+│   └── pick-installers.mjs  # 从 Release 里挑各平台安装包
+├── .nojekyll                # 告诉 GitHub Pages 不要用 Jekyll 处理
 ├── .gitignore
 └── README.md
 ```
+
+> 关于字段怎么填、Gitee 项目怎么录，见 [DATA-FORMAT.md](DATA-FORMAT.md)。
+> 想了解哪些分类还缺项目，见 [CATEGORY-GAPS.md](CATEGORY-GAPS.md)。
 
 ---
 
@@ -84,17 +95,18 @@ git push -u origin main
 | --- | --- |
 | 电商 `ecommerce` | 无头电商 `headless`、电商前端 `storefront`、平台商城 `platform` |
 | 游戏 `game` | 游戏引擎 `engine`、游戏客户端 `client` |
-| 社交 `social` | 微博客 `microblog`、即时通讯 `im`、论坛社区 `forum` |
-| 金融 `finance` | 个人财务 `personal-finance`、投资管理 `investment` |
-| 教育 `education` | 在线学习 `lms`、互动课程 `interactive` |
-| 医疗 `medical` | 电子病历 `emr` |
-| 企业服务 `enterprise` | 后台管理 `admin`、低代码平台 `low-code`、数据分析 `bi`、团队协作 `collaboration` |
-| 内容媒体 `media` | 建站与 CMS `cms`、影音媒体 `streaming` |
-| 工具 `tool` | 设计工具 `design`、笔记工具 `notes`、相册管理 `photos`、后端服务 `backend`、自动化 `automation`、运维监控 `monitoring`、开发工具 `devtools`、效率工具 `utility` |
+| 社交 `social` | 微博客 `microblog`、即时通讯 `im`、论坛社区 `forum`、加密协作 `collab-suite`、日历与日程 `calendar` |
+| 金融 `finance` | 个人财务 `personal-finance`、投资管理 `investment`、记账核算 `accounting`、支付网关 `payment` |
+| 教育 `education` | 在线学习 `lms`、互动课程 `interactive`、实验与科研记录 `lab` |
+| 医疗 `medical` | 电子病历 `emr`、医疗影像 `imaging`、诊所与实验室 `practice` |
+| 企业服务 `enterprise` | 后台管理 `admin`、低代码平台 `low-code`、数据分析 `bi`、团队协作 `collaboration`、客户关系 `crm`、企业资源 `erp`、文档与知识库 `docs` |
+| 内容媒体 `media` | 建站与 CMS `cms`、影音媒体 `streaming`、电子书与阅读 `ebook`、播客与音频 `podcast` |
+| 工具 `tool` | 设计工具 `design`、笔记工具 `notes`、相册管理 `photos`、后端服务 `backend`、自动化 `automation`、运维监控 `monitoring`、开发工具 `devtools`、效率工具 `utility`、安全与密码 `security`、文件管理与网盘 `file`、运维部署 `devops`、稍后读与收藏 `readlater`、物联网 `iot`、媒体处理 `media-tool` |
 | 政务 `government` | 公众参与 `participation`、开放数据 `open-data` |
-| 其他 `other` | —（未归类项目兜底） |
+| 其他 `other` | 智能家居 `smart-home`、私有同步 `sync`、系统工具 `system`、文档归档 `documents` |
 
-> 想加新分类：在 `app.js` 的 `TAXONOMY` 里加一个 `{ slug, label, icon, children }`，同时在 `tools/check-data.mjs` 的 `TAXONOMY` 里加一行，再在 `projects.json` 里引用新 slug 即可。
+> 想加新分类：**三处同步**改——`app.js` 的 `TAXONOMY`、`tools/check-data.mjs` 的 `TAXONOMY`、`tools/merge-candidates.mjs` 的 `TAXONOMY`，再在 `projects.json` 里引用新 slug。
+> 完整分类体系与候选池统计见 [CATEGORY-GAPS.md](CATEGORY-GAPS.md)。
 
 ---
 

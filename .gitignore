@@ -12,9 +12,21 @@ Desktop.ini
 node_modules/
 dist/
 
-# 本地 Git 凭据（勿提交）
-.git-credentials
-*git-credentials
+# Python 缓存（数据抓取脚本产生）
+__pycache__/
+*.pyc
+_cache*.pkl
+
+# 合并候选池时的自动备份
+projects.backup-*.json
+
+# 临时脚本 / 截图
+_*.mjs
+_*.ps1
+_*.png
+_*.json
+!projects.json
+!projects-candidates.json
 
 # 凭据与密钥（一律不要提交）
 .git-credentials

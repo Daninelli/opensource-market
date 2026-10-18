@@ -58,29 +58,40 @@
 
 ### 2.3 二级分类增补规则（重要）
 
-当前二级分类**明显偏少**，很多优质项目装不进去。新增二级分类的三步：
+新增二级分类必须**三处同步**，否则校验会失败：
 
-1. 在 `app.js` 的 `TAXONOMY` 对应一级分类 `children` 里加一行
-2. 在 `tools/check-data.mjs` 的 `TAXONOMY` 加同一行
-3. 在 `projects.json` 里引用新 slug
+1. `app.js` 的 `TAXONOMY` 对应一级分类 `children` 里加一行
+2. `tools/check-data.mjs` 的 `TAXONOMY` 加同一行
+3. `tools/merge-candidates.mjs` 的 `TAXONOMY` 加同一行
+4. 最后在 `projects.json` 里引用新 slug
 
-**本次已识别、建议新增的二级分类**（待确认后落地）：
+### 2.4 已落地的二级分类扩展（25 → 51 个）
 
-| 一级分类 | 新 slug | 中文名 | 典型项目 |
+本次调研把二级分类从 25 个扩到 **51 个**，以下均已在上述三处同步完成：
+
+| 一级分类 | 新增 slug | 中文名 | 落位项目 |
 | --- | --- | --- | --- |
-| `medical` | `imaging` | 医疗影像 | Orthanc、dcm4che |
-| `medical` | `practice` | 诊所管理 | openclinic、librehealth |
-| `enterprise` | `crm` | 客户关系 | Twenty、EspoCRM |
+| `social` | `collab-suite` | 加密协作 | Cryptpad |
+| `social` | `calendar` | 日历与日程 | Rallly |
+| `finance` | `accounting` | 记账核算 | Akaunting、Invoice Ninja、GnuCash |
+| `finance` | `payment` | 支付网关 | （待补） |
+| `education` | `lab` | 实验与科研记录 | （待补） |
+| `medical` | `imaging` | 医疗影像 | cBioPortal |
+| `medical` | `practice` | 诊所与实验室 | OpenBoxes |
+| `enterprise` | `crm` | 客户关系 | EspoCRM、Twenty |
 | `enterprise` | `erp` | 企业资源 | ERPNext、Odoo |
-| `tool` | `file` | 文件管理 | Cloudreve、kkFileView、zfile |
-| `tool` | `media-tool` | 媒体处理 | HandBrake、FFmpeg 封装工具 |
-| `tool` | `security` | 安全工具 | Vaultwarden、Keycloak |
-| `tool` | `iot` | 物联网 | ThingsBoard、WVP-GB28181 |
-| `tool` | `devops` | 运维部署 | Gitea、Drone、Portainer |
-| `tool` | `readlater` | 稍后读 | Wallabag、Karakeep |
-| `media` | `ebook` | 电子书 | Calibre-Web、Stump |
-| `finance` | `payment` | 支付网关 | 各类支付聚合 |
-| `finance` | `accounting` | 记账核算 | Akaunting、GnuCash |
+| `enterprise` | `docs` | 文档与知识库 | BookStack、Outline |
+| `media` | `ebook` | 电子书与阅读 | Stump、Calibre-Web |
+| `media` | `podcast` | 播客与音频 | AzuraCast |
+| `tool` | `security` | 安全与密码 | Vaultwarden、Keycloak |
+| `tool` | `file` | 文件管理与网盘 | Cloudreve、Filestash |
+| `tool` | `devops` | 运维部署 | Portainer |
+| `tool` | `readlater` | 稍后读与收藏 | wallabag、Karakeep |
+| `tool` | `iot` | 物联网 | （待补） |
+| `tool` | `media-tool` | 媒体处理 | （待补） |
+
+> 完整 51 个二级分类见 [CATEGORY-GAPS.md](CATEGORY-GAPS.md) 第 3 节。
+> 一致性自检：`node tools/check-candidates.mjs` 会校验候选池字段与平台字段；分类三处一致性可人工比对 `TAXONOMY`。
 
 ---
 
@@ -293,17 +304,23 @@
 ```
 发现阶段（Playwright 真实浏览器）
    GitHub：https://github.com/search?q=<关键词>&type=repositories&s=stars&o=desc
-   Gitee ：https://gitee.com/explore/<分类>   +   https://gitee.com/<owner>/<repo>
+   Gitee ：https://gitee.com/explore/all   +   https://gitee.com/<owner>/<repo>
         ↓
 精确字段阶段（HTTP API，准且不触发验证码）
    GitHub：GET https://api.github.com/repos/<owner>/<repo>
            → stargazers_count / license.spdx_id / default_branch / pushed_at
+           GET https://api.github.com/repos/<owner>/<repo>/contents/<LICENSE>
+           → 读取 LICENSE 文件首行，确认 NOASSERTION 项目的真实协议
    Gitee ：GET https://gitee.com/api/v5/repos/<owner>/<repo>
            → full_name / description / language / stargazers_count / license / html_url / pushed_at
         ↓
 候选池：projects-candidates.json（人工审核）
         ↓
-合入：projects.json（跑 node tools/check-data.mjs 自检）
+校验：node tools/check-candidates.mjs
+        ↓
+合入：node tools/merge-candidates.mjs --write（自动去重 + 备份）
+        ↓
+复核：node tools/check-data.mjs
 ```
 
 ### 7.1 GitHub 搜索页提取选择器（已验证可用）
@@ -326,22 +343,30 @@
 | 主语言 | `[class*="language"]` |
 
 > ⚠️ Gitee 网页会被「安全验证码」拦截（HTTP 405），遇到时改用 Gitee API + 已知仓库路径。
-> ⚠️ Gitee 的 `api/v5/search/repositories` 匿名搜索返回空数组，**不可靠**；仓库详情接口 `api/v5/repos/<owner>/<repo>` 可用。
+> ⚠️ Gitee 的 `api/v5/search/repositories` 匿名搜索返回空数组，**不可靠**；仓库详情接口 `api/v5/repos/<owner>/<repo>` 会 403 限流，建议配 token。
 
 ---
 
 ## 8. 校验与发布流程
 
 ```powershell
-# 1. 数据自检（分类 slug / 必填字段 / owner-repo 格式 / 重复仓库）
+# 1. 候选池自检（字段齐全 / platform 自洽 / 重复仓库 / license 是否确认）
+node tools/check-candidates.mjs
+
+# 2. 合并候选池到 projects.json（先干跑看清单，确认后加 --write）
+node tools/merge-candidates.mjs            # 干跑，只打印将新增哪些
+node tools/merge-candidates.mjs --write    # 真正写入（自动备份 + 按 repo 去重）
+
+# 3. 数据自检（分类 slug / 必填字段 / owner-repo 格式 / 重复仓库）
 node tools/check-data.mjs
 
-# 2. 抓取 star 与更新时间（复用 Playwright，避开 GitHub API 配额限制）
+# 4. 抓取 star 与更新时间（复用 Playwright，避开 GitHub API 配额限制）
 node tools/fetch-repo-data.mjs            # 只补缺失项
 node tools/fetch-repo-data.mjs --all      # 全量重抓
 
-# 3. 从 Release 里挑各平台安装包
+# 5. 抓 Release 并挑各平台安装包
+node tools/fetch-releases.mjs
 node tools/pick-installers.mjs            # 具体参数见脚本头部注释
 ```
 
-`check-data.mjs` 通过时会输出 `[OK] 数据检查通过`，并以缩进树打印各分类项目数。
+`check-candidates.mjs` / `check-data.mjs` 通过时分别输出 `[OK] 候选池检查通过` / `[OK] 数据检查通过`。

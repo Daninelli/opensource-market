@@ -23,19 +23,58 @@ const dataPath = join(root, "projects.json");
 const candidatePath = join(root, "projects-candidates.json");
 const WRITE = process.argv.includes("--write");
 
-/** 一级 / 二级分类中文名，用于校验 category / subcategory 与 slug 一致 */
+/** 一级 / 二级分类中文名，与 app.js / tools/check-data.mjs 保持一致 */
 const TAXONOMY = {
     ecommerce: { label: "电商", children: { headless: "无头电商", storefront: "电商前端", platform: "平台商城" } },
     game: { label: "游戏", children: { engine: "游戏引擎", client: "游戏客户端" } },
-    social: { label: "社交", children: { microblog: "微博客", im: "即时通讯", forum: "论坛社区" } },
-    finance: { label: "金融", children: { "personal-finance": "个人财务", investment: "投资管理" } },
-    education: { label: "教育", children: { lms: "在线学习", interactive: "互动课程" } },
-    medical: { label: "医疗", children: { emr: "电子病历" } },
+    social: {
+        label: "社交",
+        children: {
+            microblog: "微博客",
+            im: "即时通讯",
+            forum: "论坛社区",
+            "collab-suite": "加密协作",
+            calendar: "日历与日程"
+        }
+    },
+    finance: {
+        label: "金融",
+        children: {
+            "personal-finance": "个人财务",
+            investment: "投资管理",
+            accounting: "记账核算",
+            payment: "支付网关"
+        }
+    },
+    education: {
+        label: "教育",
+        children: { lms: "在线学习", interactive: "互动课程", lab: "实验与科研记录" }
+    },
+    medical: {
+        label: "医疗",
+        children: { emr: "电子病历", imaging: "医疗影像", practice: "诊所与实验室" }
+    },
     enterprise: {
         label: "企业服务",
-        children: { admin: "后台管理", "low-code": "低代码平台", bi: "数据分析", collaboration: "团队协作" }
+        children: {
+            admin: "后台管理",
+            "low-code": "低代码平台",
+            bi: "数据分析",
+            collaboration: "团队协作",
+            crm: "客户关系",
+            erp: "企业资源",
+            docs: "文档与知识库"
+        }
     },
-    media: { label: "内容媒体", children: { cms: "建站与 CMS", streaming: "影音媒体" } },
+    media: {
+        label: "内容媒体",
+        children: {
+            cms: "建站与 CMS",
+            streaming: "影音媒体",
+            ebook: "电子书与阅读",
+            podcast: "播客与音频"
+        }
+    },
     tool: {
         label: "工具",
         children: {
@@ -46,7 +85,13 @@ const TAXONOMY = {
             automation: "自动化",
             monitoring: "运维监控",
             devtools: "开发工具",
-            utility: "效率工具"
+            utility: "效率工具",
+            security: "安全与密码",
+            file: "文件管理与网盘",
+            devops: "运维部署",
+            readlater: "稍后读与收藏",
+            iot: "物联网",
+            "media-tool": "媒体处理"
         }
     },
     government: { label: "政务", children: { participation: "公众参与", "open-data": "开放数据" } },
