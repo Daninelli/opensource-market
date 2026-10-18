@@ -1,0 +1,46 @@
+{
+  "repo": "louislam/uptime-kuma",
+  "slug": "louislam__uptime-kuma",
+  "name": "Uptime Kuma",
+  "note_zh": "自托管监控工具，支持 HTTP/TCP/Ping 监控和多种告警通知。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "MIT",
+  "tech_stack": [
+    "Node.js",
+    "Vue",
+    "SQLite"
+  ],
+  "deploy_type": "Docker 部署",
+  "platform": "github",
+  "stars": 92584,
+  "updated_at": "2026-10-18T03:22:23Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/louislam/uptime-kuma/zip/refs/heads/master",
+  "release": {
+    "tag": "2.5.6",
+    "name": "2.5.6",
+    "published": "2026-10-09T15:46:26Z",
+    "url": "https://github.com/louislam/uptime-kuma/releases/tag/2.5.6"
+  },
+  "assets": [
+    {
+      "name": "dist.tar.gz",
+      "size": 7557568,
+      "url": "https://github.com/louislam/uptime-kuma/releases/download/2.5.6/dist.tar.gz"
+    }
+  ],
+  "pinned": true,
+  "pin_label": "推荐",
+  "pin_note": "自托管监控的轻量首选，部署简单、界面清爽",
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

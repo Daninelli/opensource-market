@@ -1,0 +1,51 @@
+{
+  "repo": "grafana/grafana",
+  "slug": "grafana__grafana",
+  "name": "Grafana",
+  "note_zh": "可观测性看板的事实标准，对接 Prometheus、Loki 等数据源做监控展示。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "数据分析",
+  "subcategory_slug": "bi",
+  "license": "AGPL-3.0",
+  "tech_stack": [
+    "Go",
+    "React",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker / 二进制",
+  "platform": "github",
+  "stars": 77342,
+  "updated_at": "2026-10-18T01:10:35Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/grafana/grafana/zip/refs/heads/main",
+  "release": {
+    "tag": "v13.2.4",
+    "name": "13.2.4",
+    "published": "2026-10-13T11:41:03Z",
+    "url": "https://github.com/grafana/grafana/releases/tag/v13.2.4"
+  },
+  "assets": [
+    {
+      "name": "grafana_13.2.4_38252365904_linux_arm64.rpm",
+      "size": 266309797,
+      "url": "https://github.com/grafana/grafana/releases/download/v13.2.4/grafana_13.2.4_38252365904_linux_arm64.rpm"
+    },
+    {
+      "name": "grafana_13.2.4_38252365904_linux_amd64.rpm",
+      "size": 290420217,
+      "url": "https://github.com/grafana/grafana/releases/download/v13.2.4/grafana_13.2.4_38252365904_linux_amd64.rpm"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

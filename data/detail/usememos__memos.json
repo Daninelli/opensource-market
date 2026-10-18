@@ -1,0 +1,65 @@
+{
+  "repo": "usememos/memos",
+  "slug": "usememos__memos",
+  "name": "Memos",
+  "note_zh": "一个极简的自托管备忘录中心，界面类似 Flomo，支持 Markdown 和标签，资源占用极低。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "MIT",
+  "tech_stack": [
+    "Go",
+    "React"
+  ],
+  "deploy_type": "Docker / 二进制",
+  "platform": "github",
+  "stars": 63880,
+  "updated_at": "2026-10-18T04:11:59Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/usememos/memos/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.31.0",
+    "name": "v0.31.0",
+    "published": "2026-09-19T16:50:57Z",
+    "url": "https://github.com/usememos/memos/releases/tag/v0.31.0"
+  },
+  "assets": [
+    {
+      "name": "memos_0.31.0_darwin_arm64.tar.gz",
+      "size": 21058705,
+      "url": "https://github.com/usememos/memos/releases/download/v0.31.0/memos_0.31.0_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "memos_0.31.0_windows_amd64.zip",
+      "size": 22181849,
+      "url": "https://github.com/usememos/memos/releases/download/v0.31.0/memos_0.31.0_windows_amd64.zip"
+    },
+    {
+      "name": "memos_0.31.0_darwin_amd64.tar.gz",
+      "size": 22189145,
+      "url": "https://github.com/usememos/memos/releases/download/v0.31.0/memos_0.31.0_darwin_amd64.tar.gz"
+    },
+    {
+      "name": "memos_0.31.0_linux_arm64.tar.gz",
+      "size": 20181109,
+      "url": "https://github.com/usememos/memos/releases/download/v0.31.0/memos_0.31.0_linux_arm64.tar.gz"
+    },
+    {
+      "name": "memos_0.31.0_linux_armv7.tar.gz",
+      "size": 20646858,
+      "url": "https://github.com/usememos/memos/releases/download/v0.31.0/memos_0.31.0_linux_armv7.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

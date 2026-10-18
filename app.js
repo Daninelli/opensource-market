@@ -1060,7 +1060,14 @@
         card.innerHTML =
             // 标题 + 置顶徽章 + 协议
             '<div class="title-row">' +
-            "<h3>" + escapeHtml(project.name || "未命名项目") + "</h3>" +
+            "<h3>" +
+            (project.repo
+                ? '<a class="card-title-link" href="detail.html?repo=' +
+                  encodeURIComponent(project.repo) + '">' +
+                  escapeHtml(project.name || "未命名项目") +
+                  "</a>"
+                : escapeHtml(project.name || "未命名项目")) +
+            "</h3>" +
             '<div class="title-badges">' + pinBadge +
             '<span class="license" title="' + escapeHtml(project.license || "未知协议") + '">' +
             escapeHtml(project.license || "未知协议") + "</span>" +
@@ -1108,6 +1115,23 @@
         }
 
         bindPicker(card);
+
+        /* 卡片非按钮区域点击 → 打开本站详情页。
+           点到链接、按钮、下拉菜单、标签弹层时不动，交给它们自己处理。 */
+        if (project.repo) {
+            card.classList.add("is-clickable");
+            card.addEventListener("click", function (event) {
+                if (event.defaultPrevented) return;
+                if (event.button !== 0) return;
+                if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+                if (event.target.closest("a, button, .pkg-menu, .tag-pop, .src-toggle")) return;
+                var selection = window.getSelection && window.getSelection();
+                if (selection && String(selection).length) return;
+                window.location.href =
+                    "detail.html?repo=" + encodeURIComponent(project.repo);
+            });
+        }
+
         return card;
     }
 

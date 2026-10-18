@@ -1,0 +1,79 @@
+{
+  "repo": "syncthing/syncthing",
+  "slug": "syncthing__syncthing",
+  "name": "Syncthing",
+  "note_zh": "设备之间直接互传的私有同步方案，不经过中心服务器，局域网内文件自动保持一致，适合自建云盘。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "私有同步",
+  "subcategory_slug": "sync",
+  "license": "MPL-2.0",
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "二进制 / Docker",
+  "platform": "github",
+  "stars": 89481,
+  "updated_at": "2026-10-13T12:28:45Z",
+  "added_at": "2026-10-18T00:20:44+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/syncthing/syncthing/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.1.6",
+    "name": "v2.1.6",
+    "published": "2026-10-06T06:08:27Z",
+    "url": "https://github.com/syncthing/syncthing/releases/tag/v2.1.6"
+  },
+  "assets": [
+    {
+      "name": "syncthing-windows-arm64-v2.1.6.zip",
+      "size": 10896902,
+      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-windows-arm64-v2.1.6.zip"
+    },
+    {
+      "name": "syncthing-macos-arm64-v2.1.6.zip",
+      "size": 11192122,
+      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-macos-arm64-v2.1.6.zip"
+    },
+    {
+      "name": "syncthing-windows-386-v2.1.6.zip",
+      "size": 11718143,
+      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-windows-386-v2.1.6.zip"
+    },
+    {
+      "name": "syncthing-macos-amd64-v2.1.6.zip",
+      "size": 12420300,
+      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-macos-amd64-v2.1.6.zip"
+    },
+    {
+      "name": "syncthing-linux-arm64-v2.1.6.tar.gz",
+      "size": 10844382,
+      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-arm64-v2.1.6.tar.gz"
+    },
+    {
+      "name": "syncthing_2.1.6_arm64.deb",
+      "size": 10892992,
+      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing_2.1.6_arm64.deb"
+    },
+    {
+      "name": "syncthing-openbsd-arm64-v2.1.6.tar.gz",
+      "size": 12058554,
+      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-openbsd-arm64-v2.1.6.tar.gz"
+    },
+    {
+      "name": "syncthing-freebsd-arm64-v2.1.6.tar.gz",
+      "size": 12105886,
+      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-freebsd-arm64-v2.1.6.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

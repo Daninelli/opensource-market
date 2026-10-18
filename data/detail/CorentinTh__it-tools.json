@@ -1,0 +1,45 @@
+{
+  "repo": "CorentinTh/it-tools",
+  "slug": "CorentinTh__it-tools",
+  "name": "IT-Tools",
+  "note_zh": "开发者在线工具箱，JSON、Base64、正则、时间戳等几十个小工具一站搞定。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "GPL-3.0",
+  "tech_stack": [
+    "Vue 3",
+    "TypeScript"
+  ],
+  "deploy_type": "前端源码 / Docker",
+  "platform": "github",
+  "stars": 40890,
+  "updated_at": "2026-10-13T15:36:13Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/CorentinTh/it-tools/zip/refs/heads/main",
+  "release": {
+    "tag": "v2024.10.22-7ca5933",
+    "name": "v2024.10.22-7ca5933",
+    "published": "2024-10-22T09:58:03Z",
+    "url": "https://github.com/CorentinTh/it-tools/releases/tag/v2024.10.22-7ca5933"
+  },
+  "assets": [
+    {
+      "name": "it-tools-2024.10.22-7ca5933.zip",
+      "size": 4071978,
+      "url": "https://github.com/CorentinTh/it-tools/releases/download/v2024.10.22-7ca5933/it-tools-2024.10.22-7ca5933.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

@@ -1,0 +1,40 @@
+{
+  "repo": "jeecgboot/JeecgBoot",
+  "slug": "jeecgboot__JeecgBoot",
+  "name": "JeecgBoot",
+  "note_zh": "企业级低代码平台，表单、报表、大屏可视化齐全，可在线生成前后端代码。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "低代码平台",
+  "subcategory_slug": "low-code",
+  "license": "Apache-2.0",
+  "tech_stack": [
+    "Java",
+    "Spring Boot",
+    "Vue 3",
+    "Ant Design Vue"
+  ],
+  "deploy_type": "Docker 部署",
+  "platform": "both",
+  "stars": 48244,
+  "updated_at": "2026-10-14T01:56:30Z",
+  "added_at": "2026-10-18T13:53:21+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/jeecgboot/JeecgBoot/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": {
+    "repo": "jeecg/JeecgBoot",
+    "url": "https://gitee.com/jeecg/JeecgBoot",
+    "stars": 18500
+  },
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

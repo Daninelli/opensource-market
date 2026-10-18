@@ -1,0 +1,45 @@
+{
+  "repo": "jgraph/drawio",
+  "slug": "jgraph__drawio",
+  "name": "draw.io",
+  "note_zh": "老牌免费流程图工具，支持 UML、网络拓扑、泳道图等，可离线部署成团队内部的画图站。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "Apache-2.0",
+  "tech_stack": [
+    "JavaScript",
+    "HTML5"
+  ],
+  "deploy_type": "前端源码 / 桌面端",
+  "platform": "github",
+  "stars": 8838,
+  "updated_at": "2026-10-08T21:48:25Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/jgraph/drawio/zip/refs/heads/dev",
+  "release": {
+    "tag": "v32.4.1",
+    "name": "v32.4.1",
+    "published": "2026-10-08T21:49:28Z",
+    "url": "https://github.com/jgraph/drawio/releases/tag/v32.4.1"
+  },
+  "assets": [
+    {
+      "name": "draw.war",
+      "size": 48442174,
+      "url": "https://github.com/jgraph/drawio/releases/download/v32.4.1/draw.war"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

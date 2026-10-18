@@ -1,0 +1,70 @@
+{
+  "repo": "actualbudget/actual",
+  "slug": "actualbudget__actual",
+  "name": "Actual Budget",
+  "note_zh": "本地优先的个人记账工具，信封预算、银行流水导入和多端同步都有，可以自建服务端完全掌握数据。",
+  "category": "金融",
+  "category_slug": "finance",
+  "subcategory": "个人财务",
+  "subcategory_slug": "personal-finance",
+  "license": "MIT",
+  "tech_stack": [
+    "JavaScript",
+    "Node.js"
+  ],
+  "deploy_type": "Docker / 桌面端",
+  "platform": "github",
+  "stars": 29579,
+  "updated_at": "2026-10-18T00:19:56Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/actualbudget/actual/zip/refs/heads/master",
+  "release": {
+    "tag": "v26.10.0",
+    "name": "v26.10.0",
+    "published": "2026-10-02T15:32:36Z",
+    "url": "https://github.com/actualbudget/actual/releases/tag/v26.10.0"
+  },
+  "assets": [
+    {
+      "name": "Actual-windows-ia32.exe",
+      "size": 111813535,
+      "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-windows-ia32.exe"
+    },
+    {
+      "name": "Actual-windows-x64.exe",
+      "size": 122844362,
+      "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-windows-x64.exe"
+    },
+    {
+      "name": "Actual-mac-arm64.dmg",
+      "size": 143479378,
+      "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-mac-arm64.dmg"
+    },
+    {
+      "name": "Actual-mac-x64.dmg",
+      "size": 148589723,
+      "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-mac-x64.dmg"
+    },
+    {
+      "name": "Actual-linux-x86_64.flatpak",
+      "size": 101660064,
+      "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-linux-x86_64.flatpak"
+    },
+    {
+      "name": "Actual-linux-arm64.AppImage",
+      "size": 148674369,
+      "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-linux-arm64.AppImage"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

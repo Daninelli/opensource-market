@@ -1,0 +1,80 @@
+{
+  "repo": "wekan/wekan",
+  "slug": "wekan__wekan",
+  "name": "Wekan",
+  "note_zh": "开源看板工具，Trello 的自托管替代，支持泳道、卡片、成员分配和标签，适合小团队排任务。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "团队协作",
+  "subcategory_slug": "collaboration",
+  "license": "MIT",
+  "tech_stack": [
+    "JavaScript",
+    "Meteor"
+  ],
+  "deploy_type": "Docker 部署",
+  "platform": "github",
+  "stars": 21123,
+  "updated_at": "2026-10-17T23:50:01Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/wekan/wekan/zip/refs/heads/main",
+  "release": {
+    "tag": "v12.51",
+    "name": "v12.51",
+    "published": "2026-10-17T15:42:08Z",
+    "url": "https://github.com/wekan/wekan/releases/tag/v12.51"
+  },
+  "assets": [
+    {
+      "name": "wekan-12.51-win32.zip",
+      "size": 237848628,
+      "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-win32.zip"
+    },
+    {
+      "name": "wekan-12.51-win-arm64.zip",
+      "size": 244429216,
+      "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-win-arm64.zip"
+    },
+    {
+      "name": "wekan-12.51-mac-x64.zip",
+      "size": 256138402,
+      "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-mac-x64.zip"
+    },
+    {
+      "name": "wekan-12.51-mac-arm64.zip",
+      "size": 257017657,
+      "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-mac-arm64.zip"
+    },
+    {
+      "name": "WeKan-12.51-armhf.AppImage",
+      "size": 190684548,
+      "url": "https://github.com/wekan/wekan/releases/download/v12.51/WeKan-12.51-armhf.AppImage"
+    },
+    {
+      "name": "WeKan-12.51-i686.AppImage",
+      "size": 196423032,
+      "url": "https://github.com/wekan/wekan/releases/download/v12.51/WeKan-12.51-i686.AppImage"
+    },
+    {
+      "name": "wekan-12.51-bun-android-x64.zip",
+      "size": 436592748,
+      "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-android-x64.zip"
+    },
+    {
+      "name": "wekan-12.51-bun-android-arm64.zip",
+      "size": 445963578,
+      "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-bun-android-arm64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

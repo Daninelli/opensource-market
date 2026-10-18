@@ -1,0 +1,46 @@
+{
+  "repo": "paperless-ngx/paperless-ngx",
+  "slug": "paperless-ngx__paperless-ngx",
+  "name": "Paperless-ngx",
+  "note_zh": "文档归档与管理系统，扫描件自动 OCR 建索引、按内容分类，支持全文搜索和标签管理。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "GPL-3.0",
+  "tech_stack": [
+    "Python",
+    "Django",
+    "Angular"
+  ],
+  "deploy_type": "Docker 部署",
+  "platform": "github",
+  "stars": 46820,
+  "updated_at": "2026-10-18T00:54:22Z",
+  "added_at": "2026-10-18T00:20:44+08:00",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/paperless-ngx/paperless-ngx/zip/refs/heads/dev",
+  "release": {
+    "tag": "v3.3.2",
+    "name": "Paperless-ngx v3.3.2",
+    "published": "2026-10-16T06:14:32Z",
+    "url": "https://github.com/paperless-ngx/paperless-ngx/releases/tag/v3.3.2"
+  },
+  "assets": [
+    {
+      "name": "paperless-ngx-v3.3.2.tar.xz",
+      "size": 328930672,
+      "url": "https://github.com/paperless-ngx/paperless-ngx/releases/download/v3.3.2/paperless-ngx-v3.3.2.tar.xz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

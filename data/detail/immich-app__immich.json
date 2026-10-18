@@ -1,0 +1,51 @@
+{
+  "repo": "immich-app/immich",
+  "slug": "immich-app__immich",
+  "name": "Immich",
+  "note_zh": "自托管照片视频备份方案，手机自动备份、人脸识别、时间轴浏览。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "相册管理",
+  "subcategory_slug": "photos",
+  "license": "AGPL-3.0",
+  "tech_stack": [
+    "TypeScript",
+    "NestJS",
+    "Flutter"
+  ],
+  "deploy_type": "Docker 部署",
+  "platform": "github",
+  "stars": 116513,
+  "updated_at": "2026-10-17T23:51:40Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/immich-app/immich/zip/refs/heads/main",
+  "release": {
+    "tag": "v3.3.3",
+    "name": "v3.3.3",
+    "published": "2026-10-14T16:56:21Z",
+    "url": "https://github.com/immich-app/immich/releases/tag/v3.3.3"
+  },
+  "assets": [
+    {
+      "name": "app-armeabi-v7a-release.apk",
+      "size": 63974801,
+      "url": "https://github.com/immich-app/immich/releases/download/v3.3.3/app-armeabi-v7a-release.apk"
+    },
+    {
+      "name": "app-arm64-v8a-release.apk",
+      "size": 69260129,
+      "url": "https://github.com/immich-app/immich/releases/download/v3.3.3/app-arm64-v8a-release.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

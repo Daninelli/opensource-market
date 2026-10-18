@@ -1,0 +1,49 @@
+{
+  "repo": "macrozheng/mall",
+  "slug": "macrozheng__mall",
+  "name": "mall",
+  "note_zh": "国内最知名的开源电商实战项目之一，覆盖商品、订单、支付、营销完整链路，适合学习或二次开发。",
+  "category": "电商",
+  "category_slug": "ecommerce",
+  "subcategory": "平台商城",
+  "subcategory_slug": "platform",
+  "license": "Apache-2.0",
+  "tech_stack": [
+    "Java",
+    "Spring Boot",
+    "MyBatis",
+    "Vue"
+  ],
+  "deploy_type": "传统部署 / Docker",
+  "platform": "both",
+  "stars": 84915,
+  "updated_at": "2026-09-15T02:34:44Z",
+  "added_at": "2026-10-18T12:36:48+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/macrozheng/mall/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": true,
+  "pin_label": "置顶",
+  "pin_note": "国内最知名的开源电商实战项目，覆盖商品、订单、支付、营销完整链路",
+  "submitted_by": null,
+  "gitee": {
+    "repo": "macrozheng/mall",
+    "url": "https://gitee.com/macrozheng/mall",
+    "stars": 27300
+  },
+  "star_series": [
+    {
+      "date": "2026-10-17",
+      "stars": 84900
+    },
+    {
+      "date": "2026-10-18",
+      "stars": 84915
+    }
+  ],
+  "star_points": 2,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

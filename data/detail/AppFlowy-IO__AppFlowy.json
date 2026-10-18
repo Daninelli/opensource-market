@@ -1,0 +1,75 @@
+{
+  "repo": "AppFlowy-IO/AppFlowy",
+  "slug": "AppFlowy-IO__AppFlowy",
+  "name": "AppFlowy",
+  "note_zh": "开源的知识库与项目管理工具，Notion 的自托管替代，数据完全掌握在自己手里。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "AGPL-3.0",
+  "tech_stack": [
+    "Rust",
+    "Flutter"
+  ],
+  "deploy_type": "客户端 + Docker",
+  "platform": "github",
+  "stars": 77526,
+  "updated_at": "2026-10-08T11:00:14Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/AppFlowy-IO/AppFlowy/zip/refs/heads/main",
+  "release": {
+    "tag": "0.14.8",
+    "name": "v0.14.8",
+    "published": "2026-10-08T11:00:14Z",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/tag/0.14.8"
+  },
+  "assets": [
+    {
+      "name": "AppFlowy-0.14.8-windows-x86_64.exe",
+      "size": 88714064,
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-windows-x86_64.exe"
+    },
+    {
+      "name": "AppFlowy-0.14.8-windows-x86_64.zip",
+      "size": 127899051,
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-windows-x86_64.zip"
+    },
+    {
+      "name": "AppFlowy-0.14.8-macos-arm64.dmg",
+      "size": 138310942,
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-macos-arm64.dmg"
+    },
+    {
+      "name": "AppFlowy-0.14.8-macos-arm64.zip",
+      "size": 139819259,
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-macos-arm64.zip"
+    },
+    {
+      "name": "AppFlowy-0.14.8-linux-x86_64.deb",
+      "size": 139584408,
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-linux-x86_64.deb"
+    },
+    {
+      "name": "AppFlowy-0.14.8-linux-x86_64.AppImage",
+      "size": 176978424,
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-linux-x86_64.AppImage"
+    },
+    {
+      "name": "AppFlowy-0.14.8-android.apk",
+      "size": 222375877,
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-android.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

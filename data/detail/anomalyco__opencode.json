@@ -1,0 +1,81 @@
+{
+  "repo": "anomalyco/opencode",
+  "slug": "anomalyco__opencode",
+  "name": "opencode",
+  "note_zh": "开源 AI 编码智能体，提供桌面端与命令行，可接任意模型服务。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "tech_stack": [
+    "TypeScript",
+    "Node.js",
+    "Go"
+  ],
+  "deploy_type": "桌面应用 / CLI",
+  "platform": "github",
+  "stars": 215835,
+  "updated_at": "2026-10-18T06:58:25Z",
+  "added_at": "2026-10-18T09:50:47.976Z",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/anomalyco/opencode/zip/refs/heads/dev",
+  "release": {
+    "tag": "v1.19.3",
+    "name": "v1.19.3",
+    "published": "2026-10-16T12:31:52Z",
+    "url": "https://github.com/anomalyco/opencode/releases/tag/v1.19.3"
+  },
+  "assets": [
+    {
+      "name": "opencode-desktop-win-x64.exe",
+      "size": 126269464,
+      "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.3/opencode-desktop-win-x64.exe"
+    },
+    {
+      "name": "opencode-desktop-win-arm64.exe",
+      "size": 118790656,
+      "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.3/opencode-desktop-win-arm64.exe"
+    },
+    {
+      "name": "opencode-desktop-mac-arm64.dmg",
+      "size": 151121786,
+      "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.3/opencode-desktop-mac-arm64.dmg"
+    },
+    {
+      "name": "opencode-desktop-mac-x64.dmg",
+      "size": 156023735,
+      "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.3/opencode-desktop-mac-x64.dmg"
+    },
+    {
+      "name": "opencode-desktop-linux-x86_64.AppImage",
+      "size": 159217974,
+      "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.3/opencode-desktop-linux-x86_64.AppImage"
+    },
+    {
+      "name": "opencode-desktop-linux-arm64.AppImage",
+      "size": 157699500,
+      "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.3/opencode-desktop-linux-arm64.AppImage"
+    },
+    {
+      "name": "opencode-desktop-linux-amd64.deb",
+      "size": 123225336,
+      "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.3/opencode-desktop-linux-amd64.deb"
+    },
+    {
+      "name": "opencode-desktop-linux-arm64.deb",
+      "size": 116543400,
+      "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.3/opencode-desktop-linux-arm64.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

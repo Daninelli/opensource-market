@@ -1,0 +1,39 @@
+{
+  "repo": "y_project/RuoYi",
+  "slug": "y_project__RuoYi",
+  "name": "RuoYi",
+  "note_zh": "国内使用极广的后台脚手架，权限管理、代码生成、多数据源一应俱全。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "后台管理",
+  "subcategory_slug": "admin",
+  "license": "MIT",
+  "tech_stack": [
+    "Java",
+    "Spring Boot",
+    "Vue"
+  ],
+  "deploy_type": "传统部署 / Docker",
+  "platform": "gitee",
+  "stars": 48900,
+  "updated_at": "2026-10-10T15:36:00+08:00",
+  "added_at": "2026-10-18T12:36:48+08:00",
+  "default_branch": "master",
+  "download_url": "https://gitee.com/y_project/RuoYi/repository/archive/master.zip",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": {
+    "repo": "y_project/RuoYi",
+    "url": "https://gitee.com/y_project/RuoYi",
+    "stars": 48900
+  },
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

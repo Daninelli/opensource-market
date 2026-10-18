@@ -1,0 +1,40 @@
+{
+  "repo": "macrozheng/mall-swarm",
+  "slug": "macrozheng__mall-swarm",
+  "name": "mall-swarm",
+  "note_zh": "mall 的微服务版本，集成注册中心、配置中心、监控与网关，学 Spring Cloud。",
+  "category": "电商",
+  "category_slug": "ecommerce",
+  "subcategory": "平台商城",
+  "subcategory_slug": "platform",
+  "license": "Apache-2.0",
+  "tech_stack": [
+    "Java",
+    "Spring Cloud Alibaba",
+    "MyBatis",
+    "Docker"
+  ],
+  "deploy_type": "Docker 部署",
+  "platform": "both",
+  "stars": 13166,
+  "updated_at": "2026-07-31T20:39:07Z",
+  "added_at": "2026-10-18T13:53:21+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/macrozheng/mall-swarm/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": {
+    "repo": "macrozheng/mall-swarm",
+    "url": "https://gitee.com/macrozheng/mall-swarm",
+    "stars": 1900
+  },
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

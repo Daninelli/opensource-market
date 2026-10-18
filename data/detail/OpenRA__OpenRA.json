@@ -1,0 +1,65 @@
+{
+  "repo": "OpenRA/OpenRA",
+  "slug": "OpenRA__OpenRA",
+  "name": "OpenRA",
+  "note_zh": "红警、泰伯利亚黎明等经典 RTS 的开源重制版，自带地图编辑器和联机对战。",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏客户端",
+  "subcategory_slug": "client",
+  "license": "GPL-3.0",
+  "tech_stack": [
+    "C#",
+    "Lua"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "stars": 17583,
+  "updated_at": "2026-10-11T14:29:17Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "bleed",
+  "download_url": "https://codeload.github.com/OpenRA/OpenRA/zip/refs/heads/bleed",
+  "release": {
+    "tag": "release-20250330",
+    "name": "release-20250330",
+    "published": "2025-03-30T17:36:43Z",
+    "url": "https://github.com/OpenRA/OpenRA/releases/tag/release-20250330"
+  },
+  "assets": [
+    {
+      "name": "OpenRA-release-20250330-x86.exe",
+      "size": 58528821,
+      "url": "https://github.com/OpenRA/OpenRA/releases/download/release-20250330/OpenRA-release-20250330-x86.exe"
+    },
+    {
+      "name": "OpenRA-release-20250330-x64.exe",
+      "size": 61266292,
+      "url": "https://github.com/OpenRA/OpenRA/releases/download/release-20250330/OpenRA-release-20250330-x64.exe"
+    },
+    {
+      "name": "OpenRA-release-20250330.dmg",
+      "size": 159559841,
+      "url": "https://github.com/OpenRA/OpenRA/releases/download/release-20250330/OpenRA-release-20250330.dmg"
+    },
+    {
+      "name": "OpenRA-Red-Alert-x86_64.AppImage",
+      "size": 44026360,
+      "url": "https://github.com/OpenRA/OpenRA/releases/download/release-20250330/OpenRA-Red-Alert-x86_64.AppImage"
+    },
+    {
+      "name": "OpenRA-Dune-2000-x86_64.AppImage",
+      "size": 47892984,
+      "url": "https://github.com/OpenRA/OpenRA/releases/download/release-20250330/OpenRA-Dune-2000-x86_64.AppImage"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

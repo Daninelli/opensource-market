@@ -1,0 +1,40 @@
+{
+  "repo": "n8n-io/n8n",
+  "slug": "n8n-io__n8n",
+  "name": "n8n",
+  "note_zh": "可视化的自动化工作流平台，400+ 集成节点，支持自托管，适合把各种重复的跨系统工作串起来。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "Sustainable Use License",
+  "tech_stack": [
+    "Node.js",
+    "TypeScript",
+    "Vue"
+  ],
+  "deploy_type": "Docker / npm",
+  "platform": "github",
+  "stars": 207839,
+  "updated_at": "2026-10-17T21:01:17Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/n8n-io/n8n/zip/refs/heads/master",
+  "release": {
+    "tag": "n8n@2.43.7",
+    "name": "n8n@2.43.7",
+    "published": "2026-10-16T07:23:56Z",
+    "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.43.7"
+  },
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

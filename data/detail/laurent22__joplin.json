@@ -1,0 +1,81 @@
+{
+  "repo": "laurent22/joplin",
+  "slug": "laurent22__joplin",
+  "name": "Joplin",
+  "note_zh": "跨平台开源笔记应用，支持 Markdown、端到端加密和自建同步服务，可替代 Evernote。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "AGPL-3.0",
+  "tech_stack": [
+    "TypeScript",
+    "React Native",
+    "Electron"
+  ],
+  "deploy_type": "客户端 + 服务端",
+  "platform": "github",
+  "stars": 56780,
+  "updated_at": "2026-10-18T04:24:46Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/laurent22/joplin/zip/refs/heads/dev",
+  "release": {
+    "tag": "v3.7.21",
+    "name": "v3.7.21",
+    "published": "2026-09-25T21:31:12Z",
+    "url": "https://github.com/laurent22/joplin/releases/tag/v3.7.21"
+  },
+  "assets": [
+    {
+      "name": "Joplin-3.7.21.pkg",
+      "size": 206477574,
+      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.pkg"
+    },
+    {
+      "name": "Joplin-3.7.21.dmg",
+      "size": 206702267,
+      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.dmg"
+    },
+    {
+      "name": "JoplinPortable.exe",
+      "size": 360779352,
+      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/JoplinPortable.exe"
+    },
+    {
+      "name": "Joplin-Setup-3.7.21.exe",
+      "size": 361008040,
+      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-Setup-3.7.21.exe"
+    },
+    {
+      "name": "Joplin-3.7.21.deb",
+      "size": 162700892,
+      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.deb"
+    },
+    {
+      "name": "Joplin-3.7.21.AppImage",
+      "size": 201462481,
+      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.AppImage"
+    },
+    {
+      "name": "Joplin-3.7.21-mac.zip",
+      "size": 198453324,
+      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21-mac.zip"
+    },
+    {
+      "name": "Joplin-3.7.21-arm64.zip",
+      "size": 200073544,
+      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21-arm64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

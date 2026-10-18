@@ -1,0 +1,40 @@
+{
+  "repo": "linlinjava/litemall",
+  "slug": "linlinjava__litemall",
+  "name": "litemall",
+  "note_zh": "小商城系统，Spring Boot 后端 + Vue 管理端 + 微信小程序商城，适合学习。",
+  "category": "电商",
+  "category_slug": "ecommerce",
+  "subcategory": "平台商城",
+  "subcategory_slug": "platform",
+  "license": "MIT",
+  "tech_stack": [
+    "Java",
+    "Spring Boot",
+    "Vue",
+    "微信小程序"
+  ],
+  "deploy_type": "Docker 部署",
+  "platform": "both",
+  "stars": 20389,
+  "updated_at": "2026-08-20T00:43:07Z",
+  "added_at": "2026-10-18T13:53:21+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/linlinjava/litemall/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": {
+    "repo": "linlinjava/litemall",
+    "url": "https://gitee.com/linlinjava/litemall",
+    "stars": 9000
+  },
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

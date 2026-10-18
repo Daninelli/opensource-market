@@ -1,0 +1,71 @@
+{
+  "repo": "gogs/gogs",
+  "slug": "gogs__gogs",
+  "name": "Gogs",
+  "note_zh": "轻量级自建 Git 服务，一个二进制文件就能跑，资源占用低，适合小团队内部代码托管。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "tech_stack": [
+    "Go",
+    "SQLite",
+    "MySQL"
+  ],
+  "deploy_type": "二进制 / Docker",
+  "platform": "github",
+  "stars": 47883,
+  "updated_at": "2026-09-12T20:28:48Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/gogs/gogs/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.14.3",
+    "name": "0.14.3",
+    "published": "2026-06-07T20:51:06Z",
+    "url": "https://github.com/gogs/gogs/releases/tag/v0.14.3"
+  },
+  "assets": [
+    {
+      "name": "gogs_v0.14.3_windows_arm64.zip",
+      "size": 39323900,
+      "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_windows_arm64.zip"
+    },
+    {
+      "name": "gogs_v0.14.3_windows_arm64_mws.zip",
+      "size": 39347057,
+      "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_windows_arm64_mws.zip"
+    },
+    {
+      "name": "gogs_v0.14.3_darwin_arm64.zip",
+      "size": 41161431,
+      "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_darwin_arm64.zip"
+    },
+    {
+      "name": "gogs_v0.14.3_darwin_amd64.zip",
+      "size": 42520387,
+      "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_darwin_amd64.zip"
+    },
+    {
+      "name": "gogs_v0.14.3_linux_arm64.tar.gz",
+      "size": 39087328,
+      "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_linux_arm64.tar.gz"
+    },
+    {
+      "name": "gogs_v0.14.3_linux_arm64.zip",
+      "size": 39095579,
+      "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_linux_arm64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

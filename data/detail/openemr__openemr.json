@@ -1,0 +1,50 @@
+{
+  "repo": "openemr/openemr",
+  "slug": "openemr__openemr",
+  "name": "OpenEMR",
+  "note_zh": "使用最广的开源电子病历与诊所管理系统，覆盖预约排班、处方、账单和病历记录。",
+  "category": "医疗",
+  "category_slug": "medical",
+  "subcategory": "电子病历",
+  "subcategory_slug": "emr",
+  "license": "GPL-3.0",
+  "tech_stack": [
+    "PHP",
+    "MySQL"
+  ],
+  "deploy_type": "传统部署 / Docker",
+  "platform": "github",
+  "stars": 5531,
+  "updated_at": "2026-10-18T03:34:07Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/openemr/openemr/zip/refs/heads/master",
+  "release": {
+    "tag": "v8_4_1",
+    "name": "OpenEMR 8.4.1",
+    "published": "2026-09-20T07:43:44Z",
+    "url": "https://github.com/openemr/openemr/releases/tag/v8_4_1"
+  },
+  "assets": [
+    {
+      "name": "openemr-8.4.1.tar.gz",
+      "size": 165895874,
+      "url": "https://github.com/openemr/openemr/releases/download/v8_4_1/openemr-8.4.1.tar.gz"
+    },
+    {
+      "name": "openemr-8.4.1.zip",
+      "size": 214944047,
+      "url": "https://github.com/openemr/openemr/releases/download/v8_4_1/openemr-8.4.1.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

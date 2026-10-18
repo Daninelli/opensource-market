@@ -1,0 +1,69 @@
+{
+  "repo": "meilisearch/meilisearch",
+  "slug": "meilisearch__meilisearch",
+  "name": "Meilisearch",
+  "note_zh": "轻量级全文搜索引擎，自带中文和拼音支持，几行代码就能给应用加上搜索框。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "Docker / 二进制",
+  "platform": "github",
+  "stars": 59591,
+  "updated_at": "2026-10-15T15:53:55Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/meilisearch/meilisearch/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.55.0",
+    "name": "v1.55.0 🔭",
+    "published": "2026-10-12T09:21:50Z",
+    "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.55.0"
+  },
+  "assets": [
+    {
+      "name": "meilisearch-macos-apple-silicon",
+      "size": 348295984,
+      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-macos-apple-silicon"
+    },
+    {
+      "name": "meilisearch-macos-amd64",
+      "size": 351225696,
+      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-macos-amd64"
+    },
+    {
+      "name": "meilisearch-windows-amd64.exe",
+      "size": 352880640,
+      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-windows-amd64.exe"
+    },
+    {
+      "name": "meilisearch-linux-riscv64",
+      "size": 349925584,
+      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-linux-riscv64"
+    },
+    {
+      "name": "meilisearch-linux-aarch64",
+      "size": 350825800,
+      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-linux-aarch64"
+    },
+    {
+      "name": "meilisearch-enterprise-windows-amd64.exe",
+      "size": 354473984,
+      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-enterprise-windows-amd64.exe"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

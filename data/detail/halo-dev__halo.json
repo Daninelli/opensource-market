@@ -1,0 +1,46 @@
+{
+  "repo": "halo-dev/halo",
+  "slug": "halo-dev__halo",
+  "name": "Halo",
+  "note_zh": "国内流行的开源建站与博客系统，后台体验好、插件主题生态完善，适合个人站点和小团队官网。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "GPL-3.0",
+  "tech_stack": [
+    "Java",
+    "Spring Boot",
+    "Vue"
+  ],
+  "deploy_type": "Docker / 二进制",
+  "platform": "github",
+  "stars": 39946,
+  "updated_at": "2026-10-16T14:35:12Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/halo-dev/halo/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.27.0",
+    "name": "2.27.0",
+    "published": "2026-10-14T09:26:07Z",
+    "url": "https://github.com/halo-dev/halo/releases/tag/v2.27.0"
+  },
+  "assets": [
+    {
+      "name": "halo-2.27.0.jar",
+      "size": 129633799,
+      "url": "https://github.com/halo-dev/halo/releases/download/v2.27.0/halo-2.27.0.jar"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

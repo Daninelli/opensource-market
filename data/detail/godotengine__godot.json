@@ -1,0 +1,80 @@
+{
+  "repo": "godotengine/godot",
+  "slug": "godotengine__godot",
+  "name": "Godot Engine",
+  "note_zh": "完整开源的游戏引擎，编辑器、2D/3D 渲染和导出管线全都自带，独立游戏和小型商业项目都能直接用。",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏引擎",
+  "subcategory_slug": "engine",
+  "license": "MIT",
+  "tech_stack": [
+    "C++",
+    "GDScript"
+  ],
+  "deploy_type": "客户端（编辑器 + 导出）",
+  "platform": "github",
+  "stars": 118581,
+  "updated_at": "2026-10-16T16:38:08Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/godotengine/godot/zip/refs/heads/master",
+  "release": {
+    "tag": "4.7.2-stable",
+    "name": "4.7.2-stable",
+    "published": "2026-08-18T16:12:28Z",
+    "url": "https://github.com/godotengine/godot/releases/tag/4.7.2-stable"
+  },
+  "assets": [
+    {
+      "name": "Godot_v4.7.2-stable_windows_arm64.exe.zip",
+      "size": 84263370,
+      "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_windows_arm64.exe.zip"
+    },
+    {
+      "name": "Godot_v4.7.2-stable_win64.exe.zip",
+      "size": 86013866,
+      "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_win64.exe.zip"
+    },
+    {
+      "name": "Godot_v4.7.2-stable_macos.universal.zip",
+      "size": 170622178,
+      "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_macos.universal.zip"
+    },
+    {
+      "name": "Godot_v4.7.2-stable_mono_macos.universal.zip",
+      "size": 200756622,
+      "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_mono_macos.universal.zip"
+    },
+    {
+      "name": "Godot_v4.7.2-stable_linux.arm32.zip",
+      "size": 74780990,
+      "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_linux.arm32.zip"
+    },
+    {
+      "name": "Godot_v4.7.2-stable_linux.arm64.zip",
+      "size": 77008699,
+      "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_linux.arm64.zip"
+    },
+    {
+      "name": "Godot_v4.7.2-stable_android_release.perfetto.apk",
+      "size": 107415229,
+      "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_android_release.perfetto.apk"
+    },
+    {
+      "name": "Godot_v4.7.2-stable_android_editor_horizonos.apk",
+      "size": 168981853,
+      "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_android_editor_horizonos.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

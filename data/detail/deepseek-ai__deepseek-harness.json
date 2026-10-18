@@ -1,0 +1,40 @@
+{
+  "repo": "deepseek-ai/deepseek-harness",
+  "slug": "deepseek-ai__deepseek-harness",
+  "name": "DeepSeek Harness",
+  "note_zh": "DeepSeek 开源的智能体运行时，一切皆插件，可自建与扩展 Agent。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "tech_stack": [
+    "TypeScript",
+    "Node.js",
+    "插件架构"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "stars": 252626,
+  "updated_at": "2026-10-17T08:16:09Z",
+  "added_at": "2026-10-18T10:17:41.839Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/deepseek-ai/deepseek-harness/zip/refs/heads/master",
+  "release": {
+    "tag": "dsh-v0.2.1-rc.2",
+    "name": "dsh-v0.2.1-rc.2",
+    "published": "2026-10-17T08:16:33Z",
+    "url": "https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.2.1-rc.2"
+  },
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 0,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

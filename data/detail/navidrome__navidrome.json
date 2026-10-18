@@ -1,0 +1,70 @@
+{
+  "repo": "navidrome/navidrome",
+  "slug": "navidrome__navidrome",
+  "name": "Navidrome",
+  "note_zh": "自托管音乐流媒体服务，扫描本地音乐库后可在浏览器和手机上随时听，兼容 Subsonic 客户端。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "影音媒体",
+  "subcategory_slug": "streaming",
+  "license": "GPL-3.0",
+  "tech_stack": [
+    "Go",
+    "React"
+  ],
+  "deploy_type": "Docker / 二进制",
+  "platform": "github",
+  "stars": 24212,
+  "updated_at": "2026-10-17T10:14:01Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/navidrome/navidrome/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.64.2",
+    "name": "v0.64.2",
+    "published": "2026-09-24T23:26:20Z",
+    "url": "https://github.com/navidrome/navidrome/releases/tag/v0.64.2"
+  },
+  "assets": [
+    {
+      "name": "navidrome_0.64.2_darwin_arm64.tar.gz",
+      "size": 23317421,
+      "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "navidrome_0.64.2_windows_386.zip",
+      "size": 23613825,
+      "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_windows_386.zip"
+    },
+    {
+      "name": "navidrome_0.64.2_windows_amd64.zip",
+      "size": 24508330,
+      "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_windows_amd64.zip"
+    },
+    {
+      "name": "navidrome_0.64.2_darwin_amd64.tar.gz",
+      "size": 24891038,
+      "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_darwin_amd64.tar.gz"
+    },
+    {
+      "name": "navidrome_0.64.2_linux_armv7.rpm",
+      "size": 22993307,
+      "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_armv7.rpm"
+    },
+    {
+      "name": "navidrome_0.64.2_linux_arm64.rpm",
+      "size": 23025423,
+      "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_arm64.rpm"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

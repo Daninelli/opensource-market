@@ -1,0 +1,46 @@
+{
+  "repo": "element-hq/element-web",
+  "slug": "element-hq__element-web",
+  "name": "Element Web",
+  "note_zh": "Matrix 协议官方 Web 客户端，对接自建 homeserver，支持端到端加密。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "即时通讯",
+  "subcategory_slug": "im",
+  "license": "AGPL-3.0",
+  "tech_stack": [
+    "React",
+    "TypeScript",
+    "Matrix"
+  ],
+  "deploy_type": "前端源码",
+  "platform": "github",
+  "stars": 13589,
+  "updated_at": "2026-10-17T12:48:57Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/element-hq/element-web/zip/refs/heads/develop",
+  "release": {
+    "tag": "v1.12.32",
+    "name": "v1.12.32",
+    "published": "2026-10-16T13:17:44Z",
+    "url": "https://github.com/element-hq/element-web/releases/tag/v1.12.32"
+  },
+  "assets": [
+    {
+      "name": "element-v1.12.32.tar.gz",
+      "size": 53236279,
+      "url": "https://github.com/element-hq/element-web/releases/download/v1.12.32/element-v1.12.32.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

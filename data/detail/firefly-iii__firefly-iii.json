@@ -1,0 +1,51 @@
+{
+  "repo": "firefly-iii/firefly-iii",
+  "slug": "firefly-iii__firefly-iii",
+  "name": "Firefly III",
+  "note_zh": "自托管的个人财务管理工具，支持多账户、预算、账单和报表，财务数据完全留在自己服务器上。",
+  "category": "金融",
+  "category_slug": "finance",
+  "subcategory": "个人财务",
+  "subcategory_slug": "personal-finance",
+  "license": "AGPL-3.0",
+  "tech_stack": [
+    "PHP",
+    "Laravel",
+    "MySQL"
+  ],
+  "deploy_type": "Docker 部署",
+  "platform": "github",
+  "stars": 24922,
+  "updated_at": "2026-10-18T03:47:43Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/firefly-iii/firefly-iii/zip/refs/heads/main",
+  "release": {
+    "tag": "v6.7.9",
+    "name": "v6.7.9",
+    "published": "2026-10-11T19:16:51Z",
+    "url": "https://github.com/firefly-iii/firefly-iii/releases/tag/v6.7.9"
+  },
+  "assets": [
+    {
+      "name": "FireflyIII-v6.7.9.tar.gz",
+      "size": 16387727,
+      "url": "https://github.com/firefly-iii/firefly-iii/releases/download/v6.7.9/FireflyIII-v6.7.9.tar.gz"
+    },
+    {
+      "name": "FireflyIII-v6.7.9.zip",
+      "size": 23987467,
+      "url": "https://github.com/firefly-iii/firefly-iii/releases/download/v6.7.9/FireflyIII-v6.7.9.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

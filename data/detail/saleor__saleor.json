@@ -1,0 +1,41 @@
+{
+  "repo": "saleor/saleor",
+  "slug": "saleor__saleor",
+  "name": "Saleor",
+  "note_zh": "高性能无头电商平台，GraphQL 优先，自带后台管理，适合中大型 B2C 商城。",
+  "category": "电商",
+  "category_slug": "ecommerce",
+  "subcategory": "无头电商",
+  "subcategory_slug": "headless",
+  "license": "BSD-3-Clause",
+  "tech_stack": [
+    "Python",
+    "Django",
+    "GraphQL",
+    "React"
+  ],
+  "deploy_type": "Docker 部署",
+  "platform": "github",
+  "stars": 23449,
+  "updated_at": "2026-10-16T14:04:06Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/saleor/saleor/zip/refs/heads/main",
+  "release": {
+    "tag": "3.23.42",
+    "name": "3.23.42",
+    "published": "2026-10-16T06:44:14Z",
+    "url": "https://github.com/saleor/saleor/releases/tag/3.23.42"
+  },
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}

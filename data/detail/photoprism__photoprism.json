@@ -1,0 +1,51 @@
+{
+  "repo": "photoprism/photoprism",
+  "slug": "photoprism__photoprism",
+  "name": "PhotoPrism",
+  "note_zh": "自带 AI 识别的自托管相册，能按人物、地点、画面内容自动分类，适合替代网盘管理家庭照片。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "相册管理",
+  "subcategory_slug": "photos",
+  "license": "AGPL-3.0",
+  "tech_stack": [
+    "Go",
+    "Vue",
+    "TensorFlow"
+  ],
+  "deploy_type": "Docker 部署",
+  "platform": "github",
+  "stars": 40316,
+  "updated_at": "2026-10-17T20:12:05Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/photoprism/photoprism/zip/refs/heads/develop",
+  "release": {
+    "tag": "261007-65faaae5d",
+    "name": "October 7, 2026",
+    "published": "2026-10-07T09:20:36Z",
+    "url": "https://github.com/photoprism/photoprism/releases/tag/261007-65faaae5d"
+  },
+  "assets": [
+    {
+      "name": "photoprism_261007-65faaae5d-linux-arm64.tar.gz",
+      "size": 396866292,
+      "url": "https://github.com/photoprism/photoprism/releases/download/261007-65faaae5d/photoprism_261007-65faaae5d-linux-arm64.tar.gz"
+    },
+    {
+      "name": "photoprism_261007-65faaae5d-linux-amd64.tar.gz",
+      "size": 421508754,
+      "url": "https://github.com/photoprism/photoprism/releases/download/261007-65faaae5d/photoprism_261007-65faaae5d-linux-amd64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "star_series": [],
+  "star_points": 1,
+  "history_days": 2,
+  "delta_7d": null,
+  "delta_30d": null
+}
