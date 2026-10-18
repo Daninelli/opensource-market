@@ -1,9 +1,0 @@
-# 其他类型的问题（非投稿）
-blank_issues_enabled: false
-contact_links:
-  - name: 数据错误反馈
-    url: https://github.com/Daninelli/opensource-market/issues/new?labels=纠错&title=%5B纠错%5D%20
-    about: 收录项目的 star、更新时间、协议标注有误，或项目已删除 / 改名
-  - name: 功能建议
-    url: https://github.com/Daninelli/opensource-market/issues/new?labels=建议&title=%5B建议%5D%20
-    about: 对页面布局、分类体系、数据字段的建议

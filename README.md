@@ -10,6 +10,14 @@
 
 线上地址：<https://daninelli.github.io/opensource-market/>
 
+## 收录一个新项目
+
+不用懂 Git，也不用改任何文件。
+
+打开 [New issue](https://github.com/Daninelli/opensource-market/issues/new?template=submit.yml)，选「**收录开源项目**」表单，填四项（项目名、仓库地址、一级分类、一句话简介）即可。
+
+提交后 Action 会自动从 GitHub 拉取 star 数、最近更新时间、开源协议、最新 Release 与安装包，校验通过后创建收录 PR，由维护者审核合并。详细流程见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+
 ## 快速开始
 
 本地预览**不要直接双击 `index.html`**。浏览器出于安全策略禁止 `file://` 页面用 `fetch` 读取同目录 JSON，会看到「数据没有加载出来」。用任意静态服务器打开即可：
