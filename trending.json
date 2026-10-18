@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T08:00:13.492Z",
+  "generated_at": "2026-10-18T08:01:18.285Z",
   "window_days": 1,
   "target_window_days": 7,
   "history_days": 2,
@@ -23,52 +23,10 @@
       "updated_at": "2026-09-15T02:34:44Z",
       "download_url": "https://codeload.github.com/macrozheng/mall/zip/refs/heads/master",
       "platform": "both",
-      "pinned": true,
-      "pin_label": "置顶",
-      "pin_note": "国内最知名的开源电商实战项目，覆盖商品、订单、支付、营销完整链路"
+      "pinned": false
     },
     {
       "rank": 2,
-      "repo": "louislam/uptime-kuma",
-      "name": "Uptime Kuma",
-      "category": "工具",
-      "category_slug": "tool",
-      "subcategory": "运维监控",
-      "note_zh": "自托管监控工具，支持 HTTP/TCP/Ping 监控和多种告警通知。",
-      "license": "MIT",
-      "stars": 92584,
-      "delta7": null,
-      "delta30": null,
-      "window_days": 1,
-      "updated_at": "2026-10-18T03:22:23Z",
-      "download_url": "https://codeload.github.com/louislam/uptime-kuma/zip/refs/heads/master",
-      "platform": "github",
-      "pinned": true,
-      "pin_label": "推荐",
-      "pin_note": "自托管监控的轻量首选，部署简单、界面清爽"
-    },
-    {
-      "rank": 3,
-      "repo": "nocodb/nocodb",
-      "name": "NocoDB",
-      "category": "企业服务",
-      "category_slug": "enterprise",
-      "subcategory": "低代码平台",
-      "note_zh": "开源的 Airtable 替代品，能把任何数据库变成智能表格，适合团队协作和低代码数据管理。",
-      "license": "AGPL-3.0",
-      "stars": 65294,
-      "delta7": null,
-      "delta30": null,
-      "window_days": 1,
-      "updated_at": "2026-10-18T02:08:26Z",
-      "download_url": "https://codeload.github.com/nocodb/nocodb/zip/refs/heads/develop",
-      "platform": "github",
-      "pinned": true,
-      "pin_label": "推荐",
-      "pin_note": "开源版 Airtable，搭建内部工具最快的一档"
-    },
-    {
-      "rank": 4,
       "repo": "n8n-io/n8n",
       "name": "n8n",
       "category": "工具",
@@ -83,12 +41,10 @@
       "updated_at": "2026-10-17T21:01:17Z",
       "download_url": "https://codeload.github.com/n8n-io/n8n/zip/refs/heads/master",
       "platform": "github",
-      "pinned": false,
-      "pin_label": "置顶",
-      "pin_note": ""
+      "pinned": false
     },
     {
-      "rank": 5,
+      "rank": 3,
       "repo": "excalidraw/excalidraw",
       "name": "Excalidraw",
       "category": "工具",
@@ -103,12 +59,10 @@
       "updated_at": "2026-10-17T15:15:02Z",
       "download_url": "https://codeload.github.com/excalidraw/excalidraw/zip/refs/heads/master",
       "platform": "github",
-      "pinned": false,
-      "pin_label": "置顶",
-      "pin_note": ""
+      "pinned": false
     },
     {
-      "rank": 6,
+      "rank": 4,
       "repo": "godotengine/godot",
       "name": "Godot Engine",
       "category": "游戏",
@@ -123,12 +77,10 @@
       "updated_at": "2026-10-16T16:38:08Z",
       "download_url": "https://codeload.github.com/godotengine/godot/zip/refs/heads/master",
       "platform": "github",
-      "pinned": false,
-      "pin_label": "置顶",
-      "pin_note": ""
+      "pinned": false
     },
     {
-      "rank": 7,
+      "rank": 5,
       "repo": "immich-app/immich",
       "name": "Immich",
       "category": "工具",
@@ -143,12 +95,10 @@
       "updated_at": "2026-10-17T23:51:40Z",
       "download_url": "https://codeload.github.com/immich-app/immich/zip/refs/heads/main",
       "platform": "github",
-      "pinned": false,
-      "pin_label": "置顶",
-      "pin_note": ""
+      "pinned": false
     },
     {
-      "rank": 8,
+      "rank": 6,
       "repo": "supabase/supabase",
       "name": "Supabase",
       "category": "工具",
@@ -163,12 +113,28 @@
       "updated_at": "2026-10-18T00:37:42Z",
       "download_url": "https://codeload.github.com/supabase/supabase/zip/refs/heads/master",
       "platform": "github",
-      "pinned": false,
-      "pin_label": "置顶",
-      "pin_note": ""
+      "pinned": false
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "repo": "louislam/uptime-kuma",
+      "name": "Uptime Kuma",
+      "category": "工具",
+      "category_slug": "tool",
+      "subcategory": "运维监控",
+      "note_zh": "自托管监控工具，支持 HTTP/TCP/Ping 监控和多种告警通知。",
+      "license": "MIT",
+      "stars": 92584,
+      "delta7": null,
+      "delta30": null,
+      "window_days": 1,
+      "updated_at": "2026-10-18T03:22:23Z",
+      "download_url": "https://codeload.github.com/louislam/uptime-kuma/zip/refs/heads/master",
+      "platform": "github",
+      "pinned": false
+    },
+    {
+      "rank": 8,
       "repo": "home-assistant/core",
       "name": "Home Assistant",
       "category": "其他",
@@ -183,12 +149,10 @@
       "updated_at": "2026-10-18T01:21:17Z",
       "download_url": "https://codeload.github.com/home-assistant/core/zip/refs/heads/dev",
       "platform": "github",
-      "pinned": false,
-      "pin_label": "置顶",
-      "pin_note": ""
+      "pinned": false
     },
     {
-      "rank": 10,
+      "rank": 9,
       "repo": "syncthing/syncthing",
       "name": "Syncthing",
       "category": "其他",
@@ -203,12 +167,10 @@
       "updated_at": "2026-10-13T12:28:45Z",
       "download_url": "https://codeload.github.com/syncthing/syncthing/zip/refs/heads/main",
       "platform": "github",
-      "pinned": false,
-      "pin_label": "置顶",
-      "pin_note": ""
+      "pinned": false
     },
     {
-      "rank": 11,
+      "rank": 10,
       "repo": "hoppscotch/hoppscotch",
       "name": "Hoppscotch",
       "category": "工具",
@@ -223,12 +185,10 @@
       "updated_at": "2026-10-12T04:41:25Z",
       "download_url": "https://codeload.github.com/hoppscotch/hoppscotch/zip/refs/heads/main",
       "platform": "github",
-      "pinned": false,
-      "pin_label": "置顶",
-      "pin_note": ""
+      "pinned": false
     },
     {
-      "rank": 12,
+      "rank": 11,
       "repo": "AppFlowy-IO/AppFlowy",
       "name": "AppFlowy",
       "category": "工具",
@@ -243,12 +203,10 @@
       "updated_at": "2026-10-08T11:00:14Z",
       "download_url": "https://codeload.github.com/AppFlowy-IO/AppFlowy/zip/refs/heads/main",
       "platform": "github",
-      "pinned": false,
-      "pin_label": "置顶",
-      "pin_note": ""
+      "pinned": false
     },
     {
-      "rank": 13,
+      "rank": 12,
       "repo": "grafana/grafana",
       "name": "Grafana",
       "category": "企业服务",
@@ -263,12 +221,10 @@
       "updated_at": "2026-10-18T01:10:35Z",
       "download_url": "https://codeload.github.com/grafana/grafana/zip/refs/heads/main",
       "platform": "github",
-      "pinned": false,
-      "pin_label": "置顶",
-      "pin_note": ""
+      "pinned": false
     },
     {
-      "rank": 14,
+      "rank": 13,
       "repo": "apache/superset",
       "name": "Apache Superset",
       "category": "企业服务",
@@ -283,12 +239,10 @@
       "updated_at": "2026-10-18T01:37:43Z",
       "download_url": "https://codeload.github.com/apache/superset/zip/refs/heads/master",
       "platform": "github",
-      "pinned": false,
-      "pin_label": "置顶",
-      "pin_note": ""
+      "pinned": false
     },
     {
-      "rank": 15,
+      "rank": 14,
       "repo": "strapi/strapi",
       "name": "Strapi",
       "category": "内容媒体",
@@ -303,12 +257,10 @@
       "updated_at": "2026-10-17T02:12:26Z",
       "download_url": "https://codeload.github.com/strapi/strapi/zip/refs/heads/develop",
       "platform": "github",
-      "pinned": false,
-      "pin_label": "置顶",
-      "pin_note": ""
+      "pinned": false
     },
     {
-      "rank": 16,
+      "rank": 15,
       "repo": "dani-garcia/vaultwarden",
       "name": "Vaultwarden",
       "category": "工具",
@@ -323,12 +275,10 @@
       "updated_at": "2026-10-16T09:51:32Z",
       "download_url": "https://codeload.github.com/dani-garcia/vaultwarden/zip/refs/heads/main",
       "platform": "github",
-      "pinned": false,
-      "pin_label": "置顶",
-      "pin_note": ""
+      "pinned": false
     },
     {
-      "rank": 17,
+      "rank": 16,
       "repo": "FFmpeg/FFmpeg",
       "name": "FFmpeg",
       "category": "工具",
@@ -343,9 +293,25 @@
       "updated_at": "2026-10-18T03:20:04Z",
       "download_url": "https://codeload.github.com/FFmpeg/FFmpeg/zip/refs/heads/master",
       "platform": "github",
-      "pinned": false,
-      "pin_label": "置顶",
-      "pin_note": ""
+      "pinned": false
+    },
+    {
+      "rank": 17,
+      "repo": "nocodb/nocodb",
+      "name": "NocoDB",
+      "category": "企业服务",
+      "category_slug": "enterprise",
+      "subcategory": "低代码平台",
+      "note_zh": "开源的 Airtable 替代品，能把任何数据库变成智能表格，适合团队协作和低代码数据管理。",
+      "license": "AGPL-3.0",
+      "stars": 65294,
+      "delta7": null,
+      "delta30": null,
+      "window_days": 1,
+      "updated_at": "2026-10-18T02:08:26Z",
+      "download_url": "https://codeload.github.com/nocodb/nocodb/zip/refs/heads/develop",
+      "platform": "github",
+      "pinned": false
     },
     {
       "rank": 18,
@@ -363,9 +329,7 @@
       "updated_at": "2026-10-18T04:11:59Z",
       "download_url": "https://codeload.github.com/usememos/memos/zip/refs/heads/main",
       "platform": "github",
-      "pinned": false,
-      "pin_label": "置顶",
-      "pin_note": ""
+      "pinned": false
     },
     {
       "rank": 19,
@@ -383,9 +347,7 @@
       "updated_at": "2026-10-17T20:27:58Z",
       "download_url": "https://codeload.github.com/pi-hole/pi-hole/zip/refs/heads/master",
       "platform": "github",
-      "pinned": false,
-      "pin_label": "置顶",
-      "pin_note": ""
+      "pinned": false
     },
     {
       "rank": 20,
@@ -403,9 +365,7 @@
       "updated_at": "2026-10-17T20:51:44Z",
       "download_url": "https://codeload.github.com/penpot/penpot/zip/refs/heads/develop",
       "platform": "github",
-      "pinned": false,
-      "pin_label": "置顶",
-      "pin_note": ""
+      "pinned": false
     }
   ]
 }
