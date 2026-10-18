@@ -8,8 +8,6 @@
   "subcategory": "智能体",
   "subcategory_slug": "agent",
   "license": "MIT",
-  "license_category": "open",
-  "archived": false,
   "tech_stack": [
     "TypeScript",
     "Node.js",
@@ -32,6 +30,5 @@
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
-  "gitee": null,
-  "changes": []
+  "gitee": null
 }
