@@ -14,6 +14,13 @@
     var CACHE_BUST = "?t=" + Date.now();
 
     /**
+     * 移动端（单列）每个分类默认展示几张卡片。
+     * 桌面是「两行网格」，移动端只有一列，两行就是两张。
+     * 移动端的「更多」是一条通栏按钮，不占网格格子。
+     */
+    var MOBILE_CARDS_PER_SECTION = 2;
+
+    /**
      * 分类体系：一级 + 二级。
      * slug 用于数据匹配与筛选，label 用于展示，color 是分区配色。
      * 新增分类：在两处（app.js / tools/check-data.mjs）同步加一项即可。
@@ -589,14 +596,20 @@
         renderGridCards(grid, pending.projects, pending.primary, section);
     }
 
-    /** 渲染网格：默认只展示两行，其余收进「更多」卡片 */
+    /** 渲染网格：默认只展示两行，其余收进「更多」入口 */
     function renderGridCards(grid, projects, primary, section) {
         var cols = gridColumns();
-        var limit = cols * 2; // 两行
-        // 二级筛选不展开，仍然保持两行 + 更多；搜索时展开全部匹配
+        // 单列（移动端）时，卡片本身就有 277px 高，
+        // 再放一个和卡片同高的「更多」格子太浪费，改成一条通栏按钮。
+        var singleColumn = cols === 1;
+
+        var limit = singleColumn ? MOBILE_CARDS_PER_SECTION : cols * 2;
+        // 二级筛选不展开，仍然保持折叠；搜索时展开全部匹配
         var collapsed = !state.query && projects.length > limit;
 
-        var visible = collapsed ? projects.slice(0, limit - 1) : projects;
+        // 桌面的「更多」占网格最后一格，所以卡片要少放一张；移动端不占格
+        var visibleCount = singleColumn ? limit : limit - 1;
+        var visible = collapsed ? projects.slice(0, visibleCount) : projects;
         visible.forEach(function (project) {
             grid.appendChild(buildCard(project, primary));
         });
@@ -606,11 +619,14 @@
         var rest = projects.length - visible.length;
         var more = document.createElement("button");
         more.type = "button";
-        more.className = "more-card";
-        more.innerHTML =
-            '<span class="more-icon">' + iconMarkup("grid-more") + "</span>" +
-            '<span class="more-count">+' + rest + "</span>" +
-            '<span class="more-label">查看全部 ' + projects.length + " 个</span>";
+        more.className = singleColumn ? "more-row" : "more-card";
+        more.innerHTML = singleColumn
+            ? '<span class="more-row-label">查看全部 ' + projects.length + " 个</span>" +
+              '<span class="more-row-rest">还有 ' + rest + " 个</span>" +
+              '<span class="more-row-caret">' + iconMarkup("caret") + "</span>"
+            : '<span class="more-icon">' + iconMarkup("grid-more") + "</span>" +
+              '<span class="more-count">+' + rest + "</span>" +
+              '<span class="more-label">查看全部 ' + projects.length + " 个</span>";
         more.setAttribute("aria-label", "展开" + primary.label + "全部 " + projects.length + " 个项目");
         more.addEventListener("click", function () {
             grid.removeChild(more);

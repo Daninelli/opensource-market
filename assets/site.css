@@ -2152,3 +2152,37 @@
             .pin-panel { padding: 12px 13px; }
             .pin-panel-note { font-size: 13px; }
         }
+
+        /* ------------------------------ 移动端「查看更多」通栏按钮 ------------------------------ */
+        /* 单列布局下，「更多」不占和卡片同高的格子，改成一条通栏按钮 */
+        .more-row {
+            grid-column: 1 / -1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            width: 100%;
+            min-height: 46px;
+            padding: 0 16px;
+            border: 1px dashed var(--border-strong);
+            border-radius: 12px;
+            background: #fbfcfd;
+            color: var(--ink-soft);
+            font-size: 13.5px;
+            font-family: inherit;
+            cursor: pointer;
+            transition: border-color .15s, color .15s, background .15s;
+        }
+        .more-row:hover {
+            border-color: var(--brand);
+            color: var(--brand);
+            background: #f6fef9;
+        }
+        .more-row-label { font-weight: 500; }
+        .more-row-rest { color: var(--faint); font-size: 12.5px; }
+        .more-row-caret {
+            display: inline-flex;
+            align-items: center;
+            color: var(--faint);
+        }
+        .more-row-caret .icon { font-size: 14px; }
