@@ -183,6 +183,7 @@
                 els.app.innerHTML = "";
                 els.app.appendChild(buildErrorPanel(error));
                 els.status.textContent = "";
+                els.status.hidden = true;
                 if (els.nav) els.nav.innerHTML = "";
             });
     }
@@ -265,9 +266,22 @@
 
     /* ------------------------------ 渲染 ------------------------------ */
 
+    /** 置顶是否生效：没有过期日期，或过期日期还没到 */
+    function isPinActive(project) {
+        if (project.pinned !== true) return false;
+        if (!project.pin_until) return true;
+        var until = Date.parse(project.pin_until + "T23:59:59");
+        if (isNaN(until)) return true;
+        return Date.now() <= until;
+    }
+
     /** 分组：按一级分类聚合，同时应用搜索与二级筛选 */
-    /** 分类内排序：star 降序优先，其次最近更新，最后随机兜底 */
+    /** 分类内排序：置顶优先 → star 降序 → 最近更新 → 随机兜底 */
     function compareProjects(a, b) {
+        var pinA = isPinActive(a);
+        var pinB = isPinActive(b);
+        if (pinA !== pinB) return pinA ? -1 : 1;
+
         var starsA = typeof a.stars === "number" ? a.stars : -1;
         var starsB = typeof b.stars === "number" ? b.stars : -1;
         if (starsB !== starsA) return starsB - starsA;
@@ -372,11 +386,18 @@
                                 "</span>";
                         }
                         return (
-                            '<a class="hot-item" href="https://github.com/' + escapeHtml(item.repo) +
+                            '<a class="hot-item' + (item.pinned ? " is-pinned" : "") + '" href="https://github.com/' +
+                            escapeHtml(item.repo) +
                             '" target="_blank" rel="noopener noreferrer">' +
                             '<span class="hot-rank r' + rank + '">' + rank + "</span>" +
                             '<div class="hot-main">' +
-                            '<div class="hot-name">' + escapeHtml(item.name) + "</div>" +
+                            '<div class="hot-name">' + escapeHtml(item.name) +
+                            (item.pinned
+                                ? '<span class="pin-badge" title="' +
+                                  escapeHtml(item.pin_note || "编辑认为值得关注") + '">' +
+                                  iconMarkup("pin") + escapeHtml(item.pin_label || "置顶") + "</span>"
+                                : "") +
+                            "</div>" +
                             '<div class="hot-meta">' + escapeHtml(item.category) + " · " +
                             escapeHtml(item.repo) + " · " + formatCount(item.stars) + "</div>" +
                             "</div>" + deltaHtml + "</a>"
@@ -964,12 +985,24 @@
               "</button>"
             : '<span class="src-static">' + initialLabel + "</span>";
 
+        // 置顶徽章：手动维护，有 pin_label 就用它
+        var pinnedActive = project.pinned === true && isPinActive(project);
+        var pinBadge = pinnedActive
+            ? '<span class="pin-badge" title="' +
+              escapeHtml(project.pin_note || "编辑认为值得关注") + '">' +
+              iconMarkup("pin") +
+              escapeHtml(project.pin_label || "置顶") +
+              "</span>"
+            : "";
+
         card.innerHTML =
-            // 标题 + 协议
+            // 标题 + 置顶徽章 + 协议
             '<div class="title-row">' +
             "<h3>" + escapeHtml(project.name || "未命名项目") + "</h3>" +
+            '<div class="title-badges">' + pinBadge +
             '<span class="license" title="' + escapeHtml(project.license || "未知协议") + '">' +
             escapeHtml(project.license || "未知协议") + "</span>" +
+            "</div>" +
             "</div>" +
             // 仓库行（1~2 个平台）
             '<div class="repo-row">' + repoRow + "</div>" +
@@ -1099,12 +1132,16 @@
         var total = state.projects.length;
         var shown = groups.reduce(function (sum, group) { return sum + group.visible.length; }, 0);
 
+        // 默认视图不占用首屏，只有搜索 / 单分类筛选时才提示命中数量
         if (state.query) {
-            els.status.textContent = "搜索「" + state.query + "」，命中 " + shown + " 个项目（共 " + total + " 个）";
+            els.status.hidden = false;
+            els.status.textContent = "搜索「" + state.query + "」，命中 " + shown + " 个项目";
         } else if (groups.length === 1) {
-            els.status.textContent = "分类：[" + groups[0].primary.label + "]" + " · " + shown + " 个项目（共 " + total + " 个）";
+            els.status.hidden = false;
+            els.status.textContent = "「" + groups[0].primary.label + "」下 " + shown + " 个项目";
         } else {
-            els.status.textContent = "共收录 " + total + " 个开源项目，点上方分类可以快速定位。";
+            els.status.textContent = "";
+            els.status.hidden = true;
         }
     }
 

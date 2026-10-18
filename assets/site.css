@@ -1070,6 +1070,32 @@
         .hot-delta .icon { font-size: 10px; }
         .hot-delta.zero { background: #f3f4f6; color: #b6bcc4; font-weight: 500; }
 
+        /* ------------------------------ 置顶徽章 ------------------------------ */
+        .title-badges {
+            flex: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+        }
+        .pin-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 3px;
+            padding: 2px 8px;
+            border-radius: 6px;
+            background: #ecfdf5;
+            border: 1px solid #a7f3d0;
+            color: #047857;
+            font-size: 11px;
+            font-weight: 600;
+            white-space: nowrap;
+            line-height: 1.4;
+        }
+        .pin-badge .icon { font-size: 11px; }
+        .hot-name .pin-badge { margin-left: 2px; }
+        .hot-item.is-pinned { background: linear-gradient(90deg, rgba(236,253,245,.7), transparent 60%); }
+        .hot-item.is-pinned:hover { background: linear-gradient(90deg, rgba(236,253,245,.9), transparent 60%); }
+
         /* ------------------------------ 热门榜单 ------------------------------ */
         .trend {
             max-width: var(--max-width);

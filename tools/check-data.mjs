@@ -119,6 +119,9 @@ if (!Array.isArray(projects)) {
 const seenRepos = new Map();
 const primaryCount = {};
 const subCount = {};
+let pinnedCount = 0;
+const pinnedNames = [];
+const MAX_PINNED = 5;
 
 projects.forEach((project, index) => {
     const name = project.name;
@@ -157,6 +160,23 @@ projects.forEach((project, index) => {
         if (!project.repo) fail(index, name, `platform 为 ${platform} 时必须提供 repo`);
     }
 
+    /* 置顶字段：可选，但填了就必须合规 */
+    if (project.pinned === true) {
+        pinnedCount += 1;
+        pinnedNames.push(name);
+        if (project.pin_until !== undefined) {
+            if (!/^\d{4}-\d{2}-\d{2}$/.test(String(project.pin_until))) {
+                fail(index, name, `pin_until 应为 YYYY-MM-DD，实际 ${project.pin_until}`);
+            }
+        }
+        if (project.pin_label && String(project.pin_label).length > 6) {
+            fail(index, name, `pin_label 最多 6 字，当前 ${String(project.pin_label).length} 字`);
+        }
+        if (project.pin_note && String(project.pin_note).length > 40) {
+            fail(index, name, `pin_note 最多 40 字，当前 ${String(project.pin_note).length} 字`);
+        }
+    }
+
     const primary = TAXONOMY[project.category_slug];
     if (!primary) {
         fail(index, name, `未知的一级分类 slug：${project.category_slug}`);
@@ -183,6 +203,11 @@ projects.forEach((project, index) => {
 });
 
 console.log(`\n项目总数：${projects.length}`);
+console.log(`置顶项目：${pinnedCount} 个${pinnedNames.length ? "（" + pinnedNames.join("、") + "）" : ""}`);
+if (pinnedCount > MAX_PINNED) {
+    console.error(`[ERROR] 置顶项目超过 ${MAX_PINNED} 个，请先撤掉一些：${pinnedNames.join("、")}`);
+    process.exit(1);
+}
 console.log("\n分类分布：");
 Object.entries(TAXONOMY).forEach(([slug, meta]) => {
     const total = primaryCount[slug] || 0;

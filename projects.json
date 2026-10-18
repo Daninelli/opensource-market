@@ -1268,11 +1268,15 @@
     "deploy_type": "Docker 部署",
     "note_zh": "开源的 Airtable 替代品，能把任何数据库变成智能表格，适合团队协作和低代码数据管理。",
     "license": "AGPL-3.0",
-    "default_branch": "develop",
-    "download_url": "https://codeload.github.com/nocodb/nocodb/zip/refs/heads/develop",
     "stars": 65294,
     "updated_at": "2026-10-18T02:08:26Z",
-    "platform": "github"
+    "default_branch": "develop",
+    "download_url": "https://codeload.github.com/nocodb/nocodb/zip/refs/heads/develop",
+    "platform": "github",
+    "pinned": true,
+    "pin_label": "推荐",
+    "pin_note": "开源版 Airtable，搭建内部工具最快的一档",
+    "pin_until": "2026-11-30"
   },
   {
     "name": "Metabase",
@@ -3462,9 +3466,15 @@
     "deploy_type": "Docker 部署",
     "note_zh": "自托管监控工具，支持 HTTP/TCP/Ping 监控和多种告警通知。",
     "license": "MIT",
+    "stars": 92584,
+    "updated_at": "2026-10-18T03:22:23Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/louislam/uptime-kuma/zip/refs/heads/master",
-    "stars": 92584,
+    "platform": "github",
+    "pinned": true,
+    "pin_label": "推荐",
+    "pin_note": "自托管监控的轻量首选，部署简单、界面清爽",
+    "pin_until": "2026-11-30",
     "release": {
       "tag": "2.5.6",
       "name": "2.5.6",
@@ -3486,9 +3496,7 @@
         "url": "https://github.com/louislam/uptime-kuma/releases/download/2.5.6/dist.tar.gz",
         "platform": "通用"
       }
-    ],
-    "updated_at": "2026-10-18T03:22:23Z",
-    "platform": "github"
+    ]
   },
   {
     "name": "IT-Tools",
@@ -4331,7 +4339,6 @@
   {
     "name": "mall",
     "repo": "macrozheng/mall",
-    "platform": "both",
     "category": "电商",
     "category_slug": "ecommerce",
     "subcategory": "平台商城",
@@ -4349,10 +4356,15 @@
     "updated_at": "2026-09-15T02:34:44Z",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/macrozheng/mall/zip/refs/heads/master",
+    "platform": "both",
     "gitee_repo": "macrozheng/mall",
     "gitee_url": "https://gitee.com/macrozheng/mall",
     "gitee_stars": 27300,
-    "gitee_updated_at": "2026-09-15T10:33:00+08:00"
+    "gitee_updated_at": "2026-09-15T10:33:00+08:00",
+    "pinned": true,
+    "pin_label": "置顶",
+    "pin_note": "国内最知名的开源电商实战项目，覆盖商品、订单、支付、营销完整链路",
+    "pin_until": "2026-12-31"
   },
   {
     "name": "Sa-Token",

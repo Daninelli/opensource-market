@@ -53,6 +53,15 @@ function availableWindow(repo) {
     return 0;
 }
 
+/** 置顶是否仍然有效（没过期） */
+function isPinActive(project) {
+    if (project.pinned !== true) return false;
+    if (!project.pin_until) return true;
+    const until = Date.parse(project.pin_until + "T23:59:59");
+    if (Number.isNaN(until)) return true;
+    return Date.now() <= until;
+}
+
 // 全局能用的窗口：取所有仓库里最长的，最多 7 天
 let maxWindow = 0;
 for (const repo of Object.keys(series)) {
@@ -90,7 +99,9 @@ const rows = projects
             updated_at: project.updated_at || null,
             download_url: project.download_url || null,
             platform: project.platform || "github",
-            pinned: project.pinned === true
+            pinned: isPinActive(project),
+            pin_label: project.pin_label || "置顶",
+            pin_note: project.pin_note || ""
         };
     });
 
