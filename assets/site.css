@@ -1964,3 +1964,69 @@
         @media (max-width: 640px) {
             .footer-notice { font-size: 12px; padding: 11px 12px; }
         }
+
+        /* ------------------------------ 底部「怎么用」 ------------------------------ */
+        .footer-guide {
+            max-width: 720px;
+            margin: 0 auto 20px;
+            text-align: left;
+        }
+        .footer-guide h2 {
+            margin: 0 0 10px;
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--ink-soft);
+            letter-spacing: .02em;
+        }
+        .footer-guide ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 8px 22px;
+        }
+        .footer-guide li {
+            position: relative;
+            padding-left: 12px;
+            font-size: 12.5px;
+            line-height: 1.7;
+            color: var(--muted);
+        }
+        .footer-guide li::before {
+            content: "";
+            position: absolute;
+            left: 0;
+            top: 9px;
+            width: 4px;
+            height: 4px;
+            border-radius: 50%;
+            background: #d1d5db;
+        }
+        .footer-guide li b {
+            color: var(--ink-soft);
+            font-weight: 600;
+            margin-right: 6px;
+        }
+        .guide-em {
+            color: #b45309;
+            font-weight: 500;
+        }
+        .footer-guide-note {
+            margin: 10px 0 0;
+            padding-left: 12px;
+            font-size: 12px;
+            line-height: 1.7;
+            color: var(--faint);
+        }
+        .footer-guide-note a {
+            color: var(--muted);
+            text-decoration: underline;
+            text-underline-offset: 2px;
+        }
+        .footer-guide-note a:hover { color: var(--brand); }
+
+        @media (max-width: 640px) {
+            .footer-guide ul { grid-template-columns: 1fr; }
+            .footer-guide li { font-size: 12px; }
+        }

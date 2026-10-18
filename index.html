@@ -6,7 +6,7 @@
     <meta name="description" content="开源集市：按分类整理的开源成品应用，用于学习、开发、交流，支持 GitHub 与 Gitee 双源下载。">
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
     <title>开源集市 · 开源成品应用集合</title>
-    <link rel="stylesheet" href="assets/site.css?v=20261019b">
+    <link rel="stylesheet" href="assets/site.css?v=20261019c">
 </head>
 <body>
     <!-- 图标精灵：全部为手绘 24x24 线性图标，描边颜色继承 currentColor -->
@@ -258,12 +258,24 @@
         </div>
         <div class="footer-notice">
             <svg class="icon" aria-hidden="true"><use href="#icon-info"></use></svg>
-            <span><b>信息可能已过期。</b>本页 star 数、更新时间与许可协议由脚本定时抓取，并非实时；
-            项目可能已停止维护、变更协议、迁移或删除仓库。<b>一切以项目官方仓库的实际内容与 LICENSE 文件为准</b>，
-            本站信息不构成授权或法律意见。详见 <a href="disclaimer.html">免责声明</a>。</span>
+            <span><b>信息可能已过期。</b>star 数、更新时间与许可协议由脚本定时抓取，并非实时；项目可能已停止维护、变更协议或迁移仓库。<b>一切以项目官方仓库的实际内容与 LICENSE 文件为准</b>，本站信息不构成授权或法律意见。</span>
         </div>
-        <p>本站是纯静态页面，全部项目数据来自仓库内的 <code>projects.json</code>；点击卡片按钮即跳转对应 GitHub / Gitee 仓库，自行下载源码或 Release。</p>
-        <p>收录项目的代码、商标与文档均归原作者所有。数据由脚本自动抓取，<strong>可能滞后或有误差，请以项目仓库的实际内容与许可协议为准</strong>。部分项目采用非开源协议，商用前务必查阅原文。</p>
+
+        <div class="footer-guide">
+            <h2>怎么用</h2>
+            <ul>
+                <li><b>找项目</b>按分类往下看，或在上方搜索框直接输项目名。</li>
+                <li><b>下载</b>卡片上有「下载应用」说明作者发布了安装包，点开选平台；没有就点「下载源码」，或前往仓库自行构建。</li>
+                <li><b>看详情</b>点卡片空白处，可查看 Star 趋势、最新版本、安装包列表和<span class="guide-em">变动记录</span>。</li>
+                <li><b>判断能否商用</b>卡片标有「<span class="guide-em">非开源</span>」的项目用的是限制性协议，商用或对外提供服务前请先读原仓库条款。</li>
+            </ul>
+            <p class="footer-guide-note">
+                项目换协议、仓库归档、我们从置顶位撤下或调整推荐，都会自动记进详情页的「变动记录」，带日期可查。
+                想了解判定口径可看 <a href="licenses.html">开源协议说明</a>。
+            </p>
+        </div>
+
+        <p>收录项目的代码、商标与文档均归原作者所有。本站只做收录与跳转，<strong>不托管、不存储、不分发</strong>任何第三方的代码或安装包。</p>
         <p class="footer-license">
             本站页面与数据以 <strong>MIT 协议</strong>开源 ·
             <a href="https://github.com/Daninelli/opensource-market/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">查看协议</a> ·
