@@ -68,10 +68,16 @@ const TAXONOMY = {
 
 /** 中文分类名 -> slug */
 function slugify(label) {
+    const raw = String(label || "").trim();
     for (const [slug, meta] of Object.entries(TAXONOMY)) {
-        if (meta.label === label) return slug;
+        if (meta.label === raw) return slug;
     }
     return null;
+}
+
+/** 所有一级分类名，供错误提示列出可选值 */
+function primaryLabels() {
+    return Object.values(TAXONOMY).map((meta) => meta.label);
 }
 
 function subSlug(primarySlug, subLabel) {
@@ -226,11 +232,20 @@ async function main() {
     if (note && note.length > 50) errors.push(`简介 ${note.length} 字，超过 50 字上限`);
 
     const primarySlug = slugify(categoryLabel);
-    if (!primarySlug) errors.push(`无法识别的分类「${categoryLabel}」`);
+    if (!primarySlug) {
+        errors.push(
+            `无法识别的分类「${categoryLabel}」。可选值只有这 11 个：${primaryLabels().join("、")}`
+        );
+    } else if (categoryLabel !== categoryLabel.trim()) {
+        errors.push(`分类名「${categoryLabel}」前后有多余空格，请去掉`);
+    }
 
     const secondarySlug = primarySlug ? subSlug(primarySlug, subLabel) : null;
     if (subLabel && !subLabel.startsWith("（") && !secondarySlug) {
-        errors.push(`「${categoryLabel}」下没有二级分类「${subLabel}」`);
+        const valid = Object.values(TAXONOMY[primarySlug].children);
+        errors.push(
+            `「${categoryLabel}」下没有二级分类「${subLabel}」。可选：${valid.join("、")}`
+        );
     }
 
     if (errors.length) {
