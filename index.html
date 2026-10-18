@@ -259,6 +259,44 @@
             grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
             gap: 16px;
         }
+        /* 还没填充卡片的分区先占住两行高度，避免滚动时页面跳动 */
+        .grid.is-pending {
+            min-height: 600px;
+        }
+
+        /* 「更多」卡片：占一个格子，点开展开该分区全部项目 */
+        .more-card {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+            min-height: 200px;
+            padding: 20px;
+            border: 1px dashed var(--border-strong);
+            border-radius: 14px;
+            background: linear-gradient(180deg, #fbfcfd, #f4f6f8);
+            color: var(--muted);
+            font: inherit;
+            cursor: pointer;
+            transition: border-color .18s, background .18s, color .18s, transform .18s;
+        }
+        .more-card:hover {
+            border-color: var(--brand);
+            background: #f0fdf4;
+            color: var(--brand);
+            transform: translateY(-2px);
+        }
+        .more-card .more-count {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: var(--ink);
+            line-height: 1.1;
+        }
+        .more-card:hover .more-count { color: var(--brand); }
+        .more-card .more-label {
+            font-size: 12.5px;
+        }
 
         .card {
             background: var(--surface);
@@ -859,6 +897,6 @@
         <p class="error">这个页面需要启用 JavaScript 才能渲染项目卡片。</p>
     </noscript>
 
-    <script src="app.js?v=20261018d"></script>
+    <script src="app.js?v=20261018e"></script>
 </body>
 </html>

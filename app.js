@@ -167,6 +167,7 @@
                 state.projects = projects;
                 bindSearch();
                 bindPickerDismiss();
+                bindNavJump();
                 renderAll();
                 initScrollSpy();
                 updateStats();
@@ -181,6 +182,17 @@
     }
 
     /* ------------------------------ 搜索 ------------------------------ */
+
+    /** 点分类导航时，先把目标分区填好再跳，避免跳到空骨架 */
+    function bindNavJump() {
+        if (!els.nav) return;
+        els.nav.addEventListener("click", function (event) {
+            var link = event.target.closest ? event.target.closest("a[href^='#sec-']") : null;
+            if (!link) return;
+            var target = document.querySelector(link.getAttribute("href"));
+            if (target) fillSection(target);
+        });
+    }
 
     function bindSearch() {
         if (!els.search) return;
@@ -311,8 +323,98 @@
         });
         els.app.appendChild(fragment);
 
+        // 分区先只建骨架，滚到附近再填卡片（懒渲染）
+        Array.prototype.forEach.call(els.app.querySelectorAll(".section"), observeSection);
+
+        // 搜索 / 二级筛选时结果少，直接全部渲染
+        if (state.query || hasActiveSubFilter()) {
+            Array.prototype.forEach.call(els.app.querySelectorAll(".section"), fillSection);
+        }
+
         // 卡片进入文档后才能量出标签行数
         applyTagOverflow();
+    }
+
+    function hasActiveSubFilter() {
+        var keys = Object.keys(state.sub || {});
+        for (var i = 0; i < keys.length; i++) {
+            if (state.sub[keys[i]] && state.sub[keys[i]] !== "all") return true;
+        }
+        return false;
+    }
+
+    /** 当前宽度下网格有几列 */
+    function gridColumns() {
+        var width = els.app ? els.app.clientWidth : 0;
+        if (!width) width = Math.min(1240, window.innerWidth - 48);
+        var cols = Math.floor((width + 16) / 356); // 最小列宽 340 + 间距 16
+        return Math.max(1, Math.min(4, cols));
+    }
+
+    /** 懒渲染：分区接近视口时才生成卡片 */
+    var sectionObserver = null;
+
+    function observeSection(section) {
+        if (!("IntersectionObserver" in window)) {
+            fillSection(section);
+            return;
+        }
+        if (!sectionObserver) {
+            sectionObserver = new IntersectionObserver(
+                function (entries) {
+                    entries.forEach(function (entry) {
+                        if (!entry.isIntersecting) return;
+                        sectionObserver.unobserve(entry.target);
+                        fillSection(entry.target);
+                    });
+                },
+                { rootMargin: "600px 0px" }
+            );
+        }
+        sectionObserver.observe(section);
+    }
+
+    /** 把某个分区的卡片真正渲染出来 */
+    function fillSection(section) {
+        if (!section || !section._pending) return;
+        var pending = section._pending;
+        section._pending = null;
+
+        var grid = section.querySelector(".grid");
+        if (!grid) return;
+        grid.classList.remove("is-pending");
+        renderGridCards(grid, pending.projects, pending.primary, section);
+    }
+
+    /** 渲染网格：默认只展示两行，其余收进「更多」卡片 */
+    function renderGridCards(grid, projects, primary, section) {
+        var cols = gridColumns();
+        var limit = cols * 2; // 两行
+        var collapsed = !state.query && !hasActiveSubFilter() && projects.length > limit;
+
+        var visible = collapsed ? projects.slice(0, limit - 1) : projects;
+        visible.forEach(function (project) {
+            grid.appendChild(buildCard(project, primary));
+        });
+
+        if (!collapsed) return;
+
+        var rest = projects.length - visible.length;
+        var more = document.createElement("button");
+        more.type = "button";
+        more.className = "more-card";
+        more.innerHTML =
+            '<span class="more-count">+' + rest + "</span>" +
+            '<span class="more-label">查看全部 ' + projects.length + " 个</span>";
+        more.setAttribute("aria-label", "展开" + primary.label + "全部 " + projects.length + " 个项目");
+        more.addEventListener("click", function () {
+            grid.removeChild(more);
+            projects.slice(visible.length).forEach(function (project) {
+                grid.appendChild(buildCard(project, primary));
+            });
+            applyTagOverflow();
+        });
+        grid.appendChild(more);
     }
 
     /** 标签超过两行时，把多出来的收进 +N，点击 +N 弹出浮层 */
@@ -413,13 +515,18 @@
             section.appendChild(chips);
         }
 
-        /* 卡片网格 */
+        /* 卡片网格：先放空，等分区接近视口再填充。
+           按「列数 × 行数」预估高度，避免填充时页面跳动 */
+        var cols = gridColumns();
+        var rows = Math.min(Math.ceil(group.visible.length / Math.max(1, cols)), 2);
         var grid = document.createElement("div");
-        grid.className = "grid";
-        group.visible.forEach(function (project) {
-            grid.appendChild(buildCard(project, primary));
-        });
+        grid.className = "grid is-pending";
+        if (rows > 0) {
+            grid.style.minHeight = rows * 310 + (rows - 1) * 16 + "px";
+        }
         section.appendChild(grid);
+
+        section._pending = { projects: group.visible, primary: primary };
 
         return section;
     }
