@@ -1,360 +1,165 @@
 # 开源集市
 
-一个纯静态的开源成品应用导航站：把「拿来就能用、或者稍微改改就能二次开发」的开源项目集中展示出来，支持**一级分类 + 二级分类**联动筛选。
+把「拿来就能用，或稍微改改就能二次开发」的开源成品应用集中展示的纯静态导航站。
 
 - 纯 HTML + CSS + 原生 JS，无框架、无构建步骤
 - 数据全部放在 `projects.json`，新增项目只改这一个文件
 - 可直接部署到 GitHub Pages / Vercel / Netlify / 任意静态服务器
 
----
+线上地址：<https://daninelli.github.io/opensource-market/>
+
+## 快速开始
+
+本地预览**不要直接双击 `index.html`**。浏览器出于安全策略禁止 `file://` 页面用 `fetch` 读取同目录 JSON，会看到「数据没有加载出来」。用任意静态服务器打开即可：
+
+```bash
+npx serve .          # 或
+python -m http.server 8000
+```
+
+然后访问 `http://localhost:8000`。
 
 ## 目录结构
 
 ```
-opensource-market/
-├── index.html               # 页面结构、样式、SVG 图标精灵
-├── app.js                   # 分类体系 + 分区渲染 + 二级筛选 + 搜索
-├── projects.json            # 项目数据（站点唯一数据源）
-├── projects-candidates.json # 候选池：待人工审核的新项目（不直接被站点读取）
-├── favicon.svg              # 自绘站点图标
-├── DATA-FORMAT.md           # 字段规范（含 Gitee 扩展字段）★ 新增
-├── CATEGORY-GAPS.md         # 分类覆盖清单（现状 vs 候选池）★ 新增
+.
+├── index.html              # 页面结构 + SVG 图标精灵（全部自绘，不用 emoji）
+├── app.js                  # 分类体系、分区渲染、筛选、搜索、热门榜
+├── assets/site.css         # 全部样式
+├── projects.json           # 项目数据（站点唯一数据源）
+├── projects-candidates.json# 候选池：待审核的新项目，站点不直接读取
+├── meta.json               # 数据刷新时间（由脚本自动生成）
+├── trending.json           # 热门榜（由脚本按 star 增量生成）
+├── data/stars-history.json # star 每日快照（保留 30 天）
+├── licenses.html           # 开源协议说明
+├── disclaimer.html         # 免责声明
 ├── tools/
-│   ├── check-data.mjs       # 数据自检（分类、字段、重复仓库）
-│   ├── check-candidates.mjs # 候选池自检（字段、platform 自洽、license）★ 新增
-│   ├── merge-candidates.mjs # 候选池合并进 projects.json（去重 + 备份）★ 新增
-│   ├── fetch-repo-data.mjs  # 用 Playwright 抓 star 与更新时间
-│   ├── fetch-releases.mjs   # 抓 Release 资产
-│   └── pick-installers.mjs  # 从 Release 里挑各平台安装包
-├── .nojekyll                # 告诉 GitHub Pages 不要用 Jekyll 处理
-├── .gitignore
-└── README.md
+│   ├── fetch-repo-data.mjs  # 抓 star / 更新时间 / 下载直链，并写快照
+│   ├── build-trending.mjs  # 生成 trending.json（近 7 天 star 增量）
+│   ├── check-data.mjs      # 数据自检（字段、分类、去重、置顶规则）
+│   ├── check-candidates.mjs# 候选池自检
+│   ├── merge-candidates.mjs# 候选池合并进 projects.json（去重 + 自动备份）
+│   ├── fetch-releases.mjs  # 抓 Release 资产
+│   ├── pick-installers.mjs # 从 Release 里挑各平台安装包
+│   └── push.ps1            # 带重试的推送脚本
+└── .github/workflows/
+    └── refresh-data.yml    # 每天自动抓数据 → 生成榜单 → 有变化才提交
 ```
-
-> 关于字段怎么填、Gitee 项目怎么录，见 [DATA-FORMAT.md](DATA-FORMAT.md)。
-> 想了解哪些分类还缺项目，见 [CATEGORY-GAPS.md](CATEGORY-GAPS.md)。
-
----
 
 ## 页面结构
 
-- **Hero 区**：站点名 + 一句话介绍 + 实时统计（项目数 / 一级分类数 / 二级分类数 / 可下载数）
-- **工具条（吸顶）**：一级分类导航（带项目数，滚动时自动高亮当前分区）+ 搜索框（按 `/` 快速聚焦）
-- **内容区**：按**一级分类分区**展示。每个分区有标题、一句说明，以及**二级分类筛选 chip**；卡片按筛选结果实时过滤
-- **搜索**：跨项目名 / 简介 / 仓库 / 技术栈 / 分类 / 部署方式 / 协议全文匹配
+- **顶部导航**：协议说明 / 免责声明 / 提交项目 / GitHub 仓库
+- **Hero 区**：站点名 + 一句话介绍 + 实时统计（项目数 / 分类数 / 可下载数）
+- **近期热门**：按近 7 天 star 增量排的 Top 10，置顶项目优先，数据每日更新
+- **工具条（吸顶）**：一级分类导航（带项目数，滚动时自动高亮当前分区）+ 搜索框（按 `/` 聚焦）
+- **内容区**：按一级分类分区展示，每区有二级分类筛选 chip，默认只展示两行，剩余的收在「更多」卡片里
 
-每张卡片只有一个 **「去 GitHub」** 下载按钮，直达 GitHub 仓库（若数据里提供了 `download_url`，会优先跳到 Release 或归档直链）。本站是纯静态托管，不托管任何项目演示，所以没有演示按钮。
+## 分类体系
 
----
+固定 11 个一级分类：电商 / 游戏 / 社交 / 金融 / 教育 / 医疗 / 企业服务 / 内容媒体 / 工具 / 政务 / 其他。
 
-## 注意：本地预览不要直接双击 index.html
+每个一级分类下有若干二级分类（如「电商 → 无头电商 / 电商前端 / 平台商城」）。
 
-浏览器出于安全策略，**禁止 `file://` 页面用 fetch 读取同目录的 JSON**，所以直接双击打开会看到「数据没有加载出来」。这不是文件坏了，换一种方式打开即可：
+分类体系定义在 `app.js` 的 `TAXONOMY`，新增项目时 `category_slug` / `subcategory_slug` 必须与之一致，`tools/check-data.mjs` 会校验。
 
-```powershell
-# 方式一：Python（本机已装 3.13）
-cd C:\Users\personal\Desktop\opensource-market
-python -m http.server 8000
-# 然后浏览器访问 http://localhost:8000
-```
+## 新增一个项目
 
-```powershell
-# 方式二：Node
-npx serve .
-```
-
-方式三：VS Code 安装 **Live Server** 插件 → 右键 `index.html` → Open with Live Server。
-
----
-
-## 发布到 GitHub Pages
-
-1. 在 GitHub 新建仓库（例如 `opensource-market`），**不要**勾选自动创建 README。
-2. 在本目录执行：
-
-```powershell
-git remote add origin https://github.com/<你的用户名>/opensource-market.git
-git push -u origin main
-```
-
-3. 打开仓库 **Settings → Pages**：
-   - Source 选 **Deploy from a branch**
-   - Branch 选 **main**，目录选 **/ (root)**
-   - 点 **Save**
-4. 等 1~2 分钟，访问 `https://<你的用户名>.github.io/opensource-market/`。
-
-> 国内访问 `github.io` 可能不稳定，如果打不开可以绑定自定义域名，或者顺手部署一份到 Vercel / Netlify / Cloudflare Pages（整个文件夹拖上去就行）。
-
----
-
-## 分类体系（一级 / 二级）
-
-一级分类固定在下面 11 个，二级分类按需扩展。**分类的权威定义在 `app.js` 顶部的 `TAXONOMY`**，`tools/check-data.mjs` 里有一份同步副本用于校验。
-
-| 一级分类（slug） | 二级分类（slug） |
-| --- | --- |
-| 电商 `ecommerce` | 无头电商 `headless`、电商前端 `storefront`、平台商城 `platform` |
-| 游戏 `game` | 游戏引擎 `engine`、游戏客户端 `client` |
-| 社交 `social` | 微博客 `microblog`、即时通讯 `im`、论坛社区 `forum`、加密协作 `collab-suite`、日历与日程 `calendar` |
-| 金融 `finance` | 个人财务 `personal-finance`、投资管理 `investment`、记账核算 `accounting`、支付网关 `payment` |
-| 教育 `education` | 在线学习 `lms`、互动课程 `interactive`、实验与科研记录 `lab` |
-| 医疗 `medical` | 电子病历 `emr`、医疗影像 `imaging`、诊所与实验室 `practice` |
-| 企业服务 `enterprise` | 后台管理 `admin`、低代码平台 `low-code`、数据分析 `bi`、团队协作 `collaboration`、客户关系 `crm`、企业资源 `erp`、文档与知识库 `docs` |
-| 内容媒体 `media` | 建站与 CMS `cms`、影音媒体 `streaming`、电子书与阅读 `ebook`、播客与音频 `podcast` |
-| 工具 `tool` | 设计工具 `design`、笔记工具 `notes`、相册管理 `photos`、后端服务 `backend`、自动化 `automation`、运维监控 `monitoring`、开发工具 `devtools`、效率工具 `utility`、安全与密码 `security`、文件管理与网盘 `file`、运维部署 `devops`、稍后读与收藏 `readlater`、物联网 `iot`、媒体处理 `media-tool` |
-| 政务 `government` | 公众参与 `participation`、开放数据 `open-data` |
-| 其他 `other` | 智能家居 `smart-home`、私有同步 `sync`、系统工具 `system`、文档归档 `documents` |
-
-> 想加新分类：**三处同步**改——`app.js` 的 `TAXONOMY`、`tools/check-data.mjs` 的 `TAXONOMY`、`tools/merge-candidates.mjs` 的 `TAXONOMY`，再在 `projects.json` 里引用新 slug。
-> 完整分类体系与候选池统计见 [CATEGORY-GAPS.md](CATEGORY-GAPS.md)。
-
----
-
-## 图标系统（全部自绘，不用 emoji）
-
-页面里没有任何 emoji 字符，所有图形都是手绘的 **24×24 线性 SVG**，定义在 `index.html` 顶部的 `<svg class="icon-sprite">` 里，用 `<use href="#icon-xxx">` 引用：
-
-| 图标 id | 用途 |
-| --- | --- |
-| `icon-market` | 站点 Logo（集市摊位） |
-| `icon-cart` / `icon-gamepad` / `icon-chat` / `icon-money` / `icon-cap` / `icon-medical` / `icon-building` / `icon-media` / `icon-tool` / `icon-landmark` / `icon-grid` | 11 个一级分类图标（依次对应电商、游戏、社交、金融、教育、医疗、企业服务、内容媒体、工具、政务、其他） |
-| `icon-download` / `icon-external` | 卡片按钮：去 GitHub 下载 / 在线演示 |
-
-约定：
-
-- 统一 `viewBox="0 0 24 24"`、`stroke-width: 1.8`、圆角端点与连接
-- 颜色一律 `currentColor`，图标会跟随文字颜色（筛选按钮选中时自动变白）
-- 尺寸用 `font-size` 控制（`.icon` 宽高为 `1em`），不用为每个位置单独写尺寸
-- 新增图标：在精灵里加一个 `<symbol id="icon-xxx" viewBox="0 0 24 24">`，JS 里用 `iconMarkup("xxx")` 引用
-
-`favicon.svg` 是同一套摊位图形的独立文件版本，浏览器标签页图标也用它。
-
----
-
-## 如何新增一个开源项目
-
-打开 `projects.json`，在数组里追加一个对象（注意用英文逗号分隔，最后一项后面不要加逗号）：
+在 `projects.json` 数组里加一条：
 
 ```json
 {
-  "name": "项目名称",
-  "repo": "GitHub 用户名/仓库名",
+  "name": "项目名",
+  "repo": "owner/repo",
   "category": "工具",
   "category_slug": "tool",
   "subcategory": "开发工具",
   "subcategory_slug": "devtools",
-  "tech_stack": ["Vue 3", "TypeScript"],
-  "deploy_type": "Docker 部署",
-  "note_zh": "一两句话说清楚：它是什么、解决什么问题、适合谁用。",
-  "license": "MIT",
-  "download_url": ""
+  "tech_stack": ["TypeScript", "React"],
+  "deploy_type": "Docker",
+  "note_zh": "一句话简介，建议控制在 50 字以内",
+  "license": "MIT"
 }
 ```
 
-| 字段 | 必填 | 说明 |
-| --- | --- | --- |
-| `name` | 是 | 展示名称 |
-| `repo` | 是 | GitHub 仓库，格式 `owner/repo`，下载按钮默认跳这里 |
-| `category` | 是 | 一级分类中文名，必须与 `category_slug` 对应 |
-| `category_slug` | 是 | 一级分类英文 slug，见上表 |
-| `subcategory` | 建议 | 二级分类中文名，必须与 `subcategory_slug` 对应 |
-| `subcategory_slug` | 建议 | 二级分类英文 slug，见上表 |
-| `tech_stack` | 是 | 技术栈标签，字符串数组（卡片最多展示 4 个） |
-| `deploy_type` | 是 | 部署形态：前端源码 / Docker 部署 / 传统部署 / 二进制 等 |
-| `note_zh` | 是 | 中文简介，卡片正文 |
-| `license` | 是 | 开源协议，**请以仓库 LICENSE 文件为准** |
-| `download_url` | 否 | 想直接给 Release / 归档 zip 链接时填；留空或删除则跳仓库首页 |
+字段规范见 [DATA-FORMAT.md](DATA-FORMAT.md)。
 
-### 改完记得自检
+改完跑一下自检：
 
-```powershell
+```bash
 node tools/check-data.mjs
 ```
 
-它会检查 JSON 语法、必填字段、分类 slug 是否存在于分类体系、`owner/repo` 格式、是否有重复仓库，并打印各分类的项目数量。全部通过会输出 `[OK] 数据检查通过`。
+### 手动置顶
 
----
+想让某个项目排在分类最前面，加这几个字段：
 
-## 后续可以加的功能
-
-- 按 star 数排序（可配合 GitHub Action 定时抓取仓库 star / 更新时间）
-- 深色模式
-- 收藏 / 稍后看（存 localStorage）
-
----
-
-## 凭据安全（重要）
-
-推送代码需要的 GitHub token **绝对不要写进仓库里的任何文件**。本项目为此做了三层防护：
-
-### 1. `.gitignore` 已屏蔽
-
-```
-.git-credentials
-*git-credentials
-*.pem
-*.key
-.env
-.env.local
+```json
+{
+  "name": "项目名",
+  "pinned": true,
+  "pin_label": "推荐",
+  "pin_note": "推荐理由，鼠标悬停显示",
+  "pin_until": "2026-12-31"
+}
 ```
 
-### 2. 提交前自动拦截
+| 字段 | 说明 | 必填 |
+| --- | --- | --- |
+| `pinned` | 是否置顶 | ✅ |
+| `pin_label` | 徽章文字，默认「置顶」，最多 6 字 | ❌ |
+| `pin_note` | 推荐理由，最多 40 字 | ❌ |
+| `pin_until` | 到期日，过期自动失效 | 建议填 |
 
-`.githooks/pre-commit` 会扫描暂存区，发现 GitHub token、AWS Access Key、私钥头就**直接拒绝提交**。
+校验规则：**最多 5 个置顶**，`pin_label` / `pin_note` 有字数上限。超了 `check-data.mjs` 会直接报错。
 
-启用（每台机器只需一次）：
+### 候选池
 
-```powershell
+批量添加走候选池流程：
+
+```bash
+node tools/check-candidates.mjs     # 先自检
+node tools/merge-candidates.mjs     # 干跑，看会新增哪些
+node tools/merge-candidates.mjs --write
+```
+
+脚本按 `repo` 去重，写入前自动备份 `projects.json`。
+
+## 数据自动更新
+
+`.github/workflows/refresh-data.yml` 每天 UTC 03:17 自动执行：
+
+```
+抓取 star / 更新时间 → 写 meta.json + star 快照 → 生成 trending.json → 校验 → 有变化才提交
+```
+
+- API 额度来自 Actions 自带的 `GITHUB_TOKEN`（1000 次/小时，154 个项目绰绰有余）
+- 同一份流程可以手动触发：仓库 Actions 页面 → `刷新仓库数据` → `Run workflow`
+- 改了 `tools/fetch-repo-data.mjs`、`tools/build-trending.mjs` 或该工作流本身时，推送后也会自动跑一次
+
+### 热门榜怎么算的
+
+GitHub 没有查询「历史 star 数」的接口，`stargazers` 接口又有 400 页（4 万 star）上限，对头部项目直接失效。
+
+所以采用自建快照：每天把每个仓库的 star 存一条到 `data/stars-history.json`，保留 30 天，再对比算出「近 7 天增量」。**开始积累 2 天后上榜，满 7 天后窗口才完整。**
+
+## 图标系统
+
+全部图标为手绘 24×24 线性 SVG，放在 `index.html` 的 `<symbol>` 雪碧图里，描边颜色继承 `currentColor`，**不使用 emoji**。
+
+新增图标时加一个 `<symbol id="icon-xxx">`，用 `<svg class="icon"><use href="#icon-xxx"></use></svg>` 引用。
+
+## 安全
+
+`.githooks/pre-commit` 会拦截提交中的 token、私钥、AKIA 开头的 AWS 密钥。启用方式：
+
+```bash
 git config core.hooksPath .githooks
 ```
 
-### 3. 凭据存在系统凭据管理器
-
-```powershell
-git config credential.helper wincred
-```
-
-token 会存进 Windows 凭据管理器，不会在磁盘上留明文文件。首次 `git push` 时输入一次用户名和 token，之后自动复用。
-
-> 如果之前存过明文文件 `~/.git-credentials`，可以删掉：
-> `Remove-Item "$env:USERPROFILE\.git-credentials" -Force`
-
-### 万一还是提交了 token
-
-1. **立刻去 GitHub 撤销该 token**（Settings → Developer settings → Personal access tokens）
-2. 从历史中清除：
-   ```powershell
-   git filter-branch --force --index-filter "git rm --cached --ignore-unmatch <文件路径>" --prune-empty -- --all
-   git for-each-ref --format='delete %(refname)' refs/original | git update-ref --stdin
-   git reflog expire --expire=now --all && git gc --prune=now --aggressive
-   git push --force origin main
-   ```
-3. 如果推送时被 GitHub 的 Push Protection 拦截，**不要**谎报成 false positive，应选择「I'll fix it later」并按要求撤销 token。
-
----
-
-## 刷新 star / 更新时间（API 配额）
-
-`projects.json` 里的 `stars`、`updated_at`、`download_url` 由脚本抓取写入：
-
-```powershell
-node tools/fetch-repo-data.mjs               # 只补缺失的
-node tools/fetch-repo-data.mjs --all         # 全部重抓
-node tools/fetch-repo-data.mjs --playwright  # 强制用浏览器抓（不消耗 API 额度）
-```
-
-脚本自动选择方式：**有 token 走 REST API，没有则退回 Playwright 打开网页解析**。
-
-### GitHub API 配额对照
-
-| 认证方式 | 额度 | 计算维度 |
-| --- | --- | --- |
-| 不带 token | 60 次/小时 | 按出口 IP |
-| Actions 自带 `GITHUB_TOKEN` | 1000 次/小时 | 按仓库 |
-| 个人访问令牌 PAT | 5000 次/小时 | 按账号 |
-
-57 个项目刷新一次只消耗 57 次请求，所以 **Actions 自带的 token 就够用**，不必额外生成 PAT。
-
-### 本地怎么配 token
-
-脚本按优先级读取：`GITHUB_TOKEN` 环境变量 → `GH_TOKEN` 环境变量 → 本地 git 凭据。
-
-```powershell
-# 方式一：临时环境变量
-$env:GITHUB_TOKEN = "github_pat_xxxxx"
-node tools/fetch-repo-data.mjs
-
-# 方式二：什么都不用配
-# 用 wincred 存过推送凭据的话，脚本会通过 git credential fill 自动取到
-node tools/fetch-repo-data.mjs
-```
-
-### Actions 里怎么配
-
-不需要手工建 Secret —— `secrets.GITHUB_TOKEN` 由 GitHub 自动注入，传成环境变量即可：
-
-```yaml
-- name: 抓取 star / 更新时间
-  env:
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  run: node tools/fetch-repo-data.mjs
-```
-
-> 只有需要访问其他私有仓库时，才要在
-> **仓库 Settings → Secrets and variables → Actions → New repository secret** 自建一个，
-> 然后在 YAML 里写 `GITHUB_TOKEN: ${{ secrets.你的名字 }}`。
-> **绝不要把 token 明文写进 `app.js`、`projects.json` 或任何被提交的文件**——提交钩子会直接拦下。
-
-### token 需要什么权限
-
-| 用途 | 权限 |
-| --- | --- |
-| 读公开仓库的 star / 时间 | 无额外权限；细粒度令牌选 **Public repositories (read-only)** |
-| 推送代码 | **Contents: Read and write** |
-| 推送 `.github/workflows/` 下的文件 | 再加 **Workflows: Read and write** |
-
----
-
-## 网络不稳定时怎么推送
-
-国内访问 GitHub 各域名走的线路不一样，**站点能打开不代表能推送**：
-
-| 域名 | 用途 | 国内稳定性 |
-| --- | --- | --- |
-| `github.io` | 站点访问（Pages / Fastly CDN） | 通常较稳 |
-| `github.com` | 网页、**git push** | 时好时坏（DNS 污染 / TCP 重置） |
-| `api.github.com` | 接口 | 一般 |
-| `codeload.github.com` | 源码 zip 下载 | 一般 |
-| `raw.githubusercontent.com` | 原始文件 | 经常不通 |
-
-推送失败通常长这样，都是网络问题，跟代码无关：
-
-```
-Failed to connect to github.com port 443 after 21072 ms
-Connection was reset
-```
-
-### 办法一：用带重试的脚本（推荐）
-
-```powershell
-.\tools\push.ps1              # 自动重试 6 次，间隔逐次拉长
-.\tools\push.ps1 -Force       # 改写历史后用（内部是 --force-with-lease）
-.\tools\push.ps1 -Retries 10  # 自定义重试次数
-```
-
-认证失败、被仓库规则拒绝这类错误它不会傻等，会直接停下并提示。
-
-### 办法二：改走 SSH 的 443 端口
-
-有些网络封了 22 端口但放行 443，可以试：
-
-```powershell
-# ~/.ssh/config 里加：
-Host github.com
-  HostName ssh.github.com
-  Port 443
-  User git
-```
-
-然后 `git remote set-url origin git@github.com:Daninelli/opensource-market.git`。
-
-### 办法三：走代理
-
-如果你本机有代理（如 `127.0.0.1:7890`）：
-
-```powershell
-git config --global http.proxy http://127.0.0.1:7890
-git config --global https.proxy http://127.0.0.1:7890
-# 取消：
-git config --global --unset http.proxy
-```
-
-### 重要：本地提交不受网络影响
-
-`git add` / `git commit` 全在本地，断网也能做。**只有 `git push` 需要网络**。所以网络不好时照常改、照常提交，等网络恢复了一次性推上去即可。
-
----
+`.gitignore` 已屏蔽 `.git-credentials`、`*.pem`、`*.key`、`.env` 等。
 
 ## 免责说明
 
-本项目仅做索引与展示，收录项目的代码、文档、商标均归各自作者所有；商用或二次分发前请自行确认对应开源协议的约束（尤其是 AGPL / GPL / LGPL / MPL / BSL / Sustainable Use License）。
+本站是纯静态页面，只做收录与跳转，**不托管、不存储、不分发**任何第三方项目的代码或安装包。所有下载均跳转至 GitHub / Gitee 官方服务器。
+
+收录项目的代码、商标与文档均归原作者与权利人所有，二次分发或商用前请先阅读对应的开源协议（见 [licenses.html](licenses.html) 与 [disclaimer.html](disclaimer.html)）。
