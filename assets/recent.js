@@ -26,6 +26,18 @@
         return n < 10 ? "0" + n : String(n);
     }
 
+    /** 投稿人：带头像与主页链接；早期收录的项目没有这个字段 */
+    function renderContributor(login) {
+        if (!login) return '<span class="c-by-none">—</span>';
+        return (
+            '<a class="c-by-link" href="https://github.com/' + escapeHtml(login) +
+            '" target="_blank" rel="noopener noreferrer">' +
+            '<img class="c-by-avatar" src="https://github.com/' + escapeHtml(login) +
+            '.png?size=40" alt="" loading="lazy" width="16" height="16">' +
+            "@" + escapeHtml(login) + "</a>"
+        );
+    }
+
     function formatAdded(iso) {
         var d = new Date(iso);
         if (isNaN(d.getTime())) return "—";
@@ -71,6 +83,7 @@
                         : "") +
                     "</span>" +
                     '<span class="c-cat">' + escapeHtml(item.category) + "</span>" +
+                    '<span class="c-by">' + renderContributor(item.submitted_by) + "</span>" +
                     '<span class="c-lic">' + escapeHtml(item.license || "—") + "</span>" +
                     '<span class="c-star">' + icon("star") + formatCount(item.stars) + "</span>" +
                     '<span class="c-act">' + download + "</span>" +

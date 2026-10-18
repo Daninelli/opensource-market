@@ -1,0 +1,35 @@
+name: 投稿自动收录
+
+# 有人提交「收录开源项目」Issue 时自动运行：
+#   解析表单 → 拉 GitHub 数据 → 校验 → 改 projects.json → 开 PR
+# 维护者只需看 diff 并合并，无需手动编辑 JSON。
+on:
+  issues:
+    types: [opened, reopened, labeled]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  collect:
+    # 只处理投稿表单生成的 Issue
+    if: github.event_name == 'issues' && contains(github.event.issue.labels.*.name, '收录')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: 生成收录 PR
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          node tools/collect-submission.mjs "$ISSUE_NUMBER"

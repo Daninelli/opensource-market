@@ -43,7 +43,9 @@ const items = projects
         stars: typeof project.stars === "number" ? project.stars : null,
         updated_at: project.updated_at || null,
         download_url: project.download_url || null,
-        platform: project.platform || "github"
+        platform: project.platform || "github",
+        // 贡献者：来自投稿 Issue 的作者；早期收录的项目没有这个字段
+        submitted_by: project.submitted_by || null
     }));
 
 const output = {

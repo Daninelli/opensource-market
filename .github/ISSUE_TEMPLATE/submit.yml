@@ -1,0 +1,154 @@
+# 三个字段都是「客观事实」，Action 自己去 GitHub 拉，不让投稿人填
+name: 收录开源项目
+description: 提交后会自动校验并创建收录 PR，作者无需填写 star、更新时间、协议等可自动获取的信息
+title: "[收录] "
+labels: ["待审核"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        提交后会自动从 GitHub 拉取 star 数、最近更新时间、协议与 Release 信息，
+        并创建收录 PR。**你只需要填写下面四项。**
+
+  - type: input
+    id: name
+    attributes:
+      label: 项目名称
+      description: 上游仓库的显示名，例如 `NocoDB`
+      placeholder: NocoDB
+    validations:
+      required: true
+      length: { min: 1, max: 60 }
+
+  - type: input
+    id: repo
+    attributes:
+      label: 仓库地址
+      description: owner/repo 格式，必须是公开可访问的仓库
+      placeholder: nocodb/nocodb
+    validations:
+      required: true
+      pattern: '^[\w.-]+\/[\w.-]+$'
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: 所属一级分类
+      description: 选中文名即可，slug 由系统自动转换
+      options:
+        - 电商
+        - 游戏
+        - 社交
+        - 金融
+        - 教育
+        - 医疗
+        - 企业服务
+        - 内容媒体
+        - 工具
+        - 政务
+        - 其他
+    validations:
+      required: true
+
+  - type: dropdown
+    id: subcategory
+    attributes:
+      label: 所属二级分类
+      description: 如果没有合适的，可以留空，审核时再补
+      options:
+        - （暂不确定 / 留空）
+        - 无头电商
+        - 电商前端
+        - 平台商城
+        - 游戏引擎
+        - 游戏客户端
+        - 微博客
+        - 即时通讯
+        - 论坛社区
+        - 加密协作
+        - 日历与日程
+        - 个人财务
+        - 投资管理
+        - 记账核算
+        - 支付网关
+        - 在线学习
+        - 互动课程
+        - 实验与科研记录
+        - 电子病历
+        - 医疗影像
+        - 诊所与实验室
+        - 后台管理
+        - 低代码平台
+        - 数据分析
+        - 团队协作
+        - 客户关系
+        - 企业资源
+        - 文档与知识库
+        - 建站与 CMS
+        - 影音媒体
+        - 电子书与阅读
+        - 播客与音频
+        - 设计工具
+        - 笔记工具
+        - 相册管理
+        - 后端服务
+        - 自动化
+        - 运维监控
+        - 开发工具
+        - 效率工具
+        - 安全与密码
+        - 文件管理与网盘
+        - 运维部署
+        - 稍后读与收藏
+        - 物联网
+        - 媒体处理
+        - 公众参与
+        - 开放数据
+        - 智能家居
+        - 私有同步
+        - 系统工具
+        - 文档归档
+    validations:
+      required: false
+
+  - type: textarea
+    id: note
+    attributes:
+      label: 一句话简介
+      description: 你自己的话，**不要复制上游 README 原文**。控制在 50 字以内，卡片上会显示两行。
+      placeholder: 开源版 Airtable，搭建内部工具最快的一档
+    validations:
+      required: true
+      length: { min: 4, max: 50 }
+
+  - type: input
+    id: tech
+    attributes:
+      label: 技术标签
+      description: 逗号分隔，最多 5 个，例如 `React, TypeScript, PostgreSQL`
+      placeholder: React, TypeScript, PostgreSQL
+    validations:
+      required: false
+      length: { max: 100 }
+
+  - type: dropdown
+    id: relation
+    attributes:
+      label: 你与该项目的关系
+      description: 用于判断投稿质量，请如实选择
+      options:
+        - 我是作者或维护者
+        - 我在生产环境使用
+        - 我用过，觉得值得推荐
+        - 看到觉得不错
+    validations:
+      required: true
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: 其他补充（可选）
+      description: 例如是否有 Gitee 镜像、为什么推荐、已知问题等
+    validations:
+      required: false
+      length: { max: 300 }

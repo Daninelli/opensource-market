@@ -1122,9 +1122,9 @@
         }
         .recent-row {
             display: grid;
-            grid-template-columns: 132px minmax(0, 1fr) 104px 132px 84px 92px;
+            grid-template-columns: 128px minmax(0, 1fr) 96px 118px 116px 76px 84px;
             align-items: center;
-            gap: 12px;
+            gap: 10px;
             padding: 11px 18px;
             font-size: 13px;
         }
@@ -1171,6 +1171,29 @@
             white-space: nowrap;
         }
         .c-cat { color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+        /* 贡献者：投稿 Issue 的作者 */
+        .c-by { min-width: 0; }
+        .c-by-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            color: var(--muted);
+            font-size: 12.5px;
+            text-decoration: none;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .c-by-link:hover { color: var(--brand); }
+        .c-by-avatar {
+            width: 16px;
+            height: 16px;
+            border-radius: 50%;
+            flex: none;
+            background: #e5e7eb;
+        }
+        .c-by-none { color: var(--faint); }
         .c-lic {
             color: var(--muted);
             font-size: 12px;
@@ -1387,7 +1410,7 @@
                 grid-template-areas:
                     "name star"
                     "time cat"
-                    "dl   dl";
+                    "by   dl";
                 gap: 4px 10px;
                 background: var(--surface);
                 border: 1px solid var(--border);
@@ -1400,9 +1423,10 @@
             .c-star { grid-area: star; justify-self: end; }
             .c-time { grid-area: time; }
             .c-cat { grid-area: cat; justify-self: end; }
+            .c-by { grid-area: by; margin-top: 2px; }
             .c-lic { display: none; }
-            .c-act { grid-area: dl; margin-top: 6px; }
-            .recent-dl { width: 100%; }
+            .c-act { grid-area: dl; justify-self: end; margin-top: 2px; }
+            .recent-dl { min-width: 96px; }
             /* 顶部导航：窄屏收紧，GitHub 只留图标 */
             .topnav-inner { padding: 8px 14px; gap: 10px; }
             .topnav-name { font-size: 14px; }
