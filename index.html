@@ -80,7 +80,9 @@
             font-size: 15px;
             line-height: 1.7;
             color: var(--muted);
+            text-wrap: balance;       /* 让换行更均匀，避免最后一行只剩一两个字 */
         }
+        .tagline-short { display: none; }
 
         .stats {
             list-style: none;
@@ -428,7 +430,10 @@
         }
         .repo-stars .icon { font-size: 11px; color: #e0a30a; }
 
-        /* 简介：两行截断，悬停可看全文 */
+        /* 简介：固定两行；超出时右下角出现「更多」，点开展开全文 */
+        .desc-wrap {
+            position: relative;
+        }
         .desc {
             margin: 0;
             font-size: 13px;
@@ -439,6 +444,27 @@
             -webkit-line-clamp: 2;
             -webkit-box-orient: vertical;
             overflow: hidden;
+        }
+        .desc-more {
+            display: inline-block;
+            margin: 2px 0 0;
+            padding: 0;
+            border: 0;
+            background: none;
+            font: inherit;
+            font-size: 11.5px;
+            line-height: 16px;
+            color: var(--brand);
+            cursor: pointer;
+        }
+        .desc-more:hover { text-decoration: underline; }
+        .desc-more[hidden] { display: none; }
+        /* 展开后：取消截断，显示全文 */
+        .desc-wrap.is-open .desc {
+            height: auto;
+            display: block;
+            -webkit-line-clamp: unset;
+            overflow: visible;
         }
 
         /* 标签：默认最多两行，超出的由脚本收进 +N，点击弹出浮层 */
@@ -806,12 +832,11 @@
             .stats { gap: 8px 18px; }
             /* 手机上空间不够时允许换行 */
             .card-foot { flex-wrap: wrap; }
-            .desc {
-                height: auto;
-                -webkit-line-clamp: 3;
-                line-height: 1.6;
-            }
-            .tags { height: auto; flex-wrap: wrap; }
+            /* 窄屏用短版标语，避免最后一行只剩一两个字 */
+            .tagline-full { display: none; }
+            .tagline-short { display: inline; }
+            .hero .tagline { font-size: 14px; max-width: 320px; }
+            .tags { flex-wrap: wrap; }
             .repo-row { min-height: 0; }
         }
     </style>
@@ -926,7 +951,10 @@
                 <svg class="icon"><use href="#icon-market"></use></svg>
             </span>
             <h1>开源集市</h1>
-            <p class="tagline">按分类整理的开源成品应用，能直接用，也能直接二次开发。支持 GitHub 与 Gitee 双源，点按钮直达下载。</p>
+            <p class="tagline">
+                <span class="tagline-full">按分类整理的开源成品应用，能直接用，也能直接二次开发。支持 GitHub 与 Gitee 双源，点按钮直达下载。</span>
+                <span class="tagline-short">按分类整理的开源成品应用<br>支持 GitHub 与 Gitee 双源下载</span>
+            </p>
             <ul class="stats">
                 <li><b id="stat-projects">–</b><span>个开源项目</span></li>
                 <li><b id="stat-primary">–</b><span>个一级分类</span></li>
@@ -961,6 +989,6 @@
         <p class="error">这个页面需要启用 JavaScript 才能渲染项目卡片。</p>
     </noscript>
 
-    <script src="app.js?v=20261018g"></script>
+    <script src="app.js?v=20261018h"></script>
 </body>
 </html>

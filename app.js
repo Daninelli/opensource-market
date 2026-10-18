@@ -450,9 +450,38 @@
             projects.slice(visible.length).forEach(function (project) {
                 grid.appendChild(buildCard(project, primary));
             });
+            applyDescOverflow();
             applyTagOverflow();
         });
         grid.appendChild(more);
+
+        applyDescOverflow();
+    }
+
+    /** 简介超过两行时显示「更多」，点击展开全文 / 收起 */
+    function applyDescOverflow() {
+        Array.prototype.forEach.call(document.querySelectorAll(".card .desc-wrap"), function (wrap) {
+            if (wrap.getAttribute("data-bound")) return;
+
+            var desc = wrap.querySelector(".desc");
+            var more = wrap.querySelector(".desc-more");
+            if (!desc || !more) return;
+
+            wrap.setAttribute("data-bound", "1");
+
+            // 没超出两行就不显示按钮
+            if (desc.scrollHeight <= desc.clientHeight + 1) {
+                more.hidden = true;
+                return;
+            }
+
+            more.hidden = false;
+            more.addEventListener("click", function (event) {
+                event.stopPropagation();
+                var open = wrap.classList.toggle("is-open");
+                more.textContent = open ? "收起" : "更多";
+            });
+        });
     }
 
     /** 标签超过两行时，把多出来的收进 +N，点击 +N 弹出浮层 */
@@ -783,9 +812,12 @@
             "</div>" +
             // 仓库行（1~2 个平台）
             '<div class="repo-row">' + repoRow + "</div>" +
-            // 简介：两行，超出省略，悬停看全文
+            // 简介：固定两行，超出时出现「更多」可展开
+            '<div class="desc-wrap">' +
             '<p class="desc" title="' + escapeHtml(project.note_zh || "") + '">' +
             escapeHtml(project.note_zh || "暂无简介") + "</p>" +
+            '<button type="button" class="desc-more" hidden>更多</button>' +
+            "</div>" +
             // 版本 + 更新时间
             '<div class="stats-row">' + stats + "</div>" +
             // 标签
