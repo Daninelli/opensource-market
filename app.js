@@ -175,6 +175,7 @@
                 bindSearch();
                 bindPickerDismiss();
                 bindNavJump();
+                initToTop();
                 renderAll();
                 renderTrending();
                 initScrollSpy();
@@ -189,6 +190,64 @@
                 els.status.hidden = true;
                 if (els.nav) els.nav.innerHTML = "";
             });
+    }
+
+    /* ------------------------------ 回到顶部 ------------------------------ */
+
+    /**
+     * 滚动超过一屏后显示「回到顶部」按钮。
+     * 用 IntersectionObserver 监听顶部哨兵，比监听 scroll 事件省性能。
+     */
+    function initToTop() {
+        var button = document.getElementById("to-top");
+        if (!button) return;
+
+        var sentinel = document.createElement("div");
+        sentinel.className = "top-sentinel";
+        sentinel.setAttribute("aria-hidden", "true");
+        document.body.insertBefore(sentinel, document.body.firstChild);
+
+        function setVisible(visible) {
+            if (visible) {
+                button.classList.add("is-visible");
+            } else {
+                button.classList.remove("is-visible");
+            }
+        }
+
+        if (typeof IntersectionObserver === "function") {
+            var observer = new IntersectionObserver(
+                function (entries) {
+                    // 哨兵看不见了 = 已经滚下去一屏
+                    setVisible(!entries[0].isIntersecting);
+                },
+                { rootMargin: "0px", threshold: 0 }
+            );
+            observer.observe(sentinel);
+        } else {
+            // 兜底：老浏览器用 scroll 事件
+            window.addEventListener(
+                "scroll",
+                function () {
+                    setVisible(window.pageYOffset > window.innerHeight);
+                },
+                { passive: true }
+            );
+        }
+
+        button.addEventListener("click", function () {
+            var reduced =
+                window.matchMedia &&
+                window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+            window.scrollTo({
+                top: 0,
+                behavior: reduced ? "auto" : "smooth"
+            });
+
+            // 键盘/读屏用户点击后把焦点交回页面顶部搜索框，避免焦点留在按钮上
+            if (els.search) els.search.focus({ preventScroll: true });
+        });
     }
 
     /* ------------------------------ 搜索 ------------------------------ */

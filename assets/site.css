@@ -1104,6 +1104,65 @@
         .hot-item.is-pinned { background: linear-gradient(90deg, rgba(236,253,245,.7), transparent 60%); }
         .hot-item.is-pinned:hover { background: linear-gradient(90deg, rgba(236,253,245,.9), transparent 60%); }
 
+        /* ------------------------------ 回到顶部 ------------------------------ */
+        /* 哨兵：放在页面最顶部，用来判断是否已滚过一屏，本身不占空间 */
+        .top-sentinel {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 1px;
+            height: 1px;
+            pointer-events: none;
+            opacity: 0;
+        }
+        .to-top {
+            position: fixed;
+            right: 26px;
+            bottom: 26px;
+            z-index: 40;
+            width: 44px;
+            height: 44px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            border: 1px solid var(--border);
+            background: rgba(255, 255, 255, .92);
+            -webkit-backdrop-filter: blur(8px);
+            backdrop-filter: blur(8px);
+            box-shadow: 0 4px 16px rgba(15, 23, 42, .1);
+            color: var(--ink-soft);
+            cursor: pointer;
+            /* 默认隐藏：透明 + 下移 + 不可点 */
+            opacity: 0;
+            visibility: hidden;
+            transform: translateY(10px);
+            transition: opacity .22s ease, transform .22s ease, visibility .22s, box-shadow .18s ease;
+        }
+        .to-top .icon { font-size: 18px; }
+        .to-top:hover {
+            color: var(--brand);
+            border-color: var(--brand);
+            box-shadow: 0 6px 20px rgba(15, 23, 42, .16);
+        }
+        .to-top:active { transform: translateY(1px) scale(.96); }
+        .to-top.is-visible {
+            opacity: 1;
+            visibility: visible;
+            transform: translateY(0);
+        }
+        /* 键盘焦点时也要可见 */
+        .to-top:focus-visible { opacity: 1; visibility: visible; transform: translateY(0); outline: 2px solid var(--brand); outline-offset: 2px; }
+
+        @media (max-width: 640px) {
+            .to-top { right: 14px; bottom: 16px; width: 40px; height: 40px; }
+        }
+
+        /* 尊重「减少动效」偏好 */
+        @media (prefers-reduced-motion: reduce) {
+            .to-top { transition: none; }
+        }
+
         /* ------------------------------ 最近收录页 ------------------------------ */
         .recent-wrap {
             max-width: var(--max-width);
