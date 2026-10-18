@@ -14,9 +14,10 @@
     "deploy_type": "后端服务 + 前端",
     "note_zh": "模块化的开源电商后端，商品、订单、支付、库存都有完整 API，可搭配任意前端做无头商城。",
     "license": "MIT",
-    "default_branch": "master",
-    "download_url": "https://codeload.github.com/medusajs/medusa/zip/refs/heads/master",
-    "stars": 36780
+    "default_branch": "develop",
+    "download_url": "https://codeload.github.com/medusajs/medusa/zip/refs/heads/develop",
+    "stars": 36785,
+    "updated_at": "2026-10-17T10:23:09Z"
   },
   {
     "name": "Saleor",
@@ -50,7 +51,8 @@
           "downloads": 303
         }
       ]
-    }
+    },
+    "updated_at": "2026-10-16T14:04:06Z"
   },
   {
     "name": "Sylius",
@@ -66,9 +68,10 @@
     "deploy_type": "Docker 部署",
     "note_zh": "Symfony 生态里的无头电商框架，组件化设计、测试覆盖好，适合需要深度定制业务流程的电商项目。",
     "license": "MIT",
-    "default_branch": "master",
-    "download_url": "https://codeload.github.com/Sylius/Sylius/zip/refs/heads/master",
-    "stars": 8559
+    "default_branch": "2.3",
+    "download_url": "https://codeload.github.com/Sylius/Sylius/zip/refs/heads/2.3",
+    "stars": 8560,
+    "updated_at": "2026-10-18T02:11:27Z"
   },
   {
     "name": "Next.js Commerce",
@@ -87,7 +90,8 @@
     "license": "MIT",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/vercel/commerce/zip/refs/heads/main",
-    "stars": 14309
+    "stars": 14310,
+    "updated_at": "2026-10-06T19:42:41Z"
   },
   {
     "name": "Bagisto",
@@ -104,9 +108,10 @@
     "deploy_type": "传统部署 / Docker",
     "note_zh": "基于 Laravel 的开源电商与多商户市场系统，自带前后台、多语言和多币种，适合中小商家自建商城。",
     "license": "MIT",
-    "default_branch": "master",
-    "download_url": "https://codeload.github.com/bagisto/bagisto/zip/refs/heads/master",
-    "stars": 28246
+    "default_branch": "2.5",
+    "download_url": "https://codeload.github.com/bagisto/bagisto/zip/refs/heads/2.5",
+    "stars": 28249,
+    "updated_at": "2026-10-16T16:08:11Z"
   },
   {
     "name": "Godot Engine",
@@ -124,7 +129,7 @@
     "license": "MIT",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/godotengine/godot/zip/refs/heads/master",
-    "stars": 118552,
+    "stars": 118581,
     "release": {
       "tag": "4.7.2-stable",
       "name": "4.7.2-stable",
@@ -410,7 +415,8 @@
         "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_export_templates.tpz",
         "platform": "其他平台"
       }
-    ]
+    ],
+    "updated_at": "2026-10-16T16:38:08Z"
   },
   {
     "name": "Luanti（原 Minetest）",
@@ -528,7 +534,8 @@
         "url": "https://github.com/luanti-org/luanti/releases/download/5.17.0/luanti-5.17.0-arm64-v8a.apk",
         "platform": "Android"
       }
-    ]
+    ],
+    "updated_at": "2026-10-17T17:13:53Z"
   },
   {
     "name": "OpenRA",
@@ -546,7 +553,7 @@
     "license": "GPL-3.0",
     "default_branch": "bleed",
     "download_url": "https://codeload.github.com/OpenRA/OpenRA/zip/refs/heads/bleed",
-    "stars": 17581,
+    "stars": 17583,
     "release": {
       "tag": "release-20250330",
       "name": "release-20250330",
@@ -658,7 +665,8 @@
         "url": "https://github.com/OpenRA/OpenRA/releases/download/release-20250330/OpenRA-Dune-2000-x86_64.AppImage",
         "platform": "Linux"
       }
-    ]
+    ],
+    "updated_at": "2026-10-11T14:29:17Z"
   },
   {
     "name": "Mastodon",
@@ -676,7 +684,8 @@
     "license": "AGPL-3.0",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/mastodon/mastodon/zip/refs/heads/main",
-    "stars": 50413
+    "stars": 50414,
+    "updated_at": "2026-10-17T20:25:15Z"
   },
   {
     "name": "Element Web",
@@ -693,9 +702,9 @@
     "deploy_type": "前端源码",
     "note_zh": "Matrix 协议的官方 Web 客户端，可对接自建 homeserver，用来做团队即时通讯和端到端加密聊天。",
     "license": "AGPL-3.0",
-    "default_branch": "master",
-    "download_url": "https://codeload.github.com/element-hq/element-web/zip/refs/heads/master",
-    "stars": 13585,
+    "default_branch": "develop",
+    "download_url": "https://codeload.github.com/element-hq/element-web/zip/refs/heads/develop",
+    "stars": 13589,
     "release": {
       "tag": "v1.12.32",
       "name": "v1.12.32",
@@ -729,7 +738,8 @@
         "url": "https://github.com/element-hq/element-web/releases/download/v1.12.32/element-v1.12.32.tar.gz",
         "platform": "通用"
       }
-    ]
+    ],
+    "updated_at": "2026-10-17T12:48:57Z"
   },
   {
     "name": "Discourse",
@@ -747,7 +757,8 @@
     "license": "GPL-2.0",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/discourse/discourse/zip/refs/heads/main",
-    "stars": 47988
+    "stars": 47989,
+    "updated_at": "2026-10-18T02:19:16Z"
   },
   {
     "name": "Firefly III",
@@ -766,7 +777,7 @@
     "license": "AGPL-3.0",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/firefly-iii/firefly-iii/zip/refs/heads/main",
-    "stars": 24917,
+    "stars": 24922,
     "release": {
       "tag": "v6.7.9",
       "name": "v6.7.9",
@@ -830,7 +841,8 @@
         "url": "https://github.com/firefly-iii/firefly-iii/releases/download/v6.7.9/FireflyIII-v6.7.9.zip",
         "platform": "通用"
       }
-    ]
+    ],
+    "updated_at": "2026-10-18T03:47:43Z"
   },
   {
     "name": "Actual Budget",
@@ -848,7 +860,7 @@
     "license": "MIT",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/actualbudget/actual/zip/refs/heads/master",
-    "stars": 29573,
+    "stars": 29579,
     "release": {
       "tag": "v26.10.0",
       "name": "v26.10.0",
@@ -960,7 +972,8 @@
         "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-linux-arm64.AppImage",
         "platform": "Linux"
       }
-    ]
+    ],
+    "updated_at": "2026-10-18T00:19:56Z"
   },
   {
     "name": "Ghostfolio",
@@ -979,7 +992,8 @@
     "license": "AGPL-3.0",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/ghostfolio/ghostfolio/zip/refs/heads/main",
-    "stars": 9496
+    "stars": 9507,
+    "updated_at": "2026-10-17T19:02:24Z"
   },
   {
     "name": "Moodle",
@@ -997,7 +1011,8 @@
     "license": "GPL-3.0",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/moodle/moodle/zip/refs/heads/main",
-    "stars": 7489
+    "stars": 7491,
+    "updated_at": "2026-10-13T12:07:26Z"
   },
   {
     "name": "Oppia",
@@ -1015,7 +1030,8 @@
     "license": "Apache-2.0",
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/oppia/oppia/zip/refs/heads/develop",
-    "stars": 6865
+    "stars": 6865,
+    "updated_at": "2026-10-16T22:11:15Z"
   },
   {
     "name": "OpenEMR",
@@ -1033,7 +1049,7 @@
     "license": "GPL-3.0",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/openemr/openemr/zip/refs/heads/master",
-    "stars": 5530,
+    "stars": 5531,
     "release": {
       "tag": "v8_4_1",
       "name": "OpenEMR 8.4.1",
@@ -1109,7 +1125,8 @@
         "url": "https://github.com/openemr/openemr/releases/download/v8_4_1/openemr-8.4.1.zip",
         "platform": "通用"
       }
-    ]
+    ],
+    "updated_at": "2026-10-18T03:34:07Z"
   },
   {
     "name": "Vue Vben Admin",
@@ -1129,7 +1146,8 @@
     "license": "MIT",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/vbenjs/vue-vben-admin/zip/refs/heads/main",
-    "stars": 33623
+    "stars": 33625,
+    "updated_at": "2026-10-16T19:45:21Z"
   },
   {
     "name": "Vue Pure Admin",
@@ -1149,7 +1167,8 @@
     "license": "MIT",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/pure-admin/vue-pure-admin/zip/refs/heads/main",
-    "stars": 20697
+    "stars": 20697,
+    "updated_at": "2026-10-12T06:10:23Z"
   },
   {
     "name": "Ant Design Pro",
@@ -1169,7 +1188,8 @@
     "license": "MIT",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/ant-design/ant-design-pro/zip/refs/heads/master",
-    "stars": 38862
+    "stars": 38863,
+    "updated_at": "2026-10-15T01:57:02Z"
   },
   {
     "name": "Appsmith",
@@ -1186,9 +1206,10 @@
     "deploy_type": "Docker 部署",
     "note_zh": "可视化搭建内部工具和后台面板，拖拽组件连接 25+ 数据库和任意 API，适合快速交付管理后台。",
     "license": "Apache-2.0",
-    "default_branch": "master",
-    "download_url": "https://codeload.github.com/appsmithorg/appsmith/zip/refs/heads/master",
-    "stars": 41077
+    "default_branch": "release",
+    "download_url": "https://codeload.github.com/appsmithorg/appsmith/zip/refs/heads/release",
+    "stars": 41081,
+    "updated_at": "2026-10-16T15:24:38Z"
   },
   {
     "name": "ToolJet",
@@ -1207,7 +1228,8 @@
     "license": "AGPL-3.0",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/ToolJet/ToolJet/zip/refs/heads/main",
-    "stars": 41103
+    "stars": 41104,
+    "updated_at": "2026-10-18T03:25:57Z"
   },
   {
     "name": "NocoDB",
@@ -1224,9 +1246,10 @@
     "deploy_type": "Docker 部署",
     "note_zh": "开源的 Airtable 替代品，能把任何数据库变成智能表格，适合团队协作和低代码数据管理。",
     "license": "AGPL-3.0",
-    "default_branch": "master",
-    "download_url": "https://codeload.github.com/nocodb/nocodb/zip/refs/heads/master",
-    "stars": 65291
+    "default_branch": "develop",
+    "download_url": "https://codeload.github.com/nocodb/nocodb/zip/refs/heads/develop",
+    "stars": 65294,
+    "updated_at": "2026-10-18T02:08:26Z"
   },
   {
     "name": "Metabase",
@@ -1245,7 +1268,8 @@
     "license": "AGPL-3.0",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/metabase/metabase/zip/refs/heads/master",
-    "stars": 49712
+    "stars": 49719,
+    "updated_at": "2026-10-18T03:52:18Z"
   },
   {
     "name": "Apache Superset",
@@ -1264,7 +1288,8 @@
     "license": "Apache-2.0",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/apache/superset/zip/refs/heads/master",
-    "stars": 75185
+    "stars": 75196,
+    "updated_at": "2026-10-18T01:37:43Z"
   },
   {
     "name": "Grafana",
@@ -1283,7 +1308,7 @@
     "license": "AGPL-3.0",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/grafana/grafana/zip/refs/heads/main",
-    "stars": 77332,
+    "stars": 77342,
     "release": {
       "tag": "v13.2.4",
       "name": "13.2.4",
@@ -1383,7 +1408,8 @@
         "url": "https://github.com/grafana/grafana/releases/download/v13.2.4/grafana_13.2.4_38252365904_linux_amd64.rpm",
         "platform": "Linux"
       }
-    ]
+    ],
+    "updated_at": "2026-10-18T01:10:35Z"
   },
   {
     "name": "Nextcloud",
@@ -1402,7 +1428,8 @@
     "license": "AGPL-3.0",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/nextcloud/server/zip/refs/heads/master",
-    "stars": 37157
+    "stars": 37162,
+    "updated_at": "2026-10-18T02:41:15Z"
   },
   {
     "name": "Chatwoot",
@@ -1418,9 +1445,10 @@
     "deploy_type": "Docker 部署",
     "note_zh": "开源的在线客服与多渠道工单系统，把网站聊天、邮件、WhatsApp 等消息汇总到一个收件箱。",
     "license": "MIT",
-    "default_branch": "master",
-    "download_url": "https://codeload.github.com/chatwoot/chatwoot/zip/refs/heads/master",
-    "stars": 37890
+    "default_branch": "develop",
+    "download_url": "https://codeload.github.com/chatwoot/chatwoot/zip/refs/heads/develop",
+    "stars": 37910,
+    "updated_at": "2026-10-18T01:59:12Z"
   },
   {
     "name": "Wekan",
@@ -2288,7 +2316,8 @@
         "url": "https://github.com/wekan/wekan/releases/download/v12.51/wekan-12.51-armv7-single-file",
         "platform": "其他平台"
       }
-    ]
+    ],
+    "updated_at": "2026-10-17T23:50:01Z"
   },
   {
     "name": "Halo",
@@ -2307,7 +2336,7 @@
     "license": "GPL-3.0",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/halo-dev/halo/zip/refs/heads/main",
-    "stars": 39947,
+    "stars": 39946,
     "release": {
       "tag": "v2.27.0",
       "name": "2.27.0",
@@ -2335,7 +2364,8 @@
         "url": "https://github.com/halo-dev/halo/releases/download/v2.27.0/halo-2.27.0.jar",
         "platform": "通用"
       }
-    ]
+    ],
+    "updated_at": "2026-10-16T14:35:12Z"
   },
   {
     "name": "WordPress",
@@ -2353,7 +2383,8 @@
     "license": "GPL-2.0",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/WordPress/WordPress/zip/refs/heads/master",
-    "stars": 21477
+    "stars": 21480,
+    "updated_at": "2026-10-18T04:19:06Z"
   },
   {
     "name": "Jellyfin",
@@ -2372,7 +2403,8 @@
     "license": "GPL-2.0",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/jellyfin/jellyfin/zip/refs/heads/master",
-    "stars": 58156
+    "stars": 58171,
+    "updated_at": "2026-10-18T01:10:24Z"
   },
   {
     "name": "Navidrome",
@@ -2390,7 +2422,7 @@
     "license": "GPL-3.0",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/navidrome/navidrome/zip/refs/heads/master",
-    "stars": 24203,
+    "stars": 24212,
     "release": {
       "tag": "v0.64.2",
       "name": "v0.64.2",
@@ -2604,7 +2636,8 @@
         "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_arm64.rpm",
         "platform": "Linux"
       }
-    ]
+    ],
+    "updated_at": "2026-10-17T10:14:01Z"
   },
   {
     "name": "Penpot",
@@ -2620,9 +2653,10 @@
     "deploy_type": "Docker 部署",
     "note_zh": "开源的设计与原型协作平台，Figma 的自托管替代，支持多人实时协作、组件库和设计稿交付。",
     "license": "MPL-2.0",
-    "default_branch": "main",
-    "download_url": "https://codeload.github.com/penpot/penpot/zip/refs/heads/main",
-    "stars": 61273
+    "default_branch": "develop",
+    "download_url": "https://codeload.github.com/penpot/penpot/zip/refs/heads/develop",
+    "stars": 61301,
+    "updated_at": "2026-10-17T20:51:44Z"
   },
   {
     "name": "Excalidraw",
@@ -2641,7 +2675,8 @@
     "license": "MIT",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/excalidraw/excalidraw/zip/refs/heads/master",
-    "stars": 134045
+    "stars": 134075,
+    "updated_at": "2026-10-17T15:15:02Z"
   },
   {
     "name": "draw.io",
@@ -2659,7 +2694,7 @@
     "license": "Apache-2.0",
     "default_branch": "dev",
     "download_url": "https://codeload.github.com/jgraph/drawio/zip/refs/heads/dev",
-    "stars": 8836,
+    "stars": 8838,
     "release": {
       "tag": "v32.4.1",
       "name": "v32.4.1",
@@ -2681,7 +2716,8 @@
         "url": "https://github.com/jgraph/drawio/releases/download/v32.4.1/draw.war",
         "platform": "通用"
       }
-    ]
+    ],
+    "updated_at": "2026-10-08T21:48:25Z"
   },
   {
     "name": "Memos",
@@ -2699,7 +2735,7 @@
     "license": "MIT",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/usememos/memos/zip/refs/heads/main",
-    "stars": 63867,
+    "stars": 63880,
     "release": {
       "tag": "v0.31.0",
       "name": "v0.31.0",
@@ -2781,7 +2817,8 @@
         "url": "https://github.com/usememos/memos/releases/download/v0.31.0/memos_0.31.0_linux_armv7.tar.gz",
         "platform": "Linux"
       }
-    ]
+    ],
+    "updated_at": "2026-10-18T04:11:59Z"
   },
   {
     "name": "Joplin",
@@ -2798,9 +2835,9 @@
     "deploy_type": "客户端 + 服务端",
     "note_zh": "跨平台开源笔记应用，支持 Markdown、端到端加密和自建同步服务，可替代 Evernote。",
     "license": "AGPL-3.0",
-    "default_branch": "master",
-    "download_url": "https://codeload.github.com/laurent22/joplin/zip/refs/heads/master",
-    "stars": 56776,
+    "default_branch": "dev",
+    "download_url": "https://codeload.github.com/laurent22/joplin/zip/refs/heads/dev",
+    "stars": 56780,
     "release": {
       "tag": "v3.7.21",
       "name": "v3.7.21",
@@ -2978,7 +3015,8 @@
         "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21-arm64.zip",
         "platform": "通用"
       }
-    ]
+    ],
+    "updated_at": "2026-10-18T04:24:46Z"
   },
   {
     "name": "AppFlowy",
@@ -2996,7 +3034,7 @@
     "license": "AGPL-3.0",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/AppFlowy-IO/AppFlowy/zip/refs/heads/main",
-    "stars": 77508,
+    "stars": 77526,
     "release": {
       "tag": "0.14.8",
       "name": "v0.14.8",
@@ -3120,7 +3158,8 @@
         "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-android.apk",
         "platform": "Android"
       }
-    ]
+    ],
+    "updated_at": "2026-10-08T11:00:14Z"
   },
   {
     "name": "PhotoPrism",
@@ -3139,7 +3178,7 @@
     "license": "AGPL-3.0",
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/photoprism/photoprism/zip/refs/heads/develop",
-    "stars": 40311,
+    "stars": 40316,
     "release": {
       "tag": "261007-65faaae5d",
       "name": "October 7, 2026",
@@ -3173,7 +3212,8 @@
         "url": "https://github.com/photoprism/photoprism/releases/download/261007-65faaae5d/photoprism_261007-65faaae5d-linux-amd64.tar.gz",
         "platform": "Linux"
       }
-    ]
+    ],
+    "updated_at": "2026-10-17T20:12:05Z"
   },
   {
     "name": "Immich",
@@ -3192,7 +3232,7 @@
     "license": "AGPL-3.0",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/immich-app/immich/zip/refs/heads/main",
-    "stars": 116471,
+    "stars": 116513,
     "release": {
       "tag": "v3.3.3",
       "name": "v3.3.3",
@@ -3274,7 +3314,8 @@
         "url": "https://github.com/immich-app/immich/releases/download/v3.3.3/app-arm64-v8a-release.apk",
         "platform": "Android"
       }
-    ]
+    ],
+    "updated_at": "2026-10-17T23:51:40Z"
   },
   {
     "name": "Supabase",
@@ -3293,7 +3334,8 @@
     "license": "Apache-2.0",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/supabase/supabase/zip/refs/heads/master",
-    "stars": 111682
+    "stars": 111704,
+    "updated_at": "2026-10-18T00:37:42Z"
   },
   {
     "name": "Appwrite",
@@ -3312,7 +3354,8 @@
     "license": "BSD-3-Clause",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/appwrite/appwrite/zip/refs/heads/main",
-    "stars": 57714
+    "stars": 57716,
+    "updated_at": "2026-10-17T21:56:55Z"
   },
   {
     "name": "n8n",
@@ -3331,7 +3374,7 @@
     "license": "Sustainable Use License",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/n8n-io/n8n/zip/refs/heads/master",
-    "stars": 207794,
+    "stars": 207839,
     "release": {
       "tag": "n8n@2.43.7",
       "name": "n8n@2.43.7",
@@ -3357,7 +3400,8 @@
           "downloads": 14
         }
       ]
-    }
+    },
+    "updated_at": "2026-10-17T21:01:17Z"
   },
   {
     "name": "Uptime Kuma",
@@ -3376,7 +3420,7 @@
     "license": "MIT",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/louislam/uptime-kuma/zip/refs/heads/master",
-    "stars": 92567,
+    "stars": 92584,
     "release": {
       "tag": "2.5.6",
       "name": "2.5.6",
@@ -3398,7 +3442,8 @@
         "url": "https://github.com/louislam/uptime-kuma/releases/download/2.5.6/dist.tar.gz",
         "platform": "通用"
       }
-    ]
+    ],
+    "updated_at": "2026-10-18T03:22:23Z"
   },
   {
     "name": "IT-Tools",
@@ -3416,7 +3461,7 @@
     "license": "GPL-3.0",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/CorentinTh/it-tools/zip/refs/heads/main",
-    "stars": 40882,
+    "stars": 40890,
     "release": {
       "tag": "v2024.10.22-7ca5933",
       "name": "v2024.10.22-7ca5933",
@@ -3438,7 +3483,8 @@
         "url": "https://github.com/CorentinTh/it-tools/releases/download/v2024.10.22-7ca5933/it-tools-2024.10.22-7ca5933.zip",
         "platform": "通用"
       }
-    ]
+    ],
+    "updated_at": "2026-10-13T15:36:13Z"
   },
   {
     "name": "FreshRSS",
@@ -3456,7 +3502,8 @@
     "license": "AGPL-3.0",
     "default_branch": "edge",
     "download_url": "https://codeload.github.com/FreshRSS/FreshRSS/zip/refs/heads/edge",
-    "stars": 16308
+    "stars": 16315,
+    "updated_at": "2026-10-17T15:37:28Z"
   },
   {
     "name": "Hoppscotch",
@@ -3474,7 +3521,8 @@
     "license": "MIT",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/hoppscotch/hoppscotch/zip/refs/heads/main",
-    "stars": 80636
+    "stars": 80640,
+    "updated_at": "2026-10-12T04:41:25Z"
   },
   {
     "name": "Gogs",
@@ -3493,7 +3541,7 @@
     "license": "MIT",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/gogs/gogs/zip/refs/heads/main",
-    "stars": 47879,
+    "stars": 47883,
     "release": {
       "tag": "v0.14.3",
       "name": "0.14.3",
@@ -3623,7 +3671,8 @@
         "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_linux_arm64.zip",
         "platform": "Linux"
       }
-    ]
+    ],
+    "updated_at": "2026-09-12T20:28:48Z"
   },
   {
     "name": "Meilisearch",
@@ -3640,7 +3689,7 @@
     "license": "MIT",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/meilisearch/meilisearch/zip/refs/heads/main",
-    "stars": 59590,
+    "stars": 59591,
     "release": {
       "tag": "v1.55.0",
       "name": "v1.55.0 🔭",
@@ -3770,7 +3819,8 @@
         "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-enterprise-windows-amd64.exe",
         "platform": "Windows"
       }
-    ]
+    ],
+    "updated_at": "2026-10-15T15:53:55Z"
   },
   {
     "name": "Decidim",
@@ -3788,7 +3838,8 @@
     "license": "AGPL-3.0",
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/decidim/decidim/zip/refs/heads/develop",
-    "stars": 1829
+    "stars": 1831,
+    "updated_at": "2026-10-17T20:54:41Z"
   },
   {
     "name": "CKAN",
@@ -3807,7 +3858,8 @@
     "license": "AGPL-3.0",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/ckan/ckan/zip/refs/heads/master",
-    "stars": 5138
+    "stars": 5139,
+    "updated_at": "2026-10-16T23:42:17Z"
   },
   {
     "name": "Home Assistant",
@@ -3823,9 +3875,10 @@
     "license": "Apache-2.0",
     "subcategory": "智能家居",
     "subcategory_slug": "smart-home",
-    "default_branch": "master",
-    "download_url": "https://codeload.github.com/home-assistant/core/zip/refs/heads/master",
-    "stars": 91571
+    "default_branch": "dev",
+    "download_url": "https://codeload.github.com/home-assistant/core/zip/refs/heads/dev",
+    "stars": 91576,
+    "updated_at": "2026-10-18T01:21:17Z"
   },
   {
     "name": "Syncthing",
@@ -3842,7 +3895,7 @@
     "subcategory_slug": "sync",
     "default_branch": "main",
     "download_url": "https://codeload.github.com/syncthing/syncthing/zip/refs/heads/main",
-    "stars": 89472,
+    "stars": 89481,
     "release": {
       "tag": "v2.1.6",
       "name": "v2.1.6",
@@ -4110,7 +4163,8 @@
         "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-freebsd-arm64-v2.1.6.tar.gz",
         "platform": "通用"
       }
-    ]
+    ],
+    "updated_at": "2026-10-13T12:28:45Z"
   },
   {
     "name": "Pi-hole",
@@ -4128,7 +4182,8 @@
     "subcategory_slug": "system",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/pi-hole/pi-hole/zip/refs/heads/master",
-    "stars": 61306
+    "stars": 61317,
+    "updated_at": "2026-10-17T20:27:58Z"
   },
   {
     "name": "Paperless-ngx",
@@ -4145,9 +4200,9 @@
     "license": "GPL-3.0",
     "subcategory": "文档归档",
     "subcategory_slug": "documents",
-    "default_branch": "main",
-    "download_url": "https://codeload.github.com/paperless-ngx/paperless-ngx/zip/refs/heads/main",
-    "stars": 46805,
+    "default_branch": "dev",
+    "download_url": "https://codeload.github.com/paperless-ngx/paperless-ngx/zip/refs/heads/dev",
+    "stars": 46820,
     "release": {
       "tag": "v3.3.2",
       "name": "Paperless-ngx v3.3.2",
@@ -4169,7 +4224,8 @@
         "url": "https://github.com/paperless-ngx/paperless-ngx/releases/download/v3.3.2/paperless-ngx-v3.3.2.tar.xz",
         "platform": "通用"
       }
-    ]
+    ],
+    "updated_at": "2026-10-18T00:54:22Z"
   },
   {
     "name": "Krita",
@@ -4187,6 +4243,7 @@
     "subcategory_slug": "design",
     "default_branch": "master",
     "download_url": "https://codeload.github.com/KDE/krita/zip/refs/heads/master",
-    "stars": 10572
+    "stars": 10574,
+    "updated_at": "2026-10-18T00:47:16Z"
   }
 ]

@@ -221,6 +221,68 @@ token 会存进 Windows 凭据管理器，不会在磁盘上留明文文件。�
 
 ---
 
+## 刷新 star / 更新时间（API 配额）
+
+`projects.json` 里的 `stars`、`updated_at`、`download_url` 由脚本抓取写入：
+
+```powershell
+node tools/fetch-repo-data.mjs               # 只补缺失的
+node tools/fetch-repo-data.mjs --all         # 全部重抓
+node tools/fetch-repo-data.mjs --playwright  # 强制用浏览器抓（不消耗 API 额度）
+```
+
+脚本自动选择方式：**有 token 走 REST API，没有则退回 Playwright 打开网页解析**。
+
+### GitHub API 配额对照
+
+| 认证方式 | 额度 | 计算维度 |
+| --- | --- | --- |
+| 不带 token | 60 次/小时 | 按出口 IP |
+| Actions 自带 `GITHUB_TOKEN` | 1000 次/小时 | 按仓库 |
+| 个人访问令牌 PAT | 5000 次/小时 | 按账号 |
+
+57 个项目刷新一次只消耗 57 次请求，所以 **Actions 自带的 token 就够用**，不必额外生成 PAT。
+
+### 本地怎么配 token
+
+脚本按优先级读取：`GITHUB_TOKEN` 环境变量 → `GH_TOKEN` 环境变量 → 本地 git 凭据。
+
+```powershell
+# 方式一：临时环境变量
+$env:GITHUB_TOKEN = "github_pat_xxxxx"
+node tools/fetch-repo-data.mjs
+
+# 方式二：什么都不用配
+# 用 wincred 存过推送凭据的话，脚本会通过 git credential fill 自动取到
+node tools/fetch-repo-data.mjs
+```
+
+### Actions 里怎么配
+
+不需要手工建 Secret —— `secrets.GITHUB_TOKEN` 由 GitHub 自动注入，传成环境变量即可：
+
+```yaml
+- name: 抓取 star / 更新时间
+  env:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  run: node tools/fetch-repo-data.mjs
+```
+
+> 只有需要访问其他私有仓库时，才要在
+> **仓库 Settings → Secrets and variables → Actions → New repository secret** 自建一个，
+> 然后在 YAML 里写 `GITHUB_TOKEN: ${{ secrets.你的名字 }}`。
+> **绝不要把 token 明文写进 `app.js`、`projects.json` 或任何被提交的文件**——提交钩子会直接拦下。
+
+### token 需要什么权限
+
+| 用途 | 权限 |
+| --- | --- |
+| 读公开仓库的 star / 时间 | 无额外权限；细粒度令牌选 **Public repositories (read-only)** |
+| 推送代码 | **Contents: Read and write** |
+| 推送 `.github/workflows/` 下的文件 | 再加 **Workflows: Read and write** |
+
+---
+
 ## 网络不稳定时怎么推送
 
 国内访问 GitHub 各域名走的线路不一样，**站点能打开不代表能推送**：

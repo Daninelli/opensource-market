@@ -19,11 +19,11 @@ jobs:
         with:
           node-version: "20"
 
-      # 用 Playwright 抓仓库网页里的 star / 更新时间（不消耗 API 配额）
-      - name: 安装浏览器
-        run: npx playwright install --with-deps chromium
-
+      # 走 REST API：Actions 自带的 GITHUB_TOKEN 额度是 1000 次/小时（按仓库算），
+      # 57 个项目只消耗 57 次，绰绰有余；不需要额外生成 PAT。
       - name: 抓取 star / 更新时间
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node tools/fetch-repo-data.mjs
 
       - name: 校验数据
