@@ -310,6 +310,63 @@
             fragment.appendChild(buildSection(group));
         });
         els.app.appendChild(fragment);
+
+        // 卡片进入文档后才能量出标签行数
+        applyTagOverflow();
+    }
+
+    /** 标签超过两行时，把多出来的收进 +N，点击 +N 弹出浮层 */
+    function applyTagOverflow() {
+        Array.prototype.forEach.call(document.querySelectorAll(".card .tags"), function (box) {
+            if (box.querySelector(".chip-more")) return;
+
+            var chips = Array.prototype.slice.call(box.querySelectorAll(".chip-tag"));
+            if (chips.length < 3) return;
+
+            var firstTop = chips[0].offsetTop;
+            var step = chips[0].offsetHeight + 6; // 行高 + 间距
+            if (!step) return;
+
+            var fit = 0;
+            chips.forEach(function (chip) {
+                if (chip.offsetTop - firstTop < step * 2) fit += 1;
+            });
+            if (fit >= chips.length) return;
+
+            // 留一个位置给 +N
+            var visible = Math.max(1, fit - 1);
+            var hidden = chips.slice(visible);
+            hidden.forEach(function (chip) {
+                chip.classList.add("is-hidden");
+            });
+
+            var more = document.createElement("button");
+            more.type = "button";
+            more.className = "chip-more";
+            more.textContent = "+" + hidden.length;
+            more.setAttribute("aria-label", "查看其余 " + hidden.length + " 个标签");
+
+            var pop = document.createElement("div");
+            pop.className = "tag-pop";
+            pop.hidden = true;
+            pop.innerHTML = hidden
+                .map(function (chip) {
+                    var cls = chip.className.replace(/\s*is-hidden\s*/, " ").trim();
+                    return '<span class="' + cls + '">' + escapeHtml(chip.textContent) + "</span>";
+                })
+                .join("");
+
+            box.appendChild(more);
+            box.appendChild(pop);
+
+            more.addEventListener("click", function (event) {
+                event.stopPropagation();
+                pop.hidden = !pop.hidden;
+            });
+            pop.addEventListener("click", function (event) {
+                event.stopPropagation();
+            });
+        });
     }
 
     function buildSection(group) {
@@ -657,6 +714,10 @@
         bindPickerDismiss.installed = true;
         document.addEventListener("click", function () {
             closeAllPickers(null);
+            // 顺便收起 +N 浮层
+            Array.prototype.forEach.call(document.querySelectorAll(".tag-pop:not([hidden])"), function (pop) {
+                pop.hidden = true;
+            });
         });
     }
 
