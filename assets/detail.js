@@ -437,7 +437,9 @@
             licenseNotice =
                 '<div class="license-notice is-muted">' +
                 icon("info") +
-                "<span>未能自动识别该项目的许可协议，请以原仓库为准。</span>" +
+                "<span>该项目的许可协议（<b>" + escapeHtml(data.license || "未标注") +
+                "</b>）不属于常见的软件开源协议，可能是自定义条款或内容类协议（如 CC 系列）。" +
+                "能否商用需按原条款判断，请以原仓库的 LICENSE 文件为准。</span>" +
                 "</div>";
         }
 

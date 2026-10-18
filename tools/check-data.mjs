@@ -260,6 +260,13 @@ if (restrictedProjects.length) {
         .forEach((p) => console.log(`  - ${p.name}（${p.license}）`));
 }
 
+/* 未能归类的协议：不是错误，但应该被看见，可能是新协议或 GitHub 识别错误 */
+const unknownLicense = projects.filter((p) => p.license_category === "unknown");
+if (unknownLicense.length) {
+    console.log(`\n[WARN] 有 ${unknownLicense.length} 个项目的协议不属于常见软件开源协议，页面会提示用户自行确认：`);
+    unknownLicense.forEach((p) => console.log(`  - ${p.name}（${p.license}）→ ${p.repo}`));
+}
+
 /**
  * 派生文件的一致性检查。
  *
