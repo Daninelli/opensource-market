@@ -1,9 +1,11 @@
 {
-  "generated_at": "2026-10-18T07:23:37.639Z",
-  "window_days": 7,
+  "generated_at": "2026-10-18T07:33:15.029Z",
+  "window_days": 1,
+  "target_window_days": 7,
   "history_days": 2,
   "ready": true,
-  "note": "按近 7 天 star 增量排序",
+  "partial": true,
+  "note": "按近 1 天 star 增量排序（数据积累中，满 7 天后更准确）",
   "items": [
     {
       "rank": 1,
