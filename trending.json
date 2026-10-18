@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T10:08:50.553Z",
+  "generated_at": "2026-10-18T10:41:40.076Z",
   "window_days": 1,
   "target_window_days": 7,
   "history_days": 2,
@@ -109,6 +109,26 @@
     },
     {
       "rank": 6,
+      "repo": "deepseek-ai/deepseek-harness",
+      "name": "DeepSeek Harness",
+      "category": "工具",
+      "category_slug": "tool",
+      "subcategory": "智能体",
+      "note_zh": "DeepSeek 开源的智能体运行时，一切皆插件，可自建与扩展 Agent。",
+      "license": "MIT",
+      "stars": 252626,
+      "delta7": null,
+      "delta30": null,
+      "window_days": 1,
+      "updated_at": "2026-10-17T08:16:09Z",
+      "download_url": "https://codeload.github.com/deepseek-ai/deepseek-harness/zip/refs/heads/master",
+      "platform": "github",
+      "pinned": false,
+      "pin_label": "置顶",
+      "pin_note": ""
+    },
+    {
+      "rank": 7,
       "repo": "anomalyco/opencode",
       "name": "opencode",
       "category": "工具",
@@ -128,7 +148,7 @@
       "pin_note": ""
     },
     {
-      "rank": 7,
+      "rank": 8,
       "repo": "n8n-io/n8n",
       "name": "n8n",
       "category": "工具",
@@ -148,7 +168,7 @@
       "pin_note": ""
     },
     {
-      "rank": 8,
+      "rank": 9,
       "repo": "excalidraw/excalidraw",
       "name": "Excalidraw",
       "category": "工具",
@@ -168,7 +188,7 @@
       "pin_note": ""
     },
     {
-      "rank": 9,
+      "rank": 10,
       "repo": "godotengine/godot",
       "name": "Godot Engine",
       "category": "游戏",
@@ -188,7 +208,7 @@
       "pin_note": ""
     },
     {
-      "rank": 10,
+      "rank": 11,
       "repo": "immich-app/immich",
       "name": "Immich",
       "category": "工具",
@@ -208,7 +228,7 @@
       "pin_note": ""
     },
     {
-      "rank": 11,
+      "rank": 12,
       "repo": "supabase/supabase",
       "name": "Supabase",
       "category": "工具",
@@ -228,7 +248,7 @@
       "pin_note": ""
     },
     {
-      "rank": 12,
+      "rank": 13,
       "repo": "home-assistant/core",
       "name": "Home Assistant",
       "category": "其他",
@@ -248,7 +268,7 @@
       "pin_note": ""
     },
     {
-      "rank": 13,
+      "rank": 14,
       "repo": "syncthing/syncthing",
       "name": "Syncthing",
       "category": "其他",
@@ -268,7 +288,7 @@
       "pin_note": ""
     },
     {
-      "rank": 14,
+      "rank": 15,
       "repo": "hoppscotch/hoppscotch",
       "name": "Hoppscotch",
       "category": "工具",
@@ -288,7 +308,7 @@
       "pin_note": ""
     },
     {
-      "rank": 15,
+      "rank": 16,
       "repo": "AppFlowy-IO/AppFlowy",
       "name": "AppFlowy",
       "category": "工具",
@@ -308,7 +328,7 @@
       "pin_note": ""
     },
     {
-      "rank": 16,
+      "rank": 17,
       "repo": "grafana/grafana",
       "name": "Grafana",
       "category": "企业服务",
@@ -328,7 +348,7 @@
       "pin_note": ""
     },
     {
-      "rank": 17,
+      "rank": 18,
       "repo": "apache/superset",
       "name": "Apache Superset",
       "category": "企业服务",
@@ -348,7 +368,7 @@
       "pin_note": ""
     },
     {
-      "rank": 18,
+      "rank": 19,
       "repo": "strapi/strapi",
       "name": "Strapi",
       "category": "内容媒体",
@@ -368,7 +388,7 @@
       "pin_note": ""
     },
     {
-      "rank": 19,
+      "rank": 20,
       "repo": "dani-garcia/vaultwarden",
       "name": "Vaultwarden",
       "category": "工具",
@@ -382,26 +402,6 @@
       "window_days": 1,
       "updated_at": "2026-10-16T09:51:32Z",
       "download_url": "https://codeload.github.com/dani-garcia/vaultwarden/zip/refs/heads/main",
-      "platform": "github",
-      "pinned": false,
-      "pin_label": "置顶",
-      "pin_note": ""
-    },
-    {
-      "rank": 20,
-      "repo": "FFmpeg/FFmpeg",
-      "name": "FFmpeg",
-      "category": "工具",
-      "category_slug": "tool",
-      "subcategory": "媒体处理",
-      "note_zh": "音视频处理的瑞士军刀，转码、剪辑、推流、截图全靠它，几乎所有播放器的底层。",
-      "license": "GPL-2.0",
-      "stars": 65341,
-      "delta7": null,
-      "delta30": null,
-      "window_days": 1,
-      "updated_at": "2026-10-18T03:20:04Z",
-      "download_url": "https://codeload.github.com/FFmpeg/FFmpeg/zip/refs/heads/master",
       "platform": "github",
       "pinned": false,
       "pin_label": "置顶",
