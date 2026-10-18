@@ -114,8 +114,11 @@ if (ready) {
         return (b.stars || 0) - (a.stars || 0);
     });
 } else {
-    // 冷启动：按 star 总数兜底
-    rows.sort((a, b) => (b.stars || 0) - (a.stars || 0));
+    // 冷启动：同样置顶优先，其余按 star 总数兜底
+    rows.sort((a, b) => {
+        if (a.pinned !== b.pinned) return a.pinned ? -1 : 1;
+        return (b.stars || 0) - (a.stars || 0);
+    });
 }
 
 const items = rows.slice(0, TOP_N).map((row, index) => ({ rank: index + 1, ...row }));

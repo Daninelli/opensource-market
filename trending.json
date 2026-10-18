@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T08:36:54.092Z",
+  "generated_at": "2026-10-18T10:04:46.336Z",
   "window_days": 1,
   "target_window_days": 7,
   "history_days": 2,
@@ -69,6 +69,66 @@
     },
     {
       "rank": 4,
+      "repo": "openclaw/openclaw",
+      "name": "OpenClaw",
+      "category": "工具",
+      "category_slug": "tool",
+      "subcategory": "智能体",
+      "note_zh": "跨平台个人 AI 助手，能用自然语言直接操作电脑完成实际任务。",
+      "license": "MIT",
+      "stars": 392324,
+      "delta7": null,
+      "delta30": null,
+      "window_days": 1,
+      "updated_at": "2026-10-18T09:47:03Z",
+      "download_url": "https://codeload.github.com/openclaw/openclaw/zip/refs/heads/main",
+      "platform": "github",
+      "pinned": false,
+      "pin_label": "置顶",
+      "pin_note": ""
+    },
+    {
+      "rank": 5,
+      "repo": "NousResearch/hermes-agent",
+      "name": "Hermes Agent",
+      "category": "工具",
+      "category_slug": "tool",
+      "subcategory": "智能体",
+      "note_zh": "可自我进化的开源智能体框架，跨多个 AI 编码后端工作。",
+      "license": "MIT",
+      "stars": 254787,
+      "delta7": null,
+      "delta30": null,
+      "window_days": 1,
+      "updated_at": "2026-10-18T09:45:07Z",
+      "download_url": "https://codeload.github.com/NousResearch/hermes-agent/zip/refs/heads/main",
+      "platform": "github",
+      "pinned": false,
+      "pin_label": "置顶",
+      "pin_note": ""
+    },
+    {
+      "rank": 6,
+      "repo": "anomalyco/opencode",
+      "name": "opencode",
+      "category": "工具",
+      "category_slug": "tool",
+      "subcategory": "智能体",
+      "note_zh": "开源 AI 编码智能体，提供桌面端与命令行，可接任意模型服务。",
+      "license": "MIT",
+      "stars": 215835,
+      "delta7": null,
+      "delta30": null,
+      "window_days": 1,
+      "updated_at": "2026-10-18T06:58:25Z",
+      "download_url": "https://codeload.github.com/anomalyco/opencode/zip/refs/heads/dev",
+      "platform": "github",
+      "pinned": false,
+      "pin_label": "置顶",
+      "pin_note": ""
+    },
+    {
+      "rank": 7,
       "repo": "n8n-io/n8n",
       "name": "n8n",
       "category": "工具",
@@ -88,7 +148,7 @@
       "pin_note": ""
     },
     {
-      "rank": 5,
+      "rank": 8,
       "repo": "excalidraw/excalidraw",
       "name": "Excalidraw",
       "category": "工具",
@@ -108,7 +168,7 @@
       "pin_note": ""
     },
     {
-      "rank": 6,
+      "rank": 9,
       "repo": "godotengine/godot",
       "name": "Godot Engine",
       "category": "游戏",
@@ -128,7 +188,7 @@
       "pin_note": ""
     },
     {
-      "rank": 7,
+      "rank": 10,
       "repo": "immich-app/immich",
       "name": "Immich",
       "category": "工具",
@@ -148,7 +208,7 @@
       "pin_note": ""
     },
     {
-      "rank": 8,
+      "rank": 11,
       "repo": "supabase/supabase",
       "name": "Supabase",
       "category": "工具",
@@ -168,7 +228,7 @@
       "pin_note": ""
     },
     {
-      "rank": 9,
+      "rank": 12,
       "repo": "home-assistant/core",
       "name": "Home Assistant",
       "category": "其他",
@@ -188,7 +248,7 @@
       "pin_note": ""
     },
     {
-      "rank": 10,
+      "rank": 13,
       "repo": "syncthing/syncthing",
       "name": "Syncthing",
       "category": "其他",
@@ -208,7 +268,7 @@
       "pin_note": ""
     },
     {
-      "rank": 11,
+      "rank": 14,
       "repo": "hoppscotch/hoppscotch",
       "name": "Hoppscotch",
       "category": "工具",
@@ -228,7 +288,7 @@
       "pin_note": ""
     },
     {
-      "rank": 12,
+      "rank": 15,
       "repo": "AppFlowy-IO/AppFlowy",
       "name": "AppFlowy",
       "category": "工具",
@@ -248,7 +308,7 @@
       "pin_note": ""
     },
     {
-      "rank": 13,
+      "rank": 16,
       "repo": "grafana/grafana",
       "name": "Grafana",
       "category": "企业服务",
@@ -268,7 +328,7 @@
       "pin_note": ""
     },
     {
-      "rank": 14,
+      "rank": 17,
       "repo": "apache/superset",
       "name": "Apache Superset",
       "category": "企业服务",
@@ -288,7 +348,7 @@
       "pin_note": ""
     },
     {
-      "rank": 15,
+      "rank": 18,
       "repo": "strapi/strapi",
       "name": "Strapi",
       "category": "内容媒体",
@@ -308,7 +368,7 @@
       "pin_note": ""
     },
     {
-      "rank": 16,
+      "rank": 19,
       "repo": "dani-garcia/vaultwarden",
       "name": "Vaultwarden",
       "category": "工具",
@@ -328,7 +388,7 @@
       "pin_note": ""
     },
     {
-      "rank": 17,
+      "rank": 20,
       "repo": "FFmpeg/FFmpeg",
       "name": "FFmpeg",
       "category": "工具",
@@ -342,66 +402,6 @@
       "window_days": 1,
       "updated_at": "2026-10-18T03:20:04Z",
       "download_url": "https://codeload.github.com/FFmpeg/FFmpeg/zip/refs/heads/master",
-      "platform": "github",
-      "pinned": false,
-      "pin_label": "置顶",
-      "pin_note": ""
-    },
-    {
-      "rank": 18,
-      "repo": "usememos/memos",
-      "name": "Memos",
-      "category": "工具",
-      "category_slug": "tool",
-      "subcategory": "笔记工具",
-      "note_zh": "一个极简的自托管备忘录中心，界面类似 Flomo，支持 Markdown 和标签，资源占用极低。",
-      "license": "MIT",
-      "stars": 63880,
-      "delta7": null,
-      "delta30": null,
-      "window_days": 1,
-      "updated_at": "2026-10-18T04:11:59Z",
-      "download_url": "https://codeload.github.com/usememos/memos/zip/refs/heads/main",
-      "platform": "github",
-      "pinned": false,
-      "pin_label": "置顶",
-      "pin_note": ""
-    },
-    {
-      "rank": 19,
-      "repo": "pi-hole/pi-hole",
-      "name": "Pi-hole",
-      "category": "其他",
-      "category_slug": "other",
-      "subcategory": "系统工具",
-      "note_zh": "自托管的 DNS 广告过滤与统计，可整块拦截弹窗广告，适合部署在路由器或树莓派上。",
-      "license": "GPL-3.0",
-      "stars": 61317,
-      "delta7": null,
-      "delta30": null,
-      "window_days": 1,
-      "updated_at": "2026-10-17T20:27:58Z",
-      "download_url": "https://codeload.github.com/pi-hole/pi-hole/zip/refs/heads/master",
-      "platform": "github",
-      "pinned": false,
-      "pin_label": "置顶",
-      "pin_note": ""
-    },
-    {
-      "rank": 20,
-      "repo": "penpot/penpot",
-      "name": "Penpot",
-      "category": "工具",
-      "category_slug": "tool",
-      "subcategory": "设计工具",
-      "note_zh": "开源的设计与原型协作平台，Figma 的自托管替代，支持多人实时协作、组件库和设计稿交付。",
-      "license": "MPL-2.0",
-      "stars": 61301,
-      "delta7": null,
-      "delta30": null,
-      "window_days": 1,
-      "updated_at": "2026-10-17T20:51:44Z",
-      "download_url": "https://codeload.github.com/penpot/penpot/zip/refs/heads/develop",
       "platform": "github",
       "pinned": false,
       "pin_label": "置顶",

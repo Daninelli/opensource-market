@@ -56,10 +56,10 @@ const TAXONOMY = {
     tool: {
         label: "工具",
         children: {
-            design: "设计工具", notes: "笔记工具", photos: "相册管理", backend: "后端服务",
-            automation: "自动化", monitoring: "运维监控", devtools: "开发工具", utility: "效率工具",
-            security: "安全与密码", file: "文件管理与网盘", devops: "运维部署",
-            readlater: "稍后读与收藏", iot: "物联网", "media-tool": "媒体处理"
+            "agent": "智能体", devtools: "开发工具", utility: "效率工具", automation: "自动化",
+            monitoring: "运维监控", design: "设计工具", notes: "笔记工具", photos: "相册管理",
+            backend: "后端服务", security: "安全与密码", file: "文件管理与网盘",
+            devops: "运维部署", readlater: "稍后读与收藏", iot: "物联网", "media-tool": "媒体处理"
         }
     },
     government: { label: "政务", children: { participation: "公众参与", "open-data": "开放数据" } },

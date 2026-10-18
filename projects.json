@@ -1,5 +1,179 @@
 [
   {
+    "release": {
+      "tag": "v1.11.0",
+      "name": "Filee 1.11.0",
+      "published": "2026-10-17T05:14:07Z",
+      "url": "https://github.com/KnifeLemon/Filee/releases/tag/v1.11.0"
+    },
+    "best_assets": [
+      {
+        "name": "Filee-1.11.0-win-Setup.exe",
+        "size": 116702105,
+        "url": "https://github.com/KnifeLemon/Filee/releases/download/v1.11.0/Filee-1.11.0-win-Setup.exe"
+      },
+      {
+        "name": "Filee-1.11.0-win-Portable.zip",
+        "size": 166941500,
+        "url": "https://github.com/KnifeLemon/Filee/releases/download/v1.11.0/Filee-1.11.0-win-Portable.zip"
+      },
+      {
+        "name": "Filee-1.11.0-osx-arm64.tar.gz",
+        "size": 110759366,
+        "url": "https://github.com/KnifeLemon/Filee/releases/download/v1.11.0/Filee-1.11.0-osx-arm64.tar.gz"
+      },
+      {
+        "name": "Filee-1.11.0-osx-x64.tar.gz",
+        "size": 117336347,
+        "url": "https://github.com/KnifeLemon/Filee/releases/download/v1.11.0/Filee-1.11.0-osx-x64.tar.gz"
+      },
+      {
+        "name": "Filee-1.11.0-linux-x64.tar.gz",
+        "size": 117544190,
+        "url": "https://github.com/KnifeLemon/Filee/releases/download/v1.11.0/Filee-1.11.0-linux-x64.tar.gz"
+      },
+      {
+        "name": "Filee-1.11.0-linux-arm64.tar.gz",
+        "size": 111526171,
+        "url": "https://github.com/KnifeLemon/Filee/releases/download/v1.11.0/Filee-1.11.0-linux-arm64.tar.gz"
+      }
+    ],
+    "name": "Filee",
+    "repo": "KnifeLemon/Filee",
+    "category": "工具",
+    "category_slug": "tool",
+    "subcategory": "效率工具",
+    "subcategory_slug": "utility",
+    "tech_stack": [
+      "C#",
+      ".NET",
+      "Avalonia"
+    ],
+    "deploy_type": "桌面应用",
+    "note_zh": "离线批量文件格式转换器，拖拽即可互转 180 多种格式。",
+    "license": "MIT",
+    "added_at": "2026-10-18T09:51:47.672Z",
+    "stars": 3055,
+    "updated_at": "2026-10-18T09:51:47.672Z",
+    "default_branch": "main",
+    "download_url": "https://codeload.github.com/KnifeLemon/Filee/zip/refs/heads/main",
+    "platform": "github"
+  },
+  {
+    "name": "OpenClaw",
+    "repo": "openclaw/openclaw",
+    "category": "工具",
+    "category_slug": "tool",
+    "subcategory": "智能体",
+    "subcategory_slug": "agent",
+    "tech_stack": [
+      "TypeScript",
+      "Node.js",
+      "Electron"
+    ],
+    "deploy_type": "源码 / Docker",
+    "note_zh": "跨平台个人 AI 助手，能用自然语言直接操作电脑完成实际任务。",
+    "license": "MIT",
+    "added_at": "2026-10-18T09:50:47.976Z",
+    "stars": 392324,
+    "updated_at": "2026-10-18T09:47:03Z",
+    "default_branch": "main",
+    "download_url": "https://codeload.github.com/openclaw/openclaw/zip/refs/heads/main",
+    "platform": "github"
+  },
+  {
+    "name": "Hermes Agent",
+    "repo": "NousResearch/hermes-agent",
+    "category": "工具",
+    "category_slug": "tool",
+    "subcategory": "智能体",
+    "subcategory_slug": "agent",
+    "tech_stack": [
+      "Python",
+      "Claude",
+      "Codex"
+    ],
+    "deploy_type": "源码",
+    "note_zh": "可自我进化的开源智能体框架，跨多个 AI 编码后端工作。",
+    "license": "MIT",
+    "added_at": "2026-10-18T09:50:47.976Z",
+    "stars": 254787,
+    "updated_at": "2026-10-18T09:45:07Z",
+    "default_branch": "main",
+    "download_url": "https://codeload.github.com/NousResearch/hermes-agent/zip/refs/heads/main",
+    "platform": "github"
+  },
+  {
+    "release": {
+      "tag": "v1.19.3",
+      "name": "v1.19.3",
+      "published": "2026-10-16T12:31:52Z",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.19.3"
+    },
+    "best_assets": [
+      {
+        "name": "opencode-desktop-win-x64.exe",
+        "size": 126269464,
+        "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.3/opencode-desktop-win-x64.exe"
+      },
+      {
+        "name": "opencode-desktop-win-arm64.exe",
+        "size": 118790656,
+        "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.3/opencode-desktop-win-arm64.exe"
+      },
+      {
+        "name": "opencode-desktop-mac-arm64.dmg",
+        "size": 151121786,
+        "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.3/opencode-desktop-mac-arm64.dmg"
+      },
+      {
+        "name": "opencode-desktop-mac-x64.dmg",
+        "size": 156023735,
+        "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.3/opencode-desktop-mac-x64.dmg"
+      },
+      {
+        "name": "opencode-desktop-linux-x86_64.AppImage",
+        "size": 159217974,
+        "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.3/opencode-desktop-linux-x86_64.AppImage"
+      },
+      {
+        "name": "opencode-desktop-linux-arm64.AppImage",
+        "size": 157699500,
+        "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.3/opencode-desktop-linux-arm64.AppImage"
+      },
+      {
+        "name": "opencode-desktop-linux-amd64.deb",
+        "size": 123225336,
+        "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.3/opencode-desktop-linux-amd64.deb"
+      },
+      {
+        "name": "opencode-desktop-linux-arm64.deb",
+        "size": 116543400,
+        "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.3/opencode-desktop-linux-arm64.deb"
+      }
+    ],
+    "name": "opencode",
+    "repo": "anomalyco/opencode",
+    "category": "工具",
+    "category_slug": "tool",
+    "subcategory": "智能体",
+    "subcategory_slug": "agent",
+    "tech_stack": [
+      "TypeScript",
+      "Node.js",
+      "Go"
+    ],
+    "deploy_type": "桌面应用 / CLI",
+    "note_zh": "开源 AI 编码智能体，提供桌面端与命令行，可接任意模型服务。",
+    "license": "MIT",
+    "added_at": "2026-10-18T09:50:47.976Z",
+    "stars": 215835,
+    "updated_at": "2026-10-18T06:58:25Z",
+    "default_branch": "dev",
+    "download_url": "https://codeload.github.com/anomalyco/opencode/zip/refs/heads/dev",
+    "platform": "github"
+  },
+  {
     "name": "OpenMRS",
     "repo": "openmrs/openmrs-core",
     "category": "医疗",

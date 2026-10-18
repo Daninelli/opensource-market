@@ -53,7 +53,7 @@ body:
     attributes:
       label: 所属二级分类
       description: >-
-        选填。填写该一级分类下的细分类名称（中文），例如「开发工具」「无头电商」。
+        选填。填写该一级分类下的细分类名称（中文），例如「开发工具」「无头电商」「智能体」。
         拿不准可以留空，审核时会帮你归类。完整清单见 CONTRIBUTING.md。
       placeholder: 开发工具
     validations:
