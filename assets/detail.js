@@ -415,6 +415,21 @@
             ? '<span class="pin-badge">' + icon("pin") + escapeHtml(data.pin_label || "置顶") + "</span>"
             : "";
 
+        /* 推荐理由：只有带置顶/推荐标签的项目才有，
+           没有标签或没有写理由就整块不渲染。 */
+        var pinPanel = "";
+        if (data.pinned && data.pin_note) {
+            pinPanel =
+                '<section class="pin-panel">' +
+                '<div class="pin-panel-head">' +
+                '<span class="pin-panel-label">' + icon("pin") +
+                escapeHtml(data.pin_label || "置顶") + "</span>" +
+                '<span class="pin-panel-title">推荐理由</span>' +
+                "</div>" +
+                '<p class="pin-panel-note">' + escapeHtml(data.pin_note) + "</p>" +
+                "</section>";
+        }
+
         var tags = (data.tech_stack || [])
             .map(function (t) {
                 return '<span class="chip">' + escapeHtml(t) + "</span>";
@@ -486,6 +501,7 @@
             licenseNotice +
             actions +
             "</header>" +
+            pinPanel +
             renderStarPanel(data) +
             renderFacts(data) +
             renderDownloads(data) +
