@@ -30,7 +30,6 @@ try {
 const dates = Array.isArray(history.dates) ? history.dates : [];
 const series = history.series || {};
 const historyDays = dates.length;
-const ready = historyDays >= 2;
 
 /** 取某个仓库在「第 daysAgo 天前」的 star 数（取不到返回 null） */
 function starsAt(repo, daysAgo) {
@@ -46,32 +45,34 @@ function starsAt(repo, daysAgo) {
 function availableWindow(repo) {
     const values = series[repo];
     if (!Array.isArray(values) || values.length < 2) return 0;
-    let first = null;
     for (let i = 0; i < values.length; i += 1) {
         if (typeof values[i] === "number") {
-            first = values[i];
-            break;
+            return values.length - 1 - i;
         }
     }
-    if (first === null) return 0;
-    return values.length - 1;
+    return 0;
 }
+
+// 全局能用的窗口：取所有仓库里最长的，最多 7 天
+let maxWindow = 0;
+for (const repo of Object.keys(series)) {
+    const window = availableWindow(repo);
+    if (window > maxWindow) maxWindow = window;
+}
+const effectiveWindow = Math.min(WINDOW_DAYS, maxWindow);
+const ready = effectiveWindow >= 1;
+const partial = effectiveWindow < WINDOW_DAYS;
 
 const rows = projects
     .filter((project) => project.repo)
     .map((project) => {
         const current = typeof project.stars === "number" ? project.stars : null;
-        const past7 = ready ? starsAt(project.repo, WINDOW_DAYS) : null;
-        const past30 = ready ? starsAt(project.repo, 30) : null;
-        const window = ready ? availableWindow(project.repo) : 0;
+        const past = ready ? starsAt(project.repo, effectiveWindow) : null;
+        const past30 = starsAt(project.repo, 30);
 
         let delta = null;
-        if (ready && current !== null && past7 !== null) {
-            delta = current - past7;
-        } else if (ready && current !== null && window > 0) {
-            // 历史不足 7 天时，用现有最长窗口估算
-            const base = starsAt(project.repo, window);
-            if (base !== null) delta = current - base;
+        if (ready && current !== null && past !== null) {
+            delta = current - past;
         }
 
         return {
@@ -84,8 +85,8 @@ const rows = projects
             license: project.license || "",
             stars: current,
             delta7: delta,
-            delta30: ready && current !== null && past30 !== null ? current - past30 : null,
-            window_days: window,
+            delta30: current !== null && past30 !== null ? current - past30 : null,
+            window_days: effectiveWindow,
             updated_at: project.updated_at || null,
             download_url: project.download_url || null,
             platform: project.platform || "github",
@@ -110,12 +111,16 @@ const items = rows.slice(0, TOP_N).map((row, index) => ({ rank: index + 1, ...ro
 
 const output = {
     generated_at: new Date().toISOString(),
-    window_days: WINDOW_DAYS,
+    window_days: effectiveWindow,
+    target_window_days: WINDOW_DAYS,
     history_days: historyDays,
     ready,
-    note: ready
-        ? `按近 ${WINDOW_DAYS} 天 star 增量排序`
-        : `热度数据积累中（已记录 ${historyDays} 天，至少需要 2 天），当前按 star 总数排序`,
+    partial,
+    note: !ready
+        ? `热度数据积累中（已记录 ${historyDays} 天），当前按 star 总数排序`
+        : partial
+          ? `按近 ${effectiveWindow} 天 star 增量排序（数据积累中，满 ${WINDOW_DAYS} 天后更准确）`
+          : `按近 ${WINDOW_DAYS} 天 star 增量排序`,
     items
 };
 
@@ -123,7 +128,7 @@ await writeFile(join(root, "trending.json"), JSON.stringify(output, null, 2) + "
 
 console.log(
     `trending.json 已生成：${items.length} 条｜历史 ${historyDays} 天｜` +
-        (ready ? `按近 ${WINDOW_DAYS} 天增量排序` : "冷启动，按 star 总数排序")
+        (ready ? `按近 ${effectiveWindow} 天增量排序${partial ? "（数据积累中）" : ""}` : "冷启动，按 star 总数排序")
 );
 if (items.length) {
     items.slice(0, 5).forEach((item) => {

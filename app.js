@@ -348,8 +348,14 @@
                 }
 
                 var sub = document.getElementById("hot-sub");
-                if (sub && !data.ready) {
-                    sub.textContent = "热度数据积累中 · 暂按 star 总数排序";
+                if (sub) {
+                    if (!data.ready) {
+                        sub.textContent = "热度数据积累中 · 暂按 star 总数排序";
+                    } else if (data.partial) {
+                        sub.textContent = "按近 " + data.window_days + " 天 star 增量 · 数据积累中";
+                    } else {
+                        sub.textContent = "按近 " + data.window_days + " 天 star 增量 · Top 10";
+                    }
                 }
 
                 grid.innerHTML = items
