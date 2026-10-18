@@ -408,6 +408,7 @@
         .chip-tag.deploy { background: #fdf4ff; color: #a21caf; }
 
         .card-foot {
+            position: relative;       /* 下拉面板以此为定位基准 */
             display: flex;
             align-items: center;
             justify-content: flex-end;
@@ -424,47 +425,100 @@
             justify-content: flex-end;
         }
 
-        /* 安装包切换器：平时是一个小图标按钮，展开时才给足宽度 */
+        /* 安装包切换器：收起时是方形图标按钮，点开在卡片内展开面板 */
         .dl-picker {
-            position: relative;
             display: inline-flex;
             align-items: center;
+            flex: none;
         }
         .dl-picker-btn {
             display: inline-grid;
             place-items: center;
-            width: 30px;
-            height: 30px;
-            border-radius: 7px;
+            width: 34px;
+            height: 34px;
+            border-radius: 8px;
             border: 1px solid var(--border-strong);
             background: var(--surface);
             color: var(--muted);
             cursor: pointer;
+            padding: 0;
+            transition: border-color .15s, color .15s, background .15s;
+        }
+        .dl-picker-btn:hover,
+        .dl-picker.is-open .dl-picker-btn {
+            border-color: var(--brand);
+            color: var(--brand);
+            background: #f0fdf4;
+        }
+        .dl-picker-btn .icon { font-size: 15px; transition: transform .15s; }
+        .dl-picker.is-open .dl-picker-btn .icon { transform: rotate(180deg); }
+
+        /* 没有下拉框的卡片用等宽空位占住，保证同一行按钮对齐 */
+        .dl-picker.is-empty {
+            width: 34px;
+            height: 34px;
+            visibility: hidden;
             pointer-events: none;
         }
-        .dl-picker-btn .icon { font-size: 13px; }
 
-        .platform-select {
+        /* 下拉面板：锚定在卡片底部区域，宽度与卡片内容等宽，永远不溢出 */
+        .pkg-menu {
             position: absolute;
             left: 0;
-            top: 0;
-            width: 32px;
-            height: 30px;
-            opacity: 0;
-            cursor: pointer;
+            right: 0;
+            bottom: calc(100% + 8px);
+            width: auto;
+            max-height: 240px;
+            overflow-y: auto;
+            background: var(--surface);
+            border: 1px solid var(--border-strong);
+            border-radius: 10px;
+            box-shadow: 0 12px 30px rgba(17, 24, 39, .16);
+            padding: 4px;
+            display: none;
+            z-index: 30;
+        }
+        .pkg-menu.is-open { display: block; }
+        .pkg-option {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            width: 100%;
+            padding: 7px 8px;
+            border: 0;
+            border-radius: 7px;
+            background: none;
             font: inherit;
             font-size: 12.5px;
-            border-radius: 7px;
+            color: var(--ink-soft);
+            text-align: left;
+            cursor: pointer;
         }
-        /* 悬停 / 聚焦时把原生 select 放大成正常宽度的下拉 */
-        .dl-picker:hover .platform-select,
-        .dl-picker:focus-within .platform-select {
-            width: 250px;
-            opacity: 1;
+        .pkg-option:hover { background: #f3f4f6; }
+        .pkg-option .opt-platform {
+            flex: none;
+            font-size: 9.5px;
+            font-weight: 600;
+            color: #a21caf;
+            background: #fdf4ff;
+            padding: 1px 6px;
+            border-radius: 4px;
         }
-        .dl-picker:hover .dl-picker-btn,
-        .dl-picker:focus-within .dl-picker-btn { opacity: 0; }
-        .platform-select:focus { outline: none; }
+        .pkg-option .opt-name {
+            flex: 1 1 auto;
+            min-width: 0;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace;
+            font-size: 11.5px;
+        }
+        .pkg-option .opt-size {
+            flex: none;
+            font-size: 11px;
+            color: var(--muted);
+            font-variant-numeric: tabular-nums;
+        }
 
         .ver {
             font-style: normal;
@@ -510,7 +564,8 @@
             display: inline-flex;
             align-items: center;
             gap: 6px;
-            padding: 8px 14px;
+            height: 34px;             /* 与下拉按钮等高，保证同一行对齐 */
+            padding: 0 14px;
             background: var(--brand);
             color: #fff;
             border-radius: 8px;

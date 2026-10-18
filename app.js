@@ -36,19 +36,23 @@
         },
         {
             slug: "social", label: "社交", icon: "chat", color: "#0369a1",
-            blurb: "论坛、微博客与即时通讯",
+            blurb: "论坛、微博客、即时通讯与加密协作",
             children: [
                 { slug: "microblog", label: "微博客" },
                 { slug: "im", label: "即时通讯" },
-                { slug: "forum", label: "论坛社区" }
+                { slug: "forum", label: "论坛社区" },
+                { slug: "collab-suite", label: "加密协作" },
+                { slug: "calendar", label: "日历与日程" }
             ]
         },
         {
             slug: "finance", label: "金融", icon: "money", color: "#b45309",
-            blurb: "记账、预算与投资组合管理",
+            blurb: "记账、预算、开票与投资组合管理",
             children: [
                 { slug: "personal-finance", label: "个人财务" },
-                { slug: "investment", label: "投资管理" }
+                { slug: "investment", label: "投资管理" },
+                { slug: "accounting", label: "记账核算" },
+                { slug: "payment", label: "支付网关" }
             ]
         },
         {
@@ -56,13 +60,18 @@
             blurb: "在线学习平台与互动课程工具",
             children: [
                 { slug: "lms", label: "在线学习" },
-                { slug: "interactive", label: "互动课程" }
+                { slug: "interactive", label: "互动课程" },
+                { slug: "lab", label: "实验与科研记录" }
             ]
         },
         {
             slug: "medical", label: "医疗", icon: "medical", color: "#be123c",
-            blurb: "电子病历与诊所管理系统",
-            children: [{ slug: "emr", label: "电子病历" }]
+            blurb: "电子病历、影像与诊所管理系统",
+            children: [
+                { slug: "emr", label: "电子病历" },
+                { slug: "imaging", label: "医疗影像" },
+                { slug: "practice", label: "诊所与实验室" }
+            ]
         },
         {
             slug: "enterprise", label: "企业服务", icon: "building", color: "#1d4ed8",
@@ -71,20 +80,25 @@
                 { slug: "admin", label: "后台管理" },
                 { slug: "low-code", label: "低代码平台" },
                 { slug: "bi", label: "数据分析" },
-                { slug: "collaboration", label: "团队协作" }
+                { slug: "collaboration", label: "团队协作" },
+                { slug: "crm", label: "客户关系" },
+                { slug: "erp", label: "企业资源" },
+                { slug: "docs", label: "文档与知识库" }
             ]
         },
         {
             slug: "media", label: "内容媒体", icon: "media", color: "#be185d",
-            blurb: "建站系统与影音媒体服务",
+            blurb: "建站系统、影音媒体与阅读",
             children: [
                 { slug: "cms", label: "建站与 CMS" },
-                { slug: "streaming", label: "影音媒体" }
+                { slug: "streaming", label: "影音媒体" },
+                { slug: "ebook", label: "电子书与阅读" },
+                { slug: "podcast", label: "播客与音频" }
             ]
         },
         {
             slug: "tool", label: "工具", icon: "tool", color: "#334155",
-            blurb: "设计、笔记、开发与自动化工具",
+            blurb: "设计、笔记、安全、运维与自动化工具",
             children: [
                 { slug: "design", label: "设计工具" },
                 { slug: "notes", label: "笔记工具" },
@@ -93,7 +107,13 @@
                 { slug: "automation", label: "自动化" },
                 { slug: "monitoring", label: "运维监控" },
                 { slug: "devtools", label: "开发工具" },
-                { slug: "utility", label: "效率工具" }
+                { slug: "utility", label: "效率工具" },
+                { slug: "security", label: "安全与密码" },
+                { slug: "file", label: "文件管理与网盘" },
+                { slug: "devops", label: "运维部署" },
+                { slug: "readlater", label: "稍后读与收藏" },
+                { slug: "iot", label: "物联网" },
+                { slug: "media-tool", label: "媒体处理" }
             ]
         },
         {
@@ -146,6 +166,7 @@
                 }
                 state.projects = projects;
                 bindSearch();
+                bindPickerDismiss();
                 renderAll();
                 initScrollSpy();
                 updateStats();
@@ -341,7 +362,6 @@
         group.visible.forEach(function (project) {
             grid.appendChild(buildCard(project, primary));
         });
-        bindPlatformPickers();
         section.appendChild(grid);
 
         return section;
@@ -478,26 +498,33 @@
         /* 安装包：从 Release 资产里挑出的候选包（仅 GitHub 有） */
         var assets = Array.isArray(project.best_assets) ? project.best_assets : [];
 
-        /* 有多个包时才显示选择器，避免下拉只有一个选项显得多余 */
+        /* 安装包选择器：多个包时显示，否则放等宽空位占住，
+           保证同一行所有卡片的下载按钮横向对齐 */
         var platformPicker = "";
         if (assets.length > 1) {
             var options = assets
                 .map(function (asset) {
                     return (
-                        '<option value="' + escapeHtml(asset.url) + '">' +
-                        escapeHtml(asset.platform + " · " + asset.name + " · " + formatSize(asset.size)) +
-                        "</option>"
+                        '<button type="button" class="pkg-option" data-url="' + escapeHtml(asset.url) +
+                        '" data-size="' + escapeHtml(formatSize(asset.size)) + '">' +
+                        '<span class="opt-platform">' + escapeHtml(asset.platform) + "</span>" +
+                        '<span class="opt-name" title="' + escapeHtml(asset.name) + '">' +
+                        escapeHtml(asset.name) + "</span>" +
+                        '<span class="opt-size">' + escapeHtml(formatSize(asset.size)) + "</span>" +
+                        "</button>"
                     );
                 })
                 .join("");
-            // 收起时用紧凑的图标按钮，展开时由 CSS 给足宽度
+
+            // 自定义面板：宽度跟随卡片，长文件名自动省略
             platformPicker =
-                '<span class="dl-picker">' +
-                '<span class="dl-picker-btn" title="切换安装包" aria-hidden="true">' +
-                iconMarkup("caret") + "</span>" +
-                '<select class="platform-select" aria-label="选择安装包" data-btn-for="' +
-                escapeHtml(project.repo || "") + '">' + options + "</select>" +
+                '<span class="dl-picker" data-repo="' + escapeHtml(project.repo || "") + '">' +
+                '<button type="button" class="dl-picker-btn" aria-label="选择安装包" aria-haspopup="true">' +
+                iconMarkup("caret") + "</button>" +
+                '<div class="pkg-menu" role="menu">' + options + "</div>" +
                 "</span>";
+        } else {
+            platformPicker = '<span class="dl-picker is-empty" aria-hidden="true"></span>';
         }
 
         card.innerHTML =
@@ -537,30 +564,59 @@
                 : "") +
             "</div></div>";
 
+        bindPicker(card);
         return card;
     }
 
-    /** 切换安装包选择器时，更新「下载应用」的链接与体积 */
-    function bindPlatformPickers() {
-        Array.prototype.forEach.call(
-            document.querySelectorAll(".platform-select"),
-            function (select) {
-                select.addEventListener("change", function () {
-                    var repo = select.getAttribute("data-btn-for");
-                    var button = document.querySelector('.btn-dl[data-dl-for="' + repo + '"]');
-                    if (!button) return;
-                    button.setAttribute("href", select.value);
+    /** 收起所有安装包面板（except 指定的那个保持打开） */    function closeAllPickers(except) {
+        Array.prototype.forEach.call(document.querySelectorAll(".dl-picker.is-open"), function (picker) {
+            if (picker === except) return;
+            picker.classList.remove("is-open");
+            var menu = picker.querySelector(".pkg-menu");
+            if (menu) menu.classList.remove("is-open");
+        });
+    }
 
-                    // 从选项文本里取出体积更新到按钮上
-                    var option = select.options[select.selectedIndex];
+    /** 绑定单张卡片的安装包下拉。
+        直接作用在卡片元素上，不依赖它是否已经挂进文档。 */
+    function bindPicker(card) {
+        var picker = card.querySelector(".dl-picker:not(.is-empty)");
+        if (!picker) return;
+
+        var trigger = picker.querySelector(".dl-picker-btn");
+        var menu = picker.querySelector(".pkg-menu");
+        if (!trigger || !menu) return;
+
+        trigger.addEventListener("click", function (event) {
+            event.stopPropagation();
+            closeAllPickers(picker);
+            var opened = menu.classList.toggle("is-open");
+            picker.classList.toggle("is-open", opened);
+        });
+
+        Array.prototype.forEach.call(menu.querySelectorAll(".pkg-option"), function (option) {
+            option.addEventListener("click", function (event) {
+                event.stopPropagation();
+                var repo = picker.getAttribute("data-repo");
+                var button = document.querySelector('.btn-dl[data-dl-for="' + repo + '"]');
+                if (button) {
+                    button.setAttribute("href", option.getAttribute("data-url"));
                     var sizeNode = button.querySelector(".dl-size");
-                    if (sizeNode && option) {
-                        var match = /\s·\s([\d.]+\s(?:KB|MB|GB))$/.exec(option.textContent);
-                        if (match) sizeNode.textContent = match[1];
-                    }
-                });
-            }
-        );
+                    if (sizeNode) sizeNode.textContent = option.getAttribute("data-size");
+                }
+                menu.classList.remove("is-open");
+                picker.classList.remove("is-open");
+            });
+        });
+    }
+
+    /** 点空白处收起面板：全局只注册一次 */
+    function bindPickerDismiss() {
+        if (bindPickerDismiss.installed) return;
+        bindPickerDismiss.installed = true;
+        document.addEventListener("click", function () {
+            closeAllPickers(null);
+        });
     }
 
     /** 字节数 -> 人类可读体积 */
