@@ -1309,20 +1309,21 @@
      * 大数字缩略显示，避免「241 个」这类精确数字在首屏占太多视觉重量。
      *
      *   小于 200   → 原样显示（11、52 这种小数字照常）
-     *   200-999    → 向下取整到百位 + "++"（241 → 200++）
-     *   1000-9999  → "1.2K" 形式（向下取，不夸大）
+     *   200-999    → 向下取整到百位 + "+"（241 → 200+）
+     *   1000-9999  → "1.2K+" 形式（向下取，不夸大）
      *   10000 以上 → "1万+"
      *
+     * 统一用单个 "+" 表示「不少于」，因为都是向下取整，不会夸大。
      * 完整数字保留在 title 里，鼠标悬停可以看到。
      */
     function formatStat(value) {
         var n = Number(value);
         if (!isFinite(n) || n < 0) return "–";
         if (n < 200) return String(n);
-        if (n < 1000) return Math.floor(n / 100) * 100 + "++";
+        if (n < 1000) return Math.floor(n / 100) * 100 + "+";
         if (n < 10000) {
             var k = Math.floor(n / 100) / 10; // 向下取一位小数：9999 → 9.9
-            return (k % 1 === 0 ? String(k) : k.toFixed(1)) + "K";
+            return (k % 1 === 0 ? String(k) : k.toFixed(1)) + "K+";
         }
         return Math.floor(n / 10000) + "万+";
     }
