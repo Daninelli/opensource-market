@@ -26,7 +26,9 @@ _*.ps1
 _*.png
 _*.json
 !projects.json
-!projects-candidates.json
+
+# 候选池草稿（本地筛选用，不入库；合并完即可丢弃）
+projects-candidates.json
 
 # 本地 AI 操作手册（只存在于本地，不提交）
 AGENTS.md

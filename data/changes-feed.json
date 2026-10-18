@@ -1,6 +1,6 @@
 {
   "note": "由 tools/build-changes-feed.mjs 自动生成；只含变动事件，不含状态快照",
-  "generated_at": "2026-10-18T13:18:29.061Z",
+  "generated_at": "2026-10-18T13:28:24.235Z",
   "monitored": 241,
   "since": "2026-10-18",
   "total": 0,
