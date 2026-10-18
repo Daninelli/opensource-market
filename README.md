@@ -75,69 +75,7 @@ python -m http.server 8000
 
 每个一级分类下有若干二级分类（如「电商 → 无头电商 / 电商前端 / 平台商城」）。
 
-分类体系定义在 `app.js` 的 `TAXONOMY`，新增项目时 `category_slug` / `subcategory_slug` 必须与之一致，`tools/check-data.mjs` 会校验。
-
-## 新增一个项目
-
-在 `projects.json` 数组里加一条：
-
-```json
-{
-  "name": "项目名",
-  "repo": "owner/repo",
-  "category": "工具",
-  "category_slug": "tool",
-  "subcategory": "开发工具",
-  "subcategory_slug": "devtools",
-  "tech_stack": ["TypeScript", "React"],
-  "deploy_type": "Docker",
-  "note_zh": "一句话简介，建议控制在 50 字以内",
-  "license": "MIT"
-}
-```
-
-字段规范见 [DATA-FORMAT.md](DATA-FORMAT.md)。
-
-改完跑一下自检：
-
-```bash
-node tools/check-data.mjs
-```
-
-### 手动置顶
-
-想让某个项目排在分类最前面，加这几个字段：
-
-```json
-{
-  "name": "项目名",
-  "pinned": true,
-  "pin_label": "推荐",
-  "pin_note": "推荐理由，鼠标悬停显示",
-  "pin_until": "2026-12-31"
-}
-```
-
-| 字段 | 说明 | 必填 |
-| --- | --- | --- |
-| `pinned` | 是否置顶 | ✅ |
-| `pin_label` | 徽章文字，默认「置顶」，最多 6 字 | ❌ |
-| `pin_note` | 推荐理由，最多 40 字 | ❌ |
-| `pin_until` | 到期日，过期自动失效 | 建议填 |
-
-校验规则：**最多 5 个置顶**，`pin_label` / `pin_note` 有字数上限。超了 `check-data.mjs` 会直接报错。
-
-### 候选池
-
-批量添加走候选池流程：
-
-```bash
-node tools/check-candidates.mjs     # 先自检
-node tools/merge-candidates.mjs     # 干跑，看会新增哪些
-node tools/merge-candidates.mjs --write
-```
-
-脚本按 `repo` 去重，写入前自动备份 `projects.json`。
+分类体系定义在 `app.js` 的 `TAXONOMY`。投稿时只需填写分类中文名，系统会自动转换并校验。
 
 ## 数据自动更新
 

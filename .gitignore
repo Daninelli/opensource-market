@@ -28,6 +28,11 @@ _*.json
 !projects.json
 !projects-candidates.json
 
+# 本地 AI 操作手册（只存在于本地，不提交）
+AGENTS.md
+CLAUDE.md
+.claude/
+
 # 凭据与密钥（一律不要提交）
 .git-credentials
 *git-credentials
