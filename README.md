@@ -1,5 +1,7 @@
 # 开源集市
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 把「拿来就能用，或稍微改改就能二次开发」的开源成品应用集中展示的纯静态导航站。
 
 - 纯 HTML + CSS + 原生 JS，无框架、无构建步骤
@@ -26,13 +28,18 @@ python -m http.server 8000
 ├── index.html              # 页面结构 + SVG 图标精灵（全部自绘，不用 emoji）
 ├── app.js                  # 分类体系、分区渲染、筛选、搜索、热门榜
 ├── assets/site.css         # 全部样式
+├── assets/recent.js        # 最近收录页脚本
 ├── projects.json           # 项目数据（站点唯一数据源）
 ├── projects-candidates.json# 候选池：待审核的新项目，站点不直接读取
 ├── meta.json               # 数据刷新时间（由脚本自动生成）
 ├── trending.json           # 热门榜（由脚本按 star 增量生成）
 ├── data/stars-history.json # star 每日快照（保留 30 天）
+├── recent.html             # 最近收录（独立页面，列表 + 表头）
 ├── licenses.html           # 开源协议说明
 ├── disclaimer.html         # 免责声明
+├── CONTRIBUTING.md         # 如何贡献（新增项目 / 手工置顶）
+├── CODE_OF_CONDUCT.md      # 行为准则
+├── LICENSE                # 本站代码与数据的开源协议（MIT）
 ├── tools/
 │   ├── fetch-repo-data.mjs  # 抓 star / 更新时间 / 下载直链，并写快照
 │   ├── build-trending.mjs  # 生成 trending.json（近 7 天 star 增量）
@@ -157,6 +164,23 @@ git config core.hooksPath .githooks
 ```
 
 `.gitignore` 已屏蔽 `.git-credentials`、`*.pem`、`*.key`、`.env` 等。
+
+## 开源协议
+
+本站的页面源码、样式与项目数据以 **MIT 协议**开源，见 [LICENSE](LICENSE)。
+
+需要注意区分两类协议：
+
+| 对象 | 协议 | 谁定的 |
+| --- | --- | --- |
+| 本站代码与数据 | MIT | 本站维护者 |
+| 收录的第三方项目 | 各自的项目协议 | 各项目作者 |
+
+本站只做收录与外链跳转，不托管、不存储、不分发任何第三方项目的代码或安装包，
+因此不构成许可证意义上的「分发」。贡献代码请遵循 [CONTRIBUTING.md](CONTRIBUTING.md)，
+参与互动请遵循 [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)。
+
+---
 
 ## 免责说明
 

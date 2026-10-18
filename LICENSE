@@ -1,0 +1,33 @@
+MIT License
+
+Copyright (c) 2026 Daninelli
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+关于本站收录的第三方开源项目：
+
+本仓库的代码与数据以 MIT 协议开源。本站仅做项目收录与链接跳转，不托管、
+不存储、不分发任何第三方项目的源代码或安装包；所有下载均跳转至 GitHub /
+Gitee 等平台的官方服务器，字节流由原作者的服务器直接提供给用户。
+
+收录项目的代码、商标与文档均归各自作者或权利人所有，并适用其各自的开源
+协议（如 MIT、Apache-2.0、GPL、AGPL 等）。本站不对第三方项目作任何担保，
+使用前请阅读对应仓库内的 LICENSE 文件。

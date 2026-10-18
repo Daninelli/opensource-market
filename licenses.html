@@ -6,7 +6,7 @@
     <meta name="description" content="开源集市收录项目的开源协议说明：MIT、Apache-2.0、BSD、MPL、GPL、AGPL 的区别，以及二次开发与商用前需要注意什么。">
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
     <title>开源协议说明 · 开源集市</title>
-    <link rel="stylesheet" href="assets/site.css?v=20261018d">
+    <link rel="stylesheet" href="assets/site.css?v=20261018e">
 </head>
 <body>
     <svg class="icon-sprite" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
@@ -52,6 +52,25 @@
         <div class="prose">
             <div class="note">
                 本文只是常识性梳理，<strong>不构成法律意见</strong>。协议以各项目仓库根目录下的 <code>LICENSE</code> 文件原文为准；商用前请自行阅读原文或咨询律师。
+            </div>
+
+            <h2>本站自身的协议</h2>
+            <p>开源集市的<strong>页面源码、样式与项目数据，以 <a href="https://github.com/Daninelli/opensource-market/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">MIT 协议</a>开源</strong>。你可以自由地阅读、复制、修改、再分发，甚至拿去做自己的导航站，只需保留版权声明。</p>
+            <p>这与下面要讲的第三方项目协议是两件事，需要分开理解：</p>
+            <ul>
+                <li><strong>本站自身的 MIT</strong>：管的是这个导航站的代码与数据；</li>
+                <li><strong>各项目的协议</strong>：管的是被收录项目自身的代码，本站不参与它们的授权。</li>
+            </ul>
+
+            <h2>本站收录了什么，没有收录什么</h2>
+            <p>本站只收录两类信息：</p>
+            <ul>
+                <li><strong>客观事实</strong>：项目名称、仓库地址、star 数、最近更新时间、许可证名称。这些属于事实陈述。</li>
+                <li><strong>自行撰写的简介</strong>：<code>note_zh</code> 由本站维护者独立撰写，<strong>不复制上游 README 原文</strong>。</li>
+            </ul>
+            <p>本站<strong>没有</strong>收录、也没有托管：第三方项目的源代码、安装包、图标素材与文档全文。</p>
+            <div class="note">
+                卡片上的下载按钮是普通外链，点击后浏览器直接跳转至 GitHub / Gitee 官方服务器，字节流由原作者的服务器直接提供，本站服务器全程不参与传输，因此不构成许可证意义上的「分发」。
             </div>
 
             <h2>一句话判断</h2>
@@ -117,13 +136,18 @@
 
     <footer class="footer">
         <div class="footer-links">
+            <a href="index.html">开源集市</a>
             <a href="recent.html">最近收录</a>
-                <a href="licenses.html">开源协议说明</a>
+            <a href="licenses.html">开源协议说明</a>
             <a href="disclaimer.html">免责声明</a>
             <a href="https://github.com/Daninelli/opensource-market" target="_blank" rel="noopener noreferrer">GitHub 仓库</a>
-            <a href="https://github.com/Daninelli/opensource-market/issues/new" target="_blank" rel="noopener noreferrer">提交项目</a>
         </div>
         <p>收录项目的代码、商标与文档均归原作者所有。</p>
+        <p class="footer-license">
+            本站页面与数据以 <strong>MIT 协议</strong>开源 ·
+            <a href="https://github.com/Daninelli/opensource-market/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">查看协议</a> ·
+            欢迎 <a href="https://github.com/Daninelli/opensource-market/pulls" target="_blank" rel="noopener noreferrer">Pull Request</a>
+        </p>
     </footer>
 </body>
 </html>
