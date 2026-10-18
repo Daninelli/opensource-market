@@ -1305,6 +1305,28 @@
 
     /* ------------------------------ 统计 / 空态 / 错误 ------------------------------ */
 
+    /**
+     * 大数字缩略显示，避免「241 个」这类精确数字在首屏占太多视觉重量。
+     *
+     *   小于 200   → 原样显示（11、52 这种小数字照常）
+     *   200-999    → 向下取整到百位 + "++"（241 → 200++）
+     *   1000-9999  → "1.2K" 形式（向下取，不夸大）
+     *   10000 以上 → "1万+"
+     *
+     * 完整数字保留在 title 里，鼠标悬停可以看到。
+     */
+    function formatStat(value) {
+        var n = Number(value);
+        if (!isFinite(n) || n < 0) return "–";
+        if (n < 200) return String(n);
+        if (n < 1000) return Math.floor(n / 100) * 100 + "++";
+        if (n < 10000) {
+            var k = Math.floor(n / 100) / 10; // 向下取一位小数：9999 → 9.9
+            return (k % 1 === 0 ? String(k) : k.toFixed(1)) + "K";
+        }
+        return Math.floor(n / 10000) + "万+";
+    }
+
     function updateStats() {
         var primaryCount = new Set(state.projects.map(function (project) {
             return resolveCategory(project).slug;
@@ -1316,12 +1338,22 @@
             if (sub) subSet[primary.slug + "/" + sub.slug] = true;
         });
 
-        setText("stat-projects", state.projects.length);
-        setText("stat-primary", primaryCount);
-        setText("stat-sub", Object.keys(subSet).length);
-        setText("stat-download", state.projects.filter(function (project) {
+        var downloadCount = state.projects.filter(function (project) {
             return !!(project.download_url || project.repo);
-        }).length);
+        }).length;
+
+        setStat("stat-projects", state.projects.length);
+        setStat("stat-primary", primaryCount);
+        setStat("stat-sub", Object.keys(subSet).length);
+        setStat("stat-download", downloadCount);
+    }
+
+    /** 缩略值显示，完整数字放 title 供悬停查看 */
+    function setStat(id, value) {
+        var node = document.getElementById(id);
+        if (!node) return;
+        node.textContent = formatStat(value);
+        node.setAttribute("title", String(value));
     }
 
     function setText(id, value) {
