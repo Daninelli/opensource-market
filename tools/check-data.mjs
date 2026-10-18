@@ -95,6 +95,23 @@ projects.forEach((project, index) => {
         }
     }
 
+    /* 平台字段：github / gitee / both，缺省视为 github */
+    const platform = project.platform || "github";
+    if (!["github", "gitee", "both"].includes(platform)) {
+        fail(index, name, `platform 只能是 github / gitee / both，当前是 ${platform}`);
+    }
+    if (platform === "gitee" || platform === "both") {
+        if (!project.gitee_repo && !project.gitee_url) {
+            fail(index, name, `platform 为 ${platform} 时必须提供 gitee_repo 或 gitee_url`);
+        }
+        if (project.gitee_repo && !/^[\w.-]+\/[\w.-]+$/.test(project.gitee_repo)) {
+            fail(index, name, `gitee_repo 格式应为 owner/repo，当前是 ${project.gitee_repo}`);
+        }
+    }
+    if (platform === "github" || platform === "both") {
+        if (!project.repo) fail(index, name, `platform 为 ${platform} 时必须提供 repo`);
+    }
+
     const primary = TAXONOMY[project.category_slug];
     if (!primary) {
         fail(index, name, `未知的一级分类 slug：${project.category_slug}`);

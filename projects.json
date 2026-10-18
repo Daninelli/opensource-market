@@ -17,7 +17,8 @@
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/medusajs/medusa/zip/refs/heads/develop",
     "stars": 36785,
-    "updated_at": "2026-10-17T10:23:09Z"
+    "updated_at": "2026-10-17T10:23:09Z",
+    "platform": "github"
   },
   {
     "name": "Saleor",
@@ -52,7 +53,8 @@
         }
       ]
     },
-    "updated_at": "2026-10-16T14:04:06Z"
+    "updated_at": "2026-10-16T14:04:06Z",
+    "platform": "github"
   },
   {
     "name": "Sylius",
@@ -71,7 +73,8 @@
     "default_branch": "2.3",
     "download_url": "https://codeload.github.com/Sylius/Sylius/zip/refs/heads/2.3",
     "stars": 8560,
-    "updated_at": "2026-10-18T02:11:27Z"
+    "updated_at": "2026-10-18T02:11:27Z",
+    "platform": "github"
   },
   {
     "name": "Next.js Commerce",
@@ -91,7 +94,8 @@
     "default_branch": "main",
     "download_url": "https://codeload.github.com/vercel/commerce/zip/refs/heads/main",
     "stars": 14310,
-    "updated_at": "2026-10-06T19:42:41Z"
+    "updated_at": "2026-10-06T19:42:41Z",
+    "platform": "github"
   },
   {
     "name": "Bagisto",
@@ -111,7 +115,8 @@
     "default_branch": "2.5",
     "download_url": "https://codeload.github.com/bagisto/bagisto/zip/refs/heads/2.5",
     "stars": 28249,
-    "updated_at": "2026-10-16T16:08:11Z"
+    "updated_at": "2026-10-16T16:08:11Z",
+    "platform": "github"
   },
   {
     "name": "Godot Engine",
@@ -416,7 +421,8 @@
         "platform": "其他平台"
       }
     ],
-    "updated_at": "2026-10-16T16:38:08Z"
+    "updated_at": "2026-10-16T16:38:08Z",
+    "platform": "github"
   },
   {
     "name": "Luanti（原 Minetest）",
@@ -535,7 +541,8 @@
         "platform": "Android"
       }
     ],
-    "updated_at": "2026-10-17T17:13:53Z"
+    "updated_at": "2026-10-17T17:13:53Z",
+    "platform": "github"
   },
   {
     "name": "OpenRA",
@@ -666,7 +673,8 @@
         "platform": "Linux"
       }
     ],
-    "updated_at": "2026-10-11T14:29:17Z"
+    "updated_at": "2026-10-11T14:29:17Z",
+    "platform": "github"
   },
   {
     "name": "Mastodon",
@@ -685,7 +693,8 @@
     "default_branch": "main",
     "download_url": "https://codeload.github.com/mastodon/mastodon/zip/refs/heads/main",
     "stars": 50414,
-    "updated_at": "2026-10-17T20:25:15Z"
+    "updated_at": "2026-10-17T20:25:15Z",
+    "platform": "github"
   },
   {
     "name": "Element Web",
@@ -739,7 +748,8 @@
         "platform": "通用"
       }
     ],
-    "updated_at": "2026-10-17T12:48:57Z"
+    "updated_at": "2026-10-17T12:48:57Z",
+    "platform": "github"
   },
   {
     "name": "Discourse",
@@ -758,7 +768,8 @@
     "default_branch": "main",
     "download_url": "https://codeload.github.com/discourse/discourse/zip/refs/heads/main",
     "stars": 47989,
-    "updated_at": "2026-10-18T02:19:16Z"
+    "updated_at": "2026-10-18T02:19:16Z",
+    "platform": "github"
   },
   {
     "name": "Firefly III",
@@ -842,7 +853,8 @@
         "platform": "通用"
       }
     ],
-    "updated_at": "2026-10-18T03:47:43Z"
+    "updated_at": "2026-10-18T03:47:43Z",
+    "platform": "github"
   },
   {
     "name": "Actual Budget",
@@ -973,7 +985,8 @@
         "platform": "Linux"
       }
     ],
-    "updated_at": "2026-10-18T00:19:56Z"
+    "updated_at": "2026-10-18T00:19:56Z",
+    "platform": "github"
   },
   {
     "name": "Ghostfolio",
@@ -993,7 +1006,8 @@
     "default_branch": "main",
     "download_url": "https://codeload.github.com/ghostfolio/ghostfolio/zip/refs/heads/main",
     "stars": 9507,
-    "updated_at": "2026-10-17T19:02:24Z"
+    "updated_at": "2026-10-17T19:02:24Z",
+    "platform": "github"
   },
   {
     "name": "Moodle",
@@ -1012,7 +1026,8 @@
     "default_branch": "main",
     "download_url": "https://codeload.github.com/moodle/moodle/zip/refs/heads/main",
     "stars": 7491,
-    "updated_at": "2026-10-13T12:07:26Z"
+    "updated_at": "2026-10-13T12:07:26Z",
+    "platform": "github"
   },
   {
     "name": "Oppia",
@@ -1031,7 +1046,8 @@
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/oppia/oppia/zip/refs/heads/develop",
     "stars": 6865,
-    "updated_at": "2026-10-16T22:11:15Z"
+    "updated_at": "2026-10-16T22:11:15Z",
+    "platform": "github"
   },
   {
     "name": "OpenEMR",
@@ -1126,7 +1142,8 @@
         "platform": "通用"
       }
     ],
-    "updated_at": "2026-10-18T03:34:07Z"
+    "updated_at": "2026-10-18T03:34:07Z",
+    "platform": "github"
   },
   {
     "name": "Vue Vben Admin",
@@ -1147,7 +1164,8 @@
     "default_branch": "main",
     "download_url": "https://codeload.github.com/vbenjs/vue-vben-admin/zip/refs/heads/main",
     "stars": 33625,
-    "updated_at": "2026-10-16T19:45:21Z"
+    "updated_at": "2026-10-16T19:45:21Z",
+    "platform": "github"
   },
   {
     "name": "Vue Pure Admin",
@@ -1168,7 +1186,8 @@
     "default_branch": "main",
     "download_url": "https://codeload.github.com/pure-admin/vue-pure-admin/zip/refs/heads/main",
     "stars": 20697,
-    "updated_at": "2026-10-12T06:10:23Z"
+    "updated_at": "2026-10-12T06:10:23Z",
+    "platform": "github"
   },
   {
     "name": "Ant Design Pro",
@@ -1189,7 +1208,8 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/ant-design/ant-design-pro/zip/refs/heads/master",
     "stars": 38863,
-    "updated_at": "2026-10-15T01:57:02Z"
+    "updated_at": "2026-10-15T01:57:02Z",
+    "platform": "github"
   },
   {
     "name": "Appsmith",
@@ -1209,7 +1229,8 @@
     "default_branch": "release",
     "download_url": "https://codeload.github.com/appsmithorg/appsmith/zip/refs/heads/release",
     "stars": 41081,
-    "updated_at": "2026-10-16T15:24:38Z"
+    "updated_at": "2026-10-16T15:24:38Z",
+    "platform": "github"
   },
   {
     "name": "ToolJet",
@@ -1229,7 +1250,8 @@
     "default_branch": "main",
     "download_url": "https://codeload.github.com/ToolJet/ToolJet/zip/refs/heads/main",
     "stars": 41104,
-    "updated_at": "2026-10-18T03:25:57Z"
+    "updated_at": "2026-10-18T03:25:57Z",
+    "platform": "github"
   },
   {
     "name": "NocoDB",
@@ -1249,7 +1271,8 @@
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/nocodb/nocodb/zip/refs/heads/develop",
     "stars": 65294,
-    "updated_at": "2026-10-18T02:08:26Z"
+    "updated_at": "2026-10-18T02:08:26Z",
+    "platform": "github"
   },
   {
     "name": "Metabase",
@@ -1269,7 +1292,8 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/metabase/metabase/zip/refs/heads/master",
     "stars": 49719,
-    "updated_at": "2026-10-18T03:52:18Z"
+    "updated_at": "2026-10-18T03:52:18Z",
+    "platform": "github"
   },
   {
     "name": "Apache Superset",
@@ -1289,7 +1313,8 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/apache/superset/zip/refs/heads/master",
     "stars": 75196,
-    "updated_at": "2026-10-18T01:37:43Z"
+    "updated_at": "2026-10-18T01:37:43Z",
+    "platform": "github"
   },
   {
     "name": "Grafana",
@@ -1409,7 +1434,8 @@
         "platform": "Linux"
       }
     ],
-    "updated_at": "2026-10-18T01:10:35Z"
+    "updated_at": "2026-10-18T01:10:35Z",
+    "platform": "github"
   },
   {
     "name": "Nextcloud",
@@ -1429,7 +1455,8 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/nextcloud/server/zip/refs/heads/master",
     "stars": 37162,
-    "updated_at": "2026-10-18T02:41:15Z"
+    "updated_at": "2026-10-18T02:41:15Z",
+    "platform": "github"
   },
   {
     "name": "Chatwoot",
@@ -1448,7 +1475,8 @@
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/chatwoot/chatwoot/zip/refs/heads/develop",
     "stars": 37910,
-    "updated_at": "2026-10-18T01:59:12Z"
+    "updated_at": "2026-10-18T01:59:12Z",
+    "platform": "github"
   },
   {
     "name": "Wekan",
@@ -2317,7 +2345,8 @@
         "platform": "其他平台"
       }
     ],
-    "updated_at": "2026-10-17T23:50:01Z"
+    "updated_at": "2026-10-17T23:50:01Z",
+    "platform": "github"
   },
   {
     "name": "Halo",
@@ -2365,7 +2394,8 @@
         "platform": "通用"
       }
     ],
-    "updated_at": "2026-10-16T14:35:12Z"
+    "updated_at": "2026-10-16T14:35:12Z",
+    "platform": "github"
   },
   {
     "name": "WordPress",
@@ -2384,7 +2414,8 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/WordPress/WordPress/zip/refs/heads/master",
     "stars": 21480,
-    "updated_at": "2026-10-18T04:19:06Z"
+    "updated_at": "2026-10-18T04:19:06Z",
+    "platform": "github"
   },
   {
     "name": "Jellyfin",
@@ -2404,7 +2435,8 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/jellyfin/jellyfin/zip/refs/heads/master",
     "stars": 58171,
-    "updated_at": "2026-10-18T01:10:24Z"
+    "updated_at": "2026-10-18T01:10:24Z",
+    "platform": "github"
   },
   {
     "name": "Navidrome",
@@ -2637,7 +2669,8 @@
         "platform": "Linux"
       }
     ],
-    "updated_at": "2026-10-17T10:14:01Z"
+    "updated_at": "2026-10-17T10:14:01Z",
+    "platform": "github"
   },
   {
     "name": "Penpot",
@@ -2656,7 +2689,8 @@
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/penpot/penpot/zip/refs/heads/develop",
     "stars": 61301,
-    "updated_at": "2026-10-17T20:51:44Z"
+    "updated_at": "2026-10-17T20:51:44Z",
+    "platform": "github"
   },
   {
     "name": "Excalidraw",
@@ -2676,7 +2710,8 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/excalidraw/excalidraw/zip/refs/heads/master",
     "stars": 134075,
-    "updated_at": "2026-10-17T15:15:02Z"
+    "updated_at": "2026-10-17T15:15:02Z",
+    "platform": "github"
   },
   {
     "name": "draw.io",
@@ -2717,7 +2752,8 @@
         "platform": "通用"
       }
     ],
-    "updated_at": "2026-10-08T21:48:25Z"
+    "updated_at": "2026-10-08T21:48:25Z",
+    "platform": "github"
   },
   {
     "name": "Memos",
@@ -2818,7 +2854,8 @@
         "platform": "Linux"
       }
     ],
-    "updated_at": "2026-10-18T04:11:59Z"
+    "updated_at": "2026-10-18T04:11:59Z",
+    "platform": "github"
   },
   {
     "name": "Joplin",
@@ -3016,7 +3053,8 @@
         "platform": "通用"
       }
     ],
-    "updated_at": "2026-10-18T04:24:46Z"
+    "updated_at": "2026-10-18T04:24:46Z",
+    "platform": "github"
   },
   {
     "name": "AppFlowy",
@@ -3159,7 +3197,8 @@
         "platform": "Android"
       }
     ],
-    "updated_at": "2026-10-08T11:00:14Z"
+    "updated_at": "2026-10-08T11:00:14Z",
+    "platform": "github"
   },
   {
     "name": "PhotoPrism",
@@ -3213,7 +3252,8 @@
         "platform": "Linux"
       }
     ],
-    "updated_at": "2026-10-17T20:12:05Z"
+    "updated_at": "2026-10-17T20:12:05Z",
+    "platform": "github"
   },
   {
     "name": "Immich",
@@ -3315,7 +3355,8 @@
         "platform": "Android"
       }
     ],
-    "updated_at": "2026-10-17T23:51:40Z"
+    "updated_at": "2026-10-17T23:51:40Z",
+    "platform": "github"
   },
   {
     "name": "Supabase",
@@ -3335,7 +3376,8 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/supabase/supabase/zip/refs/heads/master",
     "stars": 111704,
-    "updated_at": "2026-10-18T00:37:42Z"
+    "updated_at": "2026-10-18T00:37:42Z",
+    "platform": "github"
   },
   {
     "name": "Appwrite",
@@ -3355,7 +3397,8 @@
     "default_branch": "main",
     "download_url": "https://codeload.github.com/appwrite/appwrite/zip/refs/heads/main",
     "stars": 57716,
-    "updated_at": "2026-10-17T21:56:55Z"
+    "updated_at": "2026-10-17T21:56:55Z",
+    "platform": "github"
   },
   {
     "name": "n8n",
@@ -3401,7 +3444,8 @@
         }
       ]
     },
-    "updated_at": "2026-10-17T21:01:17Z"
+    "updated_at": "2026-10-17T21:01:17Z",
+    "platform": "github"
   },
   {
     "name": "Uptime Kuma",
@@ -3443,7 +3487,8 @@
         "platform": "通用"
       }
     ],
-    "updated_at": "2026-10-18T03:22:23Z"
+    "updated_at": "2026-10-18T03:22:23Z",
+    "platform": "github"
   },
   {
     "name": "IT-Tools",
@@ -3484,7 +3529,8 @@
         "platform": "通用"
       }
     ],
-    "updated_at": "2026-10-13T15:36:13Z"
+    "updated_at": "2026-10-13T15:36:13Z",
+    "platform": "github"
   },
   {
     "name": "FreshRSS",
@@ -3503,7 +3549,8 @@
     "default_branch": "edge",
     "download_url": "https://codeload.github.com/FreshRSS/FreshRSS/zip/refs/heads/edge",
     "stars": 16315,
-    "updated_at": "2026-10-17T15:37:28Z"
+    "updated_at": "2026-10-17T15:37:28Z",
+    "platform": "github"
   },
   {
     "name": "Hoppscotch",
@@ -3522,7 +3569,8 @@
     "default_branch": "main",
     "download_url": "https://codeload.github.com/hoppscotch/hoppscotch/zip/refs/heads/main",
     "stars": 80640,
-    "updated_at": "2026-10-12T04:41:25Z"
+    "updated_at": "2026-10-12T04:41:25Z",
+    "platform": "github"
   },
   {
     "name": "Gogs",
@@ -3672,7 +3720,8 @@
         "platform": "Linux"
       }
     ],
-    "updated_at": "2026-09-12T20:28:48Z"
+    "updated_at": "2026-09-12T20:28:48Z",
+    "platform": "github"
   },
   {
     "name": "Meilisearch",
@@ -3820,7 +3869,8 @@
         "platform": "Windows"
       }
     ],
-    "updated_at": "2026-10-15T15:53:55Z"
+    "updated_at": "2026-10-15T15:53:55Z",
+    "platform": "github"
   },
   {
     "name": "Decidim",
@@ -3839,7 +3889,8 @@
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/decidim/decidim/zip/refs/heads/develop",
     "stars": 1831,
-    "updated_at": "2026-10-17T20:54:41Z"
+    "updated_at": "2026-10-17T20:54:41Z",
+    "platform": "github"
   },
   {
     "name": "CKAN",
@@ -3859,7 +3910,8 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/ckan/ckan/zip/refs/heads/master",
     "stars": 5139,
-    "updated_at": "2026-10-16T23:42:17Z"
+    "updated_at": "2026-10-16T23:42:17Z",
+    "platform": "github"
   },
   {
     "name": "Home Assistant",
@@ -3878,7 +3930,8 @@
     "default_branch": "dev",
     "download_url": "https://codeload.github.com/home-assistant/core/zip/refs/heads/dev",
     "stars": 91576,
-    "updated_at": "2026-10-18T01:21:17Z"
+    "updated_at": "2026-10-18T01:21:17Z",
+    "platform": "github"
   },
   {
     "name": "Syncthing",
@@ -4164,7 +4217,8 @@
         "platform": "通用"
       }
     ],
-    "updated_at": "2026-10-13T12:28:45Z"
+    "updated_at": "2026-10-13T12:28:45Z",
+    "platform": "github"
   },
   {
     "name": "Pi-hole",
@@ -4183,7 +4237,8 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/pi-hole/pi-hole/zip/refs/heads/master",
     "stars": 61317,
-    "updated_at": "2026-10-17T20:27:58Z"
+    "updated_at": "2026-10-17T20:27:58Z",
+    "platform": "github"
   },
   {
     "name": "Paperless-ngx",
@@ -4225,7 +4280,8 @@
         "platform": "通用"
       }
     ],
-    "updated_at": "2026-10-18T00:54:22Z"
+    "updated_at": "2026-10-18T00:54:22Z",
+    "platform": "github"
   },
   {
     "name": "Krita",
@@ -4244,6 +4300,82 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/KDE/krita/zip/refs/heads/master",
     "stars": 10574,
-    "updated_at": "2026-10-18T00:47:16Z"
+    "updated_at": "2026-10-18T00:47:16Z",
+    "platform": "github"
+  },
+  {
+    "name": "RuoYi",
+    "repo": "y_project/RuoYi",
+    "platform": "gitee",
+    "category": "企业服务",
+    "category_slug": "enterprise",
+    "subcategory": "后台管理",
+    "subcategory_slug": "admin",
+    "tech_stack": [
+      "Java",
+      "Spring Boot",
+      "Vue"
+    ],
+    "deploy_type": "传统部署 / Docker",
+    "note_zh": "国内使用极广的后台管理系统脚手架，权限管理、代码生成、多数据源一应俱全，适合快速搭建企业后台。",
+    "license": "MIT",
+    "stars": 48900,
+    "updated_at": "2026-10-10T15:36:00+08:00",
+    "default_branch": "master",
+    "download_url": "https://gitee.com/y_project/RuoYi/repository/archive/master.zip",
+    "gitee_repo": "y_project/RuoYi",
+    "gitee_url": "https://gitee.com/y_project/RuoYi",
+    "gitee_stars": 48900,
+    "gitee_updated_at": "2026-10-10T15:36:00+08:00"
+  },
+  {
+    "name": "mall",
+    "repo": "macrozheng/mall",
+    "platform": "both",
+    "category": "电商",
+    "category_slug": "ecommerce",
+    "subcategory": "平台商城",
+    "subcategory_slug": "platform",
+    "tech_stack": [
+      "Java",
+      "Spring Boot",
+      "MyBatis",
+      "Vue"
+    ],
+    "deploy_type": "传统部署 / Docker",
+    "note_zh": "国内最知名的开源电商实战项目之一，覆盖商品、订单、支付、营销完整链路，适合学习或二次开发。",
+    "license": "Apache-2.0",
+    "stars": 84915,
+    "updated_at": "2026-09-15T02:34:44Z",
+    "default_branch": "master",
+    "download_url": "https://codeload.github.com/macrozheng/mall/zip/refs/heads/master",
+    "gitee_repo": "macrozheng/mall",
+    "gitee_url": "https://gitee.com/macrozheng/mall",
+    "gitee_stars": 27300,
+    "gitee_updated_at": "2026-09-15T10:33:00+08:00"
+  },
+  {
+    "name": "Sa-Token",
+    "repo": "dromara/Sa-Token",
+    "platform": "both",
+    "category": "工具",
+    "category_slug": "tool",
+    "subcategory": "后端服务",
+    "subcategory_slug": "backend",
+    "tech_stack": [
+      "Java",
+      "Spring Boot"
+    ],
+    "deploy_type": "依赖库（Maven）",
+    "note_zh": "轻量级 Java 权限认证框架，登录鉴权、踢人下线、分布式会话、SSO 都支持，接入成本很低。",
+    "license": "Apache-2.0",
+    "stars": 19087,
+    "updated_at": "2026-10-16T11:50:09Z",
+    "default_branch": "dev",
+    "download_url": "https://codeload.github.com/dromara/Sa-Token/zip/refs/heads/dev",
+    "gitee_repo": "dromara/Sa-Token",
+    "gitee_url": "https://gitee.com/dromara/Sa-Token",
+    "gitee_stars": 49500,
+    "gitee_updated_at": "2026-10-16T17:53:00+08:00"
   }
 ]

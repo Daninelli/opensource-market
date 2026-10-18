@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="开源集市：按分类整理可以直接用、也能轻松二次开发的开源成品应用，点按钮直达 GitHub 下载源码。">
+    <meta name="description" content="开源集市：按分类整理可以直接用、也能轻松二次开发的开源成品应用，支持 GitHub 与 Gitee 双源，点按钮直达下载。">
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
     <title>开源集市 · 开源成品应用集合</title>
     <style>
@@ -283,33 +283,75 @@
         .card-top > div { min-width: 0; flex: 1; }
         .title-row { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; }
         .card h3 { margin: 0; font-size: 1.02rem; color: var(--ink); line-height: 20px; min-width: 0; }
-        .card .repo {
-            display: inline-block;
-            margin-top: 2px;
+
+        /* 仓库行：一个平台一行（GitHub / Gitee），固定两行高保证对齐 */
+        .repo-row {
+            display: flex;
+            flex-direction: column;
+            gap: 3px;
+            min-height: 34px;
+            justify-content: center;
+        }
+        .repo-item {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            min-width: 0;
+            text-decoration: none;
+            line-height: 15px;
+        }
+        .repo-item:hover code { color: var(--brand); text-decoration: underline; }
+        .repo-item .src {
+            flex: none;
+            font-size: 9.5px;
+            font-weight: 600;
+            letter-spacing: .2px;
+            padding: 1px 6px;
+            border-radius: 4px;
+            color: #fff;
+            line-height: 13px;
+        }
+        .src-github { background: #24292f; }
+        .src-gitee { background: #c71d23; }
+        .repo-item code {
             font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace;
             font-size: 11.5px;
             color: var(--faint);
-            word-break: break-all;
-        }
-
-        /* 定高槽位：保证同一行卡片的横线对齐 */
-        .desc {
-            margin: 0;
-            font-size: 13.5px;
-            line-height: 20px;
-            height: 20px;            /* 固定一行高 */
-            color: #4b5563;
-            white-space: nowrap;
             overflow: hidden;
             text-overflow: ellipsis;
+            white-space: nowrap;
+            min-width: 0;
+        }
+        .repo-stars {
+            flex: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 2px;
+            font-size: 11px;
+            color: var(--muted);
+            margin-left: auto;
+        }
+        .repo-stars .icon { font-size: 11px; color: #e0a30a; }
+
+        /* 简介：两行截断，悬停可看全文 */
+        .desc {
+            margin: 0;
+            font-size: 13px;
+            line-height: 19px;
+            height: 38px;
+            color: #4b5563;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
         }
 
-        /* 标签固定一行，超出用省略号，避免有的换行有的不换 */
+        /* 标签一行，超出折叠成 +N */
         .tags {
             display: flex;
             flex-wrap: nowrap;
             gap: 6px;
-            height: 22px;             /* 固定一行高 */
+            height: 22px;
             overflow: hidden;
             align-items: center;
         }
@@ -319,6 +361,11 @@
             max-width: 140px;
             overflow: hidden;
             text-overflow: ellipsis;
+        }
+        .chip-tag.more {
+            background: #eef0f2;
+            color: var(--muted);
+            flex: none;
         }
 
         /* 统计行固定高度：没有数据时也占位，保证下方按钮对齐 */
@@ -330,6 +377,14 @@
             margin: -2px 0 0;
             overflow: hidden;
             white-space: nowrap;
+        }
+        .stat-item.ver-item {
+            font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace;
+            font-size: 10.5px;
+            color: var(--brand);
+            background: rgba(21, 128, 61, .08);
+            padding: 1px 6px;
+            border-radius: 4px;
         }
         .stat-item {
             display: inline-flex;
@@ -552,13 +607,14 @@
             .toolbar { padding: 8px 14px; }
             .grid { grid-template-columns: 1fr; }
             .stats { gap: 8px 18px; }
-            /* 手机上卡片是整行宽度，描述截断反而难读，改为完整换行 */
+            /* 手机上卡片是整行宽度，不截断，给三行完整阅读 */
             .desc {
-                white-space: normal;
-                overflow: visible;
-                text-overflow: clip;
+                height: auto;
+                -webkit-line-clamp: 3;
                 line-height: 1.6;
             }
+            .tags { height: auto; flex-wrap: wrap; }
+            .repo-row { min-height: 0; }
         }
     </style>
 </head>
@@ -658,7 +714,7 @@
                 <svg class="icon"><use href="#icon-market"></use></svg>
             </span>
             <h1>开源集市</h1>
-            <p class="tagline">按分类整理的开源成品应用，能直接用，也能直接二次开发。点按钮直达 GitHub 下载源码。</p>
+            <p class="tagline">按分类整理的开源成品应用，能直接用，也能直接二次开发。支持 GitHub 与 Gitee 双源，点按钮直达下载。</p>
             <ul class="stats">
                 <li><b id="stat-projects">–</b><span>个开源项目</span></li>
                 <li><b id="stat-primary">–</b><span>个一级分类</span></li>

@@ -359,35 +359,123 @@
         return chip;
     }
 
+    /* 平台来源：一个项目可能同时存在于 GitHub 与 Gitee */
+    function buildSources(project) {
+        var platform = project.platform || "github";
+        var list = [];
+
+        if (platform === "github" || platform === "both") {
+            if (project.repo) {
+                list.push({
+                    key: "github",
+                    label: "GitHub",
+                    url: "https://github.com/" + project.repo,
+                    path: project.repo,
+                    stars: project.stars
+                });
+            }
+        }
+
+        if (platform === "gitee" || platform === "both") {
+            var giteePath = project.gitee_repo || (platform === "gitee" ? project.repo : "");
+            if (giteePath) {
+                list.push({
+                    key: "gitee",
+                    label: "Gitee",
+                    url: project.gitee_url || "https://gitee.com/" + giteePath,
+                    path: giteePath,
+                    stars: project.gitee_stars
+                });
+            }
+        }
+
+        return list;
+    }
+
+    /** Gitee 源码 zip 直链 */
+    function giteeZipUrl(project) {
+        var path = project.gitee_repo || project.repo;
+        if (!path) return "";
+        var branch = project.default_branch || "master";
+        return "https://gitee.com/" + path + "/repository/archive/" + branch + ".zip";
+    }
+
     function buildCard(project, primary) {
         var card = document.createElement("article");
         card.className = "card";
 
+        var platform = project.platform || "github";
+        var sources = buildSources(project);
+
+        /* 仓库行：每个平台一条，带平台标识 + 路径 + 该平台的 star */
+        var repoRow = sources
+            .map(function (source) {
+                var starPart =
+                    typeof source.stars === "number" && source.stars > 0
+                        ? '<span class="repo-stars">' + iconMarkup("star") + formatCount(source.stars) + "</span>"
+                        : "";
+                return (
+                    '<a class="repo-item" href="' + escapeHtml(source.url) +
+                    '" target="_blank" rel="noopener noreferrer" title="在 ' +
+                    escapeHtml(source.label) + ' 打开仓库">' +
+                    '<span class="src src-' + source.key + '">' + source.label + "</span>" +
+                    "<code>" + escapeHtml(source.path) + "</code>" +
+                    starPart +
+                    "</a>"
+                );
+            })
+            .join("");
+
+        /* 标签：最多显示 4 个，其余折叠成 +N */
         var sub = resolveSubcategory(project, primary);
-        var tech = (Array.isArray(project.tech_stack) ? project.tech_stack : []).slice(0, 4);
-        var tags = (sub ? '<span class="chip-tag sub">' + escapeHtml(sub.label) + "</span>" : "") +
-            (project.deploy_type ? '<span class="chip-tag deploy">' + escapeHtml(project.deploy_type) + "</span>" : "") +
-            tech.map(function (item) {
-                return '<span class="chip-tag">' + escapeHtml(item) + "</span>";
-            }).join("");
+        var tagList = [];
+        if (sub) tagList.push({ cls: "sub", text: sub.label });
+        if (project.deploy_type) tagList.push({ cls: "deploy", text: project.deploy_type });
+        (Array.isArray(project.tech_stack) ? project.tech_stack : []).forEach(function (item) {
+            tagList.push({ cls: "", text: item });
+        });
 
-        /* 统计行：star 固定在第一位，更新时间紧随其后。
-           两个槽位都固定占位，这样同行卡片的横线才对齐 */
-        var starsCell =
-            typeof project.stars === "number" && project.stars > 0
-                ? '<span class="stat-item">' + iconMarkup("star") + formatCount(project.stars) + "</span>"
-                : '<span class="stat-item is-empty">' + iconMarkup("star") + "0</span>";
+        var TAG_LIMIT = 4;
+        var shownTags = tagList.slice(0, TAG_LIMIT);
+        var restCount = tagList.length - shownTags.length;
 
-        var timeCell = project.updated_at
-            ? '<span class="stat-item">' + iconMarkup("clock") + relativeTime(project.updated_at) + "</span>"
-            : '<span class="stat-item is-empty">' + iconMarkup("clock") + "更新时间待补充</span>";
+        var tags = shownTags
+            .map(function (item) {
+                return '<span class="chip-tag ' + item.cls + '">' + escapeHtml(item.text) + "</span>";
+            })
+            .join("");
+        if (restCount > 0) {
+            tags += '<span class="chip-tag more" title="' +
+                escapeHtml(tagList.slice(TAG_LIMIT).map(function (t) { return t.text; }).join(" / ")) +
+                '">+' + restCount + "</span>";
+        }
 
-        var stats = starsCell + timeCell;
+        /* 更新时间：双平台取较新的那个 */
+        var updatedAt = project.updated_at || "";
+        if (project.gitee_updated_at) {
+            if (!updatedAt || new Date(project.gitee_updated_at) > new Date(updatedAt)) {
+                updatedAt = project.gitee_updated_at;
+            }
+        }
 
-        /* 源码 zip：codeload 直链 */
-        var sourceUrl = project.download_url || (project.repo ? "https://github.com/" + project.repo : "");
+        var version = project.release ? project.release.tag : "";
 
-        /* 安装包：从 Release 资产里挑出的候选包 */
+        var stats =
+            (version
+                ? '<span class="stat-item ver-item">' + escapeHtml(version) + "</span>"
+                : "") +
+            (updatedAt
+                ? '<span class="stat-item">' + iconMarkup("clock") + relativeTime(updatedAt) + "</span>"
+                : '<span class="stat-item is-empty">' + iconMarkup("clock") + "更新时间待补充</span>");
+
+        /* 源码 zip：GitHub 用 codeload 直链，Gitee 用 archive 直链 */
+        var sourceUrl =
+            platform === "gitee"
+                ? project.download_url || giteeZipUrl(project)
+                : project.download_url ||
+                  (project.repo ? "https://github.com/" + project.repo : giteeZipUrl(project));
+
+        /* 安装包：从 Release 资产里挑出的候选包（仅 GitHub 有） */
         var assets = Array.isArray(project.best_assets) ? project.best_assets : [];
 
         /* 有多个包时才显示选择器，避免下拉只有一个选项显得多余 */
@@ -412,25 +500,23 @@
                 "</span>";
         }
 
-        var repoUrl = project.repo ? "https://github.com/" + project.repo : "";
-        var version = project.release ? project.release.tag : "";
-
         card.innerHTML =
-            '<div class="card-top">' +
-            "<div>" +
-            // 协议标签与项目名同一行、靠右对齐
+            // 标题 + 协议
             '<div class="title-row">' +
             "<h3>" + escapeHtml(project.name || "未命名项目") + "</h3>" +
             '<span class="license" title="' + escapeHtml(project.license || "未知协议") + '">' +
             escapeHtml(project.license || "未知协议") + "</span>" +
             "</div>" +
-            '<span class="repo">' + escapeHtml(project.repo || "") +
-            (version ? ' <em class="ver">' + escapeHtml(version) + "</em>" : "") +
-            "</span>" +
-            "</div></div>" +
-            '<p class="desc">' + escapeHtml(project.note_zh || "暂无简介") + "</p>" +
+            // 仓库行（1~2 个平台）
+            '<div class="repo-row">' + repoRow + "</div>" +
+            // 简介：两行，超出省略，悬停看全文
+            '<p class="desc" title="' + escapeHtml(project.note_zh || "") + '">' +
+            escapeHtml(project.note_zh || "暂无简介") + "</p>" +
+            // 版本 + 更新时间
             '<div class="stats-row">' + stats + "</div>" +
+            // 标签（超出折叠为 +N）
             '<div class="tags">' + tags + "</div>" +
+            // 下载区
             '<div class="card-foot">' +
             '<div class="dl-group">' +
             platformPicker +
@@ -448,10 +534,6 @@
                 ? '<a class="btn btn-src" href="' + escapeHtml(sourceUrl) +
                   '" target="_blank" rel="noopener noreferrer">' +
                   iconMarkup("download") + "下载源码</a>"
-                : "") +
-            (repoUrl
-                ? '<a class="repo-link" href="' + escapeHtml(repoUrl) +
-                  '" target="_blank" rel="noopener noreferrer" title="在 GitHub 打开仓库">GitHub</a>'
                 : "") +
             "</div></div>";
 
