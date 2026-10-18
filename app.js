@@ -173,6 +173,7 @@
                 bindPickerDismiss();
                 bindNavJump();
                 renderAll();
+                renderTrending();
                 initScrollSpy();
                 updateStats();
                 loadMeta();
@@ -325,6 +326,61 @@
             })
             .catch(function () {
                 timeNode.textContent = "未知";
+            });
+    }
+
+    /** 首页热门榜：后台算好排序，这里只取前 10 条渲染 */
+    function renderTrending() {
+        var grid = document.getElementById("hot-grid");
+        if (!grid) return;
+
+        fetch("trending.json", { cache: "no-store" })
+            .then(function (response) {
+                if (!response.ok) throw new Error("HTTP " + response.status);
+                return response.json();
+            })
+            .then(function (data) {
+                var items = (data.items || []).slice(0, 10);
+                if (!items.length) {
+                    var section = grid.closest(".content-hot");
+                    if (section) section.hidden = true;
+                    return;
+                }
+
+                var sub = document.getElementById("hot-sub");
+                if (sub && !data.ready) {
+                    sub.textContent = "热度数据积累中 · 暂按 star 总数排序";
+                }
+
+                grid.innerHTML = items
+                    .map(function (item, index) {
+                        var rank = index + 1;
+                        var delta = item.delta7;
+                        // 冷启动阶段没有增量数据，就不显示徽章，避免出现一堆「—」
+                        var deltaHtml = "";
+                        if (delta !== null && delta !== undefined) {
+                            deltaHtml =
+                                '<span class="hot-delta' + (delta <= 0 ? " zero" : "") + '">' +
+                                '<svg class="icon" aria-hidden="true"><use href="#icon-arrow-up"></use></svg>' +
+                                (delta > 0 ? "+" : "") + formatCount(delta) +
+                                "</span>";
+                        }
+                        return (
+                            '<a class="hot-item" href="https://github.com/' + escapeHtml(item.repo) +
+                            '" target="_blank" rel="noopener noreferrer">' +
+                            '<span class="hot-rank r' + rank + '">' + rank + "</span>" +
+                            '<div class="hot-main">' +
+                            '<div class="hot-name">' + escapeHtml(item.name) + "</div>" +
+                            '<div class="hot-meta">' + escapeHtml(item.category) + " · " +
+                            escapeHtml(item.repo) + " · " + formatCount(item.stars) + "</div>" +
+                            "</div>" + deltaHtml + "</a>"
+                        );
+                    })
+                    .join("");
+            })
+            .catch(function () {
+                var section = grid.closest(".content-hot");
+                if (section) section.hidden = true;
             });
     }
 

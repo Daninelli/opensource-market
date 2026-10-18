@@ -20,23 +20,26 @@ jobs:
           node-version: "20"
 
       # 走 REST API：Actions 自带的 GITHUB_TOKEN 额度是 1000 次/小时（按仓库算），
-      # 57 个项目只消耗 57 次，绰绰有余；不需要额外生成 PAT。
+      # 当前 154 个项目只消耗 154 次，绰绰有余；不需要额外生成 PAT。
       - name: 抓取 star / 更新时间
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node tools/fetch-repo-data.mjs
+
+      - name: 生成热门榜
+        run: node tools/build-trending.mjs
 
       - name: 校验数据
         run: node tools/check-data.mjs
 
       - name: 有变化就提交
         run: |
-          if git diff --quiet -- projects.json; then
+          if git diff --quiet -- projects.json meta.json trending.json data/stars-history.json; then
             echo "数据没有变化，跳过提交"
           else
             git config user.name  "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add projects.json
-            git commit -m "chore: 更新 star / 更新时间（自动）"
+            git add projects.json meta.json trending.json data/stars-history.json
+            git commit -m "chore: 更新 star / 更新时间 / 热门榜（自动）"
             git push
           fi

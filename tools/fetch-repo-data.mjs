@@ -20,12 +20,15 @@
  *   download_url     默认分支源码 zip 直链
  */
 import { readFile, writeFile } from "node:fs/promises";
+import { readFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import { execFileSync } from "node:child_process";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const dataPath = join(root, "projects.json");
+const metaPath = join(root, "meta.json");
+const historyPath = join(root, "data", "stars-history.json");
 const projects = JSON.parse(await readFile(dataPath, "utf8"));
 
 const FORCE_ALL = process.argv.includes("--all");
@@ -133,7 +136,21 @@ async function fetchViaBrowser(repo) {
 
 function needsWork(project) {
     if (FORCE_ALL) return true;
-    return typeof project.stars !== "number" || !project.updated_at;
+    if (typeof project.stars !== "number" || !project.updated_at) return true;
+    // 数据超过 20 小时就全量重抓，避免定时任务静默空跑
+    return hoursSinceRefresh() > 20;
+}
+
+/** 距上次刷新过了多少小时（读 meta.json，读不到就当很久以前） */
+function hoursSinceRefresh() {
+    try {
+        const meta = JSON.parse(readFileSync(metaPath, "utf8"));
+        const last = Date.parse(meta.refreshed_at);
+        if (isNaN(last)) return Infinity;
+        return (Date.now() - last) / 3600000;
+    } catch {
+        return Infinity;
+    }
 }
 
 const targets = projects.filter(needsWork);
@@ -181,7 +198,6 @@ if (browser) await browser.close();
 await writeFile(dataPath, JSON.stringify(projects, null, 2) + "\n", "utf8");
 
 // 同时写一份 meta.json，供页面显示「数据刷新于 …」
-const metaPath = join(root, "meta.json");
 await writeFile(
     metaPath,
     JSON.stringify(
@@ -196,10 +212,56 @@ await writeFile(
     "utf8"
 );
 
+/* ------------------------------ star 快照 ------------------------------ */
+// 每天存一条，保留最近 30 天；同一天重复运行会覆盖当天的值
+const KEEP_DAYS = 30;
+
+async function writeStarsHistory() {
+    let history = { dates: [], series: {} };
+    try {
+        history = JSON.parse(await readFile(historyPath, "utf8"));
+    } catch {
+        /* 首次运行，文件不存在 */
+    }
+    if (!Array.isArray(history.dates)) history.dates = [];
+    if (!history.series || typeof history.series !== "object") history.series = {};
+
+    const today = new Date().toISOString().slice(0, 10);
+    let index = history.dates.indexOf(today);
+    if (index === -1) {
+        history.dates.push(today);
+        index = history.dates.length - 1;
+    }
+
+    for (const project of projects) {
+        if (!project.repo || typeof project.stars !== "number") continue;
+        const values = Array.isArray(history.series[project.repo]) ? history.series[project.repo] : [];
+        // 补齐空位，保证数组和 dates 对齐
+        while (values.length < index) values.push(null);
+        values[index] = project.stars;
+        history.series[project.repo] = values;
+    }
+
+    // 超过保留天数就裁掉最早的
+    if (history.dates.length > KEEP_DAYS) {
+        const drop = history.dates.length - KEEP_DAYS;
+        history.dates = history.dates.slice(drop);
+        for (const key of Object.keys(history.series)) {
+            history.series[key] = history.series[key].slice(drop);
+        }
+    }
+
+    await writeFile(historyPath, JSON.stringify(history) + "\n", "utf8");
+    return history.dates.length;
+}
+
+const historyDays = await writeStarsHistory();
+
 const haveStars = projects.filter((p) => typeof p.stars === "number").length;
 const haveTime = projects.filter((p) => p.updated_at).length;
 
 console.log(
     `\n完成：成功 ${ok} 个，失败 ${failed} 个，跳过 ${skipped} 个` +
-        `\n累计：star ${haveStars}/${projects.length}，更新时间 ${haveTime}/${projects.length}`
+        `\n累计：star ${haveStars}/${projects.length}，更新时间 ${haveTime}/${projects.length}` +
+        `\nstar 快照：已记录 ${historyDays} 天`
 );
