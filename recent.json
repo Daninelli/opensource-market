@@ -1,25 +1,10 @@
 {
-  "generated_at": "2026-10-18T10:17:46.891Z",
-  "refreshed_at": "2026-10-18T08:36:54.039Z",
+  "generated_at": "2026-10-18T10:08:50.608Z",
+  "refreshed_at": "2026-10-18T10:08:50.501Z",
   "days": 7,
-  "total_projects": 159,
-  "count": 159,
+  "total_projects": 158,
+  "count": 158,
   "items": [
-    {
-      "name": "DeepSeek Harness",
-      "repo": "deepseek-ai/deepseek-harness",
-      "added_at": "2026-10-18T10:17:41.839Z",
-      "category": "工具",
-      "category_slug": "tool",
-      "subcategory": "智能体",
-      "note_zh": "DeepSeek 开源的智能体运行时，一切皆插件，可自建与扩展 Agent。",
-      "license": "MIT",
-      "stars": 252626,
-      "updated_at": "2026-10-17T08:16:09Z",
-      "download_url": "https://codeload.github.com/deepseek-ai/deepseek-harness/zip/refs/heads/master",
-      "platform": "github",
-      "submitted_by": null
-    },
     {
       "name": "Filee",
       "repo": "KnifeLemon/Filee",
