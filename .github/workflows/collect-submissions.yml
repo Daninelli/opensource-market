@@ -14,8 +14,6 @@ permissions:
 
 jobs:
   collect:
-    # 只处理投稿表单生成的 Issue
-    if: github.event_name == 'issues' && contains(github.event.issue.labels.*.name, '收录')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -24,6 +22,8 @@ jobs:
         with:
           node-version: "20"
 
+      # 脚本自己判断这个 Issue 是不是投稿表单（正文含「### 项目名称」），
+      # 不是投稿就静默退出，因此不依赖任何 Issue 标签。
       - name: 生成收录 PR
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -201,6 +201,13 @@ async function main() {
     const issue = await issueRes.json();
     const fields = parseIssueBody(issue.body || "");
 
+    // 只有投稿表单才会带上「### 项目名称 / ### 仓库地址」这两段，
+    // 其他类型的 Issue（纠错、建议、闲聊）在这里静默退出。
+    if (!fields["项目名称"] || !fields["仓库地址"]) {
+        console.log("这不是投稿 Issue（缺少表单字段），跳过。");
+        process.exit(0);
+    }
+
     console.log("解析到的字段：");
     Object.entries(fields).forEach(([k, v]) => console.log(`  ${k}: ${v}`));
 
@@ -333,11 +340,17 @@ async function main() {
 
 async function addLabels(issueNumber, labels) {
     if (!TOKEN) return;
-    await api(`/repos/${REPO}/issues/${issueNumber}/labels`, {
+    const response = await api(`/repos/${REPO}/issues/${issueNumber}/labels`, {
         method: "POST",
         headers: { ...HEADERS, "Content-Type": "application/json" },
         body: JSON.stringify({ labels })
     });
+    // 标签不存在时GitHub 返回 422，属于预期情况，不影响主流程
+    if (!response.ok && response.status !== 422) {
+        console.warn(`  打标签失败（HTTP ${response.status}）：${labels.join(", ")}`);
+    } else {
+        console.log(`  已打标签：${labels.join(", ")}`);
+    }
 }
 
 async function removeLabels(issueNumber, labels) {
