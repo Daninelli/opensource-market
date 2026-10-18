@@ -455,9 +455,9 @@
                                 "</span>";
                         }
                         return (
-                            '<a class="hot-item' + (item.pinned ? " is-pinned" : "") + '" href="https://github.com/' +
-                            escapeHtml(item.repo) +
-                            '" target="_blank" rel="noopener noreferrer">' +
+                            // 热门榜先进入本站详情页，不直接跳 GitHub
+                            '<a class="hot-item' + (item.pinned ? " is-pinned" : "") + '" href="detail.html?repo=' +
+                            encodeURIComponent(item.repo) + '">' +
                             '<span class="hot-rank r' + rank + '">' + rank + "</span>" +
                             '<div class="hot-main">' +
                             '<div class="hot-name">' + escapeHtml(item.name) +
