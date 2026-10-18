@@ -255,7 +255,8 @@
 
         .grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            /* 最小 340px：保证卡片够宽，简介和标签都能在两行内放下 */
+            grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
             gap: 16px;
         }
 
@@ -346,19 +347,19 @@
             overflow: hidden;
         }
 
-        /* 标签：全部展示，最多两行 */
+        /* 标签：全部展示，最多两行（22px 行高 × 2 + 6px 行间距） */
         .tags {
             display: flex;
             flex-wrap: wrap;
             gap: 6px;
-            max-height: 44px;         /* 两行，再多就裁（数据里最多 6 个，放得下） */
+            max-height: 50px;
             overflow: hidden;
             align-content: flex-start;
         }
         .tags .chip-tag {
             white-space: nowrap;
             flex: none;
-            max-width: 100%;
+            max-width: 132px;          /* 长标签截断，避免一个标签占掉半行 */
             overflow: hidden;
             text-overflow: ellipsis;
         }

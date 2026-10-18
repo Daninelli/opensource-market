@@ -22,15 +22,54 @@ const REQUIRED = ["name", "repo", "category", "category_slug", "tech_stack", "de
 const TAXONOMY = {
     ecommerce: { label: "电商", children: { headless: "无头电商", storefront: "电商前端", platform: "平台商城" } },
     game: { label: "游戏", children: { engine: "游戏引擎", client: "游戏客户端" } },
-    social: { label: "社交", children: { microblog: "微博客", im: "即时通讯", forum: "论坛社区" } },
-    finance: { label: "金融", children: { "personal-finance": "个人财务", investment: "投资管理" } },
-    education: { label: "教育", children: { lms: "在线学习", interactive: "互动课程" } },
-    medical: { label: "医疗", children: { emr: "电子病历" } },
+    social: {
+        label: "社交",
+        children: {
+            microblog: "微博客",
+            im: "即时通讯",
+            forum: "论坛社区",
+            "collab-suite": "加密协作",
+            calendar: "日历与日程"
+        }
+    },
+    finance: {
+        label: "金融",
+        children: {
+            "personal-finance": "个人财务",
+            investment: "投资管理",
+            accounting: "记账核算",
+            payment: "支付网关"
+        }
+    },
+    education: {
+        label: "教育",
+        children: { lms: "在线学习", interactive: "互动课程", lab: "实验与科研记录" }
+    },
+    medical: {
+        label: "医疗",
+        children: { emr: "电子病历", imaging: "医疗影像", practice: "诊所与实验室" }
+    },
     enterprise: {
         label: "企业服务",
-        children: { admin: "后台管理", "low-code": "低代码平台", bi: "数据分析", collaboration: "团队协作" }
+        children: {
+            admin: "后台管理",
+            "low-code": "低代码平台",
+            bi: "数据分析",
+            collaboration: "团队协作",
+            crm: "客户关系",
+            erp: "企业资源",
+            docs: "文档与知识库"
+        }
     },
-    media: { label: "内容媒体", children: { cms: "建站与 CMS", streaming: "影音媒体" } },
+    media: {
+        label: "内容媒体",
+        children: {
+            cms: "建站与 CMS",
+            streaming: "影音媒体",
+            ebook: "电子书与阅读",
+            podcast: "播客与音频"
+        }
+    },
     tool: {
         label: "工具",
         children: {
@@ -41,7 +80,13 @@ const TAXONOMY = {
             automation: "自动化",
             monitoring: "运维监控",
             devtools: "开发工具",
-            utility: "效率工具"
+            utility: "效率工具",
+            security: "安全与密码",
+            file: "文件管理与网盘",
+            devops: "运维部署",
+            readlater: "稍后读与收藏",
+            iot: "物联网",
+            "media-tool": "媒体处理"
         }
     },
     government: { label: "政务", children: { participation: "公众参与", "open-data": "开放数据" } },
@@ -147,6 +192,26 @@ Object.entries(TAXONOMY).forEach(([slug, meta]) => {
         console.log(`    └─ ${meta.children[subSlug]}（${subSlug}）：${count}`);
     });
 });
+
+/* 简介长度提示：卡片上简介固定两行，实测约 50 字以内可放下 */
+const LONG_DESC = 50;
+const longDesc = projects.filter((p) => (p.note_zh || "").length > LONG_DESC);
+if (longDesc.length) {
+    console.log(`\n[WARN] 有 ${longDesc.length} 条简介超过 ${LONG_DESC} 字，窄屏可能超出两行：`);
+    longDesc.slice(0, 10).forEach((p) => {
+        console.log(`  - ${p.name}（${p.note_zh.length} 字）`);
+    });
+    if (longDesc.length > 10) console.log(`  ... 另有 ${longDesc.length - 10} 条`);
+}
+
+/* 标签数量提示：卡片上标签最多两行，超过 6 个容易放不下 */
+const manyTags = projects.filter(
+    (p) => 1 + (p.deploy_type ? 1 : 0) + (Array.isArray(p.tech_stack) ? p.tech_stack.length : 0) > 6
+);
+if (manyTags.length) {
+    console.log(`\n[WARN] 有 ${manyTags.length} 个项目标签超过 6 个，窄屏可能超出两行：`);
+    manyTags.slice(0, 10).forEach((p) => console.log(`  - ${p.name}`));
+}
 
 if (problems.length) {
     console.error(`\n[ERROR] 发现 ${problems.length} 个问题：`);
