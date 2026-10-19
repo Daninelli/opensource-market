@@ -51,7 +51,7 @@ const TAXONOMY = {
     },
     medical: {
         label: "医疗",
-        children: { emr: "电子病历", imaging: "医疗影像", practice: "诊所与实验室" }
+        children: { emr: "电子病历", imaging: "医疗影像", practice: "诊所与实验室", health: "健康管理" }
     },
     enterprise: {
         label: "企业服务",

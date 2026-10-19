@@ -106,13 +106,13 @@
             display: flex;
             align-items: center;
             gap: 16px;
-            justify-content: space-between;
+            justify-content: flex-start;
         }
 
         /* 一级分类：固定单行不换行，空间不足时横向滑动（任何窗口宽度都只有一行） */
         .nav-primary {
             position: relative;
-            flex: 1 1 auto;
+            flex: 0 1 auto;
             min-width: 0;
             display: flex;
             flex-wrap: nowrap;

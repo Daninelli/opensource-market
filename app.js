@@ -79,7 +79,8 @@
             children: [
                 { slug: "emr", label: "电子病历" },
                 { slug: "imaging", label: "医疗影像" },
-                { slug: "practice", label: "诊所与实验室" }
+                { slug: "practice", label: "诊所与实验室" },
+                { slug: "health", label: "健康管理" }
             ]
         },
         {
@@ -275,8 +276,8 @@
                 behavior: reduced ? "auto" : "smooth"
             });
 
-            // 键盘/读屏用户点击后打开搜索面板，避免焦点留在按钮上
-            openPalette();
+            // 焦点移到吸顶条的搜索按钮，避免键盘焦点留在已隐藏的按钮上（不打开面板）
+            if (els.searchTrigger) els.searchTrigger.focus({ preventScroll: true });
         });
     }
 
