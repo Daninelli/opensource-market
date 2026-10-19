@@ -254,6 +254,8 @@
             grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
             gap: 16px;
         }
+        /* 网格项默认 min-width:auto，卡片里 nowrap 的长仓库名会把格子撑破轨道 */
+        .grid > * { min-width: 0; }
         /* 还没填充卡片的分区：先铺骨架屏，避免出现大片空白 */
         .grid.is-pending {
             min-height: 600px;
@@ -1453,7 +1455,11 @@
             .logo-mark { width: 52px; height: 52px; font-size: 28px; border-radius: 15px; }
             .content { padding: 18px 14px 44px; }
             .toolbar { padding: 8px 14px; }
-            .grid { grid-template-columns: 1fr; }
+            /* 显式写 minmax(0, 1fr)：1fr 等价于 minmax(auto, 1fr)，
+               轨道最小值会取卡片的最小内容宽度。卡片里的仓库名是 nowrap 长串
+               （如 EbookFoundation/free-programming-books），会把单列轨道撑到
+               比容器还宽 → 卡片右侧溢出、整页横向滚动。最小给 0 由卡片内部省略号截断。 */
+            .grid { grid-template-columns: minmax(0, 1fr); }
             .stats { gap: 8px 18px; }
             /* 手机上空间不够时允许换行 */
             .card-foot { flex-wrap: wrap; }
@@ -1497,8 +1503,8 @@
             .doc { padding: 28px 16px 56px; }
             .doc-head h1 { font-size: 1.45rem; }
 
-            /* 热门榜：窄屏两列会挤成一团，改成单列 */
-            .hot-grid { grid-template-columns: 1fr; gap: 0; }
+            /* 热门榜：窄屏两列会挤成一团，改成单列；同样用 minmax(0, 1fr) 防长串撑破轨道 */
+            .hot-grid { grid-template-columns: minmax(0, 1fr); gap: 0; }
             .hot-grid .hot-item:nth-last-child(-n+2) { border-bottom: 1px solid #f4f5f7; }
             .hot-grid .hot-item:last-child { border-bottom: 0; }
             .hot-card { padding: 12px 14px 6px; }
