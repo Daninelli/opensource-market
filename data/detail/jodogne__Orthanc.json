@@ -3,7 +3,7 @@
   "slug": "jodogne__Orthanc",
   "name": "Orthanc",
   "note_zh": "轻量 DICOM 影像服务器，自带 REST API 与 Web 查看器，易部署。",
-  "category": "医疗",
+  "category": "医健",
   "category_slug": "medical",
   "subcategory": "医疗影像",
   "subcategory_slug": "imaging",

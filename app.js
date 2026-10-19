@@ -74,8 +74,8 @@
             ]
         },
         {
-            slug: "medical", label: "医疗", icon: "medical", color: "#be123c",
-            blurb: "电子病历、影像与诊所管理系统",
+            slug: "medical", label: "医健", icon: "medical", color: "#be123c",
+            blurb: "涵盖医疗信息化系统、医学影像处理与运动健康管理方案",
             children: [
                 { slug: "emr", label: "电子病历" },
                 { slug: "imaging", label: "医疗影像" },

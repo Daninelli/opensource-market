@@ -3,7 +3,7 @@
   "slug": "openemr__openemr",
   "name": "OpenEMR",
   "note_zh": "使用最广的开源电子病历与诊所管理系统，覆盖预约排班、处方、账单和病历记录。",
-  "category": "医疗",
+  "category": "医健",
   "category_slug": "medical",
   "subcategory": "电子病历",
   "subcategory_slug": "emr",

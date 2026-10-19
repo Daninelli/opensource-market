@@ -51,7 +51,7 @@ const TAXONOMY = {
         children: { lms: "在线学习", interactive: "互动课程", lab: "实验与科研记录" }
     },
     medical: {
-        label: "医疗",
+        label: "医健",
         children: { emr: "电子病历", imaging: "医疗影像", practice: "诊所与实验室", health: "健康管理" }
     },
     enterprise: {

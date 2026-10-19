@@ -3,7 +3,7 @@
   "slug": "OHIF__Viewers",
   "name": "OHIF Viewer",
   "note_zh": "开源的 DICOM 医学影像查看器，浏览器里直接看 CT/MRI，可对接 PACS。",
-  "category": "医疗",
+  "category": "医健",
   "category_slug": "medical",
   "subcategory": "医疗影像",
   "subcategory_slug": "imaging",

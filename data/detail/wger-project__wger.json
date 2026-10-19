@@ -3,7 +3,7 @@
   "slug": "wger-project__wger",
   "name": "Wger",
   "note_zh": "自托管健身、营养与体重管理平台，基于 Django，适合个人与健身房。",
-  "category": "医疗",
+  "category": "医健",
   "category_slug": "medical",
   "subcategory": "健康管理",
   "subcategory_slug": "health",

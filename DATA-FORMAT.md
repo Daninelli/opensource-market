@@ -49,7 +49,7 @@
 | `social` | 社交 | `microblog` 微博客 · `im` 即时通讯 · `forum` 论坛社区 |
 | `finance` | 金融 | `personal-finance` 个人财务 · `investment` 投资管理 |
 | `education` | 教育 | `lms` 在线学习 · `interactive` 互动课程 |
-| `medical` | 医疗 | `emr` 电子病历 |
+| `medical` | 医健 | `emr` 电子病历 |
 | `enterprise` | 企业服务 | `admin` 后台管理 · `low-code` 低代码平台 · `bi` 数据分析 · `collaboration` 团队协作 |
 | `media` | 内容媒体 | `cms` 建站与 CMS · `streaming` 影音媒体 |
 | `tool` | 工具 | `design` 设计工具 · `notes` 笔记工具 · `photos` 相册管理 · `backend` 后端服务 · `automation` 自动化 · `monitoring` 运维监控 · `devtools` 开发工具 · `utility` 效率工具 |

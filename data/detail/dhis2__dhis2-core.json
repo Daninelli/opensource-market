@@ -3,7 +3,7 @@
   "slug": "dhis2__dhis2-core",
   "name": "DHIS2",
   "note_zh": "全球广泛使用的卫生信息管理系统，汇总病例与公共卫生数据。",
-  "category": "医疗",
+  "category": "医健",
   "category_slug": "medical",
   "subcategory": "电子病历",
   "subcategory_slug": "emr",

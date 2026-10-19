@@ -3,7 +3,7 @@
   "slug": "HospitalRun__hospitalrun-frontend",
   "name": "HospitalRun",
   "note_zh": "为资源有限地区设计的医院信息系统，患者登记、就诊、处方、实验室检查都能离线使用，断网也能工作。",
-  "category": "医疗",
+  "category": "医健",
   "category_slug": "medical",
   "subcategory": "电子病历",
   "subcategory_slug": "emr",

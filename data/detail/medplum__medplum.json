@@ -3,7 +3,7 @@
   "slug": "medplum__medplum",
   "name": "Medplum",
   "note_zh": "面向医疗应用的开源平台，内置 FHIR 模型、电子病历、排班与合规能力。",
-  "category": "医疗",
+  "category": "医健",
   "category_slug": "medical",
   "subcategory": "电子病历",
   "subcategory_slug": "emr",

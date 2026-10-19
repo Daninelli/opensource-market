@@ -3,7 +3,7 @@
   "slug": "openboxes__openboxes",
   "name": "OpenBoxes",
   "note_zh": "面向医疗机构和救援组织的库存与供应链管理系统，药品批次、效期、调拨都能追踪，解决缺货与过期问题。",
-  "category": "医疗",
+  "category": "医健",
   "category_slug": "medical",
   "subcategory": "诊所与实验室",
   "subcategory_slug": "practice",

@@ -3,7 +3,7 @@
   "slug": "LibreHealthIO__lh-ehr",
   "name": "LibreHealth EHR",
   "note_zh": "社区维护的开源电子病历系统，覆盖门诊记录、处方、检验和账单，适合中小诊所与基层医疗机构。",
-  "category": "医疗",
+  "category": "医健",
   "category_slug": "medical",
   "subcategory": "电子病历",
   "subcategory_slug": "emr",

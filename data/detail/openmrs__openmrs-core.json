@@ -3,7 +3,7 @@
   "slug": "openmrs__openmrs-core",
   "name": "OpenMRS",
   "note_zh": "面向发展中国家的开源电子病历平台，全球多家医疗机构在用，支持多语言和离线场景，适合医疗信息化集成。",
-  "category": "医疗",
+  "category": "医健",
   "category_slug": "medical",
   "subcategory": "电子病历",
   "subcategory_slug": "emr",
