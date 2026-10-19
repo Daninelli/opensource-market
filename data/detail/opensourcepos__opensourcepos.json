@@ -1,0 +1,43 @@
+{
+  "repo": "opensourcepos/opensourcepos",
+  "slug": "opensourcepos__opensourcepos",
+  "name": "Opensourcepos",
+  "note_zh": "基于 PHP 的开源收银系统，支持库存与销售报表，适合零售门店搭建 POS。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "企业资源",
+  "subcategory_slug": "erp",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "CodeIgniter",
+    "MySQL"
+  ],
+  "deploy_type": "传统部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:32:01Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/opensourcepos/opensourcepos/zip/refs/heads/master",
+  "release": {
+    "tag": "3.4.2",
+    "name": "OpensourcePos 3.4.2",
+    "published": "2026-10-02T06:04:45Z",
+    "url": "https://github.com/opensourcepos/opensourcepos/releases/tag/3.4.2"
+  },
+  "assets": [
+    {
+      "name": "opensourcepos.3.4.2.cb5e2a.zip",
+      "size": 13144299,
+      "url": "https://github.com/opensourcepos/opensourcepos/releases/download/3.4.2/opensourcepos.3.4.2.cb5e2a.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

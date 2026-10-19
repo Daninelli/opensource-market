@@ -1,0 +1,58 @@
+{
+  "repo": "Ruben2776/PicView",
+  "slug": "Ruben2776__PicView",
+  "name": "PicView",
+  "note_zh": "Windows 图片查看器，体积小、启动快，支持批量转换与漫画阅读，适合替代系统看图工具。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "相册管理",
+  "subcategory_slug": "photos",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET",
+    "Avalonia"
+  ],
+  "deploy_type": "桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:53:01Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/Ruben2776/PicView/zip/refs/heads/dev",
+  "release": {
+    "tag": "5.1.4",
+    "name": "PicView 5.1.4",
+    "published": "2026-09-28T21:11:46Z",
+    "url": "https://github.com/Ruben2776/PicView/releases/tag/5.1.4"
+  },
+  "assets": [
+    {
+      "name": "Setup-PicView-v5.1.4-win-arm64.exe",
+      "size": 29026032,
+      "url": "https://github.com/Ruben2776/PicView/releases/download/5.1.4/Setup-PicView-v5.1.4-win-arm64.exe"
+    },
+    {
+      "name": "Setup-PicView-v5.1.4-win-x64.exe",
+      "size": 31956560,
+      "url": "https://github.com/Ruben2776/PicView/releases/download/5.1.4/Setup-PicView-v5.1.4-win-x64.exe"
+    },
+    {
+      "name": "PicView-5.1.4-macOS-arm64.dmg",
+      "size": 57371316,
+      "url": "https://github.com/Ruben2776/PicView/releases/download/5.1.4/PicView-5.1.4-macOS-arm64.dmg"
+    },
+    {
+      "name": "PicView-5.1.4-macOS-x64.dmg",
+      "size": 65457959,
+      "url": "https://github.com/Ruben2776/PicView/releases/download/5.1.4/PicView-5.1.4-macOS-x64.dmg"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

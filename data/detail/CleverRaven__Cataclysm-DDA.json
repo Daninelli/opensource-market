@@ -1,0 +1,78 @@
+{
+  "repo": "CleverRaven/Cataclysm-DDA",
+  "slug": "CleverRaven__Cataclysm-DDA",
+  "name": "Cataclysm-DDA",
+  "note_zh": "后末日背景的回合制生存 Roguelike，系统深度极高，适合硬核生存游戏玩家。",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏客户端",
+  "subcategory_slug": "client",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "SDL",
+    "Lua"
+  ],
+  "deploy_type": "客户端 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:39:37Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/CleverRaven/Cataclysm-DDA/zip/refs/heads/master",
+  "release": {
+    "tag": "0.I-1",
+    "name": "Ito-1",
+    "published": "2026-09-20T10:46:58Z",
+    "url": "https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/0.I-1"
+  },
+  "assets": [
+    {
+      "name": "cdda-osx-terminal-only-universal-2026-09-19-2324.dmg",
+      "size": 155081425,
+      "url": "https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.I-1/cdda-osx-terminal-only-universal-2026-09-19-2324.dmg"
+    },
+    {
+      "name": "cdda-osx-with-graphics-universal-2026-09-19-2324.dmg",
+      "size": 157065301,
+      "url": "https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.I-1/cdda-osx-with-graphics-universal-2026-09-19-2324.dmg"
+    },
+    {
+      "name": "cdda-windows-with-graphics-x64-2026-09-19-2324.zip",
+      "size": 197868233,
+      "url": "https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.I-1/cdda-windows-with-graphics-x64-2026-09-19-2324.zip"
+    },
+    {
+      "name": "cdda-windows-with-graphics-and-sounds-x64-2026-09-19-2324.zip",
+      "size": 335606477,
+      "url": "https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.I-1/cdda-windows-with-graphics-and-sounds-x64-2026-09-19-2324.zip"
+    },
+    {
+      "name": "cdda-linux-terminal-only-x64-2026-09-19-2324.tar.gz",
+      "size": 158274281,
+      "url": "https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.I-1/cdda-linux-terminal-only-x64-2026-09-19-2324.tar.gz"
+    },
+    {
+      "name": "cdda-linux-with-graphics-x64-2026-09-19-2324.tar.gz",
+      "size": 209677301,
+      "url": "https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.I-1/cdda-linux-with-graphics-x64-2026-09-19-2324.tar.gz"
+    },
+    {
+      "name": "cdda-android-x32-2026-09-19-2324.apk",
+      "size": 167370460,
+      "url": "https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.I-1/cdda-android-x32-2026-09-19-2324.apk"
+    },
+    {
+      "name": "cdda-android-x64-2026-09-19-2324.apk",
+      "size": 168521503,
+      "url": "https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.I-1/cdda-android-x64-2026-09-19-2324.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

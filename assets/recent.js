@@ -84,7 +84,7 @@
                     "</span>" +
                     '<span class="c-cat">' + escapeHtml(item.category) + "</span>" +
                     '<span class="c-by">' + renderContributor(item.submitted_by) + "</span>" +
-                    '<span class="c-lic">' + escapeHtml(item.license || "—") + "</span>" +
+                    '<span class="c-lic">' + escapeHtml(item.license && !/^NOASSERTION$/i.test(item.license) ? item.license : "协议待核") + "</span>" +
                     '<span class="c-star">' + icon("star") + formatCount(item.stars) + "</span>" +
                     '<span class="c-act">' + download + "</span>" +
                     "</div>"

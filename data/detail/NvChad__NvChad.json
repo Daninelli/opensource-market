@@ -1,0 +1,32 @@
+{
+  "repo": "NvChad/NvChad",
+  "slug": "NvChad__NvChad",
+  "name": "NvChad",
+  "note_zh": "开箱即用的 Neovim 配置框架，内置美观界面与合理默认值，适合想省配置时间的 Vim 用户。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Lua",
+    "Neovim",
+    "Lua Config"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T01:41:47Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "v2.5",
+  "download_url": "https://codeload.github.com/NvChad/NvChad/zip/refs/heads/v2.5",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,68 @@
+{
+  "repo": "mpv-player/mpv",
+  "slug": "mpv-player__mpv",
+  "name": "Mpv",
+  "note_zh": "轻量高效的命令行视频播放器，也带图形界面，支持几乎所有格式与硬件解码。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C",
+    "FFmpeg",
+    "OpenGL"
+  ],
+  "deploy_type": "命令行 / 二进制 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-18T14:17:03Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/mpv-player/mpv/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.41.0",
+    "name": "v0.41.0",
+    "published": "2025-12-21T19:17:10Z",
+    "url": "https://github.com/mpv-player/mpv/releases/tag/v0.41.0"
+  },
+  "assets": [
+    {
+      "name": "mpv-v0.41.0-macos-14-arm.zip",
+      "size": 43693888,
+      "url": "https://github.com/mpv-player/mpv/releases/download/v0.41.0/mpv-v0.41.0-macos-14-arm.zip"
+    },
+    {
+      "name": "mpv-v0.41.0-macos-26-arm.zip",
+      "size": 43704958,
+      "url": "https://github.com/mpv-player/mpv/releases/download/v0.41.0/mpv-v0.41.0-macos-26-arm.zip"
+    },
+    {
+      "name": "mpv-v0.41.0-aarch64-pc-windows-msvc.zip",
+      "size": 71498137,
+      "url": "https://github.com/mpv-player/mpv/releases/download/v0.41.0/mpv-v0.41.0-aarch64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "mpv-v0.41.0-x86_64-pc-windows-msvc.zip",
+      "size": 77205127,
+      "url": "https://github.com/mpv-player/mpv/releases/download/v0.41.0/mpv-v0.41.0-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "mpv-v0.41.0-i686-w64-mingw32.zip",
+      "size": 35194752,
+      "url": "https://github.com/mpv-player/mpv/releases/download/v0.41.0/mpv-v0.41.0-i686-w64-mingw32.zip"
+    },
+    {
+      "name": "mpv-v0.41.0-x86_64-w64-mingw32.zip",
+      "size": 39002683,
+      "url": "https://github.com/mpv-player/mpv/releases/download/v0.41.0/mpv-v0.41.0-x86_64-w64-mingw32.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

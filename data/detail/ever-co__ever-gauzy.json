@@ -1,0 +1,32 @@
+{
+  "repo": "ever-co/ever-gauzy",
+  "slug": "ever-co__ever-gauzy",
+  "name": "Ever-gauzy",
+  "note_zh": "开源企业经营管理平台，涵盖 ERP、CRM、HRM、ATS 与项目管理，适合中小企业自建。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "人力资源",
+  "subcategory_slug": "hr",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "NestJS",
+    "Angular"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:30:41Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/ever-co/ever-gauzy/zip/refs/heads/develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

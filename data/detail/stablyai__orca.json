@@ -1,0 +1,73 @@
+{
+  "repo": "stablyai/orca",
+  "slug": "stablyai__orca",
+  "name": "Orca",
+  "note_zh": "面向智能体集群的桌面工作台，可同时运行并管理 Claude Code 等多个代理，适合重度 AI…",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron",
+    "AI Agents"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:22:44Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/stablyai/orca/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.4.230",
+    "name": "1.4.230",
+    "published": "2026-10-19T06:30:00Z",
+    "url": "https://github.com/stablyai/orca/releases/tag/v1.4.230"
+  },
+  "assets": [
+    {
+      "name": "orca-windows-setup.exe",
+      "size": 228117704,
+      "url": "https://github.com/stablyai/orca/releases/download/v1.4.230/orca-windows-setup.exe"
+    },
+    {
+      "name": "orca-macos-arm64.dmg",
+      "size": 304778741,
+      "url": "https://github.com/stablyai/orca/releases/download/v1.4.230/orca-macos-arm64.dmg"
+    },
+    {
+      "name": "orca-macos-x64.dmg",
+      "size": 313973584,
+      "url": "https://github.com/stablyai/orca/releases/download/v1.4.230/orca-macos-x64.dmg"
+    },
+    {
+      "name": "orca-ide-1.4.230.aarch64.rpm",
+      "size": 163717817,
+      "url": "https://github.com/stablyai/orca/releases/download/v1.4.230/orca-ide-1.4.230.aarch64.rpm"
+    },
+    {
+      "name": "orca-ide-1.4.230.x86_64.rpm",
+      "size": 167578969,
+      "url": "https://github.com/stablyai/orca/releases/download/v1.4.230/orca-ide-1.4.230.x86_64.rpm"
+    },
+    {
+      "name": "orca-sourcemaps-v1.4.230.zip",
+      "size": 15753040,
+      "url": "https://github.com/stablyai/orca/releases/download/v1.4.230/orca-sourcemaps-v1.4.230.zip"
+    },
+    {
+      "name": "Orca-1.4.230-arm64-mac.zip",
+      "size": 305374137,
+      "url": "https://github.com/stablyai/orca/releases/download/v1.4.230/Orca-1.4.230-arm64-mac.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

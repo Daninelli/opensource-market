@@ -1,0 +1,43 @@
+{
+  "repo": "soxoj/maigret",
+  "slug": "soxoj__maigret",
+  "name": "Maigret",
+  "note_zh": "按用户名在数千个网站搜集账号线索的 OSINT 命令行工具，适合调查取证与安全研究。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "论坛社区",
+  "subcategory_slug": "forum",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "OSINT",
+    "CLI"
+  ],
+  "deploy_type": "命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:08:13Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/soxoj/maigret/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.6.6",
+    "name": "v0.6.6",
+    "published": "2026-09-18T08:17:59Z",
+    "url": "https://github.com/soxoj/maigret/releases/tag/v0.6.6"
+  },
+  "assets": [
+    {
+      "name": "maigret_standalone.exe",
+      "size": 43391135,
+      "url": "https://github.com/soxoj/maigret/releases/download/v0.6.6/maigret_standalone.exe"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

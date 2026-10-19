@@ -1,0 +1,79 @@
+{
+  "repo": "garethgeorge/backrest",
+  "slug": "garethgeorge__backrest",
+  "name": "Backrest",
+  "note_zh": "为 restic 备份提供 Web 界面与调度，可视化配置仓库和计划任务，适合自托管备份。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "私有同步",
+  "subcategory_slug": "sync",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Go",
+    "React",
+    "restic"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-09-21T13:26:46Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/garethgeorge/backrest/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.14.1",
+    "name": "v1.14.1",
+    "published": "2026-07-12T04:39:10Z",
+    "url": "https://github.com/garethgeorge/backrest/releases/tag/v1.14.1"
+  },
+  "assets": [
+    {
+      "name": "backrest_Darwin_arm64.zip",
+      "size": 10906321,
+      "url": "https://github.com/garethgeorge/backrest/releases/download/v1.14.1/backrest_Darwin_arm64.zip"
+    },
+    {
+      "name": "backrest_Windows_arm64.zip",
+      "size": 11007131,
+      "url": "https://github.com/garethgeorge/backrest/releases/download/v1.14.1/backrest_Windows_arm64.zip"
+    },
+    {
+      "name": "backrest_Darwin_arm64.tar.gz",
+      "size": 11278214,
+      "url": "https://github.com/garethgeorge/backrest/releases/download/v1.14.1/backrest_Darwin_arm64.tar.gz"
+    },
+    {
+      "name": "backrest_Windows_x86_64.zip",
+      "size": 12241281,
+      "url": "https://github.com/garethgeorge/backrest/releases/download/v1.14.1/backrest_Windows_x86_64.zip"
+    },
+    {
+      "name": "backrest_Linux_arm64.tar.gz",
+      "size": 11130174,
+      "url": "https://github.com/garethgeorge/backrest/releases/download/v1.14.1/backrest_Linux_arm64.tar.gz"
+    },
+    {
+      "name": "backrest_Linux_armv7.tar.gz",
+      "size": 11528844,
+      "url": "https://github.com/garethgeorge/backrest/releases/download/v1.14.1/backrest_Linux_armv7.tar.gz"
+    },
+    {
+      "name": "backrest_Freebsd_arm64.tar.gz",
+      "size": 10860133,
+      "url": "https://github.com/garethgeorge/backrest/releases/download/v1.14.1/backrest_Freebsd_arm64.tar.gz"
+    },
+    {
+      "name": "backrest_Freebsd_x86_64.tar.gz",
+      "size": 11931542,
+      "url": "https://github.com/garethgeorge/backrest/releases/download/v1.14.1/backrest_Freebsd_x86_64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

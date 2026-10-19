@@ -1,0 +1,32 @@
+{
+  "repo": "xyflow/xyflow",
+  "slug": "xyflow__xyflow",
+  "name": "Xyflow",
+  "note_zh": "React Flow 与 Svelte Flow 的底层库，用于快速搭建节点式流程图与可视化编辑器。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "低代码平台",
+  "subcategory_slug": "low-code",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React",
+    "Svelte"
+  ],
+  "deploy_type": "依赖库 / 前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-16T11:36:54Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/xyflow/xyflow/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

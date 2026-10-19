@@ -1,0 +1,32 @@
+{
+  "repo": "GraphiteEditor/Graphite",
+  "slug": "GraphiteEditor__Graphite",
+  "name": "Graphite",
+  "note_zh": "Rust 编写的开源 2D 图形设计应用，覆盖插画、排版与动画创作。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "WebAssembly",
+    "2D Graphics"
+  ],
+  "deploy_type": "桌面应用 / 前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T01:27:07Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/GraphiteEditor/Graphite/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

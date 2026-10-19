@@ -1,0 +1,68 @@
+{
+  "repo": "nektos/act",
+  "slug": "nektos__act",
+  "name": "Act",
+  "note_zh": "在本地运行 GitHub Actions 的命令行工具，免去反复推送来调试 CI 流程。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Docker",
+    "GitHub Actions"
+  ],
+  "deploy_type": "二进制 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-08-09T22:50:11Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/nektos/act/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.2.89",
+    "name": "v0.2.89",
+    "published": "2026-06-01T03:22:22Z",
+    "url": "https://github.com/nektos/act/releases/tag/v0.2.89"
+  },
+  "assets": [
+    {
+      "name": "act_Windows_arm64.zip",
+      "size": 7531033,
+      "url": "https://github.com/nektos/act/releases/download/v0.2.89/act_Windows_arm64.zip"
+    },
+    {
+      "name": "act_Darwin_arm64.tar.gz",
+      "size": 7721831,
+      "url": "https://github.com/nektos/act/releases/download/v0.2.89/act_Darwin_arm64.tar.gz"
+    },
+    {
+      "name": "act_Windows_i386.zip",
+      "size": 8133944,
+      "url": "https://github.com/nektos/act/releases/download/v0.2.89/act_Windows_i386.zip"
+    },
+    {
+      "name": "act_Darwin_x86_64.tar.gz",
+      "size": 8313052,
+      "url": "https://github.com/nektos/act/releases/download/v0.2.89/act_Darwin_x86_64.tar.gz"
+    },
+    {
+      "name": "act_Linux_arm64.tar.gz",
+      "size": 7453153,
+      "url": "https://github.com/nektos/act/releases/download/v0.2.89/act_Linux_arm64.tar.gz"
+    },
+    {
+      "name": "act_Linux_riscv64.tar.gz",
+      "size": 7746445,
+      "url": "https://github.com/nektos/act/releases/download/v0.2.89/act_Linux_riscv64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

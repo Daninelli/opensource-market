@@ -1,0 +1,33 @@
+{
+  "repo": "crmeb/CRMEB",
+  "slug": "crmeb__CRMEB",
+  "name": "CRMEB",
+  "note_zh": "国产多语言开源商城系统，覆盖小程序、H5、PC 与 App，内置分销拼团秒杀，适合商家自建。",
+  "category": "电商",
+  "category_slug": "ecommerce",
+  "subcategory": "平台商城",
+  "subcategory_slug": "platform",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "ThinkPHP",
+    "Vue",
+    "MySQL"
+  ],
+  "deploy_type": "传统部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-09-05T07:55:58Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/crmeb/CRMEB/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

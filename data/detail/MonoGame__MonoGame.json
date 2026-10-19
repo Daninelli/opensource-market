@@ -1,0 +1,32 @@
+{
+  "repo": "MonoGame/MonoGame",
+  "slug": "MonoGame__MonoGame",
+  "name": "MonoGame",
+  "note_zh": "跨平台 C# 游戏开发框架，XNA 的精神续作，适合用 .NET 做 2D/3D 游戏。",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏客户端",
+  "subcategory_slug": "client",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET",
+    "OpenGL"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-11T15:21:59Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/MonoGame/MonoGame/zip/refs/heads/develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

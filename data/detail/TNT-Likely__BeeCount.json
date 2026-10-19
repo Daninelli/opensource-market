@@ -1,0 +1,68 @@
+{
+  "repo": "TNT-Likely/BeeCount",
+  "slug": "TNT-Likely__BeeCount",
+  "name": "BeeCount",
+  "note_zh": "本地优先的跨平台记账应用，支持自建云与 iCloud 同步，适合注重隐私的用户。",
+  "category": "金融",
+  "category_slug": "finance",
+  "subcategory": "记账核算",
+  "subcategory_slug": "accounting",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Dart",
+    "Flutter",
+    "SQLite"
+  ],
+  "deploy_type": "客户端 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-18T11:20:21Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/TNT-Likely/BeeCount/zip/refs/heads/main",
+  "release": {
+    "tag": "3.8.6",
+    "name": "3.8.6",
+    "published": "2026-10-08T12:40:59Z",
+    "url": "https://github.com/TNT-Likely/BeeCount/releases/tag/3.8.6"
+  },
+  "assets": [
+    {
+      "name": "beecount-3.8.6-unsigned.ipa",
+      "size": 20425467,
+      "url": "https://github.com/TNT-Likely/BeeCount/releases/download/3.8.6/beecount-3.8.6-unsigned.ipa"
+    },
+    {
+      "name": "beecount-3.8.6-signed.ipa",
+      "size": 39400799,
+      "url": "https://github.com/TNT-Likely/BeeCount/releases/download/3.8.6/beecount-3.8.6-signed.ipa"
+    },
+    {
+      "name": "beecount-3.8.6.apk",
+      "size": 20323440,
+      "url": "https://github.com/TNT-Likely/BeeCount/releases/download/3.8.6/beecount-3.8.6.apk"
+    },
+    {
+      "name": "beecount-3.8.6-x86_64.apk",
+      "size": 20497753,
+      "url": "https://github.com/TNT-Likely/BeeCount/releases/download/3.8.6/beecount-3.8.6-x86_64.apk"
+    },
+    {
+      "name": "beecount-3.8.6-iphoneos.app.zip",
+      "size": 20367574,
+      "url": "https://github.com/TNT-Likely/BeeCount/releases/download/3.8.6/beecount-3.8.6-iphoneos.app.zip"
+    },
+    {
+      "name": "beecount-3.8.6-iphonesimulator.app.zip",
+      "size": 77517636,
+      "url": "https://github.com/TNT-Likely/BeeCount/releases/download/3.8.6/beecount-3.8.6-iphonesimulator.app.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,43 @@
+{
+  "repo": "intitni/CopilotForXcode",
+  "slug": "intitni__CopilotForXcode",
+  "name": "CopilotForXcode",
+  "note_zh": "为 Xcode 接入 Copilot 与 ChatGPT 的编辑器扩展，适合 macOS 开发者。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "论坛社区",
+  "subcategory_slug": "forum",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Swift",
+    "Xcode",
+    "macOS"
+  ],
+  "deploy_type": "桌面应用",
+  "platform": "github",
+  "updated_at": "2026-04-15T16:09:41Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/intitni/CopilotForXcode/zip/refs/heads/main",
+  "release": {
+    "tag": "0.38.0",
+    "name": "0.38.0",
+    "published": "2026-02-05T16:27:46Z",
+    "url": "https://github.com/intitni/CopilotForXcode/releases/tag/0.38.0"
+  },
+  "assets": [
+    {
+      "name": "Copilot.for.Xcode.app.zip",
+      "size": 75030950,
+      "url": "https://github.com/intitni/CopilotForXcode/releases/download/0.38.0/Copilot.for.Xcode.app.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

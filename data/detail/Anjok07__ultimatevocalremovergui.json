@@ -1,0 +1,58 @@
+{
+  "repo": "Anjok07/ultimatevocalremovergui",
+  "slug": "Anjok07__ultimatevocalremovergui",
+  "name": "Ultimatevocalremovergui",
+  "note_zh": "用深度神经网络分离人声与伴奏的桌面工具，可制作伴奏和卡拉 OK，适合音乐爱好者。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "Tkinter"
+  ],
+  "deploy_type": "桌面应用 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-06T22:39:26Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/Anjok07/ultimatevocalremovergui/zip/refs/heads/master",
+  "release": {
+    "tag": "v5.6",
+    "name": "v5.6 - UVR GUI",
+    "published": "2023-09-26T02:29:28Z",
+    "url": "https://github.com/Anjok07/ultimatevocalremovergui/releases/tag/v5.6"
+  },
+  "assets": [
+    {
+      "name": "UVR_Patch_9_29_23_1_39.exe",
+      "size": 63172108,
+      "url": "https://github.com/Anjok07/ultimatevocalremovergui/releases/download/v5.6/UVR_Patch_9_29_23_1_39.exe"
+    },
+    {
+      "name": "UVR_Patch_10_6_23_4_27.exe",
+      "size": 63176023,
+      "url": "https://github.com/Anjok07/ultimatevocalremovergui/releases/download/v5.6/UVR_Patch_10_6_23_4_27.exe"
+    },
+    {
+      "name": "Ultimate_Vocal_Remover_v5_6_MacOS_arm64.dmg",
+      "size": 483753929,
+      "url": "https://github.com/Anjok07/ultimatevocalremovergui/releases/download/v5.6/Ultimate_Vocal_Remover_v5_6_MacOS_arm64.dmg"
+    },
+    {
+      "name": "Ultimate_Vocal_Remover_v5_6_Roformer_beta_MacOS_arm64.dmg",
+      "size": 497095867,
+      "url": "https://github.com/Anjok07/ultimatevocalremovergui/releases/download/v5.6/Ultimate_Vocal_Remover_v5_6_Roformer_beta_MacOS_arm64.dmg"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

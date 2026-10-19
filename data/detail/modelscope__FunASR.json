@@ -1,0 +1,73 @@
+{
+  "repo": "modelscope/FunASR",
+  "slug": "modelscope__FunASR",
+  "name": "FunASR",
+  "note_zh": "开源的语音识别工具包，支持训练、推理、流式 ASR 与标点，适合做中文转写。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "ASR"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T15:49:53Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/modelscope/FunASR/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.4.16",
+    "name": "FunASR 1.4.16",
+    "published": "2026-09-18T05:42:45Z",
+    "url": "https://github.com/modelscope/FunASR/releases/tag/v1.4.16"
+  },
+  "assets": [
+    {
+      "name": "funasr-llamacpp-windows-x64.zip",
+      "size": 4967457,
+      "url": "https://github.com/modelscope/FunASR/releases/download/v1.4.16/funasr-llamacpp-windows-x64.zip"
+    },
+    {
+      "name": "funasr-llamacpp-windows-x64-avx2.zip",
+      "size": 5204372,
+      "url": "https://github.com/modelscope/FunASR/releases/download/v1.4.16/funasr-llamacpp-windows-x64-avx2.zip"
+    },
+    {
+      "name": "funasr-llamacpp-macos-arm64.tar.gz",
+      "size": 7357524,
+      "url": "https://github.com/modelscope/FunASR/releases/download/v1.4.16/funasr-llamacpp-macos-arm64.tar.gz"
+    },
+    {
+      "name": "funasr-llamacpp-linux-arm64.tar.gz",
+      "size": 7979504,
+      "url": "https://github.com/modelscope/FunASR/releases/download/v1.4.16/funasr-llamacpp-linux-arm64.tar.gz"
+    },
+    {
+      "name": "funasr-llamacpp-linux-x64.tar.gz",
+      "size": 8014474,
+      "url": "https://github.com/modelscope/FunASR/releases/download/v1.4.16/funasr-llamacpp-linux-x64.tar.gz"
+    },
+    {
+      "name": "funasr-1.4.16.tar.gz",
+      "size": 995057,
+      "url": "https://github.com/modelscope/FunASR/releases/download/v1.4.16/funasr-1.4.16.tar.gz"
+    },
+    {
+      "name": "funasr-1.4.16-py3-none-any.whl",
+      "size": 999588,
+      "url": "https://github.com/modelscope/FunASR/releases/download/v1.4.16/funasr-1.4.16-py3-none-any.whl"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

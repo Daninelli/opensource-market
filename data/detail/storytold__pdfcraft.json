@@ -1,0 +1,77 @@
+{
+  "repo": "storytold/pdfcraft",
+  "slug": "storytold__pdfcraft",
+  "name": "Pdfcraft",
+  "note_zh": "用纯 Rust 从零编写的 PDF 阅读与编辑工具，适合关注性能的桌面用户。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "PDF"
+  ],
+  "deploy_type": "桌面应用 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T06:59:27Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/storytold/pdfcraft/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.9.0",
+    "name": "PdfCraft v0.9.0",
+    "published": "2026-10-18T03:55:00Z",
+    "url": "https://github.com/storytold/pdfcraft/releases/tag/v0.9.0"
+  },
+  "assets": [
+    {
+      "name": "pdfcraft-cli-0.9.0-macos-universal.zip",
+      "size": 61512027,
+      "url": "https://github.com/storytold/pdfcraft/releases/download/v0.9.0/pdfcraft-cli-0.9.0-macos-universal.zip"
+    },
+    {
+      "name": "pdfcraft-0.9.0-windows-arm64.msi",
+      "size": 67788800,
+      "url": "https://github.com/storytold/pdfcraft/releases/download/v0.9.0/pdfcraft-0.9.0-windows-arm64.msi"
+    },
+    {
+      "name": "pdfcraft-0.9.0-windows-x86.msi",
+      "size": 69959680,
+      "url": "https://github.com/storytold/pdfcraft/releases/download/v0.9.0/pdfcraft-0.9.0-windows-x86.msi"
+    },
+    {
+      "name": "pdfcraft-0.9.0-macos-universal.dmg",
+      "size": 95182480,
+      "url": "https://github.com/storytold/pdfcraft/releases/download/v0.9.0/pdfcraft-0.9.0-macos-universal.dmg"
+    },
+    {
+      "name": "pdfcraft-cli-0.9.0-linux-aarch64.tar.gz",
+      "size": 29169980,
+      "url": "https://github.com/storytold/pdfcraft/releases/download/v0.9.0/pdfcraft-cli-0.9.0-linux-aarch64.tar.gz"
+    },
+    {
+      "name": "pdfcraft-cli-0.9.0-linux-x86_64.tar.gz",
+      "size": 30690742,
+      "url": "https://github.com/storytold/pdfcraft/releases/download/v0.9.0/pdfcraft-cli-0.9.0-linux-x86_64.tar.gz"
+    },
+    {
+      "name": "pdfcraft-web-0.9.0.zip",
+      "size": 14453304,
+      "url": "https://github.com/storytold/pdfcraft/releases/download/v0.9.0/pdfcraft-web-0.9.0.zip"
+    },
+    {
+      "name": "pdfcraft-0.9.0-freebsd-x86_64.tar.gz",
+      "size": 85173939,
+      "url": "https://github.com/storytold/pdfcraft/releases/download/v0.9.0/pdfcraft-0.9.0-freebsd-x86_64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -17,31 +17,21 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T06:35:16Z",
+  "updated_at": "2026-10-19T12:16:00Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/lightdash/lightdash/zip/refs/heads/main",
   "release": {
-    "tag": "2.605.0",
-    "name": "2.605.0",
-    "published": "2026-10-19T06:30:06Z",
-    "url": "https://github.com/lightdash/lightdash/releases/tag/2.605.0"
+    "tag": "2.606.8",
+    "name": "2.606.8",
+    "published": "2026-10-19T12:12:16Z",
+    "url": "https://github.com/lightdash/lightdash/releases/tag/2.606.8"
   },
   "assets": [
     {
-      "name": "lightdash-cli-2.605.0-macos-arm64.tar.gz",
-      "size": 81552831,
-      "url": "https://github.com/lightdash/lightdash/releases/download/2.605.0/lightdash-cli-2.605.0-macos-arm64.tar.gz"
-    },
-    {
-      "name": "lightdash-cli-2.605.0-macos-x64.tar.gz",
-      "size": 84070875,
-      "url": "https://github.com/lightdash/lightdash/releases/download/2.605.0/lightdash-cli-2.605.0-macos-x64.tar.gz"
-    },
-    {
-      "name": "lightdash-cli-2.605.0-linux-x64.tar.gz",
-      "size": 55237938,
-      "url": "https://github.com/lightdash/lightdash/releases/download/2.605.0/lightdash-cli-2.605.0-linux-x64.tar.gz"
+      "name": "lightdash-cli-2.606.8-linux-x64.tar.gz",
+      "size": 55237505,
+      "url": "https://github.com/lightdash/lightdash/releases/download/2.606.8/lightdash-cli-2.606.8-linux-x64.tar.gz"
     }
   ],
   "pinned": false,

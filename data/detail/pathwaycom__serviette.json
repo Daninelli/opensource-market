@@ -1,0 +1,32 @@
+{
+  "repo": "pathwaycom/serviette",
+  "slug": "pathwaycom__serviette",
+  "name": "Serviette",
+  "note_zh": "免代码 RAG 服务器，文档更新后答案自动同步，可对接多种向量数据库。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "低代码平台",
+  "subcategory_slug": "low-code",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "RAG",
+    "Vector Database"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-16T10:31:14Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/pathwaycom/serviette/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

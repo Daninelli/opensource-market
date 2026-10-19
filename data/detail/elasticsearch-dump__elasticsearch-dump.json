@@ -1,0 +1,33 @@
+{
+  "repo": "elasticsearch-dump/elasticsearch-dump",
+  "slug": "elasticsearch-dump__elasticsearch-dump",
+  "name": "Elasticsearch-dump",
+  "note_zh": "Elasticsearch/OpenSearch 索引备份与迁移工具，适合运维与开发者。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "私有同步",
+  "subcategory_slug": "sync",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Node.js",
+    "Elasticsearch",
+    "Docker"
+  ],
+  "deploy_type": "命令行 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-18T21:28:48Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/elasticsearch-dump/elasticsearch-dump/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

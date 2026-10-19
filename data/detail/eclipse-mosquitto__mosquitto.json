@@ -1,0 +1,32 @@
+{
+  "repo": "eclipse-mosquitto/mosquitto",
+  "slug": "eclipse-mosquitto__mosquitto",
+  "name": "Mosquitto",
+  "note_zh": "轻量开源 MQTT broker，资源占用低，适合物联网设备消息通信。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "智能家居",
+  "subcategory_slug": "smart-home",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C",
+    "MQTT",
+    "TLS"
+  ],
+  "deploy_type": "Docker 部署 / 二进制 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-15T15:21:52Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/eclipse-mosquitto/mosquitto/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

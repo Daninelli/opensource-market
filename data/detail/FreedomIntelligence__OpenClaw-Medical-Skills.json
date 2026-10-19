@@ -1,0 +1,33 @@
+{
+  "repo": "FreedomIntelligence/OpenClaw-Medical-Skills",
+  "slug": "FreedomIntelligence__OpenClaw-Medical-Skills",
+  "name": "OpenClaw-Medical-Skills",
+  "note_zh": "面向 OpenClaw 的开源医学 AI 技能包集合，可扩展医疗问答与分析能力。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "LLM",
+    "Prompt",
+    "Agent"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-07-21T01:01:51Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/FreedomIntelligence/OpenClaw-Medical-Skills/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

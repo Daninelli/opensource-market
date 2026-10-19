@@ -1,0 +1,32 @@
+{
+  "repo": "affaan-m/ECC",
+  "slug": "affaan-m__ECC",
+  "name": "ECC",
+  "note_zh": "面向 Claude Code 的智能体增强配置集，附技能、记忆与安全策略。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Claude Code",
+    "MCP"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T05:03:15Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/affaan-m/ECC/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

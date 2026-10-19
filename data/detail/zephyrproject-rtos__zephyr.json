@@ -1,0 +1,44 @@
+{
+  "repo": "zephyrproject-rtos/zephyr",
+  "slug": "zephyrproject-rtos__zephyr",
+  "name": "Zephyr",
+  "note_zh": "面向嵌入式与物联网的可扩展实时操作系统，支持多种 MCU 与蓝牙协议。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "智能家居",
+  "subcategory_slug": "smart-home",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C",
+    "RTOS",
+    "Embedded",
+    "Bluetooth LE"
+  ],
+  "deploy_type": "源码 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:49:02Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/zephyrproject-rtos/zephyr/zip/refs/heads/main",
+  "release": {
+    "tag": "v4.4.2",
+    "name": "Zephyr 4.4.2",
+    "published": "2026-08-07T15:36:32Z",
+    "url": "https://github.com/zephyrproject-rtos/zephyr/releases/tag/v4.4.2"
+  },
+  "assets": [
+    {
+      "name": "zephyr-v4.4.2.spdx",
+      "size": 22926645,
+      "url": "https://github.com/zephyrproject-rtos/zephyr/releases/download/v4.4.2/zephyr-v4.4.2.spdx"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

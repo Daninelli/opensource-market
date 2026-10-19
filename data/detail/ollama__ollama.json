@@ -1,0 +1,68 @@
+{
+  "repo": "ollama/ollama",
+  "slug": "ollama__ollama",
+  "name": "Ollama",
+  "note_zh": "本地一键运行 Kimi、DeepSeek 等开源大模型的工具，自带推理服务与命令行，适合开发者自…",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "LLM",
+    "Docker"
+  ],
+  "deploy_type": "二进制 / 命令行 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-18T18:44:30Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/ollama/ollama/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.40.6",
+    "name": "v0.40.6",
+    "published": "2026-10-16T22:00:46Z",
+    "url": "https://github.com/ollama/ollama/releases/tag/v0.40.6"
+  },
+  "assets": [
+    {
+      "name": "ollama-darwin.tgz",
+      "size": 174459907,
+      "url": "https://github.com/ollama/ollama/releases/download/v0.40.6/ollama-darwin.tgz"
+    },
+    {
+      "name": "ollama-windows-arm64.zip",
+      "size": 210482819,
+      "url": "https://github.com/ollama/ollama/releases/download/v0.40.6/ollama-windows-arm64.zip"
+    },
+    {
+      "name": "Ollama-darwin.zip",
+      "size": 213263254,
+      "url": "https://github.com/ollama/ollama/releases/download/v0.40.6/Ollama-darwin.zip"
+    },
+    {
+      "name": "ollama-windows-amd64-rocm.zip",
+      "size": 256427711,
+      "url": "https://github.com/ollama/ollama/releases/download/v0.40.6/ollama-windows-amd64-rocm.zip"
+    },
+    {
+      "name": "ollama-linux-arm64-jetpack6.tar.zst",
+      "size": 270806989,
+      "url": "https://github.com/ollama/ollama/releases/download/v0.40.6/ollama-linux-arm64-jetpack6.tar.zst"
+    },
+    {
+      "name": "ollama-linux-arm64-jetpack5.tar.zst",
+      "size": 299025808,
+      "url": "https://github.com/ollama/ollama/releases/download/v0.40.6/ollama-linux-arm64-jetpack5.tar.zst"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

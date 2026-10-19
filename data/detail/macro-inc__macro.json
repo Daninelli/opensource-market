@@ -1,0 +1,58 @@
+{
+  "repo": "macro-inc/macro",
+  "slug": "macro-inc__macro",
+  "name": "Macro",
+  "note_zh": "Rust 打造的一体化团队工作台，整合邮件、聊天、文档、任务与 CRM，适合小团队统一协作。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "客户关系",
+  "subcategory_slug": "crm",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "AI",
+    "CRM"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:50:35Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/macro-inc/macro/zip/refs/heads/main",
+  "release": {
+    "tag": "v2026.10.18.0",
+    "name": "v2026.10.18.0",
+    "published": "2026-10-18T14:21:48Z",
+    "url": "https://github.com/macro-inc/macro/releases/tag/v2026.10.18.0"
+  },
+  "assets": [
+    {
+      "name": "macrod-v2026.10.18.0-macos-aarch64.tar.gz",
+      "size": 7447261,
+      "url": "https://github.com/macro-inc/macro/releases/download/v2026.10.18.0/macrod-v2026.10.18.0-macos-aarch64.tar.gz"
+    },
+    {
+      "name": "macrod-v2026.10.18.0-macos-x86_64.tar.gz",
+      "size": 7829931,
+      "url": "https://github.com/macro-inc/macro/releases/download/v2026.10.18.0/macrod-v2026.10.18.0-macos-x86_64.tar.gz"
+    },
+    {
+      "name": "Macro-2026.1018.0-x86_64-linux.AppImage",
+      "size": 214305272,
+      "url": "https://github.com/macro-inc/macro/releases/download/v2026.10.18.0/Macro-2026.1018.0-x86_64-linux.AppImage"
+    },
+    {
+      "name": "web-app-v2026.10.18.0.tar.gz",
+      "size": 64610612,
+      "url": "https://github.com/macro-inc/macro/releases/download/v2026.10.18.0/web-app-v2026.10.18.0.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

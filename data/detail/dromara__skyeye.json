@@ -1,0 +1,32 @@
+{
+  "repo": "dromara/skyeye",
+  "slug": "dromara__skyeye",
+  "name": "Skyeye",
+  "note_zh": "基于 Spring Boot 的智能办公 OA 低代码平台，覆盖审批、HR、CRM，适合中小机构。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "人力资源",
+  "subcategory_slug": "hr",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "Spring Boot",
+    "MySQL"
+  ],
+  "deploy_type": "源码 / 传统部署",
+  "platform": "github",
+  "updated_at": "2026-10-18T15:06:17Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "company_server",
+  "download_url": "https://codeload.github.com/dromara/skyeye/zip/refs/heads/company_server",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -2186,3 +2186,150 @@
             color: var(--faint);
         }
         .more-row-caret .icon { font-size: 14px; }
+
+        /* ================= 搜索触发器 + 命令面板（方案 A） ================= */
+        .search-trigger {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            flex: 0 0 auto;
+            padding: 7px 11px;
+            border-radius: 999px;
+            border: 1px solid var(--border-strong);
+            background: var(--surface);
+            color: var(--muted);
+            font: inherit;
+            font-size: 13px;
+            cursor: pointer;
+            transition: border-color .15s, color .15s, background .15s;
+        }
+        .search-trigger:hover {
+            border-color: var(--brand);
+            color: var(--brand);
+            background: #f6fef9;
+        }
+        .search-trigger .icon { font-size: 14px; }
+        .search-trigger .search-kbd { position: static; transform: none; }
+
+        /* 遮罩 + 居中面板 */
+        .palette {
+            position: fixed;
+            inset: 0;
+            z-index: 90;
+            display: flex;
+            align-items: flex-start;
+            justify-content: center;
+            padding: 12vh 16px 16px;
+        }
+        .palette[hidden] { display: none; }
+        .palette-backdrop {
+            position: absolute;
+            inset: 0;
+            background: rgba(15, 23, 42, .38);
+            -webkit-backdrop-filter: blur(3px);
+            backdrop-filter: blur(3px);
+        }
+        .palette-panel {
+            position: relative;
+            width: min(640px, 100%);
+            max-height: 70vh;
+            display: flex;
+            flex-direction: column;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            box-shadow: 0 24px 64px rgba(15, 23, 42, .22);
+            overflow: hidden;
+        }
+        .palette-head {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 13px 16px;
+            border-bottom: 1px solid var(--border);
+        }
+        .palette-head .icon { font-size: 15px; color: var(--faint); flex: none; }
+        .palette-head input {
+            flex: 1;
+            min-width: 0;
+            border: 0;
+            outline: none;
+            background: transparent;
+            font: inherit;
+            font-size: 15px;
+            color: var(--ink);
+        }
+        .palette-head input::placeholder { color: var(--faint); }
+        .palette-esc {
+            flex: none;
+            font-family: inherit;
+            font-size: 11px;
+            color: var(--faint);
+            background: #f3f4f6;
+            border: 1px solid var(--border);
+            border-radius: 4px;
+            padding: 1px 6px;
+        }
+        .palette-results {
+            overflow-y: auto;
+            padding: 6px;
+        }
+        .palette-section {
+            margin: 8px 10px 4px;
+            font-size: 11.5px;
+            color: var(--faint);
+        }
+        .palette-item {
+            display: grid;
+            grid-template-columns: minmax(0, 1fr) auto;
+            gap: 2px 12px;
+            width: 100%;
+            padding: 9px 10px;
+            border: 0;
+            border-radius: 10px;
+            background: transparent;
+            text-align: left;
+            font: inherit;
+            cursor: pointer;
+        }
+        .palette-item.is-active { background: #f1f5f9; }
+        .palette-name { font-size: 14px; font-weight: 600; color: var(--ink); }
+        .palette-meta {
+            font-size: 11.5px;
+            color: var(--muted);
+            white-space: nowrap;
+        }
+        .palette-desc {
+            grid-column: 1 / -1;
+            font-size: 12px;
+            color: var(--muted);
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+        .palette-empty {
+            padding: 28px 16px;
+            text-align: center;
+            color: var(--muted);
+            font-size: 13px;
+        }
+        .palette-foot {
+            display: flex;
+            gap: 14px;
+            padding: 8px 16px;
+            border-top: 1px solid var(--border);
+            font-size: 11.5px;
+            color: var(--faint);
+        }
+        body.palette-open { overflow: hidden; }
+
+        @media (max-width: 860px) {
+            /* 搜索收成图标后，分类导航和搜索按钮保持同一行 */
+            .toolbar-inner { flex-wrap: nowrap; }
+            .search-trigger-text { display: none; }
+            .palette { padding-top: 8vh; }
+            .palette-panel { max-height: 78vh; }
+        }
+
+        /* 形态徽标（kind）：仅非默认形态展示 */
+        .chip-tag.kind { background: #ecfeff; color: #0e7490; }

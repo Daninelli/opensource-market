@@ -1,0 +1,31 @@
+{
+  "repo": "arrobalytics/django-ledger",
+  "slug": "arrobalytics__django-ledger",
+  "name": "Django-ledger",
+  "note_zh": "基于 Django 的复式记账与财务分析引擎，可嵌入自有系统，适合开发者做财务模块。",
+  "category": "金融",
+  "category_slug": "finance",
+  "subcategory": "记账核算",
+  "subcategory_slug": "accounting",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Django"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-09T11:55:05Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/arrobalytics/django-ledger/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,32 @@
+{
+  "repo": "dubinc/dub",
+  "slug": "dubinc__dub",
+  "name": "Dub",
+  "note_zh": "开源短链接与归因平台，提供链接管理和转化分析，适合市场与增长团队自建。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Next.js",
+    "Prisma"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T02:50:38Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/dubinc/dub/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

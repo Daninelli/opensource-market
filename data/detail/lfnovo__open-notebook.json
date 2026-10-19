@@ -1,0 +1,32 @@
+{
+  "repo": "lfnovo/open-notebook",
+  "slug": "lfnovo__open-notebook",
+  "name": "Open-notebook",
+  "note_zh": "开源的 NotebookLM 替代品，把资料整理成可对话的研究笔记。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Next.js",
+    "AI"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-18T21:45:29Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/lfnovo/open-notebook/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

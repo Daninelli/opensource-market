@@ -1,0 +1,32 @@
+{
+  "repo": "novuhq/novu",
+  "slug": "novuhq__novu",
+  "name": "Novu",
+  "note_zh": "开源通知基础设施，统一管理邮件、站内信等多渠道推送，适合产品团队。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Node.js",
+    "React"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:22:34Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "next",
+  "download_url": "https://codeload.github.com/novuhq/novu/zip/refs/heads/next",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

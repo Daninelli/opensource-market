@@ -1,0 +1,32 @@
+{
+  "repo": "nuxt/nuxt",
+  "slug": "nuxt__nuxt",
+  "name": "Nuxt",
+  "note_zh": "基于 Vue 的全栈框架，支持服务端渲染与混合渲染，适合做 SEO 友好的站点。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Vue",
+    "Node.js"
+  ],
+  "deploy_type": "前端源码 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:03:47Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/nuxt/nuxt/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

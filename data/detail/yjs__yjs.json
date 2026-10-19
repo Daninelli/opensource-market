@@ -1,0 +1,32 @@
+{
+  "repo": "yjs/yjs",
+  "slug": "yjs__yjs",
+  "name": "Yjs",
+  "note_zh": "基于 CRDT 的共享数据类型库，为协同编辑、离线同步和 P2P 场景提供底层能力，适合做协作应…",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "团队协作",
+  "subcategory_slug": "collaboration",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "CRDT",
+    "WebSocket"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-18T11:05:14Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/yjs/yjs/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

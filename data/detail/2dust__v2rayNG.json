@@ -1,0 +1,48 @@
+{
+  "repo": "2dust/v2rayNG",
+  "slug": "2dust__v2rayNG",
+  "name": "V2rayNG",
+  "note_zh": "Android 端 V2Ray 客户端，支持 Xray 与 v2fly 内核，适合手机代理与订阅…",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Kotlin",
+    "Android",
+    "V2Ray"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-18T08:49:41Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/2dust/v2rayNG/zip/refs/heads/master",
+  "release": {
+    "tag": "2.3.11",
+    "name": "2.3.11",
+    "published": "2026-10-11T07:07:53Z",
+    "url": "https://github.com/2dust/v2rayNG/releases/tag/2.3.11"
+  },
+  "assets": [
+    {
+      "name": "v2rayNG_2.3.11_arm64-v8a.apk",
+      "size": 33535156,
+      "url": "https://github.com/2dust/v2rayNG/releases/download/2.3.11/v2rayNG_2.3.11_arm64-v8a.apk"
+    },
+    {
+      "name": "v2rayNG_2.3.11-fdroid_arm64-v8a.apk",
+      "size": 33535280,
+      "url": "https://github.com/2dust/v2rayNG/releases/download/2.3.11/v2rayNG_2.3.11-fdroid_arm64-v8a.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

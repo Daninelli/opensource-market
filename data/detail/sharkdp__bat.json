@@ -1,0 +1,68 @@
+{
+  "repo": "sharkdp/bat",
+  "slug": "sharkdp__bat",
+  "name": "Bat",
+  "note_zh": "带语法高亮的 cat 替代品，支持 Git 差异标记，适合常在终端看源码的人。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "CLI",
+    "Syntax Highlighting"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-17T11:57:57Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/sharkdp/bat/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.26.1",
+    "name": "v0.26.1",
+    "published": "2025-12-02T20:48:10Z",
+    "url": "https://github.com/sharkdp/bat/releases/tag/v0.26.1"
+  },
+  "assets": [
+    {
+      "name": "bat-v0.26.1-aarch64-apple-darwin.tar.gz",
+      "size": 3216703,
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "bat-v0.26.1-x86_64-apple-darwin.tar.gz",
+      "size": 3367309,
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-x86_64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "bat-v0.26.1-i686-pc-windows-msvc.zip",
+      "size": 3367862,
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-i686-pc-windows-msvc.zip"
+    },
+    {
+      "name": "bat-v0.26.1-aarch64-pc-windows-msvc.zip",
+      "size": 3434291,
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-aarch64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "bat_0.26.1_arm64.deb",
+      "size": 2862796,
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat_0.26.1_arm64.deb"
+    },
+    {
+      "name": "bat_0.26.1_armhf.deb",
+      "size": 2908064,
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat_0.26.1_armhf.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

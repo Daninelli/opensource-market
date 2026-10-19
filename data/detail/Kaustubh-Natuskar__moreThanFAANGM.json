@@ -1,0 +1,31 @@
+{
+  "repo": "Kaustubh-Natuskar/moreThanFAANGM",
+  "slug": "Kaustubh-Natuskar__moreThanFAANGM",
+  "name": "MoreThanFAANGM",
+  "note_zh": "整理 400 多家产品型公司招聘机会的清单仓库，供求职者检索投递，非可运行软件。",
+  "category": "电商",
+  "category_slug": "ecommerce",
+  "subcategory": "平台商城",
+  "subcategory_slug": "platform",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Markdown",
+    "Documentation"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-08-10T16:37:40Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Kaustubh-Natuskar/moreThanFAANGM/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

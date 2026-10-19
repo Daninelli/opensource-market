@@ -1,0 +1,53 @@
+{
+  "repo": "firecracker-microvm/firecracker",
+  "slug": "firecracker-microvm__firecracker",
+  "name": "Firecracker",
+  "note_zh": "轻量 microVM 虚拟化方案，为无服务器与容器提供快速安全隔离，适合云平台与安全沙箱。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "KVM",
+    "Virtualization"
+  ],
+  "deploy_type": "二进制 / 源码 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:59:55Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/firecracker-microvm/firecracker/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.17.0",
+    "name": "Firecracker v1.17.0",
+    "published": "2026-09-10T14:19:40Z",
+    "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.17.0"
+  },
+  "assets": [
+    {
+      "name": "firecracker-v1.17.0-aarch64.tgz",
+      "size": 7294031,
+      "url": "https://github.com/firecracker-microvm/firecracker/releases/download/v1.17.0/firecracker-v1.17.0-aarch64.tgz"
+    },
+    {
+      "name": "firecracker-v1.17.0-x86_64.tgz",
+      "size": 7464385,
+      "url": "https://github.com/firecracker-microvm/firecracker/releases/download/v1.17.0/firecracker-v1.17.0-x86_64.tgz"
+    },
+    {
+      "name": "test_results.tar.gz",
+      "size": 13204949,
+      "url": "https://github.com/firecracker-microvm/firecracker/releases/download/v1.17.0/test_results.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

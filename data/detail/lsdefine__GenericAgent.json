@@ -1,0 +1,63 @@
+{
+  "repo": "lsdefine/GenericAgent",
+  "slug": "lsdefine__GenericAgent",
+  "name": "GenericAgent",
+  "note_zh": "自进化 AI 智能体，从少量种子代码生长出技能树，可控制浏览器与桌面，适合自动化研究者。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "LLM",
+    "Browser Automation"
+  ],
+  "deploy_type": "源码 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T06:08:07Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/lsdefine/GenericAgent/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.2.1",
+    "name": "GenericAgent v0.2.1 — Windows Desktop",
+    "published": "2026-10-19T06:08:07Z",
+    "url": "https://github.com/lsdefine/GenericAgent/releases/tag/v0.2.1"
+  },
+  "assets": [
+    {
+      "name": "GenericAgent.exe",
+      "size": 13451776,
+      "url": "https://github.com/lsdefine/GenericAgent/releases/download/v0.2.1/GenericAgent.exe"
+    },
+    {
+      "name": "GenericAgent-Desktop-Windows-Portable.zip",
+      "size": 32151867,
+      "url": "https://github.com/lsdefine/GenericAgent/releases/download/v0.2.1/GenericAgent-Desktop-Windows-Portable.zip"
+    },
+    {
+      "name": "GenericAgent-Linux-x86_64.AppImage",
+      "size": 102463992,
+      "url": "https://github.com/lsdefine/GenericAgent/releases/download/v0.2.1/GenericAgent-Linux-x86_64.AppImage"
+    },
+    {
+      "name": "GenericAgent-Linux-WithPython.tar.gz",
+      "size": 240455912,
+      "url": "https://github.com/lsdefine/GenericAgent/releases/download/v0.2.1/GenericAgent-Linux-WithPython.tar.gz"
+    },
+    {
+      "name": "GenericAgent.exe.rollback-20261019T071922Z",
+      "size": 13488128,
+      "url": "https://github.com/lsdefine/GenericAgent/releases/download/v0.2.1/GenericAgent.exe.rollback-20261019T071922Z"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

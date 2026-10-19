@@ -1,0 +1,32 @@
+{
+  "repo": "InstaPy/InstaPy",
+  "slug": "InstaPy__InstaPy",
+  "name": "InstaPy",
+  "note_zh": "基于 Selenium 的 Instagram 自动互动脚本，可批量点赞、关注与评论，适合做社媒…",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Selenium",
+    "Bot"
+  ],
+  "deploy_type": "源码 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-14T08:55:24Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/InstaPy/InstaPy/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

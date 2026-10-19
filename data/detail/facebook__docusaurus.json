@@ -1,0 +1,32 @@
+{
+  "repo": "facebook/docusaurus",
+  "slug": "facebook__docusaurus",
+  "name": "Docusaurus",
+  "note_zh": "基于 React 的文档站生成器，快速搭建易维护的文档与博客，适合开源项目和技术团队。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React",
+    "Node.js"
+  ],
+  "deploy_type": "前端源码 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-16T22:33:35Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/facebook/docusaurus/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

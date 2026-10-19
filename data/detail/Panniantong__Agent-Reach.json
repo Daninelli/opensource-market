@@ -1,0 +1,32 @@
+{
+  "repo": "Panniantong/Agent-Reach",
+  "slug": "Panniantong__Agent-Reach",
+  "name": "Agent-Reach",
+  "note_zh": "让 AI 代理读取并搜索 Twitter、Reddit、YouTube 等站点的命令行工具，扩展…",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "CLI",
+    "LLM"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-15T11:34:42Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Panniantong/Agent-Reach/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

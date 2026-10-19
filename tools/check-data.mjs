@@ -19,6 +19,9 @@ import { dirname, join } from "node:path";
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const REQUIRED = ["name", "repo", "category", "category_slug", "tech_stack", "deploy_type", "note_zh", "license"];
 
+/** 形态（kind）枚举：与分类正交的「交付形态」维度（app 为默认，可不填） */
+const VALID_KIND = new Set(["app", "client", "cli", "framework", "library", "skill"]);
+
 /** 与 app.js 中的 TAXONOMY 保持一致 */
 const TAXONOMY = {
     ecommerce: { label: "电商", children: { headless: "无头电商", storefront: "电商前端", platform: "平台商城" } },
@@ -139,6 +142,11 @@ projects.forEach((project, index) => {
     });
     if (!Array.isArray(project.tech_stack)) fail(index, name, "tech_stack 必须是字符串数组");
 
+    /* 形态字段：可选；填了必须在枚举内 */
+    if (project.kind !== undefined && !VALID_KIND.has(project.kind)) {
+        fail(index, name, `kind 只能是 app/client/cli/framework/library/skill，当前是 ${project.kind}`);
+    }
+
     if (project.repo) {
         if (!/^[\w.-]+\/[\w.-]+$/.test(project.repo)) {
             fail(index, name, `repo 格式应为 owner/repo，当前是 ${project.repo}`);
@@ -225,6 +233,25 @@ Object.entries(TAXONOMY).forEach(([slug, meta]) => {
     });
 });
 
+/* 形态（kind）分布：未标记的按 app 统计 */
+const kindCount = { app: 0, client: 0, cli: 0, framework: 0, library: 0, skill: 0 };
+let missingKind = 0;
+projects.forEach((p) => {
+    if (!p.kind) {
+        missingKind += 1;
+        kindCount.app += 1;
+        return;
+    }
+    kindCount[p.kind] = (kindCount[p.kind] || 0) + 1;
+});
+console.log("\n形态分布（kind）：");
+Object.entries(kindCount).forEach(([k, v]) => {
+    if (v) console.log(`  ${k}：${v}`);
+});
+if (missingKind) {
+    console.log(`[WARN] 有 ${missingKind} 个项目未标记 kind（按 app 统计），建议补全。`);
+}
+
 /* 简介长度提示：卡片上简介固定两行，实测约 50 字以内可放下 */
 const LONG_DESC = 50;
 const longDesc = projects.filter((p) => (p.note_zh || "").length > LONG_DESC);
@@ -238,7 +265,12 @@ if (longDesc.length) {
 
 /* 标签数量提示：卡片上标签最多两行，超过 6 个容易放不下 */
 const manyTags = projects.filter(
-    (p) => 1 + (p.deploy_type ? 1 : 0) + (Array.isArray(p.tech_stack) ? p.tech_stack.length : 0) > 6
+    (p) =>
+        1 +
+        (p.deploy_type ? 1 : 0) +
+        (Array.isArray(p.tech_stack) ? p.tech_stack.length : 0) +
+        (p.kind && p.kind !== "app" ? 1 : 0) >
+        6
 );
 if (manyTags.length) {
     console.log(`\n[WARN] 有 ${manyTags.length} 个项目标签超过 6 个，窄屏可能超出两行：`);

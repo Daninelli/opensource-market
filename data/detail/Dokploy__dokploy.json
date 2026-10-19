@@ -1,0 +1,37 @@
+{
+  "repo": "Dokploy/dokploy",
+  "slug": "Dokploy__dokploy",
+  "name": "Dokploy",
+  "note_zh": "自托管 PaaS，一键部署应用、数据库与容器，可替代 Vercel/Heroku，适合团队自建发…",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Docker",
+    "Node.js"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-16T15:40:46Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "canary",
+  "download_url": "https://codeload.github.com/Dokploy/dokploy/zip/refs/heads/canary",
+  "release": {
+    "tag": "v0.30.8",
+    "name": "v0.30.8",
+    "published": "2026-09-29T08:16:23Z",
+    "url": "https://github.com/Dokploy/dokploy/releases/tag/v0.30.8"
+  },
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

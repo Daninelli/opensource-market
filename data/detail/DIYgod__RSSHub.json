@@ -1,0 +1,32 @@
+{
+  "repo": "DIYgod/RSSHub",
+  "slug": "DIYgod__RSSHub",
+  "name": "RSSHub",
+  "note_zh": "给没有订阅源的网站生成 RSS，覆盖大量平台，适合自建信息聚合与订阅服务。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "电子书与阅读",
+  "subcategory_slug": "ebook",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Node.js",
+    "RSS"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:35:27Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/DIYgod/RSSHub/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

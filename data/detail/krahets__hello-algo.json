@@ -1,0 +1,48 @@
+{
+  "repo": "krahets/hello-algo",
+  "slug": "krahets__hello-algo",
+  "name": "Hello-algo",
+  "note_zh": "《Hello 算法》动画图解教程，多语言代码可一键运行，适合零基础学数据结构与算法。",
+  "category": "教育",
+  "category_slug": "education",
+  "subcategory": "在线学习",
+  "subcategory_slug": "lms",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "Python",
+    "Data Structures"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-10T21:51:10Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/krahets/hello-algo/zip/refs/heads/main",
+  "release": {
+    "tag": "1.3.0",
+    "name": "Hello 算法 1.3.0",
+    "published": "2026-01-01T20:48:29Z",
+    "url": "https://github.com/krahets/hello-algo/releases/tag/1.3.0"
+  },
+  "assets": [
+    {
+      "name": "hello-algo_1.3.0_en_dart.epub",
+      "size": 13668527,
+      "url": "https://github.com/krahets/hello-algo/releases/download/1.3.0/hello-algo_1.3.0_en_dart.epub"
+    },
+    {
+      "name": "hello-algo_1.3.0_en_python.epub",
+      "size": 13669506,
+      "url": "https://github.com/krahets/hello-algo/releases/download/1.3.0/hello-algo_1.3.0_en_python.epub"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

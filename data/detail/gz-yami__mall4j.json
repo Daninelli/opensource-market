@@ -1,0 +1,33 @@
+{
+  "repo": "gz-yami/mall4j",
+  "slug": "gz-yami__mall4j",
+  "name": "Mall4j",
+  "note_zh": "Java 开源商城系统，覆盖小程序、PC、H5、App 与 O2O 场景，适合国内电商快速搭建。",
+  "category": "电商",
+  "category_slug": "ecommerce",
+  "subcategory": "平台商城",
+  "subcategory_slug": "platform",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "Spring Boot",
+    "Vue",
+    "MySQL"
+  ],
+  "deploy_type": "传统部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T02:30:21Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/gz-yami/mall4j/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

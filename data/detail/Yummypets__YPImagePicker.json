@@ -1,0 +1,32 @@
+{
+  "repo": "Yummypets/YPImagePicker",
+  "slug": "Yummypets__YPImagePicker",
+  "name": "YPImagePicker",
+  "note_zh": "仿 Instagram 的 iOS 拍照选图组件，内置滤镜与裁剪，适合快速做社交发图。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "相册管理",
+  "subcategory_slug": "photos",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Swift",
+    "iOS",
+    "Camera"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-07-28T15:57:49Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/Yummypets/YPImagePicker/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

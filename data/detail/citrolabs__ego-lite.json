@@ -1,0 +1,43 @@
+{
+  "repo": "citrolabs/ego-lite",
+  "slug": "citrolabs__ego-lite",
+  "name": "Ego-lite",
+  "note_zh": "面向 AI 智能体的浏览器，复用已登录状态执行网页自动化，适合让 agent 绕过登录直接操作站点。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Chromium",
+    "AI Agent"
+  ],
+  "deploy_type": "二进制 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T07:50:59Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/citrolabs/ego-lite/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.1.0",
+    "name": "v2.1.0",
+    "published": "2026-10-16T03:22:42Z",
+    "url": "https://github.com/citrolabs/ego-lite/releases/tag/v2.1.0"
+  },
+  "assets": [
+    {
+      "name": "ego-browser-v2.1.0.zip",
+      "size": 231543,
+      "url": "https://github.com/citrolabs/ego-lite/releases/download/v2.1.0/ego-browser-v2.1.0.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

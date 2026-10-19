@@ -1,0 +1,33 @@
+{
+  "repo": "vuestorefront/vue-storefront",
+  "slug": "vuestorefront__vue-storefront",
+  "name": "Vue-storefront",
+  "note_zh": "Alokai 的前端即服务方案，为 composable 电商快速搭建 Vue 店面并连接多种后端。",
+  "category": "电商",
+  "category_slug": "ecommerce",
+  "subcategory": "平台商城",
+  "subcategory_slug": "platform",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Vue",
+    "Nuxt",
+    "TypeScript",
+    "GraphQL"
+  ],
+  "deploy_type": "前端源码 / 源码",
+  "platform": "github",
+  "updated_at": "2026-06-09T12:03:34Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/vuestorefront/vue-storefront/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

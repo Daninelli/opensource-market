@@ -1,0 +1,43 @@
+{
+  "repo": "Kenshin/simpread",
+  "slug": "Kenshin__simpread",
+  "name": "Simpread",
+  "note_zh": "浏览器沉浸式阅读扩展，一键净化正文并支持标注导出，适合长文与资料精读。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "电子书与阅读",
+  "subcategory_slug": "ebook",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "React",
+    "Chrome Extension"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-09-05T01:09:48Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/Kenshin/simpread/zip/refs/heads/master",
+  "release": {
+    "tag": "2.2.0.520",
+    "name": "正式版 2.2.0.520",
+    "published": "2025-07-13T04:23:33Z",
+    "url": "https://github.com/Kenshin/simpread/releases/tag/2.2.0.520"
+  },
+  "assets": [
+    {
+      "name": "simpread.2.2.0.520.zip",
+      "size": 1260151,
+      "url": "https://github.com/Kenshin/simpread/releases/download/2.2.0.520/simpread.2.2.0.520.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

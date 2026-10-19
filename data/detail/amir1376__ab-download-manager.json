@@ -1,0 +1,73 @@
+{
+  "repo": "amir1376/ab-download-manager",
+  "slug": "amir1376__ab-download-manager",
+  "name": "Ab-download-manager",
+  "note_zh": "基于 Kotlin 的多线程下载管理器，支持浏览器接管与断点续传，适合需要加速大文件下载的桌面用户。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Kotlin",
+    "Compose Multiplatform",
+    "Java"
+  ],
+  "deploy_type": "桌面应用 / 客户端",
+  "platform": "github",
+  "updated_at": "2026-10-15T10:18:05Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/amir1376/ab-download-manager/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.11.1",
+    "name": "v1.11.1",
+    "published": "2026-10-14T02:16:01Z",
+    "url": "https://github.com/amir1376/ab-download-manager/releases/tag/v1.11.1"
+  },
+  "assets": [
+    {
+      "name": "ABDownloadManager_1.11.1_windows_arm64.exe",
+      "size": 75623364,
+      "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.11.1/ABDownloadManager_1.11.1_windows_arm64.exe"
+    },
+    {
+      "name": "ABDownloadManager_1.11.1_windows_x64.exe",
+      "size": 78228065,
+      "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.11.1/ABDownloadManager_1.11.1_windows_x64.exe"
+    },
+    {
+      "name": "ABDownloadManager_1.11.1_mac_arm64.tar.gz",
+      "size": 90210676,
+      "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.11.1/ABDownloadManager_1.11.1_mac_arm64.tar.gz"
+    },
+    {
+      "name": "ABDownloadManager_1.11.1_mac_x64.tar.gz",
+      "size": 91609246,
+      "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.11.1/ABDownloadManager_1.11.1_mac_x64.tar.gz"
+    },
+    {
+      "name": "ABDownloadManager_1.11.1_linux_arm64.tar.gz",
+      "size": 99410498,
+      "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.11.1/ABDownloadManager_1.11.1_linux_arm64.tar.gz"
+    },
+    {
+      "name": "ABDownloadManager_1.11.1_linux_x64.tar.gz",
+      "size": 100558279,
+      "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.11.1/ABDownloadManager_1.11.1_linux_x64.tar.gz"
+    },
+    {
+      "name": "ABDownloadManager_1.11.1_android_universal.apk",
+      "size": 11320479,
+      "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.11.1/ABDownloadManager_1.11.1_android_universal.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

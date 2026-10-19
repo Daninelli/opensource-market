@@ -1,0 +1,33 @@
+{
+  "repo": "flexprice/flexprice",
+  "slug": "flexprice__flexprice",
+  "name": "Flexprice",
+  "note_zh": "面向开发者的用量计费与定价系统，支持云端或自托管，适合 SaaS 按量收费场景。",
+  "category": "电商",
+  "category_slug": "ecommerce",
+  "subcategory": "平台商城",
+  "subcategory_slug": "platform",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "PostgreSQL",
+    "ClickHouse",
+    "Kafka"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:11:03Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/flexprice/flexprice/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

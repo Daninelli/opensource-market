@@ -1,0 +1,49 @@
+{
+  "repo": "CodeWithCJ/SparkyFitness",
+  "slug": "CodeWithCJ__SparkyFitness",
+  "name": "SparkyFitness",
+  "note_zh": "面向家庭的 AI 健康应用，记录饮食、运动、饮水与健康指标。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React",
+    "AI",
+    "Docker"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:24:56Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/CodeWithCJ/SparkyFitness/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.8.0",
+    "name": "v1.8.0",
+    "published": "2026-10-08T01:28:46Z",
+    "url": "https://github.com/CodeWithCJ/SparkyFitness/releases/tag/v1.8.0"
+  },
+  "assets": [
+    {
+      "name": "app-release.apk",
+      "size": 164787746,
+      "url": "https://github.com/CodeWithCJ/SparkyFitness/releases/download/v1.8.0/app-release.apk"
+    },
+    {
+      "name": "SparkyFitness.tar.gz",
+      "size": 188528243,
+      "url": "https://github.com/CodeWithCJ/SparkyFitness/releases/download/v1.8.0/SparkyFitness.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

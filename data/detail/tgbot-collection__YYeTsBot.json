@@ -1,0 +1,63 @@
+{
+  "repo": "tgbot-collection/YYeTsBot",
+  "slug": "tgbot-collection__YYeTsBot",
+  "name": "YYeTsBot",
+  "note_zh": "人人影视资源检索机器人与网站，可按剧名搜索并获取网盘链接，适合追剧的用户。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "影音媒体",
+  "subcategory_slug": "streaming",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Telegram Bot",
+    "Docker"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-07-27T08:18:26Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/tgbot-collection/YYeTsBot/zip/refs/heads/master",
+  "release": {
+    "tag": "yyetsbot-app-v0.1.0",
+    "name": "YYeTsBot App v0.1.0",
+    "published": "2024-01-07T14:20:00Z",
+    "url": "https://github.com/tgbot-collection/YYeTsBot/releases/tag/yyetsbot-app-v0.1.0"
+  },
+  "assets": [
+    {
+      "name": "yyetsbot_0.1.0_x64_zh-CN.msi",
+      "size": 4284416,
+      "url": "https://github.com/tgbot-collection/YYeTsBot/releases/download/yyetsbot-app-v0.1.0/yyetsbot_0.1.0_x64_zh-CN.msi"
+    },
+    {
+      "name": "yyetsbot_0.1.0_universal.dmg",
+      "size": 8167997,
+      "url": "https://github.com/tgbot-collection/YYeTsBot/releases/download/yyetsbot-app-v0.1.0/yyetsbot_0.1.0_universal.dmg"
+    },
+    {
+      "name": "yyetsbot_0.1.0_amd64.deb",
+      "size": 5653326,
+      "url": "https://github.com/tgbot-collection/YYeTsBot/releases/download/yyetsbot-app-v0.1.0/yyetsbot_0.1.0_amd64.deb"
+    },
+    {
+      "name": "yyetsbot_0.1.0_amd64.AppImage",
+      "size": 74773696,
+      "url": "https://github.com/tgbot-collection/YYeTsBot/releases/download/yyetsbot-app-v0.1.0/yyetsbot_0.1.0_amd64.AppImage"
+    },
+    {
+      "name": "yyetsbot_universal.app.tar.gz",
+      "size": 7974567,
+      "url": "https://github.com/tgbot-collection/YYeTsBot/releases/download/yyetsbot-app-v0.1.0/yyetsbot_universal.app.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

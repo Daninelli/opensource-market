@@ -1,0 +1,68 @@
+{
+  "repo": "aquasecurity/trivy",
+  "slug": "aquasecurity__trivy",
+  "name": "Trivy",
+  "note_zh": "容器与代码仓库的漏洞、配置和密钥扫描器，适合接入 DevSecOps 流水线。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Docker",
+    "Kubernetes"
+  ],
+  "deploy_type": "二进制 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:31:55Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/aquasecurity/trivy/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.76.0",
+    "name": "v0.76.0",
+    "published": "2026-10-14T11:45:44Z",
+    "url": "https://github.com/aquasecurity/trivy/releases/tag/v0.76.0"
+  },
+  "assets": [
+    {
+      "name": "trivy_0.76.0_macOS-ARM64.tar.gz",
+      "size": 49441470,
+      "url": "https://github.com/aquasecurity/trivy/releases/download/v0.76.0/trivy_0.76.0_macOS-ARM64.tar.gz"
+    },
+    {
+      "name": "trivy_0.76.0_macOS-64bit.tar.gz",
+      "size": 53344782,
+      "url": "https://github.com/aquasecurity/trivy/releases/download/v0.76.0/trivy_0.76.0_macOS-64bit.tar.gz"
+    },
+    {
+      "name": "trivy_0.76.0_windows-64bit.zip",
+      "size": 53449911,
+      "url": "https://github.com/aquasecurity/trivy/releases/download/v0.76.0/trivy_0.76.0_windows-64bit.zip"
+    },
+    {
+      "name": "trivy_0.76.0_Linux-PPC64LE.rpm",
+      "size": 46405214,
+      "url": "https://github.com/aquasecurity/trivy/releases/download/v0.76.0/trivy_0.76.0_Linux-PPC64LE.rpm"
+    },
+    {
+      "name": "trivy_0.76.0_Linux-PPC64LE.deb",
+      "size": 46534656,
+      "url": "https://github.com/aquasecurity/trivy/releases/download/v0.76.0/trivy_0.76.0_Linux-PPC64LE.deb"
+    },
+    {
+      "name": "trivy_0.76.0_FreeBSD-64bit.tar.gz",
+      "size": 52079908,
+      "url": "https://github.com/aquasecurity/trivy/releases/download/v0.76.0/trivy_0.76.0_FreeBSD-64bit.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

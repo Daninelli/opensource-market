@@ -1,0 +1,73 @@
+{
+  "repo": "Jackett/Jackett",
+  "slug": "Jackett__Jackett",
+  "name": "Jackett",
+  "note_zh": "把各大 BT 站索引统一成 Torznab API，供下载器调用，适合自建影音库的用户。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "电子书与阅读",
+  "subcategory_slug": "ebook",
+  "license": "GPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET",
+    "Torznab"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T05:49:41Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/Jackett/Jackett/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.24.2875",
+    "name": "v0.24.2875",
+    "published": "2026-10-19T05:49:41Z",
+    "url": "https://github.com/Jackett/Jackett/releases/tag/v0.24.2875"
+  },
+  "assets": [
+    {
+      "name": "Jackett.Installer.Windows.exe",
+      "size": 42541357,
+      "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.2875/Jackett.Installer.Windows.exe"
+    },
+    {
+      "name": "Jackett.Binaries.macOSARM64.tar.gz",
+      "size": 47877404,
+      "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.2875/Jackett.Binaries.macOSARM64.tar.gz"
+    },
+    {
+      "name": "Jackett.Binaries.macOS.tar.gz",
+      "size": 50127362,
+      "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.2875/Jackett.Binaries.macOS.tar.gz"
+    },
+    {
+      "name": "Jackett.Binaries.Windows.zip",
+      "size": 57068504,
+      "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.2875/Jackett.Binaries.Windows.zip"
+    },
+    {
+      "name": "Jackett.Binaries.LinuxMuslARM32.tar.gz",
+      "size": 48683985,
+      "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.2875/Jackett.Binaries.LinuxMuslARM32.tar.gz"
+    },
+    {
+      "name": "Jackett.Binaries.LinuxARM32.tar.gz",
+      "size": 48692912,
+      "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.2875/Jackett.Binaries.LinuxARM32.tar.gz"
+    },
+    {
+      "name": "Jackett.Binaries.Mono.tar.gz",
+      "size": 11643017,
+      "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.2875/Jackett.Binaries.Mono.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

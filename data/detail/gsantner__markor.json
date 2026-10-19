@@ -1,0 +1,43 @@
+{
+  "repo": "gsantner/markor",
+  "slug": "gsantner__markor",
+  "name": "Markor",
+  "note_zh": "Android 本地文本编辑器，支持 Markdown、todo.txt 与数学公式，适合离线记…",
+  "category": "教育",
+  "category_slug": "education",
+  "subcategory": "在线学习",
+  "subcategory_slug": "lms",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "Android",
+    "Markdown"
+  ],
+  "deploy_type": "客户端 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-10T07:09:13Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/gsantner/markor/zip/refs/heads/master",
+  "release": {
+    "tag": "v2.16.1",
+    "name": "Markor v2.16.1",
+    "published": "2026-03-19T08:27:29Z",
+    "url": "https://github.com/gsantner/markor/releases/tag/v2.16.1"
+  },
+  "assets": [
+    {
+      "name": "net.gsantner.markor-v163-2.16.1-flavorDefault-release.apk",
+      "size": 12065877,
+      "url": "https://github.com/gsantner/markor/releases/download/v2.16.1/net.gsantner.markor-v163-2.16.1-flavorDefault-release.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

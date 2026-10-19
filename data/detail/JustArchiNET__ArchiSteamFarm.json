@@ -1,0 +1,68 @@
+{
+  "repo": "JustArchiNET/ArchiSteamFarm",
+  "slug": "JustArchiNET__ArchiSteamFarm",
+  "name": "ArchiSteamFarm",
+  "note_zh": "C# 编写的 Steam 挂卡工具，可多账号后台挂机自动掉卡，适合 Steam 玩家与收藏党。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET",
+    "CLI"
+  ],
+  "deploy_type": "二进制 / 命令行 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:02:51Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/JustArchiNET/ArchiSteamFarm/zip/refs/heads/main",
+  "release": {
+    "tag": "6.3.10.6",
+    "name": "ArchiSteamFarm V6.3.10.6",
+    "published": "2026-10-14T08:17:26Z",
+    "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/tag/6.3.10.6"
+  },
+  "assets": [
+    {
+      "name": "ASF-win-arm64.zip",
+      "size": 19922920,
+      "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.10.6/ASF-win-arm64.zip"
+    },
+    {
+      "name": "ASF-win-x64.zip",
+      "size": 20144356,
+      "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.10.6/ASF-win-x64.zip"
+    },
+    {
+      "name": "ASF-linux-arm.zip",
+      "size": 18978755,
+      "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.10.6/ASF-linux-arm.zip"
+    },
+    {
+      "name": "ASF-linux-arm64.zip",
+      "size": 19759797,
+      "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.10.6/ASF-linux-arm64.zip"
+    },
+    {
+      "name": "ArchiSteamFarm.OfficialPlugins.Monitoring.zip",
+      "size": 335133,
+      "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.10.6/ArchiSteamFarm.OfficialPlugins.Monitoring.zip"
+    },
+    {
+      "name": "ASF-generic.zip",
+      "size": 8855195,
+      "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.10.6/ASF-generic.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

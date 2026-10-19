@@ -1,0 +1,31 @@
+{
+  "repo": "github/gitignore",
+  "slug": "github__gitignore",
+  "name": "Gitignore",
+  "note_zh": "GitHub 官方的 .gitignore 模板合集，按语言和框架挑选即可使用。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "CC0-1.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Git",
+    "Gitignore"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-02T20:59:38Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/github/gitignore/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

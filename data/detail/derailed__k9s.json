@@ -1,0 +1,78 @@
+{
+  "repo": "derailed/k9s",
+  "slug": "derailed__k9s",
+  "name": "K9s",
+  "note_zh": "Kubernetes 集群终端管理界面，可视化查看资源与日志，适合运维与 SRE 日常排障。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Kubernetes",
+    "TUI"
+  ],
+  "deploy_type": "二进制 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-18T09:10:13Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/derailed/k9s/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.51.0",
+    "name": "v0.51.0",
+    "published": "2026-06-06T14:13:12Z",
+    "url": "https://github.com/derailed/k9s/releases/tag/v0.51.0"
+  },
+  "assets": [
+    {
+      "name": "k9s_Windows_arm64.zip",
+      "size": 37580994,
+      "url": "https://github.com/derailed/k9s/releases/download/v0.51.0/k9s_Windows_arm64.zip"
+    },
+    {
+      "name": "k9s_Darwin_arm64.tar.gz",
+      "size": 39201894,
+      "url": "https://github.com/derailed/k9s/releases/download/v0.51.0/k9s_Darwin_arm64.tar.gz"
+    },
+    {
+      "name": "k9s_Darwin_amd64.tar.gz",
+      "size": 42172258,
+      "url": "https://github.com/derailed/k9s/releases/download/v0.51.0/k9s_Darwin_amd64.tar.gz"
+    },
+    {
+      "name": "k9s_Windows_amd64.zip",
+      "size": 42330705,
+      "url": "https://github.com/derailed/k9s/releases/download/v0.51.0/k9s_Windows_amd64.zip"
+    },
+    {
+      "name": "k9s_Linux_ppc64le.tar.gz",
+      "size": 37329473,
+      "url": "https://github.com/derailed/k9s/releases/download/v0.51.0/k9s_Linux_ppc64le.tar.gz"
+    },
+    {
+      "name": "k9s_Linux_arm64.tar.gz",
+      "size": 37438999,
+      "url": "https://github.com/derailed/k9s/releases/download/v0.51.0/k9s_Linux_arm64.tar.gz"
+    },
+    {
+      "name": "k9s_linux_ppc64le.apk",
+      "size": 38794988,
+      "url": "https://github.com/derailed/k9s/releases/download/v0.51.0/k9s_linux_ppc64le.apk"
+    },
+    {
+      "name": "k9s_linux_arm64.apk",
+      "size": 38931082,
+      "url": "https://github.com/derailed/k9s/releases/download/v0.51.0/k9s_linux_arm64.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

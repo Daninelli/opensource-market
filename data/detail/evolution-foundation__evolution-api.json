@@ -1,0 +1,32 @@
+{
+  "repo": "evolution-foundation/evolution-api",
+  "slug": "evolution-foundation__evolution-api",
+  "name": "Evolution-api",
+  "note_zh": "开源 WhatsApp 集成 API，收发消息并接入 Chatwoot、n8n 等，适合自建客服。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "即时通讯",
+  "subcategory_slug": "im",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Node.js",
+    "WhatsApp API"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-07-14T19:50:55Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/evolution-foundation/evolution-api/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

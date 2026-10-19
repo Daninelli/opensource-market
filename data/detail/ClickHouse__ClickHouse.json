@@ -1,0 +1,68 @@
+{
+  "repo": "ClickHouse/ClickHouse",
+  "slug": "ClickHouse__ClickHouse",
+  "name": "ClickHouse",
+  "note_zh": "列式存储的实时分析数据库，擅长海量数据的秒级聚合查询，适合日志与 BI。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "数据分析",
+  "subcategory_slug": "bi",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "SQL",
+    "OLAP"
+  ],
+  "deploy_type": "Docker 部署 / 二进制 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:18:20Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/ClickHouse/ClickHouse/zip/refs/heads/master",
+  "release": {
+    "tag": "v26.7.34.3-stable",
+    "name": "Release v26.7.34.3-stable",
+    "published": "2026-10-18T13:46:32Z",
+    "url": "https://github.com/ClickHouse/ClickHouse/releases/tag/v26.7.34.3-stable"
+  },
+  "assets": [
+    {
+      "name": "clickhouse-macos-aarch64",
+      "size": 168051436,
+      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.7.34.3-stable/clickhouse-macos-aarch64"
+    },
+    {
+      "name": "clickhouse-macos",
+      "size": 176530573,
+      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.7.34.3-stable/clickhouse-macos"
+    },
+    {
+      "name": "clickhouse-client_26.7.34.3_arm64.deb",
+      "size": 229732,
+      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.7.34.3-stable/clickhouse-client_26.7.34.3_arm64.deb"
+    },
+    {
+      "name": "clickhouse-client_26.7.34.3_amd64.deb",
+      "size": 229738,
+      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.7.34.3-stable/clickhouse-client_26.7.34.3_amd64.deb"
+    },
+    {
+      "name": "clickhouse-client-26.7.34.3-amd64.tgz",
+      "size": 220429,
+      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.7.34.3-stable/clickhouse-client-26.7.34.3-amd64.tgz"
+    },
+    {
+      "name": "clickhouse-client-26.7.34.3-arm64.tgz",
+      "size": 220435,
+      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.7.34.3-stable/clickhouse-client-26.7.34.3-arm64.tgz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

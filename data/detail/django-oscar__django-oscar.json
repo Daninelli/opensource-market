@@ -1,0 +1,32 @@
+{
+  "repo": "django-oscar/django-oscar",
+  "slug": "django-oscar__django-oscar",
+  "name": "Django-oscar",
+  "note_zh": "基于 Django 的领域驱动电商框架，可定制商品、订单与促销，适合 Python 开发者建站。",
+  "category": "电商",
+  "category_slug": "ecommerce",
+  "subcategory": "平台商城",
+  "subcategory_slug": "platform",
+  "license": "BSD-3-Clause",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Django",
+    "PostgreSQL"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-16T10:36:45Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/django-oscar/django-oscar/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

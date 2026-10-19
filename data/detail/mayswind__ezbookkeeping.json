@@ -1,0 +1,63 @@
+{
+  "repo": "mayswind/ezbookkeeping",
+  "slug": "mayswind__ezbookkeeping",
+  "name": "Ezbookkeeping",
+  "note_zh": "自托管个人记账应用，支持多账户多币种与图表统计，适合想掌控数据的个人和家庭。",
+  "category": "金融",
+  "category_slug": "finance",
+  "subcategory": "记账核算",
+  "subcategory_slug": "accounting",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Vue",
+    "Docker"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T03:47:17Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/mayswind/ezbookkeeping/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.1.0",
+    "name": "v2.1.0",
+    "published": "2026-10-15T15:47:22Z",
+    "url": "https://github.com/mayswind/ezbookkeeping/releases/tag/v2.1.0"
+  },
+  "assets": [
+    {
+      "name": "ezbookkeeping-v2.1.0-macos-arm64.tar.gz",
+      "size": 22760665,
+      "url": "https://github.com/mayswind/ezbookkeeping/releases/download/v2.1.0/ezbookkeeping-v2.1.0-macos-arm64.tar.gz"
+    },
+    {
+      "name": "ezbookkeeping-v2.1.0-windows-x64.zip",
+      "size": 23470421,
+      "url": "https://github.com/mayswind/ezbookkeeping/releases/download/v2.1.0/ezbookkeeping-v2.1.0-windows-x64.zip"
+    },
+    {
+      "name": "ezbookkeeping-v2.1.0-linux-arm64.tar.gz",
+      "size": 22485338,
+      "url": "https://github.com/mayswind/ezbookkeeping/releases/download/v2.1.0/ezbookkeeping-v2.1.0-linux-arm64.tar.gz"
+    },
+    {
+      "name": "ezbookkeeping-v2.1.0-linux-armv7.tar.gz",
+      "size": 23314097,
+      "url": "https://github.com/mayswind/ezbookkeeping/releases/download/v2.1.0/ezbookkeeping-v2.1.0-linux-armv7.tar.gz"
+    },
+    {
+      "name": "ezbookkeeping-v2.1.0-freebsd-amd64.tar.gz",
+      "size": 24196544,
+      "url": "https://github.com/mayswind/ezbookkeeping/releases/download/v2.1.0/ezbookkeeping-v2.1.0-freebsd-amd64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

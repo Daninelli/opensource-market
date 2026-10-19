@@ -1,0 +1,63 @@
+{
+  "repo": "googleworkspace/cli",
+  "slug": "googleworkspace__cli",
+  "name": "Cli",
+  "note_zh": "Google Workspace 命令行工具，统一操作 Drive、Gmail、日历和文档，适合…",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "Google API",
+    "CLI"
+  ],
+  "deploy_type": "二进制 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-06T20:23:04Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/googleworkspace/cli/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.22.5",
+    "name": "v0.22.5",
+    "published": "2026-03-31T18:53:24Z",
+    "url": "https://github.com/googleworkspace/cli/releases/tag/v0.22.5"
+  },
+  "assets": [
+    {
+      "name": "google-workspace-cli-x86_64-pc-windows-msvc.zip",
+      "size": 5882057,
+      "url": "https://github.com/googleworkspace/cli/releases/download/v0.22.5/google-workspace-cli-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "google-workspace-cli-aarch64-apple-darwin.tar.gz",
+      "size": 6119841,
+      "url": "https://github.com/googleworkspace/cli/releases/download/v0.22.5/google-workspace-cli-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "google-workspace-cli-x86_64-apple-darwin.tar.gz",
+      "size": 6384868,
+      "url": "https://github.com/googleworkspace/cli/releases/download/v0.22.5/google-workspace-cli-x86_64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "google-workspace-cli-aarch64-unknown-linux-musl.tar.gz",
+      "size": 6592310,
+      "url": "https://github.com/googleworkspace/cli/releases/download/v0.22.5/google-workspace-cli-aarch64-unknown-linux-musl.tar.gz"
+    },
+    {
+      "name": "google-workspace-cli-aarch64-unknown-linux-gnu.tar.gz",
+      "size": 6615778,
+      "url": "https://github.com/googleworkspace/cli/releases/download/v0.22.5/google-workspace-cli-aarch64-unknown-linux-gnu.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

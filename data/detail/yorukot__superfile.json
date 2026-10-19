@@ -1,0 +1,68 @@
+{
+  "repo": "yorukot/superfile",
+  "slug": "yorukot__superfile",
+  "name": "Superfile",
+  "note_zh": "终端里的现代化文件管理器，带多面板浏览与文件预览，适合习惯命令行的开发者和运维。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "文件管理与网盘",
+  "subcategory_slug": "file",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Bubble Tea",
+    "TUI"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-16T14:03:04Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/yorukot/superfile/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.6.0",
+    "name": "v1.6.0",
+    "published": "2026-06-07T17:54:13Z",
+    "url": "https://github.com/yorukot/superfile/releases/tag/v1.6.0"
+  },
+  "assets": [
+    {
+      "name": "superfile-windows-v1.6.0-arm64.zip",
+      "size": 12541266,
+      "url": "https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-windows-v1.6.0-arm64.zip"
+    },
+    {
+      "name": "superfile-darwin-v1.6.0-arm64.tar.gz",
+      "size": 13054051,
+      "url": "https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-darwin-v1.6.0-arm64.tar.gz"
+    },
+    {
+      "name": "superfile-windows-v1.6.0-amd64.zip",
+      "size": 13743007,
+      "url": "https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-windows-v1.6.0-amd64.zip"
+    },
+    {
+      "name": "superfile-darwin-v1.6.0-amd64.tar.gz",
+      "size": 13879956,
+      "url": "https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-darwin-v1.6.0-amd64.tar.gz"
+    },
+    {
+      "name": "superfile-linux-v1.6.0-arm64.tar.gz",
+      "size": 12358649,
+      "url": "https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-linux-v1.6.0-arm64.tar.gz"
+    },
+    {
+      "name": "superfile-linux-v1.6.0-amd64.tar.gz",
+      "size": 13490110,
+      "url": "https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-linux-v1.6.0-amd64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

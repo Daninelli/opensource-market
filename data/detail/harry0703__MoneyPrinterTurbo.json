@@ -1,0 +1,43 @@
+{
+  "repo": "harry0703/MoneyPrinterTurbo",
+  "slug": "harry0703__MoneyPrinterTurbo",
+  "name": "MoneyPrinterTurbo",
+  "note_zh": "输入主题或关键词即可用 AI 自动生成高清短视频，含文案、配音与字幕，适合内容创作者。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "LLM",
+    "FFmpeg"
+  ],
+  "deploy_type": "源码 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:57:53Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/harry0703/MoneyPrinterTurbo/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.3.8",
+    "name": "v1.3.8",
+    "published": "2026-10-03T03:31:16Z",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo/releases/tag/v1.3.8"
+  },
+  "assets": [
+    {
+      "name": "MoneyPrinterTurbo-Portable-Windows-1.3.8.7z",
+      "size": 918153837,
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo/releases/download/v1.3.8/MoneyPrinterTurbo-Portable-Windows-1.3.8.7z"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

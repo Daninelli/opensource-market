@@ -1,0 +1,32 @@
+{
+  "repo": "openshiporg/openship",
+  "slug": "openshiporg__openship",
+  "name": "Openship",
+  "note_zh": "多渠道订单履约系统，统一对接电商平台、仓储与三方物流，适合规模化发货的商家和 3PL。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "企业资源",
+  "subcategory_slug": "erp",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Next.js",
+    "Node.js"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-17T00:02:25Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/openshiporg/openship/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

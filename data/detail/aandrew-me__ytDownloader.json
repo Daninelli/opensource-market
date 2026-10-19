@@ -1,0 +1,68 @@
+{
+  "repo": "aandrew-me/ytDownloader",
+  "slug": "aandrew-me__ytDownloader",
+  "name": "YtDownloader",
+  "note_zh": "基于 Electron 的桌面下载器，支持数百个站点的音视频下载与格式转换，适合桌面用户。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Electron",
+    "FFmpeg"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-18T10:15:55Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/aandrew-me/ytDownloader/zip/refs/heads/main",
+  "release": {
+    "tag": "v4.0.1",
+    "name": "v4.0.1",
+    "published": "2026-08-26T09:25:24Z",
+    "url": "https://github.com/aandrew-me/ytDownloader/releases/tag/v4.0.1"
+  },
+  "assets": [
+    {
+      "name": "YTDownloader_Win.exe",
+      "size": 115396004,
+      "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.1/YTDownloader_Win.exe"
+    },
+    {
+      "name": "YTDownloader_Win.msi",
+      "size": 132826879,
+      "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.1/YTDownloader_Win.msi"
+    },
+    {
+      "name": "YTDownloader_Mac_arm64.zip",
+      "size": 135161807,
+      "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.1/YTDownloader_Mac_arm64.zip"
+    },
+    {
+      "name": "YTDownloader_Mac_arm64.dmg",
+      "size": 135163776,
+      "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.1/YTDownloader_Mac_arm64.dmg"
+    },
+    {
+      "name": "YTDownloader_Linux.rpm",
+      "size": 120447821,
+      "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.1/YTDownloader_Linux.rpm"
+    },
+    {
+      "name": "YTDownloader_Linux.deb",
+      "size": 137929852,
+      "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.1/YTDownloader_Linux.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

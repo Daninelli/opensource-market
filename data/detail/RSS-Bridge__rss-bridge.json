@@ -1,0 +1,32 @@
+{
+  "repo": "RSS-Bridge/rss-bridge",
+  "slug": "RSS-Bridge__rss-bridge",
+  "name": "Rss-bridge",
+  "note_zh": "为没有 RSS 的网站补上订阅源，PHP 程序部署简单，适合自建聚合前先补齐来源。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "电子书与阅读",
+  "subcategory_slug": "ebook",
+  "license": "Unlicense",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "RSS",
+    "Atom"
+  ],
+  "deploy_type": "自托管服务 / Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T01:11:16Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/RSS-Bridge/rss-bridge/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

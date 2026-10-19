@@ -1,0 +1,32 @@
+{
+  "repo": "hardikvasa/google-images-download",
+  "slug": "hardikvasa__google-images-download",
+  "name": "Google-images-download",
+  "note_zh": "Python 命令行脚本，按关键词批量下载谷歌图片，适合快速构建图像数据集。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "相册管理",
+  "subcategory_slug": "photos",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "CLI",
+    "Web Scraping"
+  ],
+  "deploy_type": "命令行",
+  "platform": "github",
+  "updated_at": "2026-05-18T05:34:43Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/hardikvasa/google-images-download/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

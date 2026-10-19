@@ -1,0 +1,48 @@
+{
+  "repo": "ossrs/srs",
+  "slug": "ossrs__srs",
+  "name": "Srs",
+  "note_zh": "高性能实时流媒体服务器，支持 RTMP、WebRTC、HLS 等协议，适合直播与低延迟场景。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "RTMP",
+    "WebRTC"
+  ],
+  "deploy_type": "自托管服务 / Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T01:08:26Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/ossrs/srs/zip/refs/heads/develop",
+  "release": {
+    "tag": "v6.0-r2",
+    "name": "Release v6.0-r2",
+    "published": "2026-09-24T20:43:27Z",
+    "url": "https://github.com/ossrs/srs/releases/tag/v6.0-r2"
+  },
+  "assets": [
+    {
+      "name": "SRS-CentOS7-x86_64-6.0-r2.zip",
+      "size": 14045194,
+      "url": "https://github.com/ossrs/srs/releases/download/v6.0-r2/SRS-CentOS7-x86_64-6.0-r2.zip"
+    },
+    {
+      "name": "srs-server-6.0-r2.tar.gz",
+      "size": 20499033,
+      "url": "https://github.com/ossrs/srs/releases/download/v6.0-r2/srs-server-6.0-r2.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

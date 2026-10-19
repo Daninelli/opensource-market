@@ -1,0 +1,58 @@
+{
+  "repo": "spotDL/spotify-downloader",
+  "slug": "spotDL__spotify-downloader",
+  "name": "Spotify-downloader",
+  "note_zh": "按歌单批量下载 Spotify 歌曲并从 YouTube 取音源，自动写入封面标签，适合本地曲库。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "影音媒体",
+  "subcategory_slug": "streaming",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "FFmpeg",
+    "YouTube"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-09T17:12:08Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/spotDL/spotify-downloader/zip/refs/heads/master",
+  "release": {
+    "tag": "v4.5.2",
+    "name": "v4.5.2 - hotfix",
+    "published": "2026-07-20T10:07:30Z",
+    "url": "https://github.com/spotDL/spotify-downloader/releases/tag/v4.5.2"
+  },
+  "assets": [
+    {
+      "name": "spotdl-4.5.2-darwin",
+      "size": 42453152,
+      "url": "https://github.com/spotDL/spotify-downloader/releases/download/v4.5.2/spotdl-4.5.2-darwin"
+    },
+    {
+      "name": "spotdl-4.5.2-win32.exe",
+      "size": 45970977,
+      "url": "https://github.com/spotDL/spotify-downloader/releases/download/v4.5.2/spotdl-4.5.2-win32.exe"
+    },
+    {
+      "name": "spotdl-4.5.2-linux",
+      "size": 75407960,
+      "url": "https://github.com/spotDL/spotify-downloader/releases/download/v4.5.2/spotdl-4.5.2-linux"
+    },
+    {
+      "name": "spotDL",
+      "size": 116207,
+      "url": "https://github.com/spotDL/spotify-downloader/releases/download/v4.5.2/spotDL"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

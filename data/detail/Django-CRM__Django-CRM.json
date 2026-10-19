@@ -1,0 +1,32 @@
+{
+  "repo": "Django-CRM/Django-CRM",
+  "slug": "Django-CRM__Django-CRM",
+  "name": "Django-CRM",
+  "note_zh": "基于 Django 的开源 CRM，含销售、工单与多租户模块，适合初创公司自建客户管理。",
+  "category": "金融",
+  "category_slug": "finance",
+  "subcategory": "记账核算",
+  "subcategory_slug": "accounting",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Django",
+    "SvelteKit"
+  ],
+  "deploy_type": "Docker 部署 / 源码 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-17T20:06:47Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/Django-CRM/Django-CRM/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,59 @@
+{
+  "repo": "traccar/traccar",
+  "slug": "traccar__traccar",
+  "name": "Traccar",
+  "note_zh": "开源 GPS 跟踪平台，支持 200 多种设备协议，可自建车队管理系统。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "智能家居",
+  "subcategory_slug": "smart-home",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "GPS",
+    "IoT",
+    "Docker"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T05:10:51Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/traccar/traccar/zip/refs/heads/master",
+  "release": {
+    "tag": "v6.16.0",
+    "name": "v6.16.0",
+    "published": "2026-09-27T00:20:15Z",
+    "url": "https://github.com/traccar/traccar/releases/tag/v6.16.0"
+  },
+  "assets": [
+    {
+      "name": "traccar-windows-64-6.16.0.zip",
+      "size": 187725152,
+      "url": "https://github.com/traccar/traccar/releases/download/v6.16.0/traccar-windows-64-6.16.0.zip"
+    },
+    {
+      "name": "traccar-linux-arm-6.16.0.zip",
+      "size": 204691897,
+      "url": "https://github.com/traccar/traccar/releases/download/v6.16.0/traccar-linux-arm-6.16.0.zip"
+    },
+    {
+      "name": "traccar-linux-64-6.16.0.zip",
+      "size": 205653023,
+      "url": "https://github.com/traccar/traccar/releases/download/v6.16.0/traccar-linux-64-6.16.0.zip"
+    },
+    {
+      "name": "traccar-other-6.16.0.zip",
+      "size": 166413827,
+      "url": "https://github.com/traccar/traccar/releases/download/v6.16.0/traccar-other-6.16.0.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

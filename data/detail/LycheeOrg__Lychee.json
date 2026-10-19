@@ -1,0 +1,43 @@
+{
+  "repo": "LycheeOrg/Lychee",
+  "slug": "LycheeOrg__Lychee",
+  "name": "Lychee",
+  "note_zh": "自建照片管理系统，界面美观、支持相册整理与分享，适合部署在个人服务器。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "相册管理",
+  "subcategory_slug": "photos",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "Laravel",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:13:35Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/LycheeOrg/Lychee/zip/refs/heads/master",
+  "release": {
+    "tag": "v7.11.1",
+    "name": "v7.11.1",
+    "published": "2026-10-13T16:10:40Z",
+    "url": "https://github.com/LycheeOrg/Lychee/releases/tag/v7.11.1"
+  },
+  "assets": [
+    {
+      "name": "Lychee.zip",
+      "size": 42283746,
+      "url": "https://github.com/LycheeOrg/Lychee/releases/download/v7.11.1/Lychee.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,43 @@
+{
+  "repo": "redis/redis",
+  "slug": "redis__redis",
+  "name": "Redis",
+  "note_zh": "内存键值数据库，常用于缓存、消息与实时数据处理，适合追求低延迟读写的后端开发者。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C",
+    "Redis",
+    "In-Memory"
+  ],
+  "deploy_type": "Docker 部署 / 二进制 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:24:01Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "unstable",
+  "download_url": "https://codeload.github.com/redis/redis/zip/refs/heads/unstable",
+  "release": {
+    "tag": "8.10.2",
+    "name": "8.10.2",
+    "published": "2026-09-17T15:06:56Z",
+    "url": "https://github.com/redis/redis/releases/tag/8.10.2"
+  },
+  "assets": [
+    {
+      "name": "redis-full.tar.gz",
+      "size": 21645437,
+      "url": "https://github.com/redis/redis/releases/download/8.10.2/redis-full.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

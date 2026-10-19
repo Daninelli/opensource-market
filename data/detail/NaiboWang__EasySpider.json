@@ -1,0 +1,53 @@
+{
+  "repo": "NaiboWang/EasySpider",
+  "slug": "NaiboWang__EasySpider",
+  "name": "EasySpider",
+  "note_zh": "可视化无代码爬虫工具，图形化设计并执行采集与自动化任务，适合不会编程但有批量取数需求的人。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Python",
+    "Selenium"
+  ],
+  "deploy_type": "二进制 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-16T11:53:44Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/NaiboWang/EasySpider/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.6.5",
+    "name": "Version 0.6.5",
+    "published": "2026-08-19T12:58:48Z",
+    "url": "https://github.com/NaiboWang/EasySpider/releases/tag/v0.6.5"
+  },
+  "assets": [
+    {
+      "name": "EasySpider_0.6.5_Windows_x64.7z",
+      "size": 378612326,
+      "url": "https://github.com/NaiboWang/EasySpider/releases/download/v0.6.5/EasySpider_0.6.5_Windows_x64.7z"
+    },
+    {
+      "name": "EasySpider_0.6.5_MacOS_Apple_Arm_Chip.7z",
+      "size": 614724385,
+      "url": "https://github.com/NaiboWang/EasySpider/releases/download/v0.6.5/EasySpider_0.6.5_MacOS_Apple_Arm_Chip.7z"
+    },
+    {
+      "name": "EasySpider_0.6.5_Linux_x64.tar.xz",
+      "size": 384994120,
+      "url": "https://github.com/NaiboWang/EasySpider/releases/download/v0.6.5/EasySpider_0.6.5_Linux_x64.tar.xz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

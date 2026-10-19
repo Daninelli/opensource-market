@@ -1,0 +1,32 @@
+{
+  "repo": "SFTtech/openage",
+  "slug": "SFTtech__openage",
+  "name": "Openage",
+  "note_zh": "用 C++ 与 Python 重写《帝国时代 II》引擎的开源项目，目标完整复刻即时战略玩法。",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏引擎",
+  "subcategory_slug": "engine",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Python",
+    "CMake"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-15T21:15:49Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/SFTtech/openage/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

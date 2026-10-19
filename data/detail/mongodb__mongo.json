@@ -1,0 +1,32 @@
+{
+  "repo": "mongodb/mongo",
+  "slug": "mongodb__mongo",
+  "name": "Mongo",
+  "note_zh": "MongoDB 官方数据库源码，面向文档的 NoSQL 存储，适合结构灵活、快速迭代的业务。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "MongoDB",
+    "NoSQL"
+  ],
+  "deploy_type": "Docker 部署 / 二进制 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:41:45Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/mongodb/mongo/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

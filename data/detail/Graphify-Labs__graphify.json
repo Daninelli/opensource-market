@@ -1,0 +1,43 @@
+{
+  "repo": "Graphify-Labs/graphify",
+  "slug": "Graphify-Labs__graphify",
+  "name": "Graphify",
+  "note_zh": "把代码库连同文档、SQL 配置和 PDF 转成可查询知识图谱，供 AI 编程助手理解项目。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "AST",
+    "AI Agents"
+  ],
+  "deploy_type": "源码 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-16T17:57:21Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "v8",
+  "download_url": "https://codeload.github.com/Graphify-Labs/graphify/zip/refs/heads/v8",
+  "release": {
+    "tag": "v0.9.92",
+    "name": "0.9.92",
+    "published": "2026-10-16T17:57:21Z",
+    "url": "https://github.com/Graphify-Labs/graphify/releases/tag/v0.9.92"
+  },
+  "assets": [
+    {
+      "name": "graphify-self-graph.tar.gz",
+      "size": 486041,
+      "url": "https://github.com/Graphify-Labs/graphify/releases/download/v0.9.92/graphify-self-graph.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,33 @@
+{
+  "repo": "filamentphp/filament",
+  "slug": "filamentphp__filament",
+  "name": "Filament",
+  "note_zh": "Laravel 的后台面板 UI 框架，快速搭出管理后台与表单表格，适合 PHP 开发者。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "Laravel",
+    "Alpine.js",
+    "Tailwind CSS"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:38:33Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "4.x",
+  "download_url": "https://codeload.github.com/filamentphp/filament/zip/refs/heads/4.x",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

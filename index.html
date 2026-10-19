@@ -6,7 +6,7 @@
     <meta name="description" content="开源集市：按分类整理的开源成品应用，用于学习、开发、交流，支持 GitHub 与 Gitee 双源下载。">
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
     <title>开源集市 · 开源成品应用集合</title>
-    <link rel="stylesheet" href="assets/site.css?v=20261019j">
+    <link rel="stylesheet" href="assets/site.css?v=20261019k">
 </head>
 <body>
     <!-- 图标精灵：全部为手绘 24x24 线性图标，描边颜色继承 currentColor -->
@@ -236,11 +236,11 @@
     <div class="toolbar">
         <div class="toolbar-inner">
             <nav id="nav" class="nav-primary" aria-label="一级分类导航"></nav>
-            <div class="search">
+            <button class="search-trigger" id="search-trigger" type="button" aria-label="搜索项目（快捷键 /）" aria-haspopup="dialog">
                 <svg class="icon" aria-hidden="true"><use href="#icon-search"></use></svg>
-                <input id="search" type="search" placeholder="搜索项目 / 技术栈" aria-label="搜索项目">
+                <span class="search-trigger-text">搜索</span>
                 <kbd class="search-kbd">/</kbd>
-            </div>
+            </button>
         </div>
     </div>
 
@@ -265,7 +265,7 @@
         <div class="footer-guide">
             <h2>怎么用</h2>
             <ul>
-                <li><b>找项目</b>按分类往下看，或在上方搜索框直接输项目名。</li>
+                <li><b>找项目</b>按分类往下看，或按 <b>/</b> 打开搜索面板（也可点右上角搜索按钮）。</li>
                 <li><b>下载</b>卡片上有「下载应用」说明作者发布了安装包，点开选平台；没有就点「下载源码」，或前往仓库自行构建。</li>
                 <li><b>看详情</b>点卡片空白处，可查看 Star 趋势、最新版本、安装包列表和<span class="guide-em">变动记录</span>。</li>
                 <li><b>判断能否商用</b>卡片标有「<span class="guide-em">非开源</span>」的项目用的是限制性协议，商用或对外提供服务前请先读原仓库条款。</li>
@@ -287,6 +287,22 @@
         </p>
     </footer>
 
+    <!-- 搜索命令面板：点击搜索按钮，或按 / 、Ctrl/⌘+K 打开 -->
+    <div class="palette" id="palette" role="dialog" aria-modal="true" aria-label="搜索项目" hidden>
+        <div class="palette-backdrop" data-close-palette></div>
+        <div class="palette-panel">
+            <div class="palette-head">
+                <svg class="icon" aria-hidden="true"><use href="#icon-search"></use></svg>
+                <input id="search" type="search" placeholder="搜索项目 / 技术栈 / 分类" aria-label="搜索项目" autocomplete="off">
+                <kbd class="palette-esc">Esc</kbd>
+            </div>
+            <div class="palette-results" id="palette-results" role="listbox" aria-label="搜索结果"></div>
+            <div class="palette-foot">
+                <span>↑↓ 选择</span><span>↵ 打开详情</span><span>Esc 关闭</span>
+            </div>
+        </div>
+    </div>
+
     <noscript>
         <p class="error">这个页面需要启用 JavaScript 才能渲染项目卡片。</p>
     </noscript>
@@ -296,6 +312,6 @@
         <svg class="icon" aria-hidden="true"><use href="#icon-arrow-up"></use></svg>
     </button>
 
-    <script src="app.js?v=20261019l"></script>
+    <script src="app.js?v=20261019n"></script>
 </body>
 </html>

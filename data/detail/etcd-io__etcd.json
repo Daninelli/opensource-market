@@ -1,0 +1,63 @@
+{
+  "repo": "etcd-io/etcd",
+  "slug": "etcd-io__etcd",
+  "name": "Etcd",
+  "note_zh": "分布式键值存储，用 Raft 保证一致性，是 Kubernetes 等系统的数据底座。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Raft",
+    "Key-Value"
+  ],
+  "deploy_type": "二进制 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-18T12:54:45Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/etcd-io/etcd/zip/refs/heads/main",
+  "release": {
+    "tag": "v3.7.2",
+    "name": "v3.7.2",
+    "published": "2026-09-22T21:22:39Z",
+    "url": "https://github.com/etcd-io/etcd/releases/tag/v3.7.2"
+  },
+  "assets": [
+    {
+      "name": "etcd-v3.7.2-darwin-arm64.zip",
+      "size": 22922539,
+      "url": "https://github.com/etcd-io/etcd/releases/download/v3.7.2/etcd-v3.7.2-darwin-arm64.zip"
+    },
+    {
+      "name": "etcd-v3.7.2-windows-amd64.zip",
+      "size": 24508798,
+      "url": "https://github.com/etcd-io/etcd/releases/download/v3.7.2/etcd-v3.7.2-windows-amd64.zip"
+    },
+    {
+      "name": "etcd-v3.7.2-darwin-amd64.zip",
+      "size": 24525691,
+      "url": "https://github.com/etcd-io/etcd/releases/download/v3.7.2/etcd-v3.7.2-darwin-amd64.zip"
+    },
+    {
+      "name": "etcd-v3.7.2-linux-arm64.tar.gz",
+      "size": 21966764,
+      "url": "https://github.com/etcd-io/etcd/releases/download/v3.7.2/etcd-v3.7.2-linux-arm64.tar.gz"
+    },
+    {
+      "name": "etcd-v3.7.2-linux-ppc64le.tar.gz",
+      "size": 22143601,
+      "url": "https://github.com/etcd-io/etcd/releases/download/v3.7.2/etcd-v3.7.2-linux-ppc64le.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

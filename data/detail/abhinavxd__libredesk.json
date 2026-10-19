@@ -1,0 +1,78 @@
+{
+  "repo": "abhinavxd/libredesk",
+  "slug": "abhinavxd__libredesk",
+  "name": "Libredesk",
+  "note_zh": "单二进制自托管客服工单系统，占用低、支持多渠道与 AI 辅助，适合小团队替代商业客服产品。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "客户关系",
+  "subcategory_slug": "crm",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Vue",
+    "Docker"
+  ],
+  "deploy_type": "二进制 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:47:53Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/abhinavxd/libredesk/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.8.0",
+    "name": "v2.8.0",
+    "published": "2026-08-22T09:16:08Z",
+    "url": "https://github.com/abhinavxd/libredesk/releases/tag/v2.8.0"
+  },
+  "assets": [
+    {
+      "name": "libredesk_2.8.0_windows_arm64.tar.gz",
+      "size": 15330210,
+      "url": "https://github.com/abhinavxd/libredesk/releases/download/v2.8.0/libredesk_2.8.0_windows_arm64.tar.gz"
+    },
+    {
+      "name": "libredesk_2.8.0_darwin_arm64.tar.gz",
+      "size": 15664879,
+      "url": "https://github.com/abhinavxd/libredesk/releases/download/v2.8.0/libredesk_2.8.0_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "libredesk_2.8.0_windows_armv7.tar.gz",
+      "size": 15814266,
+      "url": "https://github.com/abhinavxd/libredesk/releases/download/v2.8.0/libredesk_2.8.0_windows_armv7.tar.gz"
+    },
+    {
+      "name": "libredesk_2.8.0_darwin_amd64.tar.gz",
+      "size": 16487106,
+      "url": "https://github.com/abhinavxd/libredesk/releases/download/v2.8.0/libredesk_2.8.0_darwin_amd64.tar.gz"
+    },
+    {
+      "name": "libredesk_2.8.0_linux_arm64.tar.gz",
+      "size": 15211556,
+      "url": "https://github.com/abhinavxd/libredesk/releases/download/v2.8.0/libredesk_2.8.0_linux_arm64.tar.gz"
+    },
+    {
+      "name": "libredesk_2.8.0_linux_armv7.tar.gz",
+      "size": 15596520,
+      "url": "https://github.com/abhinavxd/libredesk/releases/download/v2.8.0/libredesk_2.8.0_linux_armv7.tar.gz"
+    },
+    {
+      "name": "libredesk_2.8.0_source.tar.gz",
+      "size": 1619256,
+      "url": "https://github.com/abhinavxd/libredesk/releases/download/v2.8.0/libredesk_2.8.0_source.tar.gz"
+    },
+    {
+      "name": "libredesk_2.8.0_netbsd_arm64.tar.gz",
+      "size": 15190358,
+      "url": "https://github.com/abhinavxd/libredesk/releases/download/v2.8.0/libredesk_2.8.0_netbsd_arm64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

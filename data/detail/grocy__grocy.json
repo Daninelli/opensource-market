@@ -1,0 +1,43 @@
+{
+  "repo": "grocy/grocy",
+  "slug": "grocy__grocy",
+  "name": "Grocy",
+  "note_zh": "自托管家庭 ERP，管理食品库存、购物清单与菜谱，适合想管好家务的用户。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "企业资源",
+  "subcategory_slug": "erp",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "SQLite",
+    "Docker"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-09-16T20:14:38Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/grocy/grocy/zip/refs/heads/master",
+  "release": {
+    "tag": "v4.7.1",
+    "name": "Version 4.7.1",
+    "published": "2026-09-04T15:57:06Z",
+    "url": "https://github.com/grocy/grocy/releases/tag/v4.7.1"
+  },
+  "assets": [
+    {
+      "name": "grocy_4.7.1.zip",
+      "size": 43599890,
+      "url": "https://github.com/grocy/grocy/releases/download/v4.7.1/grocy_4.7.1.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

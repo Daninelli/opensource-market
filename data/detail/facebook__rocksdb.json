@@ -1,0 +1,32 @@
+{
+  "repo": "facebook/rocksdb",
+  "slug": "facebook__rocksdb",
+  "name": "Rocksdb",
+  "note_zh": "可嵌入的持久化键值存储引擎，为高速存储提供底层支持，适合数据库与存储系统开发者。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "GPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "RocksDB",
+    "Storage Engine"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-17T02:42:08Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/facebook/rocksdb/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

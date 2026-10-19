@@ -1,0 +1,32 @@
+{
+  "repo": "gunthercox/ChatterBot",
+  "slug": "gunthercox__ChatterBot",
+  "name": "ChatterBot",
+  "note_zh": "Python 对话引擎库，用机器学习训练聊天机器人，适合在应用中快速集成问答能力。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "即时通讯",
+  "subcategory_slug": "im",
+  "license": "BSD-3-Clause",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Machine Learning",
+    "NLP"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-08-25T11:30:40Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/gunthercox/ChatterBot/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

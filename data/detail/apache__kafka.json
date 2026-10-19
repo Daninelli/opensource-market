@@ -1,0 +1,32 @@
+{
+  "repo": "apache/kafka",
+  "slug": "apache__kafka",
+  "name": "Kafka",
+  "note_zh": "分布式事件流平台，用于高吞吐消息传递与流式处理，适合后端与数据平台团队。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "Scala",
+    "Streaming"
+  ],
+  "deploy_type": "自托管服务 / Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:15:30Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "trunk",
+  "download_url": "https://codeload.github.com/apache/kafka/zip/refs/heads/trunk",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

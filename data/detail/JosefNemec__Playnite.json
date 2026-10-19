@@ -1,0 +1,53 @@
+{
+  "repo": "JosefNemec/Playnite",
+  "slug": "JosefNemec__Playnite",
+  "name": "Playnite",
+  "note_zh": "Windows 游戏库管理器，统一聚合 Steam、Epic 等平台并支持模拟器，适合多平台玩家。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "影音媒体",
+  "subcategory_slug": "streaming",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET",
+    "WPF"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-18T17:17:13Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/JosefNemec/Playnite/zip/refs/heads/master",
+  "release": {
+    "tag": "10.62",
+    "name": "10.62",
+    "published": "2026-09-29T20:42:00Z",
+    "url": "https://github.com/JosefNemec/Playnite/releases/tag/10.62"
+  },
+  "assets": [
+    {
+      "name": "1061to1062.exe",
+      "size": 3742960,
+      "url": "https://github.com/JosefNemec/Playnite/releases/download/10.62/1061to1062.exe"
+    },
+    {
+      "name": "Playnite1062.exe",
+      "size": 151920545,
+      "url": "https://github.com/JosefNemec/Playnite/releases/download/10.62/Playnite1062.exe"
+    },
+    {
+      "name": "10.62.7z",
+      "size": 132660762,
+      "url": "https://github.com/JosefNemec/Playnite/releases/download/10.62/10.62.7z"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

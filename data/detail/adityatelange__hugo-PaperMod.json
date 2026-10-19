@@ -1,0 +1,32 @@
+{
+  "repo": "adityatelange/hugo-PaperMod",
+  "slug": "adityatelange__hugo-PaperMod",
+  "name": "Hugo-PaperMod",
+  "note_zh": "Hugo 的简洁响应式主题，加载快、配置少，适合个人博客直接套用。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "HTML",
+    "CSS",
+    "Hugo"
+  ],
+  "deploy_type": "前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T15:16:54Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/adityatelange/hugo-PaperMod/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

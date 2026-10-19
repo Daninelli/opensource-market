@@ -1,0 +1,32 @@
+{
+  "repo": "kuberhealthy/kuberhealthy",
+  "slug": "kuberhealthy__kuberhealthy",
+  "name": "Kuberhealthy",
+  "note_zh": "Kubernetes 运维工具，以 Pod 运行合成健康检查，并对接 Prometheus 告警。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Kubernetes",
+    "Prometheus"
+  ],
+  "deploy_type": "Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-16T11:16:42Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/kuberhealthy/kuberhealthy/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

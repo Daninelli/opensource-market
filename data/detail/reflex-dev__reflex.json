@@ -1,0 +1,37 @@
+{
+  "repo": "reflex-dev/reflex",
+  "slug": "reflex-dev__reflex",
+  "name": "Reflex",
+  "note_zh": "用纯 Python 写全栈 Web 应用的框架，省去前后端分离的麻烦。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "数据分析",
+  "subcategory_slug": "bi",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "React",
+    "Fullstack"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:15:19Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/reflex-dev/reflex/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.10.0",
+    "name": "v0.10.0",
+    "published": "2026-10-08T22:51:51Z",
+    "url": "https://github.com/reflex-dev/reflex/releases/tag/v0.10.0"
+  },
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,68 @@
+{
+  "repo": "sxyazi/yazi",
+  "slug": "sxyazi__yazi",
+  "name": "Yazi",
+  "note_zh": "Rust 写的极速终端文件管理器，键盘操作、异步 IO、跨平台。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "TUI",
+    "Async IO"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-18T06:10:43Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/sxyazi/yazi/zip/refs/heads/main",
+  "release": {
+    "tag": "v26.9.1",
+    "name": "v26.9.1",
+    "published": "2026-09-01T08:52:30Z",
+    "url": "https://github.com/sxyazi/yazi/releases/tag/v26.9.1"
+  },
+  "assets": [
+    {
+      "name": "yazi-aarch64-apple-darwin.zip",
+      "size": 12434069,
+      "url": "https://github.com/sxyazi/yazi/releases/download/v26.9.1/yazi-aarch64-apple-darwin.zip"
+    },
+    {
+      "name": "yazi-x86_64-apple-darwin.zip",
+      "size": 13895685,
+      "url": "https://github.com/sxyazi/yazi/releases/download/v26.9.1/yazi-x86_64-apple-darwin.zip"
+    },
+    {
+      "name": "yazi-aarch64-pc-windows-msvc.zip",
+      "size": 16060434,
+      "url": "https://github.com/sxyazi/yazi/releases/download/v26.9.1/yazi-aarch64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "yazi-x86_64-pc-windows-msvc.zip",
+      "size": 17126329,
+      "url": "https://github.com/sxyazi/yazi/releases/download/v26.9.1/yazi-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "yazi-aarch64-unknown-linux-gnu.deb",
+      "size": 9254888,
+      "url": "https://github.com/sxyazi/yazi/releases/download/v26.9.1/yazi-aarch64-unknown-linux-gnu.deb"
+    },
+    {
+      "name": "yazi-aarch64-unknown-linux-musl.deb",
+      "size": 9556740,
+      "url": "https://github.com/sxyazi/yazi/releases/download/v26.9.1/yazi-aarch64-unknown-linux-musl.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

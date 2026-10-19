@@ -1,0 +1,32 @@
+{
+  "repo": "cskefu/cskefu",
+  "slug": "cskefu__cskefu",
+  "name": "Cskefu",
+  "note_zh": "春松客服，开源多渠道在线客服系统，支持机器人、工单与坐席管理，适合国内企业自建客服。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "客户关系",
+  "subcategory_slug": "crm",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "Spring Boot",
+    "JavaScript"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-09-23T09:13:15Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/cskefu/cskefu/zip/refs/heads/develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

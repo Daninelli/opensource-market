@@ -1,0 +1,68 @@
+{
+  "repo": "DeusData/codebase-memory-mcp",
+  "slug": "DeusData__codebase-memory-mcp",
+  "name": "Codebase-memory-mcp",
+  "note_zh": "高性能 MCP 代码索引服务，把代码库建成可持久查询的知识图谱。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C",
+    "MCP",
+    "AST"
+  ],
+  "deploy_type": "源码 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T05:45:45Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/DeusData/codebase-memory-mcp/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.12.1",
+    "name": "v0.12.1",
+    "published": "2026-10-16T23:35:48Z",
+    "url": "https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.12.1"
+  },
+  "assets": [
+    {
+      "name": "codebase-memory-mcp-windows-arm64.mcpb",
+      "size": 47928251,
+      "url": "https://github.com/DeusData/codebase-memory-mcp/releases/download/v0.12.1/codebase-memory-mcp-windows-arm64.mcpb"
+    },
+    {
+      "name": "codebase-memory-mcp-ui-windows-arm64.zip",
+      "size": 47934918,
+      "url": "https://github.com/DeusData/codebase-memory-mcp/releases/download/v0.12.1/codebase-memory-mcp-ui-windows-arm64.zip"
+    },
+    {
+      "name": "codebase-memory-mcp-darwin-arm64.mcpb",
+      "size": 49870061,
+      "url": "https://github.com/DeusData/codebase-memory-mcp/releases/download/v0.12.1/codebase-memory-mcp-darwin-arm64.mcpb"
+    },
+    {
+      "name": "codebase-memory-mcp-darwin-arm64.tar.gz",
+      "size": 49875423,
+      "url": "https://github.com/DeusData/codebase-memory-mcp/releases/download/v0.12.1/codebase-memory-mcp-darwin-arm64.tar.gz"
+    },
+    {
+      "name": "codebase-memory-mcp-linux-arm64.tar.gz",
+      "size": 48208180,
+      "url": "https://github.com/DeusData/codebase-memory-mcp/releases/download/v0.12.1/codebase-memory-mcp-linux-arm64.tar.gz"
+    },
+    {
+      "name": "codebase-memory-mcp-ui-linux-arm64.tar.gz",
+      "size": 48208180,
+      "url": "https://github.com/DeusData/codebase-memory-mcp/releases/download/v0.12.1/codebase-memory-mcp-ui-linux-arm64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

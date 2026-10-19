@@ -1,0 +1,32 @@
+{
+  "repo": "waooAI/waoowaoo",
+  "slug": "waooAI__waoowaoo",
+  "name": "Waoowaoo",
+  "note_zh": "全流程 AI 影视生产平台，用多智能体完成分镜、短剧与视频生成，适合影视与短剧创作者。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "AI Agent",
+    "Video Generation"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-09-21T10:39:25Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/waooAI/waoowaoo/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

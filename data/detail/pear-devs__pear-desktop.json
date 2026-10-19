@@ -1,0 +1,78 @@
+{
+  "repo": "pear-devs/pear-desktop",
+  "slug": "pear-devs__pear-desktop",
+  "name": "Pear-desktop",
+  "note_zh": "把 YouTube Music 网页封装成桌面客户端，支持全局快捷键与插件，适合桌面端听歌用户。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "影音媒体",
+  "subcategory_slug": "streaming",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron",
+    "React"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-16T12:06:32Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/pear-devs/pear-desktop/zip/refs/heads/master",
+  "release": {
+    "tag": "v3.12.0",
+    "name": "3.12.0",
+    "published": "2026-06-28T15:43:30Z",
+    "url": "https://github.com/pear-devs/pear-desktop/releases/tag/v3.12.0"
+  },
+  "assets": [
+    {
+      "name": "YouTube-Music-Web-Setup-3.12.0.exe",
+      "size": 681336,
+      "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/YouTube-Music-Web-Setup-3.12.0.exe"
+    },
+    {
+      "name": "YouTube-Music-3.12.0-arm64.dmg",
+      "size": 124129961,
+      "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/YouTube-Music-3.12.0-arm64.dmg"
+    },
+    {
+      "name": "YouTube-Music-3.12.0.dmg",
+      "size": 125083440,
+      "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/YouTube-Music-3.12.0.dmg"
+    },
+    {
+      "name": "YouTube-Music-3.12.0.exe",
+      "size": 287332219,
+      "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/YouTube-Music-3.12.0.exe"
+    },
+    {
+      "name": "youtube-music-3.12.0.aarch64.rpm",
+      "size": 92037621,
+      "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/youtube-music-3.12.0.aarch64.rpm"
+    },
+    {
+      "name": "youtube-music-3.12.0.x86_64.rpm",
+      "size": 98236033,
+      "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/youtube-music-3.12.0.x86_64.rpm"
+    },
+    {
+      "name": "youtube-music-3.12.0-arm64.freebsd",
+      "size": 94332168,
+      "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/youtube-music-3.12.0-arm64.freebsd"
+    },
+    {
+      "name": "youtube-music-3.12.0-ia32.nsis.7z",
+      "size": 98913746,
+      "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/youtube-music-3.12.0-ia32.nsis.7z"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

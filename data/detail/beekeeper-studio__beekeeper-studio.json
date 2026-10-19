@@ -1,0 +1,78 @@
+{
+  "repo": "beekeeper-studio/beekeeper-studio",
+  "slug": "beekeeper-studio__beekeeper-studio",
+  "name": "Beekeeper-studio",
+  "note_zh": "现代易用的 SQL 客户端，支持 MySQL、Postgres、SQLite，适合开发与数据分析。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron",
+    "Vue"
+  ],
+  "deploy_type": "客户端 / 桌面应用 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T07:53:58Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/beekeeper-studio/beekeeper-studio/zip/refs/heads/master",
+  "release": {
+    "tag": "v6.1.6",
+    "name": "v6.1.6",
+    "published": "2026-10-07T22:22:01Z",
+    "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/tag/v6.1.6"
+  },
+  "assets": [
+    {
+      "name": "Beekeeper-Studio-6.1.6-portable.exe",
+      "size": 255492528,
+      "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.1.6/Beekeeper-Studio-6.1.6-portable.exe"
+    },
+    {
+      "name": "Beekeeper-Studio-Setup-6.1.6.exe",
+      "size": 255855152,
+      "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.1.6/Beekeeper-Studio-Setup-6.1.6.exe"
+    },
+    {
+      "name": "Beekeeper-Studio-6.1.6-arm64.dmg",
+      "size": 346540668,
+      "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.1.6/Beekeeper-Studio-6.1.6-arm64.dmg"
+    },
+    {
+      "name": "Beekeeper-Studio-6.1.6.dmg",
+      "size": 354336124,
+      "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.1.6/Beekeeper-Studio-6.1.6.dmg"
+    },
+    {
+      "name": "beekeeper-studio-6.1.6.aarch64.rpm",
+      "size": 216215921,
+      "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.1.6/beekeeper-studio-6.1.6.aarch64.rpm"
+    },
+    {
+      "name": "Beekeeper-Studio-6.1.6-aarch64.flatpak",
+      "size": 229527576,
+      "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.1.6/Beekeeper-Studio-6.1.6-aarch64.flatpak"
+    },
+    {
+      "name": "beekeeper-studio-6.1.6-aarch64.pacman",
+      "size": 234737244,
+      "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.1.6/beekeeper-studio-6.1.6-aarch64.pacman"
+    },
+    {
+      "name": "beekeeper-studio-6.1.6.pacman",
+      "size": 246208324,
+      "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.1.6/beekeeper-studio-6.1.6.pacman"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

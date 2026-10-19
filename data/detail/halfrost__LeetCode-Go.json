@@ -1,0 +1,37 @@
+{
+  "repo": "halfrost/LeetCode-Go",
+  "slug": "halfrost__LeetCode-Go",
+  "name": "LeetCode-Go",
+  "note_zh": "Go 语言版 LeetCode 题解合集，含完整测试与思路讲解，适合刷题和面试准备。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "电子书与阅读",
+  "subcategory_slug": "ebook",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Algorithms",
+    "Data Structures"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-12T15:45:11Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/halfrost/LeetCode-Go/zip/refs/heads/master",
+  "release": {
+    "tag": "1.7.97",
+    "name": "📘 LeetCode Cookbook — V1.7.97",
+    "published": "2026-06-28T18:27:03Z",
+    "url": "https://github.com/halfrost/LeetCode-Go/releases/tag/1.7.97"
+  },
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

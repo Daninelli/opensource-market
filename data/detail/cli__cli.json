@@ -1,0 +1,68 @@
+{
+  "repo": "cli/cli",
+  "slug": "cli__cli",
+  "name": "Cli",
+  "note_zh": "GitHub 官方命令行工具，在终端管理仓库、Issue 与 PR。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "GitHub API",
+    "CLI"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:20:02Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "trunk",
+  "download_url": "https://codeload.github.com/cli/cli/zip/refs/heads/trunk",
+  "release": {
+    "tag": "v2.102.0",
+    "name": "GitHub CLI 2.102.0",
+    "published": "2026-09-30T02:40:02Z",
+    "url": "https://github.com/cli/cli/releases/tag/v2.102.0"
+  },
+  "assets": [
+    {
+      "name": "gh_2.102.0_windows_arm64.zip",
+      "size": 13907525,
+      "url": "https://github.com/cli/cli/releases/download/v2.102.0/gh_2.102.0_windows_arm64.zip"
+    },
+    {
+      "name": "gh_2.102.0_windows_arm64.msi",
+      "size": 14102528,
+      "url": "https://github.com/cli/cli/releases/download/v2.102.0/gh_2.102.0_windows_arm64.msi"
+    },
+    {
+      "name": "gh_2.102.0_macOS_arm64.zip",
+      "size": 14359983,
+      "url": "https://github.com/cli/cli/releases/download/v2.102.0/gh_2.102.0_macOS_arm64.zip"
+    },
+    {
+      "name": "gh_2.102.0_macOS_amd64.zip",
+      "size": 15995994,
+      "url": "https://github.com/cli/cli/releases/download/v2.102.0/gh_2.102.0_macOS_amd64.zip"
+    },
+    {
+      "name": "gh_2.102.0_linux_arm64.tar.gz",
+      "size": 13917794,
+      "url": "https://github.com/cli/cli/releases/download/v2.102.0/gh_2.102.0_linux_arm64.tar.gz"
+    },
+    {
+      "name": "gh_2.102.0_linux_arm64.deb",
+      "size": 13980770,
+      "url": "https://github.com/cli/cli/releases/download/v2.102.0/gh_2.102.0_linux_arm64.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

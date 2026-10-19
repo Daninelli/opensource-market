@@ -1,0 +1,63 @@
+{
+  "repo": "qdrant/qdrant",
+  "slug": "qdrant__qdrant",
+  "name": "Qdrant",
+  "note_zh": "高性能向量数据库与相似度检索引擎，为语义搜索和 RAG 提供支撑，适合 AI 应用开发者。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "Vector Search",
+    "HNSW"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:23:14Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/qdrant/qdrant/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.19.2",
+    "name": "v1.19.2",
+    "published": "2026-10-05T14:16:50Z",
+    "url": "https://github.com/qdrant/qdrant/releases/tag/v1.19.2"
+  },
+  "assets": [
+    {
+      "name": "qdrant-aarch64-apple-darwin.tar.gz",
+      "size": 28381699,
+      "url": "https://github.com/qdrant/qdrant/releases/download/v1.19.2/qdrant-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "qdrant-x86_64-pc-windows-msvc.zip",
+      "size": 30243552,
+      "url": "https://github.com/qdrant/qdrant/releases/download/v1.19.2/qdrant-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "qdrant-x86_64-apple-darwin.tar.gz",
+      "size": 31193567,
+      "url": "https://github.com/qdrant/qdrant/releases/download/v1.19.2/qdrant-x86_64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "qdrant_1.19.2-1_amd64.deb",
+      "size": 24852828,
+      "url": "https://github.com/qdrant/qdrant/releases/download/v1.19.2/qdrant_1.19.2-1_amd64.deb"
+    },
+    {
+      "name": "qdrant-aarch64-unknown-linux-musl.tar.gz",
+      "size": 30756691,
+      "url": "https://github.com/qdrant/qdrant/releases/download/v1.19.2/qdrant-aarch64-unknown-linux-musl.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

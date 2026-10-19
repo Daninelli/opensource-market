@@ -1,0 +1,58 @@
+{
+  "repo": "M2Team/NanaZip",
+  "slug": "M2Team__NanaZip",
+  "name": "NanaZip",
+  "note_zh": "源自 7-Zip 的现代 Windows 压缩工具，适配系统右键菜单，适合桌面用户。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "文件管理与网盘",
+  "subcategory_slug": "file",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "WinUI",
+    "XAML Islands"
+  ],
+  "deploy_type": "桌面应用 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-17T06:21:12Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/M2Team/NanaZip/zip/refs/heads/main",
+  "release": {
+    "tag": "7.0.1843.0",
+    "name": "NanaZip 7.0, version 2609.2 (7.0.1843.0)",
+    "published": "2026-09-17T12:41:06Z",
+    "url": "https://github.com/M2Team/NanaZip/releases/tag/7.0.1843.0"
+  },
+  "assets": [
+    {
+      "name": "NanaZip_7.0.1843.0_Binaries.zip",
+      "size": 8092507,
+      "url": "https://github.com/M2Team/NanaZip/releases/download/7.0.1843.0/NanaZip_7.0.1843.0_Binaries.zip"
+    },
+    {
+      "name": "NanaZipPreview_7.0.1843.0_Binaries.zip",
+      "size": 8099064,
+      "url": "https://github.com/M2Team/NanaZip/releases/download/7.0.1843.0/NanaZipPreview_7.0.1843.0_Binaries.zip"
+    },
+    {
+      "name": "NanaZip_7.0.1843.0.msixbundle",
+      "size": 11931446,
+      "url": "https://github.com/M2Team/NanaZip/releases/download/7.0.1843.0/NanaZip_7.0.1843.0.msixbundle"
+    },
+    {
+      "name": "NanaZipPreview_7.0.1843.0.msixbundle",
+      "size": 12081897,
+      "url": "https://github.com/M2Team/NanaZip/releases/download/7.0.1843.0/NanaZipPreview_7.0.1843.0.msixbundle"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

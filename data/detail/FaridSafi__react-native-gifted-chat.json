@@ -1,0 +1,31 @@
+{
+  "repo": "FaridSafi/react-native-gifted-chat",
+  "slug": "FaridSafi__react-native-gifted-chat",
+  "name": "React-native-gifted-chat",
+  "note_zh": "React Native 聊天界面组件，开箱提供消息气泡与输入框，适合快速搭 App 聊天页。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "论坛社区",
+  "subcategory_slug": "forum",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React Native"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T00:02:40Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/FaridSafi/react-native-gifted-chat/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

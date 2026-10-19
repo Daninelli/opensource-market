@@ -1,0 +1,32 @@
+{
+  "repo": "solidusio/solidus",
+  "slug": "solidusio__solidus",
+  "name": "Solidus",
+  "note_zh": "基于 Rails 的开源电商框架，模块化且可深度定制，适合自建在线商店的开发团队。",
+  "category": "电商",
+  "category_slug": "ecommerce",
+  "subcategory": "平台商城",
+  "subcategory_slug": "platform",
+  "license": "BSD-3-Clause",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Ruby",
+    "Ruby on Rails",
+    "PostgreSQL"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-17T05:41:02Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/solidusio/solidus/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

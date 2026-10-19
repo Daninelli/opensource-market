@@ -1,0 +1,63 @@
+{
+  "repo": "velero-io/velero",
+  "slug": "velero-io__velero",
+  "name": "Velero",
+  "note_zh": "Kubernetes 集群备份与迁移工具，支持持久卷快照与恢复，适合 K8s 运维团队。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "私有同步",
+  "subcategory_slug": "sync",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Kubernetes",
+    "AWS S3"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-17T20:09:13Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/velero-io/velero/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.18.4",
+    "name": "v1.18.4",
+    "published": "2026-09-28T06:20:12Z",
+    "url": "https://github.com/velero-io/velero/releases/tag/v1.18.4"
+  },
+  "assets": [
+    {
+      "name": "velero-v1.18.4-darwin-arm64.tar.gz",
+      "size": 60571452,
+      "url": "https://github.com/velero-io/velero/releases/download/v1.18.4/velero-v1.18.4-darwin-arm64.tar.gz"
+    },
+    {
+      "name": "velero-v1.18.4-windows-amd64.tar.gz",
+      "size": 61116641,
+      "url": "https://github.com/velero-io/velero/releases/download/v1.18.4/velero-v1.18.4-windows-amd64.tar.gz"
+    },
+    {
+      "name": "velero-v1.18.4-darwin-amd64.tar.gz",
+      "size": 64015636,
+      "url": "https://github.com/velero-io/velero/releases/download/v1.18.4/velero-v1.18.4-darwin-amd64.tar.gz"
+    },
+    {
+      "name": "velero-v1.18.4-linux-arm64.tar.gz",
+      "size": 55379929,
+      "url": "https://github.com/velero-io/velero/releases/download/v1.18.4/velero-v1.18.4-linux-arm64.tar.gz"
+    },
+    {
+      "name": "velero-v1.18.4-linux-ppc64le.tar.gz",
+      "size": 55585829,
+      "url": "https://github.com/velero-io/velero/releases/download/v1.18.4/velero-v1.18.4-linux-ppc64le.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

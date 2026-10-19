@@ -1,0 +1,48 @@
+{
+  "repo": "roboflow/supervision",
+  "slug": "roboflow__supervision",
+  "name": "Supervision",
+  "note_zh": "计算机视觉工具库，提供画框、追踪、区域统计等复用组件，省去重复造轮子。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "低代码平台",
+  "subcategory_slug": "low-code",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "OpenCV",
+    "NumPy"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:59:48Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/roboflow/supervision/zip/refs/heads/develop",
+  "release": {
+    "tag": "0.31.0",
+    "name": "supervision-0.31.0",
+    "published": "2026-10-16T18:48:47Z",
+    "url": "https://github.com/roboflow/supervision/releases/tag/0.31.0"
+  },
+  "assets": [
+    {
+      "name": "supervision-0.31.0.tar.gz",
+      "size": 417460,
+      "url": "https://github.com/roboflow/supervision/releases/download/0.31.0/supervision-0.31.0.tar.gz"
+    },
+    {
+      "name": "supervision-0.31.0-py3-none-any.whl",
+      "size": 460360,
+      "url": "https://github.com/roboflow/supervision/releases/download/0.31.0/supervision-0.31.0-py3-none-any.whl"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

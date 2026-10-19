@@ -1,0 +1,32 @@
+{
+  "repo": "timqian/chinese-independent-blogs",
+  "slug": "timqian__chinese-independent-blogs",
+  "name": "Chinese-independent-blogs",
+  "note_zh": "中文独立博客作者清单并附 RSS，方便发现优质中文博客与写作者，适合内容订阅者。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "电子书与阅读",
+  "subcategory_slug": "ebook",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "RSS",
+    "Markdown"
+  ],
+  "deploy_type": "前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T00:44:01Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/timqian/chinese-independent-blogs/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

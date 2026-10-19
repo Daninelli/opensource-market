@@ -1,0 +1,32 @@
+{
+  "repo": "hubotio/hubot",
+  "slug": "hubotio__hubot",
+  "name": "Hubot",
+  "note_zh": "GitHub 出品的聊天机器人框架，可接入 Slack 等平台用脚本做自动化，适合团队运维与通知。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "论坛社区",
+  "subcategory_slug": "forum",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Node.js",
+    "CoffeeScript"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-14T14:22:14Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/hubotio/hubot/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

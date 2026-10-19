@@ -1,0 +1,48 @@
+{
+  "repo": "realm/realm-swift",
+  "slug": "realm__realm-swift",
+  "name": "Realm-swift",
+  "note_zh": "iOS 移动端数据库，替代 Core Data 与 SQLite，支持实时同步，适合 App 开发。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "文件管理与网盘",
+  "subcategory_slug": "file",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Swift",
+    "Objective-C",
+    "Realm"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-09-27T01:17:57Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "community",
+  "download_url": "https://codeload.github.com/realm/realm-swift/zip/refs/heads/community",
+  "release": {
+    "tag": "v20.0.6",
+    "name": "v20.0.6",
+    "published": "2026-09-27T01:19:37Z",
+    "url": "https://github.com/realm/realm-swift/releases/tag/v20.0.6"
+  },
+  "assets": [
+    {
+      "name": "RealmSwift@27.spm.zip",
+      "size": 22914403,
+      "url": "https://github.com/realm/realm-swift/releases/download/v20.0.6/RealmSwift%4027.spm.zip"
+    },
+    {
+      "name": "RealmSwift@26.4.spm.zip",
+      "size": 24452750,
+      "url": "https://github.com/realm/realm-swift/releases/download/v20.0.6/RealmSwift%4026.4.spm.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,32 @@
+{
+  "repo": "apache/flink",
+  "slug": "apache__flink",
+  "name": "Flink",
+  "note_zh": "分布式流批一体计算引擎，支持事件驱动与有状态处理，适合实时数据管道开发者。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "Scala",
+    "Stream Processing"
+  ],
+  "deploy_type": "二进制 / 源码 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:58:08Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/apache/flink/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

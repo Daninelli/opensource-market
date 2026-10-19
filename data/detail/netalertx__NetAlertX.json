@@ -1,0 +1,32 @@
+{
+  "repo": "netalertx/NetAlertX",
+  "slug": "netalertx__NetAlertX",
+  "name": "NetAlertX",
+  "note_zh": "网络资产发现与监控工具，持续探测设备并告警异常，适合家庭与运维人员。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "资产管理",
+  "subcategory_slug": "asset",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Flask",
+    "Docker"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:12:22Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/netalertx/NetAlertX/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

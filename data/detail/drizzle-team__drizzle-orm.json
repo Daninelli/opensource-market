@@ -1,0 +1,43 @@
+{
+  "repo": "drizzle-team/drizzle-orm",
+  "slug": "drizzle-team__drizzle-orm",
+  "name": "Drizzle-orm",
+  "note_zh": "轻量类型安全的 TypeScript ORM，贴近原生 SQL 并支持多种数据库，适合注重性能。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "SQL",
+    "Node.js"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:05:00Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/drizzle-team/drizzle-orm/zip/refs/heads/main",
+  "release": {
+    "tag": "0.45.4",
+    "name": "0.45.4",
+    "published": "2026-10-08T10:47:32Z",
+    "url": "https://github.com/drizzle-team/drizzle-orm/releases/tag/0.45.4"
+  },
+  "assets": [
+    {
+      "name": "drizzle-orm-0.45.4-dist.tgz",
+      "size": 1234631,
+      "url": "https://github.com/drizzle-team/drizzle-orm/releases/download/0.45.4/drizzle-orm-0.45.4-dist.tgz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

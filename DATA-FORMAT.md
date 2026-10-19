@@ -107,6 +107,23 @@
 | `license` | string | 是 | 开源协议，**以仓库 LICENSE 文件为准**（不要凭印象写） |
 | `stars` | number | 建议 | star 数，用于卡片统计行与排序 |
 | `updated_at` | string(ISO) | 建议 | 最近更新时间 ISO8601，卡片显示「x 天前」 |
+| `kind` | string | 否 | **交付形态**，与分类正交。取值见 3.1，缺省按 `app` |
+
+### 3.1 `kind` 形态字段
+
+分类回答「这个项目是干什么用的」，`kind` 回答「它以什么形式交付」。两者正交：同一个「框架」属性可以出现在「企业服务/低代码」或「工具/智能体」下。
+
+| 值 | 含义 | 卡片展示 |
+| --- | --- | --- |
+| `app` | 可安装/可自托管的完整应用（默认值，不必显式写） | 不显示徽标 |
+| `client` | 桌面端 / 移动端客户端 | 显示「客户端」徽标 |
+| `cli` | 命令行工具 | 显示「命令行」徽标 |
+| `framework` | 框架 / 平台 / 低代码 / 脚手架 | 显示「框架」徽标 |
+| `library` | 库 / SDK / 组件包 | 显示「库 / SDK」徽标 |
+| `skill` | Agent 技能包 / 提示词 / 配置集 | 显示「技能包」徽标 |
+
+> 校验：`tools/check-data.mjs` 会校验 `kind` 必须在上述枚举内（缺省不报错，按 `app` 统计）。
+> 展示：`app.js` 只对非 `app` 形态渲染徽标，避免污染卡片。
 
 > `check-data.mjs` 的 `REQUIRED = ["name","repo","category","category_slug","tech_stack","deploy_type","note_zh","license"]`
 

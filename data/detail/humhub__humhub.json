@@ -1,0 +1,32 @@
+{
+  "repo": "humhub/humhub",
+  "slug": "humhub__humhub",
+  "name": "Humhub",
+  "note_zh": "PHP 企业社交内网系统，提供动态流、空间与文件共享，适合公司内部协作与信息同步。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "论坛社区",
+  "subcategory_slug": "forum",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "MySQL",
+    "Yii"
+  ],
+  "deploy_type": "自托管服务 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:22:39Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/humhub/humhub/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,32 @@
+{
+  "repo": "teddysun/across",
+  "slug": "teddysun__across",
+  "name": "Across",
+  "note_zh": "Shell 脚本合集，提供备份传输、BBR 加速、VPS 测速等一键脚本，适合 Linux 运维。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "私有同步",
+  "subcategory_slug": "sync",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Shell",
+    "Linux",
+    "VPS"
+  ],
+  "deploy_type": "源码 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-04-04T04:52:40Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/teddysun/across/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

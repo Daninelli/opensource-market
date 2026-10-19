@@ -1,0 +1,32 @@
+{
+  "repo": "OpenCSGs/csghub",
+  "slug": "OpenCSGs__csghub",
+  "name": "Csghub",
+  "note_zh": "开源大模型资产管理平台，支持模型托管、微调与部署，适合企业搭建内部 AI 平台。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "资产管理",
+  "subcategory_slug": "asset",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Vue",
+    "Go",
+    "LLM"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-15T02:38:36Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/OpenCSGs/csghub/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

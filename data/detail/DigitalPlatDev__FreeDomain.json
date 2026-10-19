@@ -1,0 +1,32 @@
+{
+  "repo": "DigitalPlatDev/FreeDomain",
+  "slug": "DigitalPlatDev__FreeDomain",
+  "name": "FreeDomain",
+  "note_zh": "提供免费域名注册与实用的 DNS 教程，适合想低成本上线个人站点的人。",
+  "category": "教育",
+  "category_slug": "education",
+  "subcategory": "在线学习",
+  "subcategory_slug": "lms",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "DNS",
+    "Markdown",
+    "Documentation"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-08-12T10:36:46Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/DigitalPlatDev/FreeDomain/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

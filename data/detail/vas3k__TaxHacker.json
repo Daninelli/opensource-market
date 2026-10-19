@@ -1,0 +1,33 @@
+{
+  "repo": "vas3k/TaxHacker",
+  "slug": "vas3k__TaxHacker",
+  "name": "TaxHacker",
+  "note_zh": "自托管 AI 记账应用，用 LLM 识别发票收据并自动分类，适合自由职业者与小微企业。",
+  "category": "金融",
+  "category_slug": "finance",
+  "subcategory": "记账核算",
+  "subcategory_slug": "accounting",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Next.js",
+    "LLM",
+    "Docker"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-09-28T15:36:02Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/vas3k/TaxHacker/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

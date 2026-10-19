@@ -1,0 +1,32 @@
+{
+  "repo": "xiaolin/react-image-gallery",
+  "slug": "xiaolin__react-image-gallery",
+  "name": "React-image-gallery",
+  "note_zh": "React 图片轮播组件，自带缩略图与手势支持，适合快速搭建图集详情页。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "相册管理",
+  "subcategory_slug": "photos",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "React",
+    "TypeScript",
+    "Carousel"
+  ],
+  "deploy_type": "依赖库 / 前端源码",
+  "platform": "github",
+  "updated_at": "2026-05-23T12:20:04Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/xiaolin/react-image-gallery/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,32 @@
+{
+  "repo": "Leonxlnx/taste-skill",
+  "slug": "Leonxlnx__taste-skill",
+  "name": "Taste-skill",
+  "note_zh": "为编码智能体注入设计品味的技能包，含艺术指导、参考图与浏览器校验，适合前端开发者。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Agent Skills",
+    "Claude Code"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T05:47:12Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Leonxlnx/taste-skill/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

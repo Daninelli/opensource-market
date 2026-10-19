@@ -1,0 +1,48 @@
+{
+  "repo": "Part-DB/Part-DB-server",
+  "slug": "Part-DB__Part-DB-server",
+  "name": "Part-DB-server",
+  "note_zh": "电子元器件库存管理系统，可管理元件参数、库存数量与采购信息，适合硬件研发和创客团队。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "企业资源",
+  "subcategory_slug": "erp",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "Symfony",
+    "MySQL"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T07:35:19Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/Part-DB/Part-DB-server/zip/refs/heads/master",
+  "release": {
+    "tag": "v2.20.2",
+    "name": "Part-DB 2.20.2",
+    "published": "2026-10-18T12:26:09Z",
+    "url": "https://github.com/Part-DB/Part-DB-server/releases/tag/v2.20.2"
+  },
+  "assets": [
+    {
+      "name": "partdb_assets.zip",
+      "size": 68718074,
+      "url": "https://github.com/Part-DB/Part-DB-server/releases/download/v2.20.2/partdb_assets.zip"
+    },
+    {
+      "name": "partdb_with_assets.zip",
+      "size": 117137260,
+      "url": "https://github.com/Part-DB/Part-DB-server/releases/download/v2.20.2/partdb_with_assets.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

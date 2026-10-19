@@ -1,0 +1,77 @@
+{
+  "repo": "gohugoio/hugo",
+  "slug": "gohugoio__hugo",
+  "name": "Hugo",
+  "note_zh": "Go 编写的静态网站生成器，构建速度极快，适合搭建博客与文档站。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Static Site Generator"
+  ],
+  "deploy_type": "二进制 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:21:46Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/gohugoio/hugo/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.168.0",
+    "name": "v0.168.0",
+    "published": "2026-10-13T17:24:15Z",
+    "url": "https://github.com/gohugoio/hugo/releases/tag/v0.168.0"
+  },
+  "assets": [
+    {
+      "name": "hugo_0.168.0_windows-arm64.zip",
+      "size": 20500540,
+      "url": "https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_0.168.0_windows-arm64.zip"
+    },
+    {
+      "name": "hugo_0.168.0_windows-amd64.zip",
+      "size": 22382914,
+      "url": "https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_0.168.0_windows-amd64.zip"
+    },
+    {
+      "name": "hugo_0.168.0_darwin-universal.pkg",
+      "size": 40903819,
+      "url": "https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_0.168.0_darwin-universal.pkg"
+    },
+    {
+      "name": "hugo_extended_0.168.0_darwin-universal.pkg",
+      "size": 42319047,
+      "url": "https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_extended_0.168.0_darwin-universal.pkg"
+    },
+    {
+      "name": "hugo_0.168.0_linux-arm64.tar.gz",
+      "size": 19448738,
+      "url": "https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_0.168.0_linux-arm64.tar.gz"
+    },
+    {
+      "name": "hugo_0.168.0_linux-arm.tar.gz",
+      "size": 19638277,
+      "url": "https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_0.168.0_linux-arm.tar.gz"
+    },
+    {
+      "name": "hugo_0.168.0_dragonfly-amd64.tar.gz",
+      "size": 21012542,
+      "url": "https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_0.168.0_dragonfly-amd64.tar.gz"
+    },
+    {
+      "name": "hugo_0.168.0_netbsd-amd64.tar.gz",
+      "size": 21012615,
+      "url": "https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_0.168.0_netbsd-amd64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

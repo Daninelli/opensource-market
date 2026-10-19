@@ -1,0 +1,32 @@
+{
+  "repo": "steedos/steedos-platform",
+  "slug": "steedos__steedos-platform",
+  "name": "Steedos-platform",
+  "note_zh": "低代码企业应用平台，用对象模型与流程引擎快速搭建 ERP、审批等业务系统，适合企业 IT 团队。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "企业资源",
+  "subcategory_slug": "erp",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Node.js",
+    "MongoDB"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-15T05:38:29Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "3.0",
+  "download_url": "https://codeload.github.com/steedos/steedos-platform/zip/refs/heads/3.0",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

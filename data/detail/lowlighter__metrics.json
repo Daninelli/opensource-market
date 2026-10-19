@@ -1,0 +1,32 @@
+{
+  "repo": "lowlighter/metrics",
+  "slug": "lowlighter__metrics",
+  "name": "Metrics",
+  "note_zh": "GitHub 个人主页统计图生成器，30 多个插件与海量选项拼出信息图，适合想美化 Profil…",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "GitHub API",
+    "SVG"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-05-29T21:41:23Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/lowlighter/metrics/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

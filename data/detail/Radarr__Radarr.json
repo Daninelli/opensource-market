@@ -1,0 +1,68 @@
+{
+  "repo": "Radarr/Radarr",
+  "slug": "Radarr__Radarr",
+  "name": "Radarr",
+  "note_zh": "自动监控电影并抓取种子的自托管管理器，支持重命名与字幕，适合维护家庭影音库的用户。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET",
+    "SQLite"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:54:43Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/Radarr/Radarr/zip/refs/heads/develop",
+  "release": {
+    "tag": "v6.4.4.10685",
+    "name": "6.4.4.10685",
+    "published": "2026-09-16T18:13:40Z",
+    "url": "https://github.com/Radarr/Radarr/releases/tag/v6.4.4.10685"
+  },
+  "assets": [
+    {
+      "name": "Radarr.master.6.4.4.10685.windows-core-x86-installer.exe",
+      "size": 73959181,
+      "url": "https://github.com/Radarr/Radarr/releases/download/v6.4.4.10685/Radarr.master.6.4.4.10685.windows-core-x86-installer.exe"
+    },
+    {
+      "name": "Radarr.master.6.4.4.10685.windows-core-x64-installer.exe",
+      "size": 80170582,
+      "url": "https://github.com/Radarr/Radarr/releases/download/v6.4.4.10685/Radarr.master.6.4.4.10685.windows-core-x64-installer.exe"
+    },
+    {
+      "name": "Radarr.master.6.4.4.10685.linux-core-arm.tar.gz",
+      "size": 101486982,
+      "url": "https://github.com/Radarr/Radarr/releases/download/v6.4.4.10685/Radarr.master.6.4.4.10685.linux-core-arm.tar.gz"
+    },
+    {
+      "name": "Radarr.master.6.4.4.10685.linux-musl-core-arm.tar.gz",
+      "size": 101638923,
+      "url": "https://github.com/Radarr/Radarr/releases/download/v6.4.4.10685/Radarr.master.6.4.4.10685.linux-musl-core-arm.tar.gz"
+    },
+    {
+      "name": "Radarr.master.6.4.4.10685.osx-app-core-arm64.zip",
+      "size": 66635503,
+      "url": "https://github.com/Radarr/Radarr/releases/download/v6.4.4.10685/Radarr.master.6.4.4.10685.osx-app-core-arm64.zip"
+    },
+    {
+      "name": "Radarr.master.6.4.4.10685.osx-app-core-x64.zip",
+      "size": 69894539,
+      "url": "https://github.com/Radarr/Radarr/releases/download/v6.4.4.10685/Radarr.master.6.4.4.10685.osx-app-core-x64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

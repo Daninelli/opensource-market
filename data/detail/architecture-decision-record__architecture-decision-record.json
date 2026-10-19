@@ -1,0 +1,31 @@
+{
+  "repo": "architecture-decision-record/architecture-decision-record",
+  "slug": "architecture-decision-record__architecture-decision-record",
+  "name": "Architecture-decision-record",
+  "note_zh": "架构决策记录（ADR）模板与范例合集，帮团队把技术选型和取舍沉淀成文档，适合架构师与技术负责人。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "团队协作",
+  "subcategory_slug": "collaboration",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Markdown",
+    "Documentation"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-17T18:36:12Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/architecture-decision-record/architecture-decision-record/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

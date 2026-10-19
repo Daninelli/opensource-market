@@ -1,0 +1,32 @@
+{
+  "repo": "x1xhlol/system-prompts-and-models-of-ai-tools",
+  "slug": "x1xhlol__system-prompts-and-models-of-ai-tools",
+  "name": "System-prompts-and-models-of-ai-tools",
+  "note_zh": "收录 Cursor、Devin 等 AI 工具的系统提示词与模型信息，供研究提示工程与产品设计参考。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Markdown",
+    "Prompt Engineering",
+    "AI"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-12T15:19:01Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/x1xhlol/system-prompts-and-models-of-ai-tools/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

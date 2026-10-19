@@ -1,0 +1,33 @@
+{
+  "repo": "magento/magento2",
+  "slug": "magento__magento2",
+  "name": "Magento2",
+  "note_zh": "Adobe 开源电商系统，模块化架构覆盖 B2B 与 B2C 商城，功能完整，适合中大型商家自建站。",
+  "category": "电商",
+  "category_slug": "ecommerce",
+  "subcategory": "平台商城",
+  "subcategory_slug": "platform",
+  "license": "OSL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "MySQL",
+    "JavaScript",
+    "Elasticsearch"
+  ],
+  "deploy_type": "Docker 部署 / 传统部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-16T18:07:24Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "2.4-develop",
+  "download_url": "https://codeload.github.com/magento/magento2/zip/refs/heads/2.4-develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

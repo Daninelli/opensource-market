@@ -1,0 +1,31 @@
+{
+  "repo": "justjavac/free-programming-books-zh_CN",
+  "slug": "justjavac__free-programming-books-zh_CN",
+  "name": "Free-programming-books-zh_CN",
+  "note_zh": "中文免费编程书籍索引，按语言与技术方向分类，适合自学者查找入门与进阶资料。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Markdown",
+    "Documentation"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-07-29T00:39:06Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/justjavac/free-programming-books-zh_CN/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,32 @@
+{
+  "repo": "home-assistant/home-assistant.io",
+  "slug": "home-assistant__home-assistant.io",
+  "name": "Home-assistant.io",
+  "note_zh": "Home Assistant 官方用户文档站点，含安装配置与设备接入指南。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "智能家居",
+  "subcategory_slug": "smart-home",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "HTML",
+    "Jekyll",
+    "Markdown"
+  ],
+  "deploy_type": "前端源码 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:18:26Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "current",
+  "download_url": "https://codeload.github.com/home-assistant/home-assistant.io/zip/refs/heads/current",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

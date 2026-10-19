@@ -1,0 +1,32 @@
+{
+  "repo": "Chalarangelo/30-seconds-of-code",
+  "slug": "Chalarangelo__30-seconds-of-code",
+  "name": "30-seconds-of-code",
+  "note_zh": "收录 JavaScript、CSS 等短小代码片段的教程合集，适合开发者随手查阅学习。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "CC-BY-4.0",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Astro",
+    "CSS"
+  ],
+  "deploy_type": "前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T11:39:31Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/Chalarangelo/30-seconds-of-code/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

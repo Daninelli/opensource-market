@@ -1,0 +1,43 @@
+{
+  "repo": "tesseract-ocr/tesseract",
+  "slug": "tesseract-ocr__tesseract",
+  "name": "Tesseract",
+  "note_zh": "开源 OCR 引擎，把扫描图片识别成可搜索文本，支持上百种语言，适合文档数字化开发者。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "OCR",
+    "LSTM"
+  ],
+  "deploy_type": "源码 / 二进制 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T07:24:20Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/tesseract-ocr/tesseract/zip/refs/heads/main",
+  "release": {
+    "tag": "5.5.3",
+    "name": "5.5.3",
+    "published": "2026-07-24T18:33:22Z",
+    "url": "https://github.com/tesseract-ocr/tesseract/releases/tag/5.5.3"
+  },
+  "assets": [
+    {
+      "name": "tesseract-ocr-w64-setup-5.5.3.20260724.exe",
+      "size": 26573224,
+      "url": "https://github.com/tesseract-ocr/tesseract/releases/download/5.5.3/tesseract-ocr-w64-setup-5.5.3.20260724.exe"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

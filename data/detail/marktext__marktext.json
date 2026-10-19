@@ -1,0 +1,68 @@
+{
+  "repo": "marktext/marktext",
+  "slug": "marktext__marktext",
+  "name": "Marktext",
+  "note_zh": "简洁的跨平台 Markdown 编辑器，支持实时预览、专注模式与 LaTeX。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron",
+    "Markdown"
+  ],
+  "deploy_type": "桌面应用 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:56:13Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/marktext/marktext/zip/refs/heads/develop",
+  "release": {
+    "tag": "v0.22.0",
+    "name": "v0.22.0",
+    "published": "2026-10-18T11:02:35Z",
+    "url": "https://github.com/marktext/marktext/releases/tag/v0.22.0"
+  },
+  "assets": [
+    {
+      "name": "marktext-win-arm64-0.22.0-setup.exe",
+      "size": 126022673,
+      "url": "https://github.com/marktext/marktext/releases/download/v0.22.0/marktext-win-arm64-0.22.0-setup.exe"
+    },
+    {
+      "name": "marktext-win-x64-0.22.0-setup.exe",
+      "size": 132425869,
+      "url": "https://github.com/marktext/marktext/releases/download/v0.22.0/marktext-win-x64-0.22.0-setup.exe"
+    },
+    {
+      "name": "marktext-mac-arm64-0.22.0.zip",
+      "size": 157711485,
+      "url": "https://github.com/marktext/marktext/releases/download/v0.22.0/marktext-mac-arm64-0.22.0.zip"
+    },
+    {
+      "name": "marktext-mac-arm64-0.22.0.dmg",
+      "size": 157813397,
+      "url": "https://github.com/marktext/marktext/releases/download/v0.22.0/marktext-mac-arm64-0.22.0.dmg"
+    },
+    {
+      "name": "marktext-linux-0.22.0.rpm",
+      "size": 111004689,
+      "url": "https://github.com/marktext/marktext/releases/download/v0.22.0/marktext-linux-0.22.0.rpm"
+    },
+    {
+      "name": "marktext-linux-0.22.0.deb",
+      "size": 126675616,
+      "url": "https://github.com/marktext/marktext/releases/download/v0.22.0/marktext-linux-0.22.0.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

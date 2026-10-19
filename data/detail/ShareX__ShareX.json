@@ -1,0 +1,48 @@
+{
+  "repo": "ShareX/ShareX",
+  "slug": "ShareX__ShareX",
+  "name": "ShareX",
+  "note_zh": "Windows 截图录屏与上传工具，支持数十种图床和自动化流程，适合写文档与做教程的人。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "文件管理与网盘",
+  "subcategory_slug": "file",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET",
+    "Avalonia"
+  ],
+  "deploy_type": "客户端 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-18T21:45:57Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/ShareX/ShareX/zip/refs/heads/develop",
+  "release": {
+    "tag": "v21.0.0",
+    "name": "ShareX 21.0.0",
+    "published": "2026-07-03T04:24:56Z",
+    "url": "https://github.com/ShareX/ShareX/releases/tag/v21.0.0"
+  },
+  "assets": [
+    {
+      "name": "ShareX-21.0.0-setup-x64.exe",
+      "size": 139151207,
+      "url": "https://github.com/ShareX/ShareX/releases/download/v21.0.0/ShareX-21.0.0-setup-x64.exe"
+    },
+    {
+      "name": "ShareX-21.0.0-portable-x64.zip",
+      "size": 208850419,
+      "url": "https://github.com/ShareX/ShareX/releases/download/v21.0.0/ShareX-21.0.0-portable-x64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

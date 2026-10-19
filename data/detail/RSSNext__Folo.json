@@ -1,0 +1,68 @@
+{
+  "repo": "RSSNext/Folo",
+  "slug": "RSSNext__Folo",
+  "name": "Folo",
+  "note_zh": "AI 加持的 RSS 阅读器，聚合多源内容并做智能摘要，适合信息重度读者。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "电子书与阅读",
+  "subcategory_slug": "ebook",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React",
+    "Electron"
+  ],
+  "deploy_type": "客户端 / 桌面应用 / 前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:57:04Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/RSSNext/Folo/zip/refs/heads/dev",
+  "release": {
+    "tag": "desktop/v1.16.0",
+    "name": "Desktop v1.16.0",
+    "published": "2026-10-16T07:10:42Z",
+    "url": "https://github.com/RSSNext/Folo/releases/tag/desktop/v1.16.0"
+  },
+  "assets": [
+    {
+      "name": "Folo-1.16.0-macos-arm64.zip",
+      "size": 139033169,
+      "url": "https://github.com/RSSNext/Folo/releases/download/desktop/v1.16.0/Folo-1.16.0-macos-arm64.zip"
+    },
+    {
+      "name": "Folo-1.16.0-macos-arm64.dmg",
+      "size": 140223564,
+      "url": "https://github.com/RSSNext/Folo/releases/download/desktop/v1.16.0/Folo-1.16.0-macos-arm64.dmg"
+    },
+    {
+      "name": "Folo-1.16.0-windows-x64.exe",
+      "size": 165907760,
+      "url": "https://github.com/RSSNext/Folo/releases/download/desktop/v1.16.0/Folo-1.16.0-windows-x64.exe"
+    },
+    {
+      "name": "Folo-1.16.0-linux-x64.deb",
+      "size": 113212268,
+      "url": "https://github.com/RSSNext/Folo/releases/download/desktop/v1.16.0/Folo-1.16.0-linux-x64.deb"
+    },
+    {
+      "name": "Folo-1.16.0-linux-x64.AppImage",
+      "size": 150436366,
+      "url": "https://github.com/RSSNext/Folo/releases/download/desktop/v1.16.0/Folo-1.16.0-linux-x64.AppImage"
+    },
+    {
+      "name": "render-asset.tar.gz",
+      "size": 26751888,
+      "url": "https://github.com/RSSNext/Folo/releases/download/desktop/v1.16.0/render-asset.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

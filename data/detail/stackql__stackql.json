@@ -1,0 +1,78 @@
+{
+  "repo": "stackql/stackql",
+  "slug": "stackql__stackql",
+  "name": "Stackql",
+  "note_zh": "用 SQL 查询与操作云和 SaaS 资源的工具，也支持 MCP，适合云资产治理与自动化。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "资产管理",
+  "subcategory_slug": "asset",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "SQL",
+    "CLI"
+  ],
+  "deploy_type": "二进制 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:27:05Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/stackql/stackql/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.12.778",
+    "name": "v0.12.778",
+    "published": "2026-10-11T20:55:34Z",
+    "url": "https://github.com/stackql/stackql/releases/tag/v0.12.778"
+  },
+  "assets": [
+    {
+      "name": "stackql_windows_arm64.msi",
+      "size": 38981632,
+      "url": "https://github.com/stackql/stackql/releases/download/v0.12.778/stackql_windows_arm64.msi"
+    },
+    {
+      "name": "stackql_windows_arm64.zip",
+      "size": 42226510,
+      "url": "https://github.com/stackql/stackql/releases/download/v0.12.778/stackql_windows_arm64.zip"
+    },
+    {
+      "name": "stackql_darwin_multiarch.pkg",
+      "size": 96147269,
+      "url": "https://github.com/stackql/stackql/releases/download/v0.12.778/stackql_darwin_multiarch.pkg"
+    },
+    {
+      "name": "stackql-mcp-darwin-universal.mcpb",
+      "size": 97083854,
+      "url": "https://github.com/stackql/stackql/releases/download/v0.12.778/stackql-mcp-darwin-universal.mcpb"
+    },
+    {
+      "name": "stackql-mcp-linux-arm64.mcpb",
+      "size": 42803021,
+      "url": "https://github.com/stackql/stackql/releases/download/v0.12.778/stackql-mcp-linux-arm64.mcpb"
+    },
+    {
+      "name": "stackql_linux_arm64.zip",
+      "size": 42823574,
+      "url": "https://github.com/stackql/stackql/releases/download/v0.12.778/stackql_linux_arm64.zip"
+    },
+    {
+      "name": "arm64-artifact-deb.zip",
+      "size": 42030191,
+      "url": "https://github.com/stackql/stackql/releases/download/v0.12.778/arm64-artifact-deb.zip"
+    },
+    {
+      "name": "amd64-artifact-deb.zip",
+      "size": 46398106,
+      "url": "https://github.com/stackql/stackql/releases/download/v0.12.778/amd64-artifact-deb.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

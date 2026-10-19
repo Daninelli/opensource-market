@@ -1,0 +1,43 @@
+{
+  "repo": "Egonex-AI/Understand-Anything",
+  "slug": "Egonex-AI__Understand-Anything",
+  "name": "Understand-Anything",
+  "note_zh": "把代码转成可交互知识图谱，帮助人快速看懂陌生项目的结构。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "AI Agents",
+    "Knowledge Graph"
+  ],
+  "deploy_type": "前端源码 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-12T10:24:59Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Egonex-AI/Understand-Anything/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.9.0",
+    "name": "v2.9.0 — Figma design graphs + .ua data directory",
+    "published": "2026-07-10T09:36:42Z",
+    "url": "https://github.com/Egonex-AI/Understand-Anything/releases/tag/v2.9.0"
+  },
+  "assets": [
+    {
+      "name": "understand-anything-viewer.tgz",
+      "size": 794982,
+      "url": "https://github.com/Egonex-AI/Understand-Anything/releases/download/v2.9.0/understand-anything-viewer.tgz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

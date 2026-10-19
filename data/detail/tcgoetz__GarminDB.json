@@ -1,0 +1,32 @@
+{
+  "repo": "tcgoetz/GarminDB",
+  "slug": "tcgoetz__GarminDB",
+  "name": "GarminDB",
+  "note_zh": "把 Garmin、Fitbit 健康数据下载并解析进 SQLite，方便自行分析。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "GPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "SQLite",
+    "Jupyter"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-17T15:14:38Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/tcgoetz/GarminDB/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

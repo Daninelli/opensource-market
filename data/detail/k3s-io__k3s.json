@@ -1,0 +1,58 @@
+{
+  "repo": "k3s-io/k3s",
+  "slug": "k3s-io__k3s",
+  "name": "K3s",
+  "note_zh": "轻量级 Kubernetes 发行版，单二进制即可在边缘与 IoT 设备运行，适合资源受限环境。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Kubernetes",
+    "Containerd"
+  ],
+  "deploy_type": "二进制 / 传统部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:34:37Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/k3s-io/k3s/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.37.1+k3s1",
+    "name": "v1.37.1+k3s1",
+    "published": "2026-09-30T16:10:38Z",
+    "url": "https://github.com/k3s-io/k3s/releases/tag/v1.37.1%2Bk3s1"
+  },
+  "assets": [
+    {
+      "name": "k3s-arm64",
+      "size": 73728162,
+      "url": "https://github.com/k3s-io/k3s/releases/download/v1.37.1%2Bk3s1/k3s-arm64"
+    },
+    {
+      "name": "k3s-armhf",
+      "size": 74711202,
+      "url": "https://github.com/k3s-io/k3s/releases/download/v1.37.1%2Bk3s1/k3s-armhf"
+    },
+    {
+      "name": "k3s-airgap-images-arm64.tar.gz",
+      "size": 176113657,
+      "url": "https://github.com/k3s-io/k3s/releases/download/v1.37.1%2Bk3s1/k3s-airgap-images-arm64.tar.gz"
+    },
+    {
+      "name": "k3s-airgap-images-arm.tar.gz",
+      "size": 184507720,
+      "url": "https://github.com/k3s-io/k3s/releases/download/v1.37.1%2Bk3s1/k3s-airgap-images-arm.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

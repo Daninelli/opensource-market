@@ -1,0 +1,32 @@
+{
+  "repo": "swagger-api/swagger-ui",
+  "slug": "swagger-api__swagger-ui",
+  "name": "Swagger-ui",
+  "note_zh": "把 OpenAPI 规范渲染成可交互接口文档，方便前后端联调与在线调用测试。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "OpenAPI",
+    "HTML"
+  ],
+  "deploy_type": "前端源码 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:14:24Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/swagger-api/swagger-ui/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

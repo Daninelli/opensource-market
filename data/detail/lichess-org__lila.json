@@ -1,0 +1,32 @@
+{
+  "repo": "lichess-org/lila",
+  "slug": "lichess-org__lila",
+  "name": "Lila",
+  "note_zh": "开源国际象棋服务器 lichess.org 的后端，永久免费无广告，可自建在线对弈平台。",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏客户端",
+  "subcategory_slug": "client",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Scala",
+    "Play Framework",
+    "MongoDB"
+  ],
+  "deploy_type": "自托管服务 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:12:06Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/lichess-org/lila/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

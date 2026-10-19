@@ -1,0 +1,68 @@
+{
+  "repo": "Velocidex/velociraptor",
+  "slug": "Velocidex__velociraptor",
+  "name": "Velociraptor",
+  "note_zh": "端点取证与事件响应平台，可大规模采集终端状态，适合安全团队排查威胁。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "企业资源",
+  "subcategory_slug": "erp",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Agent",
+    "Forensics"
+  ],
+  "deploy_type": "二进制 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-17T13:17:26Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/Velocidex/velociraptor/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.77.3",
+    "name": "Release 0.77.3",
+    "published": "2026-10-05T01:00:38Z",
+    "url": "https://github.com/Velocidex/velociraptor/releases/tag/v0.77.3"
+  },
+  "assets": [
+    {
+      "name": "velociraptor-v0.77.3-windows-386-legacy.exe.gz",
+      "size": 19372864,
+      "url": "https://github.com/Velocidex/velociraptor/releases/download/v0.77.3/velociraptor-v0.77.3-windows-386-legacy.exe.gz"
+    },
+    {
+      "name": "velociraptor-v0.77.3-windows-amd64-legacy.exe.gz",
+      "size": 19919198,
+      "url": "https://github.com/Velocidex/velociraptor/releases/download/v0.77.3/velociraptor-v0.77.3-windows-amd64-legacy.exe.gz"
+    },
+    {
+      "name": "velociraptor-v0.77.3-darwin-arm64.gz",
+      "size": 25961103,
+      "url": "https://github.com/Velocidex/velociraptor/releases/download/v0.77.3/velociraptor-v0.77.3-darwin-arm64.gz"
+    },
+    {
+      "name": "velociraptor-v0.77.3-darwin-amd64.gz",
+      "size": 28592877,
+      "url": "https://github.com/Velocidex/velociraptor/releases/download/v0.77.3/velociraptor-v0.77.3-darwin-amd64.gz"
+    },
+    {
+      "name": "velociraptor-v0.77.3-linux-arm64.gz",
+      "size": 27596850,
+      "url": "https://github.com/Velocidex/velociraptor/releases/download/v0.77.3/velociraptor-v0.77.3-linux-arm64.gz"
+    },
+    {
+      "name": "velociraptor-v0.77.3-linux-amd64.gz",
+      "size": 30350671,
+      "url": "https://github.com/Velocidex/velociraptor/releases/download/v0.77.3/velociraptor-v0.77.3-linux-amd64.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

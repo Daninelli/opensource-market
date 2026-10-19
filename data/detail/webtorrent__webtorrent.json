@@ -1,0 +1,32 @@
+{
+  "repo": "webtorrent/webtorrent",
+  "slug": "webtorrent__webtorrent",
+  "name": "Webtorrent",
+  "note_zh": "浏览器与 Node 中的流式 BT 客户端库，边下边播无需等待，适合 P2P 应用开发。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Node.js",
+    "WebRTC"
+  ],
+  "deploy_type": "依赖库 / 前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-17T20:22:38Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/webtorrent/webtorrent/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,74 @@
+{
+  "repo": "onlook-dev/onlook",
+  "slug": "onlook-dev__onlook",
+  "name": "Onlook",
+  "note_zh": "AI 驱动的可视化设计工具，可直接编辑 React 界面并实时生成代码。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React",
+    "Electron",
+    "AI"
+  ],
+  "deploy_type": "桌面应用",
+  "platform": "github",
+  "updated_at": "2026-08-25T01:06:22Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/onlook-dev/onlook/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.2.32",
+    "name": "Release - 0.2.32",
+    "published": "2025-07-17T18:36:21Z",
+    "url": "https://github.com/onlook-dev/onlook/releases/tag/v0.2.32"
+  },
+  "assets": [
+    {
+      "name": "Onlook-setup.exe",
+      "size": 175923592,
+      "url": "https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-setup.exe"
+    },
+    {
+      "name": "Onlook-arm64.dmg",
+      "size": 246723533,
+      "url": "https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-arm64.dmg"
+    },
+    {
+      "name": "Onlook-x64.dmg",
+      "size": 253202949,
+      "url": "https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-x64.dmg"
+    },
+    {
+      "name": "Onlook-arm64.deb",
+      "size": 176405120,
+      "url": "https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-arm64.deb"
+    },
+    {
+      "name": "Onlook-amd64.deb",
+      "size": 181444828,
+      "url": "https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-amd64.deb"
+    },
+    {
+      "name": "Onlook-arm64.zip",
+      "size": 237528110,
+      "url": "https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-arm64.zip"
+    },
+    {
+      "name": "Onlook-x64.zip",
+      "size": 243953698,
+      "url": "https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-x64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

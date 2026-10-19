@@ -1,0 +1,68 @@
+{
+  "repo": "3proxy/3proxy",
+  "slug": "3proxy__3proxy",
+  "name": "3proxy",
+  "note_zh": "轻量级代理服务器，支持 HTTP/SOCKS 与端口映射，适合搭建小型网络代理与访问控制。",
+  "category": "金融",
+  "category_slug": "finance",
+  "subcategory": "记账核算",
+  "subcategory_slug": "accounting",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C",
+    "Proxy",
+    "Network"
+  ],
+  "deploy_type": "二进制 / 传统部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-18T15:27:19Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/3proxy/3proxy/zip/refs/heads/master",
+  "release": {
+    "tag": "1.0.1",
+    "name": "3proxy-1.0.1",
+    "published": "2026-10-10T16:44:31Z",
+    "url": "https://github.com/3proxy/3proxy/releases/tag/1.0.1"
+  },
+  "assets": [
+    {
+      "name": "3proxy-1.0.1.arm.deb",
+      "size": 210420,
+      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.1/3proxy-1.0.1.arm.deb"
+    },
+    {
+      "name": "3proxy-1.0.1.arm64.deb",
+      "size": 241122,
+      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.1/3proxy-1.0.1.arm64.deb"
+    },
+    {
+      "name": "3proxy_1.0.1-r1_mips_24kc.ipk",
+      "size": 104810,
+      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.1/3proxy_1.0.1-r1_mips_24kc.ipk"
+    },
+    {
+      "name": "3proxy_1.0.1-r1_mipsel_24kc.ipk",
+      "size": 105368,
+      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.1/3proxy_1.0.1-r1_mipsel_24kc.ipk"
+    },
+    {
+      "name": "3proxy-1.0.1-lite.zip",
+      "size": 510573,
+      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.1/3proxy-1.0.1-lite.zip"
+    },
+    {
+      "name": "3proxy-1.0.1.tar.gz",
+      "size": 569079,
+      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.1/3proxy-1.0.1.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

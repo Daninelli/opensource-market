@@ -1,0 +1,48 @@
+{
+  "repo": "alam00000/bentopdf",
+  "slug": "alam00000__bentopdf",
+  "name": "Bentopdf",
+  "note_zh": "浏览器端优先的 PDF 工具箱，转换、编辑、合并都在本地完成，注重隐私。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "PDF",
+    "WebAssembly"
+  ],
+  "deploy_type": "前端源码 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:04:04Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/alam00000/bentopdf/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.8.10",
+    "name": "v2.8.10",
+    "published": "2026-10-19T10:14:20Z",
+    "url": "https://github.com/alam00000/bentopdf/releases/tag/v2.8.10"
+  },
+  "assets": [
+    {
+      "name": "dist-simple-2.8.10.zip",
+      "size": 139788451,
+      "url": "https://github.com/alam00000/bentopdf/releases/download/v2.8.10/dist-simple-2.8.10.zip"
+    },
+    {
+      "name": "dist-2.8.10.zip",
+      "size": 148843014,
+      "url": "https://github.com/alam00000/bentopdf/releases/download/v2.8.10/dist-2.8.10.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

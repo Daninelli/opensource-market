@@ -1,0 +1,32 @@
+{
+  "repo": "longitachi/ZLPhotoBrowser",
+  "slug": "longitachi__ZLPhotoBrowser",
+  "name": "ZLPhotoBrowser",
+  "note_zh": "仿微信的 iOS 图片选择组件，支持视频、GIF 与编辑，适合集成到自家 App。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "相册管理",
+  "subcategory_slug": "photos",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Swift",
+    "iOS",
+    "UIKit"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:23:14Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/longitachi/ZLPhotoBrowser/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

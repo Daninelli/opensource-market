@@ -1,0 +1,33 @@
+{
+  "repo": "1Panel-dev/CordysCRM",
+  "slug": "1Panel-dev__CordysCRM",
+  "name": "CordysCRM",
+  "note_zh": "飞致云开源 AI CRM 系统，支持私有化部署，适合企业销售与客户管理。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "客户关系",
+  "subcategory_slug": "crm",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "Spring Boot",
+    "AI",
+    "CRM"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:25:11Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/1Panel-dev/CordysCRM/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

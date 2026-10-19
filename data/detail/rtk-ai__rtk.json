@@ -1,0 +1,68 @@
+{
+  "repo": "rtk-ai/rtk",
+  "slug": "rtk-ai__rtk",
+  "name": "Rtk",
+  "note_zh": "Rust 写的命令行代理，压缩常见开发命令输出，为 LLM 省下大量 token。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "CLI",
+    "LLM"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T00:38:06Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/rtk-ai/rtk/zip/refs/heads/develop",
+  "release": {
+    "tag": "v1.0.1",
+    "name": "v1.0.1",
+    "published": "2026-10-14T13:31:42Z",
+    "url": "https://github.com/rtk-ai/rtk/releases/tag/v1.0.1"
+  },
+  "assets": [
+    {
+      "name": "rtk-oss-aarch64-apple-darwin.tar.gz",
+      "size": 4999666,
+      "url": "https://github.com/rtk-ai/rtk/releases/download/v1.0.1/rtk-oss-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "rtk-oss-x86_64-apple-darwin.tar.gz",
+      "size": 5428609,
+      "url": "https://github.com/rtk-ai/rtk/releases/download/v1.0.1/rtk-oss-x86_64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "rtk-oss-x86_64-pc-windows-msvc.zip",
+      "size": 5708680,
+      "url": "https://github.com/rtk-ai/rtk/releases/download/v1.0.1/rtk-oss-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "rtk-x86_64-pc-windows-msvc.zip",
+      "size": 6730722,
+      "url": "https://github.com/rtk-ai/rtk/releases/download/v1.0.1/rtk-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "rtk-oss_1.0.1-1_amd64.deb",
+      "size": 4319864,
+      "url": "https://github.com/rtk-ai/rtk/releases/download/v1.0.1/rtk-oss_1.0.1-1_amd64.deb"
+    },
+    {
+      "name": "rtk-oss_amd64.deb",
+      "size": 4319864,
+      "url": "https://github.com/rtk-ai/rtk/releases/download/v1.0.1/rtk-oss_amd64.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

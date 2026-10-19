@@ -1,0 +1,33 @@
+{
+  "repo": "microsoft/IoT-For-Beginners",
+  "slug": "microsoft__IoT-For-Beginners",
+  "name": "IoT-For-Beginners",
+  "note_zh": "微软 12 周 IoT 入门课程，含 24 节课与实验，适合嵌入式与物联网新手。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "智能家居",
+  "subcategory_slug": "smart-home",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Jupyter Notebook",
+    "Python",
+    "C++",
+    "IoT"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-05-26T21:50:02Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/microsoft/IoT-For-Beginners/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

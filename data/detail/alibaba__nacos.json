@@ -1,0 +1,48 @@
+{
+  "repo": "alibaba/nacos",
+  "slug": "alibaba__nacos",
+  "name": "Nacos",
+  "note_zh": "服务发现与配置管理平台，支持动态配置与注册中心，适合微服务架构的 Java 团队。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "Spring Cloud",
+    "Kubernetes"
+  ],
+  "deploy_type": "Docker 部署 / 传统部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-14T05:44:53Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/alibaba/nacos/zip/refs/heads/develop",
+  "release": {
+    "tag": "3.2.4",
+    "name": "3.2.4 (Aug 27th, 2026)",
+    "published": "2026-08-27T05:28:53Z",
+    "url": "https://github.com/alibaba/nacos/releases/tag/3.2.4"
+  },
+  "assets": [
+    {
+      "name": "nacos-server-3.2.4.tar.gz",
+      "size": 221917502,
+      "url": "https://github.com/alibaba/nacos/releases/download/3.2.4/nacos-server-3.2.4.tar.gz"
+    },
+    {
+      "name": "nacos-server-3.2.4.zip",
+      "size": 221927822,
+      "url": "https://github.com/alibaba/nacos/releases/download/3.2.4/nacos-server-3.2.4.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

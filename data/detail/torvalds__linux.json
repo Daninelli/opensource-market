@@ -1,0 +1,32 @@
+{
+  "repo": "torvalds/linux",
+  "slug": "torvalds__linux",
+  "name": "Linux",
+  "note_zh": "Linux 内核源码树，操作系统核心，供内核开发者与驱动工程师使用。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C",
+    "Linux Kernel",
+    "Assembly"
+  ],
+  "deploy_type": "源码 / 传统部署",
+  "platform": "github",
+  "updated_at": "2026-10-18T23:21:18Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/torvalds/linux/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

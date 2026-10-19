@@ -1,0 +1,43 @@
+{
+  "repo": "opendatalab/MinerU",
+  "slug": "opendatalab__MinerU",
+  "name": "MinerU",
+  "note_zh": "把 PDF 与 Office 文档转成 Markdown/JSON，保留版式结构，适合为大模型准…",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "OCR",
+    "PDF"
+  ],
+  "deploy_type": "命令行 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:41:22Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/opendatalab/MinerU/zip/refs/heads/master",
+  "release": {
+    "tag": "mineru-4.0.12-released",
+    "name": "MinerU 4.0.12",
+    "published": "2026-10-11T02:21:42Z",
+    "url": "https://github.com/opendatalab/MinerU/releases/tag/mineru-4.0.12-released"
+  },
+  "assets": [
+    {
+      "name": "mineru-4.0.12-py3-none-any.whl",
+      "size": 3682241,
+      "url": "https://github.com/opendatalab/MinerU/releases/download/mineru-4.0.12-released/mineru-4.0.12-py3-none-any.whl"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

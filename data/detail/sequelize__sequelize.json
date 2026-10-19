@@ -1,0 +1,32 @@
+{
+  "repo": "sequelize/sequelize",
+  "slug": "sequelize__sequelize",
+  "name": "Sequelize",
+  "note_zh": "功能丰富的 Node.js ORM，支持多种 SQL 数据库与迁移，适合传统 Node 后端项目。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Node.js",
+    "ORM"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-11T04:22:00Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/sequelize/sequelize/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

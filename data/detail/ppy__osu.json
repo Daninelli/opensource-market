@@ -1,0 +1,78 @@
+{
+  "repo": "ppy/osu",
+  "slug": "ppy__osu",
+  "name": "Osu",
+  "note_zh": "开源音乐节奏游戏客户端，自带谱面编辑器与庞大玩家曲库，适合音游爱好者。",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏客户端",
+  "subcategory_slug": "client",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET",
+    "OpenGL"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:58:21Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/ppy/osu/zip/refs/heads/master",
+  "release": {
+    "tag": "2026.1005.0-lazer",
+    "name": "2026.1005.0-lazer",
+    "published": "2026-10-05T07:39:28Z",
+    "url": "https://github.com/ppy/osu/releases/tag/2026.1005.0-lazer"
+  },
+  "assets": [
+    {
+      "name": "install.exe",
+      "size": 188951240,
+      "url": "https://github.com/ppy/osu/releases/download/2026.1005.0-lazer/install.exe"
+    },
+    {
+      "name": "osulazer-2026.1005.0-lazer-linux-x64-delta.nupkg",
+      "size": 101253613,
+      "url": "https://github.com/ppy/osu/releases/download/2026.1005.0-lazer/osulazer-2026.1005.0-lazer-linux-x64-delta.nupkg"
+    },
+    {
+      "name": "osulazer-2026.1005.0-lazer-linux-x64-full.nupkg",
+      "size": 185748181,
+      "url": "https://github.com/ppy/osu/releases/download/2026.1005.0-lazer/osulazer-2026.1005.0-lazer-linux-x64-full.nupkg"
+    },
+    {
+      "name": "sh.ppy.osulazer.apk",
+      "size": 513213609,
+      "url": "https://github.com/ppy/osu/releases/download/2026.1005.0-lazer/sh.ppy.osulazer.apk"
+    },
+    {
+      "name": "osulazer-2026.1005.0-lazer-osx-x64-delta.nupkg",
+      "size": 4479117,
+      "url": "https://github.com/ppy/osu/releases/download/2026.1005.0-lazer/osulazer-2026.1005.0-lazer-osx-x64-delta.nupkg"
+    },
+    {
+      "name": "osulazer-2026.1005.0-lazer-osx-arm64-delta.nupkg",
+      "size": 4511078,
+      "url": "https://github.com/ppy/osu/releases/download/2026.1005.0-lazer/osulazer-2026.1005.0-lazer-osx-arm64-delta.nupkg"
+    },
+    {
+      "name": "osu.app.Apple.Silicon.zip",
+      "size": 191000299,
+      "url": "https://github.com/ppy/osu/releases/download/2026.1005.0-lazer/osu.app.Apple.Silicon.zip"
+    },
+    {
+      "name": "osu.app.Intel.zip",
+      "size": 193580430,
+      "url": "https://github.com/ppy/osu/releases/download/2026.1005.0-lazer/osu.app.Intel.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,78 @@
+{
+  "repo": "chen08209/FlClash",
+  "slug": "chen08209__FlClash",
+  "name": "FlClash",
+  "note_zh": "基于 Clash Meta 的多平台代理客户端，界面简洁，适合桌面与移动端统一管理订阅。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Dart",
+    "Flutter",
+    "Clash Meta"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-17T09:56:34Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/chen08209/FlClash/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.9.1",
+    "name": "v0.9.1",
+    "published": "2026-10-17T10:24:48Z",
+    "url": "https://github.com/chen08209/FlClash/releases/tag/v0.9.1"
+  },
+  "assets": [
+    {
+      "name": "FlClash-0.9.1-windows-arm64-setup.exe",
+      "size": 40169430,
+      "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.1/FlClash-0.9.1-windows-arm64-setup.exe"
+    },
+    {
+      "name": "FlClash-0.9.1-windows-amd64-setup.exe",
+      "size": 43219493,
+      "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.1/FlClash-0.9.1-windows-amd64-setup.exe"
+    },
+    {
+      "name": "FlClash-0.9.1-macos-arm64.dmg",
+      "size": 59133289,
+      "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.1/FlClash-0.9.1-macos-arm64.dmg"
+    },
+    {
+      "name": "FlClash-0.9.1-macos-amd64.dmg",
+      "size": 62984732,
+      "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.1/FlClash-0.9.1-macos-amd64.dmg"
+    },
+    {
+      "name": "FlClash-0.9.1-linux-arm64.deb",
+      "size": 45108228,
+      "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.1/FlClash-0.9.1-linux-arm64.deb"
+    },
+    {
+      "name": "FlClash-0.9.1-linux-amd64.deb",
+      "size": 48045408,
+      "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.1/FlClash-0.9.1-linux-amd64.deb"
+    },
+    {
+      "name": "FlClash-0.9.1-android-armeabi-v7a.apk",
+      "size": 60876375,
+      "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.1/FlClash-0.9.1-android-armeabi-v7a.apk"
+    },
+    {
+      "name": "FlClash-0.9.1-android-arm64-v8a.apk",
+      "size": 60894491,
+      "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.1/FlClash-0.9.1-android-arm64-v8a.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

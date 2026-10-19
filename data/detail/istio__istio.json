@@ -1,0 +1,73 @@
+{
+  "repo": "istio/istio",
+  "slug": "istio__istio",
+  "name": "Istio",
+  "note_zh": "服务网格平台，为微服务提供流量管理、安全与可观测性，适合 K8s 集群。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Kubernetes",
+    "Envoy"
+  ],
+  "deploy_type": "二进制 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:11:00Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/istio/istio/zip/refs/heads/master",
+  "release": {
+    "tag": "1.31.2",
+    "name": "Istio 1.31.2",
+    "published": "2026-10-16T00:13:18Z",
+    "url": "https://github.com/istio/istio/releases/tag/1.31.2"
+  },
+  "assets": [
+    {
+      "name": "istioctl-1.31.2-win-amd64.zip",
+      "size": 31891165,
+      "url": "https://github.com/istio/istio/releases/download/1.31.2/istioctl-1.31.2-win-amd64.zip"
+    },
+    {
+      "name": "istioctl-1.31.2-win.zip",
+      "size": 31891165,
+      "url": "https://github.com/istio/istio/releases/download/1.31.2/istioctl-1.31.2-win.zip"
+    },
+    {
+      "name": "istioctl-1.31.2-linux-arm64.tar.gz",
+      "size": 26684713,
+      "url": "https://github.com/istio/istio/releases/download/1.31.2/istioctl-1.31.2-linux-arm64.tar.gz"
+    },
+    {
+      "name": "istio-1.31.2-linux-arm64.tar.gz",
+      "size": 27058621,
+      "url": "https://github.com/istio/istio/releases/download/1.31.2/istio-1.31.2-linux-arm64.tar.gz"
+    },
+    {
+      "name": "istio-release.spdx",
+      "size": 6095925,
+      "url": "https://github.com/istio/istio/releases/download/1.31.2/istio-release.spdx"
+    },
+    {
+      "name": "istioctl-1.31.2-osx-arm64.tar.gz",
+      "size": 28171525,
+      "url": "https://github.com/istio/istio/releases/download/1.31.2/istioctl-1.31.2-osx-arm64.tar.gz"
+    },
+    {
+      "name": "istio-1.31.2-osx-arm64.tar.gz",
+      "size": 28550272,
+      "url": "https://github.com/istio/istio/releases/download/1.31.2/istio-1.31.2-osx-arm64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

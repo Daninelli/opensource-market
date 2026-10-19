@@ -1,0 +1,32 @@
+{
+  "repo": "hasaneyldrm/exercises-dataset",
+  "slug": "hasaneyldrm__exercises-dataset",
+  "name": "Exercises-dataset",
+  "note_zh": "1324 个健身动作数据集，含 GIF 演示与肌群标注，供开发健身应用使用。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "HTML",
+    "JSON",
+    "Dataset"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-07-16T06:50:42Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/hasaneyldrm/exercises-dataset/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

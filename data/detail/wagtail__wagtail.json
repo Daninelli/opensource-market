@@ -1,0 +1,32 @@
+{
+  "repo": "wagtail/wagtail",
+  "slug": "wagtail__wagtail",
+  "name": "Wagtail",
+  "note_zh": "基于 Django 的内容管理系统，灵活易扩展，适合企业官网与编辑团队协作。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "BSD-3-Clause",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Django",
+    "PostgreSQL"
+  ],
+  "deploy_type": "源码 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-16T17:03:34Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/wagtail/wagtail/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

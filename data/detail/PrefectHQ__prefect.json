@@ -1,0 +1,32 @@
+{
+  "repo": "PrefectHQ/prefect",
+  "slug": "PrefectHQ__prefect",
+  "name": "Prefect",
+  "note_zh": "Python 数据流水线编排框架，把脚本变成可观测、可重试的工作流。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "低代码平台",
+  "subcategory_slug": "low-code",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Orchestration",
+    "Docker"
+  ],
+  "deploy_type": "依赖库 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-18T20:03:47Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/PrefectHQ/prefect/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

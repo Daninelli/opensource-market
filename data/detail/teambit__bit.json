@@ -1,0 +1,32 @@
+{
+  "repo": "teambit/bit",
+  "slug": "teambit__bit",
+  "name": "Bit",
+  "note_zh": "组件驱动的开发工作区，让团队独立开发、版本化并跨项目复用组件，适合大型前端与多仓库协作。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "团队协作",
+  "subcategory_slug": "collaboration",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React",
+    "Monorepo"
+  ],
+  "deploy_type": "命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:31:35Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/teambit/bit/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

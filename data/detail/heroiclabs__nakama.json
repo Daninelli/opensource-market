@@ -1,0 +1,63 @@
+{
+  "repo": "heroiclabs/nakama",
+  "slug": "heroiclabs__nakama",
+  "name": "Nakama",
+  "note_zh": "开源可扩展游戏后端，提供匹配、排行榜、聊天与账号系统，支持自托管。",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏客户端",
+  "subcategory_slug": "client",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "gRPC",
+    "Docker"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-16T20:28:05Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/heroiclabs/nakama/zip/refs/heads/master",
+  "release": {
+    "tag": "v3.41.0",
+    "name": "v3.41.0",
+    "published": "2026-09-18T19:51:36Z",
+    "url": "https://github.com/heroiclabs/nakama/releases/tag/v3.41.0"
+  },
+  "assets": [
+    {
+      "name": "nakama-3.41.0-windows-amd64.tar.gz",
+      "size": 19709346,
+      "url": "https://github.com/heroiclabs/nakama/releases/download/v3.41.0/nakama-3.41.0-windows-amd64.tar.gz"
+    },
+    {
+      "name": "nakama-3.41.0-darwin-arm64.tar.gz",
+      "size": 20150199,
+      "url": "https://github.com/heroiclabs/nakama/releases/download/v3.41.0/nakama-3.41.0-darwin-arm64.tar.gz"
+    },
+    {
+      "name": "nakama-3.41.0-darwin-amd64.tar.gz",
+      "size": 21372622,
+      "url": "https://github.com/heroiclabs/nakama/releases/download/v3.41.0/nakama-3.41.0-darwin-amd64.tar.gz"
+    },
+    {
+      "name": "nakama-3.41.0-linux-arm64.tar.gz",
+      "size": 22272139,
+      "url": "https://github.com/heroiclabs/nakama/releases/download/v3.41.0/nakama-3.41.0-linux-arm64.tar.gz"
+    },
+    {
+      "name": "nakama-3.41.0-linux-amd64.tar.gz",
+      "size": 24001480,
+      "url": "https://github.com/heroiclabs/nakama/releases/download/v3.41.0/nakama-3.41.0-linux-amd64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

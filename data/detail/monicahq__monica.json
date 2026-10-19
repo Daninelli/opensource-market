@@ -1,0 +1,48 @@
+{
+  "repo": "monicahq/monica",
+  "slug": "monicahq__monica",
+  "name": "Monica",
+  "note_zh": "个人 CRM，记录亲友与商务关系的联络细节、纪念日和提醒，适合想认真经营人脉的人。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "客户关系",
+  "subcategory_slug": "crm",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "Laravel",
+    "MySQL"
+  ],
+  "deploy_type": "自托管服务 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-09-24T15:21:07Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/monicahq/monica/zip/refs/heads/main",
+  "release": {
+    "tag": "v4.1.2",
+    "name": "v4.1.2",
+    "published": "2024-05-04T08:06:50Z",
+    "url": "https://github.com/monicahq/monica/releases/tag/v4.1.2"
+  },
+  "assets": [
+    {
+      "name": "monica-assets-v4.1.2.tar.bz2",
+      "size": 1389654,
+      "url": "https://github.com/monicahq/monica/releases/download/v4.1.2/monica-assets-v4.1.2.tar.bz2"
+    },
+    {
+      "name": "monica-v4.1.2.tar.bz2",
+      "size": 22809561,
+      "url": "https://github.com/monicahq/monica/releases/download/v4.1.2/monica-v4.1.2.tar.bz2"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

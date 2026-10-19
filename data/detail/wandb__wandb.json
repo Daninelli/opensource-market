@@ -1,0 +1,48 @@
+{
+  "repo": "wandb/wandb",
+  "slug": "wandb__wandb",
+  "name": "Wandb",
+  "note_zh": "机器学习实验跟踪平台，记录训练指标、版本化数据并协作调参，适合做模型训练与微调的 AI 开发者。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "团队协作",
+  "subcategory_slug": "collaboration",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "MLOps",
+    "PyTorch"
+  ],
+  "deploy_type": "依赖库 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-17T19:58:39Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/wandb/wandb/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.31.0",
+    "name": "v0.31.0",
+    "published": "2026-10-16T19:10:51Z",
+    "url": "https://github.com/wandb/wandb/releases/tag/v0.31.0"
+  },
+  "assets": [
+    {
+      "name": "wandb-0.31.0.tar.gz",
+      "size": 43561200,
+      "url": "https://github.com/wandb/wandb/releases/download/v0.31.0/wandb-0.31.0.tar.gz"
+    },
+    {
+      "name": "wandb-0.31.0.zip",
+      "size": 48002690,
+      "url": "https://github.com/wandb/wandb/releases/download/v0.31.0/wandb-0.31.0.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

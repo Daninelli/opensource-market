@@ -1,0 +1,68 @@
+{
+  "repo": "Heroic-Games-Launcher/HeroicGamesLauncher",
+  "slug": "Heroic-Games-Launcher__HeroicGamesLauncher",
+  "name": "HeroicGamesLauncher",
+  "note_zh": "跨平台游戏启动器，统一管理 Epic、GOG 与 Amazon 游戏，适合在 Linux 上玩 …",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "影音媒体",
+  "subcategory_slug": "streaming",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron",
+    "React"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-18T05:15:39Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Heroic-Games-Launcher/HeroicGamesLauncher/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.22.4",
+    "name": "2.22.4 Hotfix 4",
+    "published": "2026-10-15T02:27:48Z",
+    "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/tag/v2.22.4"
+  },
+  "assets": [
+    {
+      "name": "Heroic-2.22.4-Portable-arm64.exe",
+      "size": 153549800,
+      "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.4/Heroic-2.22.4-Portable-arm64.exe"
+    },
+    {
+      "name": "Heroic-2.22.4-Setup-arm64.exe",
+      "size": 153766816,
+      "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.4/Heroic-2.22.4-Setup-arm64.exe"
+    },
+    {
+      "name": "Heroic-2.22.4-macOS-arm64.zip",
+      "size": 164372354,
+      "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.4/Heroic-2.22.4-macOS-arm64.zip"
+    },
+    {
+      "name": "Heroic-2.22.4-macOS-arm64.dmg",
+      "size": 169869962,
+      "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.4/Heroic-2.22.4-macOS-arm64.dmg"
+    },
+    {
+      "name": "Heroic-2.22.4-linux-arm64.tar.xz",
+      "size": 107161552,
+      "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.4/Heroic-2.22.4-linux-arm64.tar.xz"
+    },
+    {
+      "name": "Heroic-2.22.4-linux-aarch64.rpm",
+      "size": 107951541,
+      "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.4/Heroic-2.22.4-linux-aarch64.rpm"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

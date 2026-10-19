@@ -1,0 +1,68 @@
+{
+  "repo": "luanti-org/luanti",
+  "slug": "luanti-org__luanti",
+  "name": "Luanti",
+  "note_zh": "开源体素游戏平台（原 Minetest），用 Lua 写模组，可自建沙盒世界与服务器。",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏客户端",
+  "subcategory_slug": "client",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Lua",
+    "OpenGL"
+  ],
+  "deploy_type": "客户端 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-18T11:59:56Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/luanti-org/luanti/zip/refs/heads/master",
+  "release": {
+    "tag": "5.17.0",
+    "name": "Luanti 5.17.0",
+    "published": "2026-08-20T17:45:51Z",
+    "url": "https://github.com/luanti-org/luanti/releases/tag/5.17.0"
+  },
+  "assets": [
+    {
+      "name": "luanti-5.17.0.exe",
+      "size": 12137492,
+      "url": "https://github.com/luanti-org/luanti/releases/download/5.17.0/luanti-5.17.0.exe"
+    },
+    {
+      "name": "luanti_5.17.0_macos12.3_arm64.zip",
+      "size": 13619805,
+      "url": "https://github.com/luanti-org/luanti/releases/download/5.17.0/luanti_5.17.0_macos12.3_arm64.zip"
+    },
+    {
+      "name": "luanti_5.17.0_macos12.3_x86_64.zip",
+      "size": 14265525,
+      "url": "https://github.com/luanti-org/luanti/releases/download/5.17.0/luanti_5.17.0_macos12.3_x86_64.zip"
+    },
+    {
+      "name": "luanti-5.17.0-win64.zip",
+      "size": 17539019,
+      "url": "https://github.com/luanti-org/luanti/releases/download/5.17.0/luanti-5.17.0-win64.zip"
+    },
+    {
+      "name": "luanti-5.17.0-armeabi-v7a.apk",
+      "size": 16663144,
+      "url": "https://github.com/luanti-org/luanti/releases/download/5.17.0/luanti-5.17.0-armeabi-v7a.apk"
+    },
+    {
+      "name": "luanti-5.17.0-arm64-v8a.apk",
+      "size": 17515108,
+      "url": "https://github.com/luanti-org/luanti/releases/download/5.17.0/luanti-5.17.0-arm64-v8a.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

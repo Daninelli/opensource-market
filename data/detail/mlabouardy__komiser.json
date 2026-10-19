@@ -1,0 +1,59 @@
+{
+  "repo": "mlabouardy/komiser",
+  "slug": "mlabouardy__komiser",
+  "name": "Komiser",
+  "note_zh": "多云资源清点与成本分析工具，帮团队看清 AWS、GCP、Azure 开销与闲置资源。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "企业资源",
+  "subcategory_slug": "erp",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "AWS",
+    "GCP",
+    "Azure"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-09-10T12:02:26Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/mlabouardy/komiser/zip/refs/heads/develop",
+  "release": {
+    "tag": "v3.1.22",
+    "name": "v3.1.22",
+    "published": "2024-12-02T12:03:39Z",
+    "url": "https://github.com/mlabouardy/komiser/releases/tag/v3.1.22"
+  },
+  "assets": [
+    {
+      "name": "komiser_Windows_x86_64.zip",
+      "size": 61690314,
+      "url": "https://github.com/mlabouardy/komiser/releases/download/v3.1.22/komiser_Windows_x86_64.zip"
+    },
+    {
+      "name": "komiser_Darwin_arm64",
+      "size": 144350962,
+      "url": "https://github.com/mlabouardy/komiser/releases/download/v3.1.22/komiser_Darwin_arm64"
+    },
+    {
+      "name": "komiser_Darwin_x86_64",
+      "size": 148772464,
+      "url": "https://github.com/mlabouardy/komiser/releases/download/v3.1.22/komiser_Darwin_x86_64"
+    },
+    {
+      "name": "komiser_Linux_x86_64",
+      "size": 145783164,
+      "url": "https://github.com/mlabouardy/komiser/releases/download/v3.1.22/komiser_Linux_x86_64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

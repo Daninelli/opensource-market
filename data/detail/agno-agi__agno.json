@@ -1,0 +1,32 @@
+{
+  "repo": "agno-agi/agno",
+  "slug": "agno-agi__agno",
+  "name": "Agno",
+  "note_zh": "Python 智能体开发框架，用于构建、运行和管理多智能体平台。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "AI Agents",
+    "LLM"
+  ],
+  "deploy_type": "源码 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:06:18Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/agno-agi/agno/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

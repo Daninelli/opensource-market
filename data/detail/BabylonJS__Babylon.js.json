@@ -1,0 +1,43 @@
+{
+  "repo": "BabylonJS/Babylon.js",
+  "slug": "BabylonJS__Babylon.js",
+  "name": "Babylon.js",
+  "note_zh": "基于 WebGL 的 3D 游戏与渲染引擎，浏览器里即可搭建场景，适合 Web 3D 开发者。",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏引擎",
+  "subcategory_slug": "engine",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "WebGL",
+    "3D"
+  ],
+  "deploy_type": "前端源码 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-16T13:08:20Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/BabylonJS/Babylon.js/zip/refs/heads/master",
+  "release": {
+    "tag": "9.30.0",
+    "name": "9.30.0",
+    "published": "2026-10-08T07:52:07Z",
+    "url": "https://github.com/BabylonJS/Babylon.js/releases/tag/9.30.0"
+  },
+  "assets": [
+    {
+      "name": "cdnSnapshot.zip",
+      "size": 105382595,
+      "url": "https://github.com/BabylonJS/Babylon.js/releases/download/9.30.0/cdnSnapshot.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,32 @@
+{
+  "repo": "vynect/venom",
+  "slug": "vynect__venom",
+  "name": "Venom",
+  "note_zh": "TypeScript 编写的 WhatsApp 机器人框架，支持多会话与 AI 接入，适合自动客服。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "论坛社区",
+  "subcategory_slug": "forum",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Node.js",
+    "WhatsApp"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-09-09T06:52:22Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/vynect/venom/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

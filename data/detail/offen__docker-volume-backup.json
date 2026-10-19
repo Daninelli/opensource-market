@@ -1,0 +1,33 @@
+{
+  "repo": "offen/docker-volume-backup",
+  "slug": "offen__docker-volume-backup",
+  "name": "Docker-volume-backup",
+  "note_zh": "Docker 卷备份工具，可定时把容器数据备份到本地或 S3 等远端，适合自托管运维。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "私有同步",
+  "subcategory_slug": "sync",
+  "license": "MPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Docker",
+    "S3",
+    "WebDAV"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-06T13:10:14Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/offen/docker-volume-backup/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

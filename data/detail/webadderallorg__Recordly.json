@@ -1,0 +1,68 @@
+{
+  "repo": "webadderallorg/Recordly",
+  "slug": "webadderallorg__Recordly",
+  "name": "Recordly",
+  "note_zh": "跨平台录屏工具，不用剪辑也能做出精致的演示视频，适合产品演示与教学录制。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron",
+    "FFmpeg"
+  ],
+  "deploy_type": "桌面应用 / 客户端",
+  "platform": "github",
+  "updated_at": "2026-10-17T07:32:21Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/webadderallorg/Recordly/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.4.0",
+    "name": "Recordly v1.4.0",
+    "published": "2026-09-08T04:34:51Z",
+    "url": "https://github.com/webadderallorg/Recordly/releases/tag/v1.4.0"
+  },
+  "assets": [
+    {
+      "name": "Recordly-windows-x64.exe",
+      "size": 185307721,
+      "url": "https://github.com/webadderallorg/Recordly/releases/download/v1.4.0/Recordly-windows-x64.exe"
+    },
+    {
+      "name": "Recordly-arm64.dmg",
+      "size": 187987169,
+      "url": "https://github.com/webadderallorg/Recordly/releases/download/v1.4.0/Recordly-arm64.dmg"
+    },
+    {
+      "name": "Recordly-x64.dmg",
+      "size": 199551284,
+      "url": "https://github.com/webadderallorg/Recordly/releases/download/v1.4.0/Recordly-x64.dmg"
+    },
+    {
+      "name": "Recordly-linux-x64.AppImage",
+      "size": 204317716,
+      "url": "https://github.com/webadderallorg/Recordly/releases/download/v1.4.0/Recordly-linux-x64.AppImage"
+    },
+    {
+      "name": "Recordly-arm64.zip",
+      "size": 180839154,
+      "url": "https://github.com/webadderallorg/Recordly/releases/download/v1.4.0/Recordly-arm64.zip"
+    },
+    {
+      "name": "Recordly-x64.zip",
+      "size": 192129288,
+      "url": "https://github.com/webadderallorg/Recordly/releases/download/v1.4.0/Recordly-x64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

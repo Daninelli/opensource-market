@@ -1,0 +1,32 @@
+{
+  "repo": "gatsbyjs/gatsby",
+  "slug": "gatsbyjs__gatsby",
+  "name": "Gatsby",
+  "note_zh": "基于 React 与 GraphQL 的静态站点框架，适合内容站与高性能官网。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "React",
+    "GraphQL"
+  ],
+  "deploy_type": "前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-15T21:35:25Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/gatsbyjs/gatsby/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

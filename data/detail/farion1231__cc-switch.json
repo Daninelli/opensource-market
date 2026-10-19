@@ -1,0 +1,68 @@
+{
+  "repo": "farion1231/cc-switch",
+  "slug": "farion1231__cc-switch",
+  "name": "Cc-switch",
+  "note_zh": "跨平台桌面工具，集中管理与切换 Claude Code、Codex 等多家 AI 编程助手的配置…",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "Tauri",
+    "Desktop"
+  ],
+  "deploy_type": "客户端 / 桌面应用 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:26:56Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/farion1231/cc-switch/zip/refs/heads/main",
+  "release": {
+    "tag": "v4.0.16",
+    "name": "CC Switch v4.0.16",
+    "published": "2026-10-19T10:46:34Z",
+    "url": "https://github.com/farion1231/cc-switch/releases/tag/v4.0.16"
+  },
+  "assets": [
+    {
+      "name": "CC-Switch-v4.0.16-Windows-arm64.msi",
+      "size": 16142336,
+      "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.16/CC-Switch-v4.0.16-Windows-arm64.msi"
+    },
+    {
+      "name": "CC-Switch-v4.0.16-Windows-arm64-Portable.zip",
+      "size": 16430904,
+      "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.16/CC-Switch-v4.0.16-Windows-arm64-Portable.zip"
+    },
+    {
+      "name": "CC-Switch-v4.0.16-macOS.dmg",
+      "size": 35076170,
+      "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.16/CC-Switch-v4.0.16-macOS.dmg"
+    },
+    {
+      "name": "CC-Switch-v4.0.16-macOS.zip",
+      "size": 35135492,
+      "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.16/CC-Switch-v4.0.16-macOS.zip"
+    },
+    {
+      "name": "CC-Switch-v4.0.16-Linux-arm64.deb",
+      "size": 16839128,
+      "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.16/CC-Switch-v4.0.16-Linux-arm64.deb"
+    },
+    {
+      "name": "CC-Switch-v4.0.16-Linux-arm64.rpm",
+      "size": 16839729,
+      "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.16/CC-Switch-v4.0.16-Linux-arm64.rpm"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

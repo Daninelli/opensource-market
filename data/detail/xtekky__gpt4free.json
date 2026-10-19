@@ -1,0 +1,78 @@
+{
+  "repo": "xtekky/gpt4free",
+  "slug": "xtekky__gpt4free",
+  "name": "Gpt4free",
+  "note_zh": "聚合多家大模型服务的 Python 包，提供统一接口免费调用 GPT、DeepSeek 等模型。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "即时通讯",
+  "subcategory_slug": "im",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "LLM",
+    "API"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-18T20:36:27Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/xtekky/gpt4free/zip/refs/heads/main",
+  "release": {
+    "tag": "v8.7.7",
+    "name": "Release v8.7.7",
+    "published": "2026-10-18T09:07:42Z",
+    "url": "https://github.com/xtekky/gpt4free/releases/tag/v8.7.7"
+  },
+  "assets": [
+    {
+      "name": "g4f-go-v8.7.7-darwin-arm64.zip",
+      "size": 2608933,
+      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.7.7/g4f-go-v8.7.7-darwin-arm64.zip"
+    },
+    {
+      "name": "g4f-go-v8.7.7-darwin-amd64.zip",
+      "size": 2784462,
+      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.7.7/g4f-go-v8.7.7-darwin-amd64.zip"
+    },
+    {
+      "name": "g4f-go-v8.7.7-windows-amd64.zip",
+      "size": 2807045,
+      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.7.7/g4f-go-v8.7.7-windows-amd64.zip"
+    },
+    {
+      "name": "g4f-go-v8.7.7-linux-arm64.zip",
+      "size": 2508693,
+      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.7.7/g4f-go-v8.7.7-linux-arm64.zip"
+    },
+    {
+      "name": "g4f-go-v8.7.7-linux-amd64.zip",
+      "size": 2736967,
+      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.7.7/g4f-go-v8.7.7-linux-amd64.zip"
+    },
+    {
+      "name": "g4f-v8.7.7.apk",
+      "size": 32165296,
+      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.7.7/g4f-v8.7.7.apk"
+    },
+    {
+      "name": "g4f-8.7.7.tar.gz",
+      "size": 792278,
+      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.7.7/g4f-8.7.7.tar.gz"
+    },
+    {
+      "name": "g4f-8.7.7-py3-none-any.whl",
+      "size": 884300,
+      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.7.7/g4f-8.7.7-py3-none-any.whl"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

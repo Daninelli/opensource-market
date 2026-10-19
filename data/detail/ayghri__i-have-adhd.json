@@ -1,0 +1,32 @@
+{
+  "repo": "ayghri/i-have-adhd",
+  "slug": "ayghri__i-have-adhd",
+  "name": "I-have-adhd",
+  "note_zh": "约束编码智能体输出格式的技能包，让答案开门见山、不再埋在长篇里。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Agent Skills",
+    "Prompt Engineering"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-11T16:03:54Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/ayghri/i-have-adhd/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,32 @@
+{
+  "repo": "tensorflow/tensorflow",
+  "slug": "tensorflow__tensorflow",
+  "name": "Tensorflow",
+  "note_zh": "Google 开源的机器学习框架，覆盖训练到部署，适合算法工程师。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Python",
+    "Machine Learning"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:13:30Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/tensorflow/tensorflow/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

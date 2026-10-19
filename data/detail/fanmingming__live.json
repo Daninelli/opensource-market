@@ -1,0 +1,32 @@
+{
+  "repo": "fanmingming/live",
+  "slug": "fanmingming__live",
+  "name": "Live",
+  "note_zh": "整理可直接访问的电视广播台标、EPG 与直播源，适合自建 IPTV 播放列表的用户。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "影音媒体",
+  "subcategory_slug": "streaming",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "IPTV",
+    "M3U"
+  ],
+  "deploy_type": "前端源码 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:42:02Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/fanmingming/live/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

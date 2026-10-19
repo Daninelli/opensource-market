@@ -1,0 +1,59 @@
+{
+  "repo": "wal-g/wal-g",
+  "slug": "wal-g__wal-g",
+  "name": "Wal-g",
+  "note_zh": "云数据库归档恢复工具，支持备份到 S3 或 Azure，适合 DBA 使用。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "私有同步",
+  "subcategory_slug": "sync",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "PostgreSQL",
+    "AWS S3",
+    "Azure"
+  ],
+  "deploy_type": "二进制 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:23:18Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/wal-g/wal-g/zip/refs/heads/master",
+  "release": {
+    "tag": "v3.0.9",
+    "name": "v3.0.9",
+    "published": "2026-08-20T14:26:20Z",
+    "url": "https://github.com/wal-g/wal-g/releases/tag/v3.0.9"
+  },
+  "assets": [
+    {
+      "name": "wal-g-fdb-22.04-aarch64.tar.gz",
+      "size": 15238289,
+      "url": "https://github.com/wal-g/wal-g/releases/download/v3.0.9/wal-g-fdb-22.04-aarch64.tar.gz"
+    },
+    {
+      "name": "wal-g-fdb-24.04-aarch64.tar.gz",
+      "size": 15251348,
+      "url": "https://github.com/wal-g/wal-g/releases/download/v3.0.9/wal-g-fdb-24.04-aarch64.tar.gz"
+    },
+    {
+      "name": "wal-g-fdb-22.04-aarch64",
+      "size": 51527480,
+      "url": "https://github.com/wal-g/wal-g/releases/download/v3.0.9/wal-g-fdb-22.04-aarch64"
+    },
+    {
+      "name": "wal-g-fdb-24.04-aarch64",
+      "size": 51552088,
+      "url": "https://github.com/wal-g/wal-g/releases/download/v3.0.9/wal-g-fdb-24.04-aarch64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

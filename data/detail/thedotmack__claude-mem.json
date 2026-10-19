@@ -1,0 +1,32 @@
+{
+  "repo": "thedotmack/claude-mem",
+  "slug": "thedotmack__claude-mem",
+  "name": "Claude-mem",
+  "note_zh": "为 AI 编程代理提供跨会话持久记忆，自动记录并检索历史操作，减少重复交代背景。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "SQLite",
+    "Claude Agent SDK"
+  ],
+  "deploy_type": "源码 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:26:16Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/thedotmack/claude-mem/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

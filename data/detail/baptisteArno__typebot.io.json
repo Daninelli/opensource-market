@@ -1,0 +1,32 @@
+{
+  "repo": "baptisteArno/typebot.io",
+  "slug": "baptisteArno__typebot.io",
+  "name": "Typebot.io",
+  "note_zh": "可自托管的聊天机器人搭建平台，用可视化拖拽流程做对话式表单与营销机器人。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "即时通讯",
+  "subcategory_slug": "im",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Next.js",
+    "Prisma"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:18:34Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/baptisteArno/typebot.io/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

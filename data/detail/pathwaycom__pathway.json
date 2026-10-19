@@ -1,0 +1,58 @@
+{
+  "repo": "pathwaycom/pathway",
+  "slug": "pathwaycom__pathway",
+  "name": "Pathway",
+  "note_zh": "Python 流式 ETL 框架，支持实时分析与 LLM 数据管道，适合搭建增量式数据管线。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "ETL",
+    "Streaming"
+  ],
+  "deploy_type": "依赖库 / 源码 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T05:39:11Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/pathwaycom/pathway/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.32.1",
+    "name": "v0.32.1",
+    "published": "2026-08-01T09:17:35Z",
+    "url": "https://github.com/pathwaycom/pathway/releases/tag/v0.32.1"
+  },
+  "assets": [
+    {
+      "name": "pathway-0.32.1-cp310-abi3-macosx_11_0_arm64.whl",
+      "size": 87052996,
+      "url": "https://github.com/pathwaycom/pathway/releases/download/v0.32.1/pathway-0.32.1-cp310-abi3-macosx_11_0_arm64.whl"
+    },
+    {
+      "name": "pathway-0.32.1-cp310-abi3-macosx_10_15_x86_64.whl",
+      "size": 92468737,
+      "url": "https://github.com/pathwaycom/pathway/releases/download/v0.32.1/pathway-0.32.1-cp310-abi3-macosx_10_15_x86_64.whl"
+    },
+    {
+      "name": "pathway-0.32.1-cp310-abi3-manylinux_2_28_aarch64.whl",
+      "size": 93641247,
+      "url": "https://github.com/pathwaycom/pathway/releases/download/v0.32.1/pathway-0.32.1-cp310-abi3-manylinux_2_28_aarch64.whl"
+    },
+    {
+      "name": "pathway-0.32.1-cp310-abi3-manylinux_2_28_x86_64.whl",
+      "size": 101058462,
+      "url": "https://github.com/pathwaycom/pathway/releases/download/v0.32.1/pathway-0.32.1-cp310-abi3-manylinux_2_28_x86_64.whl"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

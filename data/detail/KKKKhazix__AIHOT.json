@@ -1,0 +1,32 @@
+{
+  "repo": "KKKKhazix/AIHOT",
+  "slug": "KKKKhazix__AIHOT",
+  "name": "AIHOT",
+  "note_zh": "自动抓热点并让大模型写日报的站点框架，换掉信源即可做自己的行业资讯站。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "电子书与阅读",
+  "subcategory_slug": "ebook",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "LLM",
+    "Docker Compose"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:09:55Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/KKKKhazix/AIHOT/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,32 @@
+{
+  "repo": "aframevr/aframe",
+  "slug": "aframevr__aframe",
+  "name": "Aframe",
+  "note_zh": "用 HTML 声明式搭建 WebVR/AR 场景的前端框架，适合做 3D 与虚拟现实网页。",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏客户端",
+  "subcategory_slug": "client",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "WebVR",
+    "Three.js"
+  ],
+  "deploy_type": "前端源码 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-07-13T15:27:11Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/aframevr/aframe/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,32 @@
+{
+  "repo": "mlflow/mlflow",
+  "slug": "mlflow__mlflow",
+  "name": "Mlflow",
+  "note_zh": "开源 AI 工程平台，统一做实验追踪、模型注册与 LLM 评测，适合算法与 MLOps 团队。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Machine Learning",
+    "LLM"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:20:54Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/mlflow/mlflow/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

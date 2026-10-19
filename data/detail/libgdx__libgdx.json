@@ -1,0 +1,32 @@
+{
+  "repo": "libgdx/libgdx",
+  "slug": "libgdx__libgdx",
+  "name": "Libgdx",
+  "note_zh": "跨平台 Java 游戏框架，一套代码发布桌面、Android、iOS 与网页端。",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏客户端",
+  "subcategory_slug": "client",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "OpenGL",
+    "Cross-platform"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-14T07:39:51Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/libgdx/libgdx/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

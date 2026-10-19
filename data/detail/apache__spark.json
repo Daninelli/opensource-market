@@ -1,0 +1,32 @@
+{
+  "repo": "apache/spark",
+  "slug": "apache__spark",
+  "name": "Spark",
+  "note_zh": "统一的大规模数据分析引擎，支持批处理、流计算与 SQL，适合数据工程师与分析团队。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Scala",
+    "Java",
+    "Spark SQL"
+  ],
+  "deploy_type": "二进制 / 源码 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:46:06Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/apache/spark/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

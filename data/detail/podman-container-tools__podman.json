@@ -1,0 +1,68 @@
+{
+  "repo": "podman-container-tools/podman",
+  "slug": "podman-container-tools__podman",
+  "name": "Podman",
+  "note_zh": "无守护进程的 OCI 容器管理工具，兼容 Docker 命令，适合想摆脱 root 运行的开发者。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "OCI",
+    "Containers"
+  ],
+  "deploy_type": "命令行 / 二进制 / 传统部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:41:26Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/podman-container-tools/podman/zip/refs/heads/main",
+  "release": {
+    "tag": "v6.1.4",
+    "name": "v6.1.4",
+    "published": "2026-10-12T20:59:46Z",
+    "url": "https://github.com/podman-container-tools/podman/releases/tag/v6.1.4"
+  },
+  "assets": [
+    {
+      "name": "podman-remote-release-darwin_arm64.zip",
+      "size": 25498436,
+      "url": "https://github.com/podman-container-tools/podman/releases/download/v6.1.4/podman-remote-release-darwin_arm64.zip"
+    },
+    {
+      "name": "podman-installer-windows-arm64.msi",
+      "size": 26292224,
+      "url": "https://github.com/podman-container-tools/podman/releases/download/v6.1.4/podman-installer-windows-arm64.msi"
+    },
+    {
+      "name": "podman-installer-windows-amd64.msi",
+      "size": 28520448,
+      "url": "https://github.com/podman-container-tools/podman/releases/download/v6.1.4/podman-installer-windows-amd64.msi"
+    },
+    {
+      "name": "podman-installer-macos-arm64.pkg",
+      "size": 76099040,
+      "url": "https://github.com/podman-container-tools/podman/releases/download/v6.1.4/podman-installer-macos-arm64.pkg"
+    },
+    {
+      "name": "podman-remote-static-linux_arm64.tar.gz",
+      "size": 21593081,
+      "url": "https://github.com/podman-container-tools/podman/releases/download/v6.1.4/podman-remote-static-linux_arm64.tar.gz"
+    },
+    {
+      "name": "podman-remote-static-linux_amd64.tar.gz",
+      "size": 23549865,
+      "url": "https://github.com/podman-container-tools/podman/releases/download/v6.1.4/podman-remote-static-linux_amd64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

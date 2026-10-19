@@ -1,0 +1,48 @@
+{
+  "repo": "nginx/nginx",
+  "slug": "nginx__nginx",
+  "name": "Nginx",
+  "note_zh": "高性能 Web 服务器与反向代理，支持 HTTP/3 与负载均衡，适合各类站点托管。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "BSD-2-Clause",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C",
+    "HTTP/3",
+    "Load Balancer"
+  ],
+  "deploy_type": "传统部署 / Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-16T16:42:01Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/nginx/nginx/zip/refs/heads/master",
+  "release": {
+    "tag": "release-1.31.7",
+    "name": "release-1.31.7",
+    "published": "2026-10-14T15:18:00Z",
+    "url": "https://github.com/nginx/nginx/releases/tag/release-1.31.7"
+  },
+  "assets": [
+    {
+      "name": "nginx-1.31.7.tar.gz",
+      "size": 1392370,
+      "url": "https://github.com/nginx/nginx/releases/download/release-1.31.7/nginx-1.31.7.tar.gz"
+    },
+    {
+      "name": "nginx-1.31.7.zip",
+      "size": 2795610,
+      "url": "https://github.com/nginx/nginx/releases/download/release-1.31.7/nginx-1.31.7.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

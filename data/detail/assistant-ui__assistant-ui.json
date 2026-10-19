@@ -1,0 +1,32 @@
+{
+  "repo": "assistant-ui/assistant-ui",
+  "slug": "assistant-ui__assistant-ui",
+  "name": "Assistant-ui",
+  "note_zh": "React 的 AI 聊天界面组件库，开箱提供流式对话、附件等 UI，适合快速搭建聊天应用。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "即时通讯",
+  "subcategory_slug": "im",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React",
+    "Radix UI"
+  ],
+  "deploy_type": "依赖库 / 前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:52:07Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/assistant-ui/assistant-ui/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,33 @@
+{
+  "repo": "SCIR-HI/Huatuo-Llama-Med-Chinese",
+  "slug": "SCIR-HI__Huatuo-Llama-Med-Chinese",
+  "name": "Huatuo-Llama-Med-Chinese",
+  "note_zh": "基于中文医学数据指令微调 LLaMA 的项目，提供医疗问答模型与训练脚本。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "LLaMA",
+    "LoRA",
+    "NLP"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-07-04T05:56:23Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/SCIR-HI/Huatuo-Llama-Med-Chinese/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

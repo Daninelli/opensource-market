@@ -1,0 +1,32 @@
+{
+  "repo": "openspug/spug",
+  "slug": "openspug__spug",
+  "name": "Spug",
+  "note_zh": "轻量无 Agent 的自动化运维平台，含主机管理、应用发布与监控告警，适合中小团队。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "资产管理",
+  "subcategory_slug": "asset",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Django",
+    "Vue"
+  ],
+  "deploy_type": "Docker 部署 / 传统部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-12T01:55:45Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "4.0",
+  "download_url": "https://codeload.github.com/openspug/spug/zip/refs/heads/4.0",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

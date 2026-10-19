@@ -1,0 +1,43 @@
+{
+  "repo": "omnivore-app/omnivore",
+  "slug": "omnivore-app__omnivore",
+  "name": "Omnivore",
+  "note_zh": "开源稍后读工具，支持网页剪藏、邮件订阅与高亮标注，适合爱阅读和做笔记的人。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "电子书与阅读",
+  "subcategory_slug": "ebook",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Node.js",
+    "PostgreSQL"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务 / 客户端",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:52:16Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/omnivore-app/omnivore/zip/refs/heads/main",
+  "release": {
+    "tag": "android-0.230.0",
+    "name": "android-0.230.0.apk",
+    "published": "2026-10-14T14:42:00Z",
+    "url": "https://github.com/omnivore-app/omnivore/releases/tag/android-0.230.0"
+  },
+  "assets": [
+    {
+      "name": "omnivore-0.230.0.apk",
+      "size": 146602949,
+      "url": "https://github.com/omnivore-app/omnivore/releases/download/android-0.230.0/omnivore-0.230.0.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

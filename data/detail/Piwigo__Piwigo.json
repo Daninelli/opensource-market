@@ -1,0 +1,32 @@
+{
+  "repo": "Piwigo/Piwigo",
+  "slug": "Piwigo__Piwigo",
+  "name": "Piwigo",
+  "note_zh": "PHP 开源相册系统，自托管管理海量照片，支持分类、标签与权限，适合摄影师和家庭自建图库。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "相册管理",
+  "subcategory_slug": "photos",
+  "license": "GPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "MySQL",
+    "Smarty"
+  ],
+  "deploy_type": "自托管服务 / 传统部署",
+  "platform": "github",
+  "updated_at": "2026-10-15T03:57:14Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/Piwigo/Piwigo/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

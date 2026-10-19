@@ -1,0 +1,32 @@
+{
+  "repo": "opendevops-cn/opendevops",
+  "slug": "opendevops-cn__opendevops",
+  "name": "Opendevops",
+  "note_zh": "多云 DevOps 与自动化运维平台，含 CMDB、CI/CD 与定时任务，适合运维团队。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "资产管理",
+  "subcategory_slug": "asset",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Django",
+    "Ansible"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-04-12T10:42:00Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/opendevops-cn/opendevops/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,48 @@
+{
+  "repo": "lissy93/web-check",
+  "slug": "lissy93__web-check",
+  "name": "Web-check",
+  "note_zh": "网站 OSINT 分析工具，一页汇总 DNS、证书与安全头信息，适合安全自查与侦察。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React",
+    "OSINT"
+  ],
+  "deploy_type": "前端源码 / 自托管服务 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:43:27Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/lissy93/web-check/zip/refs/heads/master",
+  "release": {
+    "tag": "2.3.0",
+    "name": "Web-Check v2.3.0",
+    "published": "2026-10-02T18:51:35Z",
+    "url": "https://github.com/lissy93/web-check/releases/tag/2.3.0"
+  },
+  "assets": [
+    {
+      "name": "web-check-2.3.0.tar.gz",
+      "size": 2549622,
+      "url": "https://github.com/lissy93/web-check/releases/download/2.3.0/web-check-2.3.0.tar.gz"
+    },
+    {
+      "name": "web-check-2.3.0.zip",
+      "size": 2779581,
+      "url": "https://github.com/lissy93/web-check/releases/download/2.3.0/web-check-2.3.0.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

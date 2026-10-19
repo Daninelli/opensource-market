@@ -1,0 +1,63 @@
+{
+  "repo": "herdrdev/herdr",
+  "slug": "herdrdev__herdr",
+  "name": "Herdr",
+  "note_zh": "为编码智能体提供运行时的基础设施，统一调度多个 AI 编程助手。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "AI Agents",
+    "CLI"
+  ],
+  "deploy_type": "源码 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-18T18:57:09Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/herdrdev/herdr/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.9.5",
+    "name": "v0.9.5",
+    "published": "2026-10-14T16:07:28Z",
+    "url": "https://github.com/herdrdev/herdr/releases/tag/v0.9.5"
+  },
+  "assets": [
+    {
+      "name": "herdr-windows-x86_64.zip",
+      "size": 10037141,
+      "url": "https://github.com/herdrdev/herdr/releases/download/v0.9.5/herdr-windows-x86_64.zip"
+    },
+    {
+      "name": "herdr-macos-aarch64",
+      "size": 22536176,
+      "url": "https://github.com/herdrdev/herdr/releases/download/v0.9.5/herdr-macos-aarch64"
+    },
+    {
+      "name": "herdr-macos-x86_64",
+      "size": 24367600,
+      "url": "https://github.com/herdrdev/herdr/releases/download/v0.9.5/herdr-macos-x86_64"
+    },
+    {
+      "name": "herdr-linux-aarch64",
+      "size": 27900752,
+      "url": "https://github.com/herdrdev/herdr/releases/download/v0.9.5/herdr-linux-aarch64"
+    },
+    {
+      "name": "herdr-linux-x86_64",
+      "size": 30285672,
+      "url": "https://github.com/herdrdev/herdr/releases/download/v0.9.5/herdr-linux-x86_64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

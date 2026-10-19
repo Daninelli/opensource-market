@@ -1,0 +1,32 @@
+{
+  "repo": "playcanvas/engine",
+  "slug": "playcanvas__engine",
+  "name": "Engine",
+  "note_zh": "基于 WebGL、WebGPU 与 glTF 的网页 3D 运行时，适合浏览器端高性能图形开发。",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏引擎",
+  "subcategory_slug": "engine",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "WebGL",
+    "WebGPU"
+  ],
+  "deploy_type": "依赖库 / 前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:23:06Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/playcanvas/engine/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

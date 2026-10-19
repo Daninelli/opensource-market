@@ -18,7 +18,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T03:14:31Z",
+  "updated_at": "2026-10-19T12:17:25Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/lukevella/rallly/zip/refs/heads/main",

@@ -1,0 +1,32 @@
+{
+  "repo": "openimsdk/open-im-server",
+  "slug": "openimsdk__open-im-server",
+  "name": "Open-im-server",
+  "note_zh": "Go 编写的开源即时通讯服务端，提供消息存储与多端同步，适合自建 IM 应用的团队做后端。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "论坛社区",
+  "subcategory_slug": "forum",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "gRPC",
+    "MongoDB"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-16T08:34:40Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/openimsdk/open-im-server/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

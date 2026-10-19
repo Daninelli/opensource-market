@@ -1,0 +1,32 @@
+{
+  "repo": "screenpipe/screenpipe",
+  "slug": "screenpipe__screenpipe",
+  "name": "Screenpipe",
+  "note_zh": "持续录制屏幕与音频并本地索引的桌面应用，为 AI 代理提供完整工作记忆。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "Tauri",
+    "SQLite"
+  ],
+  "deploy_type": "桌面应用 / 客户端 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T00:08:39Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/screenpipe/screenpipe/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

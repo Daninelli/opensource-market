@@ -1,0 +1,78 @@
+{
+  "repo": "caddyserver/caddy",
+  "slug": "caddyserver__caddy",
+  "name": "Caddy",
+  "note_zh": "自带自动 HTTPS 的跨平台 Web 服务器，配置简单，适合搭建反向代理与静态站点。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "HTTPS",
+    "ACME"
+  ],
+  "deploy_type": "二进制 / 传统部署 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:19:31Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/caddyserver/caddy/zip/refs/heads/master",
+  "release": {
+    "tag": "v2.11.7",
+    "name": "v2.11.7",
+    "published": "2026-10-03T05:58:33Z",
+    "url": "https://github.com/caddyserver/caddy/releases/tag/v2.11.7"
+  },
+  "assets": [
+    {
+      "name": "caddy_2.11.7_windows_arm64.zip",
+      "size": 16545448,
+      "url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_windows_arm64.zip"
+    },
+    {
+      "name": "caddy_2.11.7_mac_arm64.tar.gz",
+      "size": 17297953,
+      "url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_mac_arm64.tar.gz"
+    },
+    {
+      "name": "caddy_2.11.7_windows_amd64.zip",
+      "size": 18479498,
+      "url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_windows_amd64.zip"
+    },
+    {
+      "name": "caddy_2.11.7_mac_amd64.tar.gz",
+      "size": 18551994,
+      "url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_mac_amd64.tar.gz"
+    },
+    {
+      "name": "caddy_2.11.7_linux_ppc64le.tar.gz",
+      "size": 16480936,
+      "url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_ppc64le.tar.gz"
+    },
+    {
+      "name": "caddy_2.11.7_linux_arm64.tar.gz",
+      "size": 16485181,
+      "url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_arm64.tar.gz"
+    },
+    {
+      "name": "caddy_2.11.7_buildable-artifact.tar.gz",
+      "size": 11549989,
+      "url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_buildable-artifact.tar.gz"
+    },
+    {
+      "name": "caddy_2.11.7_src.tar.gz",
+      "size": 12019661,
+      "url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_src.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

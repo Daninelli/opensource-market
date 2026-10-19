@@ -1,0 +1,32 @@
+{
+  "repo": "jnMetaCode/agency-agents-zh",
+  "slug": "jnMetaCode__agency-agents-zh",
+  "name": "Agency-agents-zh",
+  "note_zh": "277 个中文 AI 专家角色提示词集，覆盖二十个部门，可用于 Claude Code 等工具。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "低代码平台",
+  "subcategory_slug": "low-code",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Shell",
+    "Prompt Engineering",
+    "Claude Code"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:40:51Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/jnMetaCode/agency-agents-zh/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

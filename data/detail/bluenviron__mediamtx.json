@@ -1,0 +1,64 @@
+{
+  "repo": "bluenviron/mediamtx",
+  "slug": "bluenviron__mediamtx",
+  "name": "Mediamtx",
+  "note_zh": "即装即用的流媒体服务器，支持 SRT、WebRTC、RTSP、RTMP 等多协议推拉流。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "WebRTC",
+    "RTSP",
+    "HLS"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-18T20:20:47Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/bluenviron/mediamtx/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.21.2",
+    "name": "v1.21.2",
+    "published": "2026-10-08T21:42:39Z",
+    "url": "https://github.com/bluenviron/mediamtx/releases/tag/v1.21.2"
+  },
+  "assets": [
+    {
+      "name": "mediamtx_v1.21.2_darwin_arm64.tar.gz",
+      "size": 27460441,
+      "url": "https://github.com/bluenviron/mediamtx/releases/download/v1.21.2/mediamtx_v1.21.2_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "mediamtx_v1.21.2_windows_amd64.zip",
+      "size": 28583662,
+      "url": "https://github.com/bluenviron/mediamtx/releases/download/v1.21.2/mediamtx_v1.21.2_windows_amd64.zip"
+    },
+    {
+      "name": "mediamtx_v1.21.2_darwin_amd64.tar.gz",
+      "size": 29318862,
+      "url": "https://github.com/bluenviron/mediamtx/releases/download/v1.21.2/mediamtx_v1.21.2_darwin_amd64.tar.gz"
+    },
+    {
+      "name": "mediamtx_v1.21.2_linux_amd64.tar.gz",
+      "size": 28345997,
+      "url": "https://github.com/bluenviron/mediamtx/releases/download/v1.21.2/mediamtx_v1.21.2_linux_amd64.tar.gz"
+    },
+    {
+      "name": "mediamtx_v1.21.2_linux_arm64.tar.gz",
+      "size": 30503607,
+      "url": "https://github.com/bluenviron/mediamtx/releases/download/v1.21.2/mediamtx_v1.21.2_linux_arm64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

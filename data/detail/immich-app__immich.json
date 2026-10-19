@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-18T16:51:32Z",
+  "updated_at": "2026-10-19T12:14:57Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/immich-app/immich/zip/refs/heads/main",

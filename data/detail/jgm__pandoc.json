@@ -1,0 +1,73 @@
+{
+  "repo": "jgm/pandoc",
+  "slug": "jgm__pandoc",
+  "name": "Pandoc",
+  "note_zh": "万能文档格式转换器，在 Markdown、DOCX、PDF、LaTeX 间互转。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "GPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Haskell",
+    "Markdown",
+    "CLI"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T05:28:46Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/jgm/pandoc/zip/refs/heads/main",
+  "release": {
+    "tag": "3.12.1",
+    "name": "pandoc 3.12.1",
+    "published": "2026-10-08T01:48:41Z",
+    "url": "https://github.com/jgm/pandoc/releases/tag/3.12.1"
+  },
+  "assets": [
+    {
+      "name": "pandoc-3.12.1-x86_64-macOS.pkg",
+      "size": 26440373,
+      "url": "https://github.com/jgm/pandoc/releases/download/3.12.1/pandoc-3.12.1-x86_64-macOS.pkg"
+    },
+    {
+      "name": "pandoc-3.12.1-x86_64-macOS.zip",
+      "size": 26487481,
+      "url": "https://github.com/jgm/pandoc/releases/download/3.12.1/pandoc-3.12.1-x86_64-macOS.zip"
+    },
+    {
+      "name": "pandoc-3.12.1-windows-x86_64.msi",
+      "size": 41869312,
+      "url": "https://github.com/jgm/pandoc/releases/download/3.12.1/pandoc-3.12.1-windows-x86_64.msi"
+    },
+    {
+      "name": "pandoc-3.12.1-windows-x86_64.zip",
+      "size": 42154914,
+      "url": "https://github.com/jgm/pandoc/releases/download/3.12.1/pandoc-3.12.1-windows-x86_64.zip"
+    },
+    {
+      "name": "pandoc-3.12.1-1-amd64.deb",
+      "size": 34790312,
+      "url": "https://github.com/jgm/pandoc/releases/download/3.12.1/pandoc-3.12.1-1-amd64.deb"
+    },
+    {
+      "name": "pandoc-3.12.1-linux-amd64.tar.gz",
+      "size": 35363545,
+      "url": "https://github.com/jgm/pandoc/releases/download/3.12.1/pandoc-3.12.1-linux-amd64.tar.gz"
+    },
+    {
+      "name": "pandoc-3.12.1.wasm.zip",
+      "size": 16737256,
+      "url": "https://github.com/jgm/pandoc/releases/download/3.12.1/pandoc-3.12.1.wasm.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,32 @@
+{
+  "repo": "ever-co/ever-demand",
+  "slug": "ever-co__ever-demand",
+  "name": "Ever-demand",
+  "note_zh": "开源多商户电商与同城配送平台，含商家后台、骑手端与订单调度，适合自建本地生活平台。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "企业资源",
+  "subcategory_slug": "erp",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "NestJS",
+    "Angular"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-09-27T15:52:25Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/ever-co/ever-demand/zip/refs/heads/develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

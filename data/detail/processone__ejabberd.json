@@ -1,0 +1,48 @@
+{
+  "repo": "processone/ejabberd",
+  "slug": "processone__ejabberd",
+  "name": "Ejabberd",
+  "note_zh": "Erlang 编写的 XMPP 消息服务器，可支撑大规模集群，适合自建聊天与 IoT 通道。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "论坛社区",
+  "subcategory_slug": "forum",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Erlang",
+    "XMPP",
+    "MQTT"
+  ],
+  "deploy_type": "自托管服务 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-18T19:30:53Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/processone/ejabberd/zip/refs/heads/master",
+  "release": {
+    "tag": "26.09",
+    "name": "26.09",
+    "published": "2026-09-30T09:34:01Z",
+    "url": "https://github.com/processone/ejabberd/releases/tag/26.09"
+  },
+  "assets": [
+    {
+      "name": "ejabberd-26.09-1-linux-x64.run",
+      "size": 22973387,
+      "url": "https://github.com/processone/ejabberd/releases/download/26.09/ejabberd-26.09-1-linux-x64.run"
+    },
+    {
+      "name": "ejabberd_26.09-1_amd64.deb",
+      "size": 23051932,
+      "url": "https://github.com/processone/ejabberd/releases/download/26.09/ejabberd_26.09-1_amd64.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T04:34:54Z",
+  "updated_at": "2026-10-19T12:19:07Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/mastodon/mastodon/zip/refs/heads/main",

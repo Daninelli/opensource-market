@@ -1,0 +1,32 @@
+{
+  "repo": "imputnet/cobalt",
+  "slug": "imputnet__cobalt",
+  "name": "Cobalt",
+  "note_zh": "开源媒体下载器，粘贴链接即可保存各平台视频与音频，界面清爽，适合需要离线收藏内容的普通用户。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "团队协作",
+  "subcategory_slug": "collaboration",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Svelte",
+    "Node.js",
+    "Docker"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-04-06T11:59:56Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/imputnet/cobalt/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

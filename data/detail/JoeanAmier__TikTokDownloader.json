@@ -1,0 +1,58 @@
+{
+  "repo": "JoeanAmier/TikTokDownloader",
+  "slug": "JoeanAmier__TikTokDownloader",
+  "name": "TikTokDownloader",
+  "note_zh": "抖音与 TikTok 作品批量下载及数据采集脚本，支持 Docker 运行，适合素材归档与内容分析。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "FastAPI",
+    "Docker"
+  ],
+  "deploy_type": "Docker 部署 / 源码 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-09-22T13:49:13Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/JoeanAmier/TikTokDownloader/zip/refs/heads/master",
+  "release": {
+    "tag": "5.8",
+    "name": "DouK-Downloader V5.8",
+    "published": "2026-09-13T11:10:11Z",
+    "url": "https://github.com/JoeanAmier/TikTokDownloader/releases/tag/5.8"
+  },
+  "assets": [
+    {
+      "name": "DouK-Downloader_V5.8_Windows_X64.zip",
+      "size": 25350967,
+      "url": "https://github.com/JoeanAmier/TikTokDownloader/releases/download/5.8/DouK-Downloader_V5.8_Windows_X64.zip"
+    },
+    {
+      "name": "DouK-Downloader_V5.8_Windows_ARM64.zip",
+      "size": 25351962,
+      "url": "https://github.com/JoeanAmier/TikTokDownloader/releases/download/5.8/DouK-Downloader_V5.8_Windows_ARM64.zip"
+    },
+    {
+      "name": "DouK-Downloader_V5.8_macOS_X64.zip",
+      "size": 33417665,
+      "url": "https://github.com/JoeanAmier/TikTokDownloader/releases/download/5.8/DouK-Downloader_V5.8_macOS_X64.zip"
+    },
+    {
+      "name": "DouK-Downloader_V5.8_macOS_ARM64.zip",
+      "size": 36959216,
+      "url": "https://github.com/JoeanAmier/TikTokDownloader/releases/download/5.8/DouK-Downloader_V5.8_macOS_ARM64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

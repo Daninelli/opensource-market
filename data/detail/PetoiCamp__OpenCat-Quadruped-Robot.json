@@ -1,0 +1,48 @@
+{
+  "repo": "PetoiCamp/OpenCat-Quadruped-Robot",
+  "slug": "PetoiCamp__OpenCat-Quadruped-Robot",
+  "name": "OpenCat-Quadruped-Robot",
+  "note_zh": "开源四足机器人框架，含步态算法与图形化编程，适合机器人教学与创客开发。",
+  "category": "教育",
+  "category_slug": "education",
+  "subcategory": "在线学习",
+  "subcategory_slug": "lms",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Arduino",
+    "Robotics"
+  ],
+  "deploy_type": "源码 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-09-08T04:50:11Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/PetoiCamp/OpenCat-Quadruped-Robot/zip/refs/heads/main",
+  "release": {
+    "tag": "1.2.5",
+    "name": "PetoiDesktopApp",
+    "published": "2025-06-23T10:20:29Z",
+    "url": "https://github.com/PetoiCamp/OpenCat-Quadruped-Robot/releases/tag/1.2.5"
+  },
+  "assets": [
+    {
+      "name": "Petoi.Desktop.App1.2.5_Win.zip",
+      "size": 33302432,
+      "url": "https://github.com/PetoiCamp/OpenCat-Quadruped-Robot/releases/download/1.2.5/Petoi.Desktop.App1.2.5_Win.zip"
+    },
+    {
+      "name": "Petoi_Desktop_App_1.2.5.dmg.zip",
+      "size": 32726262,
+      "url": "https://github.com/PetoiCamp/OpenCat-Quadruped-Robot/releases/download/1.2.5/Petoi_Desktop_App_1.2.5.dmg.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

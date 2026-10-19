@@ -1,0 +1,43 @@
+{
+  "repo": "Qloapps/QloApps",
+  "slug": "Qloapps__QloApps",
+  "name": "QloApps",
+  "note_zh": "开源的酒店管理与在线预订系统，含房态、订单与预订引擎，适合中小酒店。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "OSL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "MySQL",
+    "CMS"
+  ],
+  "deploy_type": "源码 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-17T09:36:19Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/Qloapps/QloApps/zip/refs/heads/develop",
+  "release": {
+    "tag": "v1.7.0",
+    "name": "QloApps 1.7.0",
+    "published": "2025-07-04T13:42:30Z",
+    "url": "https://github.com/Qloapps/QloApps/releases/tag/v1.7.0"
+  },
+  "assets": [
+    {
+      "name": "qloapps-1.7.0.zip",
+      "size": 46550575,
+      "url": "https://github.com/Qloapps/QloApps/releases/download/v1.7.0/qloapps-1.7.0.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

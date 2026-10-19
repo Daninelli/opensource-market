@@ -1,0 +1,48 @@
+{
+  "repo": "JunkFood02/Seal",
+  "slug": "JunkFood02__Seal",
+  "name": "Seal",
+  "note_zh": "Android 音视频下载客户端，基于 yt-dlp，可从 YouTube 等站点保存媒体文件。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Kotlin",
+    "Jetpack Compose",
+    "yt-dlp"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-09-25T15:35:51Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/JunkFood02/Seal/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.13.1",
+    "name": "v1.13.1",
+    "published": "2024-10-16T17:00:00Z",
+    "url": "https://github.com/JunkFood02/Seal/releases/tag/v1.13.1"
+  },
+  "assets": [
+    {
+      "name": "Seal-1.13.1-armeabi-v7a-release.apk",
+      "size": 40611853,
+      "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-armeabi-v7a-release.apk"
+    },
+    {
+      "name": "Seal-1.13.1-arm64-v8a-release.apk",
+      "size": 43069442,
+      "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-arm64-v8a-release.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

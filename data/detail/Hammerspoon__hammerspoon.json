@@ -1,0 +1,43 @@
+{
+  "repo": "Hammerspoon/hammerspoon",
+  "slug": "Hammerspoon__hammerspoon",
+  "name": "Hammerspoon",
+  "note_zh": "macOS 桌面自动化工具，用 Lua 控制窗口与快捷键，适合爱折腾的 Mac 用户。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Lua",
+    "Objective-C",
+    "macOS"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-07-08T21:13:24Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/Hammerspoon/hammerspoon/zip/refs/heads/master",
+  "release": {
+    "tag": "1.1.1",
+    "name": "1.1.1",
+    "published": "2026-02-26T10:52:34Z",
+    "url": "https://github.com/Hammerspoon/hammerspoon/releases/tag/1.1.1"
+  },
+  "assets": [
+    {
+      "name": "Hammerspoon-1.1.1.zip",
+      "size": 9704557,
+      "url": "https://github.com/Hammerspoon/hammerspoon/releases/download/1.1.1/Hammerspoon-1.1.1.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

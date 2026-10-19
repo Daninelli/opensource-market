@@ -1,0 +1,48 @@
+{
+  "repo": "x64dbg/x64dbg",
+  "slug": "x64dbg__x64dbg",
+  "name": "X64dbg",
+  "note_zh": "Windows 用户态调试器，支持反汇编与动态分析，适合逆向工程与恶意样本研究。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Windows",
+    "Debugger"
+  ],
+  "deploy_type": "桌面应用 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-18T12:08:57Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "development",
+  "download_url": "https://codeload.github.com/x64dbg/x64dbg/zip/refs/heads/development",
+  "release": {
+    "tag": "2026.05.27",
+    "name": "2026.05.27",
+    "published": "2026-05-27T13:04:55Z",
+    "url": "https://github.com/x64dbg/x64dbg/releases/tag/2026.05.27"
+  },
+  "assets": [
+    {
+      "name": "x64dbg-pluginsdk-cmake.zip",
+      "size": 104642,
+      "url": "https://github.com/x64dbg/x64dbg/releases/download/2026.05.27/x64dbg-pluginsdk-cmake.zip"
+    },
+    {
+      "name": "x64dbg-pluginsdk.zip",
+      "size": 108710,
+      "url": "https://github.com/x64dbg/x64dbg/releases/download/2026.05.27/x64dbg-pluginsdk.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

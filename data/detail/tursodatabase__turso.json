@@ -1,0 +1,73 @@
+{
+  "repo": "tursodatabase/turso",
+  "slug": "tursodatabase__turso",
+  "name": "Turso",
+  "note_zh": "Rust 编写的 SQLite 兼容 SQL 数据库，可嵌入也可作服务端，适合边缘与低延迟场景。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "SQLite",
+    "SQL"
+  ],
+  "deploy_type": "依赖库 / 二进制 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:13:08Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/tursodatabase/turso/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.8.3",
+    "name": "v0.8.3",
+    "published": "2026-10-12T15:03:37Z",
+    "url": "https://github.com/tursodatabase/turso/releases/tag/v0.8.3"
+  },
+  "assets": [
+    {
+      "name": "turso_cli-aarch64-apple-darwin.tar.xz",
+      "size": 5472828,
+      "url": "https://github.com/tursodatabase/turso/releases/download/v0.8.3/turso_cli-aarch64-apple-darwin.tar.xz"
+    },
+    {
+      "name": "turso_cli-x86_64-apple-darwin.tar.xz",
+      "size": 6727276,
+      "url": "https://github.com/tursodatabase/turso/releases/download/v0.8.3/turso_cli-x86_64-apple-darwin.tar.xz"
+    },
+    {
+      "name": "turso_cli-aarch64-pc-windows-msvc.zip",
+      "size": 7591165,
+      "url": "https://github.com/tursodatabase/turso/releases/download/v0.8.3/turso_cli-aarch64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "turso_cli-x86_64-pc-windows-msvc.zip",
+      "size": 8085744,
+      "url": "https://github.com/tursodatabase/turso/releases/download/v0.8.3/turso_cli-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "turso_cli-aarch64-unknown-linux-gnu.tar.xz",
+      "size": 18336456,
+      "url": "https://github.com/tursodatabase/turso/releases/download/v0.8.3/turso_cli-aarch64-unknown-linux-gnu.tar.xz"
+    },
+    {
+      "name": "turso_cli-x86_64-unknown-linux-gnu.tar.xz",
+      "size": 19335772,
+      "url": "https://github.com/tursodatabase/turso/releases/download/v0.8.3/turso_cli-x86_64-unknown-linux-gnu.tar.xz"
+    },
+    {
+      "name": "source.tar.gz",
+      "size": 16814838,
+      "url": "https://github.com/tursodatabase/turso/releases/download/v0.8.3/source.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

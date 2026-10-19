@@ -1,0 +1,43 @@
+{
+  "repo": "GreaterWMS/GreaterWMS",
+  "slug": "GreaterWMS__GreaterWMS",
+  "name": "GreaterWMS",
+  "note_zh": "开源仓库管理系统，支持出入库、库存与物流管理，适合电商与仓储企业。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "企业资源",
+  "subcategory_slug": "erp",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Django",
+    "Vue"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-13T05:44:26Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/GreaterWMS/GreaterWMS/zip/refs/heads/master",
+  "release": {
+    "tag": "V2.1.52",
+    "name": "GreaterWMS V2.1.52",
+    "published": "2026-09-15T01:50:50Z",
+    "url": "https://github.com/GreaterWMS/GreaterWMS/releases/tag/V2.1.52"
+  },
+  "assets": [
+    {
+      "name": "GreaterWMS.V2.1.52.zip",
+      "size": 300741220,
+      "url": "https://github.com/GreaterWMS/GreaterWMS/releases/download/V2.1.52/GreaterWMS.V2.1.52.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

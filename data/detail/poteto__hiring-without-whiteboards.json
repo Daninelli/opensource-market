@@ -1,0 +1,32 @@
+{
+  "repo": "poteto/hiring-without-whiteboards",
+  "slug": "poteto__hiring-without-whiteboards",
+  "name": "Hiring-without-whiteboards",
+  "note_zh": "汇总不做白板面试的科技公司名单，帮求职者避开畸形的招聘流程。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Airtable",
+    "HTML"
+  ],
+  "deploy_type": "前端源码",
+  "platform": "github",
+  "updated_at": "2026-09-24T04:48:39Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/poteto/hiring-without-whiteboards/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

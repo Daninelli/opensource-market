@@ -1,0 +1,32 @@
+{
+  "repo": "plait-board/drawnix",
+  "slug": "plait-board__drawnix",
+  "name": "Drawnix",
+  "note_zh": "开源一体化白板，思维导图、流程图与自由绘画都在同一块画布，适合做方案梳理和头脑风暴的个人与团队。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "团队协作",
+  "subcategory_slug": "collaboration",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React",
+    "Canvas"
+  ],
+  "deploy_type": "前端源码",
+  "platform": "github",
+  "updated_at": "2026-09-08T03:15:08Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/plait-board/drawnix/zip/refs/heads/develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

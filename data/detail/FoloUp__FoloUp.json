@@ -1,0 +1,32 @@
+{
+  "repo": "FoloUp/FoloUp",
+  "slug": "FoloUp__FoloUp",
+  "name": "FoloUp",
+  "note_zh": "自建 AI 语音面试官，自动进行电话初筛面试并生成评估，适合招聘团队。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "人力资源",
+  "subcategory_slug": "hr",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Next.js",
+    "Voice AI"
+  ],
+  "deploy_type": "源码 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-17T08:55:53Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/FoloUp/FoloUp/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

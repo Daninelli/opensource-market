@@ -151,6 +151,21 @@
         }
     ];
 
+    /** 形态（kind）展示名：与分类正交的「交付形态」维度，默认 app 不展示 */
+    var KIND_LABELS = {
+        client: "客户端",
+        cli: "命令行",
+        framework: "框架",
+        library: "库 / SDK",
+        skill: "技能包"
+    };
+
+    /** 协议展示名：GitHub 未识别的 NOASSERTION 统一显示为「协议待核」 */
+    function formatLicense(value) {
+        if (!value || /^NOASSERTION$/i.test(String(value).trim())) return "协议待核";
+        return value;
+    }
+
     /** 每个分区的二级筛选状态：{ 一级slug: "all" | 二级slug } */
     var state = {
         projects: [],
@@ -158,7 +173,7 @@
         sub: {}
     };
 
-    var els = { nav: null, app: null, status: null, search: null };
+    var els = { nav: null, app: null, status: null, search: null, palette: null, paletteResults: null, searchTrigger: null };
 
     document.addEventListener("DOMContentLoaded", init);
 
@@ -167,6 +182,9 @@
         els.app = document.getElementById("app");
         els.status = document.getElementById("status");
         els.search = document.getElementById("search");
+        els.palette = document.getElementById("palette");
+        els.paletteResults = document.getElementById("palette-results");
+        els.searchTrigger = document.getElementById("search-trigger");
 
         fetch(DATA_URL + CACHE_BUST, { cache: "no-store" })
             .then(function (response) {
@@ -257,8 +275,8 @@
                 behavior: reduced ? "auto" : "smooth"
             });
 
-            // 键盘/读屏用户点击后把焦点交回页面顶部搜索框，避免焦点留在按钮上
-            if (els.search) els.search.focus({ preventScroll: true });
+            // 键盘/读屏用户点击后打开搜索面板，避免焦点留在按钮上
+            openPalette();
         });
     }
 
@@ -275,27 +293,163 @@
         });
     }
 
+    /* ------------------------------ 搜索（命令面板） ------------------------------ */
+
+    /** 命令面板状态：是否打开、当前高亮项、当前结果 */
+    var palette = { open: false, index: -1, items: [] };
+
     function bindSearch() {
-        if (!els.search) return;
+        if (!els.palette || !els.search) return;
         var timer = null;
+
+        /* 输入即筛选（面板内实时结果，不打断页面滚动位置） */
         els.search.addEventListener("input", function () {
             clearTimeout(timer);
             timer = setTimeout(function () {
-                state.query = els.search.value.trim().toLowerCase();
-                renderAll();
-            }, 120);
+                renderPalette(els.search.value.trim().toLowerCase());
+            }, 80);
         });
+
+        /* 键盘：↑↓ 选择 / Enter 打开详情 / Esc 关闭 */
+        els.search.addEventListener("keydown", function (event) {
+            if (event.key === "ArrowDown") {
+                event.preventDefault();
+                movePalette(1);
+            } else if (event.key === "ArrowUp") {
+                event.preventDefault();
+                movePalette(-1);
+            } else if (event.key === "Enter") {
+                event.preventDefault();
+                openPaletteItem(palette.index);
+            } else if (event.key === "Escape") {
+                event.preventDefault();
+                closePalette();
+            }
+        });
+
+        /* 打开入口：吸顶条搜索按钮 / 点遮罩关闭 / 点结果进详情 */
+        if (els.searchTrigger) {
+            els.searchTrigger.addEventListener("click", function () {
+                openPalette();
+            });
+        }
+        els.palette.addEventListener("click", function (event) {
+            if (event.target.closest && event.target.closest("[data-close-palette]")) {
+                closePalette();
+            }
+        });
+        els.paletteResults.addEventListener("click", function (event) {
+            var row = event.target.closest ? event.target.closest("[data-repo]") : null;
+            if (row) {
+                window.location.href = "detail.html?repo=" + encodeURIComponent(row.getAttribute("data-repo"));
+            }
+        });
+
+        /* 全局快捷键：/ 或 Ctrl/⌘+K 打开；Esc 关闭 */
         document.addEventListener("keydown", function (event) {
             var tag = (event.target && event.target.tagName) || "";
-            if (event.key === "/" && tag !== "INPUT" && tag !== "TEXTAREA") {
+            var typing =
+                tag === "INPUT" ||
+                tag === "TEXTAREA" ||
+                (event.target && event.target.isContentEditable);
+            var isCmdK = (event.metaKey || event.ctrlKey) && (event.key === "k" || event.key === "K");
+            if ((event.key === "/" && !typing) || isCmdK) {
                 event.preventDefault();
-                els.search.focus();
+                openPalette();
+            } else if (event.key === "Escape" && palette.open) {
+                closePalette();
             }
         });
     }
 
+    function openPalette() {
+        if (!els.palette || palette.open) return;
+        palette.open = true;
+        els.palette.hidden = false;
+        document.body.classList.add("palette-open");
+        els.search.value = "";
+        renderPalette("");
+        requestAnimationFrame(function () {
+            els.search.focus();
+        });
+    }
+
+    function closePalette() {
+        if (!els.palette || !palette.open) return;
+        palette.open = false;
+        els.palette.hidden = true;
+        document.body.classList.remove("palette-open");
+        els.search.blur();
+    }
+
+    function openPaletteItem(index) {
+        var item = palette.items[index];
+        if (!item || !item.repo) return;
+        window.location.href = "detail.html?repo=" + encodeURIComponent(item.repo);
+    }
+
+    /** 渲染面板结果：空查询给热门（按 star），有查询给匹配项 */
+    function renderPalette(query) {
+        if (!els.paletteResults) return;
+        var list;
+        if (!query) {
+            list = state.projects
+                .slice()
+                .sort(function (a, b) { return (b.stars || 0) - (a.stars || 0); })
+                .slice(0, 8);
+        } else {
+            list = state.projects.filter(function (project) {
+                return matchProject(project, query);
+            }).slice(0, 20);
+        }
+        palette.items = list;
+        palette.index = list.length ? 0 : -1;
+
+        if (!list.length) {
+            els.paletteResults.innerHTML =
+                '<p class="palette-empty">没有匹配「' + escapeHtml(query) + '」的项目</p>';
+            return;
+        }
+
+        els.paletteResults.innerHTML =
+            (query ? "" : '<p class="palette-section">热门项目</p>') +
+            list
+                .map(function (project, i) {
+                    var meta = [project.subcategory || project.category || "", formatLicense(project.license)]
+                        .filter(Boolean)
+                        .join(" · ");
+                    return (
+                        '<button type="button" class="palette-item' + (i === 0 ? " is-active" : "") +
+                        '" data-repo="' + escapeHtml(project.repo) + '" role="option" aria-selected="' +
+                        (i === 0 ? "true" : "false") + '">' +
+                        '<span class="palette-name">' + escapeHtml(project.name || "未命名项目") + "</span>" +
+                        '<span class="palette-meta">' + escapeHtml(meta) + "</span>" +
+                        '<span class="palette-desc">' + escapeHtml(project.note_zh || "") + "</span>" +
+                        "</button>"
+                    );
+                })
+                .join("");
+    }
+
+    function movePalette(delta) {
+        if (!palette.items.length) return;
+        palette.index = (palette.index + delta + palette.items.length) % palette.items.length;
+        var rows = els.paletteResults.querySelectorAll(".palette-item");
+        Array.prototype.forEach.call(rows, function (row, i) {
+            row.classList.toggle("is-active", i === palette.index);
+            row.setAttribute("aria-selected", i === palette.index ? "true" : "false");
+        });
+        var active = rows[palette.index];
+        if (active && active.scrollIntoView) active.scrollIntoView({ block: "nearest" });
+    }
+
     function matchesQuery(project) {
-        if (!state.query) return true;
+        return matchProject(project, state.query);
+    }
+
+    /** 命令面板用：按任意查询词匹配项目（名称 / 简介 / 仓库 / 分类 / 协议 / 技术栈 / 形态） */
+    function matchProject(project, query) {
+        if (!query) return true;
         var haystack = [
             project.name,
             project.note_zh,
@@ -304,11 +458,12 @@
             project.subcategory,
             project.license,
             project.deploy_type,
+            project.kind,
             (project.tech_stack || []).join(" ")
         ]
             .join(" ")
             .toLowerCase();
-        return haystack.indexOf(state.query) !== -1;
+        return haystack.indexOf(query) !== -1;
     }
 
     /* ------------------------------ 分类解析 ------------------------------ */
@@ -950,6 +1105,8 @@
         /* 标签：全部展示，最多两行（数据里最多 6 个，放得下） */
         var sub = resolveSubcategory(project, primary);
         var tagList = [];
+        var kindLabel = KIND_LABELS[project.kind];
+        if (kindLabel) tagList.push({ cls: "kind", text: kindLabel });
         if (sub) tagList.push({ cls: "sub", text: sub.label });
         if (project.deploy_type) tagList.push({ cls: "deploy", text: project.deploy_type });
         (Array.isArray(project.tech_stack) ? project.tech_stack : []).forEach(function (item) {
@@ -1095,7 +1252,7 @@
                 ? '<span class="license-badge" title="该项目的许可协议不属于 OSI 认可的开源协议，商用前请先阅读原仓库协议">非开源</span>'
                 : "") +
             '<span class="license" title="' + escapeHtml(project.license || "未知协议") + '">' +
-            escapeHtml(project.license || "未知协议") + "</span>" +
+            escapeHtml(formatLicense(project.license)) + "</span>" +
             "</div>" +
             "</div>" +
             // 仓库行（1~2 个平台）

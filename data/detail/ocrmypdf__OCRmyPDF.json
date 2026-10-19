@@ -1,0 +1,48 @@
+{
+  "repo": "ocrmypdf/OCRmyPDF",
+  "slug": "ocrmypdf__OCRmyPDF",
+  "name": "OCRmyPDF",
+  "note_zh": "给扫描版 PDF 叠加 OCR 文字层，让文件可搜索可复制，适合批量处理归档文档。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "MPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Tesseract",
+    "PDF"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-12T07:50:51Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/ocrmypdf/OCRmyPDF/zip/refs/heads/main",
+  "release": {
+    "tag": "v17.13.0",
+    "name": "v17.13.0",
+    "published": "2026-09-28T18:55:23Z",
+    "url": "https://github.com/ocrmypdf/OCRmyPDF/releases/tag/v17.13.0"
+  },
+  "assets": [
+    {
+      "name": "ocrmypdf-17.13.0-py3-none-any.whl",
+      "size": 561907,
+      "url": "https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.13.0/ocrmypdf-17.13.0-py3-none-any.whl"
+    },
+    {
+      "name": "ocrmypdf-17.13.0.tar.gz",
+      "size": 7685391,
+      "url": "https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.13.0/ocrmypdf-17.13.0.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

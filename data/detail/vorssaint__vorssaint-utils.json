@@ -1,0 +1,43 @@
+{
+  "repo": "vorssaint/vorssaint-utils",
+  "slug": "vorssaint__vorssaint-utils",
+  "name": "Vorssaint-utils",
+  "note_zh": "macOS 菜单栏工具集，集成窗口切换、应用卸载、防休眠等小功能，适合追求效率的 Mac 用户。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Swift",
+    "AppKit",
+    "macOS"
+  ],
+  "deploy_type": "桌面应用 / 客户端",
+  "platform": "github",
+  "updated_at": "2026-10-18T19:14:26Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/vorssaint/vorssaint-utils/zip/refs/heads/main",
+  "release": {
+    "tag": "v3.4.1",
+    "name": "v3.4.1",
+    "published": "2026-10-08T23:45:35Z",
+    "url": "https://github.com/vorssaint/vorssaint-utils/releases/tag/v3.4.1"
+  },
+  "assets": [
+    {
+      "name": "Vorssaint-3.4.1.dmg",
+      "size": 26722813,
+      "url": "https://github.com/vorssaint/vorssaint-utils/releases/download/v3.4.1/Vorssaint-3.4.1.dmg"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

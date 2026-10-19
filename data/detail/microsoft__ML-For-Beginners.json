@@ -1,0 +1,32 @@
+{
+  "repo": "microsoft/ML-For-Beginners",
+  "slug": "microsoft__ML-For-Beginners",
+  "name": "ML-For-Beginners",
+  "note_zh": "微软 12 周机器学习课程，26 节课配测验，适合入门经典 ML 概念与实战。",
+  "category": "教育",
+  "category_slug": "education",
+  "subcategory": "在线学习",
+  "subcategory_slug": "lms",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Jupyter Notebook",
+    "scikit-learn"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T11:32:27Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/microsoft/ML-For-Beginners/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

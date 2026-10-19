@@ -1,0 +1,32 @@
+{
+  "repo": "bytedance/deer-flow",
+  "slug": "bytedance__deer-flow",
+  "name": "Deer-flow",
+  "note_zh": "长任务超级智能体框架，能自主调研、写代码并产出成果，适合研究与自动化场景。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "LLM",
+    "Multi-Agent"
+  ],
+  "deploy_type": "源码 / Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:31:49Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/bytedance/deer-flow/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

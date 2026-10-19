@@ -1,0 +1,53 @@
+{
+  "repo": "google-gemini/gemini-cli",
+  "slug": "google-gemini__gemini-cli",
+  "name": "Gemini-cli",
+  "note_zh": "把 Gemini 接入终端的开源 AI 命令行智能体，可读写代码、执行任务，适合开发者日常使用。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Node.js",
+    "Gemini API"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T01:34:29Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/google-gemini/gemini-cli/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.64.0",
+    "name": "Release v0.64.0",
+    "published": "2026-10-13T20:44:46Z",
+    "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.64.0"
+  },
+  "assets": [
+    {
+      "name": "gemini-darwin-arm64-unsigned.zip",
+      "size": 36551923,
+      "url": "https://github.com/google-gemini/gemini-cli/releases/download/v0.64.0/gemini-darwin-arm64-unsigned.zip"
+    },
+    {
+      "name": "gemini-darwin-x64-unsigned.zip",
+      "size": 38037670,
+      "url": "https://github.com/google-gemini/gemini-cli/releases/download/v0.64.0/gemini-darwin-x64-unsigned.zip"
+    },
+    {
+      "name": "gemini-cli-bundle.zip",
+      "size": 21186639,
+      "url": "https://github.com/google-gemini/gemini-cli/releases/download/v0.64.0/gemini-cli-bundle.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

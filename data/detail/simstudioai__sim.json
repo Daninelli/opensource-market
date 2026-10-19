@@ -1,0 +1,48 @@
+{
+  "repo": "simstudioai/sim",
+  "slug": "simstudioai__sim",
+  "name": "Sim",
+  "note_zh": "协作式工作台，可视化搭建、部署并监控 AI 智能体与自动化流程。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "低代码平台",
+  "subcategory_slug": "low-code",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Next.js",
+    "LLM"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T04:28:15Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/simstudioai/sim/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.9.26",
+    "name": "v0.9.26",
+    "published": "2026-10-17T21:46:14Z",
+    "url": "https://github.com/simstudioai/sim/releases/tag/v0.9.26"
+  },
+  "assets": [
+    {
+      "name": "Sim-0.9.26-universal.dmg",
+      "size": 234256609,
+      "url": "https://github.com/simstudioai/sim/releases/download/v0.9.26/Sim-0.9.26-universal.dmg"
+    },
+    {
+      "name": "Sim-0.9.26-universal.zip",
+      "size": 232769961,
+      "url": "https://github.com/simstudioai/sim/releases/download/v0.9.26/Sim-0.9.26-universal.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

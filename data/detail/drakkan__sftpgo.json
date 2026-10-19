@@ -1,0 +1,74 @@
+{
+  "repo": "drakkan/sftpgo",
+  "slug": "drakkan__sftpgo",
+  "name": "Sftpgo",
+  "note_zh": "功能齐全的 SFTP/WebDAV/FTP 文件服务器，可对接 S3 等云存储，适合自建文件传输。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "文件管理与网盘",
+  "subcategory_slug": "file",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "SFTP",
+    "WebDAV",
+    "S3"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-03T14:22:23Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/drakkan/sftpgo/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.7.6",
+    "name": "v2.7.6",
+    "published": "2026-09-19T07:01:05Z",
+    "url": "https://github.com/drakkan/sftpgo/releases/tag/v2.7.6"
+  },
+  "assets": [
+    {
+      "name": "sftpgo_v2.7.6_macOS_arm64.tar.xz",
+      "size": 14587868,
+      "url": "https://github.com/drakkan/sftpgo/releases/download/v2.7.6/sftpgo_v2.7.6_macOS_arm64.tar.xz"
+    },
+    {
+      "name": "sftpgo_v2.7.6_macOS_x86_64.tar.xz",
+      "size": 14588568,
+      "url": "https://github.com/drakkan/sftpgo/releases/download/v2.7.6/sftpgo_v2.7.6_macOS_x86_64.tar.xz"
+    },
+    {
+      "name": "sftpgo_v2.7.6_windows_arm64.exe",
+      "size": 15818726,
+      "url": "https://github.com/drakkan/sftpgo/releases/download/v2.7.6/sftpgo_v2.7.6_windows_arm64.exe"
+    },
+    {
+      "name": "sftpgo_v2.7.6_windows_x86.exe",
+      "size": 16542613,
+      "url": "https://github.com/drakkan/sftpgo/releases/download/v2.7.6/sftpgo_v2.7.6_windows_x86.exe"
+    },
+    {
+      "name": "sftpgo_v2.7.6_linux_ppc64le.tar.xz",
+      "size": 13988260,
+      "url": "https://github.com/drakkan/sftpgo/releases/download/v2.7.6/sftpgo_v2.7.6_linux_ppc64le.tar.xz"
+    },
+    {
+      "name": "sftpgo_v2.7.6_linux_arm64.tar.xz",
+      "size": 14106656,
+      "url": "https://github.com/drakkan/sftpgo/releases/download/v2.7.6/sftpgo_v2.7.6_linux_arm64.tar.xz"
+    },
+    {
+      "name": "sftpgo_v2.7.6_src_with_deps.tar.xz",
+      "size": 12082368,
+      "url": "https://github.com/drakkan/sftpgo/releases/download/v2.7.6/sftpgo_v2.7.6_src_with_deps.tar.xz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

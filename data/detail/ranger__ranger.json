@@ -1,0 +1,32 @@
+{
+  "repo": "ranger/ranger",
+  "slug": "ranger__ranger",
+  "name": "Ranger",
+  "note_zh": "Vim 风格的终端文件管理器，支持多栏浏览与快速预览，适合键盘操作熟练的命令行用户。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "文件管理与网盘",
+  "subcategory_slug": "file",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "CLI",
+    "Vim"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-09-09T11:38:00Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/ranger/ranger/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

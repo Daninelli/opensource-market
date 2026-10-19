@@ -1,0 +1,32 @@
+{
+  "repo": "nextcloud/all-in-one",
+  "slug": "nextcloud__all-in-one",
+  "name": "All-in-one",
+  "note_zh": "Nextcloud 官方一体化部署方案，用 Docker 安装并自动维护私有云，适合自托管用户。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "私有同步",
+  "subcategory_slug": "sync",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "Docker",
+    "Nextcloud"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:22:31Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/nextcloud/all-in-one/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

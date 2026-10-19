@@ -1,0 +1,48 @@
+{
+  "repo": "pixijs/pixijs",
+  "slug": "pixijs__pixijs",
+  "name": "Pixijs",
+  "note_zh": "高性能 2D WebGL 渲染引擎，用来做游戏、动画和大规模图形交互页面。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "数据分析",
+  "subcategory_slug": "bi",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "WebGL",
+    "Canvas"
+  ],
+  "deploy_type": "依赖库 / 前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-17T12:46:14Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/pixijs/pixijs/zip/refs/heads/dev",
+  "release": {
+    "tag": "v8.22.0",
+    "name": "v8.22.0",
+    "published": "2026-10-01T21:48:36Z",
+    "url": "https://github.com/pixijs/pixijs/releases/tag/v8.22.0"
+  },
+  "assets": [
+    {
+      "name": "pixi.min.js",
+      "size": 840663,
+      "url": "https://github.com/pixijs/pixijs/releases/download/v8.22.0/pixi.min.js"
+    },
+    {
+      "name": "pixi.min.mjs",
+      "size": 841319,
+      "url": "https://github.com/pixijs/pixijs/releases/download/v8.22.0/pixi.min.mjs"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

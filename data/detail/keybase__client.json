@@ -1,0 +1,43 @@
+{
+  "repo": "keybase/client",
+  "slug": "keybase__client",
+  "name": "Client",
+  "note_zh": "端到端加密的聊天与文件共享客户端，可绑定社交账号验证身份，适合注重隐私的沟通场景。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "论坛社区",
+  "subcategory_slug": "forum",
+  "license": "BSD-3-Clause",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "React",
+    "Electron"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:10:18Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/keybase/client/zip/refs/heads/master",
+  "release": {
+    "tag": "v6.6.3",
+    "name": "v6.6.3",
+    "published": "2026-06-03T14:24:01Z",
+    "url": "https://github.com/keybase/client/releases/tag/v6.6.3"
+  },
+  "assets": [
+    {
+      "name": "keybase-v6.6.3.tar.xz",
+      "size": 77040816,
+      "url": "https://github.com/keybase/client/releases/download/v6.6.3/keybase-v6.6.3.tar.xz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

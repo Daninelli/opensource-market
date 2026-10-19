@@ -1,0 +1,32 @@
+{
+  "repo": "transloadit/uppy",
+  "slug": "transloadit__uppy",
+  "name": "Uppy",
+  "note_zh": "前端文件上传组件库，支持断点续传与多个云盘导入，适合 Web 开发者集成上传功能。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "JavaScript",
+    "React"
+  ],
+  "deploy_type": "前端源码 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:39:02Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/transloadit/uppy/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

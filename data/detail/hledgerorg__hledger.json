@@ -1,0 +1,58 @@
+{
+  "repo": "hledgerorg/hledger",
+  "slug": "hledgerorg__hledger",
+  "name": "Hledger",
+  "note_zh": "纯文本复式记账工具，提供 CLI、TUI 与网页界面，适合极客和开发者管理财务。",
+  "category": "金融",
+  "category_slug": "finance",
+  "subcategory": "记账核算",
+  "subcategory_slug": "accounting",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Haskell",
+    "CLI",
+    "TUI"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T01:12:31Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/hledgerorg/hledger/zip/refs/heads/main",
+  "release": {
+    "tag": "1.52.4",
+    "name": "1.52.4",
+    "published": "2026-09-10T23:51:51Z",
+    "url": "https://github.com/hledgerorg/hledger/releases/tag/1.52.4"
+  },
+  "assets": [
+    {
+      "name": "hledger-mac-x64.tar.gz",
+      "size": 17827639,
+      "url": "https://github.com/hledgerorg/hledger/releases/download/1.52.4/hledger-mac-x64.tar.gz"
+    },
+    {
+      "name": "hledger-windows-x64.zip",
+      "size": 51750515,
+      "url": "https://github.com/hledgerorg/hledger/releases/download/1.52.4/hledger-windows-x64.zip"
+    },
+    {
+      "name": "hledger-mac-arm64.tar.gz",
+      "size": 52822969,
+      "url": "https://github.com/hledgerorg/hledger/releases/download/1.52.4/hledger-mac-arm64.tar.gz"
+    },
+    {
+      "name": "hledger-linux-x64.tar.gz",
+      "size": 48559156,
+      "url": "https://github.com/hledgerorg/hledger/releases/download/1.52.4/hledger-linux-x64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

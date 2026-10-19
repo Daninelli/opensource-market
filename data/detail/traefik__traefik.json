@@ -1,0 +1,78 @@
+{
+  "repo": "traefik/traefik",
+  "slug": "traefik__traefik",
+  "name": "Traefik",
+  "note_zh": "云原生反向代理与网关，自动发现容器服务并签发证书，适合容器化部署。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Docker",
+    "Kubernetes"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-15T14:29:07Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/traefik/traefik/zip/refs/heads/master",
+  "release": {
+    "tag": "v3.7.15",
+    "name": "v3.7.15",
+    "published": "2026-10-15T14:41:49Z",
+    "url": "https://github.com/traefik/traefik/releases/tag/v3.7.15"
+  },
+  "assets": [
+    {
+      "name": "traefik_v3.7.15_windows_arm64.zip",
+      "size": 45113108,
+      "url": "https://github.com/traefik/traefik/releases/download/v3.7.15/traefik_v3.7.15_windows_arm64.zip"
+    },
+    {
+      "name": "traefik_v3.7.15_darwin_arm64.tar.gz",
+      "size": 48112917,
+      "url": "https://github.com/traefik/traefik/releases/download/v3.7.15/traefik_v3.7.15_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "traefik_v3.7.15_windows_386.zip",
+      "size": 48189852,
+      "url": "https://github.com/traefik/traefik/releases/download/v3.7.15/traefik_v3.7.15_windows_386.zip"
+    },
+    {
+      "name": "traefik_v3.7.15_darwin_amd64.tar.gz",
+      "size": 52294681,
+      "url": "https://github.com/traefik/traefik/releases/download/v3.7.15/traefik_v3.7.15_darwin_amd64.tar.gz"
+    },
+    {
+      "name": "traefik_v3.7.15_linux_ppc64le.tar.gz",
+      "size": 44178516,
+      "url": "https://github.com/traefik/traefik/releases/download/v3.7.15/traefik_v3.7.15_linux_ppc64le.tar.gz"
+    },
+    {
+      "name": "traefik_v3.7.15_linux_arm64.tar.gz",
+      "size": 45511248,
+      "url": "https://github.com/traefik/traefik/releases/download/v3.7.15/traefik_v3.7.15_linux_arm64.tar.gz"
+    },
+    {
+      "name": "traefik-v3.7.15.src.tar.gz",
+      "size": 14498258,
+      "url": "https://github.com/traefik/traefik/releases/download/v3.7.15/traefik-v3.7.15.src.tar.gz"
+    },
+    {
+      "name": "traefik_v3.7.15_openbsd_386.tar.gz",
+      "size": 45792078,
+      "url": "https://github.com/traefik/traefik/releases/download/v3.7.15/traefik_v3.7.15_openbsd_386.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

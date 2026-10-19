@@ -1,0 +1,43 @@
+{
+  "repo": "GaiZhenbiao/ChuanhuChatGPT",
+  "slug": "GaiZhenbiao__ChuanhuChatGPT",
+  "name": "ChuanhuChatGPT",
+  "note_zh": "ChatGPT 及多种大模型的图形界面，支持 Agent、文件问答与模型微调，可本地部署。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "即时通讯",
+  "subcategory_slug": "im",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Gradio",
+    "LLM"
+  ],
+  "deploy_type": "源码 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-09-16T11:44:01Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/GaiZhenbiao/ChuanhuChatGPT/zip/refs/heads/main",
+  "release": {
+    "tag": "20250815",
+    "name": "20250815",
+    "published": "2025-08-15T02:27:10Z",
+    "url": "https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/tag/20250815"
+  },
+  "assets": [
+    {
+      "name": "ChuanhuChatGPT-20250815-git.zip",
+      "size": 1795169,
+      "url": "https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20250815/ChuanhuChatGPT-20250815-git.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

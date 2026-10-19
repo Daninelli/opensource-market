@@ -1,0 +1,32 @@
+{
+  "repo": "hemanth/functional-programming-jargon",
+  "slug": "hemanth__functional-programming-jargon",
+  "name": "Functional-programming-jargon",
+  "note_zh": "用通俗语言解释函数式编程术语，适合初学者快速搞懂 FP 概念与常见黑话。",
+  "category": "教育",
+  "category_slug": "education",
+  "subcategory": "在线学习",
+  "subcategory_slug": "lms",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Functional Programming",
+    "Documentation"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-04T05:28:31Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/hemanth/functional-programming-jargon/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

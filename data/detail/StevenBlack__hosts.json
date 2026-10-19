@@ -1,0 +1,32 @@
+{
+  "repo": "StevenBlack/hosts",
+  "slug": "StevenBlack__hosts",
+  "name": "Hosts",
+  "note_zh": "汇总多个可信来源的 hosts 屏蔽列表，可拦截广告与恶意域名，适合全设备过滤。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "DNS",
+    "Hosts"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T21:17:38Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/StevenBlack/hosts/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

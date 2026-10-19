@@ -1,0 +1,32 @@
+{
+  "repo": "canonical/microk8s",
+  "slug": "canonical__microk8s",
+  "name": "Microk8s",
+  "note_zh": "单包轻量 Kubernetes，一条命令即可装好，适合边缘与开发环境。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "智能家居",
+  "subcategory_slug": "smart-home",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Kubernetes",
+    "Python",
+    "Snap"
+  ],
+  "deploy_type": "二进制 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-18T10:11:15Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/canonical/microk8s/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

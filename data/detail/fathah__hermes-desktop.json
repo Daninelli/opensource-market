@@ -1,0 +1,78 @@
+{
+  "repo": "fathah/hermes-desktop",
+  "slug": "fathah__hermes-desktop",
+  "name": "Hermes-desktop",
+  "note_zh": "Hermes Agent 的桌面客户端，为自主 AI 代理提供图形界面，方便本地运行与对话。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "即时通讯",
+  "subcategory_slug": "im",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron",
+    "LLM"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-13T14:53:59Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/fathah/hermes-desktop/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.7.7",
+    "name": "Hermes Desktop v0.7.7",
+    "published": "2026-09-04T04:48:16Z",
+    "url": "https://github.com/fathah/hermes-desktop/releases/tag/v0.7.7"
+  },
+  "assets": [
+    {
+      "name": "hermes-desktop-0.7.7-portable.exe",
+      "size": 162517433,
+      "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-portable.exe"
+    },
+    {
+      "name": "hermes-desktop-0.7.7-setup.exe",
+      "size": 162669632,
+      "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-setup.exe"
+    },
+    {
+      "name": "hermes-desktop-0.7.7-arm64.dmg",
+      "size": 196315124,
+      "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-arm64.dmg"
+    },
+    {
+      "name": "hermes-desktop-0.7.7-x64.dmg",
+      "size": 203024805,
+      "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-x64.dmg"
+    },
+    {
+      "name": "hermes-desktop-0.7.7.rpm",
+      "size": 125866797,
+      "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7.rpm"
+    },
+    {
+      "name": "hermes-desktop_0.7.7_amd64.deb",
+      "size": 146053800,
+      "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop_0.7.7_amd64.deb"
+    },
+    {
+      "name": "hermes-desktop-0.7.7-arm64-mac.zip",
+      "size": 195808885,
+      "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-arm64-mac.zip"
+    },
+    {
+      "name": "hermes-desktop-0.7.7-x64-mac.zip",
+      "size": 202564276,
+      "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-x64-mac.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

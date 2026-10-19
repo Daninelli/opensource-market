@@ -1,0 +1,63 @@
+{
+  "repo": "Anil-matcha/Open-Generative-AI",
+  "slug": "Anil-matcha__Open-Generative-AI",
+  "name": "Open-Generative-AI",
+  "note_zh": "开源 AI 图像与视频生成平台，本地替代商业服务，适合创作者与开发者自建。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Generative AI",
+    "Stable Diffusion"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-15T09:55:05Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Anil-matcha/Open-Generative-AI/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.0.0",
+    "name": "v2.0.0 — Audio Studio, Vibe Motion, Clipping, Design Agent & more",
+    "published": "2026-05-23T00:42:31Z",
+    "url": "https://github.com/Anil-matcha/Open-Generative-AI/releases/tag/v2.0.0"
+  },
+  "assets": [
+    {
+      "name": "Open.Generative.AI.Setup.2.0.0.exe",
+      "size": 134225080,
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI/releases/download/v2.0.0/Open.Generative.AI.Setup.2.0.0.exe"
+    },
+    {
+      "name": "Open.Generative.AI-2.0.0-arm64.dmg",
+      "size": 212291102,
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI/releases/download/v2.0.0/Open.Generative.AI-2.0.0-arm64.dmg"
+    },
+    {
+      "name": "Open.Generative.AI-2.0.0.dmg",
+      "size": 219152253,
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI/releases/download/v2.0.0/Open.Generative.AI-2.0.0.dmg"
+    },
+    {
+      "name": "open-generative-ai_2.0.0_amd64.deb",
+      "size": 109335648,
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI/releases/download/v2.0.0/open-generative-ai_2.0.0_amd64.deb"
+    },
+    {
+      "name": "Open.Generative.AI-2.0.0.AppImage",
+      "size": 182221746,
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI/releases/download/v2.0.0/Open.Generative.AI-2.0.0.AppImage"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

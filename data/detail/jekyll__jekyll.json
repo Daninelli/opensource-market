@@ -1,0 +1,32 @@
+{
+  "repo": "jekyll/jekyll",
+  "slug": "jekyll__jekyll",
+  "name": "Jekyll",
+  "note_zh": "Ruby 写的博客型静态站点生成器，用 Markdown 与 Liquid 建站并部署。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Ruby",
+    "Liquid",
+    "Static Site Generator"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-13T18:44:40Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/jekyll/jekyll/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

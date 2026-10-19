@@ -1,0 +1,32 @@
+{
+  "repo": "shareAI-lab/learn-claude-code",
+  "slug": "shareAI-lab__learn-claude-code",
+  "name": "Learn-claude-code",
+  "note_zh": "用 Bash 从零实现一个类 Claude Code 的迷你智能体框架，适合学习代理内部原理。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Bash",
+    "LLM"
+  ],
+  "deploy_type": "源码 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-09-28T13:49:16Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/shareAI-lab/learn-claude-code/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

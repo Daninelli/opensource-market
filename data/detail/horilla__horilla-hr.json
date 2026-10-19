@@ -1,0 +1,32 @@
+{
+  "repo": "horilla/horilla-hr",
+  "slug": "horilla__horilla-hr",
+  "name": "Horilla-hr",
+  "note_zh": "基于 Django 的开源 HR 系统，覆盖考勤、招聘、薪资与员工档案，适合企业内部部署。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "人力资源",
+  "subcategory_slug": "hr",
+  "license": "LGPL-2.1",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Django",
+    "HTMX"
+  ],
+  "deploy_type": "源码 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:57:06Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "2.0",
+  "download_url": "https://codeload.github.com/horilla/horilla-hr/zip/refs/heads/2.0",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

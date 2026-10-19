@@ -1,0 +1,32 @@
+{
+  "repo": "simple-icons/simple-icons",
+  "slug": "simple-icons__simple-icons",
+  "name": "Simple-icons",
+  "note_zh": "收录数千个知名品牌 SVG 图标的资源库，方便统一取用品牌图标。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "CC0-1.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "SVG",
+    "npm"
+  ],
+  "deploy_type": "依赖库 / 前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:30:13Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/simple-icons/simple-icons/zip/refs/heads/develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,43 @@
+{
+  "repo": "hashicorp/vagrant",
+  "slug": "hashicorp__vagrant",
+  "name": "Vagrant",
+  "note_zh": "用配置文件快速创建和分发可复现开发环境的虚拟机管理工具，适合需要统一团队本地环境的开发者。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Ruby",
+    "VirtualBox",
+    "VMware"
+  ],
+  "deploy_type": "二进制 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T07:05:18Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/hashicorp/vagrant/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.4.9",
+    "name": "v2.4.9",
+    "published": "2025-08-21T07:45:30Z",
+    "url": "https://github.com/hashicorp/vagrant/releases/tag/v2.4.9"
+  },
+  "assets": [
+    {
+      "name": "vagrant-2.4.9.gem",
+      "size": 708608,
+      "url": "https://github.com/hashicorp/vagrant/releases/download/v2.4.9/vagrant-2.4.9.gem"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

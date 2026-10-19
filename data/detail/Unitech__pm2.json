@@ -1,0 +1,32 @@
+{
+  "repo": "Unitech/pm2",
+  "slug": "Unitech__pm2",
+  "name": "Pm2",
+  "note_zh": "Node.js 进程管理工具，带负载均衡与监控，适合让服务常驻服务器。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Node.js",
+    "CLI"
+  ],
+  "deploy_type": "命令行",
+  "platform": "github",
+  "updated_at": "2026-09-04T23:39:51Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/Unitech/pm2/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

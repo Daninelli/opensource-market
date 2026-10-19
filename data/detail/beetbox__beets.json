@@ -1,0 +1,48 @@
+{
+  "repo": "beetbox/beets",
+  "slug": "beetbox__beets",
+  "name": "Beets",
+  "note_zh": "命令行音乐库管理工具，自动匹配 MusicBrainz 标签并整理目录，适合维护本地曲库的人。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "影音媒体",
+  "subcategory_slug": "streaming",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "MusicBrainz",
+    "SQLite"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T01:58:41Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/beetbox/beets/zip/refs/heads/master",
+  "release": {
+    "tag": "v2.14.1",
+    "name": "Release v2.14.1",
+    "published": "2026-09-17T19:11:28Z",
+    "url": "https://github.com/beetbox/beets/releases/tag/v2.14.1"
+  },
+  "assets": [
+    {
+      "name": "beets-2.14.1-py3-none-any.whl",
+      "size": 650919,
+      "url": "https://github.com/beetbox/beets/releases/download/v2.14.1/beets-2.14.1-py3-none-any.whl"
+    },
+    {
+      "name": "beets-2.14.1.tar.gz",
+      "size": 2484809,
+      "url": "https://github.com/beetbox/beets/releases/download/v2.14.1/beets-2.14.1.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

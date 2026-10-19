@@ -1,0 +1,48 @@
+{
+  "repo": "langchain-ai/langchain",
+  "slug": "langchain-ai__langchain",
+  "name": "Langchain",
+  "note_zh": "构建大模型应用的开发框架，把模型、工具、记忆与流程串联起来，适合 AI 应用开发者。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "LLM",
+    "Agents"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:34:08Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/langchain-ai/langchain/zip/refs/heads/master",
+  "release": {
+    "tag": "langchain-core==1.6.12",
+    "name": "langchain-core==1.6.12",
+    "published": "2026-10-16T19:28:44Z",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.12"
+  },
+  "assets": [
+    {
+      "name": "langchain_core-1.6.12-py3-none-any.whl",
+      "size": 573838,
+      "url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.6.12/langchain_core-1.6.12-py3-none-any.whl"
+    },
+    {
+      "name": "langchain_core-1.6.12.tar.gz",
+      "size": 1015639,
+      "url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.6.12/langchain_core-1.6.12.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,78 @@
+{
+  "repo": "jesseduffield/lazygit",
+  "slug": "jesseduffield__lazygit",
+  "name": "Lazygit",
+  "note_zh": "Go 写的 Git 终端界面，用键盘完成提交、分支、变基等操作。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Git",
+    "TUI"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-17T11:06:26Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/jesseduffield/lazygit/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.66.2",
+    "name": "v0.66.2",
+    "published": "2026-10-16T09:33:06Z",
+    "url": "https://github.com/jesseduffield/lazygit/releases/tag/v0.66.2"
+  },
+  "assets": [
+    {
+      "name": "lazygit_0.66.2_windows_arm64.zip",
+      "size": 6757250,
+      "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.66.2/lazygit_0.66.2_windows_arm64.zip"
+    },
+    {
+      "name": "lazygit_0.66.2_darwin_arm64.tar.gz",
+      "size": 6931517,
+      "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.66.2/lazygit_0.66.2_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "lazygit_0.66.2_windows_32-bit.zip",
+      "size": 7271224,
+      "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.66.2/lazygit_0.66.2_windows_32-bit.zip"
+    },
+    {
+      "name": "lazygit_0.66.2_darwin_x86_64.tar.gz",
+      "size": 7452605,
+      "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.66.2/lazygit_0.66.2_darwin_x86_64.tar.gz"
+    },
+    {
+      "name": "lazygit_0.66.2_linux_arm64.tar.gz",
+      "size": 6654577,
+      "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.66.2/lazygit_0.66.2_linux_arm64.tar.gz"
+    },
+    {
+      "name": "lazygit_0.66.2_linux_armv6.tar.gz",
+      "size": 6938398,
+      "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.66.2/lazygit_0.66.2_linux_armv6.tar.gz"
+    },
+    {
+      "name": "lazygit_0.66.2_freebsd_arm64.tar.gz",
+      "size": 6616082,
+      "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.66.2/lazygit_0.66.2_freebsd_arm64.tar.gz"
+    },
+    {
+      "name": "lazygit_0.66.2_freebsd_armv6.tar.gz",
+      "size": 6902741,
+      "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.66.2/lazygit_0.66.2_freebsd_armv6.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,38 @@
+{
+  "repo": "schlagmichdoch/PairDrop",
+  "slug": "schlagmichdoch__PairDrop",
+  "name": "PairDrop",
+  "note_zh": "浏览器里点对点传文件，免注册免安装，跨设备局域网互传，适合临时分享大文件。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "文件管理与网盘",
+  "subcategory_slug": "file",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "WebRTC",
+    "PWA",
+    "Node.js"
+  ],
+  "deploy_type": "前端源码 / 自托管服务 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-04-22T20:27:50Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/schlagmichdoch/PairDrop/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.11.2",
+    "name": "v1.11.2",
+    "published": "2025-02-24T19:47:06Z",
+    "url": "https://github.com/schlagmichdoch/PairDrop/releases/tag/v1.11.2"
+  },
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

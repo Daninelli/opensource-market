@@ -1,0 +1,58 @@
+{
+  "repo": "quickwit-oss/quickwit",
+  "slug": "quickwit-oss__quickwit",
+  "name": "Quickwit",
+  "note_zh": "云原生日志与链路追踪搜索引擎，数据放对象存储、查询成本低，适合可观测性场景。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "文件管理与网盘",
+  "subcategory_slug": "file",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "Tantivy",
+    "S3"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-16T20:45:06Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/quickwit-oss/quickwit/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.9.2",
+    "name": "v0.9.2",
+    "published": "2026-10-16T16:56:19Z",
+    "url": "https://github.com/quickwit-oss/quickwit/releases/tag/v0.9.2"
+  },
+  "assets": [
+    {
+      "name": "quickwit-v0.9.2-aarch64-apple-darwin.tar.gz",
+      "size": 73975126,
+      "url": "https://github.com/quickwit-oss/quickwit/releases/download/v0.9.2/quickwit-v0.9.2-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "quickwit-v0.9.2-x86_64-apple-darwin.tar.gz",
+      "size": 76992677,
+      "url": "https://github.com/quickwit-oss/quickwit/releases/download/v0.9.2/quickwit-v0.9.2-x86_64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "quickwit-v0.9.2-aarch64-unknown-linux-gnu.tar.gz",
+      "size": 78325980,
+      "url": "https://github.com/quickwit-oss/quickwit/releases/download/v0.9.2/quickwit-v0.9.2-aarch64-unknown-linux-gnu.tar.gz"
+    },
+    {
+      "name": "quickwit-v0.9.2-x86_64-unknown-linux-gnu.tar.gz",
+      "size": 81709565,
+      "url": "https://github.com/quickwit-oss/quickwit/releases/download/v0.9.2/quickwit-v0.9.2-x86_64-unknown-linux-gnu.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

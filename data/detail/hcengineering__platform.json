@@ -1,0 +1,32 @@
+{
+  "repo": "hcengineering/platform",
+  "slug": "hcengineering__platform",
+  "name": "Platform",
+  "note_zh": "Huly 一体化协作平台，整合项目管理、文档、聊天与 HR，可替代 Jira、Notion 等。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "人力资源",
+  "subcategory_slug": "hr",
+  "license": "EPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Node.js",
+    "MongoDB"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T06:40:36Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/hcengineering/platform/zip/refs/heads/develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,33 @@
+{
+  "repo": "aimeos/aimeos",
+  "slug": "aimeos__aimeos",
+  "name": "Aimeos",
+  "note_zh": "基于 Laravel 与 Aimeos 框架的完整开源网店系统，适合快速上线高性能商城。",
+  "category": "电商",
+  "category_slug": "ecommerce",
+  "subcategory": "平台商城",
+  "subcategory_slug": "platform",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "Laravel",
+    "JavaScript",
+    "MySQL"
+  ],
+  "deploy_type": "传统部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T09:37:17Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/aimeos/aimeos/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

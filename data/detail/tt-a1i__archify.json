@@ -1,0 +1,43 @@
+{
+  "repo": "tt-a1i/archify",
+  "slug": "tt-a1i__archify",
+  "name": "Archify",
+  "note_zh": "编码智能体技能包，把想法、计划或代码库画成可交互架构图。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "AI Agents",
+    "Agent Skills"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:58:18Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/tt-a1i/archify/zip/refs/heads/main",
+  "release": {
+    "tag": "v3.2.0",
+    "name": "v3.2.0",
+    "published": "2026-10-19T00:43:00Z",
+    "url": "https://github.com/tt-a1i/archify/releases/tag/v3.2.0"
+  },
+  "assets": [
+    {
+      "name": "archify.zip",
+      "size": 5271959,
+      "url": "https://github.com/tt-a1i/archify/releases/download/v3.2.0/archify.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

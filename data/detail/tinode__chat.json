@@ -1,0 +1,68 @@
+{
+  "repo": "tinode/chat",
+  "slug": "tinode__chat",
+  "name": "Chat",
+  "note_zh": "开源即时通讯平台，Go 后端配多端客户端，可自建私有聊天服务，适合做 IM 产品或内部沟通工具。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "团队协作",
+  "subcategory_slug": "collaboration",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "gRPC",
+    "Docker"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T05:13:10Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/tinode/chat/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.25.3",
+    "name": "Bug fixes, dependencies updated, dependencies upgraded.",
+    "published": "2026-07-04T14:36:42Z",
+    "url": "https://github.com/tinode/chat/releases/tag/v0.25.3"
+  },
+  "assets": [
+    {
+      "name": "tinode-mysql.mac-arm64.tar.gz",
+      "size": 32707922,
+      "url": "https://github.com/tinode/chat/releases/download/v0.25.3/tinode-mysql.mac-arm64.tar.gz"
+    },
+    {
+      "name": "tinode-rethinkdb.mac-arm64.tar.gz",
+      "size": 33896103,
+      "url": "https://github.com/tinode/chat/releases/download/v0.25.3/tinode-rethinkdb.mac-arm64.tar.gz"
+    },
+    {
+      "name": "tinode-mysql.windows-amd64.zip",
+      "size": 34145625,
+      "url": "https://github.com/tinode/chat/releases/download/v0.25.3/tinode-mysql.windows-amd64.zip"
+    },
+    {
+      "name": "tinode-rethinkdb.windows-amd64.zip",
+      "size": 35400767,
+      "url": "https://github.com/tinode/chat/releases/download/v0.25.3/tinode-rethinkdb.windows-amd64.zip"
+    },
+    {
+      "name": "tinode-mysql.linux-arm64.tar.gz",
+      "size": 31823450,
+      "url": "https://github.com/tinode/chat/releases/download/v0.25.3/tinode-mysql.linux-arm64.tar.gz"
+    },
+    {
+      "name": "tinode-rethinkdb.linux-arm64.tar.gz",
+      "size": 32948772,
+      "url": "https://github.com/tinode/chat/releases/download/v0.25.3/tinode-rethinkdb.linux-arm64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

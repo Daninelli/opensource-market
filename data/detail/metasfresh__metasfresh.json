@@ -1,0 +1,32 @@
+{
+  "repo": "metasfresh/metasfresh",
+  "slug": "metasfresh__metasfresh",
+  "name": "Metasfresh",
+  "note_zh": "开源 ERP 系统，覆盖财务、CRM 与供应链，适合成长型企业做一体化管理。",
+  "category": "金融",
+  "category_slug": "finance",
+  "subcategory": "记账核算",
+  "subcategory_slug": "accounting",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "Spring",
+    "PostgreSQL"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:04:37Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "new_dawn_uat",
+  "download_url": "https://codeload.github.com/metasfresh/metasfresh/zip/refs/heads/new_dawn_uat",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

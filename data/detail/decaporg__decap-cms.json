@@ -1,0 +1,32 @@
+{
+  "repo": "decaporg/decap-cms",
+  "slug": "decaporg__decap-cms",
+  "name": "Decap-cms",
+  "note_zh": "基于 Git 的静态站点内容后台，编辑后直接提交仓库，适合 Jamstack 站点。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "React",
+    "Git"
+  ],
+  "deploy_type": "前端源码 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-18T00:42:49Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/decaporg/decap-cms/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,78 @@
+{
+  "repo": "fatedier/frp",
+  "slug": "fatedier__frp",
+  "name": "Frp",
+  "note_zh": "内网穿透反向代理，把 NAT 或防火墙后的本机服务暴露到公网，适合远程访问自建服务。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "TCP",
+    "Proxy"
+  ],
+  "deploy_type": "二进制 / 命令行 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:08:44Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/fatedier/frp/zip/refs/heads/dev",
+  "release": {
+    "tag": "v0.71.1",
+    "name": "v0.71.1",
+    "published": "2026-10-14T09:52:45Z",
+    "url": "https://github.com/fatedier/frp/releases/tag/v0.71.1"
+  },
+  "assets": [
+    {
+      "name": "frp_0.71.1_windows_arm64.zip",
+      "size": 12387794,
+      "url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_windows_arm64.zip"
+    },
+    {
+      "name": "frp_0.71.1_darwin_arm64.tar.gz",
+      "size": 12867210,
+      "url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "frp_0.71.1_windows_amd64.zip",
+      "size": 14152383,
+      "url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_windows_amd64.zip"
+    },
+    {
+      "name": "frp_0.71.1_darwin_amd64.tar.gz",
+      "size": 14185816,
+      "url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_darwin_amd64.tar.gz"
+    },
+    {
+      "name": "frp_0.71.1_linux_mips64le.tar.gz",
+      "size": 12154037,
+      "url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_linux_mips64le.tar.gz"
+    },
+    {
+      "name": "frp_0.71.1_linux_mips64.tar.gz",
+      "size": 12396492,
+      "url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_linux_mips64.tar.gz"
+    },
+    {
+      "name": "frp_0.71.1_android_arm64.tar.gz",
+      "size": 13252573,
+      "url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_android_arm64.tar.gz"
+    },
+    {
+      "name": "frp_0.71.1_openbsd_amd64.tar.gz",
+      "size": 13782952,
+      "url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_openbsd_amd64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

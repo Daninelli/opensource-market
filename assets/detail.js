@@ -368,7 +368,7 @@
         rows.push(["最近推送", relativeTime(data.updated_at) + ' <span class="fact-sub">' + formatDate(data.updated_at) + "</span>"]);
         rows.push(["默认分支", "<code>" + escapeHtml(data.default_branch) + "</code>"]);
         if (data.deploy_type) rows.push(["部署方式", escapeHtml(data.deploy_type)]);
-        if (data.license) rows.push(["开源协议", escapeHtml(data.license)]);
+        if (data.license) rows.push(["开源协议", escapeHtml(/^NOASSERTION$/i.test(data.license) ? "协议待核" : data.license)]);
         if (data.added_at) rows.push(["收录时间", formatDate(data.added_at)]);
         if (data.submitted_by) {
             rows.push([
@@ -444,7 +444,7 @@
             licenseNotice =
                 '<div class="license-notice">' +
                 icon("info") +
-                "<span>该项目使用 <b>" + escapeHtml(data.license || "未知协议") +
+                "<span>该项目使用 <b>" + escapeHtml(/^NOASSERTION$/i.test(data.license) ? "协议待核" : (data.license || "未知协议")) +
                 "</b>，属于「源码公开可获取」但<b>不属于 OSI 认可的开源协议</b>，通常对商业使用或托管服务有限制。" +
                 "商用或二次分发前，请务必阅读原仓库的许可条款。</span>" +
                 "</div>";
@@ -452,7 +452,7 @@
             licenseNotice =
                 '<div class="license-notice is-muted">' +
                 icon("info") +
-                "<span>该项目的许可协议（<b>" + escapeHtml(data.license || "未标注") +
+                "<span>该项目的许可协议（<b>" + escapeHtml(/^NOASSERTION$/i.test(data.license) ? "协议待核" : (data.license || "未标注")) +
                 "</b>）不属于常见的软件开源协议，可能是自定义条款或内容类协议（如 CC 系列）。" +
                 "能否商用需按原条款判断，请以原仓库的 LICENSE 文件为准。</span>" +
                 "</div>";

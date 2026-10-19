@@ -1,0 +1,48 @@
+{
+  "repo": "matomo-org/matomo",
+  "slug": "matomo-org__matomo",
+  "name": "Matomo",
+  "note_zh": "可自托管的开源网站分析平台，替代 Google Analytics，数据留在自己服务器，适合注重…",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "数据分析",
+  "subcategory_slug": "bi",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "MySQL",
+    "Analytics"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:14:03Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "6.x-dev",
+  "download_url": "https://codeload.github.com/matomo-org/matomo/zip/refs/heads/6.x-dev",
+  "release": {
+    "tag": "5.14.1",
+    "name": "5.14.1",
+    "published": "2026-10-04T19:50:07Z",
+    "url": "https://github.com/matomo-org/matomo/releases/tag/5.14.1"
+  },
+  "assets": [
+    {
+      "name": "matomo-5.14.1.tar.gz",
+      "size": 22670867,
+      "url": "https://github.com/matomo-org/matomo/releases/download/5.14.1/matomo-5.14.1.tar.gz"
+    },
+    {
+      "name": "piwik-5.14.1.tar.gz",
+      "size": 22672554,
+      "url": "https://github.com/matomo-org/matomo/releases/download/5.14.1/piwik-5.14.1.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

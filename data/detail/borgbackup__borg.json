@@ -1,0 +1,73 @@
+{
+  "repo": "borgbackup/borg",
+  "slug": "borgbackup__borg",
+  "name": "Borg",
+  "note_zh": "带压缩与认证加密的去重归档备份工具，可经 SSH 备份到远端，适合运维与个人使用。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "私有同步",
+  "subcategory_slug": "sync",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "SSH",
+    "C"
+  ],
+  "deploy_type": "命令行 / 二进制 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T04:32:32Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/borgbackup/borg/zip/refs/heads/master",
+  "release": {
+    "tag": "1.4.5",
+    "name": "Release 1.4.5",
+    "published": "2026-07-18T22:36:16Z",
+    "url": "https://github.com/borgbackup/borg/releases/tag/1.4.5"
+  },
+  "assets": [
+    {
+      "name": "borg-macos-15-arm64-gh.tgz",
+      "size": 15048602,
+      "url": "https://github.com/borgbackup/borg/releases/download/1.4.5/borg-macos-15-arm64-gh.tgz"
+    },
+    {
+      "name": "borg-macos-15-arm64-gh",
+      "size": 15182240,
+      "url": "https://github.com/borgbackup/borg/releases/download/1.4.5/borg-macos-15-arm64-gh"
+    },
+    {
+      "name": "borg-linux-glibc231-x86_64",
+      "size": 29585496,
+      "url": "https://github.com/borgbackup/borg/releases/download/1.4.5/borg-linux-glibc231-x86_64"
+    },
+    {
+      "name": "borg-linux-glibc231-x86_64.tgz",
+      "size": 29702061,
+      "url": "https://github.com/borgbackup/borg/releases/download/1.4.5/borg-linux-glibc231-x86_64.tgz"
+    },
+    {
+      "name": "borgbackup-1.4.5.tar.gz",
+      "size": 4034652,
+      "url": "https://github.com/borgbackup/borg/releases/download/1.4.5/borgbackup-1.4.5.tar.gz"
+    },
+    {
+      "name": "borg-freebsd-14-x86_64-gh.tgz",
+      "size": 15617531,
+      "url": "https://github.com/borgbackup/borg/releases/download/1.4.5/borg-freebsd-14-x86_64-gh.tgz"
+    },
+    {
+      "name": "borg-freebsd-14-x86_64-gh",
+      "size": 15659426,
+      "url": "https://github.com/borgbackup/borg/releases/download/1.4.5/borg-freebsd-14-x86_64-gh"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

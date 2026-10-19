@@ -1,0 +1,58 @@
+{
+  "repo": "vllm-project/vllm",
+  "slug": "vllm-project__vllm",
+  "name": "Vllm",
+  "note_zh": "高吞吐、省显存的大模型推理与服务引擎，可批量部署模型接口，适合推理服务运维者。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "CUDA",
+    "PyTorch"
+  ],
+  "deploy_type": "自托管服务 / Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:16:12Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/vllm-project/vllm/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.32.0",
+    "name": "v0.32.0",
+    "published": "2026-10-18T06:50:48Z",
+    "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0"
+  },
+  "assets": [
+    {
+      "name": "vllm-0.32.0+cpu-cp38-abi3-macosx_11_0_arm64.whl",
+      "size": 29930964,
+      "url": "https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0%2Bcpu-cp38-abi3-macosx_11_0_arm64.whl"
+    },
+    {
+      "name": "vllm-0.32.0+xpu-cp38-abi3-manylinux_2_34_x86_64.whl",
+      "size": 33527187,
+      "url": "https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0%2Bxpu-cp38-abi3-manylinux_2_34_x86_64.whl"
+    },
+    {
+      "name": "vllm-0.32.0+cpu-cp38-abi3-manylinux_2_39_aarch64.whl",
+      "size": 70887725,
+      "url": "https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0%2Bcpu-cp38-abi3-manylinux_2_39_aarch64.whl"
+    },
+    {
+      "name": "vllm-0.32.0.tar.gz",
+      "size": 44549956,
+      "url": "https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

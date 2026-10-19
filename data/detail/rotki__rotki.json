@@ -1,0 +1,68 @@
+{
+  "repo": "rotki/rotki",
+  "slug": "rotki__rotki",
+  "name": "Rotki",
+  "note_zh": "本地优先的加密资产组合追踪与记账工具，数据自持，适合加密货币投资者。",
+  "category": "金融",
+  "category_slug": "finance",
+  "subcategory": "记账核算",
+  "subcategory_slug": "accounting",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Electron",
+    "Vue"
+  ],
+  "deploy_type": "桌面应用 / 客户端",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:17:46Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/rotki/rotki/zip/refs/heads/develop",
+  "release": {
+    "tag": "v1.44.1",
+    "name": "Rotki v1.44.1 - Cleaned Eyestripe",
+    "published": "2026-10-02T14:56:14Z",
+    "url": "https://github.com/rotki/rotki/releases/tag/v1.44.1"
+  },
+  "assets": [
+    {
+      "name": "rotki-core-1.44.1-windows.zip",
+      "size": 66870848,
+      "url": "https://github.com/rotki/rotki/releases/download/v1.44.1/rotki-core-1.44.1-windows.zip"
+    },
+    {
+      "name": "rotki-core-1.44.1-macos-arm64.zip",
+      "size": 83613631,
+      "url": "https://github.com/rotki/rotki/releases/download/v1.44.1/rotki-core-1.44.1-macos-arm64.zip"
+    },
+    {
+      "name": "rotki-core-1.44.1-macos-x64.zip",
+      "size": 88373568,
+      "url": "https://github.com/rotki/rotki/releases/download/v1.44.1/rotki-core-1.44.1-macos-x64.zip"
+    },
+    {
+      "name": "rotki-win32_x64-v1.44.1.exe",
+      "size": 159859808,
+      "url": "https://github.com/rotki/rotki/releases/download/v1.44.1/rotki-win32_x64-v1.44.1.exe"
+    },
+    {
+      "name": "rotki-core-1.44.1-linux.zip",
+      "size": 112596154,
+      "url": "https://github.com/rotki/rotki/releases/download/v1.44.1/rotki-core-1.44.1-linux.zip"
+    },
+    {
+      "name": "rotki-linux_x64-v1.44.1.tar.xz",
+      "size": 164772296,
+      "url": "https://github.com/rotki/rotki/releases/download/v1.44.1/rotki-linux_x64-v1.44.1.tar.xz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

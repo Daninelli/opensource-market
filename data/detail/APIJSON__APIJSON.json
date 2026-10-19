@@ -1,0 +1,43 @@
+{
+  "repo": "APIJSON/APIJSON",
+  "slug": "APIJSON__APIJSON",
+  "name": "APIJSON",
+  "note_zh": "零代码 ORM 框架，前端发一段 JSON 就得到接口与文档，省掉大量后端编码。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "低代码平台",
+  "subcategory_slug": "low-code",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "ORM",
+    "JSON"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-11T15:21:16Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/APIJSON/APIJSON/zip/refs/heads/main",
+  "release": {
+    "tag": "8.3.2",
+    "name": "fix bugs for join, fake-delete, etc Latest",
+    "published": "2026-10-05T02:05:53Z",
+    "url": "https://github.com/APIJSON/APIJSON/releases/tag/8.3.2"
+  },
+  "assets": [
+    {
+      "name": "APIJSON-8.3.2.jar",
+      "size": 280135,
+      "url": "https://github.com/APIJSON/APIJSON/releases/download/8.3.2/APIJSON-8.3.2.jar"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,32 @@
+{
+  "repo": "RasaHQ/rasa",
+  "slug": "RasaHQ__rasa",
+  "name": "Rasa",
+  "note_zh": "开源对话式 AI 框架，用于构建文本与语音机器人，支持意图识别和对话流程编排。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "即时通讯",
+  "subcategory_slug": "im",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "NLU",
+    "Machine Learning"
+  ],
+  "deploy_type": "源码 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-07-24T07:39:04Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "3.6.x",
+  "download_url": "https://codeload.github.com/RasaHQ/rasa/zip/refs/heads/3.6.x",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

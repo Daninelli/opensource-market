@@ -1,0 +1,32 @@
+{
+  "repo": "vercel/next.js",
+  "slug": "vercel__next.js",
+  "name": "Next.js",
+  "note_zh": "React 全栈框架，支持服务端渲染与静态生成，适合做官网、博客和 Web 应用。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "React",
+    "Node.js"
+  ],
+  "deploy_type": "前端源码 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:44:29Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "canary",
+  "download_url": "https://codeload.github.com/vercel/next.js/zip/refs/heads/canary",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

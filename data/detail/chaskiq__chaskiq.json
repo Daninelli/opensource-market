@@ -1,0 +1,32 @@
+{
+  "repo": "chaskiq/chaskiq",
+  "slug": "chaskiq__chaskiq",
+  "name": "Chaskiq",
+  "note_zh": "开源在线客服与营销平台，含实时聊天、知识库与机器人，可作为 Intercom 的自托管替代。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "客户关系",
+  "subcategory_slug": "crm",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React",
+    "GraphQL"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-06-30T17:20:11Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/chaskiq/chaskiq/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

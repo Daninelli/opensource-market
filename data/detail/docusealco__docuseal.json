@@ -1,0 +1,32 @@
+{
+  "repo": "docusealco/docuseal",
+  "slug": "docusealco__docuseal",
+  "name": "Docuseal",
+  "note_zh": "开源自托管的电子签名平台，可创建、填写并签署 PDF 文档，替代 DocuSign。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Ruby",
+    "Rails",
+    "PDF"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-12T12:39:51Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/docusealco/docuseal/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

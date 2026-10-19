@@ -1,0 +1,33 @@
+{
+  "repo": "fecshop/yii2_fecshop",
+  "slug": "fecshop__yii2_fecshop",
+  "name": "Yii2_fecshop",
+  "note_zh": "Yii2 开源 B2C 商城，支持多语言多货币多入口并含移动端，适合 PHP 团队自建电商。",
+  "category": "电商",
+  "category_slug": "ecommerce",
+  "subcategory": "平台商城",
+  "subcategory_slug": "platform",
+  "license": "BSD-3-Clause",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "Yii2",
+    "MySQL",
+    "HTML5"
+  ],
+  "deploy_type": "传统部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-09-05T10:12:24Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/fecshop/yii2_fecshop/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,32 @@
+{
+  "repo": "Shelf-nu/shelf.nu",
+  "slug": "Shelf-nu__shelf.nu",
+  "name": "Shelf.nu",
+  "note_zh": "开源 IT 资产与设备管理系统，支持登记、预约与借用，适合团队管理器材。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "资产管理",
+  "subcategory_slug": "asset",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React",
+    "Remix"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:44:55Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Shelf-nu/shelf.nu/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

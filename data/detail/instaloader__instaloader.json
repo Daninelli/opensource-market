@@ -1,0 +1,42 @@
+{
+  "repo": "instaloader/instaloader",
+  "slug": "instaloader__instaloader",
+  "name": "Instaloader",
+  "note_zh": "命令行批量下载 Instagram 图片、视频与元数据的工具，适合备份账号内容和做数据分析。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "CLI"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-14T20:07:43Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/instaloader/instaloader/zip/refs/heads/master",
+  "release": {
+    "tag": "v4.15.4",
+    "name": "Version 4.15.4",
+    "published": "2026-10-12T20:46:50Z",
+    "url": "https://github.com/instaloader/instaloader/releases/tag/v4.15.4"
+  },
+  "assets": [
+    {
+      "name": "instaloader-v4.15.4-windows-standalone.zip",
+      "size": 16443914,
+      "url": "https://github.com/instaloader/instaloader/releases/download/v4.15.4/instaloader-v4.15.4-windows-standalone.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

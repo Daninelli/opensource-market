@@ -1,0 +1,32 @@
+{
+  "repo": "BlinkDL/ChatRWKV",
+  "slug": "BlinkDL__ChatRWKV",
+  "name": "ChatRWKV",
+  "note_zh": "基于 RWKV 循环网络语言模型的类 ChatGPT 对话程序，可在本地推理并支持微调。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "即时通讯",
+  "subcategory_slug": "im",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "RWKV"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-07-19T19:09:29Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/BlinkDL/ChatRWKV/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

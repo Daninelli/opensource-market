@@ -1,0 +1,32 @@
+{
+  "repo": "jishenghua/jshERP",
+  "slug": "jishenghua__jshERP",
+  "name": "JshERP",
+  "note_zh": "面向中小企业的开源进销存 ERP，含采购、销售与财务，适合商贸公司使用。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "企业资源",
+  "subcategory_slug": "erp",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "Spring Boot",
+    "MySQL"
+  ],
+  "deploy_type": "源码 / 传统部署",
+  "platform": "github",
+  "updated_at": "2026-10-18T13:12:46Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/jishenghua/jshERP/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

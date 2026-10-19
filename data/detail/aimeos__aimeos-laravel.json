@@ -1,0 +1,33 @@
+{
+  "repo": "aimeos/aimeos-laravel",
+  "slug": "aimeos__aimeos-laravel",
+  "name": "Aimeos-laravel",
+  "note_zh": "Laravel 电商扩展包，可搭建高性能网店、B2B 商城与多商户市场，适合 PHP 开发者。",
+  "category": "电商",
+  "category_slug": "ecommerce",
+  "subcategory": "平台商城",
+  "subcategory_slug": "platform",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "Laravel",
+    "GraphQL",
+    "MySQL"
+  ],
+  "deploy_type": "源码 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-18T09:41:58Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/aimeos/aimeos-laravel/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

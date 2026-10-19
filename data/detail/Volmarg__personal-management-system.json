@@ -1,0 +1,32 @@
+{
+  "repo": "Volmarg/personal-management-system",
+  "slug": "Volmarg__personal-management-system",
+  "name": "Personal-management-system",
+  "note_zh": "PHP 个人管理面板，集中记录财务、待办、联系人等数据，适合自建一套个人信息中心。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "客户关系",
+  "subcategory_slug": "crm",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "Symfony",
+    "MySQL"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-18T15:36:36Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Volmarg/personal-management-system/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

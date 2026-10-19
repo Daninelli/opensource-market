@@ -1,0 +1,32 @@
+{
+  "repo": "nicolargo/glances",
+  "slug": "nicolargo__glances",
+  "name": "Glances",
+  "note_zh": "跨平台系统监控工具，终端与 Web 均可查看 CPU、内存和网络，适合运维快速排障。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "CLI",
+    "REST API"
+  ],
+  "deploy_type": "命令行 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-18T14:00:26Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/nicolargo/glances/zip/refs/heads/develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

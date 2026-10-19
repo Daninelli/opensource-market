@@ -1,0 +1,48 @@
+{
+  "repo": "twbs/bootstrap",
+  "slug": "twbs__bootstrap",
+  "name": "Bootstrap",
+  "note_zh": "最流行的响应式前端框架，提供栅格与成套组件，适合快速搭页面。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "CSS",
+    "Sass",
+    "JavaScript"
+  ],
+  "deploy_type": "前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-17T09:05:45Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/twbs/bootstrap/zip/refs/heads/main",
+  "release": {
+    "tag": "v5.3.8",
+    "name": "v5.3.8",
+    "published": "2025-08-26T02:04:48Z",
+    "url": "https://github.com/twbs/bootstrap/releases/tag/v5.3.8"
+  },
+  "assets": [
+    {
+      "name": "bootstrap-5.3.8-examples.zip",
+      "size": 1390014,
+      "url": "https://github.com/twbs/bootstrap/releases/download/v5.3.8/bootstrap-5.3.8-examples.zip"
+    },
+    {
+      "name": "bootstrap-5.3.8-dist.zip",
+      "size": 1500314,
+      "url": "https://github.com/twbs/bootstrap/releases/download/v5.3.8/bootstrap-5.3.8-dist.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

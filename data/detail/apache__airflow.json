@@ -1,0 +1,48 @@
+{
+  "repo": "apache/airflow",
+  "slug": "apache__airflow",
+  "name": "Airflow",
+  "note_zh": "用 Python 编写、调度并监控数据工作流的平台，数据工程与 ETL 的通用底座。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "低代码平台",
+  "subcategory_slug": "low-code",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "DAG",
+    "Kubernetes"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:40:59Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/apache/airflow/zip/refs/heads/main",
+  "release": {
+    "tag": "3.3.2",
+    "name": "Apache Airflow 3.3.2",
+    "published": "2026-09-17T11:10:15Z",
+    "url": "https://github.com/apache/airflow/releases/tag/3.3.2"
+  },
+  "assets": [
+    {
+      "name": "apache_airflow_core-3.3.2-py3-none-any.whl",
+      "size": 6921273,
+      "url": "https://github.com/apache/airflow/releases/download/3.3.2/apache_airflow_core-3.3.2-py3-none-any.whl"
+    },
+    {
+      "name": "apache_airflow_core-3.3.2.tar.gz",
+      "size": 7442317,
+      "url": "https://github.com/apache/airflow/releases/download/3.3.2/apache_airflow_core-3.3.2.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

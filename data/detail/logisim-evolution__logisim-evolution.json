@@ -1,0 +1,73 @@
+{
+  "repo": "logisim-evolution/logisim-evolution",
+  "slug": "logisim-evolution__logisim-evolution",
+  "name": "Logisim-evolution",
+  "note_zh": "数字逻辑设计与电路仿真工具，可拖拽搭电路并仿真，适合计算机组成原理教学。",
+  "category": "教育",
+  "category_slug": "education",
+  "subcategory": "在线学习",
+  "subcategory_slug": "lms",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "Circuit Simulation",
+    "Logic Gates"
+  ],
+  "deploy_type": "桌面应用 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-14T05:30:55Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/logisim-evolution/logisim-evolution/zip/refs/heads/main",
+  "release": {
+    "tag": "v5.0.0",
+    "name": "Version 5.0.0",
+    "published": "2026-09-12T05:36:54Z",
+    "url": "https://github.com/logisim-evolution/logisim-evolution/releases/tag/v5.0.0"
+  },
+  "assets": [
+    {
+      "name": "logisim-evolution-5.0.0-windows-aarch64.zip",
+      "size": 75421328,
+      "url": "https://github.com/logisim-evolution/logisim-evolution/releases/download/v5.0.0/logisim-evolution-5.0.0-windows-aarch64.zip"
+    },
+    {
+      "name": "logisim-evolution-5.0.0-aarch64.msi",
+      "size": 77194873,
+      "url": "https://github.com/logisim-evolution/logisim-evolution/releases/download/v5.0.0/logisim-evolution-5.0.0-aarch64.msi"
+    },
+    {
+      "name": "logisim-evolution-5.0.0-aarch64.dmg",
+      "size": 82128932,
+      "url": "https://github.com/logisim-evolution/logisim-evolution/releases/download/v5.0.0/logisim-evolution-5.0.0-aarch64.dmg"
+    },
+    {
+      "name": "logisim-evolution-5.0.0-x86_64.dmg",
+      "size": 84170401,
+      "url": "https://github.com/logisim-evolution/logisim-evolution/releases/download/v5.0.0/logisim-evolution-5.0.0-x86_64.dmg"
+    },
+    {
+      "name": "logisim-evolution_5.0.0_amd64.deb",
+      "size": 71670978,
+      "url": "https://github.com/logisim-evolution/logisim-evolution/releases/download/v5.0.0/logisim-evolution_5.0.0_amd64.deb"
+    },
+    {
+      "name": "logisim-evolution-5.0.0-1.x86_64.rpm",
+      "size": 71681447,
+      "url": "https://github.com/logisim-evolution/logisim-evolution/releases/download/v5.0.0/logisim-evolution-5.0.0-1.x86_64.rpm"
+    },
+    {
+      "name": "logisim-evolution-5.0.0-all.jar",
+      "size": 54448596,
+      "url": "https://github.com/logisim-evolution/logisim-evolution/releases/download/v5.0.0/logisim-evolution-5.0.0-all.jar"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

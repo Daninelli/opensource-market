@@ -1,0 +1,43 @@
+{
+  "repo": "DuarteSantos8/openGym",
+  "slug": "DuarteSantos8__openGym",
+  "name": "OpenGym",
+  "note_zh": "自托管健身与自重训练记录工具，支持训练计划与动作日志，适合个人。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Node.js",
+    "Docker"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:54:29Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/DuarteSantos8/openGym/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.4.1",
+    "name": "v1.4.1",
+    "published": "2026-10-10T16:23:14Z",
+    "url": "https://github.com/DuarteSantos8/openGym/releases/tag/v1.4.1"
+  },
+  "assets": [
+    {
+      "name": "openGym-1.4.1.apk",
+      "size": 304718274,
+      "url": "https://github.com/DuarteSantos8/openGym/releases/download/v1.4.1/openGym-1.4.1.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

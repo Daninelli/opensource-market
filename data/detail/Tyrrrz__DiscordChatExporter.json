@@ -1,0 +1,67 @@
+{
+  "repo": "Tyrrrz/DiscordChatExporter",
+  "slug": "Tyrrrz__DiscordChatExporter",
+  "name": "DiscordChatExporter",
+  "note_zh": "把 Discord 频道聊天记录导出为文件存档，支持批量与多种格式，适合社群做内容备份。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "论坛社区",
+  "subcategory_slug": "forum",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET"
+  ],
+  "deploy_type": "命令行 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-17T10:19:58Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "prime",
+  "download_url": "https://codeload.github.com/Tyrrrz/DiscordChatExporter/zip/refs/heads/prime",
+  "release": {
+    "tag": "2.48",
+    "name": "2.48",
+    "published": "2026-08-27T17:17:35Z",
+    "url": "https://github.com/Tyrrrz/DiscordChatExporter/releases/tag/2.48"
+  },
+  "assets": [
+    {
+      "name": "DiscordChatExporter.Cli.win-x86.zip",
+      "size": 10068245,
+      "url": "https://github.com/Tyrrrz/DiscordChatExporter/releases/download/2.48/DiscordChatExporter.Cli.win-x86.zip"
+    },
+    {
+      "name": "DiscordChatExporter.Cli.win-arm64.zip",
+      "size": 11125281,
+      "url": "https://github.com/Tyrrrz/DiscordChatExporter/releases/download/2.48/DiscordChatExporter.Cli.win-arm64.zip"
+    },
+    {
+      "name": "DiscordChatExporter.Cli.linux-arm.zip",
+      "size": 9215196,
+      "url": "https://github.com/Tyrrrz/DiscordChatExporter/releases/download/2.48/DiscordChatExporter.Cli.linux-arm.zip"
+    },
+    {
+      "name": "DiscordChatExporter.Cli.linux-arm64.zip",
+      "size": 11315475,
+      "url": "https://github.com/Tyrrrz/DiscordChatExporter/releases/download/2.48/DiscordChatExporter.Cli.linux-arm64.zip"
+    },
+    {
+      "name": "DiscordChatExporter.Cli.osx-arm64.zip",
+      "size": 10417274,
+      "url": "https://github.com/Tyrrrz/DiscordChatExporter/releases/download/2.48/DiscordChatExporter.Cli.osx-arm64.zip"
+    },
+    {
+      "name": "DiscordChatExporter.Cli.osx-x64.zip",
+      "size": 11204861,
+      "url": "https://github.com/Tyrrrz/DiscordChatExporter/releases/download/2.48/DiscordChatExporter.Cli.osx-x64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

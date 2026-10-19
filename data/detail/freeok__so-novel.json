@@ -1,0 +1,63 @@
+{
+  "repo": "freeok/so-novel",
+  "slug": "freeok__so-novel",
+  "name": "So-novel",
+  "note_zh": "命令行小说下载器，从多个书源抓取并导出电子书，适合批量离线阅读网文的人。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "电子书与阅读",
+  "subcategory_slug": "ebook",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "CLI",
+    "TUI"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-16T18:07:13Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/freeok/so-novel/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.11.0",
+    "name": "v1.11.0",
+    "published": "2026-06-30T21:54:25Z",
+    "url": "https://github.com/freeok/so-novel/releases/tag/v1.11.0"
+  },
+  "assets": [
+    {
+      "name": "sonovel-macos_x64.tar.gz",
+      "size": 83090220,
+      "url": "https://github.com/freeok/so-novel/releases/download/v1.11.0/sonovel-macos_x64.tar.gz"
+    },
+    {
+      "name": "sonovel-windows.tar.gz",
+      "size": 84944652,
+      "url": "https://github.com/freeok/so-novel/releases/download/v1.11.0/sonovel-windows.tar.gz"
+    },
+    {
+      "name": "sonovel-macos_arm64.tar.gz",
+      "size": 88237798,
+      "url": "https://github.com/freeok/so-novel/releases/download/v1.11.0/sonovel-macos_arm64.tar.gz"
+    },
+    {
+      "name": "sonovel-linux_arm64.tar.gz",
+      "size": 90735981,
+      "url": "https://github.com/freeok/so-novel/releases/download/v1.11.0/sonovel-linux_arm64.tar.gz"
+    },
+    {
+      "name": "sonovel-linux_x64.tar.gz",
+      "size": 92436121,
+      "url": "https://github.com/freeok/so-novel/releases/download/v1.11.0/sonovel-linux_x64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

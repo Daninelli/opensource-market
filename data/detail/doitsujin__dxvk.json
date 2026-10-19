@@ -1,0 +1,48 @@
+{
+  "repo": "doitsujin/dxvk",
+  "slug": "doitsujin__dxvk",
+  "name": "Dxvk",
+  "note_zh": "把 Direct3D 8/9/10/11 转译为 Vulkan 的兼容层，让 Linux 与 W…",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "影音媒体",
+  "subcategory_slug": "streaming",
+  "license": "Zlib",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Vulkan",
+    "SPIR-V"
+  ],
+  "deploy_type": "源码 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T00:04:11Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/doitsujin/dxvk/zip/refs/heads/master",
+  "release": {
+    "tag": "v3.1.1",
+    "name": "Version 3.1.1",
+    "published": "2026-09-15T17:43:25Z",
+    "url": "https://github.com/doitsujin/dxvk/releases/tag/v3.1.1"
+  },
+  "assets": [
+    {
+      "name": "dxvk-3.1.1.tar.gz",
+      "size": 18041512,
+      "url": "https://github.com/doitsujin/dxvk/releases/download/v3.1.1/dxvk-3.1.1.tar.gz"
+    },
+    {
+      "name": "dxvk-native-3.1.1-steamrt-sniper.tar.gz",
+      "size": 18917214,
+      "url": "https://github.com/doitsujin/dxvk/releases/download/v3.1.1/dxvk-native-3.1.1-steamrt-sniper.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

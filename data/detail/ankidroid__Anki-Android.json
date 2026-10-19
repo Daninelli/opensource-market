@@ -1,0 +1,53 @@
+{
+  "repo": "ankidroid/Anki-Android",
+  "slug": "ankidroid__Anki-Android",
+  "name": "Anki-Android",
+  "note_zh": "Android 版 Anki 闪卡客户端，基于间隔重复算法，适合备考与长期记忆学习。",
+  "category": "教育",
+  "category_slug": "education",
+  "subcategory": "在线学习",
+  "subcategory_slug": "lms",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Kotlin",
+    "Android",
+    "SQLite"
+  ],
+  "deploy_type": "客户端 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T05:21:24Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/ankidroid/Anki-Android/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.25.3",
+    "name": "AnkiDroid 2.25.3",
+    "published": "2026-10-17T15:34:13Z",
+    "url": "https://github.com/ankidroid/Anki-Android/releases/tag/v2.25.3"
+  },
+  "assets": [
+    {
+      "name": "variant-abi-AnkiDroid-2.25.3-armeabi-v7a.apk",
+      "size": 36874895,
+      "url": "https://github.com/ankidroid/Anki-Android/releases/download/v2.25.3/variant-abi-AnkiDroid-2.25.3-armeabi-v7a.apk"
+    },
+    {
+      "name": "AnkiDroid-2.25.3-arm64-v8a.apk",
+      "size": 41173951,
+      "url": "https://github.com/ankidroid/Anki-Android/releases/download/v2.25.3/AnkiDroid-2.25.3-arm64-v8a.apk"
+    },
+    {
+      "name": "z-proguard-mappings.tar.gz",
+      "size": 71368957,
+      "url": "https://github.com/ankidroid/Anki-Android/releases/download/v2.25.3/z-proguard-mappings.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,43 @@
+{
+  "repo": "hneemann/Digital",
+  "slug": "hneemann__Digital",
+  "name": "Digital",
+  "note_zh": "数字电路设计与仿真软件，拖拽逻辑门搭建电路并运行，适合电子与计算机教学。",
+  "category": "教育",
+  "category_slug": "education",
+  "subcategory": "在线学习",
+  "subcategory_slug": "lms",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "Circuit Simulation",
+    "Logic Gates"
+  ],
+  "deploy_type": "桌面应用 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-08T05:21:15Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/hneemann/Digital/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.31",
+    "name": "Lots of small improvements",
+    "published": "2024-09-03T12:17:17Z",
+    "url": "https://github.com/hneemann/Digital/releases/tag/v0.31"
+  },
+  "assets": [
+    {
+      "name": "Digital.zip",
+      "size": 12689882,
+      "url": "https://github.com/hneemann/Digital/releases/download/v0.31/Digital.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

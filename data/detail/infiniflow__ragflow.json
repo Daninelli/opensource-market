@@ -1,0 +1,69 @@
+{
+  "repo": "infiniflow/ragflow",
+  "slug": "infiniflow__ragflow",
+  "name": "Ragflow",
+  "note_zh": "开源 RAG 引擎，把各类文档切分入库供大模型检索问答，适合企业自建知识库。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Go",
+    "RAG",
+    "Docker"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:09:34Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/infiniflow/ragflow/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.0.0-rc2",
+    "name": "v1.0.0-rc2",
+    "published": "2026-10-16T09:49:48Z",
+    "url": "https://github.com/infiniflow/ragflow/releases/tag/v1.0.0-rc2"
+  },
+  "assets": [
+    {
+      "name": "ragflow-cli-v1.0.0-rc2-windows-arm64.exe",
+      "size": 36182016,
+      "url": "https://github.com/infiniflow/ragflow/releases/download/v1.0.0-rc2/ragflow-cli-v1.0.0-rc2-windows-arm64.exe"
+    },
+    {
+      "name": "ragflow-cli-v1.0.0-rc2-darwin-arm64",
+      "size": 36929314,
+      "url": "https://github.com/infiniflow/ragflow/releases/download/v1.0.0-rc2/ragflow-cli-v1.0.0-rc2-darwin-arm64"
+    },
+    {
+      "name": "ragflow-cli-v1.0.0-rc2-windows-amd64.exe",
+      "size": 42483712,
+      "url": "https://github.com/infiniflow/ragflow/releases/download/v1.0.0-rc2/ragflow-cli-v1.0.0-rc2-windows-amd64.exe"
+    },
+    {
+      "name": "ragflow-cli-v1.0.0-rc2-darwin-amd64",
+      "size": 42583024,
+      "url": "https://github.com/infiniflow/ragflow/releases/download/v1.0.0-rc2/ragflow-cli-v1.0.0-rc2-darwin-amd64"
+    },
+    {
+      "name": "ragflow-cli-v1.0.0-rc2-linux-arm64",
+      "size": 35782816,
+      "url": "https://github.com/infiniflow/ragflow/releases/download/v1.0.0-rc2/ragflow-cli-v1.0.0-rc2-linux-arm64"
+    },
+    {
+      "name": "ragflow-cli-v1.0.0-rc2-linux-amd64",
+      "size": 41595040,
+      "url": "https://github.com/infiniflow/ragflow/releases/download/v1.0.0-rc2/ragflow-cli-v1.0.0-rc2-linux-amd64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

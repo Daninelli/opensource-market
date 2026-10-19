@@ -1,0 +1,32 @@
+{
+  "repo": "vuetifyjs/vuetify",
+  "slug": "vuetifyjs__vuetify",
+  "name": "Vuetify",
+  "note_zh": "Vue 的 Material Design 组件框架，适合快速搭建风格统一的后台界面。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Vue",
+    "Material Design"
+  ],
+  "deploy_type": "前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:04:42Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/vuetifyjs/vuetify/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

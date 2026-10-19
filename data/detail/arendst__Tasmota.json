@@ -1,0 +1,48 @@
+{
+  "repo": "arendst/Tasmota",
+  "slug": "arendst__Tasmota",
+  "name": "Tasmota",
+  "note_zh": "面向 ESP8266/ESP32 的开源固件，网页配置即可接入 MQTT 与智能家居，适合玩转物…",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C",
+    "ESP32",
+    "MQTT"
+  ],
+  "deploy_type": "二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:09:10Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "development",
+  "download_url": "https://codeload.github.com/arendst/Tasmota/zip/refs/heads/development",
+  "release": {
+    "tag": "v16.0.0",
+    "name": "Tasmota v16.0.0 Theo",
+    "published": "2026-10-16T07:53:42Z",
+    "url": "https://github.com/arendst/Tasmota/releases/tag/v16.0.0"
+  },
+  "assets": [
+    {
+      "name": "tasmota-minimal.map.gz",
+      "size": 190663,
+      "url": "https://github.com/arendst/Tasmota/releases/download/v16.0.0/tasmota-minimal.map.gz"
+    },
+    {
+      "name": "tasmota-lite.map.gz",
+      "size": 226761,
+      "url": "https://github.com/arendst/Tasmota/releases/download/v16.0.0/tasmota-lite.map.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

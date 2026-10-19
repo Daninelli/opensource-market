@@ -1,0 +1,32 @@
+{
+  "repo": "srbhr/Resume-Matcher",
+  "slug": "srbhr__Resume-Matcher",
+  "name": "Resume-Matcher",
+  "note_zh": "本地运行的 AI 简历工具，可生成简历、求职信并做岗位匹配，支持上百种大模型。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "人力资源",
+  "subcategory_slug": "hr",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Next.js",
+    "LLM"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-17T04:54:13Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/srbhr/Resume-Matcher/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

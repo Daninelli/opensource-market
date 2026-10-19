@@ -1,0 +1,33 @@
+{
+  "repo": "kubernetes/kubernetes",
+  "slug": "kubernetes__kubernetes",
+  "name": "Kubernetes",
+  "note_zh": "容器编排平台，负责调度、扩缩容与服务治理，适合生产环境的集群运维。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Kubernetes",
+    "Docker",
+    "CNCF"
+  ],
+  "deploy_type": "二进制 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:17:27Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/kubernetes/kubernetes/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

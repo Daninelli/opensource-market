@@ -1,0 +1,48 @@
+{
+  "repo": "Dogfalo/materialize",
+  "slug": "Dogfalo__materialize",
+  "name": "Materialize",
+  "note_zh": "基于 Material Design 的响应式前端框架，适合传统网页快速成型。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "CSS",
+    "JavaScript",
+    "Material Design"
+  ],
+  "deploy_type": "前端源码",
+  "platform": "github",
+  "updated_at": "2026-08-20T13:49:11Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "v1-dev",
+  "download_url": "https://codeload.github.com/Dogfalo/materialize/zip/refs/heads/v1-dev",
+  "release": {
+    "tag": "1.0.0",
+    "name": "1.0.0",
+    "published": "2018-09-09T22:16:00Z",
+    "url": "https://github.com/Dogfalo/materialize/releases/tag/1.0.0"
+  },
+  "assets": [
+    {
+      "name": "materialize-v1.0.0.zip",
+      "size": 165533,
+      "url": "https://github.com/Dogfalo/materialize/releases/download/1.0.0/materialize-v1.0.0.zip"
+    },
+    {
+      "name": "materialize-src-v1.0.0.zip",
+      "size": 246245,
+      "url": "https://github.com/Dogfalo/materialize/releases/download/1.0.0/materialize-src-v1.0.0.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,32 @@
+{
+  "repo": "emqx/emqx",
+  "slug": "emqx__emqx",
+  "name": "Emqx",
+  "note_zh": "高扩展 MQTT 消息 broker，支撑海量 IoT 设备连接，可私有化部署。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "智能家居",
+  "subcategory_slug": "smart-home",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Erlang",
+    "MQTT",
+    "IoT"
+  ],
+  "deploy_type": "Docker 部署 / 二进制 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:25:10Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/emqx/emqx/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

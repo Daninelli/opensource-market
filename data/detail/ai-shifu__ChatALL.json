@@ -1,0 +1,68 @@
+{
+  "repo": "ai-shifu/ChatALL",
+  "slug": "ai-shifu__ChatALL",
+  "name": "ChatALL",
+  "note_zh": "桌面客户端，同时向 ChatGPT、Claude、Gemini 等多个机器人提问并对比回答。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "即时通讯",
+  "subcategory_slug": "im",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Electron",
+    "Vue"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-13T12:12:10Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/ai-shifu/ChatALL/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.85.110",
+    "name": "1.85.110",
+    "published": "2025-05-22T16:34:21Z",
+    "url": "https://github.com/ai-shifu/ChatALL/releases/tag/v1.85.110"
+  },
+  "assets": [
+    {
+      "name": "ChatALL-1.85.110-win-x64.exe",
+      "size": 89365578,
+      "url": "https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-win-x64.exe"
+    },
+    {
+      "name": "ChatALL-1.85.110-win-arm64.exe",
+      "size": 95594933,
+      "url": "https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-win-arm64.exe"
+    },
+    {
+      "name": "ChatALL-1.85.110-mac-arm64.dmg",
+      "size": 99004498,
+      "url": "https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-mac-arm64.dmg"
+    },
+    {
+      "name": "ChatALL-1.85.110-mac-arm64.zip",
+      "size": 103575543,
+      "url": "https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-mac-arm64.zip"
+    },
+    {
+      "name": "ChatALL-1.85.110-linux-arm64.deb",
+      "size": 80944836,
+      "url": "https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-linux-arm64.deb"
+    },
+    {
+      "name": "ChatALL-1.85.110-linux-amd64.deb",
+      "size": 82020870,
+      "url": "https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-linux-amd64.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

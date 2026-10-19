@@ -1,0 +1,58 @@
+{
+  "repo": "livekit/livekit",
+  "slug": "livekit__livekit",
+  "name": "Livekit",
+  "note_zh": "开源实时音视频传输栈，基于 WebRTC 的 SFU，适合搭建 AI 语音助手与直播通话。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "WebRTC",
+    "SFU"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:41:08Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/livekit/livekit/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.13.10",
+    "name": "v1.13.10",
+    "published": "2026-10-14T07:18:58Z",
+    "url": "https://github.com/livekit/livekit/releases/tag/v1.13.10"
+  },
+  "assets": [
+    {
+      "name": "livekit_1.13.10_windows_arm64.zip",
+      "size": 17384394,
+      "url": "https://github.com/livekit/livekit/releases/download/v1.13.10/livekit_1.13.10_windows_arm64.zip"
+    },
+    {
+      "name": "livekit_1.13.10_windows_amd64.zip",
+      "size": 19616198,
+      "url": "https://github.com/livekit/livekit/releases/download/v1.13.10/livekit_1.13.10_windows_amd64.zip"
+    },
+    {
+      "name": "livekit_1.13.10_linux_arm64.tar.gz",
+      "size": 17493087,
+      "url": "https://github.com/livekit/livekit/releases/download/v1.13.10/livekit_1.13.10_linux_arm64.tar.gz"
+    },
+    {
+      "name": "livekit_1.13.10_linux_armv7.tar.gz",
+      "size": 18035972,
+      "url": "https://github.com/livekit/livekit/releases/download/v1.13.10/livekit_1.13.10_linux_armv7.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

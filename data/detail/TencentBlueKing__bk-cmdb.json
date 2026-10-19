@@ -1,0 +1,43 @@
+{
+  "repo": "TencentBlueKing/bk-cmdb",
+  "slug": "TencentBlueKing__bk-cmdb",
+  "name": "Bk-cmdb",
+  "note_zh": "蓝鲸配置平台，管理 IT 资产与拓扑关系，适合企业搭建 CMDB 与运维底座。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "资产管理",
+  "subcategory_slug": "asset",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Microservice",
+    "MongoDB"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-09-15T11:35:39Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/TencentBlueKing/bk-cmdb/zip/refs/heads/master",
+  "release": {
+    "tag": "release-v3.14.6",
+    "name": "v3.14.6",
+    "published": "2025-05-30T04:15:13Z",
+    "url": "https://github.com/TencentBlueKing/bk-cmdb/releases/tag/release-v3.14.6"
+  },
+  "assets": [
+    {
+      "name": "cmdb_3.14.6.tar.gz",
+      "size": 358089352,
+      "url": "https://github.com/TencentBlueKing/bk-cmdb/releases/download/release-v3.14.6/cmdb_3.14.6.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

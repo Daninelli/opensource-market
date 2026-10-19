@@ -1,0 +1,32 @@
+{
+  "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+  "slug": "mukul975__Anthropic-Cybersecurity-Skills",
+  "name": "Anthropic-Cybersecurity-Skills",
+  "note_zh": "面向 AI Agent 的网络安全技能包，对齐 MITRE ATT&CK 等框架，适合安全自动化。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Claude",
+    "MITRE ATT&CK"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-08-31T04:32:44Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/mukul975/Anthropic-Cybersecurity-Skills/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

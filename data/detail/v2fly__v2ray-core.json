@@ -1,0 +1,78 @@
+{
+  "repo": "v2fly/v2ray-core",
+  "slug": "v2fly__v2ray-core",
+  "name": "V2ray-core",
+  "note_zh": "代理协议平台，用于构建自定义网络隧道与绕过限制，适合代理服务开发者。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "VMess",
+    "Proxy"
+  ],
+  "deploy_type": "二进制 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-09T23:26:24Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/v2fly/v2ray-core/zip/refs/heads/master",
+  "release": {
+    "tag": "v5.53.0",
+    "name": "v5.53.0",
+    "published": "2026-08-02T22:46:29Z",
+    "url": "https://github.com/v2fly/v2ray-core/releases/tag/v5.53.0"
+  },
+  "assets": [
+    {
+      "name": "v2ray-windows-arm64-v8a.zip",
+      "size": 17736372,
+      "url": "https://github.com/v2fly/v2ray-core/releases/download/v5.53.0/v2ray-windows-arm64-v8a.zip"
+    },
+    {
+      "name": "v2ray-macos-arm64-v8a.zip",
+      "size": 18358846,
+      "url": "https://github.com/v2fly/v2ray-core/releases/download/v5.53.0/v2ray-macos-arm64-v8a.zip"
+    },
+    {
+      "name": "v2ray-windows-32.zip",
+      "size": 18739706,
+      "url": "https://github.com/v2fly/v2ray-core/releases/download/v5.53.0/v2ray-windows-32.zip"
+    },
+    {
+      "name": "v2ray-macos-64.zip",
+      "size": 19509781,
+      "url": "https://github.com/v2fly/v2ray-core/releases/download/v5.53.0/v2ray-macos-64.zip"
+    },
+    {
+      "name": "v2ray-linux-mips64le.zip",
+      "size": 17237623,
+      "url": "https://github.com/v2fly/v2ray-core/releases/download/v5.53.0/v2ray-linux-mips64le.zip"
+    },
+    {
+      "name": "v2ray-linux-mips64.zip",
+      "size": 17353614,
+      "url": "https://github.com/v2fly/v2ray-core/releases/download/v5.53.0/v2ray-linux-mips64.zip"
+    },
+    {
+      "name": "v2ray-android-arm64-v8a.zip",
+      "size": 18773863,
+      "url": "https://github.com/v2fly/v2ray-core/releases/download/v5.53.0/v2ray-android-arm64-v8a.zip"
+    },
+    {
+      "name": "v2ray-extra.zip",
+      "size": 296846,
+      "url": "https://github.com/v2fly/v2ray-core/releases/download/v5.53.0/v2ray-extra.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

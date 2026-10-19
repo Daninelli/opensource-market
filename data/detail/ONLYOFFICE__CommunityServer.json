@@ -1,0 +1,32 @@
+{
+  "repo": "ONLYOFFICE/CommunityServer",
+  "slug": "ONLYOFFICE__CommunityServer",
+  "name": "CommunityServer",
+  "note_zh": "开源办公套件服务端，集成文档协作、邮件、项目与 CRM，适合企业自建一体化办公平台。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "客户关系",
+  "subcategory_slug": "crm",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET",
+    "ONLYOFFICE"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-05-05T09:52:35Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/ONLYOFFICE/CommunityServer/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

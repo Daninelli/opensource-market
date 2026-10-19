@@ -1,0 +1,68 @@
+{
+  "repo": "clockworklabs/SpacetimeDB",
+  "slug": "clockworklabs__SpacetimeDB",
+  "name": "SpacetimeDB",
+  "note_zh": "把数据库与服务器合一的 Rust 平台，客户端直接调用表内逻辑，适合多人游戏与实时应用。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "Database",
+    "WebAssembly"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:38:58Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/clockworklabs/SpacetimeDB/zip/refs/heads/master",
+  "release": {
+    "tag": "v2.12.0",
+    "name": "Release v2.12.0",
+    "published": "2026-10-13T18:44:30Z",
+    "url": "https://github.com/clockworklabs/SpacetimeDB/releases/tag/v2.12.0"
+  },
+  "assets": [
+    {
+      "name": "spacetimedb-update-x86_64-pc-windows-msvc.exe",
+      "size": 5418200,
+      "url": "https://github.com/clockworklabs/SpacetimeDB/releases/download/v2.12.0/spacetimedb-update-x86_64-pc-windows-msvc.exe"
+    },
+    {
+      "name": "spacetimedb-update-aarch64-apple-darwin",
+      "size": 6286944,
+      "url": "https://github.com/clockworklabs/SpacetimeDB/releases/download/v2.12.0/spacetimedb-update-aarch64-apple-darwin"
+    },
+    {
+      "name": "spacetimedb-update-x86_64-apple-darwin",
+      "size": 6579640,
+      "url": "https://github.com/clockworklabs/SpacetimeDB/releases/download/v2.12.0/spacetimedb-update-x86_64-apple-darwin"
+    },
+    {
+      "name": "spacetime-x86_64-pc-windows-msvc.zip",
+      "size": 46506400,
+      "url": "https://github.com/clockworklabs/SpacetimeDB/releases/download/v2.12.0/spacetime-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "spacetimedb-update-aarch64-unknown-linux-gnu",
+      "size": 13486192,
+      "url": "https://github.com/clockworklabs/SpacetimeDB/releases/download/v2.12.0/spacetimedb-update-aarch64-unknown-linux-gnu"
+    },
+    {
+      "name": "spacetimedb-update-x86_64-unknown-linux-gnu",
+      "size": 13735696,
+      "url": "https://github.com/clockworklabs/SpacetimeDB/releases/download/v2.12.0/spacetimedb-update-x86_64-unknown-linux-gnu"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

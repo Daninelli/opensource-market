@@ -1,0 +1,32 @@
+{
+  "repo": "donnemartin/system-design-primer",
+  "slug": "donnemartin__system-design-primer",
+  "name": "System-design-primer",
+  "note_zh": "系统设计入门指南，讲解大规模系统设计思路并附面试题，适合后端面试备战。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "System Design",
+    "Python",
+    "Documentation"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-09-15T01:10:09Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/donnemartin/system-design-primer/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

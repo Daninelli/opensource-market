@@ -1,0 +1,48 @@
+{
+  "repo": "simonoppowa/OpenNutriTracker",
+  "slug": "simonoppowa__OpenNutriTracker",
+  "name": "OpenNutriTracker",
+  "note_zh": "开源卡路里记录 App，支持扫码录入食物，适合日常饮食与体重管理。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Dart",
+    "Flutter",
+    "SQLite"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:23:05Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/simonoppowa/OpenNutriTracker/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.4.0",
+    "name": "Release v2.4.0 (build 66)",
+    "published": "2026-09-26T21:58:39Z",
+    "url": "https://github.com/simonoppowa/OpenNutriTracker/releases/tag/v2.4.0"
+  },
+  "assets": [
+    {
+      "name": "opennutritracker.ipa",
+      "size": 32376572,
+      "url": "https://github.com/simonoppowa/OpenNutriTracker/releases/download/v2.4.0/opennutritracker.ipa"
+    },
+    {
+      "name": "app-release.apk",
+      "size": 104738899,
+      "url": "https://github.com/simonoppowa/OpenNutriTracker/releases/download/v2.4.0/app-release.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

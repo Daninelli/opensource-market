@@ -1,0 +1,78 @@
+{
+  "repo": "GopeedLab/gopeed",
+  "slug": "GopeedLab__gopeed",
+  "name": "Gopeed",
+  "note_zh": "跨平台下载管理器，支持 HTTP、BitTorrent、磁力与 ed2k，界面现代、速度较快。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Dart",
+    "Flutter",
+    "Go"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-18T10:25:39Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/GopeedLab/gopeed/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.9.3",
+    "name": "v1.9.3 🌈",
+    "published": "2026-03-18T12:54:20Z",
+    "url": "https://github.com/GopeedLab/gopeed/releases/tag/v1.9.3"
+  },
+  "assets": [
+    {
+      "name": "Gopeed-v1.9.3-windows-arm64.zip",
+      "size": 23517175,
+      "url": "https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/Gopeed-v1.9.3-windows-arm64.zip"
+    },
+    {
+      "name": "Gopeed-v1.9.3-windows-arm64.exe",
+      "size": 24018266,
+      "url": "https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/Gopeed-v1.9.3-windows-arm64.exe"
+    },
+    {
+      "name": "Gopeed-v1.9.3-macos-arm64.dmg",
+      "size": 39394569,
+      "url": "https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/Gopeed-v1.9.3-macos-arm64.dmg"
+    },
+    {
+      "name": "gopeed-web-v1.9.3-macos-arm64.zip",
+      "size": 39824901,
+      "url": "https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/gopeed-web-v1.9.3-macos-arm64.zip"
+    },
+    {
+      "name": "Gopeed-v1.9.3-linux-arm64.rpm",
+      "size": 30462440,
+      "url": "https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/Gopeed-v1.9.3-linux-arm64.rpm"
+    },
+    {
+      "name": "Gopeed-v1.9.3-linux-arm64.deb",
+      "size": 30609082,
+      "url": "https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/Gopeed-v1.9.3-linux-arm64.deb"
+    },
+    {
+      "name": "Gopeed-v1.9.3-ios.ipa",
+      "size": 27488140,
+      "url": "https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/Gopeed-v1.9.3-ios.ipa"
+    },
+    {
+      "name": "Gopeed-v1.9.3-android-arm64-v8a.apk",
+      "size": 25240830,
+      "url": "https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/Gopeed-v1.9.3-android-arm64-v8a.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

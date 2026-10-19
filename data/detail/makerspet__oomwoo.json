@@ -1,0 +1,33 @@
+{
+  "repo": "makerspet/oomwoo",
+  "slug": "makerspet__oomwoo",
+  "name": "Oomwoo",
+  "note_zh": "开源扫地机器人方案，含硬件设计与 ESP32 固件，可自行 3D 打印组装。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "智能家居",
+  "subcategory_slug": "smart-home",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "ESP32",
+    "Arduino",
+    "LiDAR"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T07:00:29Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/makerspet/oomwoo/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,49 @@
+{
+  "repo": "XayahSuSuSu/Android-DataBackup",
+  "slug": "XayahSuSuSu__Android-DataBackup",
+  "name": "Android-DataBackup",
+  "note_zh": "Android 数据备份客户端，可打包应用与数据并压缩，需 root 权限，适合刷机与换机。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "私有同步",
+  "subcategory_slug": "sync",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Kotlin",
+    "Jetpack Compose",
+    "Android",
+    "Zstd"
+  ],
+  "deploy_type": "客户端 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:37:40Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/XayahSuSuSu/Android-DataBackup/zip/refs/heads/main",
+  "release": {
+    "tag": "2.0.12",
+    "name": "2.0.12",
+    "published": "2025-09-20T09:36:11Z",
+    "url": "https://github.com/XayahSuSuSu/Android-DataBackup/releases/tag/2.0.12"
+  },
+  "assets": [
+    {
+      "name": "DataBackup-2.0.12-armeabi-v7a-foss-release.apk",
+      "size": 13404913,
+      "url": "https://github.com/XayahSuSuSu/Android-DataBackup/releases/download/2.0.12/DataBackup-2.0.12-armeabi-v7a-foss-release.apk"
+    },
+    {
+      "name": "DataBackup-2.0.12-armeabi-v7a-premium-release.apk",
+      "size": 14088799,
+      "url": "https://github.com/XayahSuSuSu/Android-DataBackup/releases/download/2.0.12/DataBackup-2.0.12-armeabi-v7a-premium-release.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

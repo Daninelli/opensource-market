@@ -18,15 +18,15 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T06:35:03Z",
+  "updated_at": "2026-10-19T12:17:58Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mattermost/mattermost/zip/refs/heads/master",
   "release": {
-    "tag": "v11.11.2",
-    "name": "v11.11.2",
-    "published": "2026-10-19T06:55:38Z",
-    "url": "https://github.com/mattermost/mattermost/releases/tag/v11.11.2"
+    "tag": "v12.0.0",
+    "name": "v12.0.0",
+    "published": "2026-10-14T10:08:59Z",
+    "url": "https://github.com/mattermost/mattermost/releases/tag/v12.0.0"
   },
   "assets": [],
   "pinned": false,

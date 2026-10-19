@@ -1,0 +1,78 @@
+{
+  "repo": "nexmoe/VidBee",
+  "slug": "nexmoe__VidBee",
+  "name": "VidBee",
+  "note_zh": "跨平台桌面下载器，支持 YouTube、TikTok 等站点的音视频解析下载，适合普通用户。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron",
+    "React"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-18T06:17:58Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/nexmoe/VidBee/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.2.3",
+    "name": "v2.2.3",
+    "published": "2026-10-11T13:28:35Z",
+    "url": "https://github.com/nexmoe/VidBee/releases/tag/v2.2.3"
+  },
+  "assets": [
+    {
+      "name": "vidbee-2.2.3-x64.dmg",
+      "size": 251453336,
+      "url": "https://github.com/nexmoe/VidBee/releases/download/v2.2.3/vidbee-2.2.3-x64.dmg"
+    },
+    {
+      "name": "vidbee-2.2.3-arm64.dmg",
+      "size": 273387623,
+      "url": "https://github.com/nexmoe/VidBee/releases/download/v2.2.3/vidbee-2.2.3-arm64.dmg"
+    },
+    {
+      "name": "vidbee-2.2.3-portable.exe",
+      "size": 408298204,
+      "url": "https://github.com/nexmoe/VidBee/releases/download/v2.2.3/vidbee-2.2.3-portable.exe"
+    },
+    {
+      "name": "vidbee-2.2.3-setup.exe",
+      "size": 408453106,
+      "url": "https://github.com/nexmoe/VidBee/releases/download/v2.2.3/vidbee-2.2.3-setup.exe"
+    },
+    {
+      "name": "vidbee-2.2.3.AppImage",
+      "size": 312605282,
+      "url": "https://github.com/nexmoe/VidBee/releases/download/v2.2.3/vidbee-2.2.3.AppImage"
+    },
+    {
+      "name": "vidbee_2.2.3_amd64.deb",
+      "size": 316446388,
+      "url": "https://github.com/nexmoe/VidBee/releases/download/v2.2.3/vidbee_2.2.3_amd64.deb"
+    },
+    {
+      "name": "vidbee-2.2.3-x64.zip",
+      "size": 274360838,
+      "url": "https://github.com/nexmoe/VidBee/releases/download/v2.2.3/vidbee-2.2.3-x64.zip"
+    },
+    {
+      "name": "vidbee-2.2.3-arm64.zip",
+      "size": 293065379,
+      "url": "https://github.com/nexmoe/VidBee/releases/download/v2.2.3/vidbee-2.2.3-arm64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

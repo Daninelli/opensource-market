@@ -1,0 +1,32 @@
+{
+  "repo": "D4Vinci/Scrapling",
+  "slug": "D4Vinci__Scrapling",
+  "name": "Scrapling",
+  "note_zh": "自适应网页抓取框架，从单次请求到大规模爬取都能应对，适合数据采集与分析。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "BSD-3-Clause",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Playwright",
+    "Web Scraping"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T17:41:44Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/D4Vinci/Scrapling/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

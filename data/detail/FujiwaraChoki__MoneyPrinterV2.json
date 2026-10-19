@@ -1,0 +1,32 @@
+{
+  "repo": "FujiwaraChoki/MoneyPrinterV2",
+  "slug": "FujiwaraChoki__MoneyPrinterV2",
+  "name": "MoneyPrinterV2",
+  "note_zh": "自动化短视频生产脚本，串联选题、配音、剪辑与发布，适合想批量运营视频账号的个人创作者。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Automation",
+    "YouTube API"
+  ],
+  "deploy_type": "源码 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-09-15T22:35:17Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/FujiwaraChoki/MoneyPrinterV2/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

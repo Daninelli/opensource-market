@@ -1,0 +1,78 @@
+{
+  "repo": "glanceapp/glance",
+  "slug": "glanceapp__glance",
+  "name": "Glance",
+  "note_zh": "自托管仪表盘，把 RSS、天气、服务状态等信息聚合到一页，适合 NAS 与家庭实验室。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Docker",
+    "YAML"
+  ],
+  "deploy_type": "Docker 部署 / 二进制 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-15T12:27:36Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/glanceapp/glance/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.8.7",
+    "name": "v0.8.7",
+    "published": "2026-10-15T12:27:36Z",
+    "url": "https://github.com/glanceapp/glance/releases/tag/v0.8.7"
+  },
+  "assets": [
+    {
+      "name": "glance-windows-arm64.zip",
+      "size": 5860887,
+      "url": "https://github.com/glanceapp/glance/releases/download/v0.8.7/glance-windows-arm64.zip"
+    },
+    {
+      "name": "glance-darwin-arm64.tar.gz",
+      "size": 6050890,
+      "url": "https://github.com/glanceapp/glance/releases/download/v0.8.7/glance-darwin-arm64.tar.gz"
+    },
+    {
+      "name": "glance-windows-386.zip",
+      "size": 6368429,
+      "url": "https://github.com/glanceapp/glance/releases/download/v0.8.7/glance-windows-386.zip"
+    },
+    {
+      "name": "glance-darwin-amd64.tar.gz",
+      "size": 6487663,
+      "url": "https://github.com/glanceapp/glance/releases/download/v0.8.7/glance-darwin-amd64.tar.gz"
+    },
+    {
+      "name": "glance-linux-arm64.tar.gz",
+      "size": 5801448,
+      "url": "https://github.com/glanceapp/glance/releases/download/v0.8.7/glance-linux-arm64.tar.gz"
+    },
+    {
+      "name": "glance-linux-armv7.tar.gz",
+      "size": 6101248,
+      "url": "https://github.com/glanceapp/glance/releases/download/v0.8.7/glance-linux-armv7.tar.gz"
+    },
+    {
+      "name": "glance-freebsd-arm64.tar.gz",
+      "size": 5699499,
+      "url": "https://github.com/glanceapp/glance/releases/download/v0.8.7/glance-freebsd-arm64.tar.gz"
+    },
+    {
+      "name": "glance-openbsd-arm64.tar.gz",
+      "size": 5749878,
+      "url": "https://github.com/glanceapp/glance/releases/download/v0.8.7/glance-openbsd-arm64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

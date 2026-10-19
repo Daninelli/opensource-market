@@ -1,0 +1,32 @@
+{
+  "repo": "plotly/dash",
+  "slug": "plotly__dash",
+  "name": "Dash",
+  "note_zh": "Plotly 出品的 Python 数据应用框架，不写 JavaScript 也能做数据仪表盘。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "数据分析",
+  "subcategory_slug": "bi",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Plotly",
+    "React"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-15T19:38:11Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/plotly/dash/zip/refs/heads/dev",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

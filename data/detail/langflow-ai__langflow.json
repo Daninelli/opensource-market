@@ -1,0 +1,43 @@
+{
+  "repo": "langflow-ai/langflow",
+  "slug": "langflow-ai__langflow",
+  "name": "Langflow",
+  "note_zh": "可视化搭建 AI 智能体与工作流的低代码平台，支持自托管与 API 部署。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "React",
+    "LLM"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:22:50Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/langflow-ai/langflow/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.12.6",
+    "name": "1.12.6",
+    "published": "2026-10-13T16:29:12Z",
+    "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.12.6"
+  },
+  "assets": [
+    {
+      "name": "langflow_base-1.12.6-py3-none-any.whl",
+      "size": 18570663,
+      "url": "https://github.com/langflow-ai/langflow/releases/download/v1.12.6/langflow_base-1.12.6-py3-none-any.whl"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

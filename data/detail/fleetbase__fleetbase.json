@@ -1,0 +1,48 @@
+{
+  "repo": "fleetbase/fleetbase",
+  "slug": "fleetbase__fleetbase",
+  "name": "Fleetbase",
+  "note_zh": "模块化物流与供应链操作系统，含车队、配送与库存管理，适合物流企业搭建平台。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "企业资源",
+  "subcategory_slug": "erp",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Ember.js",
+    "Laravel"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T07:11:55Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/fleetbase/fleetbase/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.7.71",
+    "name": "v0.7.71",
+    "published": "2026-10-19T07:06:16Z",
+    "url": "https://github.com/fleetbase/fleetbase/releases/tag/v0.7.71"
+  },
+  "assets": [
+    {
+      "name": "fleetbase-darwin-arm64",
+      "size": 118880706,
+      "url": "https://github.com/fleetbase/fleetbase/releases/download/v0.7.71/fleetbase-darwin-arm64"
+    },
+    {
+      "name": "fleetbase-linux-x86_64",
+      "size": 135025192,
+      "url": "https://github.com/fleetbase/fleetbase/releases/download/v0.7.71/fleetbase-linux-x86_64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,32 @@
+{
+  "repo": "backstage/backstage",
+  "slug": "backstage__backstage",
+  "name": "Backstage",
+  "note_zh": "构建开发者门户的框架，统一服务目录、文档与脚手架，适合平台工程团队自建 IDP。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React",
+    "Node.js"
+  ],
+  "deploy_type": "源码 / 前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T02:55:37Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/backstage/backstage/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,77 @@
+{
+  "repo": "team-spotube/spotube",
+  "slug": "team-spotube__spotube",
+  "name": "Spotube",
+  "note_zh": "跨平台开源音乐播放器，元数据取自 Spotify、音源来自 YouTube，适合想免广告听歌的人。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "影音媒体",
+  "subcategory_slug": "streaming",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Dart",
+    "Flutter"
+  ],
+  "deploy_type": "客户端 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T07:04:31Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/team-spotube/spotube/zip/refs/heads/master",
+  "release": {
+    "tag": "v5.1.2",
+    "name": "v5.1.2",
+    "published": "2026-06-05T05:10:18Z",
+    "url": "https://github.com/team-spotube/spotube/releases/tag/v5.1.2"
+  },
+  "assets": [
+    {
+      "name": "Spotube-windows-x86_64.nupkg",
+      "size": 37749819,
+      "url": "https://github.com/team-spotube/spotube/releases/download/v5.1.2/Spotube-windows-x86_64.nupkg"
+    },
+    {
+      "name": "Spotube-windows-x86_64-setup.exe",
+      "size": 38294732,
+      "url": "https://github.com/team-spotube/spotube/releases/download/v5.1.2/Spotube-windows-x86_64-setup.exe"
+    },
+    {
+      "name": "Spotube-macos-universal.pkg",
+      "size": 62856766,
+      "url": "https://github.com/team-spotube/spotube/releases/download/v5.1.2/Spotube-macos-universal.pkg"
+    },
+    {
+      "name": "Spotube-macos-universal.dmg",
+      "size": 63167099,
+      "url": "https://github.com/team-spotube/spotube/releases/download/v5.1.2/Spotube-macos-universal.dmg"
+    },
+    {
+      "name": "spotube-linux-5.1.2-aarch64.tar.xz",
+      "size": 34254800,
+      "url": "https://github.com/team-spotube/spotube/releases/download/v5.1.2/spotube-linux-5.1.2-aarch64.tar.xz"
+    },
+    {
+      "name": "spotube-linux-5.1.2-x86_64.tar.xz",
+      "size": 35261468,
+      "url": "https://github.com/team-spotube/spotube/releases/download/v5.1.2/spotube-linux-5.1.2-x86_64.tar.xz"
+    },
+    {
+      "name": "Spotube-iOS.ipa",
+      "size": 34853093,
+      "url": "https://github.com/team-spotube/spotube/releases/download/v5.1.2/Spotube-iOS.ipa"
+    },
+    {
+      "name": "Spotube-android-all-arch.apk",
+      "size": 128388471,
+      "url": "https://github.com/team-spotube/spotube/releases/download/v5.1.2/Spotube-android-all-arch.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

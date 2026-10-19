@@ -1,0 +1,33 @@
+{
+  "repo": "ansible/awx",
+  "slug": "ansible__awx",
+  "name": "Awx",
+  "note_zh": "Ansible 的 Web 管理界面与任务引擎，提供 REST API，适合运维统一编排自动化。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Django",
+    "React",
+    "Ansible"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T00:02:27Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "devel",
+  "download_url": "https://codeload.github.com/ansible/awx/zip/refs/heads/devel",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

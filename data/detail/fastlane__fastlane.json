@@ -1,0 +1,43 @@
+{
+  "repo": "fastlane/fastlane",
+  "slug": "fastlane__fastlane",
+  "name": "Fastlane",
+  "note_zh": "自动化 iOS 与 Android 的构建、签名和发布流程，一条命令完成上架，适合移动端开发与发…",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Ruby",
+    "iOS",
+    "Android"
+  ],
+  "deploy_type": "命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:31:41Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/fastlane/fastlane/zip/refs/heads/master",
+  "release": {
+    "tag": "2.241.1",
+    "name": "2.241.1 Improvements",
+    "published": "2026-10-15T13:07:51Z",
+    "url": "https://github.com/fastlane/fastlane/releases/tag/2.241.1"
+  },
+  "assets": [
+    {
+      "name": "fastlane-2.241.1.gem",
+      "size": 1208320,
+      "url": "https://github.com/fastlane/fastlane/releases/download/2.241.1/fastlane-2.241.1.gem"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

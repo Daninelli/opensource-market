@@ -1,0 +1,32 @@
+{
+  "repo": "ohmyzsh/ohmyzsh",
+  "slug": "ohmyzsh__ohmyzsh",
+  "name": "Ohmyzsh",
+  "note_zh": "社区维护的 Zsh 配置框架，内置大量主题与插件，提升终端效率。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Shell",
+    "Zsh",
+    "CLI"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T12:53:51Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/ohmyzsh/ohmyzsh/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,68 @@
+{
+  "repo": "sigoden/dufs",
+  "slug": "sigoden__dufs",
+  "name": "Dufs",
+  "note_zh": "单文件 Rust 文件服务器，支持上传、搜索、权限控制与 WebDAV，适合快速共享目录。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "文件管理与网盘",
+  "subcategory_slug": "file",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "WebDAV",
+    "HTTP"
+  ],
+  "deploy_type": "命令行 / 二进制 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:38:10Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/sigoden/dufs/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.47.0",
+    "name": "v0.47.0",
+    "published": "2026-10-17T03:33:52Z",
+    "url": "https://github.com/sigoden/dufs/releases/tag/v0.47.0"
+  },
+  "assets": [
+    {
+      "name": "dufs-v0.47.0-aarch64-pc-windows-msvc.zip",
+      "size": 1652524,
+      "url": "https://github.com/sigoden/dufs/releases/download/v0.47.0/dufs-v0.47.0-aarch64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "dufs-v0.47.0-aarch64-apple-darwin.tar.gz",
+      "size": 1743070,
+      "url": "https://github.com/sigoden/dufs/releases/download/v0.47.0/dufs-v0.47.0-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "dufs-v0.47.0-x86_64-pc-windows-msvc.zip",
+      "size": 1761134,
+      "url": "https://github.com/sigoden/dufs/releases/download/v0.47.0/dufs-v0.47.0-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "dufs-v0.47.0-x86_64-apple-darwin.tar.gz",
+      "size": 1910484,
+      "url": "https://github.com/sigoden/dufs/releases/download/v0.47.0/dufs-v0.47.0-x86_64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "dufs-v0.47.0-armv7-unknown-linux-musleabihf.tar.gz",
+      "size": 1774753,
+      "url": "https://github.com/sigoden/dufs/releases/download/v0.47.0/dufs-v0.47.0-armv7-unknown-linux-musleabihf.tar.gz"
+    },
+    {
+      "name": "dufs-v0.47.0-arm-unknown-linux-musleabihf.tar.gz",
+      "size": 1808100,
+      "url": "https://github.com/sigoden/dufs/releases/download/v0.47.0/dufs-v0.47.0-arm-unknown-linux-musleabihf.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,68 @@
+{
+  "repo": "projectdiscovery/nuclei",
+  "slug": "projectdiscovery__nuclei",
+  "name": "Nuclei",
+  "note_zh": "模板驱动的漏洞扫描器，社区维护检测规则，适合资产测绘与批量安全巡检。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "YAML",
+    "DAST"
+  ],
+  "deploy_type": "二进制 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:19:12Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/projectdiscovery/nuclei/zip/refs/heads/dev",
+  "release": {
+    "tag": "v3.11.1",
+    "name": "v3.11.1",
+    "published": "2026-08-08T12:21:32Z",
+    "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.11.1"
+  },
+  "assets": [
+    {
+      "name": "nuclei_3.11.1_macOS_arm64.zip",
+      "size": 43571292,
+      "url": "https://github.com/projectdiscovery/nuclei/releases/download/v3.11.1/nuclei_3.11.1_macOS_arm64.zip"
+    },
+    {
+      "name": "nuclei_3.11.1_windows_386.zip",
+      "size": 44074102,
+      "url": "https://github.com/projectdiscovery/nuclei/releases/download/v3.11.1/nuclei_3.11.1_windows_386.zip"
+    },
+    {
+      "name": "nuclei_3.11.1_windows_amd64.zip",
+      "size": 46067128,
+      "url": "https://github.com/projectdiscovery/nuclei/releases/download/v3.11.1/nuclei_3.11.1_windows_amd64.zip"
+    },
+    {
+      "name": "nuclei_3.11.1_macOS_amd64.zip",
+      "size": 47219687,
+      "url": "https://github.com/projectdiscovery/nuclei/releases/download/v3.11.1/nuclei_3.11.1_macOS_amd64.zip"
+    },
+    {
+      "name": "nuclei_3.11.1_linux_arm64.zip",
+      "size": 41431918,
+      "url": "https://github.com/projectdiscovery/nuclei/releases/download/v3.11.1/nuclei_3.11.1_linux_arm64.zip"
+    },
+    {
+      "name": "nuclei_3.11.1_linux_386.zip",
+      "size": 43344218,
+      "url": "https://github.com/projectdiscovery/nuclei/releases/download/v3.11.1/nuclei_3.11.1_linux_386.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

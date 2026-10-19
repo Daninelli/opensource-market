@@ -1,0 +1,31 @@
+{
+  "repo": "xx025/carrot",
+  "slug": "xx025__carrot",
+  "name": "Carrot",
+  "note_zh": "AI 工具导航站合集，按用途筛选免费、实用的 AI 网站，适合普通用户快速找到趁手工具。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "论坛社区",
+  "subcategory_slug": "forum",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "HTML",
+    "JavaScript"
+  ],
+  "deploy_type": "前端源码",
+  "platform": "github",
+  "updated_at": "2026-09-05T19:50:17Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/xx025/carrot/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

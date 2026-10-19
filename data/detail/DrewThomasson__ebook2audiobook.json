@@ -1,0 +1,32 @@
+{
+  "repo": "DrewThomasson/ebook2audiobook",
+  "slug": "DrewThomasson__ebook2audiobook",
+  "name": "Ebook2audiobook",
+  "note_zh": "把电子书转成有声书的工具，支持声音克隆和上千种语言，适合制作听书内容。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "TTS",
+    "Gradio"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-06T03:55:10Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/DrewThomasson/ebook2audiobook/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

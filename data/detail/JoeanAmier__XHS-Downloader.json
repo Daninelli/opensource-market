@@ -1,0 +1,58 @@
+{
+  "repo": "JoeanAmier/XHS-Downloader",
+  "slug": "JoeanAmier__XHS-Downloader",
+  "name": "XHS-Downloader",
+  "note_zh": "小红书作品链接提取与批量下载工具，支持图文视频，适合内容采集与素材整理。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "FastAPI",
+    "Docker"
+  ],
+  "deploy_type": "Docker 部署 / 源码 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-18T03:41:38Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/JoeanAmier/XHS-Downloader/zip/refs/heads/master",
+  "release": {
+    "tag": "2.8",
+    "name": "XHS-Downloader V2.8",
+    "published": "2026-09-12T14:00:19Z",
+    "url": "https://github.com/JoeanAmier/XHS-Downloader/releases/tag/2.8"
+  },
+  "assets": [
+    {
+      "name": "XHS-Downloader_V2.8_Windows_X64.zip",
+      "size": 46009583,
+      "url": "https://github.com/JoeanAmier/XHS-Downloader/releases/download/2.8/XHS-Downloader_V2.8_Windows_X64.zip"
+    },
+    {
+      "name": "XHS-Downloader_V2.8_Windows_ARM64.zip",
+      "size": 46010641,
+      "url": "https://github.com/JoeanAmier/XHS-Downloader/releases/download/2.8/XHS-Downloader_V2.8_Windows_ARM64.zip"
+    },
+    {
+      "name": "XHS-Downloader_V2.8_macOS_X64.zip",
+      "size": 48281127,
+      "url": "https://github.com/JoeanAmier/XHS-Downloader/releases/download/2.8/XHS-Downloader_V2.8_macOS_X64.zip"
+    },
+    {
+      "name": "XHS-Downloader_V2.8_macOS_ARM64.zip",
+      "size": 55284372,
+      "url": "https://github.com/JoeanAmier/XHS-Downloader/releases/download/2.8/XHS-Downloader_V2.8_macOS_ARM64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

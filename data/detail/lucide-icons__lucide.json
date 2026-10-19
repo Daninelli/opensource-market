@@ -1,0 +1,48 @@
+{
+  "repo": "lucide-icons/lucide",
+  "slug": "lucide-icons__lucide",
+  "name": "Lucide",
+  "note_zh": "社区维护的开源图标库，提供风格一致的 SVG 图标及各框架组件。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "SVG",
+    "React"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:02:07Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/lucide-icons/lucide/zip/refs/heads/main",
+  "release": {
+    "tag": "1.59.0",
+    "name": "Version 1.59.0",
+    "published": "2026-10-17T06:06:42Z",
+    "url": "https://github.com/lucide-icons/lucide/releases/tag/1.59.0"
+  },
+  "assets": [
+    {
+      "name": "lucide-icons-1.59.0.zip",
+      "size": 1427722,
+      "url": "https://github.com/lucide-icons/lucide/releases/download/1.59.0/lucide-icons-1.59.0.zip"
+    },
+    {
+      "name": "lucide-font-1.59.0.zip",
+      "size": 5293222,
+      "url": "https://github.com/lucide-icons/lucide/releases/download/1.59.0/lucide-font-1.59.0.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

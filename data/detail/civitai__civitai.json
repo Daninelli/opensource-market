@@ -1,0 +1,32 @@
+{
+  "repo": "civitai/civitai",
+  "slug": "civitai__civitai",
+  "name": "Civitai",
+  "note_zh": "AI 绘画模型分享社区，可下载 Stable Diffusion 模型与提示词，适合创作者。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "论坛社区",
+  "subcategory_slug": "forum",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Next.js",
+    "React"
+  ],
+  "deploy_type": "自托管服务 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:30:06Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/civitai/civitai/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

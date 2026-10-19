@@ -1,0 +1,31 @@
+{
+  "repo": "EbookFoundation/free-programming-books",
+  "slug": "EbookFoundation__free-programming-books",
+  "name": "Free-programming-books",
+  "note_zh": "免费编程书籍索引，按语言分类整理大量学习资源，适合自学者查找读物。",
+  "category": "教育",
+  "category_slug": "education",
+  "subcategory": "在线学习",
+  "subcategory_slug": "lms",
+  "license": "CC-BY-4.0",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Markdown",
+    "Documentation"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T00:26:58Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/EbookFoundation/free-programming-books/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

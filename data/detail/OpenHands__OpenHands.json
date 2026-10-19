@@ -1,0 +1,58 @@
+{
+  "repo": "OpenHands/OpenHands",
+  "slug": "OpenHands__OpenHands",
+  "name": "OpenHands",
+  "note_zh": "开源 AI 开发智能体平台，让 AI 读写代码、跑命令完成开发任务。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Python",
+    "LLM"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:10:27Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/OpenHands/OpenHands/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.27.1",
+    "name": "v1.27.1",
+    "published": "2026-10-12T19:33:56Z",
+    "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.27.1"
+  },
+  "assets": [
+    {
+      "name": "OpenHands-Agent-Canvas-Setup-1.27.1.exe",
+      "size": 140354744,
+      "url": "https://github.com/OpenHands/OpenHands/releases/download/v1.27.1/OpenHands-Agent-Canvas-Setup-1.27.1.exe"
+    },
+    {
+      "name": "OpenHands-Agent-Canvas-1.27.1-universal.dmg",
+      "size": 338629007,
+      "url": "https://github.com/OpenHands/OpenHands/releases/download/v1.27.1/OpenHands-Agent-Canvas-1.27.1-universal.dmg"
+    },
+    {
+      "name": "agent-canvas_1.27.1_amd64.deb",
+      "size": 151016336,
+      "url": "https://github.com/OpenHands/OpenHands/releases/download/v1.27.1/agent-canvas_1.27.1_amd64.deb"
+    },
+    {
+      "name": "OpenHands.Agent.Canvas-1.27.1.AppImage",
+      "size": 197389327,
+      "url": "https://github.com/OpenHands/OpenHands/releases/download/v1.27.1/OpenHands.Agent.Canvas-1.27.1.AppImage"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

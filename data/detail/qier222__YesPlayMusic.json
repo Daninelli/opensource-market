@@ -1,0 +1,78 @@
+{
+  "repo": "qier222/YesPlayMusic",
+  "slug": "qier222__YesPlayMusic",
+  "name": "YesPlayMusic",
+  "note_zh": "第三方网易云音乐桌面播放器，界面简洁并支持多平台，适合想在电脑上听歌的用户。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "影音媒体",
+  "subcategory_slug": "streaming",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Vue",
+    "Electron",
+    "JavaScript"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-10T11:05:47Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/qier222/YesPlayMusic/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.4.11",
+    "name": "0.4.11",
+    "published": "2026-10-10T11:14:24Z",
+    "url": "https://github.com/qier222/YesPlayMusic/releases/tag/v0.4.11"
+  },
+  "assets": [
+    {
+      "name": "YesPlayMusic-0.4.11.exe",
+      "size": 58058421,
+      "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-0.4.11.exe"
+    },
+    {
+      "name": "YesPlayMusic-Setup-0.4.11.exe",
+      "size": 58243633,
+      "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-Setup-0.4.11.exe"
+    },
+    {
+      "name": "YesPlayMusic-mac-0.4.11-x64.dmg",
+      "size": 89127329,
+      "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-x64.dmg"
+    },
+    {
+      "name": "YesPlayMusic-mac-0.4.11-arm64.dmg",
+      "size": 93117485,
+      "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-arm64.dmg"
+    },
+    {
+      "name": "yesplaymusic_0.4.11_armv7l.deb",
+      "size": 61452902,
+      "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic_0.4.11_armv7l.deb"
+    },
+    {
+      "name": "yesplaymusic_0.4.11_arm64.deb",
+      "size": 66331878,
+      "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic_0.4.11_arm64.deb"
+    },
+    {
+      "name": "yesplaymusic-0.4.11.pacman",
+      "size": 66355904,
+      "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11.pacman"
+    },
+    {
+      "name": "yesplaymusic-0.4.11.tar.gz",
+      "size": 89992318,
+      "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

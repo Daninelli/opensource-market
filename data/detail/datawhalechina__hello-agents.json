@@ -1,0 +1,37 @@
+{
+  "repo": "datawhalechina/hello-agents",
+  "slug": "datawhalechina__hello-agents",
+  "name": "Hello-agents",
+  "note_zh": "中文开源教程，从零讲解智能体原理并用代码实践，适合想入门 Agent 的学习者。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "LLM",
+    "RAG"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-13T22:28:54Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/datawhalechina/hello-agents/zip/refs/heads/main",
+  "release": {
+    "tag": "V1.0.3",
+    "name": "Hello-Agents V1.0.3 20260717",
+    "published": "2026-07-17T09:29:47Z",
+    "url": "https://github.com/datawhalechina/hello-agents/releases/tag/V1.0.3"
+  },
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

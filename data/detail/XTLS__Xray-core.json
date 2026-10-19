@@ -1,0 +1,78 @@
+{
+  "repo": "XTLS/Xray-core",
+  "slug": "XTLS__Xray-core",
+  "name": "Xray-core",
+  "note_zh": "代理协议核心，支持 VLESS、REALITY 等协议，适合自建代理服务与二次开发。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "MPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "VLESS",
+    "TLS"
+  ],
+  "deploy_type": "二进制 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T00:20:51Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/XTLS/Xray-core/zip/refs/heads/main",
+  "release": {
+    "tag": "v26.3.27",
+    "name": "Xray-core v26.3.27",
+    "published": "2026-03-27T17:51:11Z",
+    "url": "https://github.com/XTLS/Xray-core/releases/tag/v26.3.27"
+  },
+  "assets": [
+    {
+      "name": "Xray-windows-arm64-v8a.zip",
+      "size": 19316452,
+      "url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-windows-arm64-v8a.zip"
+    },
+    {
+      "name": "Xray-macos-arm64-v8a.zip",
+      "size": 19674387,
+      "url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-macos-arm64-v8a.zip"
+    },
+    {
+      "name": "Xray-win7-32.zip",
+      "size": 20471928,
+      "url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-win7-32.zip"
+    },
+    {
+      "name": "Xray-macos-64.zip",
+      "size": 20755142,
+      "url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-macos-64.zip"
+    },
+    {
+      "name": "Xray-linux-mips64le.zip",
+      "size": 19059516,
+      "url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-mips64le.zip"
+    },
+    {
+      "name": "Xray-linux-mips64.zip",
+      "size": 19149355,
+      "url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-mips64.zip"
+    },
+    {
+      "name": "Xray-android-arm64-v8a.zip",
+      "size": 19883196,
+      "url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-android-arm64-v8a.zip"
+    },
+    {
+      "name": "Xray-android-amd64.zip",
+      "size": 20991909,
+      "url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-android-amd64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

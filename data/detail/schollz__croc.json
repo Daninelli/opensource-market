@@ -1,0 +1,78 @@
+{
+  "repo": "schollz/croc",
+  "slug": "schollz__croc",
+  "name": "Croc",
+  "note_zh": "命令行点对点传文件工具，端到端加密并自动协商中继，适合跨设备快速安全传输。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "文件管理与网盘",
+  "subcategory_slug": "file",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "P2P",
+    "CLI"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-17T18:09:06Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/schollz/croc/zip/refs/heads/main",
+  "release": {
+    "tag": "v11.5.4",
+    "name": "v11.5.4",
+    "published": "2026-09-26T21:53:50Z",
+    "url": "https://github.com/schollz/croc/releases/tag/v11.5.4"
+  },
+  "assets": [
+    {
+      "name": "croc_v11.5.4_Windows-ARM64.zip",
+      "size": 8102007,
+      "url": "https://github.com/schollz/croc/releases/download/v11.5.4/croc_v11.5.4_Windows-ARM64.zip"
+    },
+    {
+      "name": "croc_v11.5.4_macOS-ARM64.tar.gz",
+      "size": 8332560,
+      "url": "https://github.com/schollz/croc/releases/download/v11.5.4/croc_v11.5.4_macOS-ARM64.tar.gz"
+    },
+    {
+      "name": "croc_v11.5.4_Windows-32bit.zip",
+      "size": 8855850,
+      "url": "https://github.com/schollz/croc/releases/download/v11.5.4/croc_v11.5.4_Windows-32bit.zip"
+    },
+    {
+      "name": "croc_v11.5.4_macOS-64bit.tar.gz",
+      "size": 9009088,
+      "url": "https://github.com/schollz/croc/releases/download/v11.5.4/croc_v11.5.4_macOS-64bit.tar.gz"
+    },
+    {
+      "name": "croc_v11.5.4_Linux-ARM64.tar.gz",
+      "size": 8257952,
+      "url": "https://github.com/schollz/croc/releases/download/v11.5.4/croc_v11.5.4_Linux-ARM64.tar.gz"
+    },
+    {
+      "name": "croc_11.5.4-1_arm64.deb",
+      "size": 8418518,
+      "url": "https://github.com/schollz/croc/releases/download/v11.5.4/croc_11.5.4-1_arm64.deb"
+    },
+    {
+      "name": "croc_v11.5.4_NetBSD-ARM64.tar.gz",
+      "size": 3663558,
+      "url": "https://github.com/schollz/croc/releases/download/v11.5.4/croc_v11.5.4_NetBSD-ARM64.tar.gz"
+    },
+    {
+      "name": "croc_v11.5.4_NetBSD-32bit.tar.gz",
+      "size": 3987802,
+      "url": "https://github.com/schollz/croc/releases/download/v11.5.4/croc_v11.5.4_NetBSD-32bit.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

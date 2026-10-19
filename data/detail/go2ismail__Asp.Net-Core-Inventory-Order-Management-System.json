@@ -1,0 +1,32 @@
+{
+  "repo": "go2ismail/Asp.Net-Core-Inventory-Order-Management-System",
+  "slug": "go2ismail__Asp.Net-Core-Inventory-Order-Management-System",
+  "name": "Asp.Net-Core-Inventory-Order-Management-System",
+  "note_zh": "基于 .NET 的进销存与订单管理 API 及后台，含客户、采购、库存模块，适合二次开发。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "企业资源",
+  "subcategory_slug": "erp",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET",
+    "Entity Framework Core"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-07-24T04:04:33Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "ASP.NET-9.0",
+  "download_url": "https://codeload.github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System/zip/refs/heads/ASP.NET-9.0",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

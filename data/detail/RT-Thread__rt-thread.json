@@ -1,0 +1,33 @@
+{
+  "repo": "RT-Thread/rt-thread",
+  "slug": "RT-Thread__rt-thread",
+  "name": "Rt-thread",
+  "note_zh": "国产开源 IoT 实时操作系统，组件丰富，适合 MCU 与边缘设备开发。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "智能家居",
+  "subcategory_slug": "smart-home",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C",
+    "RTOS",
+    "ARM",
+    "Embedded"
+  ],
+  "deploy_type": "源码 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:49:16Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/RT-Thread/rt-thread/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

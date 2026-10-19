@@ -1,0 +1,68 @@
+{
+  "repo": "GyulyVGC/sniffnet",
+  "slug": "GyulyVGC__sniffnet",
+  "name": "Sniffnet",
+  "note_zh": "跨平台网络流量监控桌面应用，图形化查看连接与地理位置，适合关注隐私的用户。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "GUI",
+    "Network"
+  ],
+  "deploy_type": "桌面应用 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-18T19:26:53Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/GyulyVGC/sniffnet/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.5.1",
+    "name": "v1.5.1",
+    "published": "2026-07-22T07:54:30Z",
+    "url": "https://github.com/GyulyVGC/sniffnet/releases/tag/v1.5.1"
+  },
+  "assets": [
+    {
+      "name": "Sniffnet_macOS_AppleSilicon.dmg",
+      "size": 19585013,
+      "url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_macOS_AppleSilicon.dmg"
+    },
+    {
+      "name": "Sniffnet_macOS_Intel.dmg",
+      "size": 20054969,
+      "url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_macOS_Intel.dmg"
+    },
+    {
+      "name": "Sniffnet_Windows_x86.msi",
+      "size": 20578304,
+      "url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_x86.msi"
+    },
+    {
+      "name": "Sniffnet_Windows_arm64.msi",
+      "size": 20746240,
+      "url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_arm64.msi"
+    },
+    {
+      "name": "Sniffnet_LinuxDEB_arm64.deb",
+      "size": 13500176,
+      "url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxDEB_arm64.deb"
+    },
+    {
+      "name": "Sniffnet_LinuxDEB_armhf.deb",
+      "size": 13624296,
+      "url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxDEB_armhf.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

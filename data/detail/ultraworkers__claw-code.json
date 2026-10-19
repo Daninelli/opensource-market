@@ -1,0 +1,52 @@
+{
+  "repo": "ultraworkers/claw-code",
+  "slug": "ultraworkers__claw-code",
+  "name": "Claw-code",
+  "note_zh": "用 Rust 配合 AI 编码智能体做成的博物馆展项，展示智能体协作写代码。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "AI Agents"
+  ],
+  "deploy_type": "源码 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T04:07:34Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/ultraworkers/claw-code/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.1.7",
+    "name": "v0.1.7",
+    "published": "2026-10-19T04:09:50Z",
+    "url": "https://github.com/ultraworkers/claw-code/releases/tag/v0.1.7"
+  },
+  "assets": [
+    {
+      "name": "claw-windows-x64.exe",
+      "size": 15928832,
+      "url": "https://github.com/ultraworkers/claw-code/releases/download/v0.1.7/claw-windows-x64.exe"
+    },
+    {
+      "name": "claw-macos-arm64",
+      "size": 16028256,
+      "url": "https://github.com/ultraworkers/claw-code/releases/download/v0.1.7/claw-macos-arm64"
+    },
+    {
+      "name": "claw-linux-x64",
+      "size": 19329920,
+      "url": "https://github.com/ultraworkers/claw-code/releases/download/v0.1.7/claw-linux-x64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,78 @@
+{
+  "repo": "open-ani/animeko",
+  "slug": "open-ani__animeko",
+  "name": "Animeko",
+  "note_zh": "一站式追番客户端，集成找番、离线缓存与弹幕，支持 Bangumi 云同步。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Kotlin",
+    "Compose Multiplatform",
+    "BitTorrent"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:07:52Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/open-ani/animeko/zip/refs/heads/main",
+  "release": {
+    "tag": "v6.3.0",
+    "name": "6.3.0",
+    "published": "2026-10-13T06:34:15Z",
+    "url": "https://github.com/open-ani/animeko/releases/tag/v6.3.0"
+  },
+  "assets": [
+    {
+      "name": "ani-6.3.0-windows-x86_64.zip",
+      "size": 316333043,
+      "url": "https://github.com/open-ani/animeko/releases/download/v6.3.0/ani-6.3.0-windows-x86_64.zip"
+    },
+    {
+      "name": "ani-6.3.0-macos-aarch64.dmg",
+      "size": 319422007,
+      "url": "https://github.com/open-ani/animeko/releases/download/v6.3.0/ani-6.3.0-macos-aarch64.dmg"
+    },
+    {
+      "name": "ani-6.3.0-macos-x86_64.zip",
+      "size": 348943318,
+      "url": "https://github.com/open-ani/animeko/releases/download/v6.3.0/ani-6.3.0-macos-x86_64.zip"
+    },
+    {
+      "name": "ani-6.3.0-windows-aarch64.zip",
+      "size": 432132802,
+      "url": "https://github.com/open-ani/animeko/releases/download/v6.3.0/ani-6.3.0-windows-aarch64.zip"
+    },
+    {
+      "name": "ani-6.3.0-linux-x86_64.appimage",
+      "size": 339790328,
+      "url": "https://github.com/open-ani/animeko/releases/download/v6.3.0/ani-6.3.0-linux-x86_64.appimage"
+    },
+    {
+      "name": "ani-6.3.0.ipa",
+      "size": 46485035,
+      "url": "https://github.com/open-ani/animeko/releases/download/v6.3.0/ani-6.3.0.ipa"
+    },
+    {
+      "name": "ani-tv-6.3.0-armeabi-v7a.apk",
+      "size": 33526730,
+      "url": "https://github.com/open-ani/animeko/releases/download/v6.3.0/ani-tv-6.3.0-armeabi-v7a.apk"
+    },
+    {
+      "name": "ani-tv-6.3.0-arm64-v8a.apk",
+      "size": 34847906,
+      "url": "https://github.com/open-ani/animeko/releases/download/v6.3.0/ani-tv-6.3.0-arm64-v8a.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

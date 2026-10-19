@@ -1,0 +1,43 @@
+{
+  "repo": "gildas-lormeau/SingleFile",
+  "slug": "gildas-lormeau__SingleFile",
+  "name": "SingleFile",
+  "note_zh": "浏览器扩展，把整页图文完整保存为单个 HTML 文件，适合网页归档与离线阅读。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "电子书与阅读",
+  "subcategory_slug": "ebook",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "WebExtension",
+    "Chrome"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:20:52Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/gildas-lormeau/SingleFile/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.31.3",
+    "name": "v1.31.3",
+    "published": "2026-10-18T11:21:07Z",
+    "url": "https://github.com/gildas-lormeau/SingleFile/releases/tag/v1.31.3"
+  },
+  "assets": [
+    {
+      "name": "singlefile-extension-firefox.zip",
+      "size": 1543911,
+      "url": "https://github.com/gildas-lormeau/SingleFile/releases/download/v1.31.3/singlefile-extension-firefox.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

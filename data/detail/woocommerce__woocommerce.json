@@ -1,0 +1,44 @@
+{
+  "repo": "woocommerce/woocommerce",
+  "slug": "woocommerce__woocommerce",
+  "name": "Woocommerce",
+  "note_zh": "基于 WordPress 的开源电商插件，可快速搭出可定制网店，适合中小商家与建站从业者。",
+  "category": "电商",
+  "category_slug": "ecommerce",
+  "subcategory": "平台商城",
+  "subcategory_slug": "platform",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "WordPress",
+    "React",
+    "MySQL"
+  ],
+  "deploy_type": "传统部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:26:18Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "trunk",
+  "download_url": "https://codeload.github.com/woocommerce/woocommerce/zip/refs/heads/trunk",
+  "release": {
+    "tag": "11.2.1",
+    "name": "11.2.1",
+    "published": "2026-10-09T18:16:12Z",
+    "url": "https://github.com/woocommerce/woocommerce/releases/tag/11.2.1"
+  },
+  "assets": [
+    {
+      "name": "woocommerce.zip",
+      "size": 18341511,
+      "url": "https://github.com/woocommerce/woocommerce/releases/download/11.2.1/woocommerce.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

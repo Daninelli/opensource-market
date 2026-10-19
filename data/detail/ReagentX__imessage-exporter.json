@@ -1,0 +1,58 @@
+{
+  "repo": "ReagentX/imessage-exporter",
+  "slug": "ReagentX__imessage-exporter",
+  "name": "Imessage-exporter",
+  "note_zh": "导出 iMessage 聊天记录与附件的命令行工具，可转成 HTML 或文本，适合备份与取证。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "私有同步",
+  "subcategory_slug": "sync",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "CLI",
+    "SQLite"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T01:10:40Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/ReagentX/imessage-exporter/zip/refs/heads/develop",
+  "release": {
+    "tag": "4.3.0",
+    "name": "Shining Willow",
+    "published": "2026-09-15T01:27:24Z",
+    "url": "https://github.com/ReagentX/imessage-exporter/releases/tag/4.3.0"
+  },
+  "assets": [
+    {
+      "name": "imessage-exporter-aarch64-apple-darwin.tar.gz",
+      "size": 1793637,
+      "url": "https://github.com/ReagentX/imessage-exporter/releases/download/4.3.0/imessage-exporter-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "imessage-exporter-x86_64-apple-darwin.tar.gz",
+      "size": 1935518,
+      "url": "https://github.com/ReagentX/imessage-exporter/releases/download/4.3.0/imessage-exporter-x86_64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "imessage-exporter-x86_64-pc-windows-gnu.tar.gz",
+      "size": 2133291,
+      "url": "https://github.com/ReagentX/imessage-exporter/releases/download/4.3.0/imessage-exporter-x86_64-pc-windows-gnu.tar.gz"
+    },
+    {
+      "name": "imessage-exporter-x86_64-pc-windows-gnu.exe",
+      "size": 4726623,
+      "url": "https://github.com/ReagentX/imessage-exporter/releases/download/4.3.0/imessage-exporter-x86_64-pc-windows-gnu.exe"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

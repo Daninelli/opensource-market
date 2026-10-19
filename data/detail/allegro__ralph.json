@@ -1,0 +1,32 @@
+{
+  "repo": "allegro/ralph",
+  "slug": "allegro__ralph",
+  "name": "Ralph",
+  "note_zh": "数据中心与后台硬件的 CMDB 资产管理系统，记录设备全生命周期与机房信息，适合 IT 运维团队。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "企业资源",
+  "subcategory_slug": "erp",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Django",
+    "PostgreSQL"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:39:47Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "ng",
+  "download_url": "https://codeload.github.com/allegro/ralph/zip/refs/heads/ng",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,68 @@
+{
+  "repo": "kovidgoyal/calibre",
+  "slug": "kovidgoyal__calibre",
+  "name": "Calibre",
+  "note_zh": "功能齐全的电子书管理与转换工具，可整理书库、转换格式并推送到阅读器。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Qt",
+    "eBook"
+  ],
+  "deploy_type": "桌面应用 / 客户端",
+  "platform": "github",
+  "updated_at": "2026-10-19T02:54:00Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/kovidgoyal/calibre/zip/refs/heads/master",
+  "release": {
+    "tag": "v9.16.0",
+    "name": "version 9.16.0",
+    "published": "2026-10-09T03:05:13Z",
+    "url": "https://github.com/kovidgoyal/calibre/releases/tag/v9.16.0"
+  },
+  "assets": [
+    {
+      "name": "calibre-portable-installer-9.16.0.exe",
+      "size": 217118472,
+      "url": "https://github.com/kovidgoyal/calibre/releases/download/v9.16.0/calibre-portable-installer-9.16.0.exe"
+    },
+    {
+      "name": "calibre-64bit-9.16.0.msi",
+      "size": 238899200,
+      "url": "https://github.com/kovidgoyal/calibre/releases/download/v9.16.0/calibre-64bit-9.16.0.msi"
+    },
+    {
+      "name": "calibre-9.16.0.dmg",
+      "size": 357044176,
+      "url": "https://github.com/kovidgoyal/calibre/releases/download/v9.16.0/calibre-9.16.0.dmg"
+    },
+    {
+      "name": "calibre-9.16.0.tar.xz",
+      "size": 50532360,
+      "url": "https://github.com/kovidgoyal/calibre/releases/download/v9.16.0/calibre-9.16.0.tar.xz"
+    },
+    {
+      "name": "calibre-9.16.0-arm64.txz",
+      "size": 186152052,
+      "url": "https://github.com/kovidgoyal/calibre/releases/download/v9.16.0/calibre-9.16.0-arm64.txz"
+    },
+    {
+      "name": "calibre-9.16.0-x86_64.txz",
+      "size": 199098600,
+      "url": "https://github.com/kovidgoyal/calibre/releases/download/v9.16.0/calibre-9.16.0-x86_64.txz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

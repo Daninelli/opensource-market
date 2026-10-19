@@ -1,0 +1,78 @@
+{
+  "repo": "readest/readest",
+  "slug": "readest__readest",
+  "name": "Readest",
+  "note_zh": "现代化电子书阅读器，支持 EPUB 多端同步与批注，适合重度阅读电子书的用户。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "文件管理与网盘",
+  "subcategory_slug": "file",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Next.js",
+    "Tauri"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-18T19:24:31Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/readest/readest/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.12.16",
+    "name": "Readest 0.12.16",
+    "published": "2026-10-13T22:34:40Z",
+    "url": "https://github.com/readest/readest/releases/tag/v0.12.16"
+  },
+  "assets": [
+    {
+      "name": "Readest_0.12.16_arm64-setup.exe",
+      "size": 56751278,
+      "url": "https://github.com/readest/readest/releases/download/v0.12.16/Readest_0.12.16_arm64-setup.exe"
+    },
+    {
+      "name": "Readest_0.12.16_x64-setup.exe",
+      "size": 58190733,
+      "url": "https://github.com/readest/readest/releases/download/v0.12.16/Readest_0.12.16_x64-setup.exe"
+    },
+    {
+      "name": "Readest_0.12.16_universal.dmg",
+      "size": 70983929,
+      "url": "https://github.com/readest/readest/releases/download/v0.12.16/Readest_0.12.16_universal.dmg"
+    },
+    {
+      "name": "Readest-0.12.16-1.aarch64.rpm",
+      "size": 140794914,
+      "url": "https://github.com/readest/readest/releases/download/v0.12.16/Readest-0.12.16-1.aarch64.rpm"
+    },
+    {
+      "name": "Readest-0.12.16-1.x86_64.rpm",
+      "size": 142348901,
+      "url": "https://github.com/readest/readest/releases/download/v0.12.16/Readest-0.12.16-1.x86_64.rpm"
+    },
+    {
+      "name": "Readest_0.12.16_armv7.apk",
+      "size": 46261934,
+      "url": "https://github.com/readest/readest/releases/download/v0.12.16/Readest_0.12.16_armv7.apk"
+    },
+    {
+      "name": "Readest_0.12.16_arm64.apk",
+      "size": 57163864,
+      "url": "https://github.com/readest/readest/releases/download/v0.12.16/Readest_0.12.16_arm64.apk"
+    },
+    {
+      "name": "send-to-readest-0.2.1.zip",
+      "size": 478278,
+      "url": "https://github.com/readest/readest/releases/download/v0.12.16/send-to-readest-0.2.1.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,68 @@
+{
+  "repo": "projectdiscovery/cloudlist",
+  "slug": "projectdiscovery__cloudlist",
+  "name": "Cloudlist",
+  "note_zh": "命令行工具，枚举多家云厂商的资产清单，适合安全评估与资产梳理。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "资产管理",
+  "subcategory_slug": "asset",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "CLI",
+    "Cloud"
+  ],
+  "deploy_type": "二进制 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T05:28:47Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/projectdiscovery/cloudlist/zip/refs/heads/dev",
+  "release": {
+    "tag": "v1.5.0",
+    "name": "v1.5.0",
+    "published": "2026-10-14T06:01:10Z",
+    "url": "https://github.com/projectdiscovery/cloudlist/releases/tag/v1.5.0"
+  },
+  "assets": [
+    {
+      "name": "cloudlist_1.5.0_windows_386.zip",
+      "size": 38473057,
+      "url": "https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.0/cloudlist_1.5.0_windows_386.zip"
+    },
+    {
+      "name": "cloudlist_1.5.0_macOS_arm64.zip",
+      "size": 39059203,
+      "url": "https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.0/cloudlist_1.5.0_macOS_arm64.zip"
+    },
+    {
+      "name": "cloudlist_1.5.0_macOS_amd64.zip",
+      "size": 41185176,
+      "url": "https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.0/cloudlist_1.5.0_macOS_amd64.zip"
+    },
+    {
+      "name": "cloudlist_1.5.0_windows_amd64.zip",
+      "size": 41185225,
+      "url": "https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.0/cloudlist_1.5.0_windows_amd64.zip"
+    },
+    {
+      "name": "cloudlist_1.5.0_linux_arm64.zip",
+      "size": 36442572,
+      "url": "https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.0/cloudlist_1.5.0_linux_arm64.zip"
+    },
+    {
+      "name": "cloudlist_1.5.0_linux_386.zip",
+      "size": 36593661,
+      "url": "https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.0/cloudlist_1.5.0_linux_386.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

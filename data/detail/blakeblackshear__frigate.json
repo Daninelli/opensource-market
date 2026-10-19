@@ -1,0 +1,32 @@
+{
+  "repo": "blakeblackshear/frigate",
+  "slug": "blakeblackshear__frigate",
+  "name": "Frigate",
+  "note_zh": "本地部署的 NVR，为 IP 摄像头提供实时目标检测、录像与告警，适合想自建智能监控的家庭与小型…",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Docker",
+    "MQTT"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:08:59Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/blakeblackshear/frigate/zip/refs/heads/dev",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

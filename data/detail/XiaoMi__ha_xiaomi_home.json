@@ -1,0 +1,43 @@
+{
+  "repo": "XiaoMi/ha_xiaomi_home",
+  "slug": "XiaoMi__ha_xiaomi_home",
+  "name": "Ha_xiaomi_home",
+  "note_zh": "小米智能家居接入 Home Assistant 的官方集成，可本地控制米家设备。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "智能家居",
+  "subcategory_slug": "smart-home",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Home Assistant",
+    "MIoT"
+  ],
+  "deploy_type": "源码 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-09-28T06:45:47Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/XiaoMi/ha_xiaomi_home/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.5.0",
+    "name": "v0.5.0",
+    "published": "2026-09-28T06:45:47Z",
+    "url": "https://github.com/XiaoMi/ha_xiaomi_home/releases/tag/v0.5.0"
+  },
+  "assets": [
+    {
+      "name": "xiaomi_home.zip",
+      "size": 322201,
+      "url": "https://github.com/XiaoMi/ha_xiaomi_home/releases/download/v0.5.0/xiaomi_home.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

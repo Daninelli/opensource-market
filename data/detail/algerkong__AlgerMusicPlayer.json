@@ -1,0 +1,73 @@
+{
+  "repo": "algerkong/AlgerMusicPlayer",
+  "slug": "algerkong__AlgerMusicPlayer",
+  "name": "AlgerMusicPlayer",
+  "note_zh": "第三方音乐播放器，支持桌面歌词、本地服务与远程控制，适合桌面端日常听歌使用。",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "影音媒体",
+  "subcategory_slug": "streaming",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Vue",
+    "Electron",
+    "TypeScript"
+  ],
+  "deploy_type": "客户端 / 桌面应用 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-17T13:01:36Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/algerkong/AlgerMusicPlayer/zip/refs/heads/main",
+  "release": {
+    "tag": "v5.1.0",
+    "name": "v5.1.0",
+    "published": "2026-03-22T14:55:27Z",
+    "url": "https://github.com/algerkong/AlgerMusicPlayer/releases/tag/v5.1.0"
+  },
+  "assets": [
+    {
+      "name": "AlgerMusicPlayer-5.1.0-win-ia32.exe",
+      "size": 107254039,
+      "url": "https://github.com/algerkong/AlgerMusicPlayer/releases/download/v5.1.0/AlgerMusicPlayer-5.1.0-win-ia32.exe"
+    },
+    {
+      "name": "AlgerMusicPlayer-5.1.0-win-x64.exe",
+      "size": 119026696,
+      "url": "https://github.com/algerkong/AlgerMusicPlayer/releases/download/v5.1.0/AlgerMusicPlayer-5.1.0-win-x64.exe"
+    },
+    {
+      "name": "AlgerMusicPlayer-5.1.0-mac-arm64.zip",
+      "size": 134464340,
+      "url": "https://github.com/algerkong/AlgerMusicPlayer/releases/download/v5.1.0/AlgerMusicPlayer-5.1.0-mac-arm64.zip"
+    },
+    {
+      "name": "AlgerMusicPlayer-5.1.0-mac-arm64.dmg",
+      "size": 139005868,
+      "url": "https://github.com/algerkong/AlgerMusicPlayer/releases/download/v5.1.0/AlgerMusicPlayer-5.1.0-mac-arm64.dmg"
+    },
+    {
+      "name": "AlgerMusicPlayer-5.1.0-linux-aarch64.rpm",
+      "size": 96682005,
+      "url": "https://github.com/algerkong/AlgerMusicPlayer/releases/download/v5.1.0/AlgerMusicPlayer-5.1.0-linux-aarch64.rpm"
+    },
+    {
+      "name": "AlgerMusicPlayer-5.1.0-linux-x86_64.rpm",
+      "size": 101551005,
+      "url": "https://github.com/algerkong/AlgerMusicPlayer/releases/download/v5.1.0/AlgerMusicPlayer-5.1.0-linux-x86_64.rpm"
+    },
+    {
+      "name": "AlgerMusicPlayer-5.1.0.apk",
+      "size": 17326187,
+      "url": "https://github.com/algerkong/AlgerMusicPlayer/releases/download/v5.1.0/AlgerMusicPlayer-5.1.0.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,68 @@
+{
+  "repo": "4ian/GDevelop",
+  "slug": "4ian__GDevelop",
+  "name": "GDevelop",
+  "note_zh": "跨平台 2D/3D 游戏引擎，用事件表可视化编程，零基础也能做出游戏。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "低代码平台",
+  "subcategory_slug": "low-code",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "C++",
+    "WebGL"
+  ],
+  "deploy_type": "桌面应用 / 客户端",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:16:58Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/4ian/GDevelop/zip/refs/heads/master",
+  "release": {
+    "tag": "v5.6.284",
+    "name": "5.6.284",
+    "published": "2026-10-14T15:31:28Z",
+    "url": "https://github.com/4ian/GDevelop/releases/tag/v5.6.284"
+  },
+  "assets": [
+    {
+      "name": "GDevelop-5-Setup-5.6.284.exe",
+      "size": 153481872,
+      "url": "https://github.com/4ian/GDevelop/releases/download/v5.6.284/GDevelop-5-Setup-5.6.284.exe"
+    },
+    {
+      "name": "GDevelop-5-5.6.284-win.zip",
+      "size": 203924574,
+      "url": "https://github.com/4ian/GDevelop/releases/download/v5.6.284/GDevelop-5-5.6.284-win.zip"
+    },
+    {
+      "name": "GDevelop-5-5.6.284-universal.dmg",
+      "size": 281612793,
+      "url": "https://github.com/4ian/GDevelop/releases/download/v5.6.284/GDevelop-5-5.6.284-universal.dmg"
+    },
+    {
+      "name": "GDevelop-5-5.6.284-linux.zip",
+      "size": 200128609,
+      "url": "https://github.com/4ian/GDevelop/releases/download/v5.6.284/GDevelop-5-5.6.284-linux.zip"
+    },
+    {
+      "name": "GDevelop-5-5.6.284.AppImage",
+      "size": 210094225,
+      "url": "https://github.com/4ian/GDevelop/releases/download/v5.6.284/GDevelop-5-5.6.284.AppImage"
+    },
+    {
+      "name": "GDevelop-5-5.6.284-universal-mac.zip",
+      "size": 271439290,
+      "url": "https://github.com/4ian/GDevelop/releases/download/v5.6.284/GDevelop-5-5.6.284-universal-mac.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

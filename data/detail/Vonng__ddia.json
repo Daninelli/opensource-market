@@ -1,0 +1,32 @@
+{
+  "repo": "Vonng/ddia",
+  "slug": "Vonng__ddia",
+  "name": "Ddia",
+  "note_zh": "《数据密集型应用系统设计》中文翻译，讲透分布式数据系统原理，适合后端与架构学习者。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "CC-BY-4.0",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Markdown",
+    "Distributed Systems",
+    "Database"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T00:45:49Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Vonng/ddia/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

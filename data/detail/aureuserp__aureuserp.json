@@ -1,0 +1,33 @@
+{
+  "repo": "aureuserp/aureuserp",
+  "slug": "aureuserp__aureuserp",
+  "name": "Aureuserp",
+  "note_zh": "基于 Laravel 的开源 ERP，含会计、库存、人力资源与开票模块，适合中小企业一体管理。",
+  "category": "金融",
+  "category_slug": "finance",
+  "subcategory": "记账核算",
+  "subcategory_slug": "accounting",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "Laravel",
+    "Filament",
+    "MySQL"
+  ],
+  "deploy_type": "Docker 部署 / 传统部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:49:11Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/aureuserp/aureuserp/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

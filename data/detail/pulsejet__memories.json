@@ -1,0 +1,43 @@
+{
+  "repo": "pulsejet/memories",
+  "slug": "pulsejet__memories",
+  "name": "Memories",
+  "note_zh": "Nextcloud 相册应用，可快速时间线浏览并识别人脸，适合自托管网盘用户。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "相册管理",
+  "subcategory_slug": "photos",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "Nextcloud",
+    "JavaScript"
+  ],
+  "deploy_type": "自托管服务 / 传统部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:14:11Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/pulsejet/memories/zip/refs/heads/master",
+  "release": {
+    "tag": "v10.1.0",
+    "name": "v10.1.0",
+    "published": "2026-10-14T18:05:40Z",
+    "url": "https://github.com/pulsejet/memories/releases/tag/v10.1.0"
+  },
+  "assets": [
+    {
+      "name": "memories.tar.gz",
+      "size": 37636475,
+      "url": "https://github.com/pulsejet/memories/releases/download/v10.1.0/memories.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

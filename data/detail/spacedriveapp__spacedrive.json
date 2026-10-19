@@ -1,0 +1,68 @@
+{
+  "repo": "spacedriveapp/spacedrive",
+  "slug": "spacedriveapp__spacedrive",
+  "name": "Spacedrive",
+  "note_zh": "跨平台文件管理器，用虚拟分布式文件系统统一索引多设备文件，适合多硬盘多设备的人。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "文件管理与网盘",
+  "subcategory_slug": "file",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "TypeScript",
+    "React"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-13T01:42:48Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/spacedriveapp/spacedrive/zip/refs/heads/main",
+  "release": {
+    "tag": "0.4.3",
+    "name": "0.4.3",
+    "published": "2025-03-24T14:16:59Z",
+    "url": "https://github.com/spacedriveapp/spacedrive/releases/tag/0.4.3"
+  },
+  "assets": [
+    {
+      "name": "Spacedrive-Updater-darwin-aarch64.tar.gz",
+      "size": 82730007,
+      "url": "https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-Updater-darwin-aarch64.tar.gz"
+    },
+    {
+      "name": "Spacedrive-darwin-aarch64.dmg",
+      "size": 83734297,
+      "url": "https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-darwin-aarch64.dmg"
+    },
+    {
+      "name": "Spacedrive-Updater-windows-x86_64.zip",
+      "size": 89448606,
+      "url": "https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-Updater-windows-x86_64.zip"
+    },
+    {
+      "name": "Spacedrive-windows-x86_64.msi",
+      "size": 91103232,
+      "url": "https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-windows-x86_64.msi"
+    },
+    {
+      "name": "Spacedrive-frontend-linux-x86_64.tar.xz",
+      "size": 13860952,
+      "url": "https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-frontend-linux-x86_64.tar.xz"
+    },
+    {
+      "name": "Spacedrive-linux-x86_64.deb",
+      "size": 89520954,
+      "url": "https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-linux-x86_64.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

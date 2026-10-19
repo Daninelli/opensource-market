@@ -1,0 +1,32 @@
+{
+  "repo": "dream-num/univer",
+  "slug": "dream-num__univer",
+  "name": "Univer",
+  "note_zh": "开源办公套件框架，把表格、文档、幻灯片与画布嵌入网页并支持协同编辑，适合要自建在线 Office…",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "团队协作",
+  "subcategory_slug": "collaboration",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React",
+    "Canvas"
+  ],
+  "deploy_type": "前端源码 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T06:58:26Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/dream-num/univer/zip/refs/heads/dev",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

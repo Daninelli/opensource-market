@@ -1,0 +1,32 @@
+{
+  "repo": "microsoft/Web-Dev-For-Beginners",
+  "slug": "microsoft__Web-Dev-For-Beginners",
+  "name": "Web-Dev-For-Beginners",
+  "note_zh": "微软 12 周 Web 开发入门课，24 节 HTML、CSS 与 JS 实战，适合零基础学习者。",
+  "category": "教育",
+  "category_slug": "education",
+  "subcategory": "在线学习",
+  "subcategory_slug": "lms",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "HTML",
+    "CSS"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T04:10:03Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/microsoft/Web-Dev-For-Beginners/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

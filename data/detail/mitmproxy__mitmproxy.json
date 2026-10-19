@@ -1,0 +1,32 @@
+{
+  "repo": "mitmproxy/mitmproxy",
+  "slug": "mitmproxy__mitmproxy",
+  "name": "Mitmproxy",
+  "note_zh": "可交互的 TLS 中间人代理，拦截并修改 HTTP 流量，适合渗透测试与接口调试。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "TLS",
+    "HTTP/2"
+  ],
+  "deploy_type": "命令行 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:54:35Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/mitmproxy/mitmproxy/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

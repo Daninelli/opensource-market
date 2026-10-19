@@ -1,0 +1,73 @@
+{
+  "repo": "lobehub/lobehub",
+  "slug": "lobehub__lobehub",
+  "name": "Lobehub",
+  "note_zh": "开源 AI 智能体协作平台，把多个 agent 组织成 7×24 的团队作业。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React",
+    "Next.js"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:20:40Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "canary",
+  "download_url": "https://codeload.github.com/lobehub/lobehub/zip/refs/heads/canary",
+  "release": {
+    "tag": "v2.2.20",
+    "name": "🚀 Release v2.2.20",
+    "published": "2026-10-18T03:18:40Z",
+    "url": "https://github.com/lobehub/lobehub/releases/tag/v2.2.20"
+  },
+  "assets": [
+    {
+      "name": "LobeHub-2.2.20-setup.exe",
+      "size": 152521628,
+      "url": "https://github.com/lobehub/lobehub/releases/download/v2.2.20/LobeHub-2.2.20-setup.exe"
+    },
+    {
+      "name": "LobeHub-2.2.20-arm64.dmg",
+      "size": 164698363,
+      "url": "https://github.com/lobehub/lobehub/releases/download/v2.2.20/LobeHub-2.2.20-arm64.dmg"
+    },
+    {
+      "name": "LobeHub-2.2.20-x64.dmg",
+      "size": 169580679,
+      "url": "https://github.com/lobehub/lobehub/releases/download/v2.2.20/LobeHub-2.2.20-x64.dmg"
+    },
+    {
+      "name": "lobehub-desktop-2.2.20.x86_64.rpm",
+      "size": 124230501,
+      "url": "https://github.com/lobehub/lobehub/releases/download/v2.2.20/lobehub-desktop-2.2.20.x86_64.rpm"
+    },
+    {
+      "name": "lobehub-desktop_2.2.20_amd64.deb",
+      "size": 140502656,
+      "url": "https://github.com/lobehub/lobehub/releases/download/v2.2.20/lobehub-desktop_2.2.20_amd64.deb"
+    },
+    {
+      "name": "lobehub-desktop-2.2.20.tar.gz",
+      "size": 168657558,
+      "url": "https://github.com/lobehub/lobehub/releases/download/v2.2.20/lobehub-desktop-2.2.20.tar.gz"
+    },
+    {
+      "name": "LobeHub-2.2.20-arm64-mac.zip",
+      "size": 173377533,
+      "url": "https://github.com/lobehub/lobehub/releases/download/v2.2.20/LobeHub-2.2.20-arm64-mac.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

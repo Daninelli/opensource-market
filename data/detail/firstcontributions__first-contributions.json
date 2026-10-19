@@ -1,0 +1,32 @@
+{
+  "repo": "firstcontributions/first-contributions",
+  "slug": "firstcontributions__first-contributions",
+  "name": "First-contributions",
+  "note_zh": "面向新手的开源贡献练习仓库，改一个文件即可走通 PR 流程，适合第一次参与开源的人。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Git",
+    "GitHub",
+    "Markdown"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:46:22Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/firstcontributions/first-contributions/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

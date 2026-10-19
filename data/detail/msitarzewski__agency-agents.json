@@ -1,0 +1,32 @@
+{
+  "repo": "msitarzewski/agency-agents",
+  "slug": "msitarzewski__agency-agents",
+  "name": "Agency-agents",
+  "note_zh": "一整套 AI 智能体角色定义，从前端到社群运营，可接入编码智能体使用。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Shell",
+    "AI Agents",
+    "Prompts"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-15T05:33:33Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/msitarzewski/agency-agents/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

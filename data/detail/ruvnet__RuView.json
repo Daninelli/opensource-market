@@ -1,0 +1,43 @@
+{
+  "repo": "ruvnet/RuView",
+  "slug": "ruvnet__RuView",
+  "name": "RuView",
+  "note_zh": "用普通 WiFi 信号做空间感知与体征监测，可与 ESP32、智能家居联动。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "ESP32",
+    "IoT"
+  ],
+  "deploy_type": "源码 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T06:33:34Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/ruvnet/RuView/zip/refs/heads/main",
+  "release": {
+    "tag": "ruview-harness-v0.9.2",
+    "name": "RuView toolkit 0.9.2",
+    "published": "2026-10-12T17:02:30Z",
+    "url": "https://github.com/ruvnet/RuView/releases/tag/ruview-harness-v0.9.2"
+  },
+  "assets": [
+    {
+      "name": "ruvnet-ruview-0.9.2.tgz",
+      "size": 140907,
+      "url": "https://github.com/ruvnet/RuView/releases/download/ruview-harness-v0.9.2/ruvnet-ruview-0.9.2.tgz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

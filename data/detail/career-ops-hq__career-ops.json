@@ -1,0 +1,37 @@
+{
+  "repo": "career-ops-hq/career-ops",
+  "slug": "career-ops-hq__career-ops",
+  "name": "Career-ops",
+  "note_zh": "开源 AI 求职代理，自动扫描招聘网站并按匹配度给岗位打分，帮求职者筛岗投递。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "人力资源",
+  "subcategory_slug": "hr",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "AI Agent",
+    "Claude Code"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:09:35Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/career-ops-hq/career-ops/zip/refs/heads/main",
+  "release": {
+    "tag": "career-ops-v1.37.0",
+    "name": "career-ops v1.37.0: Worth Your Time",
+    "published": "2026-10-16T07:08:41Z",
+    "url": "https://github.com/career-ops-hq/career-ops/releases/tag/career-ops-v1.37.0"
+  },
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,48 @@
+{
+  "repo": "MetrolistGroup/Metrolist",
+  "slug": "MetrolistGroup__Metrolist",
+  "name": "Metrolist",
+  "note_zh": "Android 上的 YouTube Music 第三方客户端，支持离线与无广告播放，适合移动端…",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "影音媒体",
+  "subcategory_slug": "streaming",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Kotlin",
+    "Jetpack Compose",
+    "Android"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-08T15:46:37Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/MetrolistGroup/Metrolist/zip/refs/heads/main",
+  "release": {
+    "tag": "v13.7.0",
+    "name": "13.7.0",
+    "published": "2026-09-07T19:22:03Z",
+    "url": "https://github.com/MetrolistGroup/Metrolist/releases/tag/v13.7.0"
+  },
+  "assets": [
+    {
+      "name": "Metrolist-izzy.apk",
+      "size": 26868210,
+      "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v13.7.0/Metrolist-izzy.apk"
+    },
+    {
+      "name": "Metrolist.apk",
+      "size": 26872306,
+      "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v13.7.0/Metrolist.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

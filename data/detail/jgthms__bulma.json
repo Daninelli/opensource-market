@@ -1,0 +1,43 @@
+{
+  "repo": "jgthms/bulma",
+  "slug": "jgthms__bulma",
+  "name": "Bulma",
+  "note_zh": "基于 Flexbox 的纯 CSS 框架，不依赖 JS，适合快速搭响应式页面。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "CSS",
+    "Sass",
+    "Flexbox"
+  ],
+  "deploy_type": "前端源码",
+  "platform": "github",
+  "updated_at": "2026-09-21T09:56:34Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/jgthms/bulma/zip/refs/heads/main",
+  "release": {
+    "tag": "1.0.4",
+    "name": "1.0.4",
+    "published": "2025-04-19T14:02:58Z",
+    "url": "https://github.com/jgthms/bulma/releases/tag/1.0.4"
+  },
+  "assets": [
+    {
+      "name": "bulma-1.0.4.zip",
+      "size": 705449,
+      "url": "https://github.com/jgthms/bulma/releases/download/1.0.4/bulma-1.0.4.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

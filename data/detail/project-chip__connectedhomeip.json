@@ -1,0 +1,33 @@
+{
+  "repo": "project-chip/connectedhomeip",
+  "slug": "project-chip__connectedhomeip",
+  "name": "Connectedhomeip",
+  "note_zh": "Matter 协议官方 SDK，让智能家居设备跨品牌互联，适合设备厂商开发。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "智能家居",
+  "subcategory_slug": "smart-home",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Matter",
+    "IoT",
+    "Embedded"
+  ],
+  "deploy_type": "源码 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T00:57:54Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/project-chip/connectedhomeip/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

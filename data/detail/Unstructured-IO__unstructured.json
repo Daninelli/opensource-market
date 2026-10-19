@@ -1,0 +1,32 @@
+{
+  "repo": "Unstructured-IO/unstructured",
+  "slug": "Unstructured-IO__unstructured",
+  "name": "Unstructured",
+  "note_zh": "文档 ETL 工具，把 PDF、Word 等非结构化文件解析成结构化数据，供 RAG 使用。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "NLP",
+    "ETL"
+  ],
+  "deploy_type": "依赖库 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-16T21:43:22Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Unstructured-IO/unstructured/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

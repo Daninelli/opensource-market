@@ -1,0 +1,48 @@
+{
+  "repo": "JuliusBrussee/caveman",
+  "slug": "JuliusBrussee__caveman",
+  "name": "Caveman",
+  "note_zh": "让编程智能体用更少 token 说话的提示词技能与代理，压缩输出以节省调用成本。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "LLM",
+    "Prompt Engineering"
+  ],
+  "deploy_type": "源码 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:07:31Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/JuliusBrussee/caveman/zip/refs/heads/main",
+  "release": {
+    "tag": "v4.0.1",
+    "name": "Caveman 4.0.1",
+    "published": "2026-10-13T18:34:04Z",
+    "url": "https://github.com/JuliusBrussee/caveman/releases/tag/v4.0.1"
+  },
+  "assets": [
+    {
+      "name": "caveman-browser-1.3.0.zip",
+      "size": 179862,
+      "url": "https://github.com/JuliusBrussee/caveman/releases/download/v4.0.1/caveman-browser-1.3.0.zip"
+    },
+    {
+      "name": "caveman-browser-firefox-1.3.0.zip",
+      "size": 180101,
+      "url": "https://github.com/JuliusBrussee/caveman/releases/download/v4.0.1/caveman-browser-firefox-1.3.0.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

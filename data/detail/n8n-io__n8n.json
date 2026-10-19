@@ -17,15 +17,15 @@
   ],
   "deploy_type": "Docker / npm",
   "platform": "github",
-  "updated_at": "2026-10-19T06:37:59Z",
+  "updated_at": "2026-10-19T12:19:51Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/n8n-io/n8n/zip/refs/heads/master",
   "release": {
-    "tag": "n8n@2.43.7",
-    "name": "n8n@2.43.7",
-    "published": "2026-10-16T07:23:56Z",
-    "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.43.7"
+    "tag": "n8n@2.43.8",
+    "name": "n8n@2.43.8",
+    "published": "2026-10-19T07:23:26Z",
+    "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.43.8"
   },
   "assets": [],
   "pinned": false,

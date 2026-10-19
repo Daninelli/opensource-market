@@ -1,0 +1,32 @@
+{
+  "repo": "mingrammer/diagrams",
+  "slug": "mingrammer__diagrams",
+  "name": "Diagrams",
+  "note_zh": "用 Python 代码画云架构图的工具，底层调用 Graphviz，适合架构师与运维。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Graphviz",
+    "Diagram as Code"
+  ],
+  "deploy_type": "依赖库 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-17T11:24:33Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/mingrammer/diagrams/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

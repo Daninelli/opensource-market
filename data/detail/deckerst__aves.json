@@ -1,0 +1,48 @@
+{
+  "repo": "deckerst/aves",
+  "slug": "deckerst__aves",
+  "name": "Aves",
+  "note_zh": "Android 相册与元数据浏览应用，支持 EXIF 与地图轨迹查看，适合摄影爱好者。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "相册管理",
+  "subcategory_slug": "photos",
+  "license": "BSD-3-Clause",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Flutter",
+    "Dart",
+    "Android"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:28:09Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/deckerst/aves/zip/refs/heads/develop",
+  "release": {
+    "tag": "v1.15.7",
+    "name": "v1.15.7",
+    "published": "2026-10-19T10:50:28Z",
+    "url": "https://github.com/deckerst/aves/releases/tag/v1.15.7"
+  },
+  "assets": [
+    {
+      "name": "app-izzy-arm64-v8a-release.apk",
+      "size": 25286126,
+      "url": "https://github.com/deckerst/aves/releases/download/v1.15.7/app-izzy-arm64-v8a-release.apk"
+    },
+    {
+      "name": "app-izzy-armeabi-v7a-release.apk",
+      "size": 25374126,
+      "url": "https://github.com/deckerst/aves/releases/download/v1.15.7/app-izzy-armeabi-v7a-release.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

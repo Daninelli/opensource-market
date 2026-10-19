@@ -1,0 +1,78 @@
+{
+  "repo": "julyx10/lap",
+  "slug": "julyx10__lap",
+  "name": "Lap",
+  "note_zh": "本地优先的桌面照片管理器，面向超大型图库，支持去重与智能检索，适合摄影归档。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "相册管理",
+  "subcategory_slug": "photos",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Vue",
+    "TypeScript",
+    "Local-first"
+  ],
+  "deploy_type": "桌面应用 / 客户端",
+  "platform": "github",
+  "updated_at": "2026-10-17T13:58:10Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/julyx10/lap/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.3.3",
+    "name": "v0.3.3",
+    "published": "2026-10-12T12:53:12Z",
+    "url": "https://github.com/julyx10/lap/releases/tag/v0.3.3"
+  },
+  "assets": [
+    {
+      "name": "Lap_0.3.3_x64.dmg",
+      "size": 181868033,
+      "url": "https://github.com/julyx10/lap/releases/download/v0.3.3/Lap_0.3.3_x64.dmg"
+    },
+    {
+      "name": "Lap_0.3.3_aarch64.dmg",
+      "size": 201396525,
+      "url": "https://github.com/julyx10/lap/releases/download/v0.3.3/Lap_0.3.3_aarch64.dmg"
+    },
+    {
+      "name": "Lap_0.3.3_x64_en-US.msi",
+      "size": 228179968,
+      "url": "https://github.com/julyx10/lap/releases/download/v0.3.3/Lap_0.3.3_x64_en-US.msi"
+    },
+    {
+      "name": "Lap_0.3.3_arm64_en-US.msi",
+      "size": 259612672,
+      "url": "https://github.com/julyx10/lap/releases/download/v0.3.3/Lap_0.3.3_arm64_en-US.msi"
+    },
+    {
+      "name": "Lap_0.3.3_arm64.deb",
+      "size": 206132634,
+      "url": "https://github.com/julyx10/lap/releases/download/v0.3.3/Lap_0.3.3_arm64.deb"
+    },
+    {
+      "name": "Lap_0.3.3_amd64.deb",
+      "size": 215185744,
+      "url": "https://github.com/julyx10/lap/releases/download/v0.3.3/Lap_0.3.3_amd64.deb"
+    },
+    {
+      "name": "Lap_x86_64.app.tar.gz",
+      "size": 181256844,
+      "url": "https://github.com/julyx10/lap/releases/download/v0.3.3/Lap_x86_64.app.tar.gz"
+    },
+    {
+      "name": "Lap_aarch64.app.tar.gz",
+      "size": 202665696,
+      "url": "https://github.com/julyx10/lap/releases/download/v0.3.3/Lap_aarch64.app.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

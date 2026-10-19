@@ -1,0 +1,32 @@
+{
+  "repo": "MarSeventh/CloudFlare-ImgBed",
+  "slug": "MarSeventh__CloudFlare-ImgBed",
+  "name": "CloudFlare-ImgBed",
+  "note_zh": "基于 Cloudflare 的无服务器图床与文件托管方案，部署简单免服务器，适合个人建图床。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "资产管理",
+  "subcategory_slug": "asset",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Cloudflare Workers",
+    "Serverless"
+  ],
+  "deploy_type": "前端源码 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-15T08:07:01Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/MarSeventh/CloudFlare-ImgBed/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

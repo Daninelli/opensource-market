@@ -1,0 +1,53 @@
+{
+  "repo": "processing/p5.js",
+  "slug": "processing__p5.js",
+  "name": "P5.js",
+  "note_zh": "面向艺术家与学生的基础创意编程库，用代码做图形、动画与交互作品。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "LGPL-2.1",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Canvas",
+    "Creative Coding"
+  ],
+  "deploy_type": "前端源码 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-17T08:54:25Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/processing/p5.js/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.3.4",
+    "name": "v2.3.4",
+    "published": "2026-09-25T20:01:55Z",
+    "url": "https://github.com/processing/p5.js/releases/tag/v2.3.4"
+  },
+  "assets": [
+    {
+      "name": "p5.min.js",
+      "size": 990638,
+      "url": "https://github.com/processing/p5.js/releases/download/v2.3.4/p5.min.js"
+    },
+    {
+      "name": "p5.esm.js",
+      "size": 4319455,
+      "url": "https://github.com/processing/p5.js/releases/download/v2.3.4/p5.esm.js"
+    },
+    {
+      "name": "p5.zip",
+      "size": 5468879,
+      "url": "https://github.com/processing/p5.js/releases/download/v2.3.4/p5.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

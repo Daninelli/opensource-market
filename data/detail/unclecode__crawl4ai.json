@@ -1,0 +1,32 @@
+{
+  "repo": "unclecode/crawl4ai",
+  "slug": "unclecode__crawl4ai",
+  "name": "Crawl4ai",
+  "note_zh": "为 LLM 设计的开源爬虫，把网页抓成适合模型阅读的 Markdown。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Web Scraping",
+    "LLM"
+  ],
+  "deploy_type": "依赖库 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T04:42:12Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/unclecode/crawl4ai/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

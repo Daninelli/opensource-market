@@ -1,0 +1,32 @@
+{
+  "repo": "valkey-io/valkey",
+  "slug": "valkey-io__valkey",
+  "name": "Valkey",
+  "note_zh": "由 Redis 分支而来的分布式键值数据库，为缓存与实时场景优化，适合寻求开源替代的团队。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "BSD-3-Clause",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C",
+    "Key-Value",
+    "Cache"
+  ],
+  "deploy_type": "Docker 部署 / 二进制 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:50:36Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "unstable",
+  "download_url": "https://codeload.github.com/valkey-io/valkey/zip/refs/heads/unstable",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

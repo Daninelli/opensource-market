@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-16T14:09:16Z",
+  "updated_at": "2026-10-19T10:16:03Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/cryptpad/cryptpad/zip/refs/heads/main",

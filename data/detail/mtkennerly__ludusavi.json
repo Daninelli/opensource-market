@@ -1,0 +1,63 @@
+{
+  "repo": "mtkennerly/ludusavi",
+  "slug": "mtkennerly__ludusavi",
+  "name": "Ludusavi",
+  "note_zh": "PC 游戏存档备份工具，自动识别存档位置并支持跨平台，含图形界面与命令行。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "私有同步",
+  "subcategory_slug": "sync",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "GUI",
+    "CLI"
+  ],
+  "deploy_type": "桌面应用 / 命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-18T02:36:08Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/mtkennerly/ludusavi/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.31.0",
+    "name": "v0.31.0 (2026-04-04)",
+    "published": "2026-04-04T20:56:28Z",
+    "url": "https://github.com/mtkennerly/ludusavi/releases/tag/v0.31.0"
+  },
+  "assets": [
+    {
+      "name": "ludusavi-v0.31.0-win32.zip",
+      "size": 12240939,
+      "url": "https://github.com/mtkennerly/ludusavi/releases/download/v0.31.0/ludusavi-v0.31.0-win32.zip"
+    },
+    {
+      "name": "ludusavi-v0.31.0-win64.zip",
+      "size": 13802820,
+      "url": "https://github.com/mtkennerly/ludusavi/releases/download/v0.31.0/ludusavi-v0.31.0-win64.zip"
+    },
+    {
+      "name": "ludusavi-v0.31.0-linux.tar.gz",
+      "size": 14389479,
+      "url": "https://github.com/mtkennerly/ludusavi/releases/download/v0.31.0/ludusavi-v0.31.0-linux.tar.gz"
+    },
+    {
+      "name": "ludusavi-v0.31.0-legal.zip",
+      "size": 135179,
+      "url": "https://github.com/mtkennerly/ludusavi/releases/download/v0.31.0/ludusavi-v0.31.0-legal.zip"
+    },
+    {
+      "name": "ludusavi-v0.31.0-mac.tar.gz",
+      "size": 11557467,
+      "url": "https://github.com/mtkennerly/ludusavi/releases/download/v0.31.0/ludusavi-v0.31.0-mac.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

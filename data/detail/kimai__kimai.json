@@ -1,0 +1,32 @@
+{
+  "repo": "kimai/kimai",
+  "slug": "kimai__kimai",
+  "name": "Kimai",
+  "note_zh": "开源工时记录应用，跟踪项目时间并生成发票，适合自由职业者与按工时计费的团队。",
+  "category": "金融",
+  "category_slug": "finance",
+  "subcategory": "记账核算",
+  "subcategory_slug": "accounting",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "Symfony",
+    "MySQL"
+  ],
+  "deploy_type": "Docker 部署 / 传统部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:45:06Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/kimai/kimai/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,32 @@
+{
+  "repo": "ocornut/imgui",
+  "slug": "ocornut__imgui",
+  "name": "Imgui",
+  "note_zh": "无冗余依赖的 C++ 即时模式 GUI 库，能快速搭出游戏调试与工具界面，适合 C++ 开发者。",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏客户端",
+  "subcategory_slug": "client",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "GUI",
+    "Immediate Mode"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-16T14:52:43Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/ocornut/imgui/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

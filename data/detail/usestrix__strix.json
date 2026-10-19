@@ -1,0 +1,68 @@
+{
+  "repo": "usestrix/strix",
+  "slug": "usestrix__strix",
+  "name": "Strix",
+  "note_zh": "AI 渗透测试工具，自动发现并验证应用漏洞，适合安全团队与开发者做上线前自查。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "AI Agents",
+    "LLM"
+  ],
+  "deploy_type": "命令行 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-18T11:58:17Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/usestrix/strix/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.7.0",
+    "name": "v1.7.0",
+    "published": "2026-10-05T02:39:14Z",
+    "url": "https://github.com/usestrix/strix/releases/tag/v1.7.0"
+  },
+  "assets": [
+    {
+      "name": "strix_agent-1.7.0-py3-none-macosx_11_0_arm64.whl",
+      "size": 4192662,
+      "url": "https://github.com/usestrix/strix/releases/download/v1.7.0/strix_agent-1.7.0-py3-none-macosx_11_0_arm64.whl"
+    },
+    {
+      "name": "strix_agent-1.7.0-py3-none-win_amd64.whl",
+      "size": 4340958,
+      "url": "https://github.com/usestrix/strix/releases/download/v1.7.0/strix_agent-1.7.0-py3-none-win_amd64.whl"
+    },
+    {
+      "name": "strix_agent-1.7.0-py3-none-macosx_11_0_x86_64.whl",
+      "size": 4346200,
+      "url": "https://github.com/usestrix/strix/releases/download/v1.7.0/strix_agent-1.7.0-py3-none-macosx_11_0_x86_64.whl"
+    },
+    {
+      "name": "strix-1.7.0-windows-x86_64.zip",
+      "size": 95969383,
+      "url": "https://github.com/usestrix/strix/releases/download/v1.7.0/strix-1.7.0-windows-x86_64.zip"
+    },
+    {
+      "name": "strix_agent-1.7.0-py3-none-manylinux_2_17_aarch64.whl",
+      "size": 4077442,
+      "url": "https://github.com/usestrix/strix/releases/download/v1.7.0/strix_agent-1.7.0-py3-none-manylinux_2_17_aarch64.whl"
+    },
+    {
+      "name": "strix_agent-1.7.0-py3-none-manylinux_2_17_x86_64.whl",
+      "size": 4304779,
+      "url": "https://github.com/usestrix/strix/releases/download/v1.7.0/strix_agent-1.7.0-py3-none-manylinux_2_17_x86_64.whl"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

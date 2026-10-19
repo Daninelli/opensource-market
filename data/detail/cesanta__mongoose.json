@@ -1,0 +1,49 @@
+{
+  "repo": "cesanta/mongoose",
+  "slug": "cesanta__mongoose",
+  "name": "Mongoose",
+  "note_zh": "单文件嵌入式 Web 服务器与网络库，含 MQTT 与 WebSocket，适合单片机联网。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "智能家居",
+  "subcategory_slug": "smart-home",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C",
+    "TCP/IP",
+    "MQTT",
+    "WebSocket"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T12:31:04Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/cesanta/mongoose/zip/refs/heads/master",
+  "release": {
+    "tag": "7.23",
+    "name": "Mongoose 7.23",
+    "published": "2026-08-12T12:46:08Z",
+    "url": "https://github.com/cesanta/mongoose/releases/tag/7.23"
+  },
+  "assets": [
+    {
+      "name": "Cesanta.I-CUBE-Mongoose.7.23.1.pack",
+      "size": 345124,
+      "url": "https://github.com/cesanta/mongoose/releases/download/7.23/Cesanta.I-CUBE-Mongoose.7.23.1.pack"
+    },
+    {
+      "name": "Cesanta.I-CUBE-Mongoose.pack",
+      "size": 345124,
+      "url": "https://github.com/cesanta/mongoose/releases/download/7.23/Cesanta.I-CUBE-Mongoose.pack"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,32 @@
+{
+  "repo": "ledger/ledger",
+  "slug": "ledger__ledger",
+  "name": "Ledger",
+  "note_zh": "命令行复式记账工具，用纯文本记录账目并生成报表，适合习惯终端与版本管理的用户。",
+  "category": "金融",
+  "category_slug": "finance",
+  "subcategory": "记账核算",
+  "subcategory_slug": "accounting",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "CLI",
+    "Plain Text"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-09-22T19:34:25Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/ledger/ledger/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

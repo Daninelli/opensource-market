@@ -1,0 +1,32 @@
+{
+  "repo": "diaspora/diaspora",
+  "slug": "diaspora__diaspora",
+  "name": "Diaspora",
+  "note_zh": "去中心化社交网络，个人信息存放在自己的节点并可互联互通，适合重视隐私的自托管用户。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "论坛社区",
+  "subcategory_slug": "forum",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Ruby",
+    "Ruby on Rails",
+    "PostgreSQL"
+  ],
+  "deploy_type": "自托管服务 / 传统部署",
+  "platform": "github",
+  "updated_at": "2026-07-28T20:36:26Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/diaspora/diaspora/zip/refs/heads/develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

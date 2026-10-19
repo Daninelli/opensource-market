@@ -1,0 +1,32 @@
+{
+  "repo": "cathrynlavery/diagram-design",
+  "slug": "cathrynlavery__diagram-design",
+  "name": "Diagram-design",
+  "note_zh": "面向 Claude Code 等 AI 编程助手的图表设计技能包，产出编辑级配图与架构图。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "数据分析",
+  "subcategory_slug": "bi",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "SVG",
+    "Mermaid",
+    "Agent Skills"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-16T19:42:46Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/cathrynlavery/diagram-design/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

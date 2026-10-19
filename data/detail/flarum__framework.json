@@ -1,0 +1,32 @@
+{
+  "repo": "flarum/framework",
+  "slug": "flarum__framework",
+  "name": "Framework",
+  "note_zh": "PHP 论坛框架，轻量、响应快且扩展丰富，适合搭建现代社区或给现有站点加讨论区。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "论坛社区",
+  "subcategory_slug": "forum",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "Laravel",
+    "JavaScript"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:24:59Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "2.x",
+  "download_url": "https://codeload.github.com/flarum/framework/zip/refs/heads/2.x",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

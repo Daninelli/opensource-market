@@ -1,0 +1,32 @@
+{
+  "repo": "semantic-release/semantic-release",
+  "slug": "semantic-release__semantic-release",
+  "name": "Semantic-release",
+  "note_zh": "依据提交信息自动判定版本号、生成更新日志并发布包，适合想彻底自动化发版流程的 JS 项目维护者。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Node.js",
+    "CI/CD"
+  ],
+  "deploy_type": "命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T02:44:14Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/semantic-release/semantic-release/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

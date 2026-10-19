@@ -1,0 +1,32 @@
+{
+  "repo": "PaddlePaddle/PaddleOCR",
+  "slug": "PaddlePaddle__PaddleOCR",
+  "name": "PaddleOCR",
+  "note_zh": "把图片与 PDF 转成结构化文本的 OCR 工具包，支持多语言与版面解析，适合文档处理。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "PaddlePaddle",
+    "OCR"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-09-16T03:31:50Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/PaddlePaddle/PaddleOCR/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

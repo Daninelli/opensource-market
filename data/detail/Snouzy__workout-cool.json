@@ -1,0 +1,32 @@
+{
+  "repo": "Snouzy/workout-cool",
+  "slug": "Snouzy__workout-cool",
+  "name": "Workout-cool",
+  "note_zh": "现代开源健身教练平台，可制定训练计划并跟踪进度，适合教练与爱好者。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Next.js",
+    "React"
+  ],
+  "deploy_type": "前端源码 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-09-20T10:39:08Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Snouzy/workout-cool/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

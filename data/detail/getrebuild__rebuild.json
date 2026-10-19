@@ -1,0 +1,48 @@
+{
+  "repo": "getrebuild/rebuild",
+  "slug": "getrebuild__rebuild",
+  "name": "Rebuild",
+  "note_zh": "国产低代码企业管理系统，可用自然语言操作业务数据，快速搭建 CRM、WMS 等内部系统。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "人力资源",
+  "subcategory_slug": "hr",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "Spring Boot",
+    "低代码"
+  ],
+  "deploy_type": "源码 / 传统部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:54:24Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/getrebuild/rebuild/zip/refs/heads/master",
+  "release": {
+    "tag": "4.5.0",
+    "name": "4.5.0-release",
+    "published": "2026-10-08T14:15:38Z",
+    "url": "https://github.com/getrebuild/rebuild/releases/tag/4.5.0"
+  },
+  "assets": [
+    {
+      "name": "rebuild-boot-4.5.0.jar",
+      "size": 204183523,
+      "url": "https://github.com/getrebuild/rebuild/releases/download/4.5.0/rebuild-boot-4.5.0.jar"
+    },
+    {
+      "name": "rebuild-standalone-4.5.0.zip",
+      "size": 342716703,
+      "url": "https://github.com/getrebuild/rebuild/releases/download/4.5.0/rebuild-standalone-4.5.0.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

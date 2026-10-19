@@ -1,0 +1,68 @@
+{
+  "repo": "aria2/aria2",
+  "slug": "aria2__aria2",
+  "name": "Aria2",
+  "note_zh": "轻量级命令行下载工具，支持 HTTP、FTP、BitTorrent 等多协议多源加速下载。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "GPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "BitTorrent",
+    "HTTP"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-06-25T14:49:35Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/aria2/aria2/zip/refs/heads/master",
+  "release": {
+    "tag": "release-1.37.0",
+    "name": "aria2 1.37.0",
+    "published": "2023-11-15T12:07:32Z",
+    "url": "https://github.com/aria2/aria2/releases/tag/release-1.37.0"
+  },
+  "assets": [
+    {
+      "name": "aria2-1.37.0-win-64bit-build1.zip",
+      "size": 2475379,
+      "url": "https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0-win-64bit-build1.zip"
+    },
+    {
+      "name": "aria2-1.37.0-win-32bit-build1.zip",
+      "size": 2558495,
+      "url": "https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0-win-32bit-build1.zip"
+    },
+    {
+      "name": "aria2-1.37.0-aarch64-linux-android-build1.zip",
+      "size": 2508263,
+      "url": "https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0-aarch64-linux-android-build1.zip"
+    },
+    {
+      "name": "aria2-1.37.0.tar.xz",
+      "size": 1705256,
+      "url": "https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0.tar.xz"
+    },
+    {
+      "name": "aria2-1.37.0.tar.bz2",
+      "size": 2392193,
+      "url": "https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0.tar.bz2"
+    },
+    {
+      "name": "aria2-1.37.0.tar.gz",
+      "size": 3904613,
+      "url": "https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

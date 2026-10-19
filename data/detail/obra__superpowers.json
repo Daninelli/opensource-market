@@ -1,0 +1,32 @@
+{
+  "repo": "obra/superpowers",
+  "slug": "obra__superpowers",
+  "name": "Superpowers",
+  "note_zh": "给 AI 编码智能体用的技能框架与开发方法论，覆盖从头脑风暴到交付全流程。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Shell",
+    "Agent Skills",
+    "Claude Code"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-10T03:03:30Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/obra/superpowers/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

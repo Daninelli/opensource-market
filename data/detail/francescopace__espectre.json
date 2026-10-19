@@ -1,0 +1,59 @@
+{
+  "repo": "francescopace/espectre",
+  "slug": "francescopace__espectre",
+  "name": "Espectre",
+  "note_zh": "用 ESP32 的 Wi-Fi 信号感知人体动作的 SDK，可接入 ESPHome 与 Home…",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "智能家居",
+  "subcategory_slug": "smart-home",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "ESP32",
+    "Wi-Fi CSI",
+    "ESPHome"
+  ],
+  "deploy_type": "源码 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T01:09:46Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/francescopace/espectre/zip/refs/heads/main",
+  "release": {
+    "tag": "3.0.0",
+    "name": "v3.0.0 - Wi-Fi sensing SDK, standalone firmware, and browser tools",
+    "published": "2026-10-07T00:12:12Z",
+    "url": "https://github.com/francescopace/espectre/releases/tag/3.0.0"
+  },
+  "assets": [
+    {
+      "name": "espectre-sdk-3.0.0.tar.gz",
+      "size": 330883,
+      "url": "https://github.com/francescopace/espectre/releases/download/3.0.0/espectre-sdk-3.0.0.tar.gz"
+    },
+    {
+      "name": "espectre-sdk-3.0.0.zip",
+      "size": 437044,
+      "url": "https://github.com/francescopace/espectre/releases/download/3.0.0/espectre-sdk-3.0.0.zip"
+    },
+    {
+      "name": "espectre-component-3.0.0.tgz",
+      "size": 464501,
+      "url": "https://github.com/francescopace/espectre/releases/download/3.0.0/espectre-component-3.0.0.tgz"
+    },
+    {
+      "name": "espectre-esphome-3.0.0-esp32s2-ota.bin",
+      "size": 1052672,
+      "url": "https://github.com/francescopace/espectre/releases/download/3.0.0/espectre-esphome-3.0.0-esp32s2-ota.bin"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

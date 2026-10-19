@@ -1,0 +1,68 @@
+{
+  "repo": "PostgREST/postgrest",
+  "slug": "PostgREST__postgrest",
+  "name": "Postgrest",
+  "note_zh": "把 PostgreSQL 直接暴露为 REST API 的服务，无需另写后端，适合快速搭建数据接口。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Haskell",
+    "PostgreSQL",
+    "REST API"
+  ],
+  "deploy_type": "Docker 部署 / 二进制 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-18T09:09:53Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/PostgREST/postgrest/zip/refs/heads/main",
+  "release": {
+    "tag": "v16.4",
+    "name": "v16.4",
+    "published": "2026-09-24T05:31:39Z",
+    "url": "https://github.com/PostgREST/postgrest/releases/tag/v16.4"
+  },
+  "assets": [
+    {
+      "name": "postgrest-v16.4-macos-x86-64.tar.xz",
+      "size": 2705512,
+      "url": "https://github.com/PostgREST/postgrest/releases/download/v16.4/postgrest-v16.4-macos-x86-64.tar.xz"
+    },
+    {
+      "name": "postgrest-v16.4-macos-aarch64.tar.xz",
+      "size": 9047772,
+      "url": "https://github.com/PostgREST/postgrest/releases/download/v16.4/postgrest-v16.4-macos-aarch64.tar.xz"
+    },
+    {
+      "name": "postgrest-v16.4-windows-x86-64.zip",
+      "size": 15073226,
+      "url": "https://github.com/PostgREST/postgrest/releases/download/v16.4/postgrest-v16.4-windows-x86-64.zip"
+    },
+    {
+      "name": "postgrest-v16.4-linux-static-aarch64.tar.xz",
+      "size": 3996824,
+      "url": "https://github.com/PostgREST/postgrest/releases/download/v16.4/postgrest-v16.4-linux-static-aarch64.tar.xz"
+    },
+    {
+      "name": "postgrest-v16.4-linux-static-x86-64.tar.xz",
+      "size": 4520444,
+      "url": "https://github.com/PostgREST/postgrest/releases/download/v16.4/postgrest-v16.4-linux-static-x86-64.tar.xz"
+    },
+    {
+      "name": "postgrest-v16.4-freebsd-x86-64.tar.xz",
+      "size": 8446472,
+      "url": "https://github.com/PostgREST/postgrest/releases/download/v16.4/postgrest-v16.4-freebsd-x86-64.tar.xz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

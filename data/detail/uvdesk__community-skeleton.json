@@ -1,0 +1,32 @@
+{
+  "repo": "uvdesk/community-skeleton",
+  "slug": "uvdesk__community-skeleton",
+  "name": "Community-skeleton",
+  "note_zh": "开源工单客服系统，支持多渠道受理、知识库与坐席权限，适合电商和团队搭建帮助台。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "客户关系",
+  "subcategory_slug": "crm",
+  "license": "OSL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "Symfony",
+    "Docker"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-07T09:36:25Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/uvdesk/community-skeleton/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

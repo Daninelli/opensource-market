@@ -1,0 +1,73 @@
+{
+  "repo": "koreader/koreader",
+  "slug": "koreader__koreader",
+  "name": "Koreader",
+  "note_zh": "为电子墨水屏设备打造的电子书阅读器，支持 PDF、EPUB、DjVu 等多种格式。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Lua",
+    "eBook",
+    "E-Ink"
+  ],
+  "deploy_type": "客户端 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:51:45Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/koreader/koreader/zip/refs/heads/master",
+  "release": {
+    "tag": "v2026.07.1",
+    "name": "KOReader 2026.07.1",
+    "published": "2026-08-01T11:10:30Z",
+    "url": "https://github.com/koreader/koreader/releases/tag/v2026.07.1"
+  },
+  "assets": [
+    {
+      "name": "koreader_2026.07.1-1_armhf.deb",
+      "size": 28469960,
+      "url": "https://github.com/koreader/koreader/releases/download/v2026.07.1/koreader_2026.07.1-1_armhf.deb"
+    },
+    {
+      "name": "koreader-linux-armhf-v2026.07.1.tar.xz",
+      "size": 28668932,
+      "url": "https://github.com/koreader/koreader/releases/download/v2026.07.1/koreader-linux-armhf-v2026.07.1.tar.xz"
+    },
+    {
+      "name": "koreader-android-arm-v2026.07.1.apk",
+      "size": 29085335,
+      "url": "https://github.com/koreader/koreader/releases/download/v2026.07.1/koreader-android-arm-v2026.07.1.apk"
+    },
+    {
+      "name": "koreader-android-arm64-v2026.07.1.apk",
+      "size": 30084751,
+      "url": "https://github.com/koreader/koreader/releases/download/v2026.07.1/koreader-android-arm64-v2026.07.1.apk"
+    },
+    {
+      "name": "koreader-remarkable-v2026.07.1.zip",
+      "size": 40441730,
+      "url": "https://github.com/koreader/koreader/releases/download/v2026.07.1/koreader-remarkable-v2026.07.1.zip"
+    },
+    {
+      "name": "koreader-cervantes-v2026.07.1.zip",
+      "size": 40570583,
+      "url": "https://github.com/koreader/koreader/releases/download/v2026.07.1/koreader-cervantes-v2026.07.1.zip"
+    },
+    {
+      "name": "koreader-remarkable-v2026.07.1.targz",
+      "size": 41236773,
+      "url": "https://github.com/koreader/koreader/releases/download/v2026.07.1/koreader-remarkable-v2026.07.1.targz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

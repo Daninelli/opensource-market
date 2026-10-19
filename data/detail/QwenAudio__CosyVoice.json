@@ -1,0 +1,32 @@
+{
+  "repo": "QwenAudio/CosyVoice",
+  "slug": "QwenAudio__CosyVoice",
+  "name": "CosyVoice",
+  "note_zh": "多语言语音生成大模型，支持中英粤等语言与音色克隆，提供推理训练与部署代码。",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "即时通讯",
+  "subcategory_slug": "im",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "TTS"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-05-25T18:15:40Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/QwenAudio/CosyVoice/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

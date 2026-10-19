@@ -1,0 +1,33 @@
+{
+  "repo": "carekit-apple/CareKit",
+  "slug": "carekit-apple__CareKit",
+  "name": "CareKit",
+  "note_zh": "Apple 开源的健康护理应用框架，帮助开发者构建症状与用药跟踪 App。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Swift",
+    "iOS",
+    "SwiftUI",
+    "Core Data"
+  ],
+  "deploy_type": "源码 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-04-03T01:29:53Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/carekit-apple/CareKit/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,32 @@
+{
+  "repo": "massgravel/Microsoft-Activation-Scripts",
+  "slug": "massgravel__Microsoft-Activation-Scripts",
+  "name": "Microsoft-Activation-Scripts",
+  "note_zh": "Windows 与 Office 激活脚本合集，支持 HWID、KMS 等方式，仅供学习研究。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Batchfile",
+    "PowerShell",
+    "Windows"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-17T01:33:16Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/massgravel/Microsoft-Activation-Scripts/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

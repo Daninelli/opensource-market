@@ -1,0 +1,32 @@
+{
+  "repo": "OpenBMB/VoxCPM",
+  "slug": "OpenBMB__VoxCPM",
+  "name": "VoxCPM",
+  "note_zh": "免分词器的多语言语音合成模型，可做创意音色设计，适合配音与语音产品开发。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "TTS"
+  ],
+  "deploy_type": "源码 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-08T03:26:41Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/OpenBMB/VoxCPM/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

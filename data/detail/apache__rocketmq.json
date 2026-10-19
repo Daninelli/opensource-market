@@ -1,0 +1,32 @@
+{
+  "repo": "apache/rocketmq",
+  "slug": "apache__rocketmq",
+  "name": "Rocketmq",
+  "note_zh": "云原生消息与流处理平台，支持高可靠消息投递与事件驱动架构，适合后端系统。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "Messaging",
+    "Cloud Native"
+  ],
+  "deploy_type": "自托管服务 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:43:43Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/apache/rocketmq/zip/refs/heads/develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,32 @@
+{
+  "repo": "hajimehoshi/ebiten",
+  "slug": "hajimehoshi__ebiten",
+  "name": "Ebiten",
+  "note_zh": "Go 语言极简 2D 游戏引擎，跨平台打包省事，适合独立开发者快速做游戏。",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏引擎",
+  "subcategory_slug": "engine",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "OpenGL",
+    "Ebitengine"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T04:58:30Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/hajimehoshi/ebiten/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

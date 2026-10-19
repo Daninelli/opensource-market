@@ -1,0 +1,68 @@
+{
+  "repo": "maxrave-dev/SimpMusic",
+  "slug": "maxrave-dev__SimpMusic",
+  "name": "SimpMusic",
+  "note_zh": "以 YouTube Music 为后端的跨平台音乐应用，支持歌词与离线下载，适合 Android…",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "影音媒体",
+  "subcategory_slug": "streaming",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Kotlin",
+    "Compose Multiplatform",
+    "Android"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-18T17:06:52Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/maxrave-dev/SimpMusic/zip/refs/heads/dev",
+  "release": {
+    "tag": "v2.3.0",
+    "name": "2.3.0",
+    "published": "2026-10-10T17:41:41Z",
+    "url": "https://github.com/maxrave-dev/SimpMusic/releases/tag/v2.3.0"
+  },
+  "assets": [
+    {
+      "name": "SimpMusic-Windows-installer.zip",
+      "size": 245637161,
+      "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.3.0/SimpMusic-Windows-installer.zip"
+    },
+    {
+      "name": "SimpMusic-2.3.0-mac-aarch64.dmg",
+      "size": 247555064,
+      "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.3.0/SimpMusic-2.3.0-mac-aarch64.dmg"
+    },
+    {
+      "name": "SimpMusic-2.3.0-mac-amd64.dmg",
+      "size": 261514299,
+      "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.3.0/SimpMusic-2.3.0-mac-amd64.dmg"
+    },
+    {
+      "name": "SimpMusic-x86_64.AppImage",
+      "size": 160421056,
+      "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.3.0/SimpMusic-x86_64.AppImage"
+    },
+    {
+      "name": "SimpMusic-full-armeabi-v7a-release.apk",
+      "size": 29619093,
+      "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.3.0/SimpMusic-full-armeabi-v7a-release.apk"
+    },
+    {
+      "name": "SimpMusic-foss-armeabi-v7a-release.apk",
+      "size": 29623189,
+      "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.3.0/SimpMusic-foss-armeabi-v7a-release.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

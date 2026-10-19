@@ -1,0 +1,63 @@
+{
+  "repo": "sqlitebrowser/sqlitebrowser",
+  "slug": "sqlitebrowser__sqlitebrowser",
+  "name": "Sqlitebrowser",
+  "note_zh": "SQLite 的可视化数据库管理客户端，跨平台浏览与编辑表结构和数据，适合开发者与分析人员。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Qt",
+    "SQLite"
+  ],
+  "deploy_type": "客户端 / 桌面应用 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T00:48:20Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/sqlitebrowser/sqlitebrowser/zip/refs/heads/master",
+  "release": {
+    "tag": "v3.13.1",
+    "name": "DB Browser for SQLite v3.13.1",
+    "published": "2024-10-16T08:42:55Z",
+    "url": "https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.13.1"
+  },
+  "assets": [
+    {
+      "name": "DB.Browser.for.SQLite-v3.13.1-win32.msi",
+      "size": 17891328,
+      "url": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.1/DB.Browser.for.SQLite-v3.13.1-win32.msi"
+    },
+    {
+      "name": "DB.Browser.for.SQLite-v3.13.1-arm64.msi",
+      "size": 19156992,
+      "url": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.1/DB.Browser.for.SQLite-v3.13.1-arm64.msi"
+    },
+    {
+      "name": "DB.Browser.for.SQLite-v3.13.1.dmg",
+      "size": 45618256,
+      "url": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.1/DB.Browser.for.SQLite-v3.13.1.dmg"
+    },
+    {
+      "name": "DB.Browser.for.SQLite-v3.13.1-x86.64-v2.AppImage",
+      "size": 36705472,
+      "url": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.1/DB.Browser.for.SQLite-v3.13.1-x86.64-v2.AppImage"
+    },
+    {
+      "name": "DB.Browser.for.SQLite-v3.13.1-arm64.zip",
+      "size": 22816477,
+      "url": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.1/DB.Browser.for.SQLite-v3.13.1-arm64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

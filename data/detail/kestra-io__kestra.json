@@ -1,0 +1,43 @@
+{
+  "repo": "kestra-io/kestra",
+  "slug": "kestra-io__kestra",
+  "name": "Kestra",
+  "note_zh": "事件驱动的工作流编排调度平台，用 YAML 声明任务，适合数据管道与运维自动化。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "低代码平台",
+  "subcategory_slug": "low-code",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "YAML",
+    "Kubernetes"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:22:11Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/kestra-io/kestra/zip/refs/heads/develop",
+  "release": {
+    "tag": "v2.0.6",
+    "name": "v2.0.6",
+    "published": "2026-10-13T14:25:11Z",
+    "url": "https://github.com/kestra-io/kestra/releases/tag/v2.0.6"
+  },
+  "assets": [
+    {
+      "name": "kestra-2.0.6",
+      "size": 130861812,
+      "url": "https://github.com/kestra-io/kestra/releases/download/v2.0.6/kestra-2.0.6"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

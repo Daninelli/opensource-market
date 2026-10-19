@@ -1,0 +1,32 @@
+{
+  "repo": "frappe/helpdesk",
+  "slug": "frappe__helpdesk",
+  "name": "Helpdesk",
+  "note_zh": "Frappe 生态的开源客服工单系统，界面简洁、支持 SLA 与知识库，适合支持团队统一受理问题。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "客户关系",
+  "subcategory_slug": "crm",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Vue",
+    "Python",
+    "Frappe"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T07:35:58Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/frappe/helpdesk/zip/refs/heads/develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,42 @@
+{
+  "repo": "FossifyOrg/Gallery",
+  "slug": "FossifyOrg__Gallery",
+  "name": "Gallery",
+  "note_zh": "Android 开源相册应用，无广告、可离线浏览照片视频，适合注重隐私的安卓用户。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "相册管理",
+  "subcategory_slug": "photos",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Kotlin",
+    "Android"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-19T04:09:16Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/FossifyOrg/Gallery/zip/refs/heads/main",
+  "release": {
+    "tag": "1.14.0",
+    "name": "1.14.0",
+    "published": "2026-10-10T15:46:01Z",
+    "url": "https://github.com/FossifyOrg/Gallery/releases/tag/1.14.0"
+  },
+  "assets": [
+    {
+      "name": "gallery-29-foss-release.apk",
+      "size": 38538363,
+      "url": "https://github.com/FossifyOrg/Gallery/releases/download/1.14.0/gallery-29-foss-release.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

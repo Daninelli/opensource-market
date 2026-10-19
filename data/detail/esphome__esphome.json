@@ -16,7 +16,7 @@
   ],
   "deploy_type": "源码 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-19T06:10:39Z",
+  "updated_at": "2026-10-19T11:28:13Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/esphome/esphome/zip/refs/heads/dev",

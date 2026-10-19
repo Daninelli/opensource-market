@@ -1,0 +1,32 @@
+{
+  "repo": "sqlmapproject/sqlmap",
+  "slug": "sqlmapproject__sqlmap",
+  "name": "Sqlmap",
+  "note_zh": "自动检测并利用 SQL 注入漏洞的渗透测试工具，适合安全人员做数据库风险排查。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "SQL Injection",
+    "Pentesting"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:46:33Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/sqlmapproject/sqlmap/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

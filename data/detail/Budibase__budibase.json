@@ -18,21 +18,21 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-18T09:55:38Z",
+  "updated_at": "2026-10-19T12:12:17Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Budibase/budibase/zip/refs/heads/master",
   "release": {
-    "tag": "v3.49.0",
-    "name": "v3.49.0",
-    "published": "2026-10-12T07:58:29Z",
-    "url": "https://github.com/Budibase/budibase/releases/tag/v3.49.0"
+    "tag": "v3.50.0",
+    "name": "v3.50.0",
+    "published": "2026-10-19T08:09:46Z",
+    "url": "https://github.com/Budibase/budibase/releases/tag/v3.50.0"
   },
   "assets": [
     {
       "name": "openapi.yaml",
       "size": 133689,
-      "url": "https://github.com/Budibase/budibase/releases/download/v3.49.0/openapi.yaml"
+      "url": "https://github.com/Budibase/budibase/releases/download/v3.50.0/openapi.yaml"
     }
   ],
   "pinned": false,

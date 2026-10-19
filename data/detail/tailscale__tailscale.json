@@ -1,0 +1,32 @@
+{
+  "repo": "tailscale/tailscale",
+  "slug": "tailscale__tailscale",
+  "name": "Tailscale",
+  "note_zh": "基于 WireGuard 的零配置 VPN，自动组网并支持 SSO，适合远程访问内网设备。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "BSD-3-Clause",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "WireGuard",
+    "VPN"
+  ],
+  "deploy_type": "客户端 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:22:29Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/tailscale/tailscale/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

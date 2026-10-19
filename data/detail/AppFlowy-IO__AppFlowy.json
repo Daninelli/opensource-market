@@ -16,51 +16,41 @@
   ],
   "deploy_type": "客户端 + Docker",
   "platform": "github",
-  "updated_at": "2026-10-08T11:00:14Z",
+  "updated_at": "2026-10-19T11:50:08Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/AppFlowy-IO/AppFlowy/zip/refs/heads/main",
   "release": {
-    "tag": "0.14.8",
-    "name": "v0.14.8",
-    "published": "2026-10-08T11:00:14Z",
-    "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/tag/0.14.8"
+    "tag": "0.14.9",
+    "name": "v0.14.9",
+    "published": "2026-10-19T11:50:08Z",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/tag/0.14.9"
   },
   "assets": [
     {
-      "name": "AppFlowy-0.14.8-windows-x86_64.exe",
-      "size": 88714064,
-      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-windows-x86_64.exe"
+      "name": "AppFlowy-0.14.9-windows-x86_64.exe",
+      "size": 91280352,
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.9/AppFlowy-0.14.9-windows-x86_64.exe"
     },
     {
-      "name": "AppFlowy-0.14.8-windows-x86_64.zip",
-      "size": 127899051,
-      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-windows-x86_64.zip"
+      "name": "AppFlowy-0.14.9-windows-x86_64.zip",
+      "size": 132073641,
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.9/AppFlowy-0.14.9-windows-x86_64.zip"
     },
     {
-      "name": "AppFlowy-0.14.8-macos-arm64.dmg",
-      "size": 138310942,
-      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-macos-arm64.dmg"
+      "name": "AppFlowy-0.14.9-linux-x86_64.deb",
+      "size": 142694756,
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.9/AppFlowy-0.14.9-linux-x86_64.deb"
     },
     {
-      "name": "AppFlowy-0.14.8-macos-arm64.zip",
-      "size": 139819259,
-      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-macos-arm64.zip"
+      "name": "AppFlowy-0.14.9-linux-x86_64.AppImage",
+      "size": 181393912,
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.9/AppFlowy-0.14.9-linux-x86_64.AppImage"
     },
     {
-      "name": "AppFlowy-0.14.8-linux-x86_64.deb",
-      "size": 139584408,
-      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-linux-x86_64.deb"
-    },
-    {
-      "name": "AppFlowy-0.14.8-linux-x86_64.AppImage",
-      "size": 176978424,
-      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-linux-x86_64.AppImage"
-    },
-    {
-      "name": "AppFlowy-0.14.8-android.apk",
-      "size": 222375877,
-      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-android.apk"
+      "name": "AppFlowy-0.14.9-android.apk",
+      "size": 249183348,
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.9/AppFlowy-0.14.9-android.apk"
     }
   ],
   "pinned": false,

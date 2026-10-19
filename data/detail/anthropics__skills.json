@@ -1,0 +1,32 @@
+{
+  "repo": "anthropics/skills",
+  "slug": "anthropics__skills",
+  "name": "Skills",
+  "note_zh": "Anthropic 官方公开的 Agent Skills 集合，示范如何编写可复用的智能体技能。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Agent Skills",
+    "Markdown"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-09T18:45:52Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/anthropics/skills/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

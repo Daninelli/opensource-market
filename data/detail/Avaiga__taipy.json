@@ -1,0 +1,53 @@
+{
+  "repo": "Avaiga/taipy",
+  "slug": "Avaiga__taipy",
+  "name": "Taipy",
+  "note_zh": "把数据与 AI 算法快速变成可上线的 Web 应用，前端界面和场景编排一并搞定。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "低代码平台",
+  "subcategory_slug": "low-code",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Pandas",
+    "React"
+  ],
+  "deploy_type": "依赖库 / 传统部署",
+  "platform": "github",
+  "updated_at": "2026-08-10T02:47:18Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/Avaiga/taipy/zip/refs/heads/develop",
+  "release": {
+    "tag": "4.1.1",
+    "name": "4.1.1",
+    "published": "2026-02-16T12:40:06Z",
+    "url": "https://github.com/Avaiga/taipy/releases/tag/4.1.1"
+  },
+  "assets": [
+    {
+      "name": "taipy-core-4.1.1.tar.gz",
+      "size": 160211,
+      "url": "https://github.com/Avaiga/taipy/releases/download/4.1.1/taipy-core-4.1.1.tar.gz"
+    },
+    {
+      "name": "taipy-4.1.1.tar.gz",
+      "size": 304137,
+      "url": "https://github.com/Avaiga/taipy/releases/download/4.1.1/taipy-4.1.1.tar.gz"
+    },
+    {
+      "name": "taipy-4.1.1-py3-none-any.whl",
+      "size": 308555,
+      "url": "https://github.com/Avaiga/taipy/releases/download/4.1.1/taipy-4.1.1-py3-none-any.whl"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

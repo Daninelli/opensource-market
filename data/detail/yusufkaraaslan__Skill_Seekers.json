@@ -1,0 +1,32 @@
+{
+  "repo": "yusufkaraaslan/Skill_Seekers",
+  "slug": "yusufkaraaslan__Skill_Seekers",
+  "name": "Skill_Seekers",
+  "note_zh": "把文档网站、GitHub 仓库和 PDF 转成 Claude 技能包，适合沉淀 AI 知识库。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Claude",
+    "AST Parser"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-09-30T18:49:17Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "development",
+  "download_url": "https://codeload.github.com/yusufkaraaslan/Skill_Seekers/zip/refs/heads/development",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

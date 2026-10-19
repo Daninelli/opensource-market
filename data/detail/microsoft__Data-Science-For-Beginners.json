@@ -1,0 +1,32 @@
+{
+  "repo": "microsoft/Data-Science-For-Beginners",
+  "slug": "microsoft__Data-Science-For-Beginners",
+  "name": "Data-Science-For-Beginners",
+  "note_zh": "微软出品的数据科学入门课程，10 周 20 节课，适合零基础自学。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "数据分析",
+  "subcategory_slug": "bi",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Jupyter",
+    "Pandas"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T10:29:38Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/microsoft/Data-Science-For-Beginners/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

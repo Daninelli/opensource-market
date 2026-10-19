@@ -1,0 +1,68 @@
+{
+  "repo": "Tyrrrz/YoutubeDownloader",
+  "slug": "Tyrrrz__YoutubeDownloader",
+  "name": "YoutubeDownloader",
+  "note_zh": "Windows 桌面版 YouTube 下载器，可批量下载视频与播放列表并转成 MP3，适合普通…",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET",
+    "WPF"
+  ],
+  "deploy_type": "客户端 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-09T17:23:36Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "prime",
+  "download_url": "https://codeload.github.com/Tyrrrz/YoutubeDownloader/zip/refs/heads/prime",
+  "release": {
+    "tag": "1.17",
+    "name": "1.17",
+    "published": "2026-09-11T17:28:18Z",
+    "url": "https://github.com/Tyrrrz/YoutubeDownloader/releases/tag/1.17"
+  },
+  "assets": [
+    {
+      "name": "YoutubeDownloader.win-x86.zip",
+      "size": 75635731,
+      "url": "https://github.com/Tyrrrz/YoutubeDownloader/releases/download/1.17/YoutubeDownloader.win-x86.zip"
+    },
+    {
+      "name": "YoutubeDownloader.win-arm64.zip",
+      "size": 76506317,
+      "url": "https://github.com/Tyrrrz/YoutubeDownloader/releases/download/1.17/YoutubeDownloader.win-arm64.zip"
+    },
+    {
+      "name": "YoutubeDownloader.linux-arm64.zip",
+      "size": 48057283,
+      "url": "https://github.com/Tyrrrz/YoutubeDownloader/releases/download/1.17/YoutubeDownloader.linux-arm64.zip"
+    },
+    {
+      "name": "YoutubeDownloader.linux-x64.zip",
+      "size": 50478969,
+      "url": "https://github.com/Tyrrrz/YoutubeDownloader/releases/download/1.17/YoutubeDownloader.linux-x64.zip"
+    },
+    {
+      "name": "YoutubeDownloader.osx-arm64.zip",
+      "size": 100400104,
+      "url": "https://github.com/Tyrrrz/YoutubeDownloader/releases/download/1.17/YoutubeDownloader.osx-arm64.zip"
+    },
+    {
+      "name": "YoutubeDownloader.osx-x64.zip",
+      "size": 104801788,
+      "url": "https://github.com/Tyrrrz/YoutubeDownloader/releases/download/1.17/YoutubeDownloader.osx-x64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

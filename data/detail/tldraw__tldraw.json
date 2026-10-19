@@ -1,0 +1,32 @@
+{
+  "repo": "tldraw/tldraw",
+  "slug": "tldraw__tldraw",
+  "name": "Tldraw",
+  "note_zh": "无限画布 React SDK，几步就能在自家产品里嵌入白板、绘图与多人协作，适合开发者快速集成图…",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "团队协作",
+  "subcategory_slug": "collaboration",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React",
+    "Canvas"
+  ],
+  "deploy_type": "前端源码 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:05:31Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/tldraw/tldraw/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

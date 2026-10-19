@@ -1,0 +1,48 @@
+{
+  "repo": "saadeghi/daisyui",
+  "slug": "saadeghi__daisyui",
+  "name": "Daisyui",
+  "note_zh": "Tailwind CSS 组件库，提供大量开箱即用的 UI 组件与主题，适合快速做界面。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Tailwind CSS",
+    "CSS",
+    "JavaScript"
+  ],
+  "deploy_type": "前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-17T16:05:50Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/saadeghi/daisyui/zip/refs/heads/master",
+  "release": {
+    "tag": "v5.7.50",
+    "name": "v5.7.50",
+    "published": "2026-10-13T11:45:16Z",
+    "url": "https://github.com/saadeghi/daisyui/releases/tag/v5.7.50"
+  },
+  "assets": [
+    {
+      "name": "daisyui.mjs",
+      "size": 351408,
+      "url": "https://github.com/saadeghi/daisyui/releases/download/v5.7.50/daisyui.mjs"
+    },
+    {
+      "name": "daisyui.js",
+      "size": 352708,
+      "url": "https://github.com/saadeghi/daisyui/releases/download/v5.7.50/daisyui.js"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

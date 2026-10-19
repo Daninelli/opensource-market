@@ -1,0 +1,33 @@
+{
+  "repo": "idurar/idurar-erp-crm",
+  "slug": "idurar__idurar-erp-crm",
+  "name": "Idurar-erp-crm",
+  "note_zh": "Node.js 与 React 实现的开源 ERP/CRM，覆盖会计、开票与客户管理，适合中小企业。",
+  "category": "金融",
+  "category_slug": "finance",
+  "subcategory": "记账核算",
+  "subcategory_slug": "accounting",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Node.js",
+    "React",
+    "Express",
+    "MongoDB"
+  ],
+  "deploy_type": "Docker 部署 / 传统部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-08-14T23:02:15Z",
+  "added_at": "2026-10-19T12:18:42.273Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/idurar/idurar-erp-crm/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}
