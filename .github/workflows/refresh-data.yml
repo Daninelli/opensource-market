@@ -5,11 +5,6 @@ on:
   schedule:
     - cron: "17 3 * * *"
   workflow_dispatch:
-    inputs:
-      all:
-        description: "强制全量重抓（忽略 meta.json 里的 20 小时缓存）"
-        type: boolean
-        default: false
   # 改动抓取脚本或本工作流时自动跑一次，方便验证链路
   push:
     branches: [main]
@@ -43,10 +38,14 @@ jobs:
       # （GITHUB_TOKEN 的 REST 额度是 1000 次/小时/仓库，逐仓库抓在项目数破千后
       #   必然中途 403，而且会把旧 star 当成新快照写进去——热门榜会静默丢项目。）
       # 仓库改名 / 已删除 / 整批失败时脚本会自动回落到 REST 逐个抓。
+      #
+      # 固定带 --all：GraphQL 全量只要 17 次请求，没必要再靠 meta.json 的
+      # 20 小时缓存省额度；而且缓存判断有个坑——如果白天手动跑过一次，
+      # 凌晨的定时任务会因为"距上次不足 20 小时"直接跳过全部项目。
       - name: 抓取 star / 更新时间
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node tools/fetch-repo-data.mjs ${{ inputs.all && '--all' || '' }}
+        run: node tools/fetch-repo-data.mjs --all
 
       - name: 生成热门榜
         run: node tools/build-trending.mjs
