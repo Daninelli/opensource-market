@@ -5,6 +5,11 @@ on:
   schedule:
     - cron: "17 3 * * *"
   workflow_dispatch:
+    inputs:
+      all:
+        description: "强制全量重抓（忽略 meta.json 里的 20 小时缓存）"
+        type: boolean
+        default: false
   # 改动抓取脚本或本工作流时自动跑一次，方便验证链路
   push:
     branches: [main]
@@ -41,7 +46,7 @@ jobs:
       - name: 抓取 star / 更新时间
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node tools/fetch-repo-data.mjs
+        run: node tools/fetch-repo-data.mjs ${{ inputs.all && '--all' || '' }}
 
       - name: 生成热门榜
         run: node tools/build-trending.mjs
