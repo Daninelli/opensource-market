@@ -106,7 +106,8 @@
             display: flex;
             align-items: center;
             gap: 16px;
-            justify-content: flex-start;
+            /* 搜索收窄成图标后，内容整体居中，左右留白自动均分，与内容区对齐 */
+            justify-content: center;
         }
 
         /* 一级分类：固定单行不换行，空间不足时横向滑动（任何窗口宽度都只有一行） */
