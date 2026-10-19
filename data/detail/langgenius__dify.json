@@ -16,12 +16,43 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-10-18T10:12:28Z",
+  "updated_at": "2026-10-19T06:39:10Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/langgenius/dify/zip/refs/heads/main",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "1.17.1",
+    "name": "v1.17.1 - Bug Fixes and Improvements",
+    "published": "2026-09-10T10:04:06Z",
+    "url": "https://github.com/langgenius/dify/releases/tag/1.17.1"
+  },
+  "assets": [
+    {
+      "name": "difyctl-v1.17.1-darwin-arm64",
+      "size": 62340640,
+      "url": "https://github.com/langgenius/dify/releases/download/1.17.1/difyctl-v1.17.1-darwin-arm64"
+    },
+    {
+      "name": "difyctl-v1.17.1-darwin-x64",
+      "size": 67422784,
+      "url": "https://github.com/langgenius/dify/releases/download/1.17.1/difyctl-v1.17.1-darwin-x64"
+    },
+    {
+      "name": "difyctl-v1.17.1-windows-x64.exe",
+      "size": 118064640,
+      "url": "https://github.com/langgenius/dify/releases/download/1.17.1/difyctl-v1.17.1-windows-x64.exe"
+    },
+    {
+      "name": "difyctl-v1.17.1-linux-arm64",
+      "size": 102263001,
+      "url": "https://github.com/langgenius/dify/releases/download/1.17.1/difyctl-v1.17.1-linux-arm64"
+    },
+    {
+      "name": "difyctl-v1.17.1-linux-x64",
+      "size": 103133497,
+      "url": "https://github.com/langgenius/dify/releases/download/1.17.1/difyctl-v1.17.1-linux-x64"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

@@ -19,8 +19,54 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/AdguardTeam/AdGuardHome/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v0.107.79",
+    "name": "AdGuard Home v0.107.79",
+    "published": "2026-08-18T15:45:27Z",
+    "url": "https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.107.79"
+  },
+  "assets": [
+    {
+      "name": "AdGuardHome_windows_arm64.zip",
+      "size": 10429450,
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.79/AdGuardHome_windows_arm64.zip"
+    },
+    {
+      "name": "AdGuardHome_windows_386.zip",
+      "size": 11299935,
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.79/AdGuardHome_windows_386.zip"
+    },
+    {
+      "name": "AdGuardHome_darwin_arm64.zip",
+      "size": 11642819,
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.79/AdGuardHome_darwin_arm64.zip"
+    },
+    {
+      "name": "AdGuardHome_darwin_amd64.zip",
+      "size": 12415027,
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.79/AdGuardHome_darwin_amd64.zip"
+    },
+    {
+      "name": "AdGuardHome_linux_mips64le_softfloat.tar.gz",
+      "size": 11067392,
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.79/AdGuardHome_linux_mips64le_softfloat.tar.gz"
+    },
+    {
+      "name": "AdGuardHome_linux_mips64_softfloat.tar.gz",
+      "size": 11156037,
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.79/AdGuardHome_linux_mips64_softfloat.tar.gz"
+    },
+    {
+      "name": "AdGuardHome_frontend.tar.gz",
+      "size": 2580109,
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.79/AdGuardHome_frontend.tar.gz"
+    },
+    {
+      "name": "AdGuardHome_openbsd_arm64.tar.gz",
+      "size": 11108188,
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.79/AdGuardHome_openbsd_arm64.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

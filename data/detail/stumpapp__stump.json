@@ -17,12 +17,38 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-17T18:19:23Z",
+  "updated_at": "2026-10-18T22:20:53Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/stumpapp/stump/zip/refs/heads/main",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v0.1.10",
+    "name": "v0.1.10",
+    "published": "2026-09-21T16:28:54Z",
+    "url": "https://github.com/stumpapp/stump/releases/tag/v0.1.10"
+  },
+  "assets": [
+    {
+      "name": "windows-build-results.zip",
+      "size": 35813820,
+      "url": "https://github.com/stumpapp/stump/releases/download/v0.1.10/windows-build-results.zip"
+    },
+    {
+      "name": "macos-arm-build-results.zip",
+      "size": 36491033,
+      "url": "https://github.com/stumpapp/stump/releases/download/v0.1.10/macos-arm-build-results.zip"
+    },
+    {
+      "name": "macos-intel-build-results.zip",
+      "size": 37962660,
+      "url": "https://github.com/stumpapp/stump/releases/download/v0.1.10/macos-intel-build-results.zip"
+    },
+    {
+      "name": "linux-build-results.zip",
+      "size": 38585906,
+      "url": "https://github.com/stumpapp/stump/releases/download/v0.1.10/linux-build-results.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

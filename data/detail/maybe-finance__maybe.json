@@ -9,7 +9,7 @@
   "subcategory_slug": "personal-finance",
   "license": "AGPL-3.0",
   "license_category": "open",
-  "archived": false,
+  "archived": true,
   "tech_stack": [
     "Ruby",
     "Ruby on Rails",
@@ -28,5 +28,11 @@
   "pin_note": null,
   "submitted_by": null,
   "gitee": null,
-  "changes": []
+  "changes": [
+    {
+      "date": "2026-10-19",
+      "repo": "maybe-finance/maybe",
+      "type": "archived"
+    }
+  ]
 }

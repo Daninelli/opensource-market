@@ -201,7 +201,7 @@ for (const project of targets) {
         if (updated_at) project.updated_at = updated_at;
         if (default_branch) {
             project.default_branch = default_branch;
-            project.download_url = `https://codeload.github.com/${project.repo}/zip/refs/heads/${default_branch}`;
+            project.download_url = `https://codeload.github.com/${project.repo}/zip/refs/heads/${encodeURIComponent(default_branch)}`;
         }
 
         // 协议：只在 GitHub 给出可信结果时才覆盖已有值

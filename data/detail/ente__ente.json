@@ -16,12 +16,48 @@
   ],
   "deploy_type": "Docker / 客户端",
   "platform": "github",
-  "updated_at": "2026-10-18T10:49:23Z",
+  "updated_at": "2026-10-19T06:35:21Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ente/ente/zip/refs/heads/main",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "auth-v4.4.26",
+    "name": "auth-v4.4.26",
+    "published": "2026-10-19T06:27:29Z",
+    "url": "https://github.com/ente/ente/releases/tag/auth-v4.4.26"
+  },
+  "assets": [
+    {
+      "name": "ente-auth-v4.4.26-installer.exe",
+      "size": 28977976,
+      "url": "https://github.com/ente/ente/releases/download/auth-v4.4.26/ente-auth-v4.4.26-installer.exe"
+    },
+    {
+      "name": "ente-auth-v4.4.26-windows.zip",
+      "size": 29103071,
+      "url": "https://github.com/ente/ente/releases/download/auth-v4.4.26/ente-auth-v4.4.26-windows.zip"
+    },
+    {
+      "name": "ente-auth-v4.4.26.dmg",
+      "size": 46193389,
+      "url": "https://github.com/ente/ente/releases/download/auth-v4.4.26/ente-auth-v4.4.26.dmg"
+    },
+    {
+      "name": "ente-auth-v4.4.26-x86_64.deb",
+      "size": 19696228,
+      "url": "https://github.com/ente/ente/releases/download/auth-v4.4.26/ente-auth-v4.4.26-x86_64.deb"
+    },
+    {
+      "name": "ente-auth-v4.4.26-x86_64.rpm",
+      "size": 25180402,
+      "url": "https://github.com/ente/ente/releases/download/auth-v4.4.26/ente-auth-v4.4.26-x86_64.rpm"
+    },
+    {
+      "name": "ente-auth-v4.4.26.apk",
+      "size": 64944008,
+      "url": "https://github.com/ente/ente/releases/download/auth-v4.4.26/ente-auth-v4.4.26.apk"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

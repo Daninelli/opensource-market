@@ -21,8 +21,54 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/cloudreve/Cloudreve/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "4.19.1",
+    "name": "4.19.1",
+    "published": "2026-09-18T12:44:33Z",
+    "url": "https://github.com/cloudreve/cloudreve/releases/tag/4.19.1"
+  },
+  "assets": [
+    {
+      "name": "cloudreve_4.19.1_windows_arm64.zip",
+      "size": 35299674,
+      "url": "https://github.com/cloudreve/cloudreve/releases/download/4.19.1/cloudreve_4.19.1_windows_arm64.zip"
+    },
+    {
+      "name": "cloudreve_4.19.1_darwin_arm64.tar.gz",
+      "size": 36291835,
+      "url": "https://github.com/cloudreve/cloudreve/releases/download/4.19.1/cloudreve_4.19.1_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "cloudreve_4.19.1_darwin_amd64.tar.gz",
+      "size": 37978952,
+      "url": "https://github.com/cloudreve/cloudreve/releases/download/4.19.1/cloudreve_4.19.1_darwin_amd64.tar.gz"
+    },
+    {
+      "name": "cloudreve_4.19.1_windows_amd64.zip",
+      "size": 37984711,
+      "url": "https://github.com/cloudreve/cloudreve/releases/download/4.19.1/cloudreve_4.19.1_windows_amd64.zip"
+    },
+    {
+      "name": "cloudreve_4.19.1_linux_arm64.tar.gz",
+      "size": 35248035,
+      "url": "https://github.com/cloudreve/cloudreve/releases/download/4.19.1/cloudreve_4.19.1_linux_arm64.tar.gz"
+    },
+    {
+      "name": "cloudreve_4.19.1_linux_armv7.tar.gz",
+      "size": 36177137,
+      "url": "https://github.com/cloudreve/cloudreve/releases/download/4.19.1/cloudreve_4.19.1_linux_armv7.tar.gz"
+    },
+    {
+      "name": "cloudreve_4.19.1_freebsd_arm64.tar.gz",
+      "size": 35205249,
+      "url": "https://github.com/cloudreve/cloudreve/releases/download/4.19.1/cloudreve_4.19.1_freebsd_arm64.tar.gz"
+    },
+    {
+      "name": "cloudreve_4.19.1_freebsd_amd64.tar.gz",
+      "size": 37502026,
+      "url": "https://github.com/cloudreve/cloudreve/releases/download/4.19.1/cloudreve_4.19.1_freebsd_amd64.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

@@ -18,12 +18,23 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-16T15:34:49Z",
+  "updated_at": "2026-10-18T16:22:46Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/zulip/zulip/zip/refs/heads/main",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "12.3",
+    "name": "Zulip Server 12.3",
+    "published": "2026-09-21T17:10:07Z",
+    "url": "https://github.com/zulip/zulip/releases/tag/12.3"
+  },
+  "assets": [
+    {
+      "name": "zulip-server-12.3.tar.gz",
+      "size": 141699780,
+      "url": "https://github.com/zulip/zulip/releases/download/12.3/zulip-server-12.3.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

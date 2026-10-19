@@ -20,8 +20,44 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/mattermost-community/focalboard/zip/refs/heads/main",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v8.0.0",
+    "name": "v8.0.0",
+    "published": "2024-06-13T15:31:05Z",
+    "url": "https://github.com/mattermost-community/focalboard/releases/tag/v8.0.0"
+  },
+  "assets": [
+    {
+      "name": "mattermost-plugin-focalboard-v8.0.0-darwin-arm64.tar.gz",
+      "size": 46021108,
+      "url": "https://github.com/mattermost-community/focalboard/releases/download/v8.0.0/mattermost-plugin-focalboard-v8.0.0-darwin-arm64.tar.gz"
+    },
+    {
+      "name": "mattermost-plugin-focalboard-v8.0.0-darwin-amd64.tar.gz",
+      "size": 46857285,
+      "url": "https://github.com/mattermost-community/focalboard/releases/download/v8.0.0/mattermost-plugin-focalboard-v8.0.0-darwin-amd64.tar.gz"
+    },
+    {
+      "name": "mattermost-plugin-focalboard-v8.0.0-windows-amd64.tar.gz",
+      "size": 47527087,
+      "url": "https://github.com/mattermost-community/focalboard/releases/download/v8.0.0/mattermost-plugin-focalboard-v8.0.0-windows-amd64.tar.gz"
+    },
+    {
+      "name": "mattermost-plugin-focalboard-v8.0.0-linux-arm64.tar.gz",
+      "size": 45648112,
+      "url": "https://github.com/mattermost-community/focalboard/releases/download/v8.0.0/mattermost-plugin-focalboard-v8.0.0-linux-arm64.tar.gz"
+    },
+    {
+      "name": "mattermost-plugin-focalboard-v8.0.0-linux-amd64.tar.gz",
+      "size": 47143687,
+      "url": "https://github.com/mattermost-community/focalboard/releases/download/v8.0.0/mattermost-plugin-focalboard-v8.0.0-linux-amd64.tar.gz"
+    },
+    {
+      "name": "mattermost-plugin-focalboard.tar.gz",
+      "size": 153370292,
+      "url": "https://github.com/mattermost-community/focalboard/releases/download/v8.0.0/mattermost-plugin-focalboard.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

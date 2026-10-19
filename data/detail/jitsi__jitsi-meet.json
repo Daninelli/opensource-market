@@ -21,7 +21,12 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/jitsi/jitsi-meet/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "stable/jitsi-meet_11248",
+    "name": "2.0.11248",
+    "published": "2026-09-14T13:07:11Z",
+    "url": "https://github.com/jitsi/jitsi-meet/releases/tag/stable/jitsi-meet_11248"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

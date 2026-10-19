@@ -17,12 +17,38 @@
   ],
   "deploy_type": "客户端",
   "platform": "github",
-  "updated_at": "2026-10-13T22:29:42Z",
+  "updated_at": "2026-10-18T10:51:28Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/CorsixTH/CorsixTH/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v0.70.1",
+    "name": "CorsixTH 0.70.1",
+    "published": "2026-08-28T13:33:08Z",
+    "url": "https://github.com/CorsixTH/CorsixTH/releases/tag/v0.70.1"
+  },
+  "assets": [
+    {
+      "name": "CorsixTH-v0.70.1-Windows-x64.zip",
+      "size": 32838355,
+      "url": "https://github.com/CorsixTH/CorsixTH/releases/download/v0.70.1/CorsixTH-v0.70.1-Windows-x64.zip"
+    },
+    {
+      "name": "CorsixTHInstaller.exe",
+      "size": 35836176,
+      "url": "https://github.com/CorsixTH/CorsixTH/releases/download/v0.70.1/CorsixTHInstaller.exe"
+    },
+    {
+      "name": "CorsixTH-0.70.1.dmg",
+      "size": 97870694,
+      "url": "https://github.com/CorsixTH/CorsixTH/releases/download/v0.70.1/CorsixTH-0.70.1.dmg"
+    },
+    {
+      "name": "CorsixTH-v0.70.1-x86_64.AppImage",
+      "size": 82864632,
+      "url": "https://github.com/CorsixTH/CorsixTH/releases/download/v0.70.1/CorsixTH-v0.70.1-x86_64.AppImage"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

@@ -1,0 +1,62 @@
+{
+  "repo": "qbittorrent/qBittorrent",
+  "slug": "qbittorrent__qBittorrent",
+  "name": "qBittorrent",
+  "note_zh": "轻量开源 BT 下载客户端，界面干净无广告，内置 WebUI 可远程管理。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "GPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Qt"
+  ],
+  "deploy_type": "客户端 / Docker",
+  "platform": "github",
+  "updated_at": "2026-10-18T11:34:32Z",
+  "added_at": "2026-10-19T14:45:00.000Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/qbittorrent/qBittorrent/zip/refs/heads/master",
+  "release": {
+    "tag": "release-5.2.4",
+    "name": "qBittorrent v5.2.4",
+    "published": "2026-09-28T19:02:55Z",
+    "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.2.4"
+  },
+  "assets": [
+    {
+      "name": "qbittorrent_5.2.4_x64_setup.exe",
+      "size": 41407004,
+      "url": "https://github.com/qbittorrent/qBittorrent/releases/download/release-5.2.4/qbittorrent_5.2.4_x64_setup.exe"
+    },
+    {
+      "name": "qbittorrent_5.2.4_lt20_x64_setup.exe",
+      "size": 43797703,
+      "url": "https://github.com/qbittorrent/qBittorrent/releases/download/release-5.2.4/qbittorrent_5.2.4_lt20_x64_setup.exe"
+    },
+    {
+      "name": "qbittorrent-5.2.4_x86_64.AppImage",
+      "size": 101419512,
+      "url": "https://github.com/qbittorrent/qBittorrent/releases/download/release-5.2.4/qbittorrent-5.2.4_x86_64.AppImage"
+    },
+    {
+      "name": "qbittorrent-5.2.4_lt20_x86_64.AppImage",
+      "size": 101542392,
+      "url": "https://github.com/qbittorrent/qBittorrent/releases/download/release-5.2.4/qbittorrent-5.2.4_lt20_x86_64.AppImage"
+    },
+    {
+      "name": "qbittorrent-5.2.4.tar.xz",
+      "size": 5311620,
+      "url": "https://github.com/qbittorrent/qBittorrent/releases/download/release-5.2.4/qbittorrent-5.2.4.tar.xz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -16,12 +16,48 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-10-16T12:14:52Z",
+  "updated_at": "2026-10-18T20:26:46Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/Kareadita/Kavita/zip/refs/heads/develop",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v0.9.1.4",
+    "name": "v0.9.1.4 - Hardcover Recommendations + Hotfix",
+    "published": "2026-09-02T21:07:38Z",
+    "url": "https://github.com/Kareadita/Kavita/releases/tag/v0.9.1.4"
+  },
+  "assets": [
+    {
+      "name": "kavita-win-x86.tar.gz",
+      "size": 114009495,
+      "url": "https://github.com/Kareadita/Kavita/releases/download/v0.9.1.4/kavita-win-x86.tar.gz"
+    },
+    {
+      "name": "kavita-win-x64.tar.gz",
+      "size": 117522272,
+      "url": "https://github.com/Kareadita/Kavita/releases/download/v0.9.1.4/kavita-win-x64.tar.gz"
+    },
+    {
+      "name": "kavita-linux-arm.tar.gz",
+      "size": 114379542,
+      "url": "https://github.com/Kareadita/Kavita/releases/download/v0.9.1.4/kavita-linux-arm.tar.gz"
+    },
+    {
+      "name": "kavita-linux-arm64.tar.gz",
+      "size": 115367227,
+      "url": "https://github.com/Kareadita/Kavita/releases/download/v0.9.1.4/kavita-linux-arm64.tar.gz"
+    },
+    {
+      "name": "kavita-osx-arm64.tar.gz",
+      "size": 113407640,
+      "url": "https://github.com/Kareadita/Kavita/releases/download/v0.9.1.4/kavita-osx-arm64.tar.gz"
+    },
+    {
+      "name": "kavita-osx-x64.tar.gz",
+      "size": 116923317,
+      "url": "https://github.com/Kareadita/Kavita/releases/download/v0.9.1.4/kavita-osx-x64.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

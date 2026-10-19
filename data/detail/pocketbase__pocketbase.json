@@ -19,8 +19,44 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/pocketbase/pocketbase/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v0.40.5",
+    "name": "v0.40.5 Release",
+    "published": "2026-10-08T16:45:10Z",
+    "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.40.5"
+  },
+  "assets": [
+    {
+      "name": "pocketbase_0.40.5_windows_arm64.zip",
+      "size": 11733531,
+      "url": "https://github.com/pocketbase/pocketbase/releases/download/v0.40.5/pocketbase_0.40.5_windows_arm64.zip"
+    },
+    {
+      "name": "pocketbase_0.40.5_darwin_arm64.zip",
+      "size": 12070573,
+      "url": "https://github.com/pocketbase/pocketbase/releases/download/v0.40.5/pocketbase_0.40.5_darwin_arm64.zip"
+    },
+    {
+      "name": "pocketbase_0.40.5_darwin_amd64.zip",
+      "size": 12739681,
+      "url": "https://github.com/pocketbase/pocketbase/releases/download/v0.40.5/pocketbase_0.40.5_darwin_amd64.zip"
+    },
+    {
+      "name": "pocketbase_0.40.5_windows_amd64.zip",
+      "size": 12833751,
+      "url": "https://github.com/pocketbase/pocketbase/releases/download/v0.40.5/pocketbase_0.40.5_windows_amd64.zip"
+    },
+    {
+      "name": "pocketbase_0.40.5_linux_arm64.zip",
+      "size": 11722413,
+      "url": "https://github.com/pocketbase/pocketbase/releases/download/v0.40.5/pocketbase_0.40.5_linux_arm64.zip"
+    },
+    {
+      "name": "pocketbase_0.40.5_linux_ppc64le.zip",
+      "size": 11802180,
+      "url": "https://github.com/pocketbase/pocketbase/releases/download/v0.40.5/pocketbase_0.40.5_linux_ppc64le.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

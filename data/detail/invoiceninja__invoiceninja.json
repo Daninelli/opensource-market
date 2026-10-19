@@ -17,12 +17,28 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-18T03:44:47Z",
+  "updated_at": "2026-10-19T02:21:25Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "v5-stable",
   "download_url": "https://codeload.github.com/invoiceninja/invoiceninja/zip/refs/heads/v5-stable",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v5.13.49",
+    "name": "v5.13.49",
+    "published": "2026-10-18T03:44:48Z",
+    "url": "https://github.com/invoiceninja/invoiceninja/releases/tag/v5.13.49"
+  },
+  "assets": [
+    {
+      "name": "invoiceninja.tar",
+      "size": 196972682,
+      "url": "https://github.com/invoiceninja/invoiceninja/releases/download/v5.13.49/invoiceninja.tar"
+    },
+    {
+      "name": "invoiceninja.tar.gz",
+      "size": 196972682,
+      "url": "https://github.com/invoiceninja/invoiceninja/releases/download/v5.13.49/invoiceninja.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

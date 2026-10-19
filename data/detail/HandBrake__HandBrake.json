@@ -17,12 +17,48 @@
   ],
   "deploy_type": "客户端",
   "platform": "github",
-  "updated_at": "2026-10-17T16:49:44Z",
+  "updated_at": "2026-10-18T10:14:30Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/HandBrake/HandBrake/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "1.11.2",
+    "name": "1.11.2",
+    "published": "2026-06-07T19:08:25Z",
+    "url": "https://github.com/HandBrake/HandBrake/releases/tag/1.11.2"
+  },
+  "assets": [
+    {
+      "name": "HandBrake-1.11.2-arm64-Win_GUI.exe",
+      "size": 18595792,
+      "url": "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake-1.11.2-arm64-Win_GUI.exe"
+    },
+    {
+      "name": "HandBrakeCLI-1.11.2-win-aarch64.zip",
+      "size": 19316730,
+      "url": "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrakeCLI-1.11.2-win-aarch64.zip"
+    },
+    {
+      "name": "HandBrakeCLI-1.11.2.dmg",
+      "size": 38186738,
+      "url": "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrakeCLI-1.11.2.dmg"
+    },
+    {
+      "name": "HandBrake-1.11.2.dmg",
+      "size": 47978117,
+      "url": "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake-1.11.2.dmg"
+    },
+    {
+      "name": "HandBrake.Plugin.IntelMediaSDK-1.11.2-x86_64.flatpak",
+      "size": 13242872,
+      "url": "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake.Plugin.IntelMediaSDK-1.11.2-x86_64.flatpak"
+    },
+    {
+      "name": "HandBrake-1.11.2-x86_64.flatpak",
+      "size": 29772536,
+      "url": "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake-1.11.2-x86_64.flatpak"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

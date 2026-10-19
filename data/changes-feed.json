@@ -1,8 +1,39 @@
 {
   "note": "由 tools/build-changes-feed.mjs 自动生成；只含变动事件，不含状态快照",
-  "generated_at": "2026-10-18T13:31:07.303Z",
-  "monitored": 241,
-  "since": "2026-10-18",
-  "total": 0,
-  "items": []
+  "generated_at": "2026-10-19T06:44:15.782Z",
+  "monitored": 260,
+  "since": "2026-10-19",
+  "total": 3,
+  "items": [
+    {
+      "date": "2026-10-19",
+      "repo": "maybe-finance/maybe",
+      "name": "Maybe Finance",
+      "category": "金融",
+      "category_slug": "finance",
+      "type": "archived",
+      "from": null,
+      "to": null
+    },
+    {
+      "date": "2026-10-19",
+      "repo": "HospitalRun/hospitalrun-frontend",
+      "name": "HospitalRun",
+      "category": "医疗",
+      "category_slug": "medical",
+      "type": "archived",
+      "from": null,
+      "to": null
+    },
+    {
+      "date": "2026-10-19",
+      "repo": "medusajs/nextjs-starter-medusa",
+      "name": "Medusa Next.js Starter",
+      "category": "电商",
+      "category_slug": "ecommerce",
+      "type": "archived",
+      "from": null,
+      "to": null
+    }
+  ]
 }

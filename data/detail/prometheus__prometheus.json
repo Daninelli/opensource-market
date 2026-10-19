@@ -15,12 +15,58 @@
   ],
   "deploy_type": "二进制 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-18T08:25:03Z",
+  "updated_at": "2026-10-19T02:47:56Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/prometheus/prometheus/zip/refs/heads/main",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v3.15.0",
+    "name": "3.15.0 / 2026-09-24",
+    "published": "2026-09-25T08:56:22Z",
+    "url": "https://github.com/prometheus/prometheus/releases/tag/v3.15.0"
+  },
+  "assets": [
+    {
+      "name": "prometheus-3.15.0.windows-arm64.tar.gz",
+      "size": 102064632,
+      "url": "https://github.com/prometheus/prometheus/releases/download/v3.15.0/prometheus-3.15.0.windows-arm64.tar.gz"
+    },
+    {
+      "name": "prometheus-3.15.0.windows-arm64.zip",
+      "size": 104239023,
+      "url": "https://github.com/prometheus/prometheus/releases/download/v3.15.0/prometheus-3.15.0.windows-arm64.zip"
+    },
+    {
+      "name": "prometheus-3.15.0.darwin-arm64.tar.gz",
+      "size": 109656029,
+      "url": "https://github.com/prometheus/prometheus/releases/download/v3.15.0/prometheus-3.15.0.darwin-arm64.tar.gz"
+    },
+    {
+      "name": "prometheus-3.15.0.darwin-amd64.tar.gz",
+      "size": 116889623,
+      "url": "https://github.com/prometheus/prometheus/releases/download/v3.15.0/prometheus-3.15.0.darwin-amd64.tar.gz"
+    },
+    {
+      "name": "prometheus-3.15.0.linux-mips64le.tar.gz",
+      "size": 97760888,
+      "url": "https://github.com/prometheus/prometheus/releases/download/v3.15.0/prometheus-3.15.0.linux-mips64le.tar.gz"
+    },
+    {
+      "name": "prometheus-3.15.0.linux-mips64.tar.gz",
+      "size": 99619233,
+      "url": "https://github.com/prometheus/prometheus/releases/download/v3.15.0/prometheus-3.15.0.linux-mips64.tar.gz"
+    },
+    {
+      "name": "prometheus-web-ui-3.15.0.tar.gz",
+      "size": 3343738,
+      "url": "https://github.com/prometheus/prometheus/releases/download/v3.15.0/prometheus-web-ui-3.15.0.tar.gz"
+    },
+    {
+      "name": "prometheus-3.15.0.netbsd-arm64.tar.gz",
+      "size": 101570884,
+      "url": "https://github.com/prometheus/prometheus/releases/download/v3.15.0/prometheus-3.15.0.netbsd-arm64.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

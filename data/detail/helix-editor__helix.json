@@ -19,8 +19,39 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/helix-editor/helix/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "25.07.1",
+    "name": "25.07.1",
+    "published": "2025-07-18T15:13:19Z",
+    "url": "https://github.com/helix-editor/helix/releases/tag/25.07.1"
+  },
+  "assets": [
+    {
+      "name": "helix-25.07.1-x86_64-macos.tar.xz",
+      "size": 16114028,
+      "url": "https://github.com/helix-editor/helix/releases/download/25.07.1/helix-25.07.1-x86_64-macos.tar.xz"
+    },
+    {
+      "name": "helix-25.07.1-aarch64-macos.tar.xz",
+      "size": 16686080,
+      "url": "https://github.com/helix-editor/helix/releases/download/25.07.1/helix-25.07.1-aarch64-macos.tar.xz"
+    },
+    {
+      "name": "helix-25.07.1-x86_64-windows.zip",
+      "size": 28550028,
+      "url": "https://github.com/helix-editor/helix/releases/download/25.07.1/helix-25.07.1-x86_64-windows.zip"
+    },
+    {
+      "name": "helix-25.07.1-aarch64-linux.tar.xz",
+      "size": 15607936,
+      "url": "https://github.com/helix-editor/helix/releases/download/25.07.1/helix-25.07.1-aarch64-linux.tar.xz"
+    },
+    {
+      "name": "helix-25.07.1-x86_64-linux.tar.xz",
+      "size": 16636076,
+      "url": "https://github.com/helix-editor/helix/releases/download/25.07.1/helix-25.07.1-x86_64-linux.tar.xz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

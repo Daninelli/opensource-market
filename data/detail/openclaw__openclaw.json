@@ -17,12 +17,48 @@
   ],
   "deploy_type": "源码 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-18T09:47:03Z",
+  "updated_at": "2026-10-19T06:37:26Z",
   "added_at": "2026-10-18T09:50:47.976Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/openclaw/openclaw/zip/refs/heads/main",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v2026.10.5",
+    "name": "openclaw 2026.10.5",
+    "published": "2026-10-18T21:47:25Z",
+    "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.5"
+  },
+  "assets": [
+    {
+      "name": "OpenClaw-2026.10.5-arm64.dmg",
+      "size": 238004440,
+      "url": "https://github.com/openclaw/openclaw/releases/download/v2026.10.5/OpenClaw-2026.10.5-arm64.dmg"
+    },
+    {
+      "name": "OpenClaw-2026.10.5-x86_64.dmg",
+      "size": 253902367,
+      "url": "https://github.com/openclaw/openclaw/releases/download/v2026.10.5/OpenClaw-2026.10.5-x86_64.dmg"
+    },
+    {
+      "name": "OpenClaw-2026.10.5-amd64.deb",
+      "size": 49843616,
+      "url": "https://github.com/openclaw/openclaw/releases/download/v2026.10.5/OpenClaw-2026.10.5-amd64.deb"
+    },
+    {
+      "name": "OpenClaw-2026.10.5-amd64.AppImage",
+      "size": 174905848,
+      "url": "https://github.com/openclaw/openclaw/releases/download/v2026.10.5/OpenClaw-2026.10.5-amd64.AppImage"
+    },
+    {
+      "name": "openclaw-2026.10.5-dependency-evidence.zip",
+      "size": 303964,
+      "url": "https://github.com/openclaw/openclaw/releases/download/v2026.10.5/openclaw-2026.10.5-dependency-evidence.zip"
+    },
+    {
+      "name": "OpenClaw-2026.10.5-arm64.zip",
+      "size": 321272842,
+      "url": "https://github.com/openclaw/openclaw/releases/download/v2026.10.5/OpenClaw-2026.10.5-arm64.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

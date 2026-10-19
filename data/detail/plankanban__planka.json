@@ -18,12 +18,23 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-16T11:49:17Z",
+  "updated_at": "2026-10-18T13:39:06Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/plankanban/planka/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v2.2.1",
+    "name": "v2.2.1",
+    "published": "2026-08-10T16:30:06Z",
+    "url": "https://github.com/plankanban/planka/releases/tag/v2.2.1"
+  },
+  "assets": [
+    {
+      "name": "planka-prebuild.zip",
+      "size": 5204358,
+      "url": "https://github.com/plankanban/planka/releases/download/v2.2.1/planka-prebuild.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

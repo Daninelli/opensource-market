@@ -1,7 +1,23 @@
 {
   "note": "由 tools/track-changes.mjs 自动维护；只追加变动记录，不重新计算历史",
-  "updated_at": "2026-10-18T13:29:24.156Z",
-  "events": [],
+  "updated_at": "2026-10-19T06:44:15.724Z",
+  "events": [
+    {
+      "date": "2026-10-19",
+      "repo": "maybe-finance/maybe",
+      "type": "archived"
+    },
+    {
+      "date": "2026-10-19",
+      "repo": "HospitalRun/hospitalrun-frontend",
+      "type": "archived"
+    },
+    {
+      "date": "2026-10-19",
+      "repo": "medusajs/nextjs-starter-medusa",
+      "type": "archived"
+    }
+  ],
   "state": {
     "deepseek-ai/deepseek-harness": {
       "license": "MIT",
@@ -109,7 +125,7 @@
       "license": "AGPL-3.0",
       "pinned": false,
       "pin_label": null,
-      "archived": false
+      "archived": true
     },
     "akaunting/akaunting": {
       "license": "BUSL-1.1",
@@ -331,7 +347,7 @@
       "license": "MIT",
       "pinned": false,
       "pin_label": null,
-      "archived": false
+      "archived": true
     },
     "LibreHealthIO/lh-ehr": {
       "license": "MPL-2.0",
@@ -577,7 +593,7 @@
       "license": "MIT",
       "pinned": false,
       "pin_label": null,
-      "archived": false
+      "archived": true
     },
     "evershopcommerce/evershop": {
       "license": "GPL-3.0",
@@ -1444,6 +1460,120 @@
       "archived": false
     },
     "assafelovic/gpt-researcher": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "grokability/snipe-it": {
+      "license": "AGPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "glpi-project/glpi": {
+      "license": "GPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "ONLYOFFICE/DocumentServer": {
+      "license": "AGPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "CollaboraOnline/online": {
+      "license": "MPL-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "frappe/hrms": {
+      "license": "GPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "orangehrm/orangehrm": {
+      "license": "GPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "zammad/zammad": {
+      "license": "AGPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "freescout-help-desk/freescout": {
+      "license": "AGPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "haiwen/seafile": {
+      "license": "GPL-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "localsend/localsend": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "gitlabhq/gitlabhq": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "obsproject/obs-studio": {
+      "license": "GPL-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "KDE/kdenlive": {
+      "license": "GPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "yt-dlp/yt-dlp": {
+      "license": "Unlicense",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "qbittorrent/qBittorrent": {
+      "license": "GPL-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "FreeCAD/FreeCAD": {
+      "license": "LGPL-2.1",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "KiCad/kicad-source-mirror": {
+      "license": "GPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "keepassxreboot/keepassxc": {
+      "license": "GPL-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "kopia/kopia": {
       "license": "Apache-2.0",
       "pinned": false,
       "pin_label": null,

@@ -9,7 +9,7 @@
   "subcategory_slug": "emr",
   "license": "MIT",
   "license_category": "open",
-  "archived": false,
+  "archived": true,
   "tech_stack": [
     "TypeScript",
     "React",
@@ -22,12 +22,49 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/HospitalRun/hospitalrun-frontend/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "1.0.0-beta",
+    "name": "1.0.0-beta",
+    "published": "2017-05-18T05:03:21Z",
+    "url": "https://github.com/HospitalRun/hospitalrun-frontend/releases/tag/1.0.0-beta"
+  },
+  "assets": [
+    {
+      "name": "HospitalRun-darwin-x64.zip",
+      "size": 55131206,
+      "url": "https://github.com/HospitalRun/hospitalrun-frontend/releases/download/1.0.0-beta/HospitalRun-darwin-x64.zip"
+    },
+    {
+      "name": "HospitalRun.dmg",
+      "size": 59125962,
+      "url": "https://github.com/HospitalRun/hospitalrun-frontend/releases/download/1.0.0-beta/HospitalRun.dmg"
+    },
+    {
+      "name": "HospitalRun.exe",
+      "size": 64553472,
+      "url": "https://github.com/HospitalRun/hospitalrun-frontend/releases/download/1.0.0-beta/HospitalRun.exe"
+    },
+    {
+      "name": "HospitalRun-win32-x64.zip",
+      "size": 68099299,
+      "url": "https://github.com/HospitalRun/hospitalrun-frontend/releases/download/1.0.0-beta/HospitalRun-win32-x64.zip"
+    },
+    {
+      "name": "HospitalRun-1.0.0-beta-full.nupkg",
+      "size": 64326334,
+      "url": "https://github.com/HospitalRun/hospitalrun-frontend/releases/download/1.0.0-beta/HospitalRun-1.0.0-beta-full.nupkg"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,
   "submitted_by": null,
   "gitee": null,
-  "changes": []
+  "changes": [
+    {
+      "date": "2026-10-19",
+      "repo": "HospitalRun/hospitalrun-frontend",
+      "type": "archived"
+    }
+  ]
 }

@@ -1,0 +1,52 @@
+{
+  "repo": "KiCad/kicad-source-mirror",
+  "slug": "KiCad__kicad-source-mirror",
+  "name": "KiCad",
+  "note_zh": "开源 EDA 电子设计套件，原理图、PCB 布局与 3D 视图一条龙，硬件工程师首选。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "工程制造",
+  "subcategory_slug": "engineering",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Python"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-19T06:38:41Z",
+  "added_at": "2026-10-19T14:45:00.000Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/KiCad/kicad-source-mirror/zip/refs/heads/master",
+  "release": {
+    "tag": "10.0.7",
+    "name": "10.0.7",
+    "published": "2026-10-16T12:03:25Z",
+    "url": "https://github.com/KiCad/kicad-source-mirror/releases/tag/10.0.7"
+  },
+  "assets": [
+    {
+      "name": "kicad-10.0.7-arm64.exe",
+      "size": 944454792,
+      "url": "https://github.com/KiCad/kicad-source-mirror/releases/download/10.0.7/kicad-10.0.7-arm64.exe"
+    },
+    {
+      "name": "kicad-10.0.7-x86_64.exe",
+      "size": 968953784,
+      "url": "https://github.com/KiCad/kicad-source-mirror/releases/download/10.0.7/kicad-10.0.7-x86_64.exe"
+    },
+    {
+      "name": "kicad-unified-universal-10.0.7.dmg",
+      "size": 1404855631,
+      "url": "https://github.com/KiCad/kicad-source-mirror/releases/download/10.0.7/kicad-unified-universal-10.0.7.dmg"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

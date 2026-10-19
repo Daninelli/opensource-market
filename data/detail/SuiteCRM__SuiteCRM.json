@@ -19,8 +19,24 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "hotfix",
   "download_url": "https://codeload.github.com/SuiteCRM/SuiteCRM/zip/refs/heads/hotfix",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v7.15.2",
+    "name": "7.15.2",
+    "published": "2026-07-31T13:37:50Z",
+    "url": "https://github.com/SuiteCRM/SuiteCRM/releases/tag/v7.15.2"
+  },
+  "assets": [
+    {
+      "name": "SuiteCRM-Upgrade-7.15.x-to-7.15.2.zip",
+      "size": 31880824,
+      "url": "https://github.com/SuiteCRM/SuiteCRM/releases/download/v7.15.2/SuiteCRM-Upgrade-7.15.x-to-7.15.2.zip"
+    },
+    {
+      "name": "SuiteCRM-Upgrade-7.14.x-to-7.15.2.zip",
+      "size": 35499922,
+      "url": "https://github.com/SuiteCRM/SuiteCRM/releases/download/v7.15.2/SuiteCRM-Upgrade-7.14.x-to-7.15.2.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

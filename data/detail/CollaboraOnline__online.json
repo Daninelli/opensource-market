@@ -1,0 +1,31 @@
+{
+  "repo": "CollaboraOnline/online",
+  "slug": "CollaboraOnline__online",
+  "name": "Collabora Online",
+  "note_zh": "基于 LibreOffice 的在线协作办公套件，浏览器内实时多人编辑，支持办公三件套。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "办公套件",
+  "subcategory_slug": "office",
+  "license": "MPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "JavaScript"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-09T15:55:49Z",
+  "added_at": "2026-10-19T14:45:00.000Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/CollaboraOnline/online/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

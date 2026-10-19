@@ -15,12 +15,38 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-10-18T08:50:34Z",
+  "updated_at": "2026-10-19T04:22:15Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/authelia/authelia/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v4.39.28",
+    "name": "v4.39.28",
+    "published": "2026-09-17T12:13:30Z",
+    "url": "https://github.com/authelia/authelia/releases/tag/v4.39.28"
+  },
+  "assets": [
+    {
+      "name": "authelia-v4.39.28-linux-arm64.tar.gz",
+      "size": 19449717,
+      "url": "https://github.com/authelia/authelia/releases/download/v4.39.28/authelia-v4.39.28-linux-arm64.tar.gz"
+    },
+    {
+      "name": "authelia_4.39.28-1_arm64.deb",
+      "size": 19450842,
+      "url": "https://github.com/authelia/authelia/releases/download/v4.39.28/authelia_4.39.28-1_arm64.deb"
+    },
+    {
+      "name": "authelia-v4.39.28-public_html.tar.gz",
+      "size": 1383824,
+      "url": "https://github.com/authelia/authelia/releases/download/v4.39.28/authelia-v4.39.28-public_html.tar.gz"
+    },
+    {
+      "name": "authelia-v4.39.28-freebsd-amd64.tar.gz",
+      "size": 21126724,
+      "url": "https://github.com/authelia/authelia/releases/download/v4.39.28/authelia-v4.39.28-freebsd-amd64.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

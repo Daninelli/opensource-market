@@ -19,8 +19,44 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/apache/answer/zip/refs/heads/main",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v2.0.3",
+    "name": "v2.0.3",
+    "published": "2026-10-09T03:21:07Z",
+    "url": "https://github.com/apache/answer/releases/tag/v2.0.3"
+  },
+  "assets": [
+    {
+      "name": "apache-answer-2.0.3-bin-darwin-arm64.tar.gz",
+      "size": 20151993,
+      "url": "https://github.com/apache/answer/releases/download/v2.0.3/apache-answer-2.0.3-bin-darwin-arm64.tar.gz"
+    },
+    {
+      "name": "apache-answer-2.0.3-bin-windows-amd64.tar.gz",
+      "size": 20879789,
+      "url": "https://github.com/apache/answer/releases/download/v2.0.3/apache-answer-2.0.3-bin-windows-amd64.tar.gz"
+    },
+    {
+      "name": "apache-answer-2.0.3-bin-darwin-amd64.tar.gz",
+      "size": 20919193,
+      "url": "https://github.com/apache/answer/releases/download/v2.0.3/apache-answer-2.0.3-bin-darwin-amd64.tar.gz"
+    },
+    {
+      "name": "apache-answer-2.0.3-bin-linux-arm64.tar.gz",
+      "size": 19313234,
+      "url": "https://github.com/apache/answer/releases/download/v2.0.3/apache-answer-2.0.3-bin-linux-arm64.tar.gz"
+    },
+    {
+      "name": "apache-answer-2.0.3-bin-linux-amd64.tar.gz",
+      "size": 20566290,
+      "url": "https://github.com/apache/answer/releases/download/v2.0.3/apache-answer-2.0.3-bin-linux-amd64.tar.gz"
+    },
+    {
+      "name": "apache-answer-2.0.3-src.tar.gz",
+      "size": 2400118,
+      "url": "https://github.com/apache/answer/releases/download/v2.0.3/apache-answer-2.0.3-src.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker / 传统部署",
   "platform": "github",
-  "updated_at": "2026-10-17T15:37:28Z",
+  "updated_at": "2026-10-18T20:22:11Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "edge",
   "download_url": "https://codeload.github.com/FreshRSS/FreshRSS/zip/refs/heads/edge",

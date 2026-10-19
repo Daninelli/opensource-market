@@ -1,0 +1,67 @@
+{
+  "repo": "keepassxreboot/keepassxc",
+  "slug": "keepassxreboot__keepassxc",
+  "name": "KeePassXC",
+  "note_zh": "离线密码管理器，本地加密数据库，跨平台，支持浏览器自动填充。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "GPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Qt"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-18T19:26:32Z",
+  "added_at": "2026-10-19T14:45:00.000Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/keepassxreboot/keepassxc/zip/refs/heads/develop",
+  "release": {
+    "tag": "2.7.12",
+    "name": "Release 2.7.12",
+    "published": "2026-03-10T01:16:42Z",
+    "url": "https://github.com/keepassxreboot/keepassxc/releases/tag/2.7.12"
+  },
+  "assets": [
+    {
+      "name": "KeePassXC-2.7.12-arm64.dmg",
+      "size": 34360675,
+      "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.12/KeePassXC-2.7.12-arm64.dmg"
+    },
+    {
+      "name": "KeePassXC-2.7.12-Win64.zip",
+      "size": 35395629,
+      "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.12/KeePassXC-2.7.12-Win64.zip"
+    },
+    {
+      "name": "KeePassXC-2.7.12-x86_64.dmg",
+      "size": 35590140,
+      "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.12/KeePassXC-2.7.12-x86_64.dmg"
+    },
+    {
+      "name": "KeePassXC-2.7.12-Win64.msi",
+      "size": 35901440,
+      "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.12/KeePassXC-2.7.12-Win64.msi"
+    },
+    {
+      "name": "KeePassXC-2.7.12-x86_64.AppImage",
+      "size": 49247424,
+      "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.12/KeePassXC-2.7.12-x86_64.AppImage"
+    },
+    {
+      "name": "keepassxc-2.7.12-src.tar.xz",
+      "size": 10618652,
+      "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.12/keepassxc-2.7.12-src.tar.xz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

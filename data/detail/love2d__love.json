@@ -20,8 +20,49 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/love2d/love/zip/refs/heads/main",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "11.5",
+    "name": "LÖVE 11.5 [Mysterious Mysteries]",
+    "published": "2023-12-03T13:39:06Z",
+    "url": "https://github.com/love2d/love/releases/tag/11.5"
+  },
+  "assets": [
+    {
+      "name": "love-11.5-win32.exe",
+      "size": 3802570,
+      "url": "https://github.com/love2d/love/releases/download/11.5/love-11.5-win32.exe"
+    },
+    {
+      "name": "love-11.5-win32.zip",
+      "size": 3969641,
+      "url": "https://github.com/love2d/love/releases/download/11.5/love-11.5-win32.zip"
+    },
+    {
+      "name": "love-11.5-macos.zip",
+      "size": 10431117,
+      "url": "https://github.com/love2d/love/releases/download/11.5/love-11.5-macos.zip"
+    },
+    {
+      "name": "love-11.5-linux-src.tar.gz",
+      "size": 2937716,
+      "url": "https://github.com/love2d/love/releases/download/11.5/love-11.5-linux-src.tar.gz"
+    },
+    {
+      "name": "love-11.5-x86_64.AppImage",
+      "size": 5072064,
+      "url": "https://github.com/love2d/love/releases/download/11.5/love-11.5-x86_64.AppImage"
+    },
+    {
+      "name": "love-11.5-android.apk",
+      "size": 7719206,
+      "url": "https://github.com/love2d/love/releases/download/11.5/love-11.5-android.apk"
+    },
+    {
+      "name": "love-11.5-apple-libraries.zip",
+      "size": 17167168,
+      "url": "https://github.com/love2d/love/releases/download/11.5/love-11.5-apple-libraries.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

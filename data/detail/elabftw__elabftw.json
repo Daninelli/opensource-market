@@ -17,12 +17,23 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-16T21:04:25Z",
+  "updated_at": "2026-10-18T19:23:30Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/elabftw/elabftw/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "6.0.8",
+    "name": "elabftw-6.0.8",
+    "published": "2026-10-14T19:48:07Z",
+    "url": "https://github.com/elabftw/elabftw/releases/tag/6.0.8"
+  },
+  "assets": [
+    {
+      "name": "openapi.yaml",
+      "size": 261934,
+      "url": "https://github.com/elabftw/elabftw/releases/download/6.0.8/openapi.yaml"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

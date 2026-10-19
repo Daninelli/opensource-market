@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-18T01:59:12Z",
+  "updated_at": "2026-10-19T06:26:29Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/chatwoot/chatwoot/zip/refs/heads/develop",

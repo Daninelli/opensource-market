@@ -1,0 +1,31 @@
+{
+  "repo": "freescout-help-desk/freescout",
+  "slug": "freescout-help-desk__freescout",
+  "name": "FreeScout",
+  "note_zh": "Help Scout 的开源替代，轻量客服工单与共享收件箱，小团队上手快。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "客户关系",
+  "subcategory_slug": "crm",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "Laravel"
+  ],
+  "deploy_type": "Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-18T08:03:01Z",
+  "added_at": "2026-10-19T14:45:00.000Z",
+  "default_branch": "dist",
+  "download_url": "https://codeload.github.com/freescout-help-desk/freescout/zip/refs/heads/dist",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -19,8 +19,19 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/jodogne/Orthanc/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "0.9.0",
+    "name": "Orthanc 0.9.0",
+    "published": "2015-06-03T11:47:42Z",
+    "url": "https://github.com/jodogne/Orthanc/releases/tag/0.9.0"
+  },
+  "assets": [
+    {
+      "name": "Orthanc-0.9.0.tar.gz",
+      "size": 676749,
+      "url": "https://github.com/jodogne/Orthanc/releases/download/0.9.0/Orthanc-0.9.0.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

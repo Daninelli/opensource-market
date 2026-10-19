@@ -20,8 +20,54 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/AlistGo/alist/zip/refs/heads/main",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v3.65.0",
+    "name": "v3.65.0",
+    "published": "2026-10-13T03:26:25Z",
+    "url": "https://github.com/AlistGo/alist/releases/tag/v3.65.0"
+  },
+  "assets": [
+    {
+      "name": "alist-windows-arm64.zip",
+      "size": 42264456,
+      "url": "https://github.com/AlistGo/alist/releases/download/v3.65.0/alist-windows-arm64.zip"
+    },
+    {
+      "name": "alist-windows-386.zip",
+      "size": 42492705,
+      "url": "https://github.com/AlistGo/alist/releases/download/v3.65.0/alist-windows-386.zip"
+    },
+    {
+      "name": "alist-darwin-arm64.tar.gz",
+      "size": 43064387,
+      "url": "https://github.com/AlistGo/alist/releases/download/v3.65.0/alist-darwin-arm64.tar.gz"
+    },
+    {
+      "name": "alist-darwin-amd64.tar.gz",
+      "size": 45025293,
+      "url": "https://github.com/AlistGo/alist/releases/download/v3.65.0/alist-darwin-amd64.tar.gz"
+    },
+    {
+      "name": "alist-linux-musl-mips64le.tar.gz",
+      "size": 39393005,
+      "url": "https://github.com/AlistGo/alist/releases/download/v3.65.0/alist-linux-musl-mips64le.tar.gz"
+    },
+    {
+      "name": "alist-linux-mips64le.tar.gz",
+      "size": 39534167,
+      "url": "https://github.com/AlistGo/alist/releases/download/v3.65.0/alist-linux-mips64le.tar.gz"
+    },
+    {
+      "name": "alist-android-arm.tar.gz",
+      "size": 43288933,
+      "url": "https://github.com/AlistGo/alist/releases/download/v3.65.0/alist-android-arm.tar.gz"
+    },
+    {
+      "name": "alist-android-arm64.tar.gz",
+      "size": 44009219,
+      "url": "https://github.com/AlistGo/alist/releases/download/v3.65.0/alist-android-arm64.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

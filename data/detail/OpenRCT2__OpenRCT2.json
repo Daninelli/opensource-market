@@ -16,12 +16,48 @@
   ],
   "deploy_type": "客户端",
   "platform": "github",
-  "updated_at": "2026-10-17T09:06:45Z",
+  "updated_at": "2026-10-18T07:27:26Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/OpenRCT2/OpenRCT2/zip/refs/heads/develop",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v0.5.6",
+    "name": "v0.5.6 - “We want... a shrubbery!”",
+    "published": "2026-10-10T12:32:52Z",
+    "url": "https://github.com/OpenRCT2/OpenRCT2/releases/tag/v0.5.6"
+  },
+  "assets": [
+    {
+      "name": "OpenRCT2-v0.5.6-windows-installer-win32.exe",
+      "size": 76520792,
+      "url": "https://github.com/OpenRCT2/OpenRCT2/releases/download/v0.5.6/OpenRCT2-v0.5.6-windows-installer-win32.exe"
+    },
+    {
+      "name": "OpenRCT2-v0.5.6-windows-installer-arm64.exe",
+      "size": 76562136,
+      "url": "https://github.com/OpenRCT2/OpenRCT2/releases/download/v0.5.6/OpenRCT2-v0.5.6-windows-installer-arm64.exe"
+    },
+    {
+      "name": "OpenRCT2-v0.5.6-macos-universal.zip",
+      "size": 115854346,
+      "url": "https://github.com/OpenRCT2/OpenRCT2/releases/download/v0.5.6/OpenRCT2-v0.5.6-macos-universal.zip"
+    },
+    {
+      "name": "OpenRCT2-v0.5.6-Linux-trixie-x86_64.tar.gz",
+      "size": 87142796,
+      "url": "https://github.com/OpenRCT2/OpenRCT2/releases/download/v0.5.6/OpenRCT2-v0.5.6-Linux-trixie-x86_64.tar.gz"
+    },
+    {
+      "name": "OpenRCT2-v0.5.6-Linux-bookworm-x86_64.tar.gz",
+      "size": 87358225,
+      "url": "https://github.com/OpenRCT2/OpenRCT2/releases/download/v0.5.6/OpenRCT2-v0.5.6-Linux-bookworm-x86_64.tar.gz"
+    },
+    {
+      "name": "OpenRCT2-v0.5.6-android.apk",
+      "size": 217138729,
+      "url": "https://github.com/OpenRCT2/OpenRCT2/releases/download/v0.5.6/OpenRCT2-v0.5.6-android.apk"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

@@ -1,0 +1,32 @@
+{
+  "repo": "grokability/snipe-it",
+  "slug": "grokability__snipe-it",
+  "name": "Snipe-IT",
+  "note_zh": "开源 IT 资产与许可证管理，设备借还、折旧、维保全流程追踪，适合企业 IT 部门自建台账。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "资产管理",
+  "subcategory_slug": "asset",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "Laravel",
+    "MySQL"
+  ],
+  "deploy_type": "Docker 部署 / 传统部署",
+  "platform": "github",
+  "updated_at": "2026-10-17T00:20:27Z",
+  "added_at": "2026-10-19T14:45:00.000Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/grokability/snipe-it/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

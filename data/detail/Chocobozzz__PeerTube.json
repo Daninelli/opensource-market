@@ -20,8 +20,24 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/Chocobozzz/PeerTube/zip/refs/heads/develop",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v8.3.1",
+    "name": "v8.3.1",
+    "published": "2026-09-28T11:42:42Z",
+    "url": "https://github.com/Chocobozzz/PeerTube/releases/tag/v8.3.1"
+  },
+  "assets": [
+    {
+      "name": "peertube-v8.3.1.tar.xz",
+      "size": 34511084,
+      "url": "https://github.com/Chocobozzz/PeerTube/releases/download/v8.3.1/peertube-v8.3.1.tar.xz"
+    },
+    {
+      "name": "peertube-v8.3.1.zip",
+      "size": 288222059,
+      "url": "https://github.com/Chocobozzz/PeerTube/releases/download/v8.3.1/peertube-v8.3.1.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

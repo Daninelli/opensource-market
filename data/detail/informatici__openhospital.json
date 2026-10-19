@@ -19,8 +19,44 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/informatici/openhospital/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v1.15.2",
+    "name": "v1.15.2",
+    "published": "2026-10-12T22:53:28Z",
+    "url": "https://github.com/informatici/openhospital/releases/tag/v1.15.2"
+  },
+  "assets": [
+    {
+      "name": "OpenHospital-v1.15.2-windows_i686-portable.zip",
+      "size": 297966265,
+      "url": "https://github.com/informatici/openhospital/releases/download/v1.15.2/OpenHospital-v1.15.2-windows_i686-portable.zip"
+    },
+    {
+      "name": "OpenHospital-v1.15.2-windows_x86_64-portable.zip",
+      "size": 323952872,
+      "url": "https://github.com/informatici/openhospital/releases/download/v1.15.2/OpenHospital-v1.15.2-windows_x86_64-portable.zip"
+    },
+    {
+      "name": "OpenHospital-v1.15.2-linux_i686-portable.tar.gz",
+      "size": 512641535,
+      "url": "https://github.com/informatici/openhospital/releases/download/v1.15.2/OpenHospital-v1.15.2-linux_i686-portable.tar.gz"
+    },
+    {
+      "name": "OpenHospital-v1.15.2-linux_x86_64-portable.tar.gz",
+      "size": 575224425,
+      "url": "https://github.com/informatici/openhospital/releases/download/v1.15.2/OpenHospital-v1.15.2-linux_x86_64-portable.tar.gz"
+    },
+    {
+      "name": "OpenHospital-v1.15.2-multiarch-client.zip",
+      "size": 150013735,
+      "url": "https://github.com/informatici/openhospital/releases/download/v1.15.2/OpenHospital-v1.15.2-multiarch-client.zip"
+    },
+    {
+      "name": "OpenHospital-v1.15.2-x86_64-EXPERIMENTAL.zip",
+      "size": 270426995,
+      "url": "https://github.com/informatici/openhospital/releases/download/v1.15.2/OpenHospital-v1.15.2-x86_64-EXPERIMENTAL.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

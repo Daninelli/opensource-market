@@ -1,0 +1,32 @@
+{
+  "repo": "gitlabhq/gitlabhq",
+  "slug": "gitlabhq__gitlabhq",
+  "name": "GitLab CE",
+  "note_zh": "自部署 DevOps 平台，内置 Git 仓库、CI/CD 与代码评审，企业自建代码托管的重型方案。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Ruby",
+    "Go",
+    "Vue.js"
+  ],
+  "deploy_type": "Docker 部署 / 传统部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T06:12:36Z",
+  "added_at": "2026-10-19T14:45:00.000Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/gitlabhq/gitlabhq/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

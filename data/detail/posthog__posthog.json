@@ -18,12 +18,53 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-18T05:50:07Z",
+  "updated_at": "2026-10-19T06:36:28Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/posthog/posthog/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "desktop-v0.61.746",
+    "name": "desktop-v0.61.746",
+    "published": "2026-10-18T01:45:50Z",
+    "url": "https://github.com/PostHog/posthog/releases/tag/desktop-v0.61.746"
+  },
+  "assets": [
+    {
+      "name": "PostHog-Desktop-0.61.746-x64-win.exe",
+      "size": 303950632,
+      "url": "https://github.com/PostHog/posthog/releases/download/desktop-v0.61.746/PostHog-Desktop-0.61.746-x64-win.exe"
+    },
+    {
+      "name": "PostHog-Desktop-0.61.746-arm64-mac.dmg",
+      "size": 350197745,
+      "url": "https://github.com/PostHog/posthog/releases/download/desktop-v0.61.746/PostHog-Desktop-0.61.746-arm64-mac.dmg"
+    },
+    {
+      "name": "PostHog-Desktop-0.61.746-x64-mac.dmg",
+      "size": 360162980,
+      "url": "https://github.com/PostHog/posthog/releases/download/desktop-v0.61.746/PostHog-Desktop-0.61.746-x64-mac.dmg"
+    },
+    {
+      "name": "PostHog-Desktop-0.61.746-aarch64-linux.rpm",
+      "size": 246828249,
+      "url": "https://github.com/PostHog/posthog/releases/download/desktop-v0.61.746/PostHog-Desktop-0.61.746-aarch64-linux.rpm"
+    },
+    {
+      "name": "PostHog-Desktop-0.61.746-x86_64-linux.rpm",
+      "size": 265133225,
+      "url": "https://github.com/PostHog/posthog/releases/download/desktop-v0.61.746/PostHog-Desktop-0.61.746-x86_64-linux.rpm"
+    },
+    {
+      "name": "PostHog-Desktop-0.61.746-arm64-mac.zip",
+      "size": 355208215,
+      "url": "https://github.com/PostHog/posthog/releases/download/desktop-v0.61.746/PostHog-Desktop-0.61.746-arm64-mac.zip"
+    },
+    {
+      "name": "PostHog-Desktop-0.61.746-x64-mac.zip",
+      "size": 365348395,
+      "url": "https://github.com/PostHog/posthog/releases/download/desktop-v0.61.746/PostHog-Desktop-0.61.746-x64-mac.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

@@ -16,7 +16,7 @@
   ],
   "deploy_type": "前端源码 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-12T04:41:25Z",
+  "updated_at": "2026-10-19T05:20:32Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/hoppscotch/hoppscotch/zip/refs/heads/main",

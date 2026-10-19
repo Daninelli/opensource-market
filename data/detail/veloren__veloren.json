@@ -16,12 +16,48 @@
   ],
   "deploy_type": "客户端 + 服务端",
   "platform": "github",
-  "updated_at": "2026-10-17T14:13:01Z",
+  "updated_at": "2026-10-18T23:13:34Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/veloren/veloren/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "nightly",
+    "name": "nightly",
+    "published": "2022-04-28T12:07:38Z",
+    "url": "https://github.com/veloren/veloren/releases/tag/nightly"
+  },
+  "assets": [
+    {
+      "name": "nightly-macos-aarch64-2024-09-10T17_36.zip",
+      "size": 348020216,
+      "url": "https://github.com/veloren/veloren/releases/download/nightly/nightly-macos-aarch64-2024-09-10T17_36.zip"
+    },
+    {
+      "name": "nightly-macos-aarch64-2024-09-09T18_54.zip",
+      "size": 348034583,
+      "url": "https://github.com/veloren/veloren/releases/download/nightly/nightly-macos-aarch64-2024-09-09T18_54.zip"
+    },
+    {
+      "name": "nightly-windows-x86_64-2024-09-10T17_36.zip",
+      "size": 418176649,
+      "url": "https://github.com/veloren/veloren/releases/download/nightly/nightly-windows-x86_64-2024-09-10T17_36.zip"
+    },
+    {
+      "name": "nightly-windows-x86_64-2024-09-09T18_54.zip",
+      "size": 418189831,
+      "url": "https://github.com/veloren/veloren/releases/download/nightly/nightly-windows-x86_64-2024-09-09T18_54.zip"
+    },
+    {
+      "name": "nightly-linux-aarch64-2024-09-10T17_36.zip",
+      "size": 403655987,
+      "url": "https://github.com/veloren/veloren/releases/download/nightly/nightly-linux-aarch64-2024-09-10T17_36.zip"
+    },
+    {
+      "name": "nightly-linux-aarch64-2024-08-27T22_34.zip",
+      "size": 403661069,
+      "url": "https://github.com/veloren/veloren/releases/download/nightly/nightly-linux-aarch64-2024-08-27T22_34.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

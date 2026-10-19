@@ -1,0 +1,42 @@
+{
+  "repo": "glpi-project/glpi",
+  "slug": "glpi-project__glpi",
+  "name": "GLPI",
+  "note_zh": "开源 IT 资产管理 + 服务台一体化，含 CMDB 与数据中心管理，欧洲企业广泛使用。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "资产管理",
+  "subcategory_slug": "asset",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "MySQL"
+  ],
+  "deploy_type": "传统部署 / Docker",
+  "platform": "github",
+  "updated_at": "2026-10-19T05:59:49Z",
+  "added_at": "2026-10-19T14:45:00.000Z",
+  "default_branch": "12.0/bugfixes",
+  "download_url": "https://codeload.github.com/glpi-project/glpi/zip/refs/heads/12.0%2Fbugfixes",
+  "release": {
+    "tag": "12.0.0",
+    "name": "12.0.0",
+    "published": "2026-10-07T12:12:42Z",
+    "url": "https://github.com/glpi-project/glpi/releases/tag/12.0.0"
+  },
+  "assets": [
+    {
+      "name": "glpi-12.0.0.tgz",
+      "size": 113180140,
+      "url": "https://github.com/glpi-project/glpi/releases/download/12.0.0/glpi-12.0.0.tgz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -15,12 +15,48 @@
   ],
   "deploy_type": "二进制 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-18T10:51:34Z",
+  "updated_at": "2026-10-19T00:23:17Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/netdata/netdata/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v2.12.1",
+    "name": "v2.12.1",
+    "published": "2026-10-08T16:52:35Z",
+    "url": "https://github.com/netdata/netdata/releases/tag/v2.12.1"
+  },
+  "assets": [
+    {
+      "name": "netdata-latest-x64.msi",
+      "size": 181751808,
+      "url": "https://github.com/netdata/netdata/releases/download/v2.12.1/netdata-latest-x64.msi"
+    },
+    {
+      "name": "netdata-v2.12.1-x64.msi",
+      "size": 181751808,
+      "url": "https://github.com/netdata/netdata/releases/download/v2.12.1/netdata-v2.12.1-x64.msi"
+    },
+    {
+      "name": "netdata-latest.tar.zst",
+      "size": 22582573,
+      "url": "https://github.com/netdata/netdata/releases/download/v2.12.1/netdata-latest.tar.zst"
+    },
+    {
+      "name": "netdata-v2.12.1.tar.zst",
+      "size": 22582573,
+      "url": "https://github.com/netdata/netdata/releases/download/v2.12.1/netdata-v2.12.1.tar.zst"
+    },
+    {
+      "name": "netdata-latest.tar.gz",
+      "size": 32449867,
+      "url": "https://github.com/netdata/netdata/releases/download/v2.12.1/netdata-latest.tar.gz"
+    },
+    {
+      "name": "netdata-v2.12.1.tar.gz",
+      "size": 32449867,
+      "url": "https://github.com/netdata/netdata/releases/download/v2.12.1/netdata-v2.12.1.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

@@ -20,8 +20,44 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/portfolio-performance/portfolio/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "0.89.0",
+    "name": "0.89.0",
+    "published": "2026-10-11T05:53:48Z",
+    "url": "https://github.com/portfolio-performance/portfolio/releases/tag/0.89.0"
+  },
+  "assets": [
+    {
+      "name": "PortfolioPerformance-0.89.0-win32.win32.aarch64.zip",
+      "size": 67181168,
+      "url": "https://github.com/portfolio-performance/portfolio/releases/download/0.89.0/PortfolioPerformance-0.89.0-win32.win32.aarch64.zip"
+    },
+    {
+      "name": "PortfolioPerformance-0.89.0-win32.win32.x86_64.zip",
+      "size": 67377974,
+      "url": "https://github.com/portfolio-performance/portfolio/releases/download/0.89.0/PortfolioPerformance-0.89.0-win32.win32.x86_64.zip"
+    },
+    {
+      "name": "PortfolioPerformance-0.89.0-aarch64.dmg",
+      "size": 113274478,
+      "url": "https://github.com/portfolio-performance/portfolio/releases/download/0.89.0/PortfolioPerformance-0.89.0-aarch64.dmg"
+    },
+    {
+      "name": "PortfolioPerformance-0.89.0-x86_64.dmg",
+      "size": 114321633,
+      "url": "https://github.com/portfolio-performance/portfolio/releases/download/0.89.0/PortfolioPerformance-0.89.0-x86_64.dmg"
+    },
+    {
+      "name": "PortfolioPerformance-0.89.0-linux.gtk.aarch64.tar.gz",
+      "size": 65346426,
+      "url": "https://github.com/portfolio-performance/portfolio/releases/download/0.89.0/PortfolioPerformance-0.89.0-linux.gtk.aarch64.tar.gz"
+    },
+    {
+      "name": "PortfolioPerformance-0.89.0-linux.gtk.x86_64.tar.gz",
+      "size": 65476491,
+      "url": "https://github.com/portfolio-performance/portfolio/releases/download/0.89.0/PortfolioPerformance-0.89.0-linux.gtk.x86_64.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

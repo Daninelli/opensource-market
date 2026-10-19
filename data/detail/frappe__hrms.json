@@ -1,0 +1,32 @@
+{
+  "repo": "frappe/hrms",
+  "slug": "frappe__hrms",
+  "name": "Frappe HR",
+  "note_zh": "开源人力资源与薪酬管理，招聘、考勤、休假、工资单全流程，与 ERPNext 同生态。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "人力资源",
+  "subcategory_slug": "hr",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Frappe",
+    "Vue"
+  ],
+  "deploy_type": "Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-18T09:37:10Z",
+  "added_at": "2026-10-19T14:45:00.000Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/frappe/hrms/zip/refs/heads/develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

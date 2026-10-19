@@ -19,8 +19,19 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/ushahidi/platform/zip/refs/heads/develop",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v2025.04.0",
+    "name": "v2025.04.0",
+    "published": "2025-02-14T12:25:52Z",
+    "url": "https://github.com/ushahidi/platform/releases/tag/v2025.04.0"
+  },
+  "assets": [
+    {
+      "name": "ushahidi-platform-bundle-v2025.04.0.tar.gz",
+      "size": 21493264,
+      "url": "https://github.com/ushahidi/platform/releases/download/v2025.04.0/ushahidi-platform-bundle-v2025.04.0.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/run-llama/llama_index/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v0.14.25",
+    "name": "v0.14.25",
+    "published": "2026-09-21T16:22:27Z",
+    "url": "https://github.com/run-llama/llama_index/releases/tag/v0.14.25"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

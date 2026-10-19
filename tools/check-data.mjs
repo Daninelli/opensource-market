@@ -59,7 +59,10 @@ const TAXONOMY = {
             collaboration: "团队协作",
             crm: "客户关系",
             erp: "企业资源",
-            docs: "文档与知识库"
+            docs: "文档与知识库",
+            hr: "人力资源",
+            asset: "资产管理",
+            office: "办公套件"
         }
     },
     media: {
@@ -88,7 +91,9 @@ const TAXONOMY = {
             devops: "运维部署",
             readlater: "稍后读与收藏",
             iot: "物联网",
-            "media-tool": "媒体处理"
+            "media-tool": "媒体处理",
+            engineering: "工程制造",
+            download: "下载工具"
         }
     },
     government: { label: "政务", children: { participation: "公众参与", "open-data": "开放数据" } },

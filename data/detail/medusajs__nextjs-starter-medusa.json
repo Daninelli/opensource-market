@@ -9,7 +9,7 @@
   "subcategory_slug": "storefront",
   "license": "MIT",
   "license_category": "open",
-  "archived": false,
+  "archived": true,
   "tech_stack": [
     "TypeScript",
     "Next.js",
@@ -28,5 +28,11 @@
   "pin_note": null,
   "submitted_by": null,
   "gitee": null,
-  "changes": []
+  "changes": [
+    {
+      "date": "2026-10-19",
+      "repo": "medusajs/nextjs-starter-medusa",
+      "type": "archived"
+    }
+  ]
 }

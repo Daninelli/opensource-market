@@ -16,12 +16,23 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-10-18T07:06:31Z",
+  "updated_at": "2026-10-19T04:23:52Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "scarlett",
   "download_url": "https://codeload.github.com/requarks/wiki/zip/refs/heads/scarlett",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "3.0.0-beta.672",
+    "name": "3.0.0-beta.672",
+    "published": "2026-10-16T07:38:41Z",
+    "url": "https://github.com/requarks/wiki/releases/tag/3.0.0-beta.672"
+  },
+  "assets": [
+    {
+      "name": "wiki-js.tar.gz",
+      "size": 64227439,
+      "url": "https://github.com/requarks/wiki/releases/download/3.0.0-beta.672/wiki-js.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

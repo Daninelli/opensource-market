@@ -21,8 +21,19 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/node-red/node-red/zip/refs/heads/main",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "5.0.8",
+    "name": "5.0.8",
+    "published": "2026-10-08T09:44:12Z",
+    "url": "https://github.com/node-red/node-red/releases/tag/5.0.8"
+  },
+  "assets": [
+    {
+      "name": "node-red-5.0.8.zip",
+      "size": 10476165,
+      "url": "https://github.com/node-red/node-red/releases/download/5.0.8/node-red-5.0.8.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

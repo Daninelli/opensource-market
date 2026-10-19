@@ -17,12 +17,38 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-18T03:09:25Z",
+  "updated_at": "2026-10-19T00:57:16Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/keycloak/keycloak/zip/refs/heads/main",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "26.8.1",
+    "name": "26.8.1",
+    "published": "2026-10-13T08:58:15Z",
+    "url": "https://github.com/keycloak/keycloak/releases/tag/26.8.1"
+  },
+  "assets": [
+    {
+      "name": "keycloak-account-ui-26.8.1.tgz",
+      "size": 790997,
+      "url": "https://github.com/keycloak/keycloak/releases/download/26.8.1/keycloak-account-ui-26.8.1.tgz"
+    },
+    {
+      "name": "keycloak-admin-ui-26.8.1.tgz",
+      "size": 3810605,
+      "url": "https://github.com/keycloak/keycloak/releases/download/26.8.1/keycloak-admin-ui-26.8.1.tgz"
+    },
+    {
+      "name": "keycloak-documentation-26.8.1.zip",
+      "size": 30339345,
+      "url": "https://github.com/keycloak/keycloak/releases/download/26.8.1/keycloak-documentation-26.8.1.zip"
+    },
+    {
+      "name": "keycloak-api-docs-26.8.1.zip",
+      "size": 34431422,
+      "url": "https://github.com/keycloak/keycloak/releases/download/26.8.1/keycloak-api-docs-26.8.1.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

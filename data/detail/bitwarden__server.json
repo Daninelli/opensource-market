@@ -16,11 +16,16 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-10-18T01:42:50Z",
+  "updated_at": "2026-10-19T01:11:15Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/bitwarden/server/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2026.10.0",
+    "name": "Version 2026.10.0",
+    "published": "2026-10-14T00:26:48Z",
+    "url": "https://github.com/bitwarden/server/releases/tag/v2026.10.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

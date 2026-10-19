@@ -18,12 +18,38 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-17T20:47:20Z",
+  "updated_at": "2026-10-18T21:38:32Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/medplum/medplum/zip/refs/heads/main",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v5.2.6",
+    "name": "Version 5.2.6",
+    "published": "2026-10-17T20:47:21Z",
+    "url": "https://github.com/medplum/medplum/releases/tag/v5.2.6"
+  },
+  "assets": [
+    {
+      "name": "medplum-agent-installer-5.2.6.exe",
+      "size": 37637632,
+      "url": "https://github.com/medplum/medplum/releases/download/v5.2.6/medplum-agent-installer-5.2.6.exe"
+    },
+    {
+      "name": "medplum-agent-5.2.6-macos-arm64",
+      "size": 126959440,
+      "url": "https://github.com/medplum/medplum/releases/download/v5.2.6/medplum-agent-5.2.6-macos-arm64"
+    },
+    {
+      "name": "medplum-agent-5.2.6-linux-arm64",
+      "size": 128715904,
+      "url": "https://github.com/medplum/medplum/releases/download/v5.2.6/medplum-agent-5.2.6-linux-arm64"
+    },
+    {
+      "name": "medplum-agent-5.2.6-linux-x64",
+      "size": 132385984,
+      "url": "https://github.com/medplum/medplum/releases/download/v5.2.6/medplum-agent-5.2.6-linux-x64"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

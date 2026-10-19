@@ -1,0 +1,32 @@
+{
+  "repo": "KDE/kdenlive",
+  "slug": "KDE__kdenlive",
+  "name": "Kdenlive",
+  "note_zh": "KDE 出品的开源非线性视频剪辑器，多轨时间线、特效与转场，主打易用。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Qt",
+    "MLT"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-19T02:02:04Z",
+  "added_at": "2026-10-19T14:45:00.000Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/KDE/kdenlive/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

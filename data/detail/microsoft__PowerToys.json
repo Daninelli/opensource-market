@@ -16,12 +16,28 @@
   ],
   "deploy_type": "客户端",
   "platform": "github",
-  "updated_at": "2026-10-18T08:25:12Z",
+  "updated_at": "2026-10-19T05:46:35Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/microsoft/PowerToys/zip/refs/heads/main",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v0.101.2362.0",
+    "name": "Release v0.101.2362.0",
+    "published": "2026-08-25T08:34:52Z",
+    "url": "https://github.com/microsoft/PowerToys/releases/tag/v0.101.2362.0"
+  },
+  "assets": [
+    {
+      "name": "PowerToysUserSetup-0.101.2362.0-arm64.exe",
+      "size": 287815872,
+      "url": "https://github.com/microsoft/PowerToys/releases/download/v0.101.2362.0/PowerToysUserSetup-0.101.2362.0-arm64.exe"
+    },
+    {
+      "name": "PowerToysSetup-0.101.2362.0-arm64.exe",
+      "size": 287842320,
+      "url": "https://github.com/microsoft/PowerToys/releases/download/v0.101.2362.0/PowerToysSetup-0.101.2362.0-arm64.exe"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

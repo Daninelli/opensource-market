@@ -18,7 +18,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-18T04:11:01Z",
+  "updated_at": "2026-10-19T06:35:47Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "mealie-next",
   "download_url": "https://codeload.github.com/mealie-recipes/mealie/zip/refs/heads/mealie-next",

@@ -21,8 +21,39 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/janeczku/calibre-web/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "0.6.27",
+    "name": "V 0.6.27 - Ludmila",
+    "published": "2026-08-08T16:09:50Z",
+    "url": "https://github.com/janeczku/calibre-web/releases/tag/0.6.27"
+  },
+  "assets": [
+    {
+      "name": "Calibre-Web-V0627.exe",
+      "size": 50498839,
+      "url": "https://github.com/janeczku/calibre-web/releases/download/0.6.27/Calibre-Web-V0627.exe"
+    },
+    {
+      "name": "calibre-web_0.6.27_arm64.deb",
+      "size": 66438220,
+      "url": "https://github.com/janeczku/calibre-web/releases/download/0.6.27/calibre-web_0.6.27_arm64.deb"
+    },
+    {
+      "name": "calibre-web_0.6.27_amd64.deb",
+      "size": 73113812,
+      "url": "https://github.com/janeczku/calibre-web/releases/download/0.6.27/calibre-web_0.6.27_amd64.deb"
+    },
+    {
+      "name": "calibreweb-0.6.27.tar.gz",
+      "size": 7313353,
+      "url": "https://github.com/janeczku/calibre-web/releases/download/0.6.27/calibreweb-0.6.27.tar.gz"
+    },
+    {
+      "name": "calibreweb-0.6.27-py3-none-any.whl",
+      "size": 8114276,
+      "url": "https://github.com/janeczku/calibre-web/releases/download/0.6.27/calibreweb-0.6.27-py3-none-any.whl"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

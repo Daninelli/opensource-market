@@ -1,0 +1,53 @@
+{
+  "repo": "ONLYOFFICE/DocumentServer",
+  "slug": "ONLYOFFICE__DocumentServer",
+  "name": "ONLYOFFICE DocumentServer",
+  "note_zh": "开源在线办公套件，自托管 Word/Excel/PPT 的查看与协作编辑，兼容 Office 格式。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "办公套件",
+  "subcategory_slug": "office",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "C++",
+    "Node.js"
+  ],
+  "deploy_type": "Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-16T09:39:04Z",
+  "added_at": "2026-10-19T14:45:00.000Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/ONLYOFFICE/DocumentServer/zip/refs/heads/master",
+  "release": {
+    "tag": "v10.0.0",
+    "name": "ONLYOFFICE-DocumentServer-10.0.0",
+    "published": "2026-10-12T15:01:39Z",
+    "url": "https://github.com/ONLYOFFICE/DocumentServer/releases/tag/v10.0.0"
+  },
+  "assets": [
+    {
+      "name": "onlyoffice-documentserver.exe",
+      "size": 916210008,
+      "url": "https://github.com/ONLYOFFICE/DocumentServer/releases/download/v10.0.0/onlyoffice-documentserver.exe"
+    },
+    {
+      "name": "onlyoffice-documentserver_arm64.deb",
+      "size": 553350620,
+      "url": "https://github.com/ONLYOFFICE/DocumentServer/releases/download/v10.0.0/onlyoffice-documentserver_arm64.deb"
+    },
+    {
+      "name": "onlyoffice-documentserver_amd64.deb",
+      "size": 557621524,
+      "url": "https://github.com/ONLYOFFICE/DocumentServer/releases/download/v10.0.0/onlyoffice-documentserver_amd64.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

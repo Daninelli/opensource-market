@@ -20,8 +20,39 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/hasura/graphql-engine/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v2.50.3",
+    "name": "v2.50.3",
+    "published": "2026-09-09T00:41:20Z",
+    "url": "https://github.com/hasura/graphql-engine/releases/tag/v2.50.3"
+  },
+  "assets": [
+    {
+      "name": "cli-hasura-windows-amd64.exe",
+      "size": 88158344,
+      "url": "https://github.com/hasura/graphql-engine/releases/download/v2.50.3/cli-hasura-windows-amd64.exe"
+    },
+    {
+      "name": "cli-hasura-darwin-arm64",
+      "size": 91322930,
+      "url": "https://github.com/hasura/graphql-engine/releases/download/v2.50.3/cli-hasura-darwin-arm64"
+    },
+    {
+      "name": "cli-hasura-darwin-amd64",
+      "size": 93548400,
+      "url": "https://github.com/hasura/graphql-engine/releases/download/v2.50.3/cli-hasura-darwin-amd64"
+    },
+    {
+      "name": "cli-hasura-linux-arm64",
+      "size": 27458492,
+      "url": "https://github.com/hasura/graphql-engine/releases/download/v2.50.3/cli-hasura-linux-arm64"
+    },
+    {
+      "name": "cli-hasura-linux-amd64",
+      "size": 29705464,
+      "url": "https://github.com/hasura/graphql-engine/releases/download/v2.50.3/cli-hasura-linux-amd64"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

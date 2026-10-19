@@ -1,0 +1,77 @@
+{
+  "repo": "localsend/localsend",
+  "slug": "localsend__localsend",
+  "name": "LocalSend",
+  "note_zh": "开源的 AirDrop 替代，局域网跨设备互传文件，无需云服务器与登录。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "文件管理与网盘",
+  "subcategory_slug": "file",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Dart",
+    "Flutter"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-17T20:26:37Z",
+  "added_at": "2026-10-19T14:45:00.000Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/localsend/localsend/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.18.2",
+    "name": "v1.18.2",
+    "published": "2026-08-21T14:02:01Z",
+    "url": "https://github.com/localsend/localsend/releases/tag/v1.18.2"
+  },
+  "assets": [
+    {
+      "name": "LocalSend-CLI-1.18.2-macos-arm-64.tar.gz",
+      "size": 4105018,
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-macos-arm-64.tar.gz"
+    },
+    {
+      "name": "LocalSend-CLI-1.18.2-macos-x86-64.tar.gz",
+      "size": 4397211,
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-macos-x86-64.tar.gz"
+    },
+    {
+      "name": "LocalSend-CLI-1.18.2-windows-arm-64.exe",
+      "size": 8355328,
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-windows-arm-64.exe"
+    },
+    {
+      "name": "LocalSend-CLI-1.18.2-windows-x86-64.exe",
+      "size": 9725952,
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-windows-x86-64.exe"
+    },
+    {
+      "name": "LocalSend-CLI-1.18.2-linux-arm-64.tar.gz",
+      "size": 4639269,
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-linux-arm-64.tar.gz"
+    },
+    {
+      "name": "LocalSend-CLI-1.18.2-linux-x86-64.tar.gz",
+      "size": 4762297,
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-linux-x86-64.tar.gz"
+    },
+    {
+      "name": "LocalSend-1.18.2-android-arm32v7.apk",
+      "size": 39333444,
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm32v7.apk"
+    },
+    {
+      "name": "LocalSend-1.18.2-android-arm64v8.apk",
+      "size": 46558706,
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

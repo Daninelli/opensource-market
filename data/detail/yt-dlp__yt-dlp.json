@@ -1,0 +1,76 @@
+{
+  "repo": "yt-dlp/yt-dlp",
+  "slug": "yt-dlp__yt-dlp",
+  "name": "yt-dlp",
+  "note_zh": "youtube-dl 的强力续作，命令行下载上千平台音视频，支持字幕与 SponsorBlock。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "Unlicense",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-10T21:15:52Z",
+  "added_at": "2026-10-19T14:45:00.000Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/yt-dlp/yt-dlp/zip/refs/heads/master",
+  "release": {
+    "tag": "2026.08.19",
+    "name": "yt-dlp 2026.08.19",
+    "published": "2026-08-19T23:48:43Z",
+    "url": "https://github.com/yt-dlp/yt-dlp/releases/tag/2026.08.19"
+  },
+  "assets": [
+    {
+      "name": "yt-dlp_x86.exe",
+      "size": 13199160,
+      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_x86.exe"
+    },
+    {
+      "name": "yt-dlp_win_x86.zip",
+      "size": 13272140,
+      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_win_x86.zip"
+    },
+    {
+      "name": "yt-dlp_macos",
+      "size": 37146048,
+      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_macos"
+    },
+    {
+      "name": "yt-dlp_macos.zip",
+      "size": 53923637,
+      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_macos.zip"
+    },
+    {
+      "name": "yt-dlp_linux_armv7l.zip",
+      "size": 38661544,
+      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_linux_armv7l.zip"
+    },
+    {
+      "name": "yt-dlp_musllinux_aarch64",
+      "size": 39806408,
+      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_musllinux_aarch64"
+    },
+    {
+      "name": "yt-dlp",
+      "size": 3072469,
+      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp"
+    },
+    {
+      "name": "yt-dlp.tar.gz",
+      "size": 6020567,
+      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -21,8 +21,34 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/portainer/portainer/zip/refs/heads/develop",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "2.45.2",
+    "name": "Release 2.45.2 LTS",
+    "published": "2026-10-08T00:23:15Z",
+    "url": "https://github.com/portainer/portainer/releases/tag/2.45.2"
+  },
+  "assets": [
+    {
+      "name": "portainer-2.45.2-windows1809-amd64.tar.gz",
+      "size": 44894231,
+      "url": "https://github.com/portainer/portainer/releases/download/2.45.2/portainer-2.45.2-windows1809-amd64.tar.gz"
+    },
+    {
+      "name": "portainer-2.45.2-windowsltsc2022-amd64.tar.gz",
+      "size": 44894543,
+      "url": "https://github.com/portainer/portainer/releases/download/2.45.2/portainer-2.45.2-windowsltsc2022-amd64.tar.gz"
+    },
+    {
+      "name": "portainer-2.45.2-linux-ppc64le.tar.gz",
+      "size": 40085208,
+      "url": "https://github.com/portainer/portainer/releases/download/2.45.2/portainer-2.45.2-linux-ppc64le.tar.gz"
+    },
+    {
+      "name": "portainer-2.45.2-linux-arm64.tar.gz",
+      "size": 40398884,
+      "url": "https://github.com/portainer/portainer/releases/download/2.45.2/portainer-2.45.2-linux-arm64.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

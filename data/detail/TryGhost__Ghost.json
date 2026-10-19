@@ -18,12 +18,23 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-17T13:12:04Z",
+  "updated_at": "2026-10-19T06:32:43Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/TryGhost/Ghost/zip/refs/heads/main",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v6.71.0",
+    "name": "v6.71.0",
+    "published": "2026-10-15T12:55:12Z",
+    "url": "https://github.com/TryGhost/Ghost/releases/tag/v6.71.0"
+  },
+  "assets": [
+    {
+      "name": "ghost-6.71.0.tgz",
+      "size": 14727037,
+      "url": "https://github.com/TryGhost/Ghost/releases/download/v6.71.0/ghost-6.71.0.tgz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

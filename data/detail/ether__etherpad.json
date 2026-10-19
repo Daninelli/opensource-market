@@ -17,12 +17,28 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-16T16:02:39Z",
+  "updated_at": "2026-10-18T18:09:06Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/ether/etherpad/zip/refs/heads/develop",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v3.3.9",
+    "name": "v3.3.9",
+    "published": "2026-10-18T18:12:50Z",
+    "url": "https://github.com/ether/etherpad/releases/tag/v3.3.9"
+  },
+  "assets": [
+    {
+      "name": "etherpad-latest_arm64.deb",
+      "size": 103399944,
+      "url": "https://github.com/ether/etherpad/releases/download/v3.3.9/etherpad-latest_arm64.deb"
+    },
+    {
+      "name": "etherpad_3.3.9-1_arm64.deb",
+      "size": 103399944,
+      "url": "https://github.com/ether/etherpad/releases/download/v3.3.9/etherpad_3.3.9-1_arm64.deb"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

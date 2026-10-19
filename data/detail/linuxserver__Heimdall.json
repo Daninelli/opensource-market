@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-03T13:31:53Z",
+  "updated_at": "2026-10-18T12:13:00Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "2.x",
   "download_url": "https://codeload.github.com/linuxserver/Heimdall/zip/refs/heads/2.x",

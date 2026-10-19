@@ -21,7 +21,8 @@ const NOISE = [
     /\.sha256sum$/i, /\.sha1sum$/i, /^\s*$/, /^changelog/i, /\.txt$/i, /\.json$/i,
     /\.xml$/i, /\.pdf$/i, /debug_symbols/i, /-source\./i, /schema\.graphql$/i, /\.sha256$/i,
     // 调试/开发中间产物，不是给用户装的
-    /debug/i, /\.aar$/i, /\.spk$/i, /\.snap$/i, /\.aab$/i, /symbols/i, /sources\.jar$/i
+    /debug/i, /\.aar$/i, /\.spk$/i, /\.snap$/i, /\.aab$/i, /symbols/i, /sources\.jar$/i,
+    /dSYM/i, /PDB/i, /dbsym/i
 ];
 
 /** 平台识别与优先级：数字越小越优先展示（桌面平台优先于移动端） */

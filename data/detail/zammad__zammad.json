@@ -1,0 +1,32 @@
+{
+  "repo": "zammad/zammad",
+  "slug": "zammad__zammad",
+  "name": "Zammad",
+  "note_zh": "开源客服工单与帮助台系统，多渠道收件、工单流转、知识库与客户自助门户。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "客户关系",
+  "subcategory_slug": "crm",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Ruby",
+    "Ruby on Rails",
+    "PostgreSQL"
+  ],
+  "deploy_type": "Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-16T13:58:35Z",
+  "added_at": "2026-10-19T14:45:00.000Z",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/zammad/zammad/zip/refs/heads/develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

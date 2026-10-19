@@ -17,12 +17,58 @@
   ],
   "deploy_type": "Docker 部署 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-17T14:17:04Z",
+  "updated_at": "2026-10-19T01:51:58Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/go-gitea/gitea/zip/refs/heads/main",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v28.2.0",
+    "name": "v28.2.0",
+    "published": "2026-10-18T18:25:03Z",
+    "url": "https://github.com/go-gitea/gitea/releases/tag/v28.2.0"
+  },
+  "assets": [
+    {
+      "name": "gitea-28.2.0-windows-arm64.exe.xz",
+      "size": 37429512,
+      "url": "https://github.com/go-gitea/gitea/releases/download/v28.2.0/gitea-28.2.0-windows-arm64.exe.xz"
+    },
+    {
+      "name": "gitea-28.2.0-darwin-arm64.xz",
+      "size": 38675708,
+      "url": "https://github.com/go-gitea/gitea/releases/download/v28.2.0/gitea-28.2.0-darwin-arm64.xz"
+    },
+    {
+      "name": "gitea-28.2.0-darwin-amd64.xz",
+      "size": 42474832,
+      "url": "https://github.com/go-gitea/gitea/releases/download/v28.2.0/gitea-28.2.0-darwin-amd64.xz"
+    },
+    {
+      "name": "gitea-28.2.0-windows-amd64.exe.xz",
+      "size": 42494464,
+      "url": "https://github.com/go-gitea/gitea/releases/download/v28.2.0/gitea-28.2.0-windows-amd64.exe.xz"
+    },
+    {
+      "name": "gitea-28.2.0-linux-arm64.xz",
+      "size": 37297532,
+      "url": "https://github.com/go-gitea/gitea/releases/download/v28.2.0/gitea-28.2.0-linux-arm64.xz"
+    },
+    {
+      "name": "gitea-28.2.0-linux-arm-6.xz",
+      "size": 38618472,
+      "url": "https://github.com/go-gitea/gitea/releases/download/v28.2.0/gitea-28.2.0-linux-arm-6.xz"
+    },
+    {
+      "name": "gitea-28.2.0-freebsd-amd64.xz",
+      "size": 41865556,
+      "url": "https://github.com/go-gitea/gitea/releases/download/v28.2.0/gitea-28.2.0-freebsd-amd64.xz"
+    },
+    {
+      "name": "gitea-src-28.2.0.tar.gz",
+      "size": 70647717,
+      "url": "https://github.com/go-gitea/gitea/releases/download/v28.2.0/gitea-src-28.2.0.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

@@ -17,12 +17,23 @@
   ],
   "deploy_type": "传统部署 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-18T05:22:51Z",
+  "updated_at": "2026-10-18T15:05:35Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/openboxes/openboxes/zip/refs/heads/develop",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v0.9.8-hotfix1",
+    "name": "Release v0.9.8-hotfix1",
+    "published": "2026-08-14T21:34:19Z",
+    "url": "https://github.com/openboxes/openboxes/releases/tag/v0.9.8-hotfix1"
+  },
+  "assets": [
+    {
+      "name": "openboxes.war",
+      "size": 190501578,
+      "url": "https://github.com/openboxes/openboxes/releases/download/v0.9.8-hotfix1/openboxes.war"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

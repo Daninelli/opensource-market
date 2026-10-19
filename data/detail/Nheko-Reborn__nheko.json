@@ -20,8 +20,44 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Nheko-Reborn/nheko/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v0.12.1",
+    "name": "v0.12.1",
+    "published": "2025-08-10T15:43:43Z",
+    "url": "https://github.com/Nheko-Reborn/nheko/releases/tag/v0.12.1"
+  },
+  "assets": [
+    {
+      "name": "nheko-v0.12.1-intel.dmg",
+      "size": 66942499,
+      "url": "https://github.com/Nheko-Reborn/nheko/releases/download/v0.12.1/nheko-v0.12.1-intel.dmg"
+    },
+    {
+      "name": "nheko-v0.12.1-windows-no-installer.zip",
+      "size": 72340945,
+      "url": "https://github.com/Nheko-Reborn/nheko/releases/download/v0.12.1/nheko-v0.12.1-windows-no-installer.zip"
+    },
+    {
+      "name": "nheko-v0.12.1-apple-silicon.dmg",
+      "size": 73017098,
+      "url": "https://github.com/Nheko-Reborn/nheko/releases/download/v0.12.1/nheko-v0.12.1-apple-silicon.dmg"
+    },
+    {
+      "name": "nheko-v0.12.1-arm64.flatpak",
+      "size": 4645488,
+      "url": "https://github.com/Nheko-Reborn/nheko/releases/download/v0.12.1/nheko-v0.12.1-arm64.flatpak"
+    },
+    {
+      "name": "nheko-v0.12.1-amd64.flatpak",
+      "size": 5144840,
+      "url": "https://github.com/Nheko-Reborn/nheko/releases/download/v0.12.1/nheko-v0.12.1-amd64.flatpak"
+    },
+    {
+      "name": "nheko-v0.12.1.msix",
+      "size": 49872873,
+      "url": "https://github.com/Nheko-Reborn/nheko/releases/download/v0.12.1/nheko-v0.12.1.msix"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

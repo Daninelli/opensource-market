@@ -1,0 +1,72 @@
+{
+  "repo": "FreeCAD/FreeCAD",
+  "slug": "FreeCAD__FreeCAD",
+  "name": "FreeCAD",
+  "note_zh": "开源参数化 3D CAD，产品设计、机械工程与 3D 打印建模，跨平台桌面应用。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "工程制造",
+  "subcategory_slug": "engineering",
+  "license": "LGPL-2.1",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Python"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-19T06:16:28Z",
+  "added_at": "2026-10-19T14:45:00.000Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/FreeCAD/FreeCAD/zip/refs/heads/main",
+  "release": {
+    "tag": "1.1.4",
+    "name": "FreeCAD 1.1.4",
+    "published": "2026-09-28T13:58:35Z",
+    "url": "https://github.com/FreeCAD/FreeCAD/releases/tag/1.1.4"
+  },
+  "assets": [
+    {
+      "name": "FreeCAD_1.1.4-Windows-x86_64-py311.7z",
+      "size": 418088341,
+      "url": "https://github.com/FreeCAD/FreeCAD/releases/download/1.1.4/FreeCAD_1.1.4-Windows-x86_64-py311.7z"
+    },
+    {
+      "name": "FreeCAD_1.1.4-Windows-x86_64-py311-installer.exe",
+      "size": 519314976,
+      "url": "https://github.com/FreeCAD/FreeCAD/releases/download/1.1.4/FreeCAD_1.1.4-Windows-x86_64-py311-installer.exe"
+    },
+    {
+      "name": "FreeCAD_1.1.4-macOS-arm64-py311.dmg",
+      "size": 649760538,
+      "url": "https://github.com/FreeCAD/FreeCAD/releases/download/1.1.4/FreeCAD_1.1.4-macOS-arm64-py311.dmg"
+    },
+    {
+      "name": "FreeCAD_1.1.4-macOS-x86_64-py311.dmg",
+      "size": 720059196,
+      "url": "https://github.com/FreeCAD/FreeCAD/releases/download/1.1.4/FreeCAD_1.1.4-macOS-x86_64-py311.dmg"
+    },
+    {
+      "name": "FreeCAD_1.1.4-Linux-aarch64-py311.AppImage",
+      "size": 755591688,
+      "url": "https://github.com/FreeCAD/FreeCAD/releases/download/1.1.4/FreeCAD_1.1.4-Linux-aarch64-py311.AppImage"
+    },
+    {
+      "name": "FreeCAD_1.1.4-Linux-x86_64-py311.AppImage",
+      "size": 820812280,
+      "url": "https://github.com/FreeCAD/FreeCAD/releases/download/1.1.4/FreeCAD_1.1.4-Linux-x86_64-py311.AppImage"
+    },
+    {
+      "name": "freecad_source_1.1.4.tar.gz",
+      "size": 98203668,
+      "url": "https://github.com/FreeCAD/FreeCAD/releases/download/1.1.4/freecad_source_1.1.4.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

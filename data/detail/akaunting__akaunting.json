@@ -21,8 +21,19 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/akaunting/akaunting/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "3.2.4",
+    "name": "3.2.4",
+    "published": "2026-09-17T13:09:14Z",
+    "url": "https://github.com/akaunting/akaunting/releases/tag/3.2.4"
+  },
+  "assets": [
+    {
+      "name": "Akaunting_3.2.4-Stable.zip",
+      "size": 75646365,
+      "url": "https://github.com/akaunting/akaunting/releases/download/3.2.4/Akaunting_3.2.4-Stable.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

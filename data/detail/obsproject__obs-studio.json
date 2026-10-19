@@ -1,0 +1,73 @@
+{
+  "repo": "obsproject/obs-studio",
+  "slug": "obsproject__obs-studio",
+  "name": "OBS Studio",
+  "note_zh": "开源录屏与直播推流工具，游戏录制、会议录屏、多平台推流的事实标准。",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "GPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C",
+    "C++",
+    "Qt"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-16T22:36:24Z",
+  "added_at": "2026-10-19T14:45:00.000Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/obsproject/obs-studio/zip/refs/heads/master",
+  "release": {
+    "tag": "32.2.2",
+    "name": "OBS Studio 32.2.2",
+    "published": "2026-08-14T22:43:31Z",
+    "url": "https://github.com/obsproject/obs-studio/releases/tag/32.2.2"
+  },
+  "assets": [
+    {
+      "name": "OBS-Studio-32.2.2-Windows-x64-Installer.exe",
+      "size": 159809104,
+      "url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Windows-x64-Installer.exe"
+    },
+    {
+      "name": "OBS-Studio-32.2.2-Windows-arm64.zip",
+      "size": 167128219,
+      "url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Windows-arm64.zip"
+    },
+    {
+      "name": "OBS-Studio-32.2.2-macOS-Apple.dmg",
+      "size": 187703709,
+      "url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-macOS-Apple.dmg"
+    },
+    {
+      "name": "OBS-Studio-32.2.2-macOS-Intel.dmg",
+      "size": 198863134,
+      "url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-macOS-Intel.dmg"
+    },
+    {
+      "name": "OBS-Studio-32.2.2-Ubuntu-24.04-x86_64.deb",
+      "size": 134324516,
+      "url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Ubuntu-24.04-x86_64.deb"
+    },
+    {
+      "name": "OBS-Studio-32.2.2-Ubuntu-26.04-x86_64.deb",
+      "size": 134438766,
+      "url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Ubuntu-26.04-x86_64.deb"
+    },
+    {
+      "name": "OBS-Studio-32.2.2-Sources.tar.gz",
+      "size": 16660601,
+      "url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Sources.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

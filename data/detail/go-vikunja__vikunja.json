@@ -15,12 +15,58 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-10-18T10:38:31Z",
+  "updated_at": "2026-10-19T04:56:06Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/go-vikunja/vikunja/zip/refs/heads/main",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v2.7.0",
+    "name": "v2.7.0",
+    "published": "2026-10-02T21:18:37Z",
+    "url": "https://github.com/go-vikunja/vikunja/releases/tag/v2.7.0"
+  },
+  "assets": [
+    {
+      "name": "veans-v2.7.0-windows-4.0-386.exe-full.zip",
+      "size": 7766175,
+      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/veans-v2.7.0-windows-4.0-386.exe-full.zip"
+    },
+    {
+      "name": "veans-v2.7.0-windows-4.0-amd64.exe-full.zip",
+      "size": 8240156,
+      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/veans-v2.7.0-windows-4.0-amd64.exe-full.zip"
+    },
+    {
+      "name": "veans-v2.7.0-darwin-10.15-arm64-full.zip",
+      "size": 9083637,
+      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/veans-v2.7.0-darwin-10.15-arm64-full.zip"
+    },
+    {
+      "name": "veans-v2.7.0-darwin-10.15-amd64-full.zip",
+      "size": 9750312,
+      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/veans-v2.7.0-darwin-10.15-amd64-full.zip"
+    },
+    {
+      "name": "veans-v2.7.0-linux-arm64-full.zip",
+      "size": 8115803,
+      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/veans-v2.7.0-linux-arm64-full.zip"
+    },
+    {
+      "name": "veans-v2.7.0-aarch64.deb",
+      "size": 8120270,
+      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/veans-v2.7.0-aarch64.deb"
+    },
+    {
+      "name": "veans-v2.7.0-aarch64.apk",
+      "size": 8225719,
+      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/veans-v2.7.0-aarch64.apk"
+    },
+    {
+      "name": "veans-v2.7.0-armv7.apk",
+      "size": 8287819,
+      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/veans-v2.7.0-armv7.apk"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

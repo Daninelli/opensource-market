@@ -15,12 +15,58 @@
   ],
   "deploy_type": "二进制",
   "platform": "github",
-  "updated_at": "2026-10-17T19:40:52Z",
+  "updated_at": "2026-10-18T14:23:55Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/restic/restic/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v0.19.1",
+    "name": "restic 0.19.1",
+    "published": "2026-07-05T08:13:33Z",
+    "url": "https://github.com/restic/restic/releases/tag/v0.19.1"
+  },
+  "assets": [
+    {
+      "name": "restic_0.19.1_darwin_arm64.bz2",
+      "size": 9733199,
+      "url": "https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_darwin_arm64.bz2"
+    },
+    {
+      "name": "restic_0.19.1_darwin_amd64.bz2",
+      "size": 10518038,
+      "url": "https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_darwin_amd64.bz2"
+    },
+    {
+      "name": "restic_0.19.1_windows_386.zip",
+      "size": 10883369,
+      "url": "https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_windows_386.zip"
+    },
+    {
+      "name": "restic_0.19.1_windows_amd64.zip",
+      "size": 11237567,
+      "url": "https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_windows_amd64.zip"
+    },
+    {
+      "name": "restic_0.19.1_linux_mips64.bz2",
+      "size": 8297676,
+      "url": "https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_linux_mips64.bz2"
+    },
+    {
+      "name": "restic_0.19.1_linux_mips64le.bz2",
+      "size": 8364834,
+      "url": "https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_linux_mips64le.bz2"
+    },
+    {
+      "name": "restic_0.19.1_netbsd_386.bz2",
+      "size": 9429877,
+      "url": "https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_netbsd_386.bz2"
+    },
+    {
+      "name": "restic_0.19.1_openbsd_386.bz2",
+      "size": 9439915,
+      "url": "https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_openbsd_386.bz2"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

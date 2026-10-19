@@ -16,12 +16,28 @@
   ],
   "deploy_type": "Docker / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-18T10:33:02Z",
+  "updated_at": "2026-10-19T06:19:54Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/windmill-labs/windmill/zip/refs/heads/main",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v1.841.0",
+    "name": "v1.841.0",
+    "published": "2026-10-18T23:53:51Z",
+    "url": "https://github.com/windmill-labs/windmill/releases/tag/v1.841.0"
+  },
+  "assets": [
+    {
+      "name": "windmill_duckdb_runner",
+      "size": 49213832,
+      "url": "https://github.com/windmill-labs/windmill/releases/download/v1.841.0/windmill_duckdb_runner"
+    },
+    {
+      "name": "windmill-amd64",
+      "size": 677092312,
+      "url": "https://github.com/windmill-labs/windmill/releases/download/v1.841.0/windmill-amd64"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

@@ -1,0 +1,42 @@
+{
+  "repo": "orangehrm/orangehrm",
+  "slug": "orangehrm__orangehrm",
+  "name": "OrangeHRM",
+  "note_zh": "老牌开源人力资源管理（HRMS），招聘入职、考勤、休假、绩效与薪酬一体化。",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "人力资源",
+  "subcategory_slug": "hr",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "MySQL"
+  ],
+  "deploy_type": "Docker 部署 / 传统部署",
+  "platform": "github",
+  "updated_at": "2026-06-28T23:52:36Z",
+  "added_at": "2026-10-19T14:45:00.000Z",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/orangehrm/orangehrm/zip/refs/heads/main",
+  "release": {
+    "tag": "v5.9",
+    "name": "OrangeHRM 5.9",
+    "published": "2026-06-28T23:46:59Z",
+    "url": "https://github.com/orangehrm/orangehrm/releases/tag/v5.9"
+  },
+  "assets": [
+    {
+      "name": "orangehrm-5.9.zip",
+      "size": 22228229,
+      "url": "https://github.com/orangehrm/orangehrm/releases/download/v5.9/orangehrm-5.9.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

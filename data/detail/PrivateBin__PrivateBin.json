@@ -15,11 +15,16 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-10-18T09:50:16Z",
+  "updated_at": "2026-10-18T19:55:54Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/PrivateBin/PrivateBin/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "2.1.0",
+    "name": "Release v2.1.0 - Removed jQuery and bootstrap 3 template",
+    "published": "2026-10-18T08:38:01Z",
+    "url": "https://github.com/PrivateBin/PrivateBin/releases/tag/2.1.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

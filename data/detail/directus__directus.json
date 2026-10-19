@@ -22,7 +22,12 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/directus/directus/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v12.5.0",
+    "name": "v12.5.0",
+    "published": "2026-10-07T18:44:06Z",
+    "url": "https://github.com/directus/directus/releases/tag/v12.5.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

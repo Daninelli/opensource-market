@@ -15,12 +15,53 @@
   ],
   "deploy_type": "客户端",
   "platform": "github",
-  "updated_at": "2026-10-18T11:22:05Z",
+  "updated_at": "2026-10-19T06:33:54Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/logseq/logseq/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "2.0.2",
+    "name": "Desktop APP 2.0.2 (Beta Testing)",
+    "published": "2026-10-07T14:18:57Z",
+    "url": "https://github.com/logseq/logseq/releases/tag/2.0.2"
+  },
+  "assets": [
+    {
+      "name": "Logseq-win-arm64-2.0.2-nsis.exe",
+      "size": 147426600,
+      "url": "https://github.com/logseq/logseq/releases/download/2.0.2/Logseq-win-arm64-2.0.2-nsis.exe"
+    },
+    {
+      "name": "Logseq-win-x64-2.0.2-nsis.exe",
+      "size": 152653328,
+      "url": "https://github.com/logseq/logseq/releases/download/2.0.2/Logseq-win-x64-2.0.2-nsis.exe"
+    },
+    {
+      "name": "Logseq-darwin-x64-2.0.2.zip",
+      "size": 164988361,
+      "url": "https://github.com/logseq/logseq/releases/download/2.0.2/Logseq-darwin-x64-2.0.2.zip"
+    },
+    {
+      "name": "Logseq-darwin-x64-2.0.2.dmg",
+      "size": 170943355,
+      "url": "https://github.com/logseq/logseq/releases/download/2.0.2/Logseq-darwin-x64-2.0.2.dmg"
+    },
+    {
+      "name": "Logseq-linux-arm64-2.0.2.AppImage",
+      "size": 175568138,
+      "url": "https://github.com/logseq/logseq/releases/download/2.0.2/Logseq-linux-arm64-2.0.2.AppImage"
+    },
+    {
+      "name": "Logseq-linux-x86_64-2.0.2.AppImage",
+      "size": 175847888,
+      "url": "https://github.com/logseq/logseq/releases/download/2.0.2/Logseq-linux-x86_64-2.0.2.AppImage"
+    },
+    {
+      "name": "Logseq-android-2.0.2.apk",
+      "size": 44178075,
+      "url": "https://github.com/logseq/logseq/releases/download/2.0.2/Logseq-android-2.0.2.apk"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

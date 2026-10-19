@@ -20,8 +20,24 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/IceWhaleTech/CasaOS/zip/refs/heads/main",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v0.4.15",
+    "name": "v0.4.15",
+    "published": "2024-12-19T03:19:49Z",
+    "url": "https://github.com/IceWhaleTech/CasaOS/releases/tag/v0.4.15"
+  },
+  "assets": [
+    {
+      "name": "linux-arm-7-casaos-migration-tool-v0.4.15.tar.gz",
+      "size": 4013287,
+      "url": "https://github.com/IceWhaleTech/CasaOS/releases/download/v0.4.15/linux-arm-7-casaos-migration-tool-v0.4.15.tar.gz"
+    },
+    {
+      "name": "linux-amd64-casaos-migration-tool-v0.4.15.tar.gz",
+      "size": 5067804,
+      "url": "https://github.com/IceWhaleTech/CasaOS/releases/download/v0.4.15/linux-amd64-casaos-migration-tool-v0.4.15.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

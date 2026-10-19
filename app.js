@@ -92,7 +92,10 @@
                 { slug: "collaboration", label: "团队协作" },
                 { slug: "crm", label: "客户关系" },
                 { slug: "erp", label: "企业资源" },
-                { slug: "docs", label: "文档与知识库" }
+                { slug: "docs", label: "文档与知识库" },
+                { slug: "hr", label: "人力资源" },
+                { slug: "asset", label: "资产管理" },
+                { slug: "office", label: "办公套件" }
             ]
         },
         {
@@ -123,7 +126,9 @@
                 { slug: "devops", label: "运维部署" },
                 { slug: "readlater", label: "稍后读与收藏" },
                 { slug: "iot", label: "物联网" },
-                { slug: "media-tool", label: "媒体处理" }
+                { slug: "media-tool", label: "媒体处理" },
+                { slug: "engineering", label: "工程制造" },
+                { slug: "download", label: "下载工具" }
             ]
         },
         {

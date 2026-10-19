@@ -15,12 +15,38 @@
   ],
   "deploy_type": "Docker / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-16T14:54:35Z",
+  "updated_at": "2026-10-18T17:44:58Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/crowdsecurity/crowdsec/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v1.8.1",
+    "name": "v1.8.1",
+    "published": "2026-09-03T09:08:57Z",
+    "url": "https://github.com/crowdsecurity/crowdsec/releases/tag/v1.8.1"
+  },
+  "assets": [
+    {
+      "name": "crowdsec_1.8.1.msi",
+      "size": 119066624,
+      "url": "https://github.com/crowdsecurity/crowdsec/releases/download/v1.8.1/crowdsec_1.8.1.msi"
+    },
+    {
+      "name": "crowdsec-v1.8.1-vendor.tar.xz",
+      "size": 21253676,
+      "url": "https://github.com/crowdsecurity/crowdsec/releases/download/v1.8.1/crowdsec-v1.8.1-vendor.tar.xz"
+    },
+    {
+      "name": "vendor.tgz",
+      "size": 51346523,
+      "url": "https://github.com/crowdsecurity/crowdsec/releases/download/v1.8.1/vendor.tgz"
+    },
+    {
+      "name": "crowdsec.1.8.1.nupkg",
+      "size": 118062192,
+      "url": "https://github.com/crowdsecurity/crowdsec/releases/download/v1.8.1/crowdsec.1.8.1.nupkg"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

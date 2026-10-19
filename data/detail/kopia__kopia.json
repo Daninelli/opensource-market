@@ -1,0 +1,76 @@
+{
+  "repo": "kopia/kopia",
+  "slug": "kopia__kopia",
+  "name": "Kopia",
+  "note_zh": "跨平台增量备份工具，加密、去重、多存储端目标，可与 NAS 搭配定时快照。",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "私有同步",
+  "subcategory_slug": "sync",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "客户端 / Docker",
+  "platform": "github",
+  "updated_at": "2026-10-18T12:24:07Z",
+  "added_at": "2026-10-19T14:45:00.000Z",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/kopia/kopia/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.23.1",
+    "name": "v0.23.1",
+    "published": "2026-06-16T01:27:33Z",
+    "url": "https://github.com/kopia/kopia/releases/tag/v0.23.1"
+  },
+  "assets": [
+    {
+      "name": "kopia-0.23.1-macOS-arm64.tar.gz",
+      "size": 15257600,
+      "url": "https://github.com/kopia/kopia/releases/download/v0.23.1/kopia-0.23.1-macOS-arm64.tar.gz"
+    },
+    {
+      "name": "kopia-0.23.1-windows-x64.zip",
+      "size": 16894596,
+      "url": "https://github.com/kopia/kopia/releases/download/v0.23.1/kopia-0.23.1-windows-x64.zip"
+    },
+    {
+      "name": "kopia-0.23.1-macOS-x64.tar.gz",
+      "size": 17397760,
+      "url": "https://github.com/kopia/kopia/releases/download/v0.23.1/kopia-0.23.1-macOS-x64.tar.gz"
+    },
+    {
+      "name": "KopiaUI-Setup-0.23.1.exe",
+      "size": 113267920,
+      "url": "https://github.com/kopia/kopia/releases/download/v0.23.1/KopiaUI-Setup-0.23.1.exe"
+    },
+    {
+      "name": "kopia-0.23.1.aarch64.rpm",
+      "size": 15305400,
+      "url": "https://github.com/kopia/kopia/releases/download/v0.23.1/kopia-0.23.1.aarch64.rpm"
+    },
+    {
+      "name": "kopia-0.23.1-linux-arm64.tar.gz",
+      "size": 15309817,
+      "url": "https://github.com/kopia/kopia/releases/download/v0.23.1/kopia-0.23.1-linux-arm64.tar.gz"
+    },
+    {
+      "name": "kopia-0.23.1-freebsd-experimental-arm64.tar.gz",
+      "size": 14930649,
+      "url": "https://github.com/kopia/kopia/releases/download/v0.23.1/kopia-0.23.1-freebsd-experimental-arm64.tar.gz"
+    },
+    {
+      "name": "kopia-0.23.1-openbsd-experimental-arm64.tar.gz",
+      "size": 15061522,
+      "url": "https://github.com/kopia/kopia/releases/download/v0.23.1/kopia-0.23.1-openbsd-experimental-arm64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

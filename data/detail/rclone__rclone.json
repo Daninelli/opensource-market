@@ -15,12 +15,48 @@
   ],
   "deploy_type": "二进制",
   "platform": "github",
-  "updated_at": "2026-10-17T16:42:38Z",
+  "updated_at": "2026-10-18T17:17:40Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/rclone/rclone/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v1.75.2",
+    "name": "rclone v1.75.2",
+    "published": "2026-10-09T11:03:19Z",
+    "url": "https://github.com/rclone/rclone/releases/tag/v1.75.2"
+  },
+  "assets": [
+    {
+      "name": "rclone-v1.75.2-windows-arm64.zip",
+      "size": 28556640,
+      "url": "https://github.com/rclone/rclone/releases/download/v1.75.2/rclone-v1.75.2-windows-arm64.zip"
+    },
+    {
+      "name": "rclone-v1.75.2-windows-386.zip",
+      "size": 29670365,
+      "url": "https://github.com/rclone/rclone/releases/download/v1.75.2/rclone-v1.75.2-windows-386.zip"
+    },
+    {
+      "name": "rclone-v1.75.2-linux-mipsle.zip",
+      "size": 28015763,
+      "url": "https://github.com/rclone/rclone/releases/download/v1.75.2/rclone-v1.75.2-linux-mipsle.zip"
+    },
+    {
+      "name": "rclone-v1.75.2-linux-mips.zip",
+      "size": 28334827,
+      "url": "https://github.com/rclone/rclone/releases/download/v1.75.2/rclone-v1.75.2-linux-mips.zip"
+    },
+    {
+      "name": "rclone-v1.75.2.tar.gz",
+      "size": 16877336,
+      "url": "https://github.com/rclone/rclone/releases/download/v1.75.2/rclone-v1.75.2.tar.gz"
+    },
+    {
+      "name": "rclone-v1.75.2-vendor.tar.gz",
+      "size": 17892726,
+      "url": "https://github.com/rclone/rclone/releases/download/v1.75.2/rclone-v1.75.2-vendor.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

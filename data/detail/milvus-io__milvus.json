@@ -16,11 +16,16 @@
   ],
   "deploy_type": "Docker / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-17T13:37:49Z",
+  "updated_at": "2026-10-19T06:09:18Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/milvus-io/milvus/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v3.0.3",
+    "name": "milvus-3.0.3",
+    "published": "2026-10-14T07:58:49Z",
+    "url": "https://github.com/milvus-io/milvus/releases/tag/v3.0.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

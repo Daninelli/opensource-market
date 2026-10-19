@@ -20,8 +20,29 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/jupyterlab/jupyterlab/zip/refs/heads/main",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v4.6.4",
+    "name": "v4.6.4",
+    "published": "2026-09-21T15:39:48Z",
+    "url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.6.4"
+  },
+  "assets": [
+    {
+      "name": "jupyterlab-lsp-4.6.4.tgz",
+      "size": 102714,
+      "url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-lsp-4.6.4.tgz"
+    },
+    {
+      "name": "jupyterlab-codemirror-4.6.4.tgz",
+      "size": 106894,
+      "url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-codemirror-4.6.4.tgz"
+    },
+    {
+      "name": "jupyterlab-4.6.4.tar.gz",
+      "size": 28335647,
+      "url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-4.6.4.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

@@ -15,12 +15,23 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-10-18T06:22:14Z",
+  "updated_at": "2026-10-18T11:51:46Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/invoiceplane/invoiceplane/zip/refs/heads/develop",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v1.7.2",
+    "name": "v1.7.2",
+    "published": "2026-08-28T09:00:53Z",
+    "url": "https://github.com/InvoicePlane/InvoicePlane/releases/tag/v1.7.2"
+  },
+  "assets": [
+    {
+      "name": "v1.7.2.zip",
+      "size": 27881511,
+      "url": "https://github.com/InvoicePlane/InvoicePlane/releases/download/v1.7.2/v1.7.2.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

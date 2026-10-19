@@ -17,12 +17,38 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-17T21:11:12Z",
+  "updated_at": "2026-10-18T17:15:54Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/owncast/owncast/zip/refs/heads/develop",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v0.3.0",
+    "name": "Owncast v0.3.0",
+    "published": "2026-09-03T16:31:05Z",
+    "url": "https://github.com/owncast/owncast/releases/tag/v0.3.0"
+  },
+  "assets": [
+    {
+      "name": "owncast-0.3.0-macOS-arm64.zip",
+      "size": 38095703,
+      "url": "https://github.com/owncast/owncast/releases/download/v0.3.0/owncast-0.3.0-macOS-arm64.zip"
+    },
+    {
+      "name": "owncast-0.3.0-macOS-64bit.zip",
+      "size": 39135750,
+      "url": "https://github.com/owncast/owncast/releases/download/v0.3.0/owncast-0.3.0-macOS-64bit.zip"
+    },
+    {
+      "name": "owncast-0.3.0-linux-arm7.zip",
+      "size": 23421783,
+      "url": "https://github.com/owncast/owncast/releases/download/v0.3.0/owncast-0.3.0-linux-arm7.zip"
+    },
+    {
+      "name": "owncast-0.3.0-linux-arm64.zip",
+      "size": 23577334,
+      "url": "https://github.com/owncast/owncast/releases/download/v0.3.0/owncast-0.3.0-linux-arm64.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

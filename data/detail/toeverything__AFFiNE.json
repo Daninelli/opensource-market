@@ -19,8 +19,44 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "canary",
   "download_url": "https://codeload.github.com/toeverything/AFFiNE/zip/refs/heads/canary",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v0.27.4",
+    "name": "0.27.4",
+    "published": "2026-08-18T16:51:39Z",
+    "url": "https://github.com/toeverything/AFFiNE/releases/tag/v0.27.4"
+  },
+  "assets": [
+    {
+      "name": "affine-0.27.4-stable-macos-arm64.dmg",
+      "size": 158774537,
+      "url": "https://github.com/toeverything/AFFiNE/releases/download/v0.27.4/affine-0.27.4-stable-macos-arm64.dmg"
+    },
+    {
+      "name": "affine-0.27.4-stable-windows-arm64.nsis.exe",
+      "size": 165330408,
+      "url": "https://github.com/toeverything/AFFiNE/releases/download/v0.27.4/affine-0.27.4-stable-windows-arm64.nsis.exe"
+    },
+    {
+      "name": "affine-0.27.4-stable-windows-x64.nsis.exe",
+      "size": 170626392,
+      "url": "https://github.com/toeverything/AFFiNE/releases/download/v0.27.4/affine-0.27.4-stable-windows-x64.nsis.exe"
+    },
+    {
+      "name": "affine-0.27.4-stable-macos-x64.dmg",
+      "size": 174014242,
+      "url": "https://github.com/toeverything/AFFiNE/releases/download/v0.27.4/affine-0.27.4-stable-macos-x64.dmg"
+    },
+    {
+      "name": "affine-0.27.4-stable-linux-x64.flatpak",
+      "size": 163323864,
+      "url": "https://github.com/toeverything/AFFiNE/releases/download/v0.27.4/affine-0.27.4-stable-linux-x64.flatpak"
+    },
+    {
+      "name": "affine-0.27.4-stable-linux-x64.deb",
+      "size": 165771698,
+      "url": "https://github.com/toeverything/AFFiNE/releases/download/v0.27.4/affine-0.27.4-stable-linux-x64.deb"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

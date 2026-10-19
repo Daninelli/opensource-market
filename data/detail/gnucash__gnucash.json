@@ -17,12 +17,48 @@
   ],
   "deploy_type": "客户端",
   "platform": "github",
-  "updated_at": "2026-10-18T02:34:46Z",
+  "updated_at": "2026-10-18T12:21:07Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "stable",
   "download_url": "https://codeload.github.com/gnucash/gnucash/zip/refs/heads/stable",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "5.17",
+    "name": "GnuCash 5.17 Released",
+    "published": "2026-09-27T15:38:18Z",
+    "url": "https://github.com/Gnucash/gnucash/releases/tag/5.17"
+  },
+  "assets": [
+    {
+      "name": "Gnucash-Arm-5.17-1.dmg",
+      "size": 180289229,
+      "url": "https://github.com/Gnucash/gnucash/releases/download/5.17/Gnucash-Arm-5.17-1.dmg"
+    },
+    {
+      "name": "Gnucash-Intel-5.17-1.dmg",
+      "size": 184214253,
+      "url": "https://github.com/Gnucash/gnucash/releases/download/5.17/Gnucash-Intel-5.17-1.dmg"
+    },
+    {
+      "name": "gnucash-5.17.setup.exe",
+      "size": 184629453,
+      "url": "https://github.com/Gnucash/gnucash/releases/download/5.17/gnucash-5.17.setup.exe"
+    },
+    {
+      "name": "gnucash-5.17.tar.bz2",
+      "size": 15663971,
+      "url": "https://github.com/Gnucash/gnucash/releases/download/5.17/gnucash-5.17.tar.bz2"
+    },
+    {
+      "name": "gnucash-5.17.tar.gz",
+      "size": 22288025,
+      "url": "https://github.com/Gnucash/gnucash/releases/download/5.17/gnucash-5.17.tar.gz"
+    },
+    {
+      "name": "gnucash-docs-5.17.tar.gz",
+      "size": 117817930,
+      "url": "https://github.com/Gnucash/gnucash/releases/download/5.17/gnucash-docs-5.17.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

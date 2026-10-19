@@ -16,12 +16,58 @@
   ],
   "deploy_type": "客户端",
   "platform": "github",
-  "updated_at": "2026-10-16T12:49:43Z",
+  "updated_at": "2026-10-19T05:45:23Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/usebruno/bruno/zip/refs/heads/main",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v4.2.1",
+    "name": "v4.2.1",
+    "published": "2026-09-30T13:52:52Z",
+    "url": "https://github.com/usebruno/bruno/releases/tag/v4.2.1"
+  },
+  "assets": [
+    {
+      "name": "bruno_4.2.1_x64_win.exe",
+      "size": 121897928,
+      "url": "https://github.com/usebruno/bruno/releases/download/v4.2.1/bruno_4.2.1_x64_win.exe"
+    },
+    {
+      "name": "bruno_4.2.1_arm64_win.exe",
+      "size": 123712264,
+      "url": "https://github.com/usebruno/bruno/releases/download/v4.2.1/bruno_4.2.1_arm64_win.exe"
+    },
+    {
+      "name": "bruno_4.2.1_arm64_mac.pkg",
+      "size": 166644894,
+      "url": "https://github.com/usebruno/bruno/releases/download/v4.2.1/bruno_4.2.1_arm64_mac.pkg"
+    },
+    {
+      "name": "bruno_4.2.1_arm64_mac.dmg",
+      "size": 166655607,
+      "url": "https://github.com/usebruno/bruno/releases/download/v4.2.1/bruno_4.2.1_arm64_mac.dmg"
+    },
+    {
+      "name": "bruno_4.2.1_arm64_linux.deb",
+      "size": 99599756,
+      "url": "https://github.com/usebruno/bruno/releases/download/v4.2.1/bruno_4.2.1_arm64_linux.deb"
+    },
+    {
+      "name": "bruno_4.2.1_aarch64_linux.rpm",
+      "size": 101145261,
+      "url": "https://github.com/usebruno/bruno/releases/download/v4.2.1/bruno_4.2.1_aarch64_linux.rpm"
+    },
+    {
+      "name": "bruno_4.2.1_arm64_mac.zip",
+      "size": 159022368,
+      "url": "https://github.com/usebruno/bruno/releases/download/v4.2.1/bruno_4.2.1_arm64_mac.zip"
+    },
+    {
+      "name": "bruno_4.2.1_x64_mac.zip",
+      "size": 165354563,
+      "url": "https://github.com/usebruno/bruno/releases/download/v4.2.1/bruno_4.2.1_x64_mac.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

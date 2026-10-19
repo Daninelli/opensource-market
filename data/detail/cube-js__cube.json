@@ -16,12 +16,48 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-10-17T16:37:59Z",
+  "updated_at": "2026-10-19T06:38:44Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/cube-js/cube/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v1.8.8",
+    "name": "v1.8.8",
+    "published": "2026-10-16T18:57:26Z",
+    "url": "https://github.com/cube-js/cube/releases/tag/v1.8.8"
+  },
+  "assets": [
+    {
+      "name": "cube-aarch64-apple-darwin.tar.gz",
+      "size": 2604703,
+      "url": "https://github.com/cube-js/cube/releases/download/v1.8.8/cube-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "cube-x86_64-apple-darwin.tar.gz",
+      "size": 2777729,
+      "url": "https://github.com/cube-js/cube/releases/download/v1.8.8/cube-x86_64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "cube-x86_64-pc-windows-msvc.tar.gz",
+      "size": 2882825,
+      "url": "https://github.com/cube-js/cube/releases/download/v1.8.8/cube-x86_64-pc-windows-msvc.tar.gz"
+    },
+    {
+      "name": "native-win32-x64-unknown-fallback.tar.gz",
+      "size": 20043710,
+      "url": "https://github.com/cube-js/cube/releases/download/v1.8.8/native-win32-x64-unknown-fallback.tar.gz"
+    },
+    {
+      "name": "cube-aarch64-unknown-linux-musl.tar.gz",
+      "size": 2739091,
+      "url": "https://github.com/cube-js/cube/releases/download/v1.8.8/cube-aarch64-unknown-linux-musl.tar.gz"
+    },
+    {
+      "name": "cube-x86_64-unknown-linux-musl.tar.gz",
+      "size": 2899555,
+      "url": "https://github.com/cube-js/cube/releases/download/v1.8.8/cube-x86_64-unknown-linux-musl.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

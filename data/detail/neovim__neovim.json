@@ -16,12 +16,48 @@
   ],
   "deploy_type": "二进制",
   "platform": "github",
-  "updated_at": "2026-10-18T11:38:28Z",
+  "updated_at": "2026-10-19T05:25:39Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/neovim/neovim/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v0.12.6",
+    "name": "Nvim 0.12.6",
+    "published": "2026-10-09T15:43:25Z",
+    "url": "https://github.com/neovim/neovim/releases/tag/v0.12.6"
+  },
+  "assets": [
+    {
+      "name": "nvim-macos-arm64.tar.gz",
+      "size": 9595887,
+      "url": "https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-macos-arm64.tar.gz"
+    },
+    {
+      "name": "nvim-macos-x86_64.tar.gz",
+      "size": 9844257,
+      "url": "https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-macos-x86_64.tar.gz"
+    },
+    {
+      "name": "nvim-win64.msi",
+      "size": 12460092,
+      "url": "https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-win64.msi"
+    },
+    {
+      "name": "nvim-win64.zip",
+      "size": 12624741,
+      "url": "https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-win64.zip"
+    },
+    {
+      "name": "nvim-linux-arm64.appimage",
+      "size": 11356680,
+      "url": "https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-linux-arm64.appimage"
+    },
+    {
+      "name": "nvim-linux-arm64.tar.gz",
+      "size": 11367117,
+      "url": "https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-linux-arm64.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,
