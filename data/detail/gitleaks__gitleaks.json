@@ -16,7 +16,7 @@
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
   "updated_at": "2026-09-30T04:14:02Z",
-  "added_at": null,
+  "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/gitleaks/gitleaks/zip/refs/heads/master",
   "release": {

@@ -17,7 +17,7 @@
   "deploy_type": "客户端 / 桌面应用",
   "platform": "github",
   "updated_at": "2026-10-18T16:51:09Z",
-  "added_at": null,
+  "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mltframework/shotcut/zip/refs/heads/master",
   "release": {

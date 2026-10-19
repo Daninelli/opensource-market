@@ -16,7 +16,7 @@
   "deploy_type": "依赖库 / 命令行",
   "platform": "github",
   "updated_at": "2026-10-19T15:21:18Z",
-  "added_at": null,
+  "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/heygen-com/hyperframes/zip/refs/heads/main",
   "release": {

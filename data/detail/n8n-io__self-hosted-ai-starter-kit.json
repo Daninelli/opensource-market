@@ -17,7 +17,7 @@
   "deploy_type": "Docker 部署",
   "platform": "github",
   "updated_at": "2026-10-12T08:50:13Z",
-  "added_at": null,
+  "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/n8n-io/self-hosted-ai-starter-kit/zip/refs/heads/main",
   "release": null,

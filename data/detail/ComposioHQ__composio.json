@@ -17,7 +17,7 @@
   "deploy_type": "依赖库",
   "platform": "github",
   "updated_at": "2026-10-19T12:39:50Z",
-  "added_at": null,
+  "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "next",
   "download_url": "https://codeload.github.com/ComposioHQ/composio/zip/refs/heads/next",
   "release": null,

@@ -16,7 +16,7 @@
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
   "updated_at": "2026-10-17T16:38:33Z",
-  "added_at": null,
+  "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/s3fs-fuse/s3fs-fuse/zip/refs/heads/master",
   "release": null,

@@ -16,7 +16,7 @@
   "deploy_type": "二进制 / Docker 部署",
   "platform": "github",
   "updated_at": "2026-10-19T11:48:04Z",
-  "added_at": null,
+  "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/rqlite/rqlite/zip/refs/heads/master",
   "release": {

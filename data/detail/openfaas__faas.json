@@ -16,7 +16,7 @@
   "deploy_type": "Docker 部署 / 命令行",
   "platform": "github",
   "updated_at": "2026-07-02T09:09:13Z",
-  "added_at": null,
+  "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/openfaas/faas/zip/refs/heads/master",
   "release": null,
