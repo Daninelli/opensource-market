@@ -78,7 +78,7 @@
             blurb: "涵盖医疗信息化系统、医学影像处理与运动健康管理方案",
             children: [
                 { slug: "emr", label: "电子病历" },
-                { slug: "imaging", label: "医疗影像" },
+                { slug: "imaging", label: "医学影像" },
                 { slug: "practice", label: "诊所与实验室" },
                 { slug: "health", label: "健康管理" }
             ]

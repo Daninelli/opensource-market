@@ -2031,7 +2031,7 @@
     "repo": "cBioPortal/cbioportal",
     "category": "医健",
     "category_slug": "medical",
-    "subcategory": "医疗影像",
+    "subcategory": "医学影像",
     "subcategory_slug": "imaging",
     "tech_stack": [
       "Java",
@@ -3354,7 +3354,7 @@
     "repo": "OHIF/Viewers",
     "category": "医健",
     "category_slug": "medical",
-    "subcategory": "医疗影像",
+    "subcategory": "医学影像",
     "subcategory_slug": "imaging",
     "tech_stack": [
       "TypeScript",
@@ -6394,7 +6394,7 @@
     "repo": "Slicer/Slicer",
     "category": "医健",
     "category_slug": "medical",
-    "subcategory": "医疗影像",
+    "subcategory": "医学影像",
     "subcategory_slug": "imaging",
     "tech_stack": [
       "C++",
@@ -6431,7 +6431,7 @@
     "repo": "jodogne/Orthanc",
     "category": "医健",
     "category_slug": "medical",
-    "subcategory": "医疗影像",
+    "subcategory": "医学影像",
     "subcategory_slug": "imaging",
     "tech_stack": [
       "C++"

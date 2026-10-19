@@ -5,7 +5,7 @@
   "note_zh": "开源的 DICOM 医学影像查看器，浏览器里直接看 CT/MRI，可对接 PACS。",
   "category": "医健",
   "category_slug": "medical",
-  "subcategory": "医疗影像",
+  "subcategory": "医学影像",
   "subcategory_slug": "imaging",
   "license": "MIT",
   "license_category": "open",

@@ -44,7 +44,7 @@ const TAXONOMY = {
         children: { "personal-finance": "个人财务", investment: "投资管理", accounting: "记账核算", payment: "支付网关" }
     },
     education: { label: "教育", children: { lms: "在线学习", interactive: "互动课程", lab: "实验与科研记录" } },
-    medical: { label: "医健", children: { emr: "电子病历", imaging: "医疗影像", practice: "诊所与实验室", health: "健康管理" } },
+    medical: { label: "医健", children: { emr: "电子病历", imaging: "医学影像", practice: "诊所与实验室", health: "健康管理" } },
     enterprise: {
         label: "企业服务",
         children: {

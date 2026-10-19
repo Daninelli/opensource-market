@@ -5,7 +5,7 @@
   "note_zh": "癌症基因组学数据门户，把测序数据和临床信息可视化关联，适合医院科研和精准医疗场景。",
   "category": "医健",
   "category_slug": "medical",
-  "subcategory": "医疗影像",
+  "subcategory": "医学影像",
   "subcategory_slug": "imaging",
   "license": "AGPL-3.0",
   "license_category": "open",

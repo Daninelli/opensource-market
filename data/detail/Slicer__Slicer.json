@@ -5,7 +5,7 @@
   "note_zh": "跨平台医学影像分析与可视化软件，支持分割、配准与扩展插件。",
   "category": "医健",
   "category_slug": "medical",
-  "subcategory": "医疗影像",
+  "subcategory": "医学影像",
   "subcategory_slug": "imaging",
   "license": "BSD-3-Clause",
   "license_category": "open",

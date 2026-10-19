@@ -76,7 +76,7 @@
 | `finance` | `accounting` | 记账核算 | Akaunting、Invoice Ninja、GnuCash |
 | `finance` | `payment` | 支付网关 | （待补） |
 | `education` | `lab` | 实验与科研记录 | （待补） |
-| `medical` | `imaging` | 医疗影像 | cBioPortal |
+| `medical` | `imaging` | 医学影像 | cBioPortal |
 | `medical` | `practice` | 诊所与实验室 | OpenBoxes |
 | `enterprise` | `crm` | 客户关系 | EspoCRM、Twenty |
 | `enterprise` | `erp` | 企业资源 | ERPNext、Odoo |
