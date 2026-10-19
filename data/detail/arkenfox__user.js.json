@@ -1,0 +1,30 @@
+{
+  "repo": "arkenfox/user.js",
+  "slug": "arkenfox__user.js",
+  "name": "user.js",
+  "note_zh": "Firefox 隐私与反追踪加固配置",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "系统工具",
+  "subcategory_slug": "system",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-09-09T03:48:46Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/arkenfox/user.js/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

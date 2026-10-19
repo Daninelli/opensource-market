@@ -1,0 +1,42 @@
+{
+  "repo": "palmier-io/palmier-pro",
+  "slug": "palmier-io__palmier-pro",
+  "name": "palmier-pro",
+  "note_zh": "为 AI 工作流打造的 macOS 视频编辑器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Swift",
+    "macOS"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-05T06:09:38Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/palmier-io/palmier-pro/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.11.0",
+    "name": "v0.11.0",
+    "published": "2026-10-05T06:09:34Z",
+    "url": "https://github.com/palmier-io/palmier-pro/releases/tag/v0.11.0"
+  },
+  "assets": [
+    {
+      "name": "PalmierPro.dmg",
+      "size": 113980442,
+      "url": "https://github.com/palmier-io/palmier-pro/releases/download/v0.11.0/PalmierPro.dmg"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

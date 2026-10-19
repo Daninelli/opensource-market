@@ -1,0 +1,31 @@
+{
+  "repo": "MariaDB/server",
+  "slug": "MariaDB__server",
+  "name": "server",
+  "note_zh": "MySQL 的社区分支数据库服务",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "GPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "SQL"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:40:12Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/MariaDB/server/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

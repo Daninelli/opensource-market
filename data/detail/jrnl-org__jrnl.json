@@ -1,0 +1,30 @@
+{
+  "repo": "jrnl-org/jrnl",
+  "slug": "jrnl-org__jrnl",
+  "name": "jrnl",
+  "note_zh": "不离开命令行就能记日记与笔记",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "命令行",
+  "platform": "github",
+  "updated_at": "2026-10-18T09:30:45Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/jrnl-org/jrnl/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

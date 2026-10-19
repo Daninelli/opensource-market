@@ -1,0 +1,31 @@
+{
+  "repo": "python-visualization/folium",
+  "slug": "python-visualization__folium",
+  "name": "folium",
+  "note_zh": "用 Python 生成 Leaflet 交互地图",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "数据分析",
+  "subcategory_slug": "bi",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Leaflet"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:17:02Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/python-visualization/folium/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

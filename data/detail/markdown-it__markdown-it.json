@@ -1,0 +1,30 @@
+{
+  "repo": "markdown-it/markdown-it",
+  "slug": "markdown-it__markdown-it",
+  "name": "markdown-it",
+  "note_zh": "100% CommonMark 兼容的 Markdown 解析器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-16T01:44:32Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/markdown-it/markdown-it/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

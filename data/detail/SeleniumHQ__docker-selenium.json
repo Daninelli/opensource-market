@@ -1,0 +1,46 @@
+{
+  "repo": "SeleniumHQ/docker-selenium",
+  "slug": "SeleniumHQ__docker-selenium",
+  "name": "docker-selenium",
+  "note_zh": "容器化的 Selenium Grid 运行环境",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Docker"
+  ],
+  "deploy_type": "Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:11:34Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "trunk",
+  "download_url": "https://codeload.github.com/SeleniumHQ/docker-selenium/zip/refs/heads/trunk",
+  "release": {
+    "tag": "4.51.0-20261010",
+    "name": "4.51.0-20261010",
+    "published": "2026-10-14T08:58:54Z",
+    "url": "https://github.com/SeleniumHQ/docker-selenium/releases/tag/4.51.0-20261010"
+  },
+  "assets": [
+    {
+      "name": "k8s_fullDistributed_secureIngress_externalCerts_ingressHostName_ingressTLSInline_autoScaling_scaledJob_existingKEDA_prefixSelenium_nodeChromium_enableTracing.yaml",
+      "size": 103436,
+      "url": "https://github.com/SeleniumHQ/docker-selenium/releases/download/4.51.0-20261010/k8s_fullDistributed_secureIngress_externalCerts_ingressHostName_ingressTLSInline_autoScaling_scaledJob_existingKEDA_prefixSelenium_nodeChromium_enableTracing.yaml"
+    },
+    {
+      "name": "k8s_prefixSelenium_basicAuth_secureServer_autoScaling_scaledJob_existingKEDA.yaml",
+      "size": 114841,
+      "url": "https://github.com/SeleniumHQ/docker-selenium/releases/download/4.51.0-20261010/k8s_prefixSelenium_basicAuth_secureServer_autoScaling_scaledJob_existingKEDA.yaml"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,66 @@
+{
+  "repo": "plantuml/plantuml",
+  "slug": "plantuml__plantuml",
+  "name": "plantuml",
+  "note_zh": "用文本描述生成 UML 图",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "LGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java"
+  ],
+  "deploy_type": "依赖库 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:28:23Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/plantuml/plantuml/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.2026.9",
+    "name": "v1.2026.9",
+    "published": "2026-10-17T08:33:35Z",
+    "url": "https://github.com/plantuml/plantuml/releases/tag/v1.2026.9"
+  },
+  "assets": [
+    {
+      "name": "native-plantuml-windows-amd64-1.2026.9.zip",
+      "size": 50819280,
+      "url": "https://github.com/plantuml/plantuml/releases/download/v1.2026.9/native-plantuml-windows-amd64-1.2026.9.zip"
+    },
+    {
+      "name": "native-plantuml-macos-arm64-1.2026.9.zip",
+      "size": 55113407,
+      "url": "https://github.com/plantuml/plantuml/releases/download/v1.2026.9/native-plantuml-macos-arm64-1.2026.9.zip"
+    },
+    {
+      "name": "native-plantuml-linux-arm64-1.2026.9.zip",
+      "size": 50792182,
+      "url": "https://github.com/plantuml/plantuml/releases/download/v1.2026.9/native-plantuml-linux-arm64-1.2026.9.zip"
+    },
+    {
+      "name": "native-plantuml-linux-amd64-1.2026.9.zip",
+      "size": 52340756,
+      "url": "https://github.com/plantuml/plantuml/releases/download/v1.2026.9/native-plantuml-linux-amd64-1.2026.9.zip"
+    },
+    {
+      "name": "plantuml-mit-light-1.2026.9.jar",
+      "size": 8070162,
+      "url": "https://github.com/plantuml/plantuml/releases/download/v1.2026.9/plantuml-mit-light-1.2026.9.jar"
+    },
+    {
+      "name": "plantuml-asl-1.2026.9-javadoc.jar",
+      "size": 16845422,
+      "url": "https://github.com/plantuml/plantuml/releases/download/v1.2026.9/plantuml-asl-1.2026.9-javadoc.jar"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

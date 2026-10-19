@@ -1,0 +1,41 @@
+{
+  "repo": "turanszkij/WickedEngine",
+  "slug": "turanszkij__WickedEngine",
+  "name": "WickedEngine",
+  "note_zh": "现代图形技术的 3D 引擎",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏引擎",
+  "subcategory_slug": "engine",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:11:17Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/turanszkij/WickedEngine/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.72.120",
+    "name": "0.72.120",
+    "published": "2026-10-02T10:02:39Z",
+    "url": "https://github.com/turanszkij/WickedEngine/releases/tag/v0.72.120"
+  },
+  "assets": [
+    {
+      "name": "Wicked.Engine.zip",
+      "size": 341386380,
+      "url": "https://github.com/turanszkij/WickedEngine/releases/download/v0.72.120/Wicked.Engine.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

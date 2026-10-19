@@ -1,0 +1,76 @@
+{
+  "repo": "git-bug/git-bug",
+  "slug": "git-bug__git-bug",
+  "name": "git-bug",
+  "note_zh": "集成在 Git 里的分布式离线缺陷跟踪",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:22:39Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "trunk",
+  "download_url": "https://codeload.github.com/git-bug/git-bug/zip/refs/heads/trunk",
+  "release": {
+    "tag": "v0.11.0",
+    "name": "0.11.0",
+    "published": "2026-09-22T15:14:19Z",
+    "url": "https://github.com/git-bug/git-bug/releases/tag/v0.11.0"
+  },
+  "assets": [
+    {
+      "name": "git-bug_0.11.0_windows_arm64.zip",
+      "size": 12015930,
+      "url": "https://github.com/git-bug/git-bug/releases/download/v0.11.0/git-bug_0.11.0_windows_arm64.zip"
+    },
+    {
+      "name": "git-bug_0.11.0_darwin_arm64.tar.gz",
+      "size": 12431300,
+      "url": "https://github.com/git-bug/git-bug/releases/download/v0.11.0/git-bug_0.11.0_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "git-bug_0.11.0_darwin_amd64.tar.gz",
+      "size": 13371165,
+      "url": "https://github.com/git-bug/git-bug/releases/download/v0.11.0/git-bug_0.11.0_darwin_amd64.tar.gz"
+    },
+    {
+      "name": "git-bug_0.11.0_windows_amd64.zip",
+      "size": 13415554,
+      "url": "https://github.com/git-bug/git-bug/releases/download/v0.11.0/git-bug_0.11.0_windows_amd64.zip"
+    },
+    {
+      "name": "git-bug_0.11.0_linux_arm64.pkg.tar.zst",
+      "size": 11772706,
+      "url": "https://github.com/git-bug/git-bug/releases/download/v0.11.0/git-bug_0.11.0_linux_arm64.pkg.tar.zst"
+    },
+    {
+      "name": "git-bug_0.11.0_linux_arm64.deb",
+      "size": 11993834,
+      "url": "https://github.com/git-bug/git-bug/releases/download/v0.11.0/git-bug_0.11.0_linux_arm64.deb"
+    },
+    {
+      "name": "git-bug_0.11.0_linux_arm64.apk",
+      "size": 12460809,
+      "url": "https://github.com/git-bug/git-bug/releases/download/v0.11.0/git-bug_0.11.0_linux_arm64.apk"
+    },
+    {
+      "name": "git-bug_0.11.0_linux_armv7.apk",
+      "size": 13023888,
+      "url": "https://github.com/git-bug/git-bug/releases/download/v0.11.0/git-bug_0.11.0_linux_armv7.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,68 @@
+{
+  "repo": "2dust/v2rayN",
+  "slug": "2dust__v2rayN",
+  "name": "v2rayN",
+  "note_zh": "Windows 端 Xray 与 sing-box 图形客户端",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    "Xray",
+    "sing-box"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-18T11:23:03Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/2dust/v2rayN/zip/refs/heads/master",
+  "release": {
+    "tag": "7.25.6",
+    "name": "7.25.6",
+    "published": "2026-10-11T05:59:58Z",
+    "url": "https://github.com/2dust/v2rayN/releases/tag/7.25.6"
+  },
+  "assets": [
+    {
+      "name": "v2rayN-windows-arm64-desktop.zip",
+      "size": 134940538,
+      "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-arm64-desktop.zip"
+    },
+    {
+      "name": "v2rayN-macos-arm64.dmg",
+      "size": 135534635,
+      "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-macos-arm64.dmg"
+    },
+    {
+      "name": "v2rayN-macos-arm64.zip",
+      "size": 137451000,
+      "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-macos-arm64.zip"
+    },
+    {
+      "name": "v2rayN-windows-86.zip",
+      "size": 141128830,
+      "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-86.zip"
+    },
+    {
+      "name": "v2rayN-linux-loong64.deb",
+      "size": 74266148,
+      "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-loong64.deb"
+    },
+    {
+      "name": "v2rayN-linux-arm64.deb",
+      "size": 78251484,
+      "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-arm64.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

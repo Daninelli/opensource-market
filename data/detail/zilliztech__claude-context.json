@@ -1,0 +1,30 @@
+{
+  "repo": "zilliztech/claude-context",
+  "slug": "zilliztech__claude-context",
+  "name": "claude-context",
+  "note_zh": "代码语义检索 MCP，把整个仓库变成上下文",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "依赖库 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-07-14T12:00:38Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/zilliztech/claude-context/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

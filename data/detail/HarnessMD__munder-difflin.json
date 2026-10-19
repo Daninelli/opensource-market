@@ -1,0 +1,61 @@
+{
+  "repo": "HarnessMD/munder-difflin",
+  "slug": "HarnessMD__munder-difflin",
+  "name": "munder-difflin",
+  "note_zh": "开源的 AI 助手与灵感工具替代方案",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:13:17Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/HarnessMD/munder-difflin/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.5.5",
+    "name": "v0.5.5",
+    "published": "2026-10-01T21:00:56Z",
+    "url": "https://github.com/HarnessMD/munder-difflin/releases/tag/v0.5.5"
+  },
+  "assets": [
+    {
+      "name": "Munder-Difflin-0.5.5-win-x64-portable.exe",
+      "size": 186323021,
+      "url": "https://github.com/HarnessMD/munder-difflin/releases/download/v0.5.5/Munder-Difflin-0.5.5-win-x64-portable.exe"
+    },
+    {
+      "name": "Munder-Difflin-0.5.5-win-x64-setup.exe",
+      "size": 186542061,
+      "url": "https://github.com/HarnessMD/munder-difflin/releases/download/v0.5.5/Munder-Difflin-0.5.5-win-x64-setup.exe"
+    },
+    {
+      "name": "Munder-Difflin-0.5.5-mac-universal.zip",
+      "size": 293460953,
+      "url": "https://github.com/HarnessMD/munder-difflin/releases/download/v0.5.5/Munder-Difflin-0.5.5-mac-universal.zip"
+    },
+    {
+      "name": "Munder-Difflin-0.5.5-mac-universal.dmg",
+      "size": 303403115,
+      "url": "https://github.com/HarnessMD/munder-difflin/releases/download/v0.5.5/Munder-Difflin-0.5.5-mac-universal.dmg"
+    },
+    {
+      "name": "Munder-Difflin-0.5.5-linux-x86_64.AppImage",
+      "size": 232943626,
+      "url": "https://github.com/HarnessMD/munder-difflin/releases/download/v0.5.5/Munder-Difflin-0.5.5-linux-x86_64.AppImage"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

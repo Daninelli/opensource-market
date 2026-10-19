@@ -1,0 +1,31 @@
+{
+  "repo": "OpenByteInc/QuantDinger",
+  "slug": "OpenByteInc__QuantDinger",
+  "name": "QuantDinger",
+  "note_zh": "开源 AI 交易操作系统，智能体量化",
+  "category": "金融",
+  "category_slug": "finance",
+  "subcategory": "投资管理",
+  "subcategory_slug": "investment",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:42:51Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/OpenByteInc/QuantDinger/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

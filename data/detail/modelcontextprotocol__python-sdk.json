@@ -1,0 +1,30 @@
+{
+  "repo": "modelcontextprotocol/python-sdk",
+  "slug": "modelcontextprotocol__python-sdk",
+  "name": "python-sdk",
+  "note_zh": "MCP 官方 Python SDK",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-17T13:54:39Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/modelcontextprotocol/python-sdk/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

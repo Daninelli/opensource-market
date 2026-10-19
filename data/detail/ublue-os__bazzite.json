@@ -1,0 +1,31 @@
+{
+  "repo": "ublue-os/bazzite",
+  "slug": "ublue-os__bazzite",
+  "name": "bazzite",
+  "note_zh": "为游戏与日常使用优化的 Linux 发行版",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "系统工具",
+  "subcategory_slug": "system",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Shell",
+    "Fedora"
+  ],
+  "deploy_type": "镜像 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:25:50Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/ublue-os/bazzite/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

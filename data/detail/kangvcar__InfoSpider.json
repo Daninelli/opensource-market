@@ -1,0 +1,30 @@
+{
+  "repo": "kangvcar/InfoSpider",
+  "slug": "kangvcar__InfoSpider",
+  "name": "InfoSpider",
+  "note_zh": "聚合多数据源的爬虫工具箱",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "源码 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-04-21T21:17:06Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/kangvcar/InfoSpider/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

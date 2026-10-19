@@ -1,0 +1,66 @@
+{
+  "repo": "lidge-jun/opencodex",
+  "slug": "lidge-jun__opencodex",
+  "name": "opencodex",
+  "note_zh": "Codex 与 Claude Code 的统一供应商代理",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "命令行 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:17:03Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/lidge-jun/opencodex/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.89.0",
+    "name": "v2.89.0",
+    "published": "2026-10-19T09:58:52Z",
+    "url": "https://github.com/lidge-jun/opencodex/releases/tag/v2.89.0"
+  },
+  "assets": [
+    {
+      "name": "ocx-2.89.0-bun-darwin-arm64.tar.gz",
+      "size": 31632613,
+      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.89.0/ocx-2.89.0-bun-darwin-arm64.tar.gz"
+    },
+    {
+      "name": "ocx-2.89.0-bun-darwin-x64.tar.gz",
+      "size": 34818434,
+      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.89.0/ocx-2.89.0-bun-darwin-x64.tar.gz"
+    },
+    {
+      "name": "ocx-2.89.0-bun-windows-x64.zip",
+      "size": 46502392,
+      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.89.0/ocx-2.89.0-bun-windows-x64.zip"
+    },
+    {
+      "name": "OpenCodex-2.89.0-windows-x64.msi",
+      "size": 51089408,
+      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.89.0/OpenCodex-2.89.0-windows-x64.msi"
+    },
+    {
+      "name": "ocx-2.89.0-bun-linux-arm64.tar.gz",
+      "size": 43856315,
+      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.89.0/ocx-2.89.0-bun-linux-arm64.tar.gz"
+    },
+    {
+      "name": "ocx-2.89.0-bun-linux-x64.tar.gz",
+      "size": 43959889,
+      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.89.0/ocx-2.89.0-bun-linux-x64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,31 @@
+{
+  "repo": "pymupdf/PyMuPDF",
+  "slug": "pymupdf__PyMuPDF",
+  "name": "PyMuPDF",
+  "note_zh": "高性能 Python PDF 数据抽取与渲染库",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "C"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T16:13:22Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/pymupdf/PyMuPDF/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

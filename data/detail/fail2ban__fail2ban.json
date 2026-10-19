@@ -1,0 +1,41 @@
+{
+  "repo": "fail2ban/fail2ban",
+  "slug": "fail2ban__fail2ban",
+  "name": "fail2ban",
+  "note_zh": "根据登录失败自动封禁 IP 的守护进程",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "二进制 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-10T23:27:09Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/fail2ban/fail2ban/zip/refs/heads/master",
+  "release": {
+    "tag": "1.1.1",
+    "name": "1.1.1 (2026/08/15) - triple-one-win",
+    "published": "2026-08-15T15:36:40Z",
+    "url": "https://github.com/fail2ban/fail2ban/releases/tag/1.1.1"
+  },
+  "assets": [
+    {
+      "name": "fail2ban_1.1.1-1.upstream2_all.deb",
+      "size": 328076,
+      "url": "https://github.com/fail2ban/fail2ban/releases/download/1.1.1/fail2ban_1.1.1-1.upstream2_all.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

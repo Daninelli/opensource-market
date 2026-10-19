@@ -1,0 +1,56 @@
+{
+  "repo": "subhra74/xdm",
+  "slug": "subhra74__xdm",
+  "name": "xdm",
+  "note_zh": "支持 HLS 与 DASH 的高速下载器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:48:01Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/subhra74/xdm/zip/refs/heads/master",
+  "release": {
+    "tag": "7.2.11",
+    "name": "7.2.11",
+    "published": "2020-05-21T20:21:24Z",
+    "url": "https://github.com/subhra74/xdm/releases/tag/7.2.11"
+  },
+  "assets": [
+    {
+      "name": "xdm-setup.msi",
+      "size": 56131411,
+      "url": "https://github.com/subhra74/xdm/releases/download/7.2.11/xdm-setup.msi"
+    },
+    {
+      "name": "xdmsetup.msi",
+      "size": 57081683,
+      "url": "https://github.com/subhra74/xdm/releases/download/7.2.11/xdmsetup.msi"
+    },
+    {
+      "name": "xdman.jar",
+      "size": 4589960,
+      "url": "https://github.com/subhra74/xdm/releases/download/7.2.11/xdman.jar"
+    },
+    {
+      "name": "xdm-setup-7.2.11.tar.xz",
+      "size": 55344488,
+      "url": "https://github.com/subhra74/xdm/releases/download/7.2.11/xdm-setup-7.2.11.tar.xz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

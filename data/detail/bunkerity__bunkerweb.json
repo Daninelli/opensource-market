@@ -1,0 +1,42 @@
+{
+  "repo": "bunkerity/bunkerweb",
+  "slug": "bunkerity__bunkerweb",
+  "name": "bunkerweb",
+  "note_zh": "云原生 Web 应用防火墙",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Go"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T07:11:16Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/bunkerity/bunkerweb/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.6.16",
+    "name": "v1.6.16",
+    "published": "2026-10-14T10:15:47Z",
+    "url": "https://github.com/bunkerity/bunkerweb/releases/tag/v1.6.16"
+  },
+  "assets": [
+    {
+      "name": "install-bunkerweb.sh",
+      "size": 429653,
+      "url": "https://github.com/bunkerity/bunkerweb/releases/download/v1.6.16/install-bunkerweb.sh"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

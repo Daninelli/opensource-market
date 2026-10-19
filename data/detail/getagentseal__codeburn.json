@@ -1,0 +1,41 @@
+{
+  "repo": "getagentseal/codeburn",
+  "slug": "getagentseal__codeburn",
+  "name": "codeburn",
+  "note_zh": "本地追踪 AI 编码的 Token 用量与成本",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "命令行 / 前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-17T15:32:55Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/getagentseal/codeburn/zip/refs/heads/main",
+  "release": {
+    "tag": "mac-v0.9.27",
+    "name": "Menubar v0.9.27",
+    "published": "2026-10-11T07:46:50Z",
+    "url": "https://github.com/getagentseal/codeburn/releases/tag/mac-v0.9.27"
+  },
+  "assets": [
+    {
+      "name": "CodeBurnMenubar-v0.9.27.zip",
+      "size": 8116838,
+      "url": "https://github.com/getagentseal/codeburn/releases/download/mac-v0.9.27/CodeBurnMenubar-v0.9.27.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

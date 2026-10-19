@@ -1,0 +1,47 @@
+{
+  "repo": "yizhiyanhua-ai/fireworks-tech-graph",
+  "slug": "yizhiyanhua-ai__fireworks-tech-graph",
+  "name": "fireworks-tech-graph",
+  "note_zh": "用自然语言生成专业级 SVG 技术图",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Markdown"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-09-05T14:55:00Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/yizhiyanhua-ai/fireworks-tech-graph/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.2.0",
+    "name": "Fireworks Tech Graph v1.2.0",
+    "published": "2026-07-17T03:53:02Z",
+    "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph/releases/tag/v1.2.0"
+  },
+  "assets": [
+    {
+      "name": "yizhiyanhua-ai-fireworks-tech-graph-1.2.0.tgz",
+      "size": 7176092,
+      "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph/releases/download/v1.2.0/yizhiyanhua-ai-fireworks-tech-graph-1.2.0.tgz"
+    },
+    {
+      "name": "fireworks-tech-graph-v1.2.0.zip",
+      "size": 7217666,
+      "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph/releases/download/v1.2.0/fireworks-tech-graph-v1.2.0.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

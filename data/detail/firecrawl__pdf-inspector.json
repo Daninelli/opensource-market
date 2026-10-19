@@ -1,0 +1,31 @@
+{
+  "repo": "firecrawl/pdf-inspector",
+  "slug": "firecrawl__pdf-inspector",
+  "name": "pdf-inspector",
+  "note_zh": "快速 PDF 检测分类与文本抽取库",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "Python"
+  ],
+  "deploy_type": "依赖库 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-07T16:37:47Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/firecrawl/pdf-inspector/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

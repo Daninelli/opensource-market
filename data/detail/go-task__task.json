@@ -1,0 +1,76 @@
+{
+  "repo": "go-task/task",
+  "slug": "go-task__task",
+  "name": "task",
+  "note_zh": "类 Make 的跨平台任务运行器，配置更直观",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T01:03:14Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/go-task/task/zip/refs/heads/main",
+  "release": {
+    "tag": "v3.54.0",
+    "name": "v3.54.0",
+    "published": "2026-10-01T20:36:48Z",
+    "url": "https://github.com/go-task/task/releases/tag/v3.54.0"
+  },
+  "assets": [
+    {
+      "name": "task_windows_arm64.zip",
+      "size": 15113687,
+      "url": "https://github.com/go-task/task/releases/download/v3.54.0/task_windows_arm64.zip"
+    },
+    {
+      "name": "task_darwin_arm64.tar.gz",
+      "size": 15770964,
+      "url": "https://github.com/go-task/task/releases/download/v3.54.0/task_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "task_windows_386.zip",
+      "size": 16287419,
+      "url": "https://github.com/go-task/task/releases/download/v3.54.0/task_windows_386.zip"
+    },
+    {
+      "name": "task_darwin_amd64.tar.gz",
+      "size": 17017543,
+      "url": "https://github.com/go-task/task/releases/download/v3.54.0/task_darwin_amd64.tar.gz"
+    },
+    {
+      "name": "task_3.54.0_linux_arm64.deb",
+      "size": 14934222,
+      "url": "https://github.com/go-task/task/releases/download/v3.54.0/task_3.54.0_linux_arm64.deb"
+    },
+    {
+      "name": "task_linux_arm64.tar.gz",
+      "size": 14937073,
+      "url": "https://github.com/go-task/task/releases/download/v3.54.0/task_linux_arm64.tar.gz"
+    },
+    {
+      "name": "task_3.54.0_linux_arm64.apk",
+      "size": 15585613,
+      "url": "https://github.com/go-task/task/releases/download/v3.54.0/task_3.54.0_linux_arm64.apk"
+    },
+    {
+      "name": "task_3.54.0_linux_386.apk",
+      "size": 16140624,
+      "url": "https://github.com/go-task/task/releases/download/v3.54.0/task_3.54.0_linux_386.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,57 @@
+{
+  "repo": "turbot/steampipe",
+  "slug": "turbot__steampipe",
+  "name": "steampipe",
+  "note_zh": "用 SQL 直接查询云 API 与代码",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "SQL"
+  ],
+  "deploy_type": "命令行 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-07T10:49:15Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/turbot/steampipe/zip/refs/heads/develop",
+  "release": {
+    "tag": "v2.4.7",
+    "name": "v2.4.7",
+    "published": "2026-09-16T10:41:32Z",
+    "url": "https://github.com/turbot/steampipe/releases/tag/v2.4.7"
+  },
+  "assets": [
+    {
+      "name": "steampipe_darwin_arm64.zip",
+      "size": 20657902,
+      "url": "https://github.com/turbot/steampipe/releases/download/v2.4.7/steampipe_darwin_arm64.zip"
+    },
+    {
+      "name": "steampipe_darwin_amd64.zip",
+      "size": 22303141,
+      "url": "https://github.com/turbot/steampipe/releases/download/v2.4.7/steampipe_darwin_amd64.zip"
+    },
+    {
+      "name": "steampipe_linux_arm64.rpm",
+      "size": 19566631,
+      "url": "https://github.com/turbot/steampipe/releases/download/v2.4.7/steampipe_linux_arm64.rpm"
+    },
+    {
+      "name": "steampipe_linux_arm64.tar.gz",
+      "size": 19568436,
+      "url": "https://github.com/turbot/steampipe/releases/download/v2.4.7/steampipe_linux_arm64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

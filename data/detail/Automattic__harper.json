@@ -1,0 +1,76 @@
+{
+  "repo": "Automattic/harper",
+  "slug": "Automattic__harper",
+  "name": "harper",
+  "note_zh": "离线隐私优先的语法检查器，速度极快",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "依赖库 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T05:56:19Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/Automattic/harper/zip/refs/heads/master",
+  "release": {
+    "tag": "v2.13.0",
+    "name": "v2.13.0",
+    "published": "2026-10-16T14:54:14Z",
+    "url": "https://github.com/Automattic/harper/releases/tag/v2.13.0"
+  },
+  "assets": [
+    {
+      "name": "harper-cli-x86_64-pc-windows-msvc.zip",
+      "size": 12413975,
+      "url": "https://github.com/Automattic/harper/releases/download/v2.13.0/harper-cli-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "harper-cli-aarch64-apple-darwin.tar.gz",
+      "size": 12707641,
+      "url": "https://github.com/Automattic/harper/releases/download/v2.13.0/harper-cli-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "harper-cli-x86_64-apple-darwin.tar.gz",
+      "size": 12781171,
+      "url": "https://github.com/Automattic/harper/releases/download/v2.13.0/harper-cli-x86_64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "harper-ls-x86_64-pc-windows-msvc.zip",
+      "size": 13540257,
+      "url": "https://github.com/Automattic/harper/releases/download/v2.13.0/harper-ls-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "harper-cli-aarch64-unknown-linux-gnu.tar.gz",
+      "size": 12918678,
+      "url": "https://github.com/Automattic/harper/releases/download/v2.13.0/harper-cli-aarch64-unknown-linux-gnu.tar.gz"
+    },
+    {
+      "name": "harper-cli-aarch64-unknown-linux-musl.tar.gz",
+      "size": 12927465,
+      "url": "https://github.com/Automattic/harper/releases/download/v2.13.0/harper-cli-aarch64-unknown-linux-musl.tar.gz"
+    },
+    {
+      "name": "harper-firefox-plugin.zip",
+      "size": 8470569,
+      "url": "https://github.com/Automattic/harper/releases/download/v2.13.0/harper-firefox-plugin.zip"
+    },
+    {
+      "name": "harper-chrome-plugin.zip",
+      "size": 8470587,
+      "url": "https://github.com/Automattic/harper/releases/download/v2.13.0/harper-chrome-plugin.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

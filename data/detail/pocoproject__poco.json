@@ -1,0 +1,56 @@
+{
+  "repo": "pocoproject/poco",
+  "slug": "pocoproject__poco",
+  "name": "poco",
+  "note_zh": "强大的跨平台 C++ 基础库",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C++"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T16:30:31Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/pocoproject/poco/zip/refs/heads/main",
+  "release": {
+    "tag": "poco-1.15.4-release",
+    "name": "Release 1.15.4",
+    "published": "2026-09-22T16:24:58Z",
+    "url": "https://github.com/pocoproject/poco/releases/tag/poco-1.15.4-release"
+  },
+  "assets": [
+    {
+      "name": "poco-1.15.4-all-doc.tar.gz",
+      "size": 1839784,
+      "url": "https://github.com/pocoproject/poco/releases/download/poco-1.15.4-release/poco-1.15.4-all-doc.tar.gz"
+    },
+    {
+      "name": "poco-1.15.4-all-doc.zip",
+      "size": 4128330,
+      "url": "https://github.com/pocoproject/poco/releases/download/poco-1.15.4-release/poco-1.15.4-all-doc.zip"
+    },
+    {
+      "name": "poco-1.15.4.tar.bz2",
+      "size": 6444474,
+      "url": "https://github.com/pocoproject/poco/releases/download/poco-1.15.4-release/poco-1.15.4.tar.bz2"
+    },
+    {
+      "name": "poco-1.15.4-all.tar.bz2",
+      "size": 7443239,
+      "url": "https://github.com/pocoproject/poco/releases/download/poco-1.15.4-release/poco-1.15.4-all.tar.bz2"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

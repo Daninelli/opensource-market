@@ -1,0 +1,66 @@
+{
+  "repo": "NanmiCoder/cc-haha",
+  "slug": "NanmiCoder__cc-haha",
+  "name": "cc-haha",
+  "note_zh": "本地优先的 Claude Code 桌面工作台",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:56:39Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/NanmiCoder/cc-haha/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.7.4",
+    "name": "Claude Code Haha v0.7.4",
+    "published": "2026-10-16T12:06:02Z",
+    "url": "https://github.com/NanmiCoder/cc-haha/releases/tag/v0.7.4"
+  },
+  "assets": [
+    {
+      "name": "Claude-Code-Haha-0.7.4-win-arm64.exe",
+      "size": 218264324,
+      "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.7.4/Claude-Code-Haha-0.7.4-win-arm64.exe"
+    },
+    {
+      "name": "Claude-Code-Haha-0.7.4-win-x64.exe",
+      "size": 220960812,
+      "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.7.4/Claude-Code-Haha-0.7.4-win-x64.exe"
+    },
+    {
+      "name": "Claude-Code-Haha-0.7.4-mac-arm64.zip",
+      "size": 241376374,
+      "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.7.4/Claude-Code-Haha-0.7.4-mac-arm64.zip"
+    },
+    {
+      "name": "Claude-Code-Haha-0.7.4-mac-x64.zip",
+      "size": 249070959,
+      "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.7.4/Claude-Code-Haha-0.7.4-mac-x64.zip"
+    },
+    {
+      "name": "Claude-Code-Haha-0.7.4-linux-aarch64.rpm",
+      "size": 191868249,
+      "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.7.4/Claude-Code-Haha-0.7.4-linux-aarch64.rpm"
+    },
+    {
+      "name": "Claude-Code-Haha-0.7.4-linux-x86_64.rpm",
+      "size": 200480305,
+      "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.7.4/Claude-Code-Haha-0.7.4-linux-x86_64.rpm"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

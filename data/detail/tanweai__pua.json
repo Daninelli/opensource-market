@@ -1,0 +1,41 @@
+{
+  "repo": "tanweai/pua",
+  "slug": "tanweai__pua",
+  "name": "pua",
+  "note_zh": "以 PUA 话术驱动 AI 更努力工作的提示词",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Markdown"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-09-09T10:28:14Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/tanweai/pua/zip/refs/heads/main",
+  "release": {
+    "tag": "v3.5.1",
+    "name": "PUA v3.5.1",
+    "published": "2026-09-09T10:28:32Z",
+    "url": "https://github.com/tanweai/pua/releases/tag/v3.5.1"
+  },
+  "assets": [
+    {
+      "name": "pua-claude-code.zip",
+      "size": 109878,
+      "url": "https://github.com/tanweai/pua/releases/download/v3.5.1/pua-claude-code.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

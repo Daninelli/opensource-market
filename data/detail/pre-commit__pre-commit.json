@@ -1,0 +1,41 @@
+{
+  "repo": "pre-commit/pre-commit",
+  "slug": "pre-commit__pre-commit",
+  "name": "pre-commit",
+  "note_zh": "多语言 pre-commit 钩子管理框架",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "命令行 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-13T16:03:45Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/pre-commit/pre-commit/zip/refs/heads/main",
+  "release": {
+    "tag": "v4.7.0",
+    "name": "pre-commit v4.7.0",
+    "published": "2026-10-13T15:35:39Z",
+    "url": "https://github.com/pre-commit/pre-commit/releases/tag/v4.7.0"
+  },
+  "assets": [
+    {
+      "name": "pre-commit-4.7.0.pyz",
+      "size": 7631227,
+      "url": "https://github.com/pre-commit/pre-commit/releases/download/v4.7.0/pre-commit-4.7.0.pyz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

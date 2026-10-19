@@ -1,0 +1,62 @@
+{
+  "repo": "lancedb/lancedb",
+  "slug": "lancedb__lancedb",
+  "name": "lancedb",
+  "note_zh": "开发者友好的嵌入式多模态检索库",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "Python"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T16:52:25Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/lancedb/lancedb/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.40.0",
+    "name": "LanceDB v0.40.0",
+    "published": "2026-10-07T09:17:29Z",
+    "url": "https://github.com/lancedb/lancedb/releases/tag/v0.40.0"
+  },
+  "assets": [
+    {
+      "name": "lancedb.darwin-arm64.node",
+      "size": 253736736,
+      "url": "https://github.com/lancedb/lancedb/releases/download/v0.40.0/lancedb.darwin-arm64.node"
+    },
+    {
+      "name": "lancedb.win32-arm64-msvc.node",
+      "size": 288546304,
+      "url": "https://github.com/lancedb/lancedb/releases/download/v0.40.0/lancedb.win32-arm64-msvc.node"
+    },
+    {
+      "name": "lancedb.win32-x64-msvc.node",
+      "size": 339899904,
+      "url": "https://github.com/lancedb/lancedb/releases/download/v0.40.0/lancedb.win32-x64-msvc.node"
+    },
+    {
+      "name": "lancedb.linux-x64-musl.node",
+      "size": 175984920,
+      "url": "https://github.com/lancedb/lancedb/releases/download/v0.40.0/lancedb.linux-x64-musl.node"
+    },
+    {
+      "name": "lancedb.linux-x64-gnu.node",
+      "size": 211639864,
+      "url": "https://github.com/lancedb/lancedb/releases/download/v0.40.0/lancedb.linux-x64-gnu.node"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,31 @@
+{
+  "repo": "keephq/keep",
+  "slug": "keephq__keep",
+  "name": "keep",
+  "note_zh": "开源 AIOps 告警管理与聚合平台",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-09-28T07:11:17Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/keephq/keep/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

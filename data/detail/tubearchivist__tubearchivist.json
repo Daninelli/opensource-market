@@ -1,0 +1,31 @@
+{
+  "repo": "tubearchivist/tubearchivist",
+  "slug": "tubearchivist__tubearchivist",
+  "name": "tubearchivist",
+  "note_zh": "自托管的 YouTube 媒体归档服务器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-16T07:41:19Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/tubearchivist/tubearchivist/zip/refs/heads/develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

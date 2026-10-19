@@ -1,0 +1,41 @@
+{
+  "repo": "libvips/libvips",
+  "slug": "libvips__libvips",
+  "name": "libvips",
+  "note_zh": "低内存占用的高速图像处理库",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "LGPL-2.1",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C"
+  ],
+  "deploy_type": "依赖库 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:55:25Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/libvips/libvips/zip/refs/heads/master",
+  "release": {
+    "tag": "v8.18.7",
+    "name": "v8.18.7",
+    "published": "2026-09-26T11:31:21Z",
+    "url": "https://github.com/libvips/libvips/releases/tag/v8.18.7"
+  },
+  "assets": [
+    {
+      "name": "vips-8.18.7.tar.xz",
+      "size": 25425084,
+      "url": "https://github.com/libvips/libvips/releases/download/v8.18.7/vips-8.18.7.tar.xz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

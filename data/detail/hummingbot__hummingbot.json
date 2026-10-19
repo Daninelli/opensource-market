@@ -1,0 +1,30 @@
+{
+  "repo": "hummingbot/hummingbot",
+  "slug": "hummingbot__hummingbot",
+  "name": "hummingbot",
+  "note_zh": "高频量化交易机器人框架",
+  "category": "金融",
+  "category_slug": "finance",
+  "subcategory": "投资管理",
+  "subcategory_slug": "investment",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-15T01:37:30Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/hummingbot/hummingbot/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

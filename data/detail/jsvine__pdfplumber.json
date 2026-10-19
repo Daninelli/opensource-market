@@ -1,0 +1,30 @@
+{
+  "repo": "jsvine/pdfplumber",
+  "slug": "jsvine__pdfplumber",
+  "name": "pdfplumber",
+  "note_zh": "细粒度解析 PDF 字符与表格数据",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-15T01:46:06Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "stable",
+  "download_url": "https://codeload.github.com/jsvine/pdfplumber/zip/refs/heads/stable",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

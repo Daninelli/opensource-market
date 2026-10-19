@@ -1,0 +1,66 @@
+{
+  "repo": "redpanda-data/redpanda",
+  "slug": "redpanda-data__redpanda",
+  "name": "redpanda",
+  "note_zh": "兼容 Kafka API 的高性能流数据平台",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C++"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-08T14:10:50Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/redpanda-data/redpanda/zip/refs/heads/dev",
+  "release": {
+    "tag": "v26.2.2",
+    "name": "v26.2.2",
+    "published": "2026-08-22T00:45:06Z",
+    "url": "https://github.com/redpanda-data/redpanda/releases/tag/v26.2.2"
+  },
+  "assets": [
+    {
+      "name": "rpk-windows-arm64.zip",
+      "size": 43137331,
+      "url": "https://github.com/redpanda-data/redpanda/releases/download/v26.2.2/rpk-windows-arm64.zip"
+    },
+    {
+      "name": "rpk-windows-amd64.zip",
+      "size": 47132708,
+      "url": "https://github.com/redpanda-data/redpanda/releases/download/v26.2.2/rpk-windows-amd64.zip"
+    },
+    {
+      "name": "rpk-darwin-arm64.zip",
+      "size": 47433853,
+      "url": "https://github.com/redpanda-data/redpanda/releases/download/v26.2.2/rpk-darwin-arm64.zip"
+    },
+    {
+      "name": "rpk-darwin-amd64.zip",
+      "size": 50944050,
+      "url": "https://github.com/redpanda-data/redpanda/releases/download/v26.2.2/rpk-darwin-amd64.zip"
+    },
+    {
+      "name": "rpk-linux-arm64.zip",
+      "size": 45525070,
+      "url": "https://github.com/redpanda-data/redpanda/releases/download/v26.2.2/rpk-linux-arm64.zip"
+    },
+    {
+      "name": "rpk-linux-amd64.zip",
+      "size": 49268302,
+      "url": "https://github.com/redpanda-data/redpanda/releases/download/v26.2.2/rpk-linux-amd64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

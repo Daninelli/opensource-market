@@ -1,0 +1,30 @@
+{
+  "repo": "Donchitos/Claude-Code-Game-Studios",
+  "slug": "Donchitos__Claude-Code-Game-Studios",
+  "name": "Claude-Code-Game-Studios",
+  "note_zh": "把 Claude Code 变成游戏开发工作室的技能集",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Markdown"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T02:43:42Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Donchitos/Claude-Code-Game-Studios/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

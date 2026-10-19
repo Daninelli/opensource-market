@@ -1,0 +1,57 @@
+{
+  "repo": "home-assistant/operating-system",
+  "slug": "home-assistant__operating-system",
+  "name": "operating-system",
+  "note_zh": "Home Assistant 官方操作系统镜像",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "智能家居",
+  "subcategory_slug": "smart-home",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Buildroot",
+    "Python"
+  ],
+  "deploy_type": "镜像 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T13:52:06Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/home-assistant/operating-system/zip/refs/heads/dev",
+  "release": {
+    "tag": "18.3",
+    "name": "Home Assistant OS 18.3",
+    "published": "2026-09-17T15:52:18Z",
+    "url": "https://github.com/home-assistant/operating-system/releases/tag/18.3"
+  },
+  "assets": [
+    {
+      "name": "haos_khadas-vim3-18.3.raucb",
+      "size": 162453918,
+      "url": "https://github.com/home-assistant/operating-system/releases/download/18.3/haos_khadas-vim3-18.3.raucb"
+    },
+    {
+      "name": "haos_odroid-c2-18.3.raucb",
+      "size": 162855325,
+      "url": "https://github.com/home-assistant/operating-system/releases/download/18.3/haos_odroid-c2-18.3.raucb"
+    },
+    {
+      "name": "haos_khadas-vim3-18.3.img.xz",
+      "size": 294648012,
+      "url": "https://github.com/home-assistant/operating-system/releases/download/18.3/haos_khadas-vim3-18.3.img.xz"
+    },
+    {
+      "name": "haos_odroid-c2-18.3.img.xz",
+      "size": 295225168,
+      "url": "https://github.com/home-assistant/operating-system/releases/download/18.3/haos_odroid-c2-18.3.img.xz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

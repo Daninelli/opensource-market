@@ -1,0 +1,77 @@
+{
+  "repo": "simplex-chat/simplex-chat",
+  "slug": "simplex-chat__simplex-chat",
+  "name": "simplex-chat",
+  "note_zh": "无用户标识的加密即时通讯网络",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "即时通讯",
+  "subcategory_slug": "im",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Haskell",
+    "Swift"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:51:44Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "stable",
+  "download_url": "https://codeload.github.com/simplex-chat/simplex-chat/zip/refs/heads/stable",
+  "release": {
+    "tag": "v7.0.3",
+    "name": "v7.0.3",
+    "published": "2026-09-26T14:30:13Z",
+    "url": "https://github.com/simplex-chat/simplex-chat/releases/tag/v7.0.3"
+  },
+  "assets": [
+    {
+      "name": "simplex-chat-macos-x86-64",
+      "size": 83053936,
+      "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.0.3/simplex-chat-macos-x86-64"
+    },
+    {
+      "name": "simplex-chat-windows-x86-64",
+      "size": 139945984,
+      "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.0.3/simplex-chat-windows-x86-64"
+    },
+    {
+      "name": "simplex-chat-macos-aarch64",
+      "size": 173252624,
+      "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.0.3/simplex-chat-macos-aarch64"
+    },
+    {
+      "name": "simplex-desktop-windows-x86_64.msi",
+      "size": 268184202,
+      "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.0.3/simplex-desktop-windows-x86_64.msi"
+    },
+    {
+      "name": "simplex-chat-ubuntu-24_04-x86_64.deb",
+      "size": 12755014,
+      "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.0.3/simplex-chat-ubuntu-24_04-x86_64.deb"
+    },
+    {
+      "name": "simplex-chat-ubuntu-22_04-x86_64.deb",
+      "size": 12823076,
+      "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.0.3/simplex-chat-ubuntu-22_04-x86_64.deb"
+    },
+    {
+      "name": "simplex-aarch64.apk",
+      "size": 87519748,
+      "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.0.3/simplex-aarch64.apk"
+    },
+    {
+      "name": "simplex.apk",
+      "size": 87519748,
+      "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.0.3/simplex.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

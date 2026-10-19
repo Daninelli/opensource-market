@@ -1,0 +1,66 @@
+{
+  "repo": "AlexsJones/llmfit",
+  "slug": "AlexsJones__llmfit",
+  "name": "llmfit",
+  "note_zh": "一条命令探测本机能跑哪些模型",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T06:17:43Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/AlexsJones/llmfit/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.1.17",
+    "name": "v1.1.17",
+    "published": "2026-10-08T18:04:05Z",
+    "url": "https://github.com/AlexsJones/llmfit/releases/tag/v1.1.17"
+  },
+  "assets": [
+    {
+      "name": "llmfit-v1.1.17-aarch64-pc-windows-msvc.zip",
+      "size": 5884558,
+      "url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.17/llmfit-v1.1.17-aarch64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "llmfit-v1.1.17-x86_64-pc-windows-msvc.zip",
+      "size": 6222681,
+      "url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.17/llmfit-v1.1.17-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "llmfit-v1.1.17-aarch64-apple-darwin.tar.gz",
+      "size": 6579395,
+      "url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.17/llmfit-v1.1.17-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "llmfit-v1.1.17-x86_64-apple-darwin.tar.gz",
+      "size": 6685409,
+      "url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.17/llmfit-v1.1.17-x86_64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "llmfit-v1.1.17-aarch64-unknown-linux-gnu.tar.gz",
+      "size": 7082255,
+      "url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.17/llmfit-v1.1.17-aarch64-unknown-linux-gnu.tar.gz"
+    },
+    {
+      "name": "llmfit-v1.1.17-riscv64gc-unknown-linux-gnu.tar.gz",
+      "size": 7144701,
+      "url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.17/llmfit-v1.1.17-riscv64gc-unknown-linux-gnu.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

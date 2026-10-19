@@ -1,0 +1,71 @@
+{
+  "repo": "rabbitmq/rabbitmq-server",
+  "slug": "rabbitmq__rabbitmq-server",
+  "name": "rabbitmq-server",
+  "note_zh": "开源消息队列服务，协议生态丰富",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Erlang"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:40:16Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/rabbitmq/rabbitmq-server/zip/refs/heads/main",
+  "release": {
+    "tag": "v4.4.0",
+    "name": "RabbitMQ 4.4.0",
+    "published": "2026-10-19T06:38:13Z",
+    "url": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.4.0"
+  },
+  "assets": [
+    {
+      "name": "rabbitmq-server-4.4.0.exe",
+      "size": 24457312,
+      "url": "https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.4.0/rabbitmq-server-4.4.0.exe"
+    },
+    {
+      "name": "rabbitmq-server-windows-4.4.0.zip",
+      "size": 71254469,
+      "url": "https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.4.0/rabbitmq-server-windows-4.4.0.zip"
+    },
+    {
+      "name": "rabbitmq-server-4.4.0-1.el8.src.rpm",
+      "size": 3703969,
+      "url": "https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.4.0/rabbitmq-server-4.4.0-1.el8.src.rpm"
+    },
+    {
+      "name": "rabbitmq-server_4.4.0-1_all.deb",
+      "size": 24346052,
+      "url": "https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.4.0/rabbitmq-server_4.4.0-1_all.deb"
+    },
+    {
+      "name": "rabbitmq-server-4.4.0.manifest",
+      "size": 237606,
+      "url": "https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.4.0/rabbitmq-server-4.4.0.manifest"
+    },
+    {
+      "name": "rabbitmq-server-4.4.0.tar.xz",
+      "size": 3665404,
+      "url": "https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.4.0/rabbitmq-server-4.4.0.tar.xz"
+    },
+    {
+      "name": "rabbitmq-server_4.4.0.orig.tar.xz",
+      "size": 3665404,
+      "url": "https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.4.0/rabbitmq-server_4.4.0.orig.tar.xz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

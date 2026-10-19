@@ -1,0 +1,30 @@
+{
+  "repo": "manticoresoftware/manticoresearch",
+  "slug": "manticoresoftware__manticoresearch",
+  "name": "manticoresearch",
+  "note_zh": "全文向量混合检索的搜索数据库",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:13:01Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/manticoresoftware/manticoresearch/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

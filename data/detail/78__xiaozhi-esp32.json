@@ -1,0 +1,47 @@
+{
+  "repo": "78/xiaozhi-esp32",
+  "slug": "78__xiaozhi-esp32",
+  "name": "xiaozhi-esp32",
+  "note_zh": "基于 MCP 的 ESP32 语音聊天机器人固件",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "物联网",
+  "subcategory_slug": "iot",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "ESP32"
+  ],
+  "deploy_type": "源码 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:25:05Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/78/xiaozhi-esp32/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.5.2",
+    "name": "v2.5.2",
+    "published": "2026-10-11T20:49:36Z",
+    "url": "https://github.com/78/xiaozhi-esp32/releases/tag/v2.5.2"
+  },
+  "assets": [
+    {
+      "name": "v2.5.2_xmini-c3-4g.zip",
+      "size": 1100898,
+      "url": "https://github.com/78/xiaozhi-esp32/releases/download/v2.5.2/v2.5.2_xmini-c3-4g.zip"
+    },
+    {
+      "name": "v2.5.2_m5stack-atommatrix-echo-base.zip",
+      "size": 1311013,
+      "url": "https://github.com/78/xiaozhi-esp32/releases/download/v2.5.2/v2.5.2_m5stack-atommatrix-echo-base.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

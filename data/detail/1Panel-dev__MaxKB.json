@@ -1,0 +1,31 @@
+{
+  "repo": "1Panel-dev/MaxKB",
+  "slug": "1Panel-dev__MaxKB",
+  "name": "MaxKB",
+  "note_zh": "企业级智能体与知识库问答平台",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "低代码平台",
+  "subcategory_slug": "low-code",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Vue"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:46:05Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "v2",
+  "download_url": "https://codeload.github.com/1Panel-dev/MaxKB/zip/refs/heads/v2",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

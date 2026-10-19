@@ -1,0 +1,30 @@
+{
+  "repo": "apache/seatunnel",
+  "slug": "apache__seatunnel",
+  "name": "seatunnel",
+  "note_zh": "高性能分布式海量数据集成平台",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:34:26Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/apache/seatunnel/zip/refs/heads/dev",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

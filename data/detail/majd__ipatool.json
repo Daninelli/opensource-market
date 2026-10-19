@@ -1,0 +1,71 @@
+{
+  "repo": "majd/ipatool",
+  "slug": "majd__ipatool",
+  "name": "ipatool",
+  "note_zh": "搜索并下载 iOS 应用安装包的命令行工具",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-18T16:22:17Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/majd/ipatool/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.7.0",
+    "name": "v2.7.0",
+    "published": "2026-10-09T21:39:19Z",
+    "url": "https://github.com/majd/ipatool/releases/tag/v2.7.0"
+  },
+  "assets": [
+    {
+      "name": "ipatool-2.7.0-windows-arm64.tar.gz",
+      "size": 18060386,
+      "url": "https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-windows-arm64.tar.gz"
+    },
+    {
+      "name": "ipatool-2.7.0-macos-arm64.tar.gz",
+      "size": 18443165,
+      "url": "https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-macos-arm64.tar.gz"
+    },
+    {
+      "name": "ipatool-2.7.0-windows-amd64.tar.gz",
+      "size": 19471690,
+      "url": "https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-windows-amd64.tar.gz"
+    },
+    {
+      "name": "ipatool-2.7.0-macos-amd64.tar.gz",
+      "size": 19651738,
+      "url": "https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-macos-amd64.tar.gz"
+    },
+    {
+      "name": "ipatool-2.7.0-linux-arm64.tar.gz",
+      "size": 16872470,
+      "url": "https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-linux-arm64.tar.gz"
+    },
+    {
+      "name": "ipatool-2.7.0-linux-amd64.tar.gz",
+      "size": 18199658,
+      "url": "https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-linux-amd64.tar.gz"
+    },
+    {
+      "name": "ipatool-2.7.0-ios-arm64.tar.gz",
+      "size": 11458330,
+      "url": "https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-ios-arm64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

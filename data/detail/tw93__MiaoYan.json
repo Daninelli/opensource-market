@@ -1,0 +1,47 @@
+{
+  "repo": "tw93/MiaoYan",
+  "slug": "tw93__MiaoYan",
+  "name": "MiaoYan",
+  "note_zh": "安静本地优先的 Mac Markdown 写作应用",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Swift",
+    "macOS"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:55:23Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/tw93/MiaoYan/zip/refs/heads/main",
+  "release": {
+    "tag": "V4.5.0",
+    "name": "V4.5.0 Nargacuga 🌙",
+    "published": "2026-09-25T03:41:05Z",
+    "url": "https://github.com/tw93/MiaoYan/releases/tag/V4.5.0"
+  },
+  "assets": [
+    {
+      "name": "MiaoYan.dmg",
+      "size": 10248599,
+      "url": "https://github.com/tw93/MiaoYan/releases/download/V4.5.0/MiaoYan.dmg"
+    },
+    {
+      "name": "MiaoYan_V4.5.0.zip",
+      "size": 10711467,
+      "url": "https://github.com/tw93/MiaoYan/releases/download/V4.5.0/MiaoYan_V4.5.0.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

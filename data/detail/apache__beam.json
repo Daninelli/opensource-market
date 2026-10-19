@@ -1,0 +1,67 @@
+{
+  "repo": "apache/beam",
+  "slug": "apache__beam",
+  "name": "beam",
+  "note_zh": "批流一体的统一编程模型",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "Python"
+  ],
+  "deploy_type": "依赖库 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:53:11Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/apache/beam/zip/refs/heads/master",
+  "release": {
+    "tag": "v2.77.0",
+    "name": "Beam 2.77.0 release",
+    "published": "2026-10-07T14:33:00Z",
+    "url": "https://github.com/apache/beam/releases/tag/v2.77.0"
+  },
+  "assets": [
+    {
+      "name": "apache_beam-v2.77.0-prism-windows-arm64.zip",
+      "size": 23543187,
+      "url": "https://github.com/apache/beam/releases/download/v2.77.0/apache_beam-v2.77.0-prism-windows-arm64.zip"
+    },
+    {
+      "name": "apache_beam-v2.77.0-prism-darwin-arm64.zip",
+      "size": 25364938,
+      "url": "https://github.com/apache/beam/releases/download/v2.77.0/apache_beam-v2.77.0-prism-darwin-arm64.zip"
+    },
+    {
+      "name": "apache_beam-v2.77.0-prism-windows-amd64.zip",
+      "size": 25660780,
+      "url": "https://github.com/apache/beam/releases/download/v2.77.0/apache_beam-v2.77.0-prism-windows-amd64.zip"
+    },
+    {
+      "name": "apache_beam-v2.77.0-prism-darwin-amd64.zip",
+      "size": 26717512,
+      "url": "https://github.com/apache/beam/releases/download/v2.77.0/apache_beam-v2.77.0-prism-darwin-amd64.zip"
+    },
+    {
+      "name": "apache_beam-v2.77.0-prism-linux-arm64.zip",
+      "size": 23394381,
+      "url": "https://github.com/apache/beam/releases/download/v2.77.0/apache_beam-v2.77.0-prism-linux-arm64.zip"
+    },
+    {
+      "name": "apache_beam-v2.77.0-prism-linux-amd64.zip",
+      "size": 25310961,
+      "url": "https://github.com/apache/beam/releases/download/v2.77.0/apache_beam-v2.77.0-prism-linux-amd64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

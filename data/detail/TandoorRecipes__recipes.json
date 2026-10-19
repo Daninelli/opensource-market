@@ -1,0 +1,31 @@
+{
+  "repo": "TandoorRecipes/recipes",
+  "slug": "TandoorRecipes__recipes",
+  "name": "recipes",
+  "note_zh": "菜谱管理、备餐计划与购物清单",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Django"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:07:00Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/TandoorRecipes/recipes/zip/refs/heads/develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

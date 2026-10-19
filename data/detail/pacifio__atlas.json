@@ -1,0 +1,66 @@
+{
+  "repo": "pacifio/atlas",
+  "slug": "pacifio__atlas",
+  "name": "atlas",
+  "note_zh": "面向智能体的源码管理，追踪多代理改动",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:07:21Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/pacifio/atlas/zip/refs/heads/main",
+  "release": {
+    "tag": "alpha-0.3.4",
+    "name": "Atlas Teams Early",
+    "published": "2026-09-27T11:35:12Z",
+    "url": "https://github.com/pacifio/atlas/releases/tag/alpha-0.3.4"
+  },
+  "assets": [
+    {
+      "name": "Atlas_0.3.4_aarch64.dmg",
+      "size": 84193480,
+      "url": "https://github.com/pacifio/atlas/releases/download/alpha-0.3.4/Atlas_0.3.4_aarch64.dmg"
+    },
+    {
+      "name": "Atlas_0.3.4_x64_en-US.msi",
+      "size": 85762048,
+      "url": "https://github.com/pacifio/atlas/releases/download/alpha-0.3.4/Atlas_0.3.4_x64_en-US.msi"
+    },
+    {
+      "name": "Atlas_0.3.4_x86_64.dmg",
+      "size": 93139521,
+      "url": "https://github.com/pacifio/atlas/releases/download/alpha-0.3.4/Atlas_0.3.4_x86_64.dmg"
+    },
+    {
+      "name": "tryatlas_0.3.3_amd64.deb",
+      "size": 60018456,
+      "url": "https://github.com/pacifio/atlas/releases/download/alpha-0.3.4/tryatlas_0.3.3_amd64.deb"
+    },
+    {
+      "name": "tryatlas-0.3.3-1.x86_64.rpm",
+      "size": 81861413,
+      "url": "https://github.com/pacifio/atlas/releases/download/alpha-0.3.4/tryatlas-0.3.3-1.x86_64.rpm"
+    },
+    {
+      "name": "tryatlas-bin-0.3.3-1-x86_64.pkg.tar.zst",
+      "size": 77839423,
+      "url": "https://github.com/pacifio/atlas/releases/download/alpha-0.3.4/tryatlas-bin-0.3.3-1-x86_64.pkg.tar.zst"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

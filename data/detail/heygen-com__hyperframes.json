@@ -20,16 +20,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/heygen-com/hyperframes/zip/refs/heads/main",
   "release": {
-    "tag": "v0.8.175",
-    "name": "v0.8.175",
-    "published": "2026-10-19T14:58:04Z",
-    "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.175"
+    "tag": "v0.8.176",
+    "name": "v0.8.176",
+    "published": "2026-10-19T16:35:51Z",
+    "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.176"
   },
   "assets": [
     {
       "name": "hyperframes-agent-plugin.zip",
       "size": 11933954,
-      "url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.175/hyperframes-agent-plugin.zip"
+      "url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.176/hyperframes-agent-plugin.zip"
     }
   ],
   "pinned": false,

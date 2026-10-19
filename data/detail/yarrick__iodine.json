@@ -1,0 +1,30 @@
+{
+  "repo": "yarrick/iodine",
+  "slug": "yarrick__iodine",
+  "name": "iodine",
+  "note_zh": "DNS 隧道工具，绕过网络限制",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "ISC",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-11T21:40:11Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/yarrick/iodine/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

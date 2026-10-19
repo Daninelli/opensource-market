@@ -1,0 +1,46 @@
+{
+  "repo": "VectifyAI/PageIndex",
+  "slug": "VectifyAI__PageIndex",
+  "name": "PageIndex",
+  "note_zh": "无需向量库的推理式文档检索索引",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:51:42Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/VectifyAI/PageIndex/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.4.4",
+    "name": "PageIndex 0.4.4 — cheaper than vector index; also runs on your Claude subscription",
+    "published": "2026-10-19T06:01:51Z",
+    "url": "https://github.com/VectifyAI/PageIndex/releases/tag/v0.4.4"
+  },
+  "assets": [
+    {
+      "name": "pageindex-0.4.4.tar.gz",
+      "size": 547080,
+      "url": "https://github.com/VectifyAI/PageIndex/releases/download/v0.4.4/pageindex-0.4.4.tar.gz"
+    },
+    {
+      "name": "pageindex-0.4.4-py3-none-any.whl",
+      "size": 608081,
+      "url": "https://github.com/VectifyAI/PageIndex/releases/download/v0.4.4/pageindex-0.4.4-py3-none-any.whl"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

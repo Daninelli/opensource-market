@@ -1,0 +1,62 @@
+{
+  "repo": "vnotex/vnote",
+  "slug": "vnotex__vnote",
+  "name": "vnote",
+  "note_zh": "原生速度的 Markdown 笔记平台",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "LGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Qt"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:29:31Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/vnotex/vnote/zip/refs/heads/master",
+  "release": {
+    "tag": "v4.10.0",
+    "name": "v4.10.0",
+    "published": "2026-10-16T14:25:50Z",
+    "url": "https://github.com/vnotex/vnote/releases/tag/v4.10.0"
+  },
+  "assets": [
+    {
+      "name": "VNote-4.10.0-win64.delta.zip",
+      "size": 16572047,
+      "url": "https://github.com/vnotex/vnote/releases/download/v4.10.0/VNote-4.10.0-win64.delta.zip"
+    },
+    {
+      "name": "VNote-4.10.0-win64-windows7.zip",
+      "size": 98719919,
+      "url": "https://github.com/vnotex/vnote/releases/download/v4.10.0/VNote-4.10.0-win64-windows7.zip"
+    },
+    {
+      "name": "VNote-4.10.0-mac-universal-macos12.dmg",
+      "size": 296918888,
+      "url": "https://github.com/vnotex/vnote/releases/download/v4.10.0/VNote-4.10.0-mac-universal-macos12.dmg"
+    },
+    {
+      "name": "VNote-4.10.0-mac-universal.dmg",
+      "size": 301702815,
+      "url": "https://github.com/vnotex/vnote/releases/download/v4.10.0/VNote-4.10.0-mac-universal.dmg"
+    },
+    {
+      "name": "VNote-4.10.0-linux-x64.AppImage",
+      "size": 187005432,
+      "url": "https://github.com/vnotex/vnote/releases/download/v4.10.0/VNote-4.10.0-linux-x64.AppImage"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

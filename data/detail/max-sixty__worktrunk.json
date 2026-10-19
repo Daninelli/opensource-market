@@ -1,0 +1,66 @@
+{
+  "repo": "max-sixty/worktrunk",
+  "slug": "max-sixty__worktrunk",
+  "name": "worktrunk",
+  "note_zh": "为并行开发设计的 Git worktree 管理",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:09:49Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/max-sixty/worktrunk/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.80.0",
+    "name": "0.80.0",
+    "published": "2026-09-27T21:18:46Z",
+    "url": "https://github.com/max-sixty/worktrunk/releases/tag/v0.80.0"
+  },
+  "assets": [
+    {
+      "name": "worktrunk-aarch64-apple-darwin.tar.xz",
+      "size": 6507724,
+      "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.80.0/worktrunk-aarch64-apple-darwin.tar.xz"
+    },
+    {
+      "name": "worktrunk-x86_64-apple-darwin.tar.xz",
+      "size": 7145184,
+      "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.80.0/worktrunk-x86_64-apple-darwin.tar.xz"
+    },
+    {
+      "name": "worktrunk-x86_64-pc-windows-msvc.zip",
+      "size": 17225737,
+      "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.80.0/worktrunk-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "worktrunk-aarch64-unknown-linux-musl.tar.xz",
+      "size": 7251752,
+      "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.80.0/worktrunk-aarch64-unknown-linux-musl.tar.xz"
+    },
+    {
+      "name": "worktrunk-x86_64-unknown-linux-musl.tar.xz",
+      "size": 8173256,
+      "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.80.0/worktrunk-x86_64-unknown-linux-musl.tar.xz"
+    },
+    {
+      "name": "source.tar.gz",
+      "size": 3869776,
+      "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.80.0/source.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

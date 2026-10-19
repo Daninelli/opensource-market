@@ -1,0 +1,62 @@
+{
+  "repo": "ahrm/sioyek",
+  "slug": "ahrm__sioyek",
+  "name": "sioyek",
+  "note_zh": "面向教材与论文的 PDF 阅读器",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "电子书与阅读",
+  "subcategory_slug": "ebook",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Qt"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-07T07:58:42Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "development",
+  "download_url": "https://codeload.github.com/ahrm/sioyek/zip/refs/heads/development",
+  "release": {
+    "tag": "v2.0.0",
+    "name": "Release v2.0.0",
+    "published": "2022-12-16T16:29:08Z",
+    "url": "https://github.com/ahrm/sioyek/releases/tag/v2.0.0"
+  },
+  "assets": [
+    {
+      "name": "sioyek-release-windows-portable.zip",
+      "size": 77225291,
+      "url": "https://github.com/ahrm/sioyek/releases/download/v2.0.0/sioyek-release-windows-portable.zip"
+    },
+    {
+      "name": "sioyek-release-windows.zip",
+      "size": 77225761,
+      "url": "https://github.com/ahrm/sioyek/releases/download/v2.0.0/sioyek-release-windows.zip"
+    },
+    {
+      "name": "sioyek-release-linux.zip",
+      "size": 57433790,
+      "url": "https://github.com/ahrm/sioyek/releases/download/v2.0.0/sioyek-release-linux.zip"
+    },
+    {
+      "name": "sioyek-release-linux-portable.zip",
+      "size": 57583838,
+      "url": "https://github.com/ahrm/sioyek/releases/download/v2.0.0/sioyek-release-linux-portable.zip"
+    },
+    {
+      "name": "sioyek-release-mac.zip",
+      "size": 42202030,
+      "url": "https://github.com/ahrm/sioyek/releases/download/v2.0.0/sioyek-release-mac.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

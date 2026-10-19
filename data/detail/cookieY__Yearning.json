@@ -1,0 +1,47 @@
+{
+  "repo": "cookieY/Yearning",
+  "slug": "cookieY__Yearning",
+  "name": "Yearning",
+  "note_zh": "MySQL SQL 审计平台",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Python"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-08-24T11:46:31Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "next",
+  "download_url": "https://codeload.github.com/cookieY/Yearning/zip/refs/heads/next",
+  "release": {
+    "tag": "v3.1.9.1",
+    "name": "v3.1.9.1",
+    "published": "2024-11-10T07:17:45Z",
+    "url": "https://github.com/cookieY/Yearning/releases/tag/v3.1.9.1"
+  },
+  "assets": [
+    {
+      "name": "Yearning-v3.1.9.1-linux-arm64.zip",
+      "size": 23472727,
+      "url": "https://github.com/cookieY/Yearning/releases/download/v3.1.9.1/Yearning-v3.1.9.1-linux-arm64.zip"
+    },
+    {
+      "name": "Yearning-v3.1.9.1-linux-amd64.zip",
+      "size": 25083951,
+      "url": "https://github.com/cookieY/Yearning/releases/download/v3.1.9.1/Yearning-v3.1.9.1-linux-amd64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,61 @@
+{
+  "repo": "pdm-project/pdm",
+  "slug": "pdm-project__pdm",
+  "name": "pdm",
+  "note_zh": "现代 Python 包与依赖管理器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "命令行 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T01:34:55Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/pdm-project/pdm/zip/refs/heads/main",
+  "release": {
+    "tag": "2.29.3",
+    "name": "v2.29.3",
+    "published": "2026-10-19T01:35:41Z",
+    "url": "https://github.com/pdm-project/pdm/releases/tag/2.29.3"
+  },
+  "assets": [
+    {
+      "name": "pdm-2.29.3-aarch64-apple-darwin.tar.gz",
+      "size": 16616724,
+      "url": "https://github.com/pdm-project/pdm/releases/download/2.29.3/pdm-2.29.3-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "pdm-2.29.3-x86_64-apple-darwin.tar.gz",
+      "size": 16892981,
+      "url": "https://github.com/pdm-project/pdm/releases/download/2.29.3/pdm-2.29.3-x86_64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "pdm-2.29.3-x86_64-pc-windows-msvc.tar.gz",
+      "size": 22013457,
+      "url": "https://github.com/pdm-project/pdm/releases/download/2.29.3/pdm-2.29.3-x86_64-pc-windows-msvc.tar.gz"
+    },
+    {
+      "name": "pdm-2.29.3-aarch64-unknown-linux-gnu.tar.gz",
+      "size": 18542130,
+      "url": "https://github.com/pdm-project/pdm/releases/download/2.29.3/pdm-2.29.3-aarch64-unknown-linux-gnu.tar.gz"
+    },
+    {
+      "name": "pdm-2.29.3-x86_64-unknown-linux-gnu.tar.gz",
+      "size": 22197776,
+      "url": "https://github.com/pdm-project/pdm/releases/download/2.29.3/pdm-2.29.3-x86_64-unknown-linux-gnu.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

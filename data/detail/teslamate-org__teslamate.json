@@ -1,0 +1,31 @@
+{
+  "repo": "teslamate-org/teslamate",
+  "slug": "teslamate-org__teslamate",
+  "name": "teslamate",
+  "note_zh": "特斯拉行车数据自托管记录与分析",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Elixir",
+    "Elixir"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:54:12Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/teslamate-org/teslamate/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

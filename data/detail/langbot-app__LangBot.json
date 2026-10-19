@@ -1,0 +1,51 @@
+{
+  "repo": "langbot-app/LangBot",
+  "slug": "langbot-app__LangBot",
+  "name": "LangBot",
+  "note_zh": "生产级 IM 智能体机器人平台",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "即时通讯",
+  "subcategory_slug": "im",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T16:08:16Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/langbot-app/LangBot/zip/refs/heads/master",
+  "release": {
+    "tag": "v4.11.0",
+    "name": "LangBot v4.11.0",
+    "published": "2026-10-14T07:57:40Z",
+    "url": "https://github.com/langbot-app/LangBot/releases/tag/v4.11.0"
+  },
+  "assets": [
+    {
+      "name": "runner-plugins-marketplace.png",
+      "size": 140348,
+      "url": "https://github.com/langbot-app/LangBot/releases/download/v4.11.0/runner-plugins-marketplace.png"
+    },
+    {
+      "name": "langbot-v4.11.0-all.zip",
+      "size": 21080065,
+      "url": "https://github.com/langbot-app/LangBot/releases/download/v4.11.0/langbot-v4.11.0-all.zip"
+    },
+    {
+      "name": "langbot-4.11.0-fnos.fpk",
+      "size": 48036732,
+      "url": "https://github.com/langbot-app/LangBot/releases/download/v4.11.0/langbot-4.11.0-fnos.fpk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

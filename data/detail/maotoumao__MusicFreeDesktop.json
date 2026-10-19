@@ -1,0 +1,62 @@
+{
+  "repo": "maotoumao/MusicFreeDesktop",
+  "slug": "maotoumao__MusicFreeDesktop",
+  "name": "MusicFreeDesktop",
+  "note_zh": "插件化无广告的免费音乐播放器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-09T07:46:08Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/maotoumao/MusicFreeDesktop/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.0.8",
+    "name": "v0.0.8",
+    "published": "2025-10-26T13:43:03Z",
+    "url": "https://github.com/maotoumao/MusicFreeDesktop/releases/tag/v0.0.8"
+  },
+  "assets": [
+    {
+      "name": "MusicFree-0.0.8-win32-x64-legacy-setup.exe",
+      "size": 88017475,
+      "url": "https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-win32-x64-legacy-setup.exe"
+    },
+    {
+      "name": "MusicFree-0.0.8-win32-x64-setup.exe",
+      "size": 89290769,
+      "url": "https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-win32-x64-setup.exe"
+    },
+    {
+      "name": "MusicFree-0.0.8-darwin-arm64.dmg",
+      "size": 101455189,
+      "url": "https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-darwin-arm64.dmg"
+    },
+    {
+      "name": "MusicFree-0.0.8-darwin-x64.dmg",
+      "size": 104839500,
+      "url": "https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-darwin-x64.dmg"
+    },
+    {
+      "name": "MusicFree-0.0.8-linux-amd64.deb",
+      "size": 82971220,
+      "url": "https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-linux-amd64.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

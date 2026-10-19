@@ -1,0 +1,76 @@
+{
+  "repo": "txthinking/brook",
+  "slug": "txthinking__brook",
+  "name": "brook",
+  "note_zh": "跨平台可编程网络代理工具",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-09-25T04:58:31Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/txthinking/brook/zip/refs/heads/master",
+  "release": {
+    "tag": "v20270101",
+    "name": "v20270101",
+    "published": "2026-09-14T04:56:56Z",
+    "url": "https://github.com/txthinking/brook/releases/tag/v20270101"
+  },
+  "assets": [
+    {
+      "name": "brook_windows_arm64.exe",
+      "size": 30010880,
+      "url": "https://github.com/txthinking/brook/releases/download/v20270101/brook_windows_arm64.exe"
+    },
+    {
+      "name": "ipio_darwin_arm64",
+      "size": 30333634,
+      "url": "https://github.com/txthinking/brook/releases/download/v20270101/ipio_darwin_arm64"
+    },
+    {
+      "name": "ipio_windows_arm64.exe",
+      "size": 30384640,
+      "url": "https://github.com/txthinking/brook/releases/download/v20270101/ipio_windows_arm64.exe"
+    },
+    {
+      "name": "brook_darwin_arm64",
+      "size": 30656610,
+      "url": "https://github.com/txthinking/brook/releases/download/v20270101/brook_darwin_arm64"
+    },
+    {
+      "name": "brook.openwrt_linux_arm64",
+      "size": 28770488,
+      "url": "https://github.com/txthinking/brook/releases/download/v20270101/brook.openwrt_linux_arm64"
+    },
+    {
+      "name": "ipio_linux_arm64",
+      "size": 29556920,
+      "url": "https://github.com/txthinking/brook/releases/download/v20270101/ipio_linux_arm64"
+    },
+    {
+      "name": "Brook.apk",
+      "size": 155767547,
+      "url": "https://github.com/txthinking/brook/releases/download/v20270101/Brook.apk"
+    },
+    {
+      "name": "Brook.msix",
+      "size": 28369046,
+      "url": "https://github.com/txthinking/brook/releases/download/v20270101/Brook.msix"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

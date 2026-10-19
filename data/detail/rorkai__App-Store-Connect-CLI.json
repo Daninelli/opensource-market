@@ -1,0 +1,62 @@
+{
+  "repo": "rorkai/App-Store-Connect-CLI",
+  "slug": "rorkai__App-Store-Connect-CLI",
+  "name": "App-Store-Connect-CLI",
+  "note_zh": "可脚本化的 App Store Connect 命令行",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Node.js"
+  ],
+  "deploy_type": "命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:55:43Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/rorkai/App-Store-Connect-CLI/zip/refs/heads/main",
+  "release": {
+    "tag": "5.15.0",
+    "name": "5.15.0",
+    "published": "2026-10-17T17:24:07Z",
+    "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/tag/5.15.0"
+  },
+  "assets": [
+    {
+      "name": "asc_5.15.0_macOS_arm64",
+      "size": 58002816,
+      "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/download/5.15.0/asc_5.15.0_macOS_arm64"
+    },
+    {
+      "name": "asc_5.15.0_windows_amd64.exe",
+      "size": 63700992,
+      "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/download/5.15.0/asc_5.15.0_windows_amd64.exe"
+    },
+    {
+      "name": "asc_5.15.0_macOS_amd64",
+      "size": 64580128,
+      "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/download/5.15.0/asc_5.15.0_macOS_amd64"
+    },
+    {
+      "name": "asc_5.15.0_linux_arm64",
+      "size": 56819872,
+      "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/download/5.15.0/asc_5.15.0_linux_arm64"
+    },
+    {
+      "name": "asc_5.15.0_linux_amd64",
+      "size": 62832800,
+      "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/download/5.15.0/asc_5.15.0_linux_amd64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

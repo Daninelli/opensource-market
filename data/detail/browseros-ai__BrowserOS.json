@@ -1,0 +1,67 @@
+{
+  "repo": "browseros-ai/BrowserOS",
+  "slug": "browseros-ai__BrowserOS",
+  "name": "BrowserOS",
+  "note_zh": "开源智能体浏览器，可自动执行网页任务",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Chromium"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:57:14Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/browseros-ai/BrowserOS/zip/refs/heads/main",
+  "release": {
+    "tag": "browserclaw/v0.51.1.2",
+    "name": "BrowserOS neo - v0.51.1.2",
+    "published": "2026-10-13T21:46:02Z",
+    "url": "https://github.com/browseros-ai/BrowserOS/releases/tag/browserclaw/v0.51.1.2"
+  },
+  "assets": [
+    {
+      "name": "BrowserOS_neo_v0.51.1.2_x64_installer.exe",
+      "size": 137344056,
+      "url": "https://github.com/browseros-ai/BrowserOS/releases/download/browserclaw/v0.51.1.2/BrowserOS_neo_v0.51.1.2_x64_installer.exe"
+    },
+    {
+      "name": "BrowserOS_neo_v0.51.1.2_arm64.dmg",
+      "size": 163779141,
+      "url": "https://github.com/browseros-ai/BrowserOS/releases/download/browserclaw/v0.51.1.2/BrowserOS_neo_v0.51.1.2_arm64.dmg"
+    },
+    {
+      "name": "BrowserOS_neo_v0.51.1.2_x64.dmg",
+      "size": 179177435,
+      "url": "https://github.com/browseros-ai/BrowserOS/releases/download/browserclaw/v0.51.1.2/BrowserOS_neo_v0.51.1.2_x64.dmg"
+    },
+    {
+      "name": "BrowserOS_neo_v0.51.1.2_amd64.deb",
+      "size": 182210166,
+      "url": "https://github.com/browseros-ai/BrowserOS/releases/download/browserclaw/v0.51.1.2/BrowserOS_neo_v0.51.1.2_amd64.deb"
+    },
+    {
+      "name": "BrowserOS_neo_v0.51.1.2_x64.AppImage",
+      "size": 218937848,
+      "url": "https://github.com/browseros-ai/BrowserOS/releases/download/browserclaw/v0.51.1.2/BrowserOS_neo_v0.51.1.2_x64.AppImage"
+    },
+    {
+      "name": "BrowserOS_neo_v0.51.1.2_x64_installer.zip",
+      "size": 137355879,
+      "url": "https://github.com/browseros-ai/BrowserOS/releases/download/browserclaw/v0.51.1.2/BrowserOS_neo_v0.51.1.2_x64_installer.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

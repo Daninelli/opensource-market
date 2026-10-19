@@ -1,0 +1,62 @@
+{
+  "repo": "kubernetes-sigs/kind",
+  "slug": "kubernetes-sigs__kind",
+  "name": "kind",
+  "note_zh": "用 Docker 起本地 Kubernetes 集群",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Docker"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-13T07:00:22Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/kubernetes-sigs/kind/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.33.0",
+    "name": "v0.33.0",
+    "published": "2026-08-26T21:58:46Z",
+    "url": "https://github.com/kubernetes-sigs/kind/releases/tag/v0.33.0"
+  },
+  "assets": [
+    {
+      "name": "kind-darwin-arm64",
+      "size": 9965026,
+      "url": "https://github.com/kubernetes-sigs/kind/releases/download/v0.33.0/kind-darwin-arm64"
+    },
+    {
+      "name": "kind-darwin-amd64",
+      "size": 10731920,
+      "url": "https://github.com/kubernetes-sigs/kind/releases/download/v0.33.0/kind-darwin-amd64"
+    },
+    {
+      "name": "kind-windows-amd64",
+      "size": 10844160,
+      "url": "https://github.com/kubernetes-sigs/kind/releases/download/v0.33.0/kind-windows-amd64"
+    },
+    {
+      "name": "kind-linux-arm64",
+      "size": 9764990,
+      "url": "https://github.com/kubernetes-sigs/kind/releases/download/v0.33.0/kind-linux-arm64"
+    },
+    {
+      "name": "kind-linux-amd64",
+      "size": 10530942,
+      "url": "https://github.com/kubernetes-sigs/kind/releases/download/v0.33.0/kind-linux-amd64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

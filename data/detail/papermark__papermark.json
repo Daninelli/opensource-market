@@ -1,0 +1,31 @@
+{
+  "repo": "papermark/papermark",
+  "slug": "papermark__papermark",
+  "name": "papermark",
+  "note_zh": "开源的 DocSend 替代，安全分享文档",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "办公套件",
+  "subcategory_slug": "office",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Next.js"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-08-28T15:58:25Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/papermark/papermark/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

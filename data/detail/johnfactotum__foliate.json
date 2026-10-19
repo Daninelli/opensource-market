@@ -1,0 +1,47 @@
+{
+  "repo": "johnfactotum/foliate",
+  "slug": "johnfactotum__foliate",
+  "name": "foliate",
+  "note_zh": "优雅的 Linux 电子书阅读器",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "电子书与阅读",
+  "subcategory_slug": "ebook",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "GTK"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-04-08T15:11:30Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "gtk4",
+  "download_url": "https://codeload.github.com/johnfactotum/foliate/zip/refs/heads/gtk4",
+  "release": {
+    "tag": "3.3.0",
+    "name": "3.3.0",
+    "published": "2025-04-01T07:09:41Z",
+    "url": "https://github.com/johnfactotum/foliate/releases/tag/3.3.0"
+  },
+  "assets": [
+    {
+      "name": "foliate_3.3.0_all.deb",
+      "size": 3392854,
+      "url": "https://github.com/johnfactotum/foliate/releases/download/3.3.0/foliate_3.3.0_all.deb"
+    },
+    {
+      "name": "com.github.johnfactotum.Foliate-3.3.0.tar.xz",
+      "size": 9638140,
+      "url": "https://github.com/johnfactotum/foliate/releases/download/3.3.0/com.github.johnfactotum.Foliate-3.3.0.tar.xz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

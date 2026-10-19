@@ -1,0 +1,36 @@
+{
+  "repo": "easzlab/kubeasz",
+  "slug": "easzlab__kubeasz",
+  "name": "kubeasz",
+  "note_zh": "用 Ansible 脚本部署 Kubernetes 集群",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Ansible",
+    "Shell"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-15T11:02:27Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/easzlab/kubeasz/zip/refs/heads/master",
+  "release": {
+    "tag": "3.7.0",
+    "name": "3.7.0",
+    "published": "2026-08-09T08:53:09Z",
+    "url": "https://github.com/easzlab/kubeasz/releases/tag/3.7.0"
+  },
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

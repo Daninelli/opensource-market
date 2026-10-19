@@ -1,0 +1,67 @@
+{
+  "repo": "desktop/desktop",
+  "slug": "desktop__desktop",
+  "name": "desktop",
+  "note_zh": "GitHub Desktop 图形客户端",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:28:21Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "development",
+  "download_url": "https://codeload.github.com/desktop/desktop/zip/refs/heads/development",
+  "release": {
+    "tag": "release-3.6.7",
+    "name": "GitHub Desktop 3.6.7",
+    "published": "2026-10-14T07:59:58Z",
+    "url": "https://github.com/desktop/desktop/releases/tag/release-3.6.7"
+  },
+  "assets": [
+    {
+      "name": "GitHubDesktopSetup-x64.msi",
+      "size": 237293568,
+      "url": "https://github.com/desktop/desktop/releases/download/release-3.6.7/GitHubDesktopSetup-x64.msi"
+    },
+    {
+      "name": "GitHubDesktopSetup-x64.exe",
+      "size": 237329344,
+      "url": "https://github.com/desktop/desktop/releases/download/release-3.6.7/GitHubDesktopSetup-x64.exe"
+    },
+    {
+      "name": "GitHubDesktop-3.6.7-x64-delta.nupkg",
+      "size": 39466178,
+      "url": "https://github.com/desktop/desktop/releases/download/release-3.6.7/GitHubDesktop-3.6.7-x64-delta.nupkg"
+    },
+    {
+      "name": "GitHubDesktop-3.6.7-x64-full.nupkg",
+      "size": 236870636,
+      "url": "https://github.com/desktop/desktop/releases/download/release-3.6.7/GitHubDesktop-3.6.7-x64-full.nupkg"
+    },
+    {
+      "name": "GitHub.Desktop-arm64.zip",
+      "size": 481763140,
+      "url": "https://github.com/desktop/desktop/releases/download/release-3.6.7/GitHub.Desktop-arm64.zip"
+    },
+    {
+      "name": "GitHub.Desktop-x64.zip",
+      "size": 524332240,
+      "url": "https://github.com/desktop/desktop/releases/download/release-3.6.7/GitHub.Desktop-x64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

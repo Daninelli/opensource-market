@@ -1,0 +1,31 @@
+{
+  "repo": "octobercms/october",
+  "slug": "octobercms__october",
+  "name": "october",
+  "note_zh": "基于 Laravel 的自托管 CMS 平台",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "Laravel"
+  ],
+  "deploy_type": "源码 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-16T22:26:52Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "4.x",
+  "download_url": "https://codeload.github.com/octobercms/october/zip/refs/heads/4.x",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

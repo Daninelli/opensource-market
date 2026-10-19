@@ -1,0 +1,67 @@
+{
+  "repo": "JetBrains/intellij-community",
+  "slug": "JetBrains__intellij-community",
+  "name": "intellij-community",
+  "note_zh": "IntelliJ IDEA 与平台开源代码",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "Kotlin"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:52:11Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/JetBrains/intellij-community/zip/refs/heads/master",
+  "release": {
+    "tag": "pycharm/2026.2.3",
+    "name": "pycharm/2026.2.3",
+    "published": "2026-09-18T15:43:23Z",
+    "url": "https://github.com/JetBrains/intellij-community/releases/tag/pycharm/2026.2.3"
+  },
+  "assets": [
+    {
+      "name": "pycharm-2026.2.3-aarch64.exe",
+      "size": 455582520,
+      "url": "https://github.com/JetBrains/intellij-community/releases/download/pycharm/2026.2.3/pycharm-2026.2.3-aarch64.exe"
+    },
+    {
+      "name": "pycharm-2026.2.3.exe",
+      "size": 488364872,
+      "url": "https://github.com/JetBrains/intellij-community/releases/download/pycharm/2026.2.3/pycharm-2026.2.3.exe"
+    },
+    {
+      "name": "pycharm-2026.2.3-aarch64.dmg",
+      "size": 610040432,
+      "url": "https://github.com/JetBrains/intellij-community/releases/download/pycharm/2026.2.3/pycharm-2026.2.3-aarch64.dmg"
+    },
+    {
+      "name": "pycharm-2026.2.3.dmg",
+      "size": 619684964,
+      "url": "https://github.com/JetBrains/intellij-community/releases/download/pycharm/2026.2.3/pycharm-2026.2.3.dmg"
+    },
+    {
+      "name": "pycharm-2026.2.3.tar.gz",
+      "size": 649968037,
+      "url": "https://github.com/JetBrains/intellij-community/releases/download/pycharm/2026.2.3/pycharm-2026.2.3.tar.gz"
+    },
+    {
+      "name": "pycharm-2026.2.3-aarch64.tar.gz",
+      "size": 675678822,
+      "url": "https://github.com/JetBrains/intellij-community/releases/download/pycharm/2026.2.3/pycharm-2026.2.3-aarch64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

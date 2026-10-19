@@ -1,0 +1,56 @@
+{
+  "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+  "slug": "wanshuiyin__Auto-claude-code-research-in-sleep",
+  "name": "Auto-claude-code-research-in-sleep",
+  "note_zh": "纯 Markdown 的自动科研技能集",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Markdown"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T06:20:47Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/wanshuiyin/Auto-claude-code-research-in-sleep/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.4.28",
+    "name": "v0.4.28",
+    "published": "2026-09-28T09:38:59Z",
+    "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/releases/tag/v0.4.28"
+  },
+  "assets": [
+    {
+      "name": "aris-code-windows-x64.zip",
+      "size": 5199522,
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/releases/download/v0.4.28/aris-code-windows-x64.zip"
+    },
+    {
+      "name": "aris-code-darwin-arm64.tar.gz",
+      "size": 5232383,
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/releases/download/v0.4.28/aris-code-darwin-arm64.tar.gz"
+    },
+    {
+      "name": "aris-code-darwin-x64.tar.gz",
+      "size": 5378294,
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/releases/download/v0.4.28/aris-code-darwin-x64.tar.gz"
+    },
+    {
+      "name": "aris-code-linux-x64.tar.gz",
+      "size": 5605607,
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/releases/download/v0.4.28/aris-code-linux-x64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

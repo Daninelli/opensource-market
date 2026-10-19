@@ -1,0 +1,61 @@
+{
+  "repo": "crmne/spotifast",
+  "slug": "crmne__spotifast",
+  "name": "spotifast",
+  "note_zh": "轻量原生的 Rust Spotify 客户端",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T13:21:16Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/crmne/spotifast/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.13.3",
+    "name": "Spotifast v0.13.3",
+    "published": "2026-10-15T20:34:39Z",
+    "url": "https://github.com/crmne/spotifast/releases/tag/v0.13.3"
+  },
+  "assets": [
+    {
+      "name": "spotifast-v0.13.3-aarch64-pc-windows-msvc-setup.exe",
+      "size": 11444583,
+      "url": "https://github.com/crmne/spotifast/releases/download/v0.13.3/spotifast-v0.13.3-aarch64-pc-windows-msvc-setup.exe"
+    },
+    {
+      "name": "spotifast-v0.13.3-aarch64-pc-windows-msvc.msi",
+      "size": 11960320,
+      "url": "https://github.com/crmne/spotifast/releases/download/v0.13.3/spotifast-v0.13.3-aarch64-pc-windows-msvc.msi"
+    },
+    {
+      "name": "spotifast-v0.13.3-macos-universal.dmg",
+      "size": 31737803,
+      "url": "https://github.com/crmne/spotifast/releases/download/v0.13.3/spotifast-v0.13.3-macos-universal.dmg"
+    },
+    {
+      "name": "spotifast-v0.13.3-x86_64.flatpak",
+      "size": 12443464,
+      "url": "https://github.com/crmne/spotifast/releases/download/v0.13.3/spotifast-v0.13.3-x86_64.flatpak"
+    },
+    {
+      "name": "spotifast-0.13.3-aarch64.AppImage",
+      "size": 17009160,
+      "url": "https://github.com/crmne/spotifast/releases/download/v0.13.3/spotifast-0.13.3-aarch64.AppImage"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

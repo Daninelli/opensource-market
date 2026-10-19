@@ -1,0 +1,47 @@
+{
+  "repo": "crosspoint-reader/crosspoint-reader",
+  "slug": "crosspoint-reader__crosspoint-reader",
+  "name": "crosspoint-reader",
+  "note_zh": "开源电子书阅读器固件",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "电子书与阅读",
+  "subcategory_slug": "ebook",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "ESP32"
+  ],
+  "deploy_type": "源码 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:26:46Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/crosspoint-reader/crosspoint-reader/zip/refs/heads/develop",
+  "release": {
+    "tag": "1.6.5",
+    "name": "1.6.5",
+    "published": "2026-09-27T09:22:02Z",
+    "url": "https://github.com/crosspoint-reader/crosspoint-reader/releases/tag/1.6.5"
+  },
+  "assets": [
+    {
+      "name": "crosspoint-1.6.5-sticky.bin",
+      "size": 5521184,
+      "url": "https://github.com/crosspoint-reader/crosspoint-reader/releases/download/1.6.5/crosspoint-1.6.5-sticky.bin"
+    },
+    {
+      "name": "firmware-sticky.bin",
+      "size": 5521184,
+      "url": "https://github.com/crosspoint-reader/crosspoint-reader/releases/download/1.6.5/firmware-sticky.bin"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

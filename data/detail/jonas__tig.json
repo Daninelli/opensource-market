@@ -1,0 +1,41 @@
+{
+  "repo": "jonas/tig",
+  "slug": "jonas__tig",
+  "name": "tig",
+  "note_zh": "文本模式 Git 仓库浏览器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "GPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-13T16:57:21Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/jonas/tig/zip/refs/heads/master",
+  "release": {
+    "tag": "tig-2.6.1",
+    "name": "tig-2.6.1",
+    "published": "2026-06-13T17:56:46Z",
+    "url": "https://github.com/jonas/tig/releases/tag/tig-2.6.1"
+  },
+  "assets": [
+    {
+      "name": "tig-2.6.1.tar.gz",
+      "size": 1200780,
+      "url": "https://github.com/jonas/tig/releases/download/tig-2.6.1/tig-2.6.1.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,71 @@
+{
+  "repo": "1jehuang/jcode",
+  "slug": "1jehuang__jcode",
+  "name": "jcode",
+  "note_zh": "Rust 写的高性能编码代理骨架",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:14:37Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/1jehuang/jcode/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.99.0",
+    "name": "v0.99.0",
+    "published": "2026-10-19T00:33:52Z",
+    "url": "https://github.com/1jehuang/jcode/releases/tag/v0.99.0"
+  },
+  "assets": [
+    {
+      "name": "jcode-windows-aarch64.tar.gz",
+      "size": 39520157,
+      "url": "https://github.com/1jehuang/jcode/releases/download/v0.99.0/jcode-windows-aarch64.tar.gz"
+    },
+    {
+      "name": "jcode-windows-x86_64.tar.gz",
+      "size": 45798386,
+      "url": "https://github.com/1jehuang/jcode/releases/download/v0.99.0/jcode-windows-x86_64.tar.gz"
+    },
+    {
+      "name": "jcode-macos-aarch64.tar.gz",
+      "size": 50285213,
+      "url": "https://github.com/1jehuang/jcode/releases/download/v0.99.0/jcode-macos-aarch64.tar.gz"
+    },
+    {
+      "name": "jcode-macos-x86_64.tar.gz",
+      "size": 54621287,
+      "url": "https://github.com/1jehuang/jcode/releases/download/v0.99.0/jcode-macos-x86_64.tar.gz"
+    },
+    {
+      "name": "jcode-linux-x86_64.tar.gz",
+      "size": 55581073,
+      "url": "https://github.com/1jehuang/jcode/releases/download/v0.99.0/jcode-linux-x86_64.tar.gz"
+    },
+    {
+      "name": "jcode-linux-aarch64.tar.gz",
+      "size": 55822436,
+      "url": "https://github.com/1jehuang/jcode/releases/download/v0.99.0/jcode-linux-aarch64.tar.gz"
+    },
+    {
+      "name": "jcode-freebsd-x86_64.tar.gz",
+      "size": 53155067,
+      "url": "https://github.com/1jehuang/jcode/releases/download/v0.99.0/jcode-freebsd-x86_64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

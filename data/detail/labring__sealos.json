@@ -1,0 +1,46 @@
+{
+  "repo": "labring/sealos",
+  "slug": "labring__sealos",
+  "name": "sealos",
+  "note_zh": "一键部署 GitHub 项目与 AI 应用的云操作系统",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T07:58:24Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/labring/sealos/zip/refs/heads/main",
+  "release": {
+    "tag": "v5.1.1",
+    "name": "v5.1.1",
+    "published": "2025-11-17T04:24:39Z",
+    "url": "https://github.com/labring/sealos/releases/tag/v5.1.1"
+  },
+  "assets": [
+    {
+      "name": "sealos_5.1.1_linux_arm64.deb",
+      "size": 24808876,
+      "url": "https://github.com/labring/sealos/releases/download/v5.1.1/sealos_5.1.1_linux_arm64.deb"
+    },
+    {
+      "name": "sealos_5.1.1_linux_arm64.rpm",
+      "size": 25717330,
+      "url": "https://github.com/labring/sealos/releases/download/v5.1.1/sealos_5.1.1_linux_arm64.rpm"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

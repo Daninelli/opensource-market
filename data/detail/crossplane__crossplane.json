@@ -1,0 +1,30 @@
+{
+  "repo": "crossplane/crossplane",
+  "slug": "crossplane__crossplane",
+  "name": "crossplane",
+  "note_zh": "用 Kubernetes 管理云资源的控制平面",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:38:05Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/crossplane/crossplane/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,66 @@
+{
+  "repo": "gruntwork-io/terragrunt",
+  "slug": "gruntwork-io__terragrunt",
+  "name": "terragrunt",
+  "note_zh": "Terraform 的编排与配置复用工具",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:39:36Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/gruntwork-io/terragrunt/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.1.6",
+    "name": "v1.1.6",
+    "published": "2026-09-21T13:27:08Z",
+    "url": "https://github.com/gruntwork-io/terragrunt/releases/tag/v1.1.6"
+  },
+  "assets": [
+    {
+      "name": "terragrunt_darwin_arm64.zip",
+      "size": 24621589,
+      "url": "https://github.com/gruntwork-io/terragrunt/releases/download/v1.1.6/terragrunt_darwin_arm64.zip"
+    },
+    {
+      "name": "terragrunt_darwin_arm64.tar.gz",
+      "size": 24621723,
+      "url": "https://github.com/gruntwork-io/terragrunt/releases/download/v1.1.6/terragrunt_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "terragrunt_windows_386.exe.tar.gz",
+      "size": 25914338,
+      "url": "https://github.com/gruntwork-io/terragrunt/releases/download/v1.1.6/terragrunt_windows_386.exe.tar.gz"
+    },
+    {
+      "name": "terragrunt_windows_386.exe.zip",
+      "size": 25915650,
+      "url": "https://github.com/gruntwork-io/terragrunt/releases/download/v1.1.6/terragrunt_windows_386.exe.zip"
+    },
+    {
+      "name": "terragrunt_linux_arm64.zip",
+      "size": 23726638,
+      "url": "https://github.com/gruntwork-io/terragrunt/releases/download/v1.1.6/terragrunt_linux_arm64.zip"
+    },
+    {
+      "name": "terragrunt_linux_arm64.tar.gz",
+      "size": 23727825,
+      "url": "https://github.com/gruntwork-io/terragrunt/releases/download/v1.1.6/terragrunt_linux_arm64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

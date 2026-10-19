@@ -1,0 +1,61 @@
+{
+  "repo": "smacke/ffsubsync",
+  "slug": "smacke__ffsubsync",
+  "name": "ffsubsync",
+  "note_zh": "自动把字幕与视频音轨对齐",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "命令行 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-07-24T04:53:31Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/smacke/ffsubsync/zip/refs/heads/master",
+  "release": {
+    "tag": "0.5.1",
+    "name": "0.5.1",
+    "published": "2026-07-24T04:55:22Z",
+    "url": "https://github.com/smacke/ffsubsync/releases/tag/0.5.1"
+  },
+  "assets": [
+    {
+      "name": "macos-arm64.tar.gz",
+      "size": 21952432,
+      "url": "https://github.com/smacke/ffsubsync/releases/download/0.5.1/macos-arm64.tar.gz"
+    },
+    {
+      "name": "macos-x86_64.tar.gz",
+      "size": 24217084,
+      "url": "https://github.com/smacke/ffsubsync/releases/download/0.5.1/macos-x86_64.tar.gz"
+    },
+    {
+      "name": "windows-x86_64.zip",
+      "size": 25308207,
+      "url": "https://github.com/smacke/ffsubsync/releases/download/0.5.1/windows-x86_64.zip"
+    },
+    {
+      "name": "linux-arm64.tar.gz",
+      "size": 44580590,
+      "url": "https://github.com/smacke/ffsubsync/releases/download/0.5.1/linux-arm64.tar.gz"
+    },
+    {
+      "name": "linux-x86_64.tar.gz",
+      "size": 46301976,
+      "url": "https://github.com/smacke/ffsubsync/releases/download/0.5.1/linux-x86_64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

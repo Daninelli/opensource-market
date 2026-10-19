@@ -1,0 +1,47 @@
+{
+  "repo": "Acode-Foundation/Acode",
+  "slug": "Acode-Foundation__Acode",
+  "name": "Acode",
+  "note_zh": "安卓与 iOS 上的强大代码编辑器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Cordova"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-19T07:34:05Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Acode-Foundation/Acode/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.13.5",
+    "name": "v1.13.5",
+    "published": "2026-09-13T00:16:49Z",
+    "url": "https://github.com/Acode-Foundation/Acode/releases/tag/v1.13.5"
+  },
+  "assets": [
+    {
+      "name": "app-fdroid.apk",
+      "size": 18650400,
+      "url": "https://github.com/Acode-Foundation/Acode/releases/download/v1.13.5/app-fdroid.apk"
+    },
+    {
+      "name": "app-normal.apk",
+      "size": 34993433,
+      "url": "https://github.com/Acode-Foundation/Acode/releases/download/v1.13.5/app-normal.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

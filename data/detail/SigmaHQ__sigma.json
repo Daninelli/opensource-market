@@ -1,0 +1,47 @@
+{
+  "repo": "SigmaHQ/sigma",
+  "slug": "SigmaHQ__sigma",
+  "name": "sigma",
+  "note_zh": "通用安全检测规则库，可转多种查询语言",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "YAML",
+    "Python"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:01:37Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/SigmaHQ/sigma/zip/refs/heads/master",
+  "release": {
+    "tag": "r2026-07-01",
+    "name": "Release r2026-07-01",
+    "published": "2026-07-09T14:51:34Z",
+    "url": "https://github.com/SigmaHQ/sigma/releases/tag/r2026-07-01"
+  },
+  "assets": [
+    {
+      "name": "sigma_emerging_threats_addon.zip",
+      "size": 444938,
+      "url": "https://github.com/SigmaHQ/sigma/releases/download/r2026-07-01/sigma_emerging_threats_addon.zip"
+    },
+    {
+      "name": "sigma_core.zip",
+      "size": 1399726,
+      "url": "https://github.com/SigmaHQ/sigma/releases/download/r2026-07-01/sigma_core.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

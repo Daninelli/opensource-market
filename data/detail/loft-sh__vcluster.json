@@ -1,0 +1,61 @@
+{
+  "repo": "loft-sh/vcluster",
+  "slug": "loft-sh__vcluster",
+  "name": "vcluster",
+  "note_zh": "在集群内创建隔离的虚拟 Kubernetes 环境",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:49:26Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/loft-sh/vcluster/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.37.3",
+    "name": "v0.37.3",
+    "published": "2026-10-05T18:50:10Z",
+    "url": "https://github.com/loft-sh/vcluster/releases/tag/v0.37.3"
+  },
+  "assets": [
+    {
+      "name": "vcluster-darwin-arm64",
+      "size": 97237474,
+      "url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.3/vcluster-darwin-arm64"
+    },
+    {
+      "name": "vcluster-darwin-amd64",
+      "size": 103668416,
+      "url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.3/vcluster-darwin-amd64"
+    },
+    {
+      "name": "vcluster-windows-amd64.exe",
+      "size": 103702016,
+      "url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.3/vcluster-windows-amd64.exe"
+    },
+    {
+      "name": "vcluster-linux-arm64",
+      "size": 94240930,
+      "url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.3/vcluster-linux-arm64"
+    },
+    {
+      "name": "vcluster-linux-amd64",
+      "size": 101388450,
+      "url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.3/vcluster-linux-amd64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

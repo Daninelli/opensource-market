@@ -1,0 +1,47 @@
+{
+  "repo": "rukamori/ArchiveTune",
+  "slug": "rukamori__ArchiveTune",
+  "name": "ArchiveTune",
+  "note_zh": "支持本地与 YouTube Music 的安卓播放器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Kotlin",
+    "Android"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-19T16:45:58Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/rukamori/ArchiveTune/zip/refs/heads/main",
+  "release": {
+    "tag": "v15.1.0",
+    "name": "15.1.0",
+    "published": "2026-09-26T18:26:54Z",
+    "url": "https://github.com/rukamori/ArchiveTune/releases/tag/v15.1.0"
+  },
+  "assets": [
+    {
+      "name": "app-gms-mobile-armeabi-release.apk",
+      "size": 36150393,
+      "url": "https://github.com/rukamori/ArchiveTune/releases/download/v15.1.0/app-gms-mobile-armeabi-release.apk"
+    },
+    {
+      "name": "app-gms-mobile-x86-release.apk",
+      "size": 36371553,
+      "url": "https://github.com/rukamori/ArchiveTune/releases/download/v15.1.0/app-gms-mobile-x86-release.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

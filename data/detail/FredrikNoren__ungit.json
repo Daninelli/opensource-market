@@ -1,0 +1,67 @@
+{
+  "repo": "FredrikNoren/ungit",
+  "slug": "FredrikNoren__ungit",
+  "name": "ungit",
+  "note_zh": "最易用的 Git 图形界面",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Node.js"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-09-03T00:11:38Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/FredrikNoren/ungit/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.5.30",
+    "name": "v1.5.30",
+    "published": "2026-03-03T08:06:24Z",
+    "url": "https://github.com/FredrikNoren/ungit/releases/tag/v1.5.30"
+  },
+  "assets": [
+    {
+      "name": "ungit-1.5.30-darwin-arm64.zip",
+      "size": 152683955,
+      "url": "https://github.com/FredrikNoren/ungit/releases/download/v1.5.30/ungit-1.5.30-darwin-arm64.zip"
+    },
+    {
+      "name": "ungit-1.5.30-darwin-x64.zip",
+      "size": 156966099,
+      "url": "https://github.com/FredrikNoren/ungit/releases/download/v1.5.30/ungit-1.5.30-darwin-x64.zip"
+    },
+    {
+      "name": "ungit-1.5.30-win32-ia32.zip",
+      "size": 157328407,
+      "url": "https://github.com/FredrikNoren/ungit/releases/download/v1.5.30/ungit-1.5.30-win32-ia32.zip"
+    },
+    {
+      "name": "ungit-1.5.30-win32-x64.zip",
+      "size": 179813928,
+      "url": "https://github.com/FredrikNoren/ungit/releases/download/v1.5.30/ungit-1.5.30-win32-x64.zip"
+    },
+    {
+      "name": "ungit-1.5.30-linux-armv7l.zip",
+      "size": 140373184,
+      "url": "https://github.com/FredrikNoren/ungit/releases/download/v1.5.30/ungit-1.5.30-linux-armv7l.zip"
+    },
+    {
+      "name": "ungit-1.5.30-linux-x64.zip",
+      "size": 153428488,
+      "url": "https://github.com/FredrikNoren/ungit/releases/download/v1.5.30/ungit-1.5.30-linux-x64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

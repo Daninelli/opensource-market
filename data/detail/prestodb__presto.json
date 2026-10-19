@@ -1,0 +1,46 @@
+{
+  "repo": "prestodb/presto",
+  "slug": "prestodb__presto",
+  "name": "presto",
+  "note_zh": "分布式 SQL 查询引擎，跨源联邦查询",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:51:38Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/prestodb/presto/zip/refs/heads/master",
+  "release": {
+    "tag": "0.299",
+    "name": "Presto 0.299",
+    "published": "2026-08-28T07:12:06Z",
+    "url": "https://github.com/prestodb/presto/releases/tag/0.299"
+  },
+  "assets": [
+    {
+      "name": "presto-cli-0.299-executable.jar",
+      "size": 31196540,
+      "url": "https://github.com/prestodb/presto/releases/download/0.299/presto-cli-0.299-executable.jar"
+    },
+    {
+      "name": "presto-benchmark-driver-0.299-executable.jar",
+      "size": 39121033,
+      "url": "https://github.com/prestodb/presto/releases/download/0.299/presto-benchmark-driver-0.299-executable.jar"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

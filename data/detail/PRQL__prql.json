@@ -1,0 +1,66 @@
+{
+  "repo": "PRQL/prql",
+  "slug": "PRQL__prql",
+  "name": "prql",
+  "note_zh": "面向数据转换的现代查询语言",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "数据分析",
+  "subcategory_slug": "bi",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "依赖库 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:26:09Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/PRQL/prql/zip/refs/heads/main",
+  "release": {
+    "tag": "0.13.14",
+    "name": "0.13.14",
+    "published": "2026-07-24T14:41:44Z",
+    "url": "https://github.com/PRQL/prql/releases/tag/0.13.14"
+  },
+  "assets": [
+    {
+      "name": "prqlc-0.13.14-x86_64-pc-windows-msvc.zip",
+      "size": 3998932,
+      "url": "https://github.com/PRQL/prql/releases/download/0.13.14/prqlc-0.13.14-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "prqlc-0.13.14-aarch64-apple-darwin.tar.gz",
+      "size": 4243417,
+      "url": "https://github.com/PRQL/prql/releases/download/0.13.14/prqlc-0.13.14-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "prqlc-0.13.14-x86_64-apple-darwin.tar.gz",
+      "size": 4479338,
+      "url": "https://github.com/PRQL/prql/releases/download/0.13.14/prqlc-0.13.14-x86_64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "prqlc_c-0.13.14-x86_64-pc-windows-msvc.zip",
+      "size": 9972747,
+      "url": "https://github.com/PRQL/prql/releases/download/0.13.14/prqlc_c-0.13.14-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "prqlc-0.13.14-1.el7.x86_64.rpm",
+      "size": 3505444,
+      "url": "https://github.com/PRQL/prql/releases/download/0.13.14/prqlc-0.13.14-1.el7.x86_64.rpm"
+    },
+    {
+      "name": "prqlc_0.13.14_arm64.deb",
+      "size": 4295184,
+      "url": "https://github.com/PRQL/prql/releases/download/0.13.14/prqlc_0.13.14_arm64.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

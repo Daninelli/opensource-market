@@ -1,0 +1,42 @@
+{
+  "repo": "pascalorg/editor",
+  "slug": "pascalorg__editor",
+  "name": "editor",
+  "note_zh": "开源 3D 建筑编辑器，含 CLI 与 MCP 工具",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Three.js"
+  ],
+  "deploy_type": "前端源码 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T13:12:47Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/pascalorg/editor/zip/refs/heads/main",
+  "release": {
+    "tag": "@pascal-app/cli@1.0.4",
+    "name": "@pascal-app/cli@1.0.4",
+    "published": "2026-10-13T12:11:49Z",
+    "url": "https://github.com/pascalorg/editor/releases/tag/%40pascal-app/cli%401.0.4"
+  },
+  "assets": [
+    {
+      "name": "pascal-web-runtime-1.0.4.tar.gz",
+      "size": 62574935,
+      "url": "https://github.com/pascalorg/editor/releases/download/%40pascal-app/cli%401.0.4/pascal-web-runtime-1.0.4.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

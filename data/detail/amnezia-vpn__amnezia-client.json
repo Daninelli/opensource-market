@@ -1,0 +1,62 @@
+{
+  "repo": "amnezia-vpn/amnezia-client",
+  "slug": "amnezia-vpn__amnezia-client",
+  "name": "amnezia-client",
+  "note_zh": "自建协议的抗审查 VPN 客户端",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Qt"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:55:13Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/amnezia-vpn/amnezia-client/zip/refs/heads/dev",
+  "release": {
+    "tag": "5.0.3.0",
+    "name": "5.0.3.0",
+    "published": "2026-09-18T05:59:39Z",
+    "url": "https://github.com/amnezia-vpn/amnezia-client/releases/tag/5.0.3.0"
+  },
+  "assets": [
+    {
+      "name": "AmneziaVPN_5.0.3.0_macos_x64.pkg",
+      "size": 111838127,
+      "url": "https://github.com/amnezia-vpn/amnezia-client/releases/download/5.0.3.0/AmneziaVPN_5.0.3.0_macos_x64.pkg"
+    },
+    {
+      "name": "AmneziaVPN_5.0.3.0_windows_x64.exe",
+      "size": 115035296,
+      "url": "https://github.com/amnezia-vpn/amnezia-client/releases/download/5.0.3.0/AmneziaVPN_5.0.3.0_windows_x64.exe"
+    },
+    {
+      "name": "AmneziaVPN_5.0.3.0_linux_x64.run",
+      "size": 96657023,
+      "url": "https://github.com/amnezia-vpn/amnezia-client/releases/download/5.0.3.0/AmneziaVPN_5.0.3.0_linux_x64.run"
+    },
+    {
+      "name": "AmneziaVPN_5.0.3.0_android9-10_armeabi-v7a.apk",
+      "size": 71257567,
+      "url": "https://github.com/amnezia-vpn/amnezia-client/releases/download/5.0.3.0/AmneziaVPN_5.0.3.0_android9-10_armeabi-v7a.apk"
+    },
+    {
+      "name": "AmneziaVPN_5.0.3.0_android11+_armeabi-v7a.apk",
+      "size": 71355657,
+      "url": "https://github.com/amnezia-vpn/amnezia-client/releases/download/5.0.3.0/AmneziaVPN_5.0.3.0_android11%2B_armeabi-v7a.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

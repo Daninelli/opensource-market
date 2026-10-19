@@ -1,0 +1,30 @@
+{
+  "repo": "nexu-io/html-anything",
+  "slug": "nexu-io__html-anything",
+  "name": "html-anything",
+  "note_zh": "智能体 HTML 编辑器，本地 AI 直接写页面",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "前端源码 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-13T02:33:42Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/nexu-io/html-anything/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

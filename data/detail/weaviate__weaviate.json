@@ -1,0 +1,51 @@
+{
+  "repo": "weaviate/weaviate",
+  "slug": "weaviate__weaviate",
+  "name": "weaviate",
+  "note_zh": "开源向量数据库，同时存对象与向量",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T13:41:06Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/weaviate/weaviate/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.40.1",
+    "name": "v1.40.1 - Schema drop and recreate class Fix, Reindex vector dimensions at startup performance improvement",
+    "published": "2026-10-13T06:35:30Z",
+    "url": "https://github.com/weaviate/weaviate/releases/tag/v1.40.1"
+  },
+  "assets": [
+    {
+      "name": "weaviate-v1.40.1-darwin-all.zip",
+      "size": 145880440,
+      "url": "https://github.com/weaviate/weaviate/releases/download/v1.40.1/weaviate-v1.40.1-darwin-all.zip"
+    },
+    {
+      "name": "weaviate-v1.40.1-linux-arm64.tar.gz",
+      "size": 70222874,
+      "url": "https://github.com/weaviate/weaviate/releases/download/v1.40.1/weaviate-v1.40.1-linux-arm64.tar.gz"
+    },
+    {
+      "name": "weaviate-v1.40.1-linux-amd64.tar.gz",
+      "size": 74030635,
+      "url": "https://github.com/weaviate/weaviate/releases/download/v1.40.1/weaviate-v1.40.1-linux-amd64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

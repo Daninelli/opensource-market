@@ -1,0 +1,46 @@
+{
+  "repo": "prometheus-operator/prometheus-operator",
+  "slug": "prometheus-operator__prometheus-operator",
+  "name": "prometheus-operator",
+  "note_zh": "在 Kubernetes 里管理 Prometheus 集群",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T13:19:49Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/prometheus-operator/prometheus-operator/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.94.1",
+    "name": "0.94.1 / 2026-09-23",
+    "published": "2026-09-23T13:14:37Z",
+    "url": "https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.94.1"
+  },
+  "assets": [
+    {
+      "name": "stripped-down-crds.yaml",
+      "size": 1551507,
+      "url": "https://github.com/prometheus-operator/prometheus-operator/releases/download/v0.94.1/stripped-down-crds.yaml"
+    },
+    {
+      "name": "bundle.yaml",
+      "size": 4635967,
+      "url": "https://github.com/prometheus-operator/prometheus-operator/releases/download/v0.94.1/bundle.yaml"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

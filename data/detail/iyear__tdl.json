@@ -1,0 +1,66 @@
+{
+  "repo": "iyear/tdl",
+  "slug": "iyear__tdl",
+  "name": "tdl",
+  "note_zh": "Go 写的 Telegram 工具箱",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-15T12:03:56Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/iyear/tdl/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.20.4",
+    "name": "v0.20.4",
+    "published": "2026-08-23T18:25:10Z",
+    "url": "https://github.com/iyear/tdl/releases/tag/v0.20.4"
+  },
+  "assets": [
+    {
+      "name": "tdl_Windows_arm64.zip",
+      "size": 13209199,
+      "url": "https://github.com/iyear/tdl/releases/download/v0.20.4/tdl_Windows_arm64.zip"
+    },
+    {
+      "name": "tdl_Windows_armv7.zip",
+      "size": 13657142,
+      "url": "https://github.com/iyear/tdl/releases/download/v0.20.4/tdl_Windows_armv7.zip"
+    },
+    {
+      "name": "tdl_MacOS_arm64.tar.gz",
+      "size": 13811206,
+      "url": "https://github.com/iyear/tdl/releases/download/v0.20.4/tdl_MacOS_arm64.tar.gz"
+    },
+    {
+      "name": "tdl_MacOS_64bit.tar.gz",
+      "size": 14541770,
+      "url": "https://github.com/iyear/tdl/releases/download/v0.20.4/tdl_MacOS_64bit.tar.gz"
+    },
+    {
+      "name": "tdl_Linux_arm64.tar.gz",
+      "size": 13089395,
+      "url": "https://github.com/iyear/tdl/releases/download/v0.20.4/tdl_Linux_arm64.tar.gz"
+    },
+    {
+      "name": "tdl_Linux_armv7.tar.gz",
+      "size": 13360276,
+      "url": "https://github.com/iyear/tdl/releases/download/v0.20.4/tdl_Linux_armv7.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,51 @@
+{
+  "repo": "nonebot/nonebot2",
+  "slug": "nonebot__nonebot2",
+  "name": "nonebot2",
+  "note_zh": "跨平台 Python 异步聊天机器人框架",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "即时通讯",
+  "subcategory_slug": "im",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T16:53:23Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/nonebot/nonebot2/zip/refs/heads/master",
+  "release": {
+    "tag": "v2.5.0",
+    "name": "Release v2.5.0 🌈🤪",
+    "published": "2026-04-01T03:33:45Z",
+    "url": "https://github.com/nonebot/nonebot2/releases/tag/v2.5.0"
+  },
+  "assets": [
+    {
+      "name": "nonebot2-2.5.0-py3-none-any.whl",
+      "size": 119117,
+      "url": "https://github.com/nonebot/nonebot2/releases/download/v2.5.0/nonebot2-2.5.0-py3-none-any.whl"
+    },
+    {
+      "name": "nonebot_plugin_docs-2.5.0.tar.gz",
+      "size": 10457224,
+      "url": "https://github.com/nonebot/nonebot2/releases/download/v2.5.0/nonebot_plugin_docs-2.5.0.tar.gz"
+    },
+    {
+      "name": "nonebot_plugin_docs-2.5.0-py3-none-any.whl",
+      "size": 11151877,
+      "url": "https://github.com/nonebot/nonebot2/releases/download/v2.5.0/nonebot_plugin_docs-2.5.0-py3-none-any.whl"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

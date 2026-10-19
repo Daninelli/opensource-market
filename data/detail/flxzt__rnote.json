@@ -1,0 +1,47 @@
+{
+  "repo": "flxzt/rnote",
+  "slug": "flxzt__rnote",
+  "name": "rnote",
+  "note_zh": "手写绘图与笔记应用",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "GTK"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-18T14:08:58Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/flxzt/rnote/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.14.2",
+    "name": "v0.14.2",
+    "published": "2026-05-01T11:07:16Z",
+    "url": "https://github.com/flxzt/rnote/releases/tag/v0.14.2"
+  },
+  "assets": [
+    {
+      "name": "rnote-win-installer-0.14.2-x86_64.exe",
+      "size": 75917508,
+      "url": "https://github.com/flxzt/rnote/releases/download/v0.14.2/rnote-win-installer-0.14.2-x86_64.exe"
+    },
+    {
+      "name": "rnote-0.14.2.tar.xz",
+      "size": 92025940,
+      "url": "https://github.com/flxzt/rnote/releases/download/v0.14.2/rnote-0.14.2.tar.xz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

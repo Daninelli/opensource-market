@@ -1,0 +1,76 @@
+{
+  "repo": "AlexxIT/go2rtc",
+  "slug": "AlexxIT__go2rtc",
+  "name": "go2rtc",
+  "note_zh": "万能摄像头流媒体转换与聚合",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "二进制 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T02:41:22Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/AlexxIT/go2rtc/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.9.14",
+    "name": "v1.9.14 - 2026-01-19",
+    "published": "2026-01-19T09:16:56Z",
+    "url": "https://github.com/AlexxIT/go2rtc/releases/tag/v1.9.14"
+  },
+  "assets": [
+    {
+      "name": "go2rtc_win_arm64.zip",
+      "size": 6542346,
+      "url": "https://github.com/AlexxIT/go2rtc/releases/download/v1.9.14/go2rtc_win_arm64.zip"
+    },
+    {
+      "name": "go2rtc_mac_arm64.zip",
+      "size": 6757845,
+      "url": "https://github.com/AlexxIT/go2rtc/releases/download/v1.9.14/go2rtc_mac_arm64.zip"
+    },
+    {
+      "name": "go2rtc_win32.zip",
+      "size": 7076325,
+      "url": "https://github.com/AlexxIT/go2rtc/releases/download/v1.9.14/go2rtc_win32.zip"
+    },
+    {
+      "name": "go2rtc_mac_amd64.zip",
+      "size": 7353383,
+      "url": "https://github.com/AlexxIT/go2rtc/releases/download/v1.9.14/go2rtc_mac_amd64.zip"
+    },
+    {
+      "name": "go2rtc_linux_mipsel",
+      "size": 4532292,
+      "url": "https://github.com/AlexxIT/go2rtc/releases/download/v1.9.14/go2rtc_linux_mipsel"
+    },
+    {
+      "name": "go2rtc_linux_arm",
+      "size": 4588084,
+      "url": "https://github.com/AlexxIT/go2rtc/releases/download/v1.9.14/go2rtc_linux_arm"
+    },
+    {
+      "name": "go2rtc_freebsd_arm64.zip",
+      "size": 6446331,
+      "url": "https://github.com/AlexxIT/go2rtc/releases/download/v1.9.14/go2rtc_freebsd_arm64.zip"
+    },
+    {
+      "name": "go2rtc_freebsd_amd64.zip",
+      "size": 7186447,
+      "url": "https://github.com/AlexxIT/go2rtc/releases/download/v1.9.14/go2rtc_freebsd_amd64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

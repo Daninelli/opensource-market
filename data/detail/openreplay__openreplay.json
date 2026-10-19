@@ -1,0 +1,42 @@
+{
+  "repo": "openreplay/openreplay",
+  "slug": "openreplay__openreplay",
+  "name": "openreplay",
+  "note_zh": "可自托管的会话回放与产品分析",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Python"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T16:19:44Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/openreplay/openreplay/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.28.0",
+    "name": "v1.28",
+    "published": "2026-09-25T13:44:04Z",
+    "url": "https://github.com/openreplay/openreplay/releases/tag/v1.28.0"
+  },
+  "assets": [
+    {
+      "name": "openreplay-mcp-desktop.mcpb",
+      "size": 61639494,
+      "url": "https://github.com/openreplay/openreplay/releases/download/v1.28.0/openreplay-mcp-desktop.mcpb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

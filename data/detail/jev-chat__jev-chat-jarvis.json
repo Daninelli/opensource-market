@@ -1,0 +1,42 @@
+{
+  "repo": "jev-chat/jev-chat-jarvis",
+  "slug": "jev-chat__jev-chat-jarvis",
+  "name": "jev-chat-jarvis",
+  "note_zh": "聊天决策助手，回复前判断意图与风险",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "LLM"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-16T09:46:28Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/jev-chat/jev-chat-jarvis/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.7",
+    "name": "v1.7 — 支持 WhatsApp，分析结果改为常驻卡片",
+    "published": "2026-10-05T16:12:03Z",
+    "url": "https://github.com/jev-chat/jev-chat-jarvis/releases/tag/v1.7"
+  },
+  "assets": [
+    {
+      "name": "jev-assistant-v1.7-release.apk",
+      "size": 25830985,
+      "url": "https://github.com/jev-chat/jev-chat-jarvis/releases/download/v1.7/jev-assistant-v1.7-release.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

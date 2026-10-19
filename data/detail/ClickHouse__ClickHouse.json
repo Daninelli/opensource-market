@@ -29,14 +29,34 @@
   },
   "assets": [
     {
+      "name": "clickhouse-macos-aarch64",
+      "size": 182755511,
+      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.9.22.3-stable/clickhouse-macos-aarch64"
+    },
+    {
+      "name": "clickhouse-macos",
+      "size": 192242832,
+      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.9.22.3-stable/clickhouse-macos"
+    },
+    {
       "name": "clickhouse-client_26.9.22.3_amd64.deb",
       "size": 428696,
       "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.9.22.3-stable/clickhouse-client_26.9.22.3_amd64.deb"
     },
     {
-      "name": "clickhouse-common-static_26.9.22.3_amd64.deb",
-      "size": 265700660,
-      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.9.22.3-stable/clickhouse-common-static_26.9.22.3_amd64.deb"
+      "name": "clickhouse-client_26.9.22.3_arm64.deb",
+      "size": 428696,
+      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.9.22.3-stable/clickhouse-client_26.9.22.3_arm64.deb"
+    },
+    {
+      "name": "clickhouse-client-26.9.22.3-amd64.tgz",
+      "size": 413884,
+      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.9.22.3-stable/clickhouse-client-26.9.22.3-amd64.tgz"
+    },
+    {
+      "name": "clickhouse-client-26.9.22.3-arm64.tgz",
+      "size": 413885,
+      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.9.22.3-stable/clickhouse-client-26.9.22.3-arm64.tgz"
     }
   ],
   "pinned": false,

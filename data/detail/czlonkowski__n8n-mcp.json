@@ -1,0 +1,35 @@
+{
+  "repo": "czlonkowski/n8n-mcp",
+  "slug": "czlonkowski__n8n-mcp",
+  "name": "n8n-mcp",
+  "note_zh": "让 AI 代理构建 n8n 工作流的 MCP 服务",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "依赖库 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:07:26Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/czlonkowski/n8n-mcp/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.94.3",
+    "name": "Release v2.94.3",
+    "published": "2026-10-19T06:18:26Z",
+    "url": "https://github.com/czlonkowski/n8n-mcp/releases/tag/v2.94.3"
+  },
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

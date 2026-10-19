@@ -1,0 +1,30 @@
+{
+  "repo": "Maciek-roboblog/Claude-Code-Usage-Monitor",
+  "slug": "Maciek-roboblog__Claude-Code-Usage-Monitor",
+  "name": "Claude-Code-Usage-Monitor",
+  "note_zh": "实时监控 Claude Code 用量并预警",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "命令行 / 前端源码",
+  "platform": "github",
+  "updated_at": "2026-07-05T04:52:21Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Maciek-roboblog/Claude-Code-Usage-Monitor/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,31 @@
+{
+  "repo": "MrXujiang/h5-Dooring",
+  "slug": "MrXujiang__h5-Dooring",
+  "name": "h5-Dooring",
+  "note_zh": "可视化 H5 页面搭建与低代码编辑器",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "低代码平台",
+  "subcategory_slug": "low-code",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React"
+  ],
+  "deploy_type": "前端源码 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-07-20T15:40:49Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/MrXujiang/h5-Dooring/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

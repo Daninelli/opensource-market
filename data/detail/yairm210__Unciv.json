@@ -1,0 +1,67 @@
+{
+  "repo": "yairm210/Unciv",
+  "slug": "yairm210__Unciv",
+  "name": "Unciv",
+  "note_zh": "开源的文明 5 安卓与桌面复刻版",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏客户端",
+  "subcategory_slug": "client",
+  "license": "MPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Kotlin",
+    "Android"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-19T13:59:12Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/yairm210/Unciv/zip/refs/heads/master",
+  "release": {
+    "tag": "4.22.12",
+    "name": "4.22.12",
+    "published": "2026-10-18T14:39:16Z",
+    "url": "https://github.com/yairm210/Unciv/releases/tag/4.22.12"
+  },
+  "assets": [
+    {
+      "name": "Unciv.msi",
+      "size": 90038491,
+      "url": "https://github.com/yairm210/Unciv/releases/download/4.22.12/Unciv.msi"
+    },
+    {
+      "name": "Unciv-Windows64.zip",
+      "size": 104808662,
+      "url": "https://github.com/yairm210/Unciv/releases/download/4.22.12/Unciv-Windows64.zip"
+    },
+    {
+      "name": "Unciv-Linux64.zip",
+      "size": 108683517,
+      "url": "https://github.com/yairm210/Unciv/releases/download/4.22.12/Unciv-Linux64.zip"
+    },
+    {
+      "name": "Unciv-signed.apk",
+      "size": 27539745,
+      "url": "https://github.com/yairm210/Unciv/releases/download/4.22.12/Unciv-signed.apk"
+    },
+    {
+      "name": "UncivServer.jar",
+      "size": 22840481,
+      "url": "https://github.com/yairm210/Unciv/releases/download/4.22.12/UncivServer.jar"
+    },
+    {
+      "name": "Unciv.jar",
+      "size": 57831917,
+      "url": "https://github.com/yairm210/Unciv/releases/download/4.22.12/Unciv.jar"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

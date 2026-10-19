@@ -1,0 +1,36 @@
+{
+  "repo": "opensandbox-group/OpenSandbox",
+  "slug": "opensandbox-group__OpenSandbox",
+  "name": "OpenSandbox",
+  "note_zh": "面向 AI 智能体的安全沙箱运行时",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Python"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T13:59:49Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/opensandbox-group/OpenSandbox/zip/refs/heads/main",
+  "release": {
+    "tag": "release-1.1.1",
+    "name": "OpenSandbox 1.1.1",
+    "published": "2026-10-09T15:09:23Z",
+    "url": "https://github.com/opensandbox-group/OpenSandbox/releases/tag/release-1.1.1"
+  },
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

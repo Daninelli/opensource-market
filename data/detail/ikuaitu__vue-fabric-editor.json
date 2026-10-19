@@ -1,0 +1,31 @@
+{
+  "repo": "ikuaitu/vue-fabric-editor",
+  "slug": "ikuaitu__vue-fabric-editor",
+  "name": "vue-fabric-editor",
+  "note_zh": "基于 fabric.js 与 Vue 的图片编辑器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Vue",
+    "TypeScript"
+  ],
+  "deploy_type": "前端源码",
+  "platform": "github",
+  "updated_at": "2026-07-21T09:03:00Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/ikuaitu/vue-fabric-editor/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

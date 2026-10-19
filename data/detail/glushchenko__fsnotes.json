@@ -1,0 +1,42 @@
+{
+  "repo": "glushchenko/fsnotes",
+  "slug": "glushchenko__fsnotes",
+  "name": "fsnotes",
+  "note_zh": "Mac 与 iPhone 上的快速 Markdown 笔记",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Swift",
+    "macOS"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-09T20:37:43Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/glushchenko/fsnotes/zip/refs/heads/master",
+  "release": {
+    "tag": "v7.3.6",
+    "name": "FSNotes 7.3.6",
+    "published": "2026-10-09T20:37:43Z",
+    "url": "https://github.com/glushchenko/fsnotes/releases/tag/v7.3.6"
+  },
+  "assets": [
+    {
+      "name": "FSNotes_v7.3.6.zip",
+      "size": 16860055,
+      "url": "https://github.com/glushchenko/fsnotes/releases/download/v7.3.6/FSNotes_v7.3.6.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

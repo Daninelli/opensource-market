@@ -1,0 +1,52 @@
+{
+  "repo": "snapcast/snapcast",
+  "slug": "snapcast__snapcast",
+  "name": "snapcast",
+  "note_zh": "多房间同步音频播放服务",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Python"
+  ],
+  "deploy_type": "二进制 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-06-27T10:02:18Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/snapcast/snapcast/zip/refs/heads/develop",
+  "release": {
+    "tag": "v0.35.0",
+    "name": "Snapcast v0.35.0",
+    "published": "2026-03-10T14:35:52Z",
+    "url": "https://github.com/snapcast/snapcast/releases/tag/v0.35.0"
+  },
+  "assets": [
+    {
+      "name": "snapclient_win64.zip",
+      "size": 29044200,
+      "url": "https://github.com/snapcast/snapcast/releases/download/v0.35.0/snapclient_win64.zip"
+    },
+    {
+      "name": "snapclient_0.35.0-1_armhf_bookworm.deb",
+      "size": 457152,
+      "url": "https://github.com/snapcast/snapcast/releases/download/v0.35.0/snapclient_0.35.0-1_armhf_bookworm.deb"
+    },
+    {
+      "name": "snapclient_0.35.0-1_armhf_bullseye.deb",
+      "size": 460220,
+      "url": "https://github.com/snapcast/snapcast/releases/download/v0.35.0/snapclient_0.35.0-1_armhf_bullseye.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

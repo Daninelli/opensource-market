@@ -1,0 +1,46 @@
+{
+  "repo": "YaoFANGUK/video-subtitle-extractor",
+  "slug": "YaoFANGUK__video-subtitle-extractor",
+  "name": "video-subtitle-extractor",
+  "note_zh": "本地提取视频硬字幕生成 srt",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-04-09T15:27:37Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/YaoFANGUK/video-subtitle-extractor/zip/refs/heads/main",
+  "release": {
+    "tag": "2.2.0",
+    "name": "硬字幕提取器 2.2.0",
+    "published": "2026-04-04T23:51:48Z",
+    "url": "https://github.com/YaoFANGUK/video-subtitle-extractor/releases/tag/2.2.0"
+  },
+  "assets": [
+    {
+      "name": "VSE_v2.2.0_windows_x64_cpu_Setup.exe",
+      "size": 812039209,
+      "url": "https://github.com/YaoFANGUK/video-subtitle-extractor/releases/download/2.2.0/VSE_v2.2.0_windows_x64_cpu_Setup.exe"
+    },
+    {
+      "name": "VSE_v2.2.0_macos_arm64_cpu.dmg",
+      "size": 852114841,
+      "url": "https://github.com/YaoFANGUK/video-subtitle-extractor/releases/download/2.2.0/VSE_v2.2.0_macos_arm64_cpu.dmg"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

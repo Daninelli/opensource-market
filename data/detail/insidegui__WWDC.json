@@ -1,0 +1,42 @@
+{
+  "repo": "insidegui/WWDC",
+  "slug": "insidegui__WWDC",
+  "name": "WWDC",
+  "note_zh": "WWDC 开发者大会视频的非官方客户端",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "BSD-2-Clause",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Swift",
+    "macOS"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-06-17T20:11:54Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/insidegui/WWDC/zip/refs/heads/master",
+  "release": {
+    "tag": "7.5",
+    "name": "Version 7.5",
+    "published": "2024-06-07T16:49:11Z",
+    "url": "https://github.com/insidegui/WWDC/releases/tag/7.5"
+  },
+  "assets": [
+    {
+      "name": "WWDC_v7.5-1044.dmg",
+      "size": 19325975,
+      "url": "https://github.com/insidegui/WWDC/releases/download/7.5/WWDC_v7.5-1044.dmg"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

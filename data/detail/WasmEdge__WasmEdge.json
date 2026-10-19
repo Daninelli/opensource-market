@@ -1,0 +1,77 @@
+{
+  "repo": "WasmEdge/WasmEdge",
+  "slug": "WasmEdge__WasmEdge",
+  "name": "WasmEdge",
+  "note_zh": "轻量高性能可扩展的 WebAssembly 运行时",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Rust"
+  ],
+  "deploy_type": "依赖库 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T16:44:17Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/WasmEdge/WasmEdge/zip/refs/heads/master",
+  "release": {
+    "tag": "0.18.0",
+    "name": "WasmEdge 0.18.0",
+    "published": "2026-10-05T06:15:58Z",
+    "url": "https://github.com/WasmEdge/WasmEdge/releases/tag/0.18.0"
+  },
+  "assets": [
+    {
+      "name": "WasmEdge-plugin-wasmedge_tensorflowlite-0.18.0-darwin_24-arm64.tar.gz",
+      "size": 105661,
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_tensorflowlite-0.18.0-darwin_24-arm64.tar.gz"
+    },
+    {
+      "name": "WasmEdge-plugin-wasmedge_opencvmini-0.18.0-darwin_24-arm64.tar.gz",
+      "size": 106949,
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_opencvmini-0.18.0-darwin_24-arm64.tar.gz"
+    },
+    {
+      "name": "WasmEdge-plugin-wasi_nn-ggml-noavx-0.18.0-windows_x86_64.zip",
+      "size": 3284858,
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-ggml-noavx-0.18.0-windows_x86_64.zip"
+    },
+    {
+      "name": "WasmEdge-plugin-wasi_nn-ggml-0.18.0-windows_x86_64.zip",
+      "size": 3358463,
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-ggml-0.18.0-windows_x86_64.zip"
+    },
+    {
+      "name": "WasmEdge-plugin-wasmedge_tensorflowlite-0.18.0-manylinux_2_28_aarch64.tar.gz",
+      "size": 132247,
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_tensorflowlite-0.18.0-manylinux_2_28_aarch64.tar.gz"
+    },
+    {
+      "name": "WasmEdge-plugin-wasmedge_tensorflowlite-0.18.0-manylinux_2_28_x86_64.tar.gz",
+      "size": 135871,
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_tensorflowlite-0.18.0-manylinux_2_28_x86_64.tar.gz"
+    },
+    {
+      "name": "WasmEdge-0.18.0-android_aarch64.tar.gz",
+      "size": 1243231,
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-0.18.0-android_aarch64.tar.gz"
+    },
+    {
+      "name": "WasmEdge-plugin-wasmedge_tensorflowlite-0.18.0-ubuntu20.04_x86_64.tar.gz",
+      "size": 126336,
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_tensorflowlite-0.18.0-ubuntu20.04_x86_64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

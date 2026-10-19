@@ -1,0 +1,42 @@
+{
+  "repo": "JerryZLiu/Dayflow",
+  "slug": "JerryZLiu__Dayflow",
+  "name": "Dayflow",
+  "note_zh": "自动记录工作时间的隐私优先时间轴",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Swift",
+    "macOS"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:06:24Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/JerryZLiu/Dayflow/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.7.2",
+    "name": "Dayflow 2.7.2",
+    "published": "2026-10-19T08:06:17Z",
+    "url": "https://github.com/JerryZLiu/Dayflow/releases/tag/v2.7.2"
+  },
+  "assets": [
+    {
+      "name": "Dayflow.dmg",
+      "size": 101870638,
+      "url": "https://github.com/JerryZLiu/Dayflow/releases/download/v2.7.2/Dayflow.dmg"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

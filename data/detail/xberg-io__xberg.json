@@ -1,0 +1,77 @@
+{
+  "repo": "xberg-io/xberg",
+  "slug": "xberg-io__xberg",
+  "name": "xberg",
+  "note_zh": "多语言文档智能抽取，Rust 内核",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "Python"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:53:16Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/xberg-io/xberg/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.3.10",
+    "name": "v1.3.10",
+    "published": "2026-10-13T19:39:44Z",
+    "url": "https://github.com/xberg-io/xberg/releases/tag/v1.3.10"
+  },
+  "assets": [
+    {
+      "name": "libxberg_nif-v1.3.10-nif-2.16-x86_64-pc-windows-msvc.dll.tar.gz",
+      "size": 49102853,
+      "url": "https://github.com/xberg-io/xberg/releases/download/v1.3.10/libxberg_nif-v1.3.10-nif-2.16-x86_64-pc-windows-msvc.dll.tar.gz"
+    },
+    {
+      "name": "xberg-cli-x86_64-pc-windows-msvc.zip",
+      "size": 50542957,
+      "url": "https://github.com/xberg-io/xberg/releases/download/v1.3.10/xberg-cli-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "xberg-cli-aarch64-apple-darwin.tar.gz",
+      "size": 51375308,
+      "url": "https://github.com/xberg-io/xberg/releases/download/v1.3.10/xberg-cli-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "libxberg_nif-v1.3.10-nif-2.16-aarch64-apple-darwin.so.tar.gz",
+      "size": 51796241,
+      "url": "https://github.com/xberg-io/xberg/releases/download/v1.3.10/libxberg_nif-v1.3.10-nif-2.16-aarch64-apple-darwin.so.tar.gz"
+    },
+    {
+      "name": "xberg-cli-binstall-aarch64-unknown-linux-musl.tar.gz",
+      "size": 31210390,
+      "url": "https://github.com/xberg-io/xberg/releases/download/v1.3.10/xberg-cli-binstall-aarch64-unknown-linux-musl.tar.gz"
+    },
+    {
+      "name": "xberg-cli-binstall-x86_64-unknown-linux-musl.tar.gz",
+      "size": 35517126,
+      "url": "https://github.com/xberg-io/xberg/releases/download/v1.3.10/xberg-cli-binstall-x86_64-unknown-linux-musl.tar.gz"
+    },
+    {
+      "name": "xberg-1.3.10.arm64_tahoe.bottle.tar.gz",
+      "size": 45040047,
+      "url": "https://github.com/xberg-io/xberg/releases/download/v1.3.10/xberg-1.3.10.arm64_tahoe.bottle.tar.gz"
+    },
+    {
+      "name": "xberg-1.3.10.tar.gz",
+      "size": 45238160,
+      "url": "https://github.com/xberg-io/xberg/releases/download/v1.3.10/xberg-1.3.10.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

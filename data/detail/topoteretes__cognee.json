@@ -1,0 +1,46 @@
+{
+  "repo": "topoteretes/cognee",
+  "slug": "topoteretes__cognee",
+  "name": "cognee",
+  "note_zh": "面向智能体的开源记忆平台",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:05:43Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/topoteretes/cognee/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.6.5",
+    "name": "v1.6.5 — Faster trace processing & richer code-graph docs",
+    "published": "2026-10-16T20:10:50Z",
+    "url": "https://github.com/topoteretes/cognee/releases/tag/v1.6.5"
+  },
+  "assets": [
+    {
+      "name": "cognee-1.6.5-py3-none-any.whl",
+      "size": 22235030,
+      "url": "https://github.com/topoteretes/cognee/releases/download/v1.6.5/cognee-1.6.5-py3-none-any.whl"
+    },
+    {
+      "name": "cognee-1.6.5.tar.gz",
+      "size": 40864032,
+      "url": "https://github.com/topoteretes/cognee/releases/download/v1.6.5/cognee-1.6.5.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

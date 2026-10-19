@@ -1,0 +1,30 @@
+{
+  "repo": "vimwiki/vimwiki",
+  "slug": "vimwiki__vimwiki",
+  "name": "vimwiki",
+  "note_zh": "Vim 里的个人 Wiki 系统",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Vim Script"
+  ],
+  "deploy_type": "编辑器扩展",
+  "platform": "github",
+  "updated_at": "2026-04-30T18:15:10Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/vimwiki/vimwiki/zip/refs/heads/dev",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

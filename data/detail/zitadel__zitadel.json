@@ -1,0 +1,72 @@
+{
+  "repo": "zitadel/zitadel",
+  "slug": "zitadel__zitadel",
+  "name": "zitadel",
+  "note_zh": "简化部署的身份认证与授权基础设施",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:57:05Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/zitadel/zitadel/zip/refs/heads/main",
+  "release": {
+    "tag": "v4.19.5",
+    "name": "v4.19.5",
+    "published": "2026-10-15T09:40:41Z",
+    "url": "https://github.com/zitadel/zitadel/releases/tag/v4.19.5"
+  },
+  "assets": [
+    {
+      "name": "zitadel-windows-arm64.tar.gz",
+      "size": 48538481,
+      "url": "https://github.com/zitadel/zitadel/releases/download/v4.19.5/zitadel-windows-arm64.tar.gz"
+    },
+    {
+      "name": "zitadel-darwin-arm64.tar.gz",
+      "size": 50647797,
+      "url": "https://github.com/zitadel/zitadel/releases/download/v4.19.5/zitadel-darwin-arm64.tar.gz"
+    },
+    {
+      "name": "zitadel-windows-amd64.tar.gz",
+      "size": 53023775,
+      "url": "https://github.com/zitadel/zitadel/releases/download/v4.19.5/zitadel-windows-amd64.tar.gz"
+    },
+    {
+      "name": "zitadel-darwin-amd64.tar.gz",
+      "size": 53073444,
+      "url": "https://github.com/zitadel/zitadel/releases/download/v4.19.5/zitadel-darwin-amd64.tar.gz"
+    },
+    {
+      "name": "zitadel-linux-arm64.tar.gz",
+      "size": 48376006,
+      "url": "https://github.com/zitadel/zitadel/releases/download/v4.19.5/zitadel-linux-arm64.tar.gz"
+    },
+    {
+      "name": "zitadel-linux-amd64.tar.gz",
+      "size": 52158554,
+      "url": "https://github.com/zitadel/zitadel/releases/download/v4.19.5/zitadel-linux-amd64.tar.gz"
+    },
+    {
+      "name": "zitadel-login.tar.gz",
+      "size": 16391733,
+      "url": "https://github.com/zitadel/zitadel/releases/download/v4.19.5/zitadel-login.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

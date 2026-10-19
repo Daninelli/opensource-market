@@ -1,0 +1,76 @@
+{
+  "repo": "codenotary/immudb",
+  "slug": "codenotary__immudb",
+  "name": "immudb",
+  "note_zh": "基于零信任的不可变数据库",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-05T16:39:39Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/codenotary/immudb/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.11.2",
+    "name": "immudb version 1.11.2",
+    "published": "2026-09-03T07:54:36Z",
+    "url": "https://github.com/codenotary/immudb/releases/tag/v1.11.2"
+  },
+  "assets": [
+    {
+      "name": "immuadmin-v1.11.2-darwin-arm64",
+      "size": 26572914,
+      "url": "https://github.com/codenotary/immudb/releases/download/v1.11.2/immuadmin-v1.11.2-darwin-arm64"
+    },
+    {
+      "name": "immuclient-v1.11.2-darwin-arm64",
+      "size": 27059426,
+      "url": "https://github.com/codenotary/immudb/releases/download/v1.11.2/immuclient-v1.11.2-darwin-arm64"
+    },
+    {
+      "name": "immuadmin-v1.11.2-windows-amd64.exe",
+      "size": 28248064,
+      "url": "https://github.com/codenotary/immudb/releases/download/v1.11.2/immuadmin-v1.11.2-windows-amd64.exe"
+    },
+    {
+      "name": "immuclient-v1.11.2-windows-amd64.exe",
+      "size": 28702208,
+      "url": "https://github.com/codenotary/immudb/releases/download/v1.11.2/immuclient-v1.11.2-windows-amd64.exe"
+    },
+    {
+      "name": "immuadmin-v1.11.2-linux-arm64",
+      "size": 25755808,
+      "url": "https://github.com/codenotary/immudb/releases/download/v1.11.2/immuadmin-v1.11.2-linux-arm64"
+    },
+    {
+      "name": "immuclient-v1.11.2-linux-arm64",
+      "size": 26149024,
+      "url": "https://github.com/codenotary/immudb/releases/download/v1.11.2/immuclient-v1.11.2-linux-arm64"
+    },
+    {
+      "name": "immuadmin-v1.11.2-freebsd-amd64",
+      "size": 27357354,
+      "url": "https://github.com/codenotary/immudb/releases/download/v1.11.2/immuadmin-v1.11.2-freebsd-amd64"
+    },
+    {
+      "name": "immuclient-v1.11.2-freebsd-amd64",
+      "size": 27852970,
+      "url": "https://github.com/codenotary/immudb/releases/download/v1.11.2/immuclient-v1.11.2-freebsd-amd64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

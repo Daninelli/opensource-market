@@ -1,0 +1,67 @@
+{
+  "repo": "grafana/pyroscope",
+  "slug": "grafana__pyroscope",
+  "name": "pyroscope",
+  "note_zh": "持续性能剖析平台，定位性能瓶颈",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:07:34Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/grafana/pyroscope/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.4.0",
+    "name": "v2.4.0",
+    "published": "2026-10-09T19:46:50Z",
+    "url": "https://github.com/grafana/pyroscope/releases/tag/v2.4.0"
+  },
+  "assets": [
+    {
+      "name": "profilecli_2.4.0_windows_arm64.zip",
+      "size": 24593859,
+      "url": "https://github.com/grafana/pyroscope/releases/download/v2.4.0/profilecli_2.4.0_windows_arm64.zip"
+    },
+    {
+      "name": "profilecli_2.4.0_darwin_arm64.tar.gz",
+      "size": 25684715,
+      "url": "https://github.com/grafana/pyroscope/releases/download/v2.4.0/profilecli_2.4.0_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "profilecli_2.4.0_darwin_amd64.tar.gz",
+      "size": 27636940,
+      "url": "https://github.com/grafana/pyroscope/releases/download/v2.4.0/profilecli_2.4.0_darwin_amd64.tar.gz"
+    },
+    {
+      "name": "profilecli_2.4.0_windows_amd64.zip",
+      "size": 27679276,
+      "url": "https://github.com/grafana/pyroscope/releases/download/v2.4.0/profilecli_2.4.0_windows_amd64.zip"
+    },
+    {
+      "name": "profilecli_2.4.0_linux_arm64.tar.gz",
+      "size": 24444516,
+      "url": "https://github.com/grafana/pyroscope/releases/download/v2.4.0/profilecli_2.4.0_linux_arm64.tar.gz"
+    },
+    {
+      "name": "profilecli_2.4.0_linux_amd64.tar.gz",
+      "size": 27051855,
+      "url": "https://github.com/grafana/pyroscope/releases/download/v2.4.0/profilecli_2.4.0_linux_amd64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

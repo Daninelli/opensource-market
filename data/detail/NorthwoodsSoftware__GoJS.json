@@ -1,0 +1,30 @@
+{
+  "repo": "NorthwoodsSoftware/GoJS",
+  "slug": "NorthwoodsSoftware__GoJS",
+  "name": "GoJS",
+  "note_zh": "交互式流程图与图表 JavaScript 库",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-02T17:39:38Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/NorthwoodsSoftware/GoJS/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

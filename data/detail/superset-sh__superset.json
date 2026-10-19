@@ -1,0 +1,66 @@
+{
+  "repo": "superset-sh/superset",
+  "slug": "superset-sh__superset",
+  "name": "superset",
+  "note_zh": "并行编排上百个编码代理的智能体 IDE",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:45:21Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/superset-sh/superset/zip/refs/heads/main",
+  "release": {
+    "tag": "desktop-v1.39.0",
+    "name": "Superset Desktop desktop-v1.39.0",
+    "published": "2026-10-19T15:45:39Z",
+    "url": "https://github.com/superset-sh/superset/releases/tag/desktop-v1.39.0"
+  },
+  "assets": [
+    {
+      "name": "Superset-1.39.0-arm64.dmg",
+      "size": 431273432,
+      "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.39.0/Superset-1.39.0-arm64.dmg"
+    },
+    {
+      "name": "Superset-arm64.dmg",
+      "size": 431273432,
+      "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.39.0/Superset-arm64.dmg"
+    },
+    {
+      "name": "superset-1.39.0-amd64.deb",
+      "size": 457823142,
+      "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.39.0/superset-1.39.0-amd64.deb"
+    },
+    {
+      "name": "superset-1.39.0-x86_64.AppImage",
+      "size": 465233497,
+      "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.39.0/superset-1.39.0-x86_64.AppImage"
+    },
+    {
+      "name": "Superset-1.39.0-arm64-mac.zip",
+      "size": 411871864,
+      "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.39.0/Superset-1.39.0-arm64-mac.zip"
+    },
+    {
+      "name": "Superset-arm64-mac.zip",
+      "size": 411871864,
+      "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.39.0/Superset-arm64-mac.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

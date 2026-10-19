@@ -1,0 +1,41 @@
+{
+  "repo": "typecho/typecho",
+  "slug": "typecho__typecho",
+  "name": "typecho",
+  "note_zh": "简洁强大的 PHP 博客系统",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "GPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP"
+  ],
+  "deploy_type": "源码 / 传统部署",
+  "platform": "github",
+  "updated_at": "2026-07-17T09:14:07Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/typecho/typecho/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.3.0",
+    "name": "v1.3.0",
+    "published": "2026-01-20T06:28:38Z",
+    "url": "https://github.com/typecho/typecho/releases/tag/v1.3.0"
+  },
+  "assets": [
+    {
+      "name": "typecho.zip",
+      "size": 578232,
+      "url": "https://github.com/typecho/typecho/releases/download/v1.3.0/typecho.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

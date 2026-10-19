@@ -1,0 +1,76 @@
+{
+  "repo": "zaproxy/zaproxy",
+  "slug": "zaproxy__zaproxy",
+  "name": "zaproxy",
+  "note_zh": "OWASP ZAP Web 应用安全扫描器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java"
+  ],
+  "deploy_type": "客户端 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-15T14:54:29Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/zaproxy/zaproxy/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.17.0",
+    "name": "v2.17.0",
+    "published": "2025-12-15T14:41:51Z",
+    "url": "https://github.com/zaproxy/zaproxy/releases/tag/v2.17.0"
+  },
+  "assets": [
+    {
+      "name": "ZAP_2_17_0_windows-x32.exe",
+      "size": 255836672,
+      "url": "https://github.com/zaproxy/zaproxy/releases/download/v2.17.0/ZAP_2_17_0_windows-x32.exe"
+    },
+    {
+      "name": "ZAP_2_17_0_windows.exe",
+      "size": 256013312,
+      "url": "https://github.com/zaproxy/zaproxy/releases/download/v2.17.0/ZAP_2_17_0_windows.exe"
+    },
+    {
+      "name": "ZAP_2.17.0.dmg",
+      "size": 272195945,
+      "url": "https://github.com/zaproxy/zaproxy/releases/download/v2.17.0/ZAP_2.17.0.dmg"
+    },
+    {
+      "name": "ZAP_2.17.0_aarch64.dmg",
+      "size": 276518308,
+      "url": "https://github.com/zaproxy/zaproxy/releases/download/v2.17.0/ZAP_2.17.0_aarch64.dmg"
+    },
+    {
+      "name": "ZAP_2.17.0_Linux.tar.gz",
+      "size": 243895361,
+      "url": "https://github.com/zaproxy/zaproxy/releases/download/v2.17.0/ZAP_2.17.0_Linux.tar.gz"
+    },
+    {
+      "name": "ZAP_2.17.0_Core.zip",
+      "size": 108340737,
+      "url": "https://github.com/zaproxy/zaproxy/releases/download/v2.17.0/ZAP_2.17.0_Core.zip"
+    },
+    {
+      "name": "ZAP_2_17_0_unix.sh",
+      "size": 246979618,
+      "url": "https://github.com/zaproxy/zaproxy/releases/download/v2.17.0/ZAP_2_17_0_unix.sh"
+    },
+    {
+      "name": "ZAP_2.17.0_Crossplatform.zip",
+      "size": 286652857,
+      "url": "https://github.com/zaproxy/zaproxy/releases/download/v2.17.0/ZAP_2.17.0_Crossplatform.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

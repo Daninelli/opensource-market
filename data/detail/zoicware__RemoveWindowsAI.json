@@ -1,0 +1,30 @@
+{
+  "repo": "zoicware/RemoveWindowsAI",
+  "slug": "zoicware__RemoveWindowsAI",
+  "name": "RemoveWindowsAI",
+  "note_zh": "强制移除 Windows 11 的 Copilot 与 Recall",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "系统工具",
+  "subcategory_slug": "system",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PowerShell"
+  ],
+  "deploy_type": "源码 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-17T16:12:49Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/zoicware/RemoveWindowsAI/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

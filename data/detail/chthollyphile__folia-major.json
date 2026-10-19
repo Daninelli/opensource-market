@@ -1,0 +1,71 @@
+{
+  "repo": "chthollyphile/folia-major",
+  "slug": "chthollyphile__folia-major",
+  "name": "folia-major",
+  "note_zh": "带绚丽歌词动画的多平台音乐播放器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:46:43Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/chthollyphile/folia-major/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.7.21",
+    "name": "Realeco v0.7.21",
+    "published": "2026-10-18T07:05:19Z",
+    "url": "https://github.com/chthollyphile/folia-major/releases/tag/v0.7.21"
+  },
+  "assets": [
+    {
+      "name": "Folia-Setup-0.7.21.exe",
+      "size": 248768690,
+      "url": "https://github.com/chthollyphile/folia-major/releases/download/v0.7.21/Folia-Setup-0.7.21.exe"
+    },
+    {
+      "name": "Folia-0.7.21-x64.dmg",
+      "size": 276789034,
+      "url": "https://github.com/chthollyphile/folia-major/releases/download/v0.7.21/Folia-0.7.21-x64.dmg"
+    },
+    {
+      "name": "Folia-0.7.21-arm64.dmg",
+      "size": 277460876,
+      "url": "https://github.com/chthollyphile/folia-major/releases/download/v0.7.21/Folia-0.7.21-arm64.dmg"
+    },
+    {
+      "name": "folia-major-0.7.21-linux-aarch64.rpm",
+      "size": 227128137,
+      "url": "https://github.com/chthollyphile/folia-major/releases/download/v0.7.21/folia-major-0.7.21-linux-aarch64.rpm"
+    },
+    {
+      "name": "folia-major-0.7.21-linux-x86_64.rpm",
+      "size": 233120193,
+      "url": "https://github.com/chthollyphile/folia-major/releases/download/v0.7.21/folia-major-0.7.21-linux-x86_64.rpm"
+    },
+    {
+      "name": "Folia-0.7.21-x64.zip",
+      "size": 276468697,
+      "url": "https://github.com/chthollyphile/folia-major/releases/download/v0.7.21/Folia-0.7.21-x64.zip"
+    },
+    {
+      "name": "Folia-0.7.21-arm64.zip",
+      "size": 277092464,
+      "url": "https://github.com/chthollyphile/folia-major/releases/download/v0.7.21/Folia-0.7.21-arm64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

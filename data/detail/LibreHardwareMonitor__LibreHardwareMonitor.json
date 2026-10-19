@@ -1,0 +1,47 @@
+{
+  "repo": "LibreHardwareMonitor/LibreHardwareMonitor",
+  "slug": "LibreHardwareMonitor__LibreHardwareMonitor",
+  "name": "LibreHardwareMonitor",
+  "note_zh": "硬件温度电压风扇监控",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "MPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-18T11:38:31Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/LibreHardwareMonitor/LibreHardwareMonitor/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.9.6",
+    "name": "v0.9.6",
+    "published": "2026-02-14T11:44:20Z",
+    "url": "https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases/tag/v0.9.6"
+  },
+  "assets": [
+    {
+      "name": "LibreHardwareMonitor.zip",
+      "size": 6632626,
+      "url": "https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases/download/v0.9.6/LibreHardwareMonitor.zip"
+    },
+    {
+      "name": "LibreHardwareMonitor.NET.10.zip",
+      "size": 8889121,
+      "url": "https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases/download/v0.9.6/LibreHardwareMonitor.NET.10.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

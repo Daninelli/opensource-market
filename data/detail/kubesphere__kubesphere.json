@@ -1,0 +1,31 @@
+{
+  "repo": "kubesphere/kubesphere",
+  "slug": "kubesphere__kubesphere",
+  "name": "kubesphere",
+  "note_zh": "面向多云与数据中心的 Kubernetes 容器平台",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "TypeScript"
+  ],
+  "deploy_type": "命令行 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-07-15T01:14:39Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/kubesphere/kubesphere/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

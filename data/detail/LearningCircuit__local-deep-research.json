@@ -1,0 +1,35 @@
+{
+  "repo": "LearningCircuit/local-deep-research",
+  "slug": "LearningCircuit__local-deep-research",
+  "name": "local-deep-research",
+  "note_zh": "本地运行的高准确率深度研究工具",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "命令行 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:56:19Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/LearningCircuit/local-deep-research/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.10.7",
+    "name": "Release 1.10.7",
+    "published": "2026-08-28T21:43:07Z",
+    "url": "https://github.com/LearningCircuit/local-deep-research/releases/tag/v1.10.7"
+  },
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

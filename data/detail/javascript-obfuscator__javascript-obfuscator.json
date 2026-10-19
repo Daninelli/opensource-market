@@ -1,0 +1,31 @@
+{
+  "repo": "javascript-obfuscator/javascript-obfuscator",
+  "slug": "javascript-obfuscator__javascript-obfuscator",
+  "name": "javascript-obfuscator",
+  "note_zh": "JavaScript 代码混淆器，保护前端逻辑",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "BSD-2-Clause",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Node.js"
+  ],
+  "deploy_type": "依赖库 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-04T02:33:31Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/javascript-obfuscator/javascript-obfuscator/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

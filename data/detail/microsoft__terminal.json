@@ -1,0 +1,47 @@
+{
+  "repo": "microsoft/terminal",
+  "slug": "microsoft__terminal",
+  "name": "terminal",
+  "note_zh": "Windows 终端与现代命令行宿主",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "C#"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T16:58:41Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/microsoft/terminal/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.25.2733.0",
+    "name": "Windows Terminal v1.25.2733.0",
+    "published": "2026-10-02T20:27:27Z",
+    "url": "https://github.com/microsoft/terminal/releases/tag/v1.25.2733.0"
+  },
+  "assets": [
+    {
+      "name": "Microsoft.Windows.Console.ConPTY.1.25.260930003.nupkg",
+      "size": 1750533,
+      "url": "https://github.com/microsoft/terminal/releases/download/v1.25.2733.0/Microsoft.Windows.Console.ConPTY.1.25.260930003.nupkg"
+    },
+    {
+      "name": "Microsoft.WindowsTerminal_1.25.2733.0_x86.zip",
+      "size": 10970297,
+      "url": "https://github.com/microsoft/terminal/releases/download/v1.25.2733.0/Microsoft.WindowsTerminal_1.25.2733.0_x86.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

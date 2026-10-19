@@ -1,0 +1,72 @@
+{
+  "repo": "blinkospace/blinko",
+  "slug": "blinkospace__blinko",
+  "name": "blinko",
+  "note_zh": "注重隐私的自托管 AI 笔记工具",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-08-27T05:11:11Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/blinkospace/blinko/zip/refs/heads/main",
+  "release": {
+    "tag": "1.8.8",
+    "name": "Blinko 1.8.8",
+    "published": "2026-06-20T08:30:09Z",
+    "url": "https://github.com/blinkospace/blinko/releases/tag/1.8.8"
+  },
+  "assets": [
+    {
+      "name": "Blinko_1.8.8_x64-setup.exe",
+      "size": 11477719,
+      "url": "https://github.com/blinkospace/blinko/releases/download/1.8.8/Blinko_1.8.8_x64-setup.exe"
+    },
+    {
+      "name": "Blinko_1.8.8_x64_en-US.msi",
+      "size": 13520896,
+      "url": "https://github.com/blinkospace/blinko/releases/download/1.8.8/Blinko_1.8.8_x64_en-US.msi"
+    },
+    {
+      "name": "Blinko_1.8.8_aarch64.dmg",
+      "size": 14524938,
+      "url": "https://github.com/blinkospace/blinko/releases/download/1.8.8/Blinko_1.8.8_aarch64.dmg"
+    },
+    {
+      "name": "Blinko-1.8.8-1.x86_64.rpm",
+      "size": 15221679,
+      "url": "https://github.com/blinkospace/blinko/releases/download/1.8.8/Blinko-1.8.8-1.x86_64.rpm"
+    },
+    {
+      "name": "Blinko_1.8.8_amd64.deb",
+      "size": 15223284,
+      "url": "https://github.com/blinkospace/blinko/releases/download/1.8.8/Blinko_1.8.8_amd64.deb"
+    },
+    {
+      "name": "Blinko_1.8.8_universal.apk",
+      "size": 93415314,
+      "url": "https://github.com/blinkospace/blinko/releases/download/1.8.8/Blinko_1.8.8_universal.apk"
+    },
+    {
+      "name": "Blinko_aarch64.app.tar.gz",
+      "size": 14080471,
+      "url": "https://github.com/blinkospace/blinko/releases/download/1.8.8/Blinko_aarch64.app.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

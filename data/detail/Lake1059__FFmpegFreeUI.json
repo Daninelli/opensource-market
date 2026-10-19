@@ -1,0 +1,47 @@
+{
+  "repo": "Lake1059/FFmpegFreeUI",
+  "slug": "Lake1059__FFmpegFreeUI",
+  "name": "FFmpegFreeUI",
+  "note_zh": "ffmpeg 的 Windows 图形外壳，参数齐全",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-13T14:03:55Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Lake1059/FFmpegFreeUI/zip/refs/heads/main",
+  "release": {
+    "tag": "6.2.38",
+    "name": "3FUI 6.2.38",
+    "published": "2026-10-13T14:03:55Z",
+    "url": "https://github.com/Lake1059/FFmpegFreeUI/releases/tag/6.2.38"
+  },
+  "assets": [
+    {
+      "name": "Updater.exe",
+      "size": 6499840,
+      "url": "https://github.com/Lake1059/FFmpegFreeUI/releases/download/6.2.38/Updater.exe"
+    },
+    {
+      "name": "FFmpegFreeUI.arm64.exe",
+      "size": 48689950,
+      "url": "https://github.com/Lake1059/FFmpegFreeUI/releases/download/6.2.38/FFmpegFreeUI.arm64.exe"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,66 @@
+{
+  "repo": "certimate-go/certimate",
+  "slug": "certimate-go__certimate",
+  "name": "certimate",
+  "note_zh": "自托管 SSL 证书自动签发管理",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T01:40:56Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/certimate-go/certimate/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.4.35",
+    "name": "v0.4.35",
+    "published": "2026-10-12T01:08:26Z",
+    "url": "https://github.com/certimate-go/certimate/releases/tag/v0.4.35"
+  },
+  "assets": [
+    {
+      "name": "certimate_v0.4.35_windows_arm64.zip",
+      "size": 32888903,
+      "url": "https://github.com/certimate-go/certimate/releases/download/v0.4.35/certimate_v0.4.35_windows_arm64.zip"
+    },
+    {
+      "name": "certimate_v0.4.35_darwin_arm64.zip",
+      "size": 34741748,
+      "url": "https://github.com/certimate-go/certimate/releases/download/v0.4.35/certimate_v0.4.35_darwin_arm64.zip"
+    },
+    {
+      "name": "certimate_v0.4.35_windows_386.zip",
+      "size": 34965491,
+      "url": "https://github.com/certimate-go/certimate/releases/download/v0.4.35/certimate_v0.4.35_windows_386.zip"
+    },
+    {
+      "name": "certimate_v0.4.35_darwin_amd64.zip",
+      "size": 37368283,
+      "url": "https://github.com/certimate-go/certimate/releases/download/v0.4.35/certimate_v0.4.35_darwin_amd64.zip"
+    },
+    {
+      "name": "certimate_v0.4.35_linux_arm64.zip",
+      "size": 32975334,
+      "url": "https://github.com/certimate-go/certimate/releases/download/v0.4.35/certimate_v0.4.35_linux_arm64.zip"
+    },
+    {
+      "name": "certimate_v0.4.35_linux_armv7.zip",
+      "size": 33775759,
+      "url": "https://github.com/certimate-go/certimate/releases/download/v0.4.35/certimate_v0.4.35_linux_armv7.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

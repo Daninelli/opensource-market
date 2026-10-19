@@ -1,0 +1,67 @@
+{
+  "repo": "WXRIW/Lyricify-App",
+  "slug": "WXRIW__Lyricify-App",
+  "name": "Lyricify-App",
+  "note_zh": "为 Spotify 等应用提供滚动歌词",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-15T07:57:15Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/WXRIW/Lyricify-App/zip/refs/heads/main",
+  "release": {
+    "tag": "v4.4.1",
+    "name": "v4.4.1-release",
+    "published": "2026-10-15T07:46:48Z",
+    "url": "https://github.com/WXRIW/Lyricify-App/releases/tag/v4.4.1"
+  },
+  "assets": [
+    {
+      "name": "Lyricify.Setup.Ver.4.4.1.261015-release.x86.exe",
+      "size": 61014198,
+      "url": "https://github.com/WXRIW/Lyricify-App/releases/download/v4.4.1/Lyricify.Setup.Ver.4.4.1.261015-release.x86.exe"
+    },
+    {
+      "name": "Lyricify.Setup.Ver.4.4.1.261015-release.Arm64.exe",
+      "size": 61073706,
+      "url": "https://github.com/WXRIW/Lyricify-App/releases/download/v4.4.1/Lyricify.Setup.Ver.4.4.1.261015-release.Arm64.exe"
+    },
+    {
+      "name": "pack-update-4.4.1.261015-release.x86.zip",
+      "size": 7266772,
+      "url": "https://github.com/WXRIW/Lyricify-App/releases/download/v4.4.1/pack-update-4.4.1.261015-release.x86.zip"
+    },
+    {
+      "name": "pack-update-4.4.1.261015-release.arm64.zip",
+      "size": 7270674,
+      "url": "https://github.com/WXRIW/Lyricify-App/releases/download/v4.4.1/pack-update-4.4.1.261015-release.arm64.zip"
+    },
+    {
+      "name": "Lyricify.for.Spotify.Ver.4.4.1.261015-release.x86.7z",
+      "size": 40136277,
+      "url": "https://github.com/WXRIW/Lyricify-App/releases/download/v4.4.1/Lyricify.for.Spotify.Ver.4.4.1.261015-release.x86.7z"
+    },
+    {
+      "name": "Lyricify.for.Spotify.Ver.4.4.1.261015-release.Arm64.7z",
+      "size": 40137256,
+      "url": "https://github.com/WXRIW/Lyricify-App/releases/download/v4.4.1/Lyricify.for.Spotify.Ver.4.4.1.261015-release.Arm64.7z"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

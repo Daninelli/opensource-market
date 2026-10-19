@@ -1,0 +1,71 @@
+{
+  "repo": "pdfcpu/pdfcpu",
+  "slug": "pdfcpu__pdfcpu",
+  "name": "pdfcpu",
+  "note_zh": "Go 与命令行的 PDF 处理工具",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-18T19:28:12Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/pdfcpu/pdfcpu/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.16.2",
+    "name": "v0.16.2",
+    "published": "2026-10-11T21:23:02Z",
+    "url": "https://github.com/pdfcpu/pdfcpu/releases/tag/v0.16.2"
+  },
+  "assets": [
+    {
+      "name": "pdfcpu_0.16.2_Darwin_arm64.tar.xz",
+      "size": 5455600,
+      "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.2/pdfcpu_0.16.2_Darwin_arm64.tar.xz"
+    },
+    {
+      "name": "pdfcpu_0.16.2_Darwin_x86_64.tar.xz",
+      "size": 6387424,
+      "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.2/pdfcpu_0.16.2_Darwin_x86_64.tar.xz"
+    },
+    {
+      "name": "pdfcpu_0.16.2_Windows_i386.zip",
+      "size": 6815426,
+      "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.2/pdfcpu_0.16.2_Windows_i386.zip"
+    },
+    {
+      "name": "pdfcpu_0.16.2_Windows_x86_64.zip",
+      "size": 7053372,
+      "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.2/pdfcpu_0.16.2_Windows_x86_64.zip"
+    },
+    {
+      "name": "pdfcpu_0.16.2_Linux_arm64.tar.xz",
+      "size": 5279092,
+      "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.2/pdfcpu_0.16.2_Linux_arm64.tar.xz"
+    },
+    {
+      "name": "pdfcpu_0.16.2_Linux_armv7.tar.xz",
+      "size": 5645752,
+      "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.2/pdfcpu_0.16.2_Linux_armv7.tar.xz"
+    },
+    {
+      "name": "pdfcpu_0.16.2_Js_wasm.tar.xz",
+      "size": 6980012,
+      "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.2/pdfcpu_0.16.2_Js_wasm.tar.xz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

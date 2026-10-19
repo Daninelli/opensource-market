@@ -1,0 +1,31 @@
+{
+  "repo": "speechbrain/speechbrain",
+  "slug": "speechbrain__speechbrain",
+  "name": "speechbrain",
+  "note_zh": "基于 PyTorch 的语音工具包",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "PyTorch"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-14T23:12:55Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/speechbrain/speechbrain/zip/refs/heads/develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

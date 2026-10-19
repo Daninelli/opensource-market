@@ -21,41 +21,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/unslothai/unsloth/zip/refs/heads/main",
   "release": {
-    "tag": "v0.1.908-beta",
-    "name": "Meta Muse Spark Open + NVIDIA Nemotron 3.5",
-    "published": "2026-10-15T18:50:55Z",
-    "url": "https://github.com/unslothai/unsloth/releases/tag/v0.1.908-beta"
+    "tag": "v0.1.909-beta",
+    "name": "DeepSeek-V4.1 & FLUX-3",
+    "published": "2026-10-19T16:21:58Z",
+    "url": "https://github.com/unslothai/unsloth/releases/tag/v0.1.909-beta"
   },
   "assets": [
     {
       "name": "Unsloth-Desktop-Windows-ARM64.exe",
-      "size": 23300264,
-      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.908-beta/Unsloth-Desktop-Windows-ARM64.exe"
+      "size": 23400800,
+      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.909-beta/Unsloth-Desktop-Windows-ARM64.exe"
     },
     {
       "name": "Unsloth-Desktop-Windows.exe",
-      "size": 23866696,
-      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.908-beta/Unsloth-Desktop-Windows.exe"
+      "size": 24002968,
+      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.909-beta/Unsloth-Desktop-Windows.exe"
     },
     {
       "name": "Unsloth-Desktop-MacOS.dmg",
-      "size": 25596474,
-      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.908-beta/Unsloth-Desktop-MacOS.dmg"
+      "size": 25872652,
+      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.909-beta/Unsloth-Desktop-MacOS.dmg"
     },
     {
       "name": "Unsloth-Desktop-Ubuntu.deb",
-      "size": 27661084,
-      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.908-beta/Unsloth-Desktop-Ubuntu.deb"
+      "size": 27789068,
+      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.909-beta/Unsloth-Desktop-Ubuntu.deb"
     },
     {
       "name": "Unsloth-Desktop-Ubuntu-ARM64.deb",
-      "size": 27984470,
-      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.908-beta/Unsloth-Desktop-Ubuntu-ARM64.deb"
+      "size": 28117802,
+      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.909-beta/Unsloth-Desktop-Ubuntu-ARM64.deb"
     },
     {
       "name": "Unsloth-Desktop-ARM64.app.tar.gz",
-      "size": 25397285,
-      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.908-beta/Unsloth-Desktop-ARM64.app.tar.gz"
+      "size": 25681480,
+      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.909-beta/Unsloth-Desktop-ARM64.app.tar.gz"
     }
   ],
   "pinned": false,

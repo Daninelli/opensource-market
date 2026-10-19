@@ -1,0 +1,31 @@
+{
+  "repo": "HugoBlox/kit",
+  "slug": "HugoBlox__kit",
+  "name": "kit",
+  "note_zh": "描述站点由 AI 生成，产出 Markdown 站点",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Hugo"
+  ],
+  "deploy_type": "前端源码",
+  "platform": "github",
+  "updated_at": "2026-08-04T04:38:22Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/HugoBlox/kit/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

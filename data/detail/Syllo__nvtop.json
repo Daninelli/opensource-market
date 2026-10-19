@@ -1,0 +1,41 @@
+{
+  "repo": "Syllo/nvtop",
+  "slug": "Syllo__nvtop",
+  "name": "nvtop",
+  "note_zh": "GPU 与加速器进程监控工具",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-04T13:42:35Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/Syllo/nvtop/zip/refs/heads/master",
+  "release": {
+    "tag": "3.3.2",
+    "name": "Release 3.3.2",
+    "published": "2026-02-08T17:57:16Z",
+    "url": "https://github.com/Syllo/nvtop/releases/tag/3.3.2"
+  },
+  "assets": [
+    {
+      "name": "nvtop-3.3.2-x86_64.AppImage",
+      "size": 2763256,
+      "url": "https://github.com/Syllo/nvtop/releases/download/3.3.2/nvtop-3.3.2-x86_64.AppImage"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

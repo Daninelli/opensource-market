@@ -1,0 +1,52 @@
+{
+  "repo": "mumble-voip/mumble",
+  "slug": "mumble-voip__mumble",
+  "name": "mumble",
+  "note_zh": "低延迟高质量的开源语音聊天",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "即时通讯",
+  "subcategory_slug": "im",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Qt"
+  ],
+  "deploy_type": "客户端 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:18:14Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/mumble-voip/mumble/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.5.939",
+    "name": "v1.5.939",
+    "published": "2026-10-11T11:52:37Z",
+    "url": "https://github.com/mumble-voip/mumble/releases/tag/v1.5.939"
+  },
+  "assets": [
+    {
+      "name": "mumble_server-1.5.939.x64.exe",
+      "size": 40759808,
+      "url": "https://github.com/mumble-voip/mumble/releases/download/v1.5.939/mumble_server-1.5.939.x64.exe"
+    },
+    {
+      "name": "mumble_client-1.5.939.x64.exe",
+      "size": 49424160,
+      "url": "https://github.com/mumble-voip/mumble/releases/download/v1.5.939/mumble_client-1.5.939.x64.exe"
+    },
+    {
+      "name": "mumble-1.5.939.tar.gz",
+      "size": 26126871,
+      "url": "https://github.com/mumble-voip/mumble/releases/download/v1.5.939/mumble-1.5.939.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,31 @@
+{
+  "repo": "c3js/c3",
+  "slug": "c3js__c3",
+  "name": "c3",
+  "note_zh": "基于 D3 的可复用图表库",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "数据分析",
+  "subcategory_slug": "bi",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "D3"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-18T10:12:58Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/c3js/c3/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

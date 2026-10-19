@@ -1,0 +1,56 @@
+{
+  "repo": "wtfutil/wtf",
+  "slug": "wtfutil__wtf",
+  "name": "wtf",
+  "note_zh": "终端里的个人信息仪表盘",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "MPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-09-30T23:33:52Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "trunk",
+  "download_url": "https://codeload.github.com/wtfutil/wtf/zip/refs/heads/trunk",
+  "release": {
+    "tag": "v0.51.0",
+    "name": "v0.51.0",
+    "published": "2026-09-29T16:31:41Z",
+    "url": "https://github.com/wtfutil/wtf/releases/tag/v0.51.0"
+  },
+  "assets": [
+    {
+      "name": "tessera--v0.51.0--darwin-arm64.tar.gz",
+      "size": 21610975,
+      "url": "https://github.com/wtfutil/wtf/releases/download/v0.51.0/tessera--v0.51.0--darwin-arm64.tar.gz"
+    },
+    {
+      "name": "wtf_0.51.0_darwin_arm64.tar.gz",
+      "size": 21610975,
+      "url": "https://github.com/wtfutil/wtf/releases/download/v0.51.0/wtf_0.51.0_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "wtf_0.51.0_linux_arm64.tar.gz",
+      "size": 20439444,
+      "url": "https://github.com/wtfutil/wtf/releases/download/v0.51.0/wtf_0.51.0_linux_arm64.tar.gz"
+    },
+    {
+      "name": "tessera--v0.51.0--linux-arm64.tar.gz",
+      "size": 20439445,
+      "url": "https://github.com/wtfutil/wtf/releases/download/v0.51.0/tessera--v0.51.0--linux-arm64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

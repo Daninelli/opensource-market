@@ -1,0 +1,31 @@
+{
+  "repo": "GetPublii/Publii",
+  "slug": "GetPublii__Publii",
+  "name": "Publii",
+  "note_zh": "面向 SEO 与隐私的静态站点 CMS",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T16:37:54Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/GetPublii/Publii/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

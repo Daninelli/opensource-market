@@ -1,0 +1,76 @@
+{
+  "repo": "k8sgpt-ai/k8sgpt",
+  "slug": "k8sgpt-ai__k8sgpt",
+  "name": "k8sgpt",
+  "note_zh": "用 AI 诊断 Kubernetes 集群问题",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:47:02Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/k8sgpt-ai/k8sgpt/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.4.40",
+    "name": "v0.4.40",
+    "published": "2026-10-09T19:46:06Z",
+    "url": "https://github.com/k8sgpt-ai/k8sgpt/releases/tag/v0.4.40"
+  },
+  "assets": [
+    {
+      "name": "k8sgpt_Windows_arm64.zip",
+      "size": 31675214,
+      "url": "https://github.com/k8sgpt-ai/k8sgpt/releases/download/v0.4.40/k8sgpt_Windows_arm64.zip"
+    },
+    {
+      "name": "k8sgpt_Darwin_arm64.tar.gz",
+      "size": 33333103,
+      "url": "https://github.com/k8sgpt-ai/k8sgpt/releases/download/v0.4.40/k8sgpt_Darwin_arm64.tar.gz"
+    },
+    {
+      "name": "k8sgpt_Windows_i386.zip",
+      "size": 34080081,
+      "url": "https://github.com/k8sgpt-ai/k8sgpt/releases/download/v0.4.40/k8sgpt_Windows_i386.zip"
+    },
+    {
+      "name": "k8sgpt_Darwin_x86_64.tar.gz",
+      "size": 35855598,
+      "url": "https://github.com/k8sgpt-ai/k8sgpt/releases/download/v0.4.40/k8sgpt_Darwin_x86_64.tar.gz"
+    },
+    {
+      "name": "k8sgpt_arm64.deb",
+      "size": 31428734,
+      "url": "https://github.com/k8sgpt-ai/k8sgpt/releases/download/v0.4.40/k8sgpt_arm64.deb"
+    },
+    {
+      "name": "k8sgpt_arm64.rpm",
+      "size": 31428869,
+      "url": "https://github.com/k8sgpt-ai/k8sgpt/releases/download/v0.4.40/k8sgpt_arm64.rpm"
+    },
+    {
+      "name": "k8sgpt_arm64.apk",
+      "size": 32773820,
+      "url": "https://github.com/k8sgpt-ai/k8sgpt/releases/download/v0.4.40/k8sgpt_arm64.apk"
+    },
+    {
+      "name": "k8sgpt_386.apk",
+      "size": 33880392,
+      "url": "https://github.com/k8sgpt-ai/k8sgpt/releases/download/v0.4.40/k8sgpt_386.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

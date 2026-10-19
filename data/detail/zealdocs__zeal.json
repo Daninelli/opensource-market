@@ -1,0 +1,62 @@
+{
+  "repo": "zealdocs/zeal",
+  "slug": "zealdocs__zeal",
+  "name": "zeal",
+  "note_zh": "离线 API 文档浏览器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Qt"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-17T16:44:37Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/zealdocs/zeal/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.9.1",
+    "name": "v0.9.1",
+    "published": "2026-07-28T21:15:43Z",
+    "url": "https://github.com/zealdocs/zeal/releases/tag/v0.9.1"
+  },
+  "assets": [
+    {
+      "name": "zeal-0.9.1-portable-windows-arm64.7z",
+      "size": 75941981,
+      "url": "https://github.com/zealdocs/zeal/releases/download/v0.9.1/zeal-0.9.1-portable-windows-arm64.7z"
+    },
+    {
+      "name": "zeal-0.9.1-windows-arm64.msi",
+      "size": 89567232,
+      "url": "https://github.com/zealdocs/zeal/releases/download/v0.9.1/zeal-0.9.1-windows-arm64.msi"
+    },
+    {
+      "name": "Zeal-0.9.1-x86_64.AppImage",
+      "size": 135678456,
+      "url": "https://github.com/zealdocs/zeal/releases/download/v0.9.1/Zeal-0.9.1-x86_64.AppImage"
+    },
+    {
+      "name": "zeal-0.9.1.tar.xz",
+      "size": 2076288,
+      "url": "https://github.com/zealdocs/zeal/releases/download/v0.9.1/zeal-0.9.1.tar.xz"
+    },
+    {
+      "name": "zeal-0.9.1.tar.gz",
+      "size": 2225437,
+      "url": "https://github.com/zealdocs/zeal/releases/download/v0.9.1/zeal-0.9.1.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

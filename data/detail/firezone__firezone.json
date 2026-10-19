@@ -1,0 +1,42 @@
+{
+  "repo": "firezone/firezone",
+  "slug": "firezone__firezone",
+  "name": "firezone",
+  "note_zh": "极速的零信任远程访问方案",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Elixir",
+    "Rust"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T16:29:00Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/firezone/firezone/zip/refs/heads/main",
+  "release": {
+    "tag": "android-client-1.5.16",
+    "name": "android-client-1.5.16",
+    "published": "2026-10-19T00:30:53Z",
+    "url": "https://github.com/firezone/firezone/releases/tag/android-client-1.5.16"
+  },
+  "assets": [
+    {
+      "name": "firezone-android-client-1.5.16.apk",
+      "size": 74983853,
+      "url": "https://github.com/firezone/firezone/releases/download/android-client-1.5.16/firezone-android-client-1.5.16.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

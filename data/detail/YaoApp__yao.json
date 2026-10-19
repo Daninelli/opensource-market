@@ -1,0 +1,66 @@
+{
+  "repo": "YaoApp/yao",
+  "slug": "YaoApp__yao",
+  "name": "yao",
+  "note_zh": "统一管理智能体与工作空间的平台",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T03:30:30Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/YaoApp/yao/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.0.0",
+    "name": "Yao v1.0.0",
+    "published": "2026-10-13T02:00:00Z",
+    "url": "https://github.com/YaoApp/yao/releases/tag/v1.0.0"
+  },
+  "assets": [
+    {
+      "name": "yao-1.0.0-darwin-arm64",
+      "size": 188676688,
+      "url": "https://github.com/YaoApp/yao/releases/download/v1.0.0/yao-1.0.0-darwin-arm64"
+    },
+    {
+      "name": "yao-1.0.0-windows-amd64.exe",
+      "size": 202266112,
+      "url": "https://github.com/YaoApp/yao/releases/download/v1.0.0/yao-1.0.0-windows-amd64.exe"
+    },
+    {
+      "name": "yao-1.0.0-darwin-amd64",
+      "size": 202485904,
+      "url": "https://github.com/YaoApp/yao/releases/download/v1.0.0/yao-1.0.0-darwin-amd64"
+    },
+    {
+      "name": "yao-1.0.0-windows-amd64-dev.exe",
+      "size": 312120320,
+      "url": "https://github.com/YaoApp/yao/releases/download/v1.0.0/yao-1.0.0-windows-amd64-dev.exe"
+    },
+    {
+      "name": "yao-1.0.0-linux-arm64",
+      "size": 187142704,
+      "url": "https://github.com/YaoApp/yao/releases/download/v1.0.0/yao-1.0.0-linux-arm64"
+    },
+    {
+      "name": "yao-1.0.0-linux-amd64",
+      "size": 198614928,
+      "url": "https://github.com/YaoApp/yao/releases/download/v1.0.0/yao-1.0.0-linux-amd64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

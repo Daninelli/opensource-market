@@ -1,0 +1,71 @@
+{
+  "repo": "kubeshark/kubeshark",
+  "slug": "kubeshark__kubeshark",
+  "name": "kubeshark",
+  "note_zh": "基于 eBPF 的 Kubernetes 网络可观测",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-15T22:10:49Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/kubeshark/kubeshark/zip/refs/heads/master",
+  "release": {
+    "tag": "v53.5.0",
+    "name": "v53.5.0",
+    "published": "2026-10-07T15:24:24Z",
+    "url": "https://github.com/kubeshark/kubeshark/releases/tag/v53.5.0"
+  },
+  "assets": [
+    {
+      "name": "kubeshark-mcp_darwin_arm64.mcpb",
+      "size": 60320498,
+      "url": "https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark-mcp_darwin_arm64.mcpb"
+    },
+    {
+      "name": "kubeshark_darwin_arm64",
+      "size": 60320498,
+      "url": "https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark_darwin_arm64"
+    },
+    {
+      "name": "kubeshark-mcp_windows_amd64.mcpb",
+      "size": 63671808,
+      "url": "https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark-mcp_windows_amd64.mcpb"
+    },
+    {
+      "name": "kubeshark.exe",
+      "size": 63671808,
+      "url": "https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark.exe"
+    },
+    {
+      "name": "kubeshark-mcp_linux_arm64.mcpb",
+      "size": 58458296,
+      "url": "https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark-mcp_linux_arm64.mcpb"
+    },
+    {
+      "name": "kubeshark_linux_arm64",
+      "size": 58458296,
+      "url": "https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark_linux_arm64"
+    },
+    {
+      "name": "validation-evidence-v53.5.0.zip",
+      "size": 761387,
+      "url": "https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/validation-evidence-v53.5.0.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

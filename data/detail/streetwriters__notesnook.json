@@ -1,0 +1,72 @@
+{
+  "repo": "streetwriters/notesnook",
+  "slug": "streetwriters__notesnook",
+  "name": "notesnook",
+  "note_zh": "端到端加密的开源笔记应用",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T06:36:22Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/streetwriters/notesnook/zip/refs/heads/master",
+  "release": {
+    "tag": "v3.4.9",
+    "name": "Notesnook Desktop v3.4.9",
+    "published": "2026-10-06T04:22:57Z",
+    "url": "https://github.com/streetwriters/notesnook/releases/tag/v3.4.9"
+  },
+  "assets": [
+    {
+      "name": "notesnook_win_arm64_portable.exe",
+      "size": 93122304,
+      "url": "https://github.com/streetwriters/notesnook/releases/download/v3.4.9/notesnook_win_arm64_portable.exe"
+    },
+    {
+      "name": "notesnook_win_arm64.exe",
+      "size": 93285960,
+      "url": "https://github.com/streetwriters/notesnook/releases/download/v3.4.9/notesnook_win_arm64.exe"
+    },
+    {
+      "name": "notesnook_mac_arm64.zip",
+      "size": 125068814,
+      "url": "https://github.com/streetwriters/notesnook/releases/download/v3.4.9/notesnook_mac_arm64.zip"
+    },
+    {
+      "name": "notesnook_mac_arm64.dmg",
+      "size": 125535674,
+      "url": "https://github.com/streetwriters/notesnook/releases/download/v3.4.9/notesnook_mac_arm64.dmg"
+    },
+    {
+      "name": "notesnook_linux_arm64.AppImage",
+      "size": 113146977,
+      "url": "https://github.com/streetwriters/notesnook/releases/download/v3.4.9/notesnook_linux_arm64.AppImage"
+    },
+    {
+      "name": "notesnook_linux_x86_64.AppImage",
+      "size": 113971079,
+      "url": "https://github.com/streetwriters/notesnook/releases/download/v3.4.9/notesnook_linux_x86_64.AppImage"
+    },
+    {
+      "name": "notesnook_build_v3.4.9.zip",
+      "size": 15725598,
+      "url": "https://github.com/streetwriters/notesnook/releases/download/v3.4.9/notesnook_build_v3.4.9.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

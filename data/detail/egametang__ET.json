@@ -1,0 +1,31 @@
+{
+  "repo": "egametang/ET",
+  "slug": "egametang__ET",
+  "name": "ET",
+  "note_zh": "Unity 客户端加 C# 服务端的游戏框架",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏引擎",
+  "subcategory_slug": "engine",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    "Unity"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-08-26T13:25:42Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/egametang/ET/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

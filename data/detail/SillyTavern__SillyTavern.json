@@ -1,0 +1,31 @@
+{
+  "repo": "SillyTavern/SillyTavern",
+  "slug": "SillyTavern__SillyTavern",
+  "name": "SillyTavern",
+  "note_zh": "面向高级用户的 LLM 角色扮演前端",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Node.js"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-02T22:05:54Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "release",
+  "download_url": "https://codeload.github.com/SillyTavern/SillyTavern/zip/refs/heads/release",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -20,16 +20,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/coreyhaines31/marketingskills/zip/refs/heads/main",
   "release": {
-    "tag": "v2.11.37",
-    "name": "v2.11.37 — Copywriting and ads now read the learnings ledger added to product-marketing in 2.11.34.",
-    "published": "2026-10-15T18:35:22Z",
-    "url": "https://github.com/coreyhaines31/marketingskills/releases/tag/v2.11.37"
+    "tag": "v2.12.2",
+    "name": "v2.12.2 — ai-seo (2.9.1 → 2.10.0): the bot access check and robots.txt config separate Meta's crawl…",
+    "published": "2026-10-19T17:19:59Z",
+    "url": "https://github.com/coreyhaines31/marketingskills/releases/tag/v2.12.2"
   },
   "assets": [
     {
       "name": "marketing-plan-claude-web.zip",
       "size": 105764,
-      "url": "https://github.com/coreyhaines31/marketingskills/releases/download/v2.11.37/marketing-plan-claude-web.zip"
+      "url": "https://github.com/coreyhaines31/marketingskills/releases/download/v2.12.2/marketing-plan-claude-web.zip"
     }
   ],
   "pinned": false,

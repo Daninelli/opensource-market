@@ -1,0 +1,66 @@
+{
+  "repo": "pressly/goose",
+  "slug": "pressly__goose",
+  "name": "goose",
+  "note_zh": "数据库迁移工具，支持 SQL 与 Go 函数",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-17T00:22:14Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/pressly/goose/zip/refs/heads/main",
+  "release": {
+    "tag": "v3.29.0",
+    "name": "v3.29.0",
+    "published": "2026-10-11T17:48:18Z",
+    "url": "https://github.com/pressly/goose/releases/tag/v3.29.0"
+  },
+  "assets": [
+    {
+      "name": "goose_windows_arm64.exe",
+      "size": 37240832,
+      "url": "https://github.com/pressly/goose/releases/download/v3.29.0/goose_windows_arm64.exe"
+    },
+    {
+      "name": "goose_darwin_arm64",
+      "size": 41950322,
+      "url": "https://github.com/pressly/goose/releases/download/v3.29.0/goose_darwin_arm64"
+    },
+    {
+      "name": "goose_windows_x86_64.exe",
+      "size": 43920384,
+      "url": "https://github.com/pressly/goose/releases/download/v3.29.0/goose_windows_x86_64.exe"
+    },
+    {
+      "name": "goose_darwin_x86_64",
+      "size": 44071440,
+      "url": "https://github.com/pressly/goose/releases/download/v3.29.0/goose_darwin_x86_64"
+    },
+    {
+      "name": "goose_linux_arm64",
+      "size": 41287840,
+      "url": "https://github.com/pressly/goose/releases/download/v3.29.0/goose_linux_arm64"
+    },
+    {
+      "name": "goose_linux_x86_64",
+      "size": 43634848,
+      "url": "https://github.com/pressly/goose/releases/download/v3.29.0/goose_linux_x86_64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

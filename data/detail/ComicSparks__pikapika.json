@@ -1,0 +1,72 @@
+{
+  "repo": "ComicSparks/pikapika",
+  "slug": "ComicSparks__pikapika",
+  "name": "pikapika",
+  "note_zh": "跨平台漫画浏览客户端",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Dart",
+    "Flutter"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-07-20T07:14:22Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/ComicSparks/pikapika/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.8.21",
+    "name": "v1.8.21",
+    "published": "2026-07-20T07:14:22Z",
+    "url": "https://github.com/ComicSparks/pikapika/releases/tag/v1.8.21"
+  },
+  "assets": [
+    {
+      "name": "pikapika-v1.8.21-windows-x86_64-flutter_2.10.3.zip",
+      "size": 16245566,
+      "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.21/pikapika-v1.8.21-windows-x86_64-flutter_2.10.3.zip"
+    },
+    {
+      "name": "pikapika-v1.8.21-macos-intel-flutter_2.10.3.dmg",
+      "size": 18209776,
+      "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.21/pikapika-v1.8.21-macos-intel-flutter_2.10.3.dmg"
+    },
+    {
+      "name": "pikapika-v1.8.21-linux-x86_64-flutter_2.10.3.AppImage",
+      "size": 24062456,
+      "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.21/pikapika-v1.8.21-linux-x86_64-flutter_2.10.3.AppImage"
+    },
+    {
+      "name": "pikapika-v1.8.21-ios_nosign-flutter_3.13.9.ipa",
+      "size": 17906138,
+      "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.21/pikapika-v1.8.21-ios_nosign-flutter_3.13.9.ipa"
+    },
+    {
+      "name": "pikapika-v1.8.21-android-arm32-flutter_3.13.9.apk",
+      "size": 22116258,
+      "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.21/pikapika-v1.8.21-android-arm32-flutter_3.13.9.apk"
+    },
+    {
+      "name": "pikapika-v1.8.21-android-arm64-flutter_3.13.9.apk",
+      "size": 22554524,
+      "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.21/pikapika-v1.8.21-android-arm64-flutter_3.13.9.apk"
+    },
+    {
+      "name": "core-v1.8.21-ios.zip",
+      "size": 36279194,
+      "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.21/core-v1.8.21-ios.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

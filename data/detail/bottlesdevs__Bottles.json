@@ -1,0 +1,31 @@
+{
+  "repo": "bottlesdevs/Bottles",
+  "slug": "bottlesdevs__Bottles",
+  "name": "Bottles",
+  "note_zh": "在 Linux 上运行 Windows 软件与游戏",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "系统工具",
+  "subcategory_slug": "system",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "GTK"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T07:38:08Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/bottlesdevs/Bottles/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

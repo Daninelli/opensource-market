@@ -1,0 +1,46 @@
+{
+  "repo": "Atlas-OS/Atlas",
+  "slug": "Atlas-OS__Atlas",
+  "name": "Atlas",
+  "note_zh": "精简优化的 Windows 系统修改版",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "系统工具",
+  "subcategory_slug": "system",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PowerShell"
+  ],
+  "deploy_type": "源码 / 镜像",
+  "platform": "github",
+  "updated_at": "2026-10-17T00:10:44Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Atlas-OS/Atlas/zip/refs/heads/main",
+  "release": {
+    "tag": "0.5.0-hotfix",
+    "name": "0.5.0-hotfix",
+    "published": "2025-10-21T19:13:24Z",
+    "url": "https://github.com/Atlas-OS/Atlas/releases/tag/0.5.0-hotfix"
+  },
+  "assets": [
+    {
+      "name": "AtlasPlaybook_v0.5.0-hotfix.zip",
+      "size": 47948364,
+      "url": "https://github.com/Atlas-OS/Atlas/releases/download/0.5.0-hotfix/AtlasPlaybook_v0.5.0-hotfix.zip"
+    },
+    {
+      "name": "AtlasPlaybook_v0.5.0-hotfix.apbx",
+      "size": 48024713,
+      "url": "https://github.com/Atlas-OS/Atlas/releases/download/0.5.0-hotfix/AtlasPlaybook_v0.5.0-hotfix.apbx"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

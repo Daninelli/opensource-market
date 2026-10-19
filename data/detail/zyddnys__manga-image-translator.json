@@ -1,0 +1,56 @@
+{
+  "repo": "zyddnys/manga-image-translator",
+  "slug": "zyddnys__manga-image-translator",
+  "name": "manga-image-translator",
+  "note_zh": "一键翻译图片内文字，漫画汉化利器",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "Docker 部署 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-11T12:27:59Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/zyddnys/manga-image-translator/zip/refs/heads/main",
+  "release": {
+    "tag": "beta-0.3",
+    "name": "beta-0.3",
+    "published": "2022-04-23T17:55:18Z",
+    "url": "https://github.com/zyddnys/manga-image-translator/releases/tag/beta-0.3"
+  },
+  "assets": [
+    {
+      "name": "craft_refiner_CTW1500.pth",
+      "size": 1854124,
+      "url": "https://github.com/zyddnys/manga-image-translator/releases/download/beta-0.3/craft_refiner_CTW1500.pth"
+    },
+    {
+      "name": "manga-colorization-v2-net_rgb.pth",
+      "size": 3435567,
+      "url": "https://github.com/zyddnys/manga-image-translator/releases/download/beta-0.3/manga-colorization-v2-net_rgb.pth"
+    },
+    {
+      "name": "manga-colorization-v2-generator.zip",
+      "size": 128960375,
+      "url": "https://github.com/zyddnys/manga-image-translator/releases/download/beta-0.3/manga-colorization-v2-generator.zip"
+    },
+    {
+      "name": "ocr-ctc.zip",
+      "size": 144468259,
+      "url": "https://github.com/zyddnys/manga-image-translator/releases/download/beta-0.3/ocr-ctc.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

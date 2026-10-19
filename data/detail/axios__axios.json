@@ -1,0 +1,31 @@
+{
+  "repo": "axios/axios",
+  "slug": "axios__axios",
+  "name": "axios",
+  "note_zh": "浏览器与 Node 的 Promise HTTP 客户端",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:47:20Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "v1.x",
+  "download_url": "https://codeload.github.com/axios/axios/zip/refs/heads/v1.x",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

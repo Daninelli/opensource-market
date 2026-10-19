@@ -1,0 +1,61 @@
+{
+  "repo": "xo/usql",
+  "slug": "xo__usql",
+  "name": "usql",
+  "note_zh": "统一的 SQL 数据库命令行接口",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-13T22:39:09Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/xo/usql/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.21.6",
+    "name": "usql v0.21.6",
+    "published": "2026-09-22T23:58:17Z",
+    "url": "https://github.com/xo/usql/releases/tag/v0.21.6"
+  },
+  "assets": [
+    {
+      "name": "usql-0.21.6-windows-amd64.zip",
+      "size": 46885327,
+      "url": "https://github.com/xo/usql/releases/download/v0.21.6/usql-0.21.6-windows-amd64.zip"
+    },
+    {
+      "name": "usql-0.21.6-darwin-arm64.tar.bz2",
+      "size": 59301095,
+      "url": "https://github.com/xo/usql/releases/download/v0.21.6/usql-0.21.6-darwin-arm64.tar.bz2"
+    },
+    {
+      "name": "usql-0.21.6-darwin-amd64.tar.bz2",
+      "size": 63368010,
+      "url": "https://github.com/xo/usql/releases/download/v0.21.6/usql-0.21.6-darwin-amd64.tar.bz2"
+    },
+    {
+      "name": "usql_static-0.21.6-linux-arm64.tar.bz2",
+      "size": 40356618,
+      "url": "https://github.com/xo/usql/releases/download/v0.21.6/usql_static-0.21.6-linux-arm64.tar.bz2"
+    },
+    {
+      "name": "usql-0.21.6-linux-arm.tar.bz2",
+      "size": 46786594,
+      "url": "https://github.com/xo/usql/releases/download/v0.21.6/usql-0.21.6-linux-arm.tar.bz2"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

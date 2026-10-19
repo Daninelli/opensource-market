@@ -1,0 +1,31 @@
+{
+  "repo": "AsyncFuncAI/deepwiki-open",
+  "slug": "AsyncFuncAI__deepwiki-open",
+  "name": "deepwiki-open",
+  "note_zh": "为代码仓库自动生成 AI 维基文档",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-09-03T20:29:26Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/AsyncFuncAI/deepwiki-open/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

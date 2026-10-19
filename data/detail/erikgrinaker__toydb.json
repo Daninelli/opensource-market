@@ -1,0 +1,30 @@
+{
+  "repo": "erikgrinaker/toydb",
+  "slug": "erikgrinaker__toydb",
+  "name": "toydb",
+  "note_zh": "用 Rust 写的教学式分布式 SQL 数据库",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "源码 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-02T05:10:46Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/erikgrinaker/toydb/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

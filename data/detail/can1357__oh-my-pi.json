@@ -1,0 +1,67 @@
+{
+  "repo": "can1357/oh-my-pi",
+  "slug": "can1357__oh-my-pi",
+  "name": "oh-my-pi",
+  "note_zh": "深度集成 IDE 的编码代理",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Rust"
+  ],
+  "deploy_type": "命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:48:20Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/can1357/oh-my-pi/zip/refs/heads/main",
+  "release": {
+    "tag": "v18.12.2",
+    "name": "v18.12.2",
+    "published": "2026-10-18T21:03:22Z",
+    "url": "https://github.com/can1357/oh-my-pi/releases/tag/v18.12.2"
+  },
+  "assets": [
+    {
+      "name": "omp-darwin-arm64",
+      "size": 196057120,
+      "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.12.2/omp-darwin-arm64"
+    },
+    {
+      "name": "omp-darwin-x64",
+      "size": 206714592,
+      "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.12.2/omp-darwin-x64"
+    },
+    {
+      "name": "omp-windows-arm64.exe",
+      "size": 207815680,
+      "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.12.2/omp-windows-arm64.exe"
+    },
+    {
+      "name": "omp-windows-x64.exe",
+      "size": 223004672,
+      "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.12.2/omp-windows-x64.exe"
+    },
+    {
+      "name": "omp-linux-musl-arm64",
+      "size": 208867248,
+      "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.12.2/omp-linux-musl-arm64"
+    },
+    {
+      "name": "omp-linux-musl-x64",
+      "size": 212474096,
+      "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.12.2/omp-linux-musl-x64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

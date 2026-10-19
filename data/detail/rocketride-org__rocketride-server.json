@@ -1,0 +1,42 @@
+{
+  "repo": "rocketride-org/rocketride-server",
+  "slug": "rocketride-org__rocketride-server",
+  "name": "rocketride-server",
+  "note_zh": "C++ 内核的高性能 AI 流水线引擎",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Python"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:31:16Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/rocketride-org/rocketride-server/zip/refs/heads/develop",
+  "release": {
+    "tag": "vscode-v1.4.0",
+    "name": "RocketRide VS Code Extension v1.4.0",
+    "published": "2026-09-23T18:11:36Z",
+    "url": "https://github.com/rocketride-org/rocketride-server/releases/tag/vscode-v1.4.0"
+  },
+  "assets": [
+    {
+      "name": "rocketride-1.4.0.vsix",
+      "size": 16995790,
+      "url": "https://github.com/rocketride-org/rocketride-server/releases/download/vscode-v1.4.0/rocketride-1.4.0.vsix"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

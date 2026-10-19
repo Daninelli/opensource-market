@@ -1,0 +1,42 @@
+{
+  "repo": "Tencent/wcdb",
+  "slug": "Tencent__wcdb",
+  "name": "wcdb",
+  "note_zh": "微信开源的跨平台数据库框架",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Objective-C"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-08T11:42:44Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/Tencent/wcdb/zip/refs/heads/master",
+  "release": {
+    "tag": "v2.1.16",
+    "name": "WCDB 2.1.16",
+    "published": "2026-03-27T05:47:58Z",
+    "url": "https://github.com/Tencent/wcdb/releases/tag/v2.1.16"
+  },
+  "assets": [
+    {
+      "name": "wcdb-2.1.16.zip",
+      "size": 82871471,
+      "url": "https://github.com/Tencent/wcdb/releases/download/v2.1.16/wcdb-2.1.16.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

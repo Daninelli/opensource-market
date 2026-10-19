@@ -1,0 +1,47 @@
+{
+  "repo": "google/gvisor",
+  "slug": "google__gvisor",
+  "name": "gvisor",
+  "note_zh": "容器应用内核，提供强隔离",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "C++"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:52:54Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/google/gvisor/zip/refs/heads/master",
+  "release": {
+    "tag": "release-20261012.0",
+    "name": "gVisor 20261012.0",
+    "published": "2026-10-16T20:53:24Z",
+    "url": "https://github.com/google/gvisor/releases/tag/release-20261012.0"
+  },
+  "assets": [
+    {
+      "name": "gvisor-aarch64.tar.zstd",
+      "size": 71342010,
+      "url": "https://github.com/google/gvisor/releases/download/release-20261012.0/gvisor-aarch64.tar.zstd"
+    },
+    {
+      "name": "gvisor-x86_64.tar.zstd",
+      "size": 76363853,
+      "url": "https://github.com/google/gvisor/releases/download/release-20261012.0/gvisor-x86_64.tar.zstd"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

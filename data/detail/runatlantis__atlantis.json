@@ -1,0 +1,66 @@
+{
+  "repo": "runatlantis/atlantis",
+  "slug": "runatlantis__atlantis",
+  "name": "atlantis",
+  "note_zh": "Terraform 的 Pull Request 自动化",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T01:55:55Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/runatlantis/atlantis/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.48.1",
+    "name": "v0.48.1",
+    "published": "2026-10-07T17:37:06Z",
+    "url": "https://github.com/runatlantis/atlantis/releases/tag/v0.48.1"
+  },
+  "assets": [
+    {
+      "name": "atlantis_darwin_arm64.zip",
+      "size": 15750314,
+      "url": "https://github.com/runatlantis/atlantis/releases/download/v0.48.1/atlantis_darwin_arm64.zip"
+    },
+    {
+      "name": "atlantis_windows_386.zip",
+      "size": 16336344,
+      "url": "https://github.com/runatlantis/atlantis/releases/download/v0.48.1/atlantis_windows_386.zip"
+    },
+    {
+      "name": "atlantis_windows_amd64.zip",
+      "size": 17092201,
+      "url": "https://github.com/runatlantis/atlantis/releases/download/v0.48.1/atlantis_windows_amd64.zip"
+    },
+    {
+      "name": "atlantis_darwin_amd64.zip",
+      "size": 17135897,
+      "url": "https://github.com/runatlantis/atlantis/releases/download/v0.48.1/atlantis_darwin_amd64.zip"
+    },
+    {
+      "name": "atlantis_linux_arm64.zip",
+      "size": 14909479,
+      "url": "https://github.com/runatlantis/atlantis/releases/download/v0.48.1/atlantis_linux_arm64.zip"
+    },
+    {
+      "name": "atlantis_linux_arm.zip",
+      "size": 15499590,
+      "url": "https://github.com/runatlantis/atlantis/releases/download/v0.48.1/atlantis_linux_arm.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

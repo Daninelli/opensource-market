@@ -1,0 +1,61 @@
+{
+  "repo": "floccusaddon/floccus",
+  "slug": "floccusaddon__floccus",
+  "name": "floccus",
+  "note_zh": "跨浏览器与设备私有同步书签",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "稍后读与收藏",
+  "subcategory_slug": "readlater",
+  "license": "MPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "浏览器扩展",
+  "platform": "github",
+  "updated_at": "2026-10-18T18:22:47Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/floccusaddon/floccus/zip/refs/heads/develop",
+  "release": {
+    "tag": "v5.11.1",
+    "name": "v5.11.1",
+    "published": "2026-10-02T16:31:54Z",
+    "url": "https://github.com/floccusaddon/floccus/releases/tag/v5.11.1"
+  },
+  "assets": [
+    {
+      "name": "floccus-build-v5.11.1.apk",
+      "size": 24084881,
+      "url": "https://github.com/floccusaddon/floccus/releases/download/v5.11.1/floccus-build-v5.11.1.apk"
+    },
+    {
+      "name": "floccus-build-v5.11.1-chrome.zip",
+      "size": 16954198,
+      "url": "https://github.com/floccusaddon/floccus/releases/download/v5.11.1/floccus-build-v5.11.1-chrome.zip"
+    },
+    {
+      "name": "floccus-build-v5.11.1-firefox.zip",
+      "size": 16954229,
+      "url": "https://github.com/floccusaddon/floccus/releases/download/v5.11.1/floccus-build-v5.11.1-firefox.zip"
+    },
+    {
+      "name": "floccus-build-v5.11.1.xpi",
+      "size": 16954229,
+      "url": "https://github.com/floccusaddon/floccus/releases/download/v5.11.1/floccus-build-v5.11.1.xpi"
+    },
+    {
+      "name": "floccus-build-v5.11.1.crx",
+      "size": 16954791,
+      "url": "https://github.com/floccusaddon/floccus/releases/download/v5.11.1/floccus-build-v5.11.1.crx"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

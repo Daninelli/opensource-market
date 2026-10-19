@@ -1,0 +1,66 @@
+{
+  "repo": "dolthub/dolt",
+  "slug": "dolthub__dolt",
+  "name": "dolt",
+  "note_zh": "支持版本控制的 SQL 数据库，数据界的 Git",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "二进制 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-18T08:12:18Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/dolthub/dolt/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.5.0",
+    "name": "2.5.0",
+    "published": "2026-10-17T01:02:42Z",
+    "url": "https://github.com/dolthub/dolt/releases/tag/v2.5.0"
+  },
+  "assets": [
+    {
+      "name": "dolt-windows-amd64.7z",
+      "size": 23292798,
+      "url": "https://github.com/dolthub/dolt/releases/download/v2.5.0/dolt-windows-amd64.7z"
+    },
+    {
+      "name": "dolt-windows-amd64.zip",
+      "size": 40271968,
+      "url": "https://github.com/dolthub/dolt/releases/download/v2.5.0/dolt-windows-amd64.zip"
+    },
+    {
+      "name": "dolt-darwin-arm64.tar.gz",
+      "size": 41335466,
+      "url": "https://github.com/dolthub/dolt/releases/download/v2.5.0/dolt-darwin-arm64.tar.gz"
+    },
+    {
+      "name": "dolt-darwin-amd64.tar.gz",
+      "size": 43834123,
+      "url": "https://github.com/dolthub/dolt/releases/download/v2.5.0/dolt-darwin-amd64.tar.gz"
+    },
+    {
+      "name": "dolt-linux-arm64.tar.gz",
+      "size": 40943481,
+      "url": "https://github.com/dolthub/dolt/releases/download/v2.5.0/dolt-linux-arm64.tar.gz"
+    },
+    {
+      "name": "dolt-2.5.0-1.aarch64.rpm",
+      "size": 41007704,
+      "url": "https://github.com/dolthub/dolt/releases/download/v2.5.0/dolt-2.5.0-1.aarch64.rpm"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,31 @@
+{
+  "repo": "bytedance/UI-TARS-desktop",
+  "slug": "bytedance__UI-TARS-desktop",
+  "name": "UI-TARS-desktop",
+  "note_zh": "多模态 AI 智能体桌面栈，可操作图形界面",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-09T01:29:53Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/bytedance/UI-TARS-desktop/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

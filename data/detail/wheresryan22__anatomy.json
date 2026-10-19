@@ -1,0 +1,41 @@
+{
+  "repo": "wheresryan22/anatomy",
+  "slug": "wheresryan22__anatomy",
+  "name": "anatomy",
+  "note_zh": "生成精细等距插图的智能体技能",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Markdown"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T20:20:24Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/wheresryan22/anatomy/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.1.0",
+    "name": "Anatomy 1.1",
+    "published": "2026-10-12T18:43:35Z",
+    "url": "https://github.com/wheresryan22/anatomy/releases/tag/v1.1.0"
+  },
+  "assets": [
+    {
+      "name": "anatomy.zip",
+      "size": 2965673,
+      "url": "https://github.com/wheresryan22/anatomy/releases/download/v1.1.0/anatomy.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

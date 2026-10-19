@@ -1,0 +1,72 @@
+{
+  "repo": "keeweb/keeweb",
+  "slug": "keeweb__keeweb",
+  "name": "keeweb",
+  "note_zh": "兼容 KeePass 的跨平台密码管理器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-05-08T03:29:03Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/keeweb/keeweb/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.18.7",
+    "name": "Desktop apps v1.18.7",
+    "published": "2021-07-18T14:53:06Z",
+    "url": "https://github.com/keeweb/keeweb/releases/tag/v1.18.7"
+  },
+  "assets": [
+    {
+      "name": "KeeWeb-1.18.7.win.arm64.exe",
+      "size": 59490304,
+      "url": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.arm64.exe"
+    },
+    {
+      "name": "KeeWeb-1.18.7.win.ia32.exe",
+      "size": 60156888,
+      "url": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.ia32.exe"
+    },
+    {
+      "name": "KeeWeb-1.18.7.mac.x64.dmg",
+      "size": 84478145,
+      "url": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.mac.x64.dmg"
+    },
+    {
+      "name": "KeeWeb-1.18.7.mac.arm64.dmg",
+      "size": 85807370,
+      "url": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.mac.arm64.dmg"
+    },
+    {
+      "name": "KeeWeb-1.18.7.linux.x86_64.rpm",
+      "size": 57174945,
+      "url": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.linux.x86_64.rpm"
+    },
+    {
+      "name": "KeeWeb-1.18.7.linux.x64.zip",
+      "size": 80141562,
+      "url": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.linux.x64.zip"
+    },
+    {
+      "name": "KeeWeb-1.18.7.html.zip",
+      "size": 7160996,
+      "url": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.html.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

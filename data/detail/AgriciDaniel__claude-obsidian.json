@@ -1,0 +1,42 @@
+{
+  "repo": "AgriciDaniel/claude-obsidian",
+  "slug": "AgriciDaniel__claude-obsidian",
+  "name": "claude-obsidian",
+  "note_zh": "Obsidian 与 Claude Code 联动的自组织第二大脑",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Markdown",
+    "Python"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T17:55:37Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/AgriciDaniel/claude-obsidian/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.2.0",
+    "name": "Claude Obsidian v2.2.0 - Backlog Triage",
+    "published": "2026-09-10T14:49:12Z",
+    "url": "https://github.com/AgriciDaniel/claude-obsidian/releases/tag/v2.2.0"
+  },
+  "assets": [
+    {
+      "name": "claude-obsidian-v2.2.0.zip",
+      "size": 3145865,
+      "url": "https://github.com/AgriciDaniel/claude-obsidian/releases/download/v2.2.0/claude-obsidian-v2.2.0.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

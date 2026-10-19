@@ -1,0 +1,41 @@
+{
+  "repo": "feder-cr/invisible_dots",
+  "slug": "feder-cr__invisible_dots",
+  "name": "invisible_dots",
+  "note_zh": "自托管的隐身浏览器自动化服务",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:44:48Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/feder-cr/invisible_dots/zip/refs/heads/main",
+  "release": {
+    "tag": "golden-a61faff1b2d9",
+    "name": "Golden image golden-a61faff1b2d9",
+    "published": "2026-10-19T12:44:49Z",
+    "url": "https://github.com/feder-cr/invisible_dots/releases/tag/golden-a61faff1b2d9"
+  },
+  "assets": [
+    {
+      "name": "golden-20261019123935-a61faff1b2d9.qcow2.part00",
+      "size": 702414848,
+      "url": "https://github.com/feder-cr/invisible_dots/releases/download/golden-a61faff1b2d9/golden-20261019123935-a61faff1b2d9.qcow2.part00"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

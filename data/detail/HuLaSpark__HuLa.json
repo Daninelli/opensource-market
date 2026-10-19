@@ -1,0 +1,77 @@
+{
+  "repo": "HuLaSpark/HuLa",
+  "slug": "HuLaSpark__HuLa",
+  "name": "HuLa",
+  "note_zh": "高性能跨平台即时通讯桌面端",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "即时通讯",
+  "subcategory_slug": "im",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Tauri"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-13T10:35:20Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/HuLaSpark/HuLa/zip/refs/heads/master",
+  "release": {
+    "tag": "v3.0.9",
+    "name": "v3.0.9",
+    "published": "2026-01-19T08:39:04Z",
+    "url": "https://github.com/HuLaSpark/HuLa/releases/tag/v3.0.9"
+  },
+  "assets": [
+    {
+      "name": "HuLa_3.0.9_x64-setup.exe",
+      "size": 32850559,
+      "url": "https://github.com/HuLaSpark/HuLa/releases/download/v3.0.9/HuLa_3.0.9_x64-setup.exe"
+    },
+    {
+      "name": "HuLa_3.0.9_x64_zh-CN.msi",
+      "size": 35225600,
+      "url": "https://github.com/HuLaSpark/HuLa/releases/download/v3.0.9/HuLa_3.0.9_x64_zh-CN.msi"
+    },
+    {
+      "name": "HuLa_3.0.9_aarch64.dmg",
+      "size": 36512223,
+      "url": "https://github.com/HuLaSpark/HuLa/releases/download/v3.0.9/HuLa_3.0.9_aarch64.dmg"
+    },
+    {
+      "name": "HuLa_3.0.9_x64.dmg",
+      "size": 37072957,
+      "url": "https://github.com/HuLaSpark/HuLa/releases/download/v3.0.9/HuLa_3.0.9_x64.dmg"
+    },
+    {
+      "name": "HuLa_3.0.9_amd64.deb",
+      "size": 38428628,
+      "url": "https://github.com/HuLaSpark/HuLa/releases/download/v3.0.9/HuLa_3.0.9_amd64.deb"
+    },
+    {
+      "name": "HuLa-3.0.9-1.x86_64.rpm",
+      "size": 38434111,
+      "url": "https://github.com/HuLaSpark/HuLa/releases/download/v3.0.9/HuLa-3.0.9-1.x86_64.rpm"
+    },
+    {
+      "name": "HuLa_aarch64.app.tar.gz",
+      "size": 35967085,
+      "url": "https://github.com/HuLaSpark/HuLa/releases/download/v3.0.9/HuLa_aarch64.app.tar.gz"
+    },
+    {
+      "name": "HuLa_x64.app.tar.gz",
+      "size": 36451822,
+      "url": "https://github.com/HuLaSpark/HuLa/releases/download/v3.0.9/HuLa_x64.app.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

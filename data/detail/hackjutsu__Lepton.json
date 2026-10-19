@@ -1,0 +1,62 @@
+{
+  "repo": "hackjutsu/Lepton",
+  "slug": "hackjutsu__Lepton",
+  "name": "Lepton",
+  "note_zh": "跨平台代码片段管理器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "JavaFX"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-13T03:47:39Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/hackjutsu/Lepton/zip/refs/heads/master",
+  "release": {
+    "tag": "v2.0.0",
+    "name": "2.0.0",
+    "published": "2026-07-05T22:29:13Z",
+    "url": "https://github.com/hackjutsu/Lepton/releases/tag/v2.0.0"
+  },
+  "assets": [
+    {
+      "name": "Lepton-2.0.0-win-ia32.7z",
+      "size": 75905182,
+      "url": "https://github.com/hackjutsu/Lepton/releases/download/v2.0.0/Lepton-2.0.0-win-ia32.7z"
+    },
+    {
+      "name": "Lepton-2.0.0-win-ia32.exe",
+      "size": 84603721,
+      "url": "https://github.com/hackjutsu/Lepton/releases/download/v2.0.0/Lepton-2.0.0-win-ia32.exe"
+    },
+    {
+      "name": "Lepton-2.0.0-mac-arm64.zip",
+      "size": 114086670,
+      "url": "https://github.com/hackjutsu/Lepton/releases/download/v2.0.0/Lepton-2.0.0-mac-arm64.zip"
+    },
+    {
+      "name": "Lepton-2.0.0-mac-arm64.dmg",
+      "size": 115891277,
+      "url": "https://github.com/hackjutsu/Lepton/releases/download/v2.0.0/Lepton-2.0.0-mac-arm64.dmg"
+    },
+    {
+      "name": "Lepton-2.0.0-linux-x86_64.AppImage",
+      "size": 121795380,
+      "url": "https://github.com/hackjutsu/Lepton/releases/download/v2.0.0/Lepton-2.0.0-linux-x86_64.AppImage"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

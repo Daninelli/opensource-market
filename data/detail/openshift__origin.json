@@ -1,0 +1,56 @@
+{
+  "repo": "openshift/origin",
+  "slug": "openshift__origin",
+  "name": "origin",
+  "note_zh": "OpenShift 的一致性测试套件",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:36:49Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/openshift/origin/zip/refs/heads/main",
+  "release": {
+    "tag": "v3.11.0",
+    "name": "v3.11.0",
+    "published": "2018-10-11T15:53:16Z",
+    "url": "https://github.com/openshift/origin/releases/tag/v3.11.0"
+  },
+  "assets": [
+    {
+      "name": "openshift-origin-client-tools-v3.11.0-0cbc58b-windows.zip",
+      "size": 56190690,
+      "url": "https://github.com/openshift/origin/releases/download/v3.11.0/openshift-origin-client-tools-v3.11.0-0cbc58b-windows.zip"
+    },
+    {
+      "name": "openshift-origin-client-tools-v3.11.0-0cbc58b-linux-64bit.tar.gz",
+      "size": 56507103,
+      "url": "https://github.com/openshift/origin/releases/download/v3.11.0/openshift-origin-client-tools-v3.11.0-0cbc58b-linux-64bit.tar.gz"
+    },
+    {
+      "name": "openshift-origin-server-v3.11.0-0cbc58b-linux-64bit.tar.gz",
+      "size": 228058872,
+      "url": "https://github.com/openshift/origin/releases/download/v3.11.0/openshift-origin-server-v3.11.0-0cbc58b-linux-64bit.tar.gz"
+    },
+    {
+      "name": "openshift-origin-client-tools-v3.11.0-0cbc58b-mac.zip",
+      "size": 55858072,
+      "url": "https://github.com/openshift/origin/releases/download/v3.11.0/openshift-origin-client-tools-v3.11.0-0cbc58b-mac.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,57 @@
+{
+  "repo": "STranslate/STranslate",
+  "slug": "STranslate__STranslate",
+  "name": "STranslate",
+  "note_zh": "开箱即用的翻译与 OCR 工具",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-09-24T07:06:34Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/STranslate/STranslate/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.0.10",
+    "name": "v2.0.10",
+    "published": "2026-09-04T14:14:50Z",
+    "url": "https://github.com/STranslate/STranslate/releases/tag/v2.0.10"
+  },
+  "assets": [
+    {
+      "name": "STranslate-win-Portable.zip",
+      "size": 55704398,
+      "url": "https://github.com/STranslate/STranslate/releases/download/v2.0.10/STranslate-win-Portable.zip"
+    },
+    {
+      "name": "STranslate-win-Setup.exe",
+      "size": 60189153,
+      "url": "https://github.com/STranslate/STranslate/releases/download/v2.0.10/STranslate-win-Setup.exe"
+    },
+    {
+      "name": "STranslate-2.0.10-delta.nupkg",
+      "size": 2335006,
+      "url": "https://github.com/STranslate/STranslate/releases/download/v2.0.10/STranslate-2.0.10-delta.nupkg"
+    },
+    {
+      "name": "STranslate-2.0.10-full.nupkg",
+      "size": 55710689,
+      "url": "https://github.com/STranslate/STranslate/releases/download/v2.0.10/STranslate-2.0.10-full.nupkg"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

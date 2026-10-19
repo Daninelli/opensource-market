@@ -1,0 +1,67 @@
+{
+  "repo": "wavetermdev/waveterm",
+  "slug": "wavetermdev__waveterm",
+  "name": "waveterm",
+  "note_zh": "AI 集成的跨平台终端，图形化工作流",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "TypeScript"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-17T14:59:42Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/wavetermdev/waveterm/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.14.5",
+    "name": "Wave Terminal v0.14.5 Release",
+    "published": "2026-04-16T16:01:54Z",
+    "url": "https://github.com/wavetermdev/waveterm/releases/tag/v0.14.5"
+  },
+  "assets": [
+    {
+      "name": "Wave-win32-x64-0.14.5.exe",
+      "size": 163826544,
+      "url": "https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/Wave-win32-x64-0.14.5.exe"
+    },
+    {
+      "name": "Wave-win32-x64-0.14.5.msi",
+      "size": 180088832,
+      "url": "https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/Wave-win32-x64-0.14.5.msi"
+    },
+    {
+      "name": "Wave-darwin-arm64-0.14.5.zip",
+      "size": 192631777,
+      "url": "https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/Wave-darwin-arm64-0.14.5.zip"
+    },
+    {
+      "name": "Wave-darwin-arm64-0.14.5.dmg",
+      "size": 200257009,
+      "url": "https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/Wave-darwin-arm64-0.14.5.dmg"
+    },
+    {
+      "name": "waveterm-linux-aarch64-0.14.5.rpm",
+      "size": 120553541,
+      "url": "https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/waveterm-linux-aarch64-0.14.5.rpm"
+    },
+    {
+      "name": "waveterm-linux-x86_64-0.14.5.rpm",
+      "size": 126606637,
+      "url": "https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/waveterm-linux-x86_64-0.14.5.rpm"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

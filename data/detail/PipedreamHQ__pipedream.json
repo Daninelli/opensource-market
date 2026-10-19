@@ -1,0 +1,30 @@
+{
+  "repo": "PipedreamHQ/pipedream",
+  "slug": "PipedreamHQ__pipedream",
+  "name": "pipedream",
+  "note_zh": "快速连接各类 API 的集成开发平台",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "依赖库 / 云服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:52:38Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/PipedreamHQ/pipedream/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

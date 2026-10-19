@@ -1,0 +1,51 @@
+{
+  "repo": "containerd/containerd",
+  "slug": "containerd__containerd",
+  "name": "containerd",
+  "note_zh": "工业级容器运行时，K8s 默认底座",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "二进制 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T16:49:22Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/containerd/containerd/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.4.2",
+    "name": "containerd 2.4.2",
+    "published": "2026-10-13T22:35:06Z",
+    "url": "https://github.com/containerd/containerd/releases/tag/v2.4.2"
+  },
+  "assets": [
+    {
+      "name": "containerd-2.4.2-windows-amd64.tar.gz",
+      "size": 42100467,
+      "url": "https://github.com/containerd/containerd/releases/download/v2.4.2/containerd-2.4.2-windows-amd64.tar.gz"
+    },
+    {
+      "name": "containerd-static-2.4.2-linux-arm64.tar.gz",
+      "size": 30823894,
+      "url": "https://github.com/containerd/containerd/releases/download/v2.4.2/containerd-static-2.4.2-linux-arm64.tar.gz"
+    },
+    {
+      "name": "containerd-static-2.4.2-linux-ppc64le.tar.gz",
+      "size": 30940564,
+      "url": "https://github.com/containerd/containerd/releases/download/v2.4.2/containerd-static-2.4.2-linux-ppc64le.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

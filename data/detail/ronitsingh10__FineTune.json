@@ -1,0 +1,42 @@
+{
+  "repo": "ronitsingh10/FineTune",
+  "slug": "ronitsingh10__FineTune",
+  "name": "FineTune",
+  "note_zh": "macOS 菜单栏分应用音量控制",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "系统工具",
+  "subcategory_slug": "system",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Swift",
+    "macOS"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-07-09T07:54:56Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/ronitsingh10/FineTune/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.9.0",
+    "name": "v1.9.0",
+    "published": "2026-07-09T07:54:57Z",
+    "url": "https://github.com/ronitsingh10/FineTune/releases/tag/v1.9.0"
+  },
+  "assets": [
+    {
+      "name": "FineTune.dmg",
+      "size": 5436346,
+      "url": "https://github.com/ronitsingh10/FineTune/releases/download/v1.9.0/FineTune.dmg"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

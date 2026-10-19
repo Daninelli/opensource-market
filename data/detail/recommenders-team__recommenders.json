@@ -1,0 +1,46 @@
+{
+  "repo": "recommenders-team/recommenders",
+  "slug": "recommenders-team__recommenders",
+  "name": "recommenders",
+  "note_zh": "微软推荐系统最佳实践与算法库",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "数据分析",
+  "subcategory_slug": "bi",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:12:34Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/recommenders-team/recommenders/zip/refs/heads/main",
+  "release": {
+    "tag": "1.2.1",
+    "name": "Recommenders 1.2.1",
+    "published": "2024-12-24T07:39:57Z",
+    "url": "https://github.com/recommenders-team/recommenders/releases/tag/1.2.1"
+  },
+  "assets": [
+    {
+      "name": "recommenders-1.2.1.tar.gz",
+      "size": 276800,
+      "url": "https://github.com/recommenders-team/recommenders/releases/download/1.2.1/recommenders-1.2.1.tar.gz"
+    },
+    {
+      "name": "recommenders-1.2.1-py3-none-any.whl",
+      "size": 355314,
+      "url": "https://github.com/recommenders-team/recommenders/releases/download/1.2.1/recommenders-1.2.1-py3-none-any.whl"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

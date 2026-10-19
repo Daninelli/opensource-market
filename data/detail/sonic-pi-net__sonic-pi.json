@@ -1,0 +1,31 @@
+{
+  "repo": "sonic-pi-net/sonic-pi",
+  "slug": "sonic-pi-net__sonic-pi",
+  "name": "sonic-pi",
+  "note_zh": "用代码创作音乐的编程环境",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Ruby"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:45:58Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/sonic-pi-net/sonic-pi/zip/refs/heads/dev",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

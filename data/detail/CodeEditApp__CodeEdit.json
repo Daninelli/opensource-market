@@ -1,0 +1,42 @@
+{
+  "repo": "CodeEditApp/CodeEdit",
+  "slug": "CodeEditApp__CodeEdit",
+  "name": "CodeEdit",
+  "note_zh": "macOS 原生开源代码编辑器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Swift",
+    "macOS"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-17T18:45:36Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/CodeEditApp/CodeEdit/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.3.6",
+    "name": "v0.3.6",
+    "published": "2025-08-26T20:35:39Z",
+    "url": "https://github.com/CodeEditApp/CodeEdit/releases/tag/v0.3.6"
+  },
+  "assets": [
+    {
+      "name": "CodeEdit.dmg",
+      "size": 35962501,
+      "url": "https://github.com/CodeEditApp/CodeEdit/releases/download/v0.3.6/CodeEdit.dmg"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

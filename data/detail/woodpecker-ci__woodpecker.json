@@ -1,0 +1,77 @@
+{
+  "repo": "woodpecker-ci/woodpecker",
+  "slug": "woodpecker-ci__woodpecker",
+  "name": "woodpecker",
+  "note_zh": "简单强大的 CI/CD 引擎",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:50:05Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/woodpecker-ci/woodpecker/zip/refs/heads/main",
+  "release": {
+    "tag": "v3.19.0",
+    "name": "3.19.0",
+    "published": "2026-10-07T18:04:00Z",
+    "url": "https://github.com/woodpecker-ci/woodpecker/releases/tag/v3.19.0"
+  },
+  "assets": [
+    {
+      "name": "woodpecker-agent_darwin_arm64.tar.gz",
+      "size": 15292120,
+      "url": "https://github.com/woodpecker-ci/woodpecker/releases/download/v3.19.0/woodpecker-agent_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "woodpecker-agent_darwin_amd64.tar.gz",
+      "size": 16808839,
+      "url": "https://github.com/woodpecker-ci/woodpecker/releases/download/v3.19.0/woodpecker-agent_darwin_amd64.tar.gz"
+    },
+    {
+      "name": "woodpecker-agent_windows_amd64.zip",
+      "size": 16853265,
+      "url": "https://github.com/woodpecker-ci/woodpecker/releases/download/v3.19.0/woodpecker-agent_windows_amd64.zip"
+    },
+    {
+      "name": "woodpecker-server_windows_amd64.zip",
+      "size": 20280679,
+      "url": "https://github.com/woodpecker-ci/woodpecker/releases/download/v3.19.0/woodpecker-server_windows_amd64.zip"
+    },
+    {
+      "name": "woodpecker-agent_linux_arm64.tar.gz",
+      "size": 14392809,
+      "url": "https://github.com/woodpecker-ci/woodpecker/releases/download/v3.19.0/woodpecker-agent_linux_arm64.tar.gz"
+    },
+    {
+      "name": "woodpecker-agent_linux_arm.tar.gz",
+      "size": 15273603,
+      "url": "https://github.com/woodpecker-ci/woodpecker/releases/download/v3.19.0/woodpecker-agent_linux_arm.tar.gz"
+    },
+    {
+      "name": "woodpecker-agent_openbsd_arm64.tar.gz",
+      "size": 14359771,
+      "url": "https://github.com/woodpecker-ci/woodpecker/releases/download/v3.19.0/woodpecker-agent_openbsd_arm64.tar.gz"
+    },
+    {
+      "name": "woodpecker-agent_freebsd_arm64.tar.gz",
+      "size": 14361922,
+      "url": "https://github.com/woodpecker-ci/woodpecker/releases/download/v3.19.0/woodpecker-agent_freebsd_arm64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

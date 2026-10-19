@@ -1,0 +1,41 @@
+{
+  "repo": "givanz/VvvebJs",
+  "slug": "givanz__VvvebJs",
+  "name": "VvvebJs",
+  "note_zh": "原生 JS 的拖拽式页面搭建库",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "低代码平台",
+  "subcategory_slug": "low-code",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-07-01T16:47:27Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/givanz/VvvebJs/zip/refs/heads/master",
+  "release": {
+    "tag": "2.0.9",
+    "name": "VvvebJs 2.0.9",
+    "published": "2026-07-01T16:47:27Z",
+    "url": "https://github.com/givanz/VvvebJs/releases/tag/2.0.9"
+  },
+  "assets": [
+    {
+      "name": "Vvvebjs-bundle.zip",
+      "size": 28386788,
+      "url": "https://github.com/givanz/VvvebJs/releases/download/2.0.9/Vvvebjs-bundle.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

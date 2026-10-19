@@ -1,0 +1,61 @@
+{
+  "repo": "gravitl/netmaker",
+  "slug": "gravitl__netmaker",
+  "name": "netmaker",
+  "note_zh": "用 WireGuard 自动组建虚拟网络",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:12:48Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/gravitl/netmaker/zip/refs/heads/develop",
+  "release": {
+    "tag": "v1.7.0",
+    "name": "v1.7.0",
+    "published": "2026-08-31T14:48:24Z",
+    "url": "https://github.com/gravitl/netmaker/releases/tag/v1.7.0"
+  },
+  "assets": [
+    {
+      "name": "nmctl-darwin-arm64",
+      "size": 8418674,
+      "url": "https://github.com/gravitl/netmaker/releases/download/v1.7.0/nmctl-darwin-arm64"
+    },
+    {
+      "name": "nmctl-darwin-amd64",
+      "size": 9045984,
+      "url": "https://github.com/gravitl/netmaker/releases/download/v1.7.0/nmctl-darwin-amd64"
+    },
+    {
+      "name": "nmctl-windows-amd64.exe",
+      "size": 9107456,
+      "url": "https://github.com/gravitl/netmaker/releases/download/v1.7.0/nmctl-windows-amd64.exe"
+    },
+    {
+      "name": "nmctl-linux-arm64",
+      "size": 8257698,
+      "url": "https://github.com/gravitl/netmaker/releases/download/v1.7.0/nmctl-linux-arm64"
+    },
+    {
+      "name": "nmctl-linux-amd64",
+      "size": 8847522,
+      "url": "https://github.com/gravitl/netmaker/releases/download/v1.7.0/nmctl-linux-amd64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

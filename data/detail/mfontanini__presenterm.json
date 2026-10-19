@@ -1,0 +1,66 @@
+{
+  "repo": "mfontanini/presenterm",
+  "slug": "mfontanini__presenterm",
+  "name": "presenterm",
+  "note_zh": "终端里播放 Markdown 幻灯片",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "办公套件",
+  "subcategory_slug": "office",
+  "license": "BSD-2-Clause",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-05-22T15:43:27Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/mfontanini/presenterm/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.16.1",
+    "name": "v0.16.1",
+    "published": "2026-02-20T01:51:07Z",
+    "url": "https://github.com/mfontanini/presenterm/releases/tag/v0.16.1"
+  },
+  "assets": [
+    {
+      "name": "presenterm-0.16.1-i686-pc-windows-msvc.zip",
+      "size": 3260405,
+      "url": "https://github.com/mfontanini/presenterm/releases/download/v0.16.1/presenterm-0.16.1-i686-pc-windows-msvc.zip"
+    },
+    {
+      "name": "presenterm-0.16.1-x86_64-pc-windows-msvc.zip",
+      "size": 3429089,
+      "url": "https://github.com/mfontanini/presenterm/releases/download/v0.16.1/presenterm-0.16.1-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "presenterm-0.16.1-aarch64-apple-darwin.tar.gz",
+      "size": 3454533,
+      "url": "https://github.com/mfontanini/presenterm/releases/download/v0.16.1/presenterm-0.16.1-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "presenterm-0.16.1-x86_64-apple-darwin.tar.gz",
+      "size": 3627654,
+      "url": "https://github.com/mfontanini/presenterm/releases/download/v0.16.1/presenterm-0.16.1-x86_64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "presenterm-0.16.1-aarch64-unknown-linux-gnu.tar.gz",
+      "size": 3591749,
+      "url": "https://github.com/mfontanini/presenterm/releases/download/v0.16.1/presenterm-0.16.1-aarch64-unknown-linux-gnu.tar.gz"
+    },
+    {
+      "name": "presenterm-0.16.1-armv7-unknown-linux-gnueabihf.tar.gz",
+      "size": 3634741,
+      "url": "https://github.com/mfontanini/presenterm/releases/download/v0.16.1/presenterm-0.16.1-armv7-unknown-linux-gnueabihf.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

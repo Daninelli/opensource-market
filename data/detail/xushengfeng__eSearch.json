@@ -1,0 +1,67 @@
+{
+  "repo": "xushengfeng/eSearch",
+  "slug": "xushengfeng__eSearch",
+  "name": "eSearch",
+  "note_zh": "截屏 OCR 搜索翻译与录屏一体工具",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-15T11:38:20Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/xushengfeng/eSearch/zip/refs/heads/master",
+  "release": {
+    "tag": "15.6.0",
+    "name": "15.6.0",
+    "published": "2026-10-03T05:37:45Z",
+    "url": "https://github.com/xushengfeng/eSearch/releases/tag/15.6.0"
+  },
+  "assets": [
+    {
+      "name": "eSearch-15.6.0-win32-arm64.exe",
+      "size": 155335086,
+      "url": "https://github.com/xushengfeng/eSearch/releases/download/15.6.0/eSearch-15.6.0-win32-arm64.exe"
+    },
+    {
+      "name": "eSearch-15.6.0-darwin-x64.zip",
+      "size": 176035509,
+      "url": "https://github.com/xushengfeng/eSearch/releases/download/15.6.0/eSearch-15.6.0-darwin-x64.zip"
+    },
+    {
+      "name": "eSearch-15.6.0-darwin-x64.dmg",
+      "size": 180086008,
+      "url": "https://github.com/xushengfeng/eSearch/releases/download/15.6.0/eSearch-15.6.0-darwin-x64.dmg"
+    },
+    {
+      "name": "eSearch-15.6.0-win32-x64.exe",
+      "size": 191962215,
+      "url": "https://github.com/xushengfeng/eSearch/releases/download/15.6.0/eSearch-15.6.0-win32-x64.exe"
+    },
+    {
+      "name": "eSearch-15.6.0-linux-arm64.rpm",
+      "size": 125374389,
+      "url": "https://github.com/xushengfeng/eSearch/releases/download/15.6.0/eSearch-15.6.0-linux-arm64.rpm"
+    },
+    {
+      "name": "eSearch-15.6.0-linux-arm64.deb",
+      "size": 137079928,
+      "url": "https://github.com/xushengfeng/eSearch/releases/download/15.6.0/eSearch-15.6.0-linux-arm64.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

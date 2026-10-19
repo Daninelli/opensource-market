@@ -1,0 +1,31 @@
+{
+  "repo": "flame-engine/flame",
+  "slug": "flame-engine__flame",
+  "name": "flame",
+  "note_zh": "基于 Flutter 的 2D 游戏引擎",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏引擎",
+  "subcategory_slug": "engine",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Dart",
+    "Flutter"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:34:08Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/flame-engine/flame/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

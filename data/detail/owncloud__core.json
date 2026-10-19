@@ -1,0 +1,57 @@
+{
+  "repo": "owncloud/core",
+  "slug": "owncloud__core",
+  "name": "core",
+  "note_zh": "ownCloud 文件同步与共享服务核心",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "文件管理与网盘",
+  "subcategory_slug": "file",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "Vue"
+  ],
+  "deploy_type": "Docker 部署 / 传统部署",
+  "platform": "github",
+  "updated_at": "2026-10-17T04:25:40Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/owncloud/core/zip/refs/heads/master",
+  "release": {
+    "tag": "v10.16.6",
+    "name": "v10.16.6",
+    "published": "2026-10-06T13:23:03Z",
+    "url": "https://github.com/owncloud/core/releases/tag/v10.16.6"
+  },
+  "assets": [
+    {
+      "name": "owncloud-10.16.6.tar.bz2",
+      "size": 57843056,
+      "url": "https://github.com/owncloud/core/releases/download/v10.16.6/owncloud-10.16.6.tar.bz2"
+    },
+    {
+      "name": "owncloud-10.16.6-qa.tar.bz2",
+      "size": 69129315,
+      "url": "https://github.com/owncloud/core/releases/download/v10.16.6/owncloud-10.16.6-qa.tar.bz2"
+    },
+    {
+      "name": "owncloud-10.16.6.zip",
+      "size": 72800332,
+      "url": "https://github.com/owncloud/core/releases/download/v10.16.6/owncloud-10.16.6.zip"
+    },
+    {
+      "name": "owncloud-10.16.6-qa.zip",
+      "size": 87347227,
+      "url": "https://github.com/owncloud/core/releases/download/v10.16.6/owncloud-10.16.6-qa.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

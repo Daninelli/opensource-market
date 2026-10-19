@@ -1,0 +1,67 @@
+{
+  "repo": "juice-shop/juice-shop",
+  "slug": "juice-shop__juice-shop",
+  "name": "juice-shop",
+  "note_zh": "OWASP 官方漏洞演练靶场",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Node.js"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:20:49Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/juice-shop/juice-shop/zip/refs/heads/master",
+  "release": {
+    "tag": "v20.3.0",
+    "name": "v20.3.0",
+    "published": "2026-10-11T22:48:38Z",
+    "url": "https://github.com/juice-shop/juice-shop/releases/tag/v20.3.0"
+  },
+  "assets": [
+    {
+      "name": "juice-shop-20.3.0_node26_win32_x64.zip",
+      "size": 128857660,
+      "url": "https://github.com/juice-shop/juice-shop/releases/download/v20.3.0/juice-shop-20.3.0_node26_win32_x64.zip"
+    },
+    {
+      "name": "juice-shop-20.3.0_node26_darwin_arm64.zip",
+      "size": 132978790,
+      "url": "https://github.com/juice-shop/juice-shop/releases/download/v20.3.0/juice-shop-20.3.0_node26_darwin_arm64.zip"
+    },
+    {
+      "name": "juice-shop-20.3.0_node22_win32_x64.zip",
+      "size": 133451346,
+      "url": "https://github.com/juice-shop/juice-shop/releases/download/v20.3.0/juice-shop-20.3.0_node22_win32_x64.zip"
+    },
+    {
+      "name": "juice-shop-20.3.0_node22_darwin_arm64.zip",
+      "size": 137666497,
+      "url": "https://github.com/juice-shop/juice-shop/releases/download/v20.3.0/juice-shop-20.3.0_node22_darwin_arm64.zip"
+    },
+    {
+      "name": "juice-shop-20.3.0_node26_linux_arm64.tgz",
+      "size": 101464075,
+      "url": "https://github.com/juice-shop/juice-shop/releases/download/v20.3.0/juice-shop-20.3.0_node26_linux_arm64.tgz"
+    },
+    {
+      "name": "juice-shop-20.3.0_node26_linux_x64.tgz",
+      "size": 102409006,
+      "url": "https://github.com/juice-shop/juice-shop/releases/download/v20.3.0/juice-shop-20.3.0_node26_linux_x64.tgz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

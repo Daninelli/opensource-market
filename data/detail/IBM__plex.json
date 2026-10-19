@@ -1,0 +1,46 @@
+{
+  "repo": "IBM/plex",
+  "slug": "IBM__plex",
+  "name": "plex",
+  "note_zh": "IBM 开源的企业级字体家族",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "OFL-1.1",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "字体设计"
+  ],
+  "deploy_type": "源码 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-16T13:45:32Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/IBM/plex/zip/refs/heads/master",
+  "release": {
+    "tag": "@ibm/plex-sans@1.1.0",
+    "name": "@ibm/ibm-plex-sans@1.1.0",
+    "published": "2024-11-13T08:23:59Z",
+    "url": "https://github.com/IBM/plex/releases/tag/%40ibm/plex-sans%401.1.0"
+  },
+  "assets": [
+    {
+      "name": "sources.zip",
+      "size": 9349637,
+      "url": "https://github.com/IBM/plex/releases/download/%40ibm/plex-sans%401.1.0/sources.zip"
+    },
+    {
+      "name": "ibm-plex-sans.zip",
+      "size": 9921777,
+      "url": "https://github.com/IBM/plex/releases/download/%40ibm/plex-sans%401.1.0/ibm-plex-sans.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

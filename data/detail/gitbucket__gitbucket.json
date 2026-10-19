@@ -1,0 +1,41 @@
+{
+  "repo": "gitbucket/gitbucket",
+  "slug": "gitbucket__gitbucket",
+  "name": "gitbucket",
+  "note_zh": "Scala 实现的 Git 平台，安装简单",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Scala"
+  ],
+  "deploy_type": "二进制 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-18T22:32:11Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/gitbucket/gitbucket/zip/refs/heads/master",
+  "release": {
+    "tag": "4.48.0",
+    "name": "4.48.0",
+    "published": "2026-09-20T07:42:02Z",
+    "url": "https://github.com/gitbucket/gitbucket/releases/tag/4.48.0"
+  },
+  "assets": [
+    {
+      "name": "gitbucket.war",
+      "size": 71578194,
+      "url": "https://github.com/gitbucket/gitbucket/releases/download/4.48.0/gitbucket.war"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

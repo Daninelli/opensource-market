@@ -1,0 +1,77 @@
+{
+  "repo": "codexu/note-gen",
+  "slug": "codexu__note-gen",
+  "name": "note-gen",
+  "note_zh": "本地优先的 Markdown 速记应用",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Tauri"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:42:34Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/codexu/note-gen/zip/refs/heads/dev",
+  "release": {
+    "tag": "note-gen-v0.38.3",
+    "name": "NoteGen v0.38.3",
+    "published": "2026-10-18T02:50:30Z",
+    "url": "https://github.com/codexu/note-gen/releases/tag/note-gen-v0.38.3"
+  },
+  "assets": [
+    {
+      "name": "NoteGen_0.38.3_aarch64.dmg",
+      "size": 19029887,
+      "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.38.3/NoteGen_0.38.3_aarch64.dmg"
+    },
+    {
+      "name": "NoteGen_0.38.3_x64_en-US.msi",
+      "size": 19595264,
+      "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.38.3/NoteGen_0.38.3_x64_en-US.msi"
+    },
+    {
+      "name": "NoteGen_0.38.3_x64.dmg",
+      "size": 19898091,
+      "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.38.3/NoteGen_0.38.3_x64.dmg"
+    },
+    {
+      "name": "NoteGen_0.38.3_amd64.deb",
+      "size": 20402938,
+      "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.38.3/NoteGen_0.38.3_amd64.deb"
+    },
+    {
+      "name": "NoteGen-0.38.3-1.x86_64.rpm",
+      "size": 20406980,
+      "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.38.3/NoteGen-0.38.3-1.x86_64.rpm"
+    },
+    {
+      "name": "NoteGen_0.38.3_android-arm64.apk",
+      "size": 51605075,
+      "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.38.3/NoteGen_0.38.3_android-arm64.apk"
+    },
+    {
+      "name": "NoteGen_aarch64.app.tar.gz",
+      "size": 19301371,
+      "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.38.3/NoteGen_aarch64.app.tar.gz"
+    },
+    {
+      "name": "NoteGen_x64.app.tar.gz",
+      "size": 20055192,
+      "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.38.3/NoteGen_x64.app.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

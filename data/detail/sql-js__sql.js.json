@@ -1,0 +1,57 @@
+{
+  "repo": "sql-js/sql.js",
+  "slug": "sql-js__sql.js",
+  "name": "sql.js",
+  "note_zh": "在浏览器里运行 SQLite",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "WebAssembly"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:51:38Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/sql-js/sql.js/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.15.1",
+    "name": "Release v1.15.1",
+    "published": "2026-10-19T08:54:11Z",
+    "url": "https://github.com/sql-js/sql.js/releases/tag/v1.15.1"
+  },
+  "assets": [
+    {
+      "name": "sqljs-wasm.zip",
+      "size": 352665,
+      "url": "https://github.com/sql-js/sql.js/releases/download/v1.15.1/sqljs-wasm.zip"
+    },
+    {
+      "name": "sqljs-worker-wasm.zip",
+      "size": 353555,
+      "url": "https://github.com/sql-js/sql.js/releases/download/v1.15.1/sqljs-worker-wasm.zip"
+    },
+    {
+      "name": "sql-wasm-inline.js",
+      "size": 959604,
+      "url": "https://github.com/sql-js/sql.js/releases/download/v1.15.1/sql-wasm-inline.js"
+    },
+    {
+      "name": "worker.sql-wasm-inline.js",
+      "size": 963068,
+      "url": "https://github.com/sql-js/sql.js/releases/download/v1.15.1/worker.sql-wasm-inline.js"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

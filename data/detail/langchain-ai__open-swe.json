@@ -1,0 +1,66 @@
+{
+  "repo": "langchain-ai/open-swe",
+  "slug": "langchain-ai__open-swe",
+  "name": "open-swe",
+  "note_zh": "开源异步编码智能体",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:54:06Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/langchain-ai/open-swe/zip/refs/heads/main",
+  "release": {
+    "tag": "desktop-v0.3.8",
+    "name": "Open SWE Desktop v0.3.8",
+    "published": "2026-10-15T23:06:45Z",
+    "url": "https://github.com/langchain-ai/open-swe/releases/tag/desktop-v0.3.8"
+  },
+  "assets": [
+    {
+      "name": "oswe-darwin-arm64.tar.gz",
+      "size": 25412082,
+      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.8/oswe-darwin-arm64.tar.gz"
+    },
+    {
+      "name": "oswe-darwin-x64.tar.gz",
+      "size": 28476289,
+      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.8/oswe-darwin-x64.tar.gz"
+    },
+    {
+      "name": "oswe-linux-arm64.tar.gz",
+      "size": 36640898,
+      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.8/oswe-linux-arm64.tar.gz"
+    },
+    {
+      "name": "oswe-linux-x64.tar.gz",
+      "size": 36685149,
+      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.8/oswe-linux-x64.tar.gz"
+    },
+    {
+      "name": "Open-SWE-0.3.8-arm64-mac.zip",
+      "size": 162269846,
+      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.8/Open-SWE-0.3.8-arm64-mac.zip"
+    },
+    {
+      "name": "Open-SWE-0.3.8.app.zip",
+      "size": 162350614,
+      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.8/Open-SWE-0.3.8.app.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

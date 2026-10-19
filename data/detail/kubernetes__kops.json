@@ -1,0 +1,61 @@
+{
+  "repo": "kubernetes/kops",
+  "slug": "kubernetes__kops",
+  "name": "kops",
+  "note_zh": "生产级 Kubernetes 集群的安装与管理",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:37:21Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/kubernetes/kops/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.36.2",
+    "name": "v1.36.2",
+    "published": "2026-08-08T14:36:21Z",
+    "url": "https://github.com/kubernetes/kops/releases/tag/v1.36.2"
+  },
+  "assets": [
+    {
+      "name": "kops-darwin-arm64",
+      "size": 159618114,
+      "url": "https://github.com/kubernetes/kops/releases/download/v1.36.2/kops-darwin-arm64"
+    },
+    {
+      "name": "kops-windows-amd64",
+      "size": 175905280,
+      "url": "https://github.com/kubernetes/kops/releases/download/v1.36.2/kops-windows-amd64"
+    },
+    {
+      "name": "kops-darwin-amd64",
+      "size": 176948544,
+      "url": "https://github.com/kubernetes/kops/releases/download/v1.36.2/kops-darwin-amd64"
+    },
+    {
+      "name": "protokube-linux-arm64",
+      "size": 88735906,
+      "url": "https://github.com/kubernetes/kops/releases/download/v1.36.2/protokube-linux-arm64"
+    },
+    {
+      "name": "protokube-linux-amd64",
+      "size": 99664034,
+      "url": "https://github.com/kubernetes/kops/releases/download/v1.36.2/protokube-linux-amd64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

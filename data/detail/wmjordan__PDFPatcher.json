@@ -1,0 +1,42 @@
+{
+  "repo": "wmjordan/PDFPatcher",
+  "slug": "wmjordan__PDFPatcher",
+  "name": "PDFPatcher",
+  "note_zh": "PDF 工具箱，编辑书签剪裁合并",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-15T08:26:50Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "v1.2",
+  "download_url": "https://codeload.github.com/wmjordan/PDFPatcher/zip/refs/heads/v1.2",
+  "release": {
+    "tag": "v1.1",
+    "name": "PDF 补丁丁 1.1.0",
+    "published": "2025-02-01T06:38:33Z",
+    "url": "https://github.com/wmjordan/PDFPatcher/releases/tag/v1.1"
+  },
+  "assets": [
+    {
+      "name": "PDFPatcher.1.1.0.4632.7z",
+      "size": 7932288,
+      "url": "https://github.com/wmjordan/PDFPatcher/releases/download/v1.1/PDFPatcher.1.1.0.4632.7z"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

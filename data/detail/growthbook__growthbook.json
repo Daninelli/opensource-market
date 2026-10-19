@@ -1,0 +1,31 @@
+{
+  "repo": "growthbook/growthbook",
+  "slug": "growthbook__growthbook",
+  "name": "growthbook",
+  "note_zh": "开源特性开关与实验分析平台",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "数据分析",
+  "subcategory_slug": "bi",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Go"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:58:32Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/growthbook/growthbook/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

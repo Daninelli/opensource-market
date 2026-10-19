@@ -1,0 +1,71 @@
+{
+  "repo": "thanos-io/thanos",
+  "slug": "thanos-io__thanos",
+  "name": "thanos",
+  "note_zh": "Prometheus 高可用与长期存储方案",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-15T11:08:06Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/thanos-io/thanos/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.42.4",
+    "name": "v0.42.4",
+    "published": "2026-07-30T14:33:20Z",
+    "url": "https://github.com/thanos-io/thanos/releases/tag/v0.42.4"
+  },
+  "assets": [
+    {
+      "name": "thanos-0.42.4.darwin-arm64.tar.gz",
+      "size": 55353032,
+      "url": "https://github.com/thanos-io/thanos/releases/download/v0.42.4/thanos-0.42.4.darwin-arm64.tar.gz"
+    },
+    {
+      "name": "thanos-0.42.4.windows-amd64.tar.gz",
+      "size": 56168310,
+      "url": "https://github.com/thanos-io/thanos/releases/download/v0.42.4/thanos-0.42.4.windows-amd64.tar.gz"
+    },
+    {
+      "name": "thanos-0.42.4.windows-amd64.zip",
+      "size": 57231834,
+      "url": "https://github.com/thanos-io/thanos/releases/download/v0.42.4/thanos-0.42.4.windows-amd64.zip"
+    },
+    {
+      "name": "thanos-0.42.4.darwin-amd64.tar.gz",
+      "size": 58362506,
+      "url": "https://github.com/thanos-io/thanos/releases/download/v0.42.4/thanos-0.42.4.darwin-amd64.tar.gz"
+    },
+    {
+      "name": "thanos-0.42.4.linux-arm64.tar.gz",
+      "size": 51943007,
+      "url": "https://github.com/thanos-io/thanos/releases/download/v0.42.4/thanos-0.42.4.linux-arm64.tar.gz"
+    },
+    {
+      "name": "thanos-0.42.4.linux-ppc64le.tar.gz",
+      "size": 52568173,
+      "url": "https://github.com/thanos-io/thanos/releases/download/v0.42.4/thanos-0.42.4.linux-ppc64le.tar.gz"
+    },
+    {
+      "name": "thanos-0.42.4.freebsd-amd64.tar.gz",
+      "size": 55511088,
+      "url": "https://github.com/thanos-io/thanos/releases/download/v0.42.4/thanos-0.42.4.freebsd-amd64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

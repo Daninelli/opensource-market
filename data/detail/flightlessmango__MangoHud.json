@@ -1,0 +1,47 @@
+{
+  "repo": "flightlessmango/MangoHud",
+  "slug": "flightlessmango__MangoHud",
+  "name": "MangoHud",
+  "note_zh": "游戏帧率与温度覆盖层监控",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C",
+    "Vulkan"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T04:51:59Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/flightlessmango/MangoHud/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.8.4",
+    "name": "v0.8.4",
+    "published": "2026-05-27T14:19:51Z",
+    "url": "https://github.com/flightlessmango/MangoHud/releases/tag/v0.8.4"
+  },
+  "assets": [
+    {
+      "name": "MangoHud-0.8.4.r0.g992103e.tar.gz",
+      "size": 10282346,
+      "url": "https://github.com/flightlessmango/MangoHud/releases/download/v0.8.4/MangoHud-0.8.4.r0.g992103e.tar.gz"
+    },
+    {
+      "name": "MangoHud-v0.8.4-Source-DFSG.tar.xz",
+      "size": 18706388,
+      "url": "https://github.com/flightlessmango/MangoHud/releases/download/v0.8.4/MangoHud-v0.8.4-Source-DFSG.tar.xz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

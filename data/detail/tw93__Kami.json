@@ -1,0 +1,42 @@
+{
+  "repo": "tw93/Kami",
+  "slug": "tw93__Kami",
+  "name": "Kami",
+  "note_zh": "内容排版规则与模板，让文档更好看",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Markdown",
+    "CSS"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T08:46:35Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/tw93/Kami/zip/refs/heads/main",
+  "release": {
+    "tag": "V1.18.0",
+    "name": "V1.18.0 Charted Pages",
+    "published": "2026-10-15T13:07:15Z",
+    "url": "https://github.com/tw93/Kami/releases/tag/V1.18.0"
+  },
+  "assets": [
+    {
+      "name": "kami.zip",
+      "size": 519433,
+      "url": "https://github.com/tw93/Kami/releases/download/V1.18.0/kami.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

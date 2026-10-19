@@ -1,0 +1,72 @@
+{
+  "repo": "XiaoYouChR/Ghost-Downloader-3",
+  "slug": "XiaoYouChR__Ghost-Downloader-3",
+  "name": "Ghost-Downloader-3",
+  "note_zh": "多协议多线程下载器，界面现代",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Qt"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:47:57Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/XiaoYouChR/Ghost-Downloader-3/zip/refs/heads/main",
+  "release": {
+    "tag": "v4.4.3",
+    "name": "v4.4.3",
+    "published": "2026-10-19T02:38:23Z",
+    "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/tag/v4.4.3"
+  },
+  "assets": [
+    {
+      "name": "patch-macOS-arm64-4.4.0-to-4.4.3.hdiff",
+      "size": 24520711,
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.4.3/patch-macOS-arm64-4.4.0-to-4.4.3.hdiff"
+    },
+    {
+      "name": "patch-Windows-x86_64-4.4.0-to-4.4.3.hdiff",
+      "size": 28488923,
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.4.3/patch-Windows-x86_64-4.4.0-to-4.4.3.hdiff"
+    },
+    {
+      "name": "patch-macOS-x86_64-4.4.0-to-4.4.3.hdiff",
+      "size": 29155150,
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.4.3/patch-macOS-x86_64-4.4.0-to-4.4.3.hdiff"
+    },
+    {
+      "name": "Ghost-Downloader-v4.4.3-Windows-x86_64-Setup.exe",
+      "size": 45909376,
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.4.3/Ghost-Downloader-v4.4.3-Windows-x86_64-Setup.exe"
+    },
+    {
+      "name": "Ghost-Downloader-v4.4.3-Linux-arm64.tar.xz",
+      "size": 61133716,
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.4.3/Ghost-Downloader-v4.4.3-Linux-arm64.tar.xz"
+    },
+    {
+      "name": "Ghost-Downloader-v4.4.3-Linux-x86_64.tar.xz",
+      "size": 66625116,
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.4.3/Ghost-Downloader-v4.4.3-Linux-x86_64.tar.xz"
+    },
+    {
+      "name": "Ghost-Downloader-v4.4.3-Android-arm64-v8a.apk",
+      "size": 45726056,
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.4.3/Ghost-Downloader-v4.4.3-Android-arm64-v8a.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,46 @@
+{
+  "repo": "alibaba/arthas",
+  "slug": "alibaba__arthas",
+  "name": "arthas",
+  "note_zh": "阿里开源的 Java 诊断工具，线上问题排查",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java"
+  ],
+  "deploy_type": "命令行",
+  "platform": "github",
+  "updated_at": "2026-10-09T06:38:39Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/alibaba/arthas/zip/refs/heads/master",
+  "release": {
+    "tag": "arthas-all-4.3.5",
+    "name": "arthas-all-4.3.5",
+    "published": "2026-08-31T05:13:35Z",
+    "url": "https://github.com/alibaba/arthas/releases/tag/arthas-all-4.3.5"
+  },
+  "assets": [
+    {
+      "name": "arthas-doc.zip",
+      "size": 4818500,
+      "url": "https://github.com/alibaba/arthas/releases/download/arthas-all-4.3.5/arthas-doc.zip"
+    },
+    {
+      "name": "arthas-bin.zip",
+      "size": 17150150,
+      "url": "https://github.com/alibaba/arthas/releases/download/arthas-all-4.3.5/arthas-bin.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

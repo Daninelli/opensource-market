@@ -1,0 +1,41 @@
+{
+  "repo": "windingwind/zotero-better-notes",
+  "slug": "windingwind__zotero-better-notes",
+  "name": "zotero-better-notes",
+  "note_zh": "Zotero 的笔记管理与知识整理插件",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "编辑器扩展",
+  "platform": "github",
+  "updated_at": "2026-08-24T13:21:23Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/windingwind/zotero-better-notes/zip/refs/heads/master",
+  "release": {
+    "tag": "v3.3.3",
+    "name": "Release v3.3.3",
+    "published": "2026-08-24T13:25:16Z",
+    "url": "https://github.com/windingwind/zotero-better-notes/releases/tag/v3.3.3"
+  },
+  "assets": [
+    {
+      "name": "better-notes-for-zotero.xpi",
+      "size": 5539473,
+      "url": "https://github.com/windingwind/zotero-better-notes/releases/download/v3.3.3/better-notes-for-zotero.xpi"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

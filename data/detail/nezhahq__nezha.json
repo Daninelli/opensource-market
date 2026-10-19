@@ -1,0 +1,52 @@
+{
+  "repo": "nezhahq/nezha",
+  "slug": "nezhahq__nezha",
+  "name": "nezha",
+  "note_zh": "自托管轻量服务器与网站监控运维面板",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-17T07:13:03Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/nezhahq/nezha/zip/refs/heads/master",
+  "release": {
+    "tag": "v2.3.18",
+    "name": "v2.3.18",
+    "published": "2026-10-04T12:09:50Z",
+    "url": "https://github.com/nezhahq/nezha/releases/tag/v2.3.18"
+  },
+  "assets": [
+    {
+      "name": "dashboard-windows-amd64.zip",
+      "size": 31103640,
+      "url": "https://github.com/nezhahq/nezha/releases/download/v2.3.18/dashboard-windows-amd64.zip"
+    },
+    {
+      "name": "dashboard-linux-arm64.zip",
+      "size": 29857983,
+      "url": "https://github.com/nezhahq/nezha/releases/download/v2.3.18/dashboard-linux-arm64.zip"
+    },
+    {
+      "name": "dashboard-linux-amd64.zip",
+      "size": 31446699,
+      "url": "https://github.com/nezhahq/nezha/releases/download/v2.3.18/dashboard-linux-amd64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

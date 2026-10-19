@@ -1,0 +1,47 @@
+{
+  "repo": "coroot/coroot",
+  "slug": "coroot__coroot",
+  "name": "coroot",
+  "note_zh": "带 AI 根因分析的可观测与 APM",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:26:10Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/coroot/coroot/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.27.4",
+    "name": "1.27.4",
+    "published": "2026-10-15T21:00:44Z",
+    "url": "https://github.com/coroot/coroot/releases/tag/v1.27.4"
+  },
+  "assets": [
+    {
+      "name": "coroot-arm64",
+      "size": 73254864,
+      "url": "https://github.com/coroot/coroot/releases/download/v1.27.4/coroot-arm64"
+    },
+    {
+      "name": "coroot-amd64",
+      "size": 77148176,
+      "url": "https://github.com/coroot/coroot/releases/download/v1.27.4/coroot-amd64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

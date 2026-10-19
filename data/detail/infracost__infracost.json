@@ -1,0 +1,66 @@
+{
+  "repo": "infracost/infracost",
+  "slug": "infracost__infracost",
+  "name": "infracost",
+  "note_zh": "云资源成本预估，集成到 CI 流程",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-15T08:21:36Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/infracost/infracost/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.10.46",
+    "name": "v0.10.46",
+    "published": "2026-09-25T10:28:25Z",
+    "url": "https://github.com/infracost/infracost/releases/tag/v0.10.46"
+  },
+  "assets": [
+    {
+      "name": "infracost-windows-arm64.zip",
+      "size": 28509926,
+      "url": "https://github.com/infracost/infracost/releases/download/v0.10.46/infracost-windows-arm64.zip"
+    },
+    {
+      "name": "infracost-windows-arm64.tar.gz",
+      "size": 28510475,
+      "url": "https://github.com/infracost/infracost/releases/download/v0.10.46/infracost-windows-arm64.tar.gz"
+    },
+    {
+      "name": "infracost-darwin-arm64.tar.gz",
+      "size": 30211689,
+      "url": "https://github.com/infracost/infracost/releases/download/v0.10.46/infracost-darwin-arm64.tar.gz"
+    },
+    {
+      "name": "infracost-darwin-amd64.tar.gz",
+      "size": 32629441,
+      "url": "https://github.com/infracost/infracost/releases/download/v0.10.46/infracost-darwin-amd64.tar.gz"
+    },
+    {
+      "name": "infracost-linux-arm64.tar.gz",
+      "size": 28328134,
+      "url": "https://github.com/infracost/infracost/releases/download/v0.10.46/infracost-linux-arm64.tar.gz"
+    },
+    {
+      "name": "infracost-linux-amd64.tar.gz",
+      "size": 31581316,
+      "url": "https://github.com/infracost/infracost/releases/download/v0.10.46/infracost-linux-amd64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,77 @@
+{
+  "repo": "RightNow-AI/openfang",
+  "slug": "RightNow-AI__openfang",
+  "name": "openfang",
+  "note_zh": "开源智能体操作系统",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-07-02T08:13:12Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/RightNow-AI/openfang/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.6.9",
+    "name": "v0.6.9 — security patches",
+    "published": "2026-05-12T18:42:42Z",
+    "url": "https://github.com/RightNow-AI/openfang/releases/tag/v0.6.9"
+  },
+  "assets": [
+    {
+      "name": "OpenFang_0.6.9_arm64-setup.exe",
+      "size": 14915522,
+      "url": "https://github.com/RightNow-AI/openfang/releases/download/v0.6.9/OpenFang_0.6.9_arm64-setup.exe"
+    },
+    {
+      "name": "OpenFang_0.6.9_x64-setup.exe",
+      "size": 17885208,
+      "url": "https://github.com/RightNow-AI/openfang/releases/download/v0.6.9/OpenFang_0.6.9_x64-setup.exe"
+    },
+    {
+      "name": "openfang-aarch64-apple-darwin.tar.gz",
+      "size": 21141203,
+      "url": "https://github.com/RightNow-AI/openfang/releases/download/v0.6.9/openfang-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "OpenFang_0.6.9_aarch64.dmg",
+      "size": 22312896,
+      "url": "https://github.com/RightNow-AI/openfang/releases/download/v0.6.9/OpenFang_0.6.9_aarch64.dmg"
+    },
+    {
+      "name": "openfang-armv7-unknown-linux-gnueabihf.tar.gz",
+      "size": 23160411,
+      "url": "https://github.com/RightNow-AI/openfang/releases/download/v0.6.9/openfang-armv7-unknown-linux-gnueabihf.tar.gz"
+    },
+    {
+      "name": "openfang-aarch64-unknown-linux-gnu.tar.gz",
+      "size": 23746891,
+      "url": "https://github.com/RightNow-AI/openfang/releases/download/v0.6.9/openfang-aarch64-unknown-linux-gnu.tar.gz"
+    },
+    {
+      "name": "OpenFang_aarch64.app.tar.gz",
+      "size": 22146870,
+      "url": "https://github.com/RightNow-AI/openfang/releases/download/v0.6.9/OpenFang_aarch64.app.tar.gz"
+    },
+    {
+      "name": "OpenFang_x64.app.tar.gz",
+      "size": 24892526,
+      "url": "https://github.com/RightNow-AI/openfang/releases/download/v0.6.9/OpenFang_x64.app.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

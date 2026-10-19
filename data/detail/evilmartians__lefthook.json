@@ -1,0 +1,76 @@
+{
+  "repo": "evilmartians/lefthook",
+  "slug": "evilmartians__lefthook",
+  "name": "lefthook",
+  "note_zh": "快速强大的 Git 钩子管理器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:00:49Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/evilmartians/lefthook/zip/refs/heads/master",
+  "release": {
+    "tag": "v2.2.2",
+    "name": "v2.2.2",
+    "published": "2026-10-13T09:20:36Z",
+    "url": "https://github.com/evilmartians/lefthook/releases/tag/v2.2.2"
+  },
+  "assets": [
+    {
+      "name": "lefthook_2.2.2_Windows_arm64.gz",
+      "size": 5371081,
+      "url": "https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_Windows_arm64.gz"
+    },
+    {
+      "name": "lefthook_2.2.2_MacOS_arm64.gz",
+      "size": 5469029,
+      "url": "https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_MacOS_arm64.gz"
+    },
+    {
+      "name": "lefthook_2.2.2_Windows_i386.gz",
+      "size": 5902981,
+      "url": "https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_Windows_i386.gz"
+    },
+    {
+      "name": "lefthook_2.2.2_MacOS_x86_64.gz",
+      "size": 5966998,
+      "url": "https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_MacOS_x86_64.gz"
+    },
+    {
+      "name": "lefthook_2.2.2_arm64.deb",
+      "size": 4982206,
+      "url": "https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_arm64.deb"
+    },
+    {
+      "name": "lefthook_2.2.2_arm64.rpm",
+      "size": 5134970,
+      "url": "https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_arm64.rpm"
+    },
+    {
+      "name": "lefthook_2.2.2_arm64.apk",
+      "size": 5141069,
+      "url": "https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_arm64.apk"
+    },
+    {
+      "name": "lefthook_2.2.2_amd64.apk",
+      "size": 5699291,
+      "url": "https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_amd64.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

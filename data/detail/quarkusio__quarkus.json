@@ -1,0 +1,46 @@
+{
+  "repo": "quarkusio/quarkus",
+  "slug": "quarkusio__quarkus",
+  "name": "quarkus",
+  "note_zh": "为 GraalVM 与容器优化的 Java 框架",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:46:05Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/quarkusio/quarkus/zip/refs/heads/main",
+  "release": {
+    "tag": "3.40.1.1",
+    "name": "3.40.1.1",
+    "published": "2026-10-19T14:15:59Z",
+    "url": "https://github.com/quarkusio/quarkus/releases/tag/3.40.1.1"
+  },
+  "assets": [
+    {
+      "name": "quarkus-cli-3.40.1.1.tar.gz",
+      "size": 15067801,
+      "url": "https://github.com/quarkusio/quarkus/releases/download/3.40.1.1/quarkus-cli-3.40.1.1.tar.gz"
+    },
+    {
+      "name": "quarkus-cli-3.40.1.1.zip",
+      "size": 15069620,
+      "url": "https://github.com/quarkusio/quarkus/releases/download/3.40.1.1/quarkus-cli-3.40.1.1.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

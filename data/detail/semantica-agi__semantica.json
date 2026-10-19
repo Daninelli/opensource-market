@@ -1,0 +1,46 @@
+{
+  "repo": "semantica-agi/semantica",
+  "slug": "semantica-agi__semantica",
+  "name": "semantica",
+  "note_zh": "面向可审计 AI 的图原生上下文基础设施",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T13:02:53Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/semantica-agi/semantica/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.7.0",
+    "name": "v0.7.0",
+    "published": "2026-09-22T11:18:03Z",
+    "url": "https://github.com/semantica-agi/semantica/releases/tag/v0.7.0"
+  },
+  "assets": [
+    {
+      "name": "semantica-0.7.0-py3-none-any.whl",
+      "size": 2691390,
+      "url": "https://github.com/semantica-agi/semantica/releases/download/v0.7.0/semantica-0.7.0-py3-none-any.whl"
+    },
+    {
+      "name": "semantica-0.7.0.tar.gz",
+      "size": 2714872,
+      "url": "https://github.com/semantica-agi/semantica/releases/download/v0.7.0/semantica-0.7.0.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

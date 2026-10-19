@@ -1,0 +1,67 @@
+{
+  "repo": "iii-hq/iii",
+  "slug": "iii-hq__iii",
+  "name": "iii",
+  "note_zh": "实时组合与观测服务的后端引擎",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Rust"
+  ],
+  "deploy_type": "依赖库 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:51:43Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/iii-hq/iii/zip/refs/heads/main",
+  "release": {
+    "tag": "iii/v0.24.6",
+    "name": "iii 0.24.6",
+    "published": "2026-10-19T11:37:11Z",
+    "url": "https://github.com/iii-hq/iii/releases/tag/iii/v0.24.6"
+  },
+  "assets": [
+    {
+      "name": "iii-init-aarch64-apple-darwin.tar.gz",
+      "size": 945331,
+      "url": "https://github.com/iii-hq/iii/releases/download/iii/v0.24.6/iii-init-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "iii-init-x86_64-apple-darwin.tar.gz",
+      "size": 1038697,
+      "url": "https://github.com/iii-hq/iii/releases/download/iii/v0.24.6/iii-init-x86_64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "iii-console-i686-pc-windows-msvc.zip",
+      "size": 3501522,
+      "url": "https://github.com/iii-hq/iii/releases/download/iii/v0.24.6/iii-console-i686-pc-windows-msvc.zip"
+    },
+    {
+      "name": "iii-console-aarch64-pc-windows-msvc.zip",
+      "size": 3766331,
+      "url": "https://github.com/iii-hq/iii/releases/download/iii/v0.24.6/iii-console-aarch64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "iii-init-aarch64-unknown-linux-gnu.tar.gz",
+      "size": 945331,
+      "url": "https://github.com/iii-hq/iii/releases/download/iii/v0.24.6/iii-init-aarch64-unknown-linux-gnu.tar.gz"
+    },
+    {
+      "name": "iii-init-aarch64-unknown-linux-musl.tar.gz",
+      "size": 945331,
+      "url": "https://github.com/iii-hq/iii/releases/download/iii/v0.24.6/iii-init-aarch64-unknown-linux-musl.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

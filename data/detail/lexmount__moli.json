@@ -1,0 +1,67 @@
+{
+  "repo": "lexmount/moli",
+  "slug": "lexmount__moli",
+  "name": "moli",
+  "note_zh": "面向 AI 代理的轻量高兼容无头浏览器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "TypeScript"
+  ],
+  "deploy_type": "命令行 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:35:20Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/lexmount/moli/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.1.18",
+    "name": "Moli v1.1.18",
+    "published": "2026-10-17T12:29:29Z",
+    "url": "https://github.com/lexmount/moli/releases/tag/v1.1.18"
+  },
+  "assets": [
+    {
+      "name": "moli-aarch64-apple-darwin.tar.gz",
+      "size": 41410521,
+      "url": "https://github.com/lexmount/moli/releases/download/v1.1.18/moli-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "moli-aarch64-pc-windows-msvc.zip",
+      "size": 42493009,
+      "url": "https://github.com/lexmount/moli/releases/download/v1.1.18/moli-aarch64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "moli-x86_64-pc-windows-msvc.zip",
+      "size": 44603453,
+      "url": "https://github.com/lexmount/moli/releases/download/v1.1.18/moli-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "moli-x86_64-apple-darwin.tar.gz",
+      "size": 45366653,
+      "url": "https://github.com/lexmount/moli/releases/download/v1.1.18/moli-x86_64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "moli-aarch64-unknown-linux-gnu.tar.gz",
+      "size": 43993861,
+      "url": "https://github.com/lexmount/moli/releases/download/v1.1.18/moli-aarch64-unknown-linux-gnu.tar.gz"
+    },
+    {
+      "name": "moli-x86_64-unknown-linux-gnu.tar.gz",
+      "size": 44973610,
+      "url": "https://github.com/lexmount/moli/releases/download/v1.1.18/moli-x86_64-unknown-linux-gnu.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

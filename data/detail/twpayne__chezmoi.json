@@ -1,0 +1,76 @@
+{
+  "repo": "twpayne/chezmoi",
+  "slug": "twpayne__chezmoi",
+  "name": "chezmoi",
+  "note_zh": "跨机器安全管理 dotfiles",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "系统工具",
+  "subcategory_slug": "system",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-17T15:25:50Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/twpayne/chezmoi/zip/refs/heads/master",
+  "release": {
+    "tag": "v2.73.2",
+    "name": "v2.73.2",
+    "published": "2026-10-17T15:09:48Z",
+    "url": "https://github.com/twpayne/chezmoi/releases/tag/v2.73.2"
+  },
+  "assets": [
+    {
+      "name": "chezmoi_2.73.2_windows_arm64.zip",
+      "size": 14580734,
+      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.2/chezmoi_2.73.2_windows_arm64.zip"
+    },
+    {
+      "name": "chezmoi_2.73.2_darwin_arm64.tar.gz",
+      "size": 15073581,
+      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.2/chezmoi_2.73.2_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "chezmoi_2.73.2_windows_arm64.msix",
+      "size": 15371526,
+      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.2/chezmoi_2.73.2_windows_arm64.msix"
+    },
+    {
+      "name": "chezmoi_2.73.2_darwin_amd64.tar.gz",
+      "size": 16320040,
+      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.2/chezmoi_2.73.2_darwin_amd64.tar.gz"
+    },
+    {
+      "name": "chezmoi_2.73.2_linux_mips64le.deb",
+      "size": 13918766,
+      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.2/chezmoi_2.73.2_linux_mips64le.deb"
+    },
+    {
+      "name": "chezmoi_2.73.2_linux_mips64le_hardfloat.tar.gz",
+      "size": 13926470,
+      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.2/chezmoi_2.73.2_linux_mips64le_hardfloat.tar.gz"
+    },
+    {
+      "name": "chezmoi_2.73.2_linux_mips64le_hardfloat.apk",
+      "size": 14498681,
+      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.2/chezmoi_2.73.2_linux_mips64le_hardfloat.apk"
+    },
+    {
+      "name": "chezmoi_2.73.2_linux_mips64_hardfloat.apk",
+      "size": 14793739,
+      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.2/chezmoi_2.73.2_linux_mips64_hardfloat.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

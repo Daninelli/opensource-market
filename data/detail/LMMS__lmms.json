@@ -1,0 +1,67 @@
+{
+  "repo": "LMMS/lmms",
+  "slug": "LMMS__lmms",
+  "name": "lmms",
+  "note_zh": "跨平台开源音乐制作软件",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "GPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Qt"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T03:45:09Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/LMMS/lmms/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.2.2",
+    "name": "1.2.2",
+    "published": "2020-07-04T12:35:12Z",
+    "url": "https://github.com/LMMS/lmms/releases/tag/v1.2.2"
+  },
+  "assets": [
+    {
+      "name": "lmms-1.2.2-win32.exe",
+      "size": 33349896,
+      "url": "https://github.com/LMMS/lmms/releases/download/v1.2.2/lmms-1.2.2-win32.exe"
+    },
+    {
+      "name": "lmms-1.2.2-win64.exe",
+      "size": 36829951,
+      "url": "https://github.com/LMMS/lmms/releases/download/v1.2.2/lmms-1.2.2-win64.exe"
+    },
+    {
+      "name": "lmms-1.2.2-mac10.13.dmg",
+      "size": 39008833,
+      "url": "https://github.com/LMMS/lmms/releases/download/v1.2.2/lmms-1.2.2-mac10.13.dmg"
+    },
+    {
+      "name": "lmms-1.2.2-mac10.14.dmg",
+      "size": 45684020,
+      "url": "https://github.com/LMMS/lmms/releases/download/v1.2.2/lmms-1.2.2-mac10.14.dmg"
+    },
+    {
+      "name": "lmms-1.2.2-linux-x86_64.AppImage",
+      "size": 96362536,
+      "url": "https://github.com/LMMS/lmms/releases/download/v1.2.2/lmms-1.2.2-linux-x86_64.AppImage"
+    },
+    {
+      "name": "lmms_1.2.2.tar.xz",
+      "size": 22733960,
+      "url": "https://github.com/LMMS/lmms/releases/download/v1.2.2/lmms_1.2.2.tar.xz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

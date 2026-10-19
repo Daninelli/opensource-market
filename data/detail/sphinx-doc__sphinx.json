@@ -1,0 +1,30 @@
+{
+  "repo": "sphinx-doc/sphinx",
+  "slug": "sphinx-doc__sphinx",
+  "name": "sphinx",
+  "note_zh": "Python 生态最主流的文档生成器",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "命令行 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T00:25:28Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/sphinx-doc/sphinx/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

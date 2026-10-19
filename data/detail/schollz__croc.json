@@ -22,51 +22,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/schollz/croc/zip/refs/heads/main",
   "release": {
-    "tag": "v11.5.4",
-    "name": "v11.5.4",
-    "published": "2026-09-26T21:53:50Z",
-    "url": "https://github.com/schollz/croc/releases/tag/v11.5.4"
+    "tag": "v11.5.5",
+    "name": "v11.5.5",
+    "published": "2026-10-19T17:47:05Z",
+    "url": "https://github.com/schollz/croc/releases/tag/v11.5.5"
   },
   "assets": [
     {
-      "name": "croc_v11.5.4_Windows-ARM64.zip",
-      "size": 8102007,
-      "url": "https://github.com/schollz/croc/releases/download/v11.5.4/croc_v11.5.4_Windows-ARM64.zip"
+      "name": "croc_v11.5.5_Windows-ARM64.zip",
+      "size": 8312384,
+      "url": "https://github.com/schollz/croc/releases/download/v11.5.5/croc_v11.5.5_Windows-ARM64.zip"
     },
     {
-      "name": "croc_v11.5.4_macOS-ARM64.tar.gz",
-      "size": 8332560,
-      "url": "https://github.com/schollz/croc/releases/download/v11.5.4/croc_v11.5.4_macOS-ARM64.tar.gz"
+      "name": "croc_v11.5.5_macOS-ARM64.tar.gz",
+      "size": 8535562,
+      "url": "https://github.com/schollz/croc/releases/download/v11.5.5/croc_v11.5.5_macOS-ARM64.tar.gz"
     },
     {
-      "name": "croc_v11.5.4_Windows-32bit.zip",
-      "size": 8855850,
-      "url": "https://github.com/schollz/croc/releases/download/v11.5.4/croc_v11.5.4_Windows-32bit.zip"
+      "name": "croc_v11.5.5_Windows-32bit.zip",
+      "size": 9105476,
+      "url": "https://github.com/schollz/croc/releases/download/v11.5.5/croc_v11.5.5_Windows-32bit.zip"
     },
     {
-      "name": "croc_v11.5.4_macOS-64bit.tar.gz",
-      "size": 9009088,
-      "url": "https://github.com/schollz/croc/releases/download/v11.5.4/croc_v11.5.4_macOS-64bit.tar.gz"
+      "name": "croc_v11.5.5_macOS-64bit.tar.gz",
+      "size": 9235107,
+      "url": "https://github.com/schollz/croc/releases/download/v11.5.5/croc_v11.5.5_macOS-64bit.tar.gz"
     },
     {
-      "name": "croc_v11.5.4_Linux-ARM64.tar.gz",
-      "size": 8257952,
-      "url": "https://github.com/schollz/croc/releases/download/v11.5.4/croc_v11.5.4_Linux-ARM64.tar.gz"
+      "name": "croc_v11.5.5_Linux-ARM64.tar.gz",
+      "size": 8457645,
+      "url": "https://github.com/schollz/croc/releases/download/v11.5.5/croc_v11.5.5_Linux-ARM64.tar.gz"
     },
     {
-      "name": "croc_11.5.4-1_arm64.deb",
-      "size": 8418518,
-      "url": "https://github.com/schollz/croc/releases/download/v11.5.4/croc_11.5.4-1_arm64.deb"
+      "name": "croc-11.5.5-1.aarch64.rpm",
+      "size": 8618029,
+      "url": "https://github.com/schollz/croc/releases/download/v11.5.5/croc-11.5.5-1.aarch64.rpm"
     },
     {
-      "name": "croc_v11.5.4_NetBSD-ARM64.tar.gz",
-      "size": 3663558,
-      "url": "https://github.com/schollz/croc/releases/download/v11.5.4/croc_v11.5.4_NetBSD-ARM64.tar.gz"
+      "name": "croc_v11.5.5_NetBSD-ARM64.tar.gz",
+      "size": 3673452,
+      "url": "https://github.com/schollz/croc/releases/download/v11.5.5/croc_v11.5.5_NetBSD-ARM64.tar.gz"
     },
     {
-      "name": "croc_v11.5.4_NetBSD-32bit.tar.gz",
-      "size": 3987802,
-      "url": "https://github.com/schollz/croc/releases/download/v11.5.4/croc_v11.5.4_NetBSD-32bit.tar.gz"
+      "name": "croc_v11.5.5_NetBSD-32bit.tar.gz",
+      "size": 3999209,
+      "url": "https://github.com/schollz/croc/releases/download/v11.5.5/croc_v11.5.5_NetBSD-32bit.tar.gz"
     }
   ],
   "pinned": false,

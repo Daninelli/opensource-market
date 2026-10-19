@@ -1,0 +1,66 @@
+{
+  "repo": "centrifugal/centrifugo",
+  "slug": "centrifugal__centrifugo",
+  "name": "centrifugo",
+  "note_zh": "语言无关的可扩展实时消息服务",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:03:33Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/centrifugal/centrifugo/zip/refs/heads/master",
+  "release": {
+    "tag": "v6.10.0",
+    "name": "v6.10.0",
+    "published": "2026-10-19T17:40:57Z",
+    "url": "https://github.com/centrifugal/centrifugo/releases/tag/v6.10.0"
+  },
+  "assets": [
+    {
+      "name": "centrifugo_6.10.0_darwin_arm64.tar.gz",
+      "size": 22823286,
+      "url": "https://github.com/centrifugal/centrifugo/releases/download/v6.10.0/centrifugo_6.10.0_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "centrifugo_6.10.0_windows_amd64.zip",
+      "size": 24190804,
+      "url": "https://github.com/centrifugal/centrifugo/releases/download/v6.10.0/centrifugo_6.10.0_windows_amd64.zip"
+    },
+    {
+      "name": "centrifugo_6.10.0_darwin_amd64.tar.gz",
+      "size": 24223874,
+      "url": "https://github.com/centrifugal/centrifugo/releases/download/v6.10.0/centrifugo_6.10.0_darwin_amd64.tar.gz"
+    },
+    {
+      "name": "centrifugo_6.10.0_linux_arm64.tar.gz",
+      "size": 21806735,
+      "url": "https://github.com/centrifugal/centrifugo/releases/download/v6.10.0/centrifugo_6.10.0_linux_arm64.tar.gz"
+    },
+    {
+      "name": "centrifugo_6.10.0_linux_armv6.tar.gz",
+      "size": 22453217,
+      "url": "https://github.com/centrifugal/centrifugo/releases/download/v6.10.0/centrifugo_6.10.0_linux_armv6.tar.gz"
+    },
+    {
+      "name": "centrifugo_6.10.0_freebsd_amd64.tar.gz",
+      "size": 23647195,
+      "url": "https://github.com/centrifugal/centrifugo/releases/download/v6.10.0/centrifugo_6.10.0_freebsd_amd64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

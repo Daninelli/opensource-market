@@ -1,0 +1,30 @@
+{
+  "repo": "threat9/routersploit",
+  "slug": "threat9__routersploit",
+  "name": "routersploit",
+  "note_zh": "嵌入式设备漏洞利用框架",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "命令行",
+  "platform": "github",
+  "updated_at": "2026-05-05T14:02:26Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/threat9/routersploit/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

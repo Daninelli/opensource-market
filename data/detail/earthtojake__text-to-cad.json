@@ -1,0 +1,52 @@
+{
+  "repo": "earthtojake/text-to-cad",
+  "slug": "earthtojake__text-to-cad",
+  "name": "text-to-cad",
+  "note_zh": "给智能体接上 CAD 建模能力",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "CAD"
+  ],
+  "deploy_type": "依赖库 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T06:42:50Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/earthtojake/text-to-cad/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.7.24",
+    "name": "v0.7.24",
+    "published": "2026-10-18T20:34:40Z",
+    "url": "https://github.com/earthtojake/text-to-cad/releases/tag/v0.7.24"
+  },
+  "assets": [
+    {
+      "name": "cad-openai-plugin-0.7.24.zip",
+      "size": 249956,
+      "url": "https://github.com/earthtojake/text-to-cad/releases/download/v0.7.24/cad-openai-plugin-0.7.24.zip"
+    },
+    {
+      "name": "cadgen-0.7.24.tar.gz",
+      "size": 5299111,
+      "url": "https://github.com/earthtojake/text-to-cad/releases/download/v0.7.24/cadgen-0.7.24.tar.gz"
+    },
+    {
+      "name": "cadgen-0.7.24-py3-none-any.whl",
+      "size": 5423513,
+      "url": "https://github.com/earthtojake/text-to-cad/releases/download/v0.7.24/cadgen-0.7.24-py3-none-any.whl"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,42 @@
+{
+  "repo": "khoj-ai/khoj",
+  "slug": "khoj-ai__khoj",
+  "name": "khoj",
+  "note_zh": "可自托管的 AI 第二大脑，搜索个人文档",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-08-02T01:55:40Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/khoj-ai/khoj/zip/refs/heads/master",
+  "release": {
+    "tag": "2.0.0-beta.28",
+    "name": "2.0.0-beta.28",
+    "published": "2026-03-26T03:36:04Z",
+    "url": "https://github.com/khoj-ai/khoj/releases/tag/2.0.0-beta.28"
+  },
+  "assets": [
+    {
+      "name": "main.js",
+      "size": 249017,
+      "url": "https://github.com/khoj-ai/khoj/releases/download/2.0.0-beta.28/main.js"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

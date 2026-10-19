@@ -1,0 +1,35 @@
+{
+  "repo": "jackwener/OpenCLI",
+  "slug": "jackwener__OpenCLI",
+  "name": "OpenCLI",
+  "note_zh": "把任意网站变成 CLI，复用已登录浏览器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:14:56Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/jackwener/OpenCLI/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.0.1",
+    "name": "v2.0.1",
+    "published": "2026-10-19T17:56:51Z",
+    "url": "https://github.com/jackwener/OpenCLI/releases/tag/v2.0.1"
+  },
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

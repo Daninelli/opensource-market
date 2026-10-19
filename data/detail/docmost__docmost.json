@@ -1,0 +1,47 @@
+{
+  "repo": "docmost/docmost",
+  "slug": "docmost__docmost",
+  "name": "docmost",
+  "note_zh": "开源协作文档与知识库，可替代 Confluence",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "文档与知识库",
+  "subcategory_slug": "docs",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "NestJS"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:00:10Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/docmost/docmost/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.96.0",
+    "name": "v0.96.0",
+    "published": "2026-09-08T14:18:03Z",
+    "url": "https://github.com/docmost/docmost/releases/tag/v0.96.0"
+  },
+  "assets": [
+    {
+      "name": "docmost-amd64.docker.tar.gz",
+      "size": 218383802,
+      "url": "https://github.com/docmost/docmost/releases/download/v0.96.0/docmost-amd64.docker.tar.gz"
+    },
+    {
+      "name": "docmost-arm64.docker.tar.gz",
+      "size": 218525234,
+      "url": "https://github.com/docmost/docmost/releases/download/v0.96.0/docmost-arm64.docker.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

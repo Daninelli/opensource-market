@@ -1,0 +1,77 @@
+{
+  "repo": "getlantern/lantern",
+  "slug": "getlantern__lantern",
+  "name": "lantern",
+  "note_zh": "开源翻墙客户端，主打速度与隐私",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "TypeScript"
+  ],
+  "deploy_type": "客户端 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:37:48Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/getlantern/lantern/zip/refs/heads/main",
+  "release": {
+    "tag": "v10.0.0",
+    "name": "Lantern 10.0.0",
+    "published": "2026-09-18T19:20:52Z",
+    "url": "https://github.com/getlantern/lantern/releases/tag/v10.0.0"
+  },
+  "assets": [
+    {
+      "name": "lantern-installer.exe",
+      "size": 100916632,
+      "url": "https://github.com/getlantern/lantern/releases/download/v10.0.0/lantern-installer.exe"
+    },
+    {
+      "name": "lantern-installer.dmg",
+      "size": 130377373,
+      "url": "https://github.com/getlantern/lantern/releases/download/v10.0.0/lantern-installer.dmg"
+    },
+    {
+      "name": "lantern-installer-arm64.deb",
+      "size": 88789658,
+      "url": "https://github.com/getlantern/lantern/releases/download/v10.0.0/lantern-installer-arm64.deb"
+    },
+    {
+      "name": "lantern-installer-arm64.rpm",
+      "size": 91740212,
+      "url": "https://github.com/getlantern/lantern/releases/download/v10.0.0/lantern-installer-arm64.rpm"
+    },
+    {
+      "name": "lantern-installer.ipa",
+      "size": 90357983,
+      "url": "https://github.com/getlantern/lantern/releases/download/v10.0.0/lantern-installer.ipa"
+    },
+    {
+      "name": "lantern-installer.apk",
+      "size": 48673586,
+      "url": "https://github.com/getlantern/lantern/releases/download/v10.0.0/lantern-installer.apk"
+    },
+    {
+      "name": "lantern-installer-arm64.pkg.tar.zst",
+      "size": 85949014,
+      "url": "https://github.com/getlantern/lantern/releases/download/v10.0.0/lantern-installer-arm64.pkg.tar.zst"
+    },
+    {
+      "name": "lantern-installer.pkg.tar.zst",
+      "size": 92712435,
+      "url": "https://github.com/getlantern/lantern/releases/download/v10.0.0/lantern-installer.pkg.tar.zst"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

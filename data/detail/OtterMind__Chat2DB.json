@@ -1,0 +1,67 @@
+{
+  "repo": "OtterMind/Chat2DB",
+  "slug": "OtterMind__Chat2DB",
+  "name": "Chat2DB",
+  "note_zh": "本地优先的跨平台数据库客户端，含 AI 助手",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "TypeScript"
+  ],
+  "deploy_type": "客户端 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-16T08:01:24Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/OtterMind/Chat2DB/zip/refs/heads/main",
+  "release": {
+    "tag": "v5.3.8",
+    "name": "Chat2DB v5.3.8",
+    "published": "2026-10-09T11:46:52Z",
+    "url": "https://github.com/OtterMind/Chat2DB/releases/tag/v5.3.8"
+  },
+  "assets": [
+    {
+      "name": "package-community-macos-arm64-macos-app-archive.tar.gz",
+      "size": 389041346,
+      "url": "https://github.com/OtterMind/Chat2DB/releases/download/v5.3.8/package-community-macos-arm64-macos-app-archive.tar.gz"
+    },
+    {
+      "name": "package-community-macos-x64-macos-app-archive.tar.gz",
+      "size": 398303649,
+      "url": "https://github.com/OtterMind/Chat2DB/releases/download/v5.3.8/package-community-macos-x64-macos-app-archive.tar.gz"
+    },
+    {
+      "name": "package-community-windows-x64-windows-exe.exe",
+      "size": 420556000,
+      "url": "https://github.com/OtterMind/Chat2DB/releases/download/v5.3.8/package-community-windows-x64-windows-exe.exe"
+    },
+    {
+      "name": "Chat2DB-Community-5.3.8.msi",
+      "size": 421027840,
+      "url": "https://github.com/OtterMind/Chat2DB/releases/download/v5.3.8/Chat2DB-Community-5.3.8.msi"
+    },
+    {
+      "name": "Chat2DB-Community-5.3.8-arm64.deb",
+      "size": 360163560,
+      "url": "https://github.com/OtterMind/Chat2DB/releases/download/v5.3.8/Chat2DB-Community-5.3.8-arm64.deb"
+    },
+    {
+      "name": "package-community-linux-arm64-linux-deb.deb",
+      "size": 360163560,
+      "url": "https://github.com/OtterMind/Chat2DB/releases/download/v5.3.8/package-community-linux-arm64-linux-deb.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

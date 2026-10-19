@@ -1,0 +1,56 @@
+{
+  "repo": "iamgio/quarkdown",
+  "slug": "iamgio__quarkdown",
+  "name": "quarkdown",
+  "note_zh": "从笔记到论文幻灯片的 Markdown 全能写作工具",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Kotlin"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T04:14:57Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/iamgio/quarkdown/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.6.4",
+    "name": "v2.6.4",
+    "published": "2026-10-09T01:43:19Z",
+    "url": "https://github.com/iamgio/quarkdown/releases/tag/v2.6.4"
+  },
+  "assets": [
+    {
+      "name": "quarkdown-macos-aarch64.zip",
+      "size": 63463006,
+      "url": "https://github.com/iamgio/quarkdown/releases/download/v2.6.4/quarkdown-macos-aarch64.zip"
+    },
+    {
+      "name": "quarkdown-windows-x64.zip",
+      "size": 63830308,
+      "url": "https://github.com/iamgio/quarkdown/releases/download/v2.6.4/quarkdown-windows-x64.zip"
+    },
+    {
+      "name": "quarkdown-macos-x64.zip",
+      "size": 64515312,
+      "url": "https://github.com/iamgio/quarkdown/releases/download/v2.6.4/quarkdown-macos-x64.zip"
+    },
+    {
+      "name": "quarkdown-linux-x64.zip",
+      "size": 67678639,
+      "url": "https://github.com/iamgio/quarkdown/releases/download/v2.6.4/quarkdown-linux-x64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,31 @@
+{
+  "repo": "fluid-dev/hexo-theme-fluid",
+  "slug": "fluid-dev__hexo-theme-fluid",
+  "name": "hexo-theme-fluid",
+  "note_zh": "Material Design 风格的 Hexo 主题",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Hexo"
+  ],
+  "deploy_type": "前端源码",
+  "platform": "github",
+  "updated_at": "2026-06-24T16:52:51Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/fluid-dev/hexo-theme-fluid/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

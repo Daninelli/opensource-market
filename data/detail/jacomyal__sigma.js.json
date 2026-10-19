@@ -1,0 +1,41 @@
+{
+  "repo": "jacomyal/sigma.js",
+  "slug": "jacomyal__sigma.js",
+  "name": "sigma.js",
+  "note_zh": "渲染上万节点的图可视化库",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "数据分析",
+  "subcategory_slug": "bi",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-16T09:21:06Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/jacomyal/sigma.js/zip/refs/heads/main",
+  "release": {
+    "tag": "sigma@4.0.3",
+    "name": "sigma@4.0.3",
+    "published": "2026-10-15T13:51:59Z",
+    "url": "https://github.com/jacomyal/sigma.js/releases/tag/sigma%404.0.3"
+  },
+  "assets": [
+    {
+      "name": "sigma.min.js",
+      "size": 391628,
+      "url": "https://github.com/jacomyal/sigma.js/releases/download/sigma%404.0.3/sigma.min.js"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

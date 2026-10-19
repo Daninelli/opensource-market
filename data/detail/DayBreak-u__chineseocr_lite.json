@@ -1,0 +1,31 @@
+{
+  "repo": "DayBreak-u/chineseocr_lite",
+  "slug": "DayBreak-u__chineseocr_lite",
+  "name": "chineseocr_lite",
+  "note_zh": "超轻量中文 OCR，支持竖排识别",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "GPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Python"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-05-18T09:55:53Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/DayBreak-u/chineseocr_lite/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

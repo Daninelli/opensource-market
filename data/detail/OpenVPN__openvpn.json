@@ -1,0 +1,41 @@
+{
+  "repo": "OpenVPN/openvpn",
+  "slug": "OpenVPN__openvpn",
+  "name": "openvpn",
+  "note_zh": "老牌开源 VPN 守护进程",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C"
+  ],
+  "deploy_type": "二进制 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T13:12:23Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/OpenVPN/openvpn/zip/refs/heads/master",
+  "release": {
+    "tag": "v2.7.8",
+    "name": "v2.7.8",
+    "published": "2026-10-07T14:18:17Z",
+    "url": "https://github.com/OpenVPN/openvpn/releases/tag/v2.7.8"
+  },
+  "assets": [
+    {
+      "name": "openvpn-2.7.8.tar.gz",
+      "size": 2123466,
+      "url": "https://github.com/OpenVPN/openvpn/releases/download/v2.7.8/openvpn-2.7.8.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

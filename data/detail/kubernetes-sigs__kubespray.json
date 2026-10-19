@@ -1,0 +1,31 @@
+{
+  "repo": "kubernetes-sigs/kubespray",
+  "slug": "kubernetes-sigs__kubespray",
+  "name": "kubespray",
+  "note_zh": "用 Ansible 部署生产级 Kubernetes 集群",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Ansible",
+    "Python"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T04:51:50Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/kubernetes-sigs/kubespray/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

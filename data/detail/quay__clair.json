@@ -1,0 +1,71 @@
+{
+  "repo": "quay/clair",
+  "slug": "quay__clair",
+  "name": "clair",
+  "note_zh": "容器镜像漏洞静态分析",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-14T19:00:44Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/quay/clair/zip/refs/heads/main",
+  "release": {
+    "tag": "v4.9.0",
+    "name": "v4.9.0 Release",
+    "published": "2025-12-10T18:34:49Z",
+    "url": "https://github.com/quay/clair/releases/tag/v4.9.0"
+  },
+  "assets": [
+    {
+      "name": "clairctl-windows-arm64",
+      "size": 25762816,
+      "url": "https://github.com/quay/clair/releases/download/v4.9.0/clairctl-windows-arm64"
+    },
+    {
+      "name": "clairctl-darwin-arm64",
+      "size": 26256674,
+      "url": "https://github.com/quay/clair/releases/download/v4.9.0/clairctl-darwin-arm64"
+    },
+    {
+      "name": "clairctl-darwin-amd64",
+      "size": 27343584,
+      "url": "https://github.com/quay/clair/releases/download/v4.9.0/clairctl-darwin-amd64"
+    },
+    {
+      "name": "clairctl-windows-amd64",
+      "size": 27402240,
+      "url": "https://github.com/quay/clair/releases/download/v4.9.0/clairctl-windows-amd64"
+    },
+    {
+      "name": "clairctl-linux-386",
+      "size": 25088184,
+      "url": "https://github.com/quay/clair/releases/download/v4.9.0/clairctl-linux-386"
+    },
+    {
+      "name": "clairctl-linux-arm64",
+      "size": 25493688,
+      "url": "https://github.com/quay/clair/releases/download/v4.9.0/clairctl-linux-arm64"
+    },
+    {
+      "name": "clair-v4.9.0.tar.gz",
+      "size": 53346046,
+      "url": "https://github.com/quay/clair/releases/download/v4.9.0/clair-v4.9.0.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

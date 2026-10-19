@@ -1,0 +1,32 @@
+{
+  "repo": "shadcn-ui/ui",
+  "slug": "shadcn-ui__ui",
+  "name": "ui",
+  "note_zh": "可复制粘贴的 React 组件集合，设计规范统一",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React",
+    "Tailwind CSS"
+  ],
+  "deploy_type": "依赖库 / 前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:28:57Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/shadcn-ui/ui/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

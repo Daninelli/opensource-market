@@ -1,0 +1,41 @@
+{
+  "repo": "alibaba/page-agent",
+  "slug": "alibaba__page-agent",
+  "name": "page-agent",
+  "note_zh": "用自然语言操作网页的页内 GUI 智能体",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-17T20:22:22Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/alibaba/page-agent/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.12.4",
+    "name": "🌟v1.12.4",
+    "published": "2026-09-06T07:46:41Z",
+    "url": "https://github.com/alibaba/page-agent/releases/tag/v1.12.4"
+  },
+  "assets": [
+    {
+      "name": "page-agent-ext-1.12.4-chrome.zip",
+      "size": 426122,
+      "url": "https://github.com/alibaba/page-agent/releases/download/v1.12.4/page-agent-ext-1.12.4-chrome.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

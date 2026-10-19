@@ -1,0 +1,66 @@
+{
+  "repo": "orhun/git-cliff",
+  "slug": "orhun__git-cliff",
+  "name": "git-cliff",
+  "note_zh": "高度可定制的变更日志生成器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-09-18T23:39:10Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/orhun/git-cliff/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.14.2",
+    "name": "Release v2.14.2",
+    "published": "2026-09-18T21:22:51Z",
+    "url": "https://github.com/orhun/git-cliff/releases/tag/v2.14.2"
+  },
+  "assets": [
+    {
+      "name": "git-cliff-2.14.2-i686-pc-windows-msvc.zip",
+      "size": 6582272,
+      "url": "https://github.com/orhun/git-cliff/releases/download/v2.14.2/git-cliff-2.14.2-i686-pc-windows-msvc.zip"
+    },
+    {
+      "name": "git-cliff-2.14.2-aarch64-apple-darwin.tar.gz",
+      "size": 6783346,
+      "url": "https://github.com/orhun/git-cliff/releases/download/v2.14.2/git-cliff-2.14.2-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "git-cliff-2.14.2-aarch64-pc-windows-msvc.zip",
+      "size": 6945947,
+      "url": "https://github.com/orhun/git-cliff/releases/download/v2.14.2/git-cliff-2.14.2-aarch64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "git-cliff-2.14.2-x86_64-apple-darwin.tar.gz",
+      "size": 7269932,
+      "url": "https://github.com/orhun/git-cliff/releases/download/v2.14.2/git-cliff-2.14.2-x86_64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "git-cliff-2.14.2.deb",
+      "size": 4104308,
+      "url": "https://github.com/orhun/git-cliff/releases/download/v2.14.2/git-cliff-2.14.2.deb"
+    },
+    {
+      "name": "git-cliff-2.14.2.x86_64.rpm",
+      "size": 4470246,
+      "url": "https://github.com/orhun/git-cliff/releases/download/v2.14.2/git-cliff-2.14.2.x86_64.rpm"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

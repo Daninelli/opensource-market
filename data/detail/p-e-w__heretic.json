@@ -1,0 +1,42 @@
+{
+  "repo": "p-e-w/heretic",
+  "slug": "p-e-w__heretic",
+  "name": "heretic",
+  "note_zh": "自动移除语言模型审查限制的工具",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "PyTorch"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:37:50Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/p-e-w/heretic/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.4.0",
+    "name": "v1.4.0",
+    "published": "2026-06-14T12:55:57Z",
+    "url": "https://github.com/p-e-w/heretic/releases/tag/v1.4.0"
+  },
+  "assets": [
+    {
+      "name": "heretic-1.4.0.zip",
+      "size": 354369,
+      "url": "https://github.com/p-e-w/heretic/releases/download/v1.4.0/heretic-1.4.0.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

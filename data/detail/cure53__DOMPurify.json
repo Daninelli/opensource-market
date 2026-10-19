@@ -1,0 +1,46 @@
+{
+  "repo": "cure53/DOMPurify",
+  "slug": "cure53__DOMPurify",
+  "name": "DOMPurify",
+  "note_zh": "极快的 DOM XSS 净化库",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-16T22:07:35Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/cure53/DOMPurify/zip/refs/heads/main",
+  "release": {
+    "tag": "3.4.17",
+    "name": "DOMPurify 3.4.17",
+    "published": "2026-10-12T12:37:20Z",
+    "url": "https://github.com/cure53/DOMPurify/releases/tag/3.4.17"
+  },
+  "assets": [
+    {
+      "name": "3.4.17.tar.gz",
+      "size": 477916,
+      "url": "https://github.com/cure53/DOMPurify/releases/download/3.4.17/3.4.17.tar.gz"
+    },
+    {
+      "name": "3.4.17.zip",
+      "size": 521891,
+      "url": "https://github.com/cure53/DOMPurify/releases/download/3.4.17/3.4.17.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

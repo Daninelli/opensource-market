@@ -1,0 +1,72 @@
+{
+  "repo": "linshenkx/prompt-optimizer",
+  "slug": "linshenkx__prompt-optimizer",
+  "name": "prompt-optimizer",
+  "note_zh": "提示词优化器，提升提示质量与输出效果",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React"
+  ],
+  "deploy_type": "Docker 部署 / 前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:54:48Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/linshenkx/prompt-optimizer/zip/refs/heads/develop",
+  "release": {
+    "tag": "v2.11.12",
+    "name": "v2.11.12",
+    "published": "2026-10-19T09:04:00Z",
+    "url": "https://github.com/linshenkx/prompt-optimizer/releases/tag/v2.11.12"
+  },
+  "assets": [
+    {
+      "name": "PromptOptimizer-2.11.12-win-x64.exe",
+      "size": 118425258,
+      "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.11.12/PromptOptimizer-2.11.12-win-x64.exe"
+    },
+    {
+      "name": "PromptOptimizer-2.11.12-mac-arm64.zip",
+      "size": 127067553,
+      "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.11.12/PromptOptimizer-2.11.12-mac-arm64.zip"
+    },
+    {
+      "name": "PromptOptimizer-2.11.12-mac-arm64.dmg",
+      "size": 132873744,
+      "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.11.12/PromptOptimizer-2.11.12-mac-arm64.dmg"
+    },
+    {
+      "name": "PromptOptimizer-2.11.12-win-x64.zip",
+      "size": 154939150,
+      "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.11.12/PromptOptimizer-2.11.12-win-x64.zip"
+    },
+    {
+      "name": "PromptOptimizer-2.11.12-linux-x64.zip",
+      "size": 130225580,
+      "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.11.12/PromptOptimizer-2.11.12-linux-x64.zip"
+    },
+    {
+      "name": "PromptOptimizer-2.11.12-linux-x86_64.AppImage",
+      "size": 138505813,
+      "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.11.12/PromptOptimizer-2.11.12-linux-x86_64.AppImage"
+    },
+    {
+      "name": "PromptOptimizer-chrome-extension-v2.11.12.zip",
+      "size": 2037029,
+      "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.11.12/PromptOptimizer-chrome-extension-v2.11.12.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

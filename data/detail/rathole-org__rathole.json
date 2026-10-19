@@ -1,0 +1,56 @@
+{
+  "repo": "rathole-org/rathole",
+  "slug": "rathole-org__rathole",
+  "name": "rathole",
+  "note_zh": "轻量高性能的内网穿透反向代理",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-08-23T15:38:44Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/rathole-org/rathole/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.5.0",
+    "name": "v0.5.0",
+    "published": "2023-10-01T10:14:10Z",
+    "url": "https://github.com/rathole-org/rathole/releases/tag/v0.5.0"
+  },
+  "assets": [
+    {
+      "name": "rathole-x86_64-pc-windows-msvc.zip",
+      "size": 1644348,
+      "url": "https://github.com/rathole-org/rathole/releases/download/v0.5.0/rathole-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "rathole-x86_64-apple-darwin.zip",
+      "size": 1724482,
+      "url": "https://github.com/rathole-org/rathole/releases/download/v0.5.0/rathole-x86_64-apple-darwin.zip"
+    },
+    {
+      "name": "rathole-aarch64-unknown-linux-musl.zip",
+      "size": 1025661,
+      "url": "https://github.com/rathole-org/rathole/releases/download/v0.5.0/rathole-aarch64-unknown-linux-musl.zip"
+    },
+    {
+      "name": "rathole-arm-unknown-linux-musleabi.zip",
+      "size": 1057268,
+      "url": "https://github.com/rathole-org/rathole/releases/download/v0.5.0/rathole-arm-unknown-linux-musleabi.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

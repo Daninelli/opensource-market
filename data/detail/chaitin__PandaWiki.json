@@ -1,0 +1,31 @@
+{
+  "repo": "chaitin/PandaWiki",
+  "slug": "chaitin__PandaWiki",
+  "name": "PandaWiki",
+  "note_zh": "AI 大模型驱动的开源知识库系统",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "文档与知识库",
+  "subcategory_slug": "docs",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-09T09:10:41Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/chaitin/PandaWiki/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

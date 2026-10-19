@@ -1,0 +1,61 @@
+{
+  "repo": "getzola/zola",
+  "slug": "getzola__zola",
+  "name": "zola",
+  "note_zh": "单二进制极快的静态站点生成器",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "EUPL-1.2",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "二进制 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:20:26Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/getzola/zola/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.23.6",
+    "name": "v0.23.6",
+    "published": "2026-09-12T22:06:53Z",
+    "url": "https://github.com/getzola/zola/releases/tag/v0.23.6"
+  },
+  "assets": [
+    {
+      "name": "zola-v0.23.6-aarch64-apple-darwin.tar.gz",
+      "size": 15034094,
+      "url": "https://github.com/getzola/zola/releases/download/v0.23.6/zola-v0.23.6-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "zola-v0.23.6-x86_64-apple-darwin.tar.gz",
+      "size": 16086637,
+      "url": "https://github.com/getzola/zola/releases/download/v0.23.6/zola-v0.23.6-x86_64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "zola-v0.23.6-x86_64-pc-windows-msvc.zip",
+      "size": 17092134,
+      "url": "https://github.com/getzola/zola/releases/download/v0.23.6/zola-v0.23.6-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "zola-v0.23.6-aarch64-unknown-linux-gnu.tar.gz",
+      "size": 15510431,
+      "url": "https://github.com/getzola/zola/releases/download/v0.23.6/zola-v0.23.6-aarch64-unknown-linux-gnu.tar.gz"
+    },
+    {
+      "name": "zola-v0.23.6-x86_64-unknown-linux-musl.tar.gz",
+      "size": 16332829,
+      "url": "https://github.com/getzola/zola/releases/download/v0.23.6/zola-v0.23.6-x86_64-unknown-linux-musl.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

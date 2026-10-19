@@ -1,0 +1,57 @@
+{
+  "repo": "gitextensions/gitextensions",
+  "slug": "gitextensions__gitextensions",
+  "name": "gitextensions",
+  "note_zh": "Windows 上的 Git 图形化管理工具",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-13T18:57:50Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/gitextensions/gitextensions/zip/refs/heads/master",
+  "release": {
+    "tag": "v7.2.1",
+    "name": "v7.2.1",
+    "published": "2026-08-18T20:28:37Z",
+    "url": "https://github.com/gitextensions/gitextensions/releases/tag/v7.2.1"
+  },
+  "assets": [
+    {
+      "name": "GitExtensions-arm64-7.2.1.7-0aea2d6df.msi",
+      "size": 25985024,
+      "url": "https://github.com/gitextensions/gitextensions/releases/download/v7.2.1/GitExtensions-arm64-7.2.1.7-0aea2d6df.msi"
+    },
+    {
+      "name": "GitExtensions-x64-7.2.1.7-0aea2d6df.msi",
+      "size": 26427392,
+      "url": "https://github.com/gitextensions/gitextensions/releases/download/v7.2.1/GitExtensions-x64-7.2.1.7-0aea2d6df.msi"
+    },
+    {
+      "name": "GitExtensions-Portable-arm64-7.2.1.7-0aea2d6df.zip",
+      "size": 20264513,
+      "url": "https://github.com/gitextensions/gitextensions/releases/download/v7.2.1/GitExtensions-Portable-arm64-7.2.1.7-0aea2d6df.zip"
+    },
+    {
+      "name": "GitExtensions-Portable-x64-7.2.1.7-0aea2d6df.zip",
+      "size": 20498046,
+      "url": "https://github.com/gitextensions/gitextensions/releases/download/v7.2.1/GitExtensions-Portable-x64-7.2.1.7-0aea2d6df.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

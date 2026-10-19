@@ -1,0 +1,31 @@
+{
+  "repo": "WiseLibs/better-sqlite3",
+  "slug": "WiseLibs__better-sqlite3",
+  "name": "better-sqlite3",
+  "note_zh": "Node.js 里最快最简单的 SQLite3 库",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "SQLite"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-08-10T03:10:10Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/WiseLibs/better-sqlite3/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

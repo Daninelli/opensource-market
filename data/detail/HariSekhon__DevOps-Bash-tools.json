@@ -1,0 +1,35 @@
+{
+  "repo": "HariSekhon/DevOps-Bash-tools",
+  "slug": "HariSekhon__DevOps-Bash-tools",
+  "name": "DevOps-Bash-tools",
+  "note_zh": "上千个 DevOps Bash 脚本合集",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Shell"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T13:48:42Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/HariSekhon/DevOps-Bash-tools/zip/refs/heads/master",
+  "release": {
+    "tag": "ccmenu",
+    "name": "ccmenu",
+    "published": "2019-10-16T00:17:32Z",
+    "url": "https://github.com/HariSekhon/DevOps-Bash-tools/releases/tag/ccmenu"
+  },
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

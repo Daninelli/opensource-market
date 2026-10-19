@@ -1,0 +1,61 @@
+{
+  "repo": "fission/fission",
+  "slug": "fission__fission",
+  "name": "fission",
+  "note_zh": "Kubernetes 上快速简单的无服务器函数",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:30:24Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/fission/fission/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.27.0",
+    "name": "v1.27.0",
+    "published": "2026-06-22T15:02:22Z",
+    "url": "https://github.com/fission/fission/releases/tag/v1.27.0"
+  },
+  "assets": [
+    {
+      "name": "fission-v1.27.0-darwin-arm64",
+      "size": 66389554,
+      "url": "https://github.com/fission/fission/releases/download/v1.27.0/fission-v1.27.0-darwin-arm64"
+    },
+    {
+      "name": "fission-v1.27.0-darwin-amd64",
+      "size": 70774768,
+      "url": "https://github.com/fission/fission/releases/download/v1.27.0/fission-v1.27.0-darwin-amd64"
+    },
+    {
+      "name": "fission-v1.27.0-windows-amd64.exe",
+      "size": 70871552,
+      "url": "https://github.com/fission/fission/releases/download/v1.27.0/fission-v1.27.0-windows-amd64.exe"
+    },
+    {
+      "name": "fission-v1.27.0-linux-arm64",
+      "size": 64290978,
+      "url": "https://github.com/fission/fission/releases/download/v1.27.0/fission-v1.27.0-linux-arm64"
+    },
+    {
+      "name": "fission-v1.27.0-linux-amd64",
+      "size": 69107874,
+      "url": "https://github.com/fission/fission/releases/download/v1.27.0/fission-v1.27.0-linux-amd64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

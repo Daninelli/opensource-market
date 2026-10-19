@@ -1,0 +1,36 @@
+{
+  "repo": "CloakHQ/CloakBrowser",
+  "slug": "CloakHQ__CloakBrowser",
+  "name": "CloakBrowser",
+  "note_zh": "可过机器人检测的隐身浏览器，兼容 Playwright",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Chromium"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T20:13:05Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/CloakHQ/CloakBrowser/zip/refs/heads/main",
+  "release": {
+    "tag": "chromium-v154.0.8037.57.2-pro",
+    "name": "Chromium v154.0.8037.57.2 — Stealth Build (Pro)",
+    "published": "2026-10-13T18:29:30Z",
+    "url": "https://github.com/CloakHQ/CloakBrowser/releases/tag/chromium-v154.0.8037.57.2-pro"
+  },
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,47 @@
+{
+  "repo": "deniscerri/ytdlnis",
+  "slug": "deniscerri__ytdlnis",
+  "name": "ytdlnis",
+  "note_zh": "安卓上基于 yt-dlp 的音视频下载器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Kotlin",
+    "Android"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:26:53Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/deniscerri/ytdlnis/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.9.1.1",
+    "name": "1.9.1.1",
+    "published": "2026-10-19T15:02:39Z",
+    "url": "https://github.com/deniscerri/ytdlnis/releases/tag/v1.9.1.1"
+  },
+  "assets": [
+    {
+      "name": "YTDLnis-1.9.1.1-izzy-arm64-v8a-release.apk",
+      "size": 50184658,
+      "url": "https://github.com/deniscerri/ytdlnis/releases/download/v1.9.1.1/YTDLnis-1.9.1.1-izzy-arm64-v8a-release.apk"
+    },
+    {
+      "name": "YTDLnis-1.9.1.1-foss-armeabi-v7a-release.apk",
+      "size": 58998390,
+      "url": "https://github.com/deniscerri/ytdlnis/releases/download/v1.9.1.1/YTDLnis-1.9.1.1-foss-armeabi-v7a-release.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

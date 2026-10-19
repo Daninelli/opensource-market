@@ -1,0 +1,76 @@
+{
+  "repo": "getpaseo/paseo",
+  "slug": "getpaseo__paseo",
+  "name": "paseo",
+  "note_zh": "桌面与移动端统一编排多个编码代理",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:50:04Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/getpaseo/paseo/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.12.0",
+    "name": "Paseo v0.12.0",
+    "published": "2026-10-19T07:07:47Z",
+    "url": "https://github.com/getpaseo/paseo/releases/tag/v0.12.0"
+  },
+  "assets": [
+    {
+      "name": "Paseo-Setup-0.12.0-x64.exe",
+      "size": 144428988,
+      "url": "https://github.com/getpaseo/paseo/releases/download/v0.12.0/Paseo-Setup-0.12.0-x64.exe"
+    },
+    {
+      "name": "Paseo-Setup-0.12.0-arm64.exe",
+      "size": 144931086,
+      "url": "https://github.com/getpaseo/paseo/releases/download/v0.12.0/Paseo-Setup-0.12.0-arm64.exe"
+    },
+    {
+      "name": "Paseo-0.12.0-arm64.dmg",
+      "size": 186269293,
+      "url": "https://github.com/getpaseo/paseo/releases/download/v0.12.0/Paseo-0.12.0-arm64.dmg"
+    },
+    {
+      "name": "Paseo-0.12.0-x64.dmg",
+      "size": 195961626,
+      "url": "https://github.com/getpaseo/paseo/releases/download/v0.12.0/Paseo-0.12.0-x64.dmg"
+    },
+    {
+      "name": "Paseo-0.12.0-x86_64.rpm",
+      "size": 113906089,
+      "url": "https://github.com/getpaseo/paseo/releases/download/v0.12.0/Paseo-0.12.0-x86_64.rpm"
+    },
+    {
+      "name": "Paseo-0.12.0-amd64.deb",
+      "size": 135341580,
+      "url": "https://github.com/getpaseo/paseo/releases/download/v0.12.0/Paseo-0.12.0-amd64.deb"
+    },
+    {
+      "name": "paseo-v0.12.0-android.apk",
+      "size": 360414232,
+      "url": "https://github.com/getpaseo/paseo/releases/download/v0.12.0/paseo-v0.12.0-android.apk"
+    },
+    {
+      "name": "Paseo-0.12.0-x64.tar.gz",
+      "size": 163478746,
+      "url": "https://github.com/getpaseo/paseo/releases/download/v0.12.0/Paseo-0.12.0-x64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

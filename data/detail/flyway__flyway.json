@@ -1,0 +1,71 @@
+{
+  "repo": "flyway/flyway",
+  "slug": "flyway__flyway",
+  "name": "flyway",
+  "note_zh": "数据库版本迁移工具",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java"
+  ],
+  "deploy_type": "命令行 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-15T14:36:05Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/flyway/flyway/zip/refs/heads/main",
+  "release": {
+    "tag": "flyway-13.10.3",
+    "name": "Flyway 13.10.3",
+    "published": "2026-10-15T14:36:07Z",
+    "url": "https://github.com/flyway/flyway/releases/tag/flyway-13.10.3"
+  },
+  "assets": [
+    {
+      "name": "flyway-commandline-13.10.3-macosx-x64.tar.gz",
+      "size": 365973494,
+      "url": "https://github.com/flyway/flyway/releases/download/flyway-13.10.3/flyway-commandline-13.10.3-macosx-x64.tar.gz"
+    },
+    {
+      "name": "flyway-commandline-13.10.3-macosx-arm64.tar.gz",
+      "size": 380287424,
+      "url": "https://github.com/flyway/flyway/releases/download/flyway-13.10.3/flyway-commandline-13.10.3-macosx-arm64.tar.gz"
+    },
+    {
+      "name": "flyway-commandline-13.10.3-windows-x64.zip",
+      "size": 382356960,
+      "url": "https://github.com/flyway/flyway/releases/download/flyway-13.10.3/flyway-commandline-13.10.3-windows-x64.zip"
+    },
+    {
+      "name": "flyway-commandline-13.10.3-linux-alpine-x64.tar.gz",
+      "size": 385214899,
+      "url": "https://github.com/flyway/flyway/releases/download/flyway-13.10.3/flyway-commandline-13.10.3-linux-alpine-x64.tar.gz"
+    },
+    {
+      "name": "flyway-commandline-13.10.3-linux-x64.tar.gz",
+      "size": 386065617,
+      "url": "https://github.com/flyway/flyway/releases/download/flyway-13.10.3/flyway-commandline-13.10.3-linux-x64.tar.gz"
+    },
+    {
+      "name": "flyway-commandline-13.10.3.tar.gz",
+      "size": 323847263,
+      "url": "https://github.com/flyway/flyway/releases/download/flyway-13.10.3/flyway-commandline-13.10.3.tar.gz"
+    },
+    {
+      "name": "flyway-commandline-13.10.3.zip",
+      "size": 323909800,
+      "url": "https://github.com/flyway/flyway/releases/download/flyway-13.10.3/flyway-commandline-13.10.3.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,31 @@
+{
+  "repo": "iib0011/omni-tools",
+  "slug": "iib0011__omni-tools",
+  "name": "omni-tools",
+  "note_zh": "自托管的日常网页工具箱合集",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React"
+  ],
+  "deploy_type": "Docker 部署 / 前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-13T23:38:12Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/iib0011/omni-tools/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

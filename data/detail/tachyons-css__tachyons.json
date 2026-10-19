@@ -1,0 +1,46 @@
+{
+  "repo": "tachyons-css/tachyons",
+  "slug": "tachyons-css__tachyons",
+  "name": "tachyons",
+  "note_zh": "函数式原子 CSS 框架",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "CSS"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-07-20T15:11:15Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/tachyons-css/tachyons/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.2.1",
+    "name": "v0.2.1",
+    "published": "2026-07-20T15:11:15Z",
+    "url": "https://github.com/tachyons-css/tachyons/releases/tag/v0.2.1"
+  },
+  "assets": [
+    {
+      "name": "tackeons.min.css",
+      "size": 193617,
+      "url": "https://github.com/tachyons-css/tachyons/releases/download/v0.2.1/tackeons.min.css"
+    },
+    {
+      "name": "tackeons.css",
+      "size": 256983,
+      "url": "https://github.com/tachyons-css/tachyons/releases/download/v0.2.1/tackeons.css"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

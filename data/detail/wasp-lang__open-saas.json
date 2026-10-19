@@ -1,0 +1,43 @@
+{
+  "repo": "wasp-lang/open-saas",
+  "slug": "wasp-lang__open-saas",
+  "name": "open-saas",
+  "note_zh": "免费现代 JS SaaS 脚手架，开箱即用",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "低代码平台",
+  "subcategory_slug": "low-code",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "React",
+    "Node.js",
+    "Prisma"
+  ],
+  "deploy_type": "源码 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:50:17Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/wasp-lang/open-saas/zip/refs/heads/main",
+  "release": {
+    "tag": "wasp-v0.26-template",
+    "name": "OpenSaaS for Wasp 0.26",
+    "published": "2026-10-15T13:01:18Z",
+    "url": "https://github.com/wasp-lang/open-saas/releases/tag/wasp-v0.26-template"
+  },
+  "assets": [
+    {
+      "name": "template.tar.gz",
+      "size": 3347559,
+      "url": "https://github.com/wasp-lang/open-saas/releases/download/wasp-v0.26-template/template.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

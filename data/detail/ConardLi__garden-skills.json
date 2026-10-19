@@ -1,0 +1,41 @@
+{
+  "repo": "ConardLi/garden-skills",
+  "slug": "ConardLi__garden-skills",
+  "name": "garden-skills",
+  "note_zh": "涵盖网页设计知识的开源 Skills 合集",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Markdown"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-11T02:28:13Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/ConardLi/garden-skills/zip/refs/heads/main",
+  "release": {
+    "tag": "motion-showreel-v0.1.0",
+    "name": "motion-showreel v0.1.0",
+    "published": "2026-10-11T02:28:11Z",
+    "url": "https://github.com/ConardLi/garden-skills/releases/tag/motion-showreel-v0.1.0"
+  },
+  "assets": [
+    {
+      "name": "motion-showreel-0.1.0.zip",
+      "size": 278598,
+      "url": "https://github.com/ConardLi/garden-skills/releases/download/motion-showreel-v0.1.0/motion-showreel-0.1.0.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

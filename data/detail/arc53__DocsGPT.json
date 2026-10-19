@@ -1,0 +1,36 @@
+{
+  "repo": "arc53/DocsGPT",
+  "slug": "arc53__DocsGPT",
+  "name": "DocsGPT",
+  "note_zh": "私有化 AI 文档问答与知识检索平台",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "文档与知识库",
+  "subcategory_slug": "docs",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:36:56Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/arc53/DocsGPT/zip/refs/heads/main",
+  "release": {
+    "tag": "1.0.0",
+    "name": "v1.0.0",
+    "published": "2026-10-08T12:45:28Z",
+    "url": "https://github.com/arc53/DocsGPT/releases/tag/1.0.0"
+  },
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

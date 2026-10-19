@@ -1,0 +1,66 @@
+{
+  "repo": "kubernetes/kompose",
+  "slug": "kubernetes__kompose",
+  "name": "kompose",
+  "note_zh": "把 Docker Compose 文件转成 Kubernetes 资源",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-15T16:59:00Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/kubernetes/kompose/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.38.0",
+    "name": "v1.38.0",
+    "published": "2026-01-15T21:33:45Z",
+    "url": "https://github.com/kubernetes/kompose/releases/tag/v1.38.0"
+  },
+  "assets": [
+    {
+      "name": "kompose-darwin-arm64.tar.gz",
+      "size": 7984996,
+      "url": "https://github.com/kubernetes/kompose/releases/download/v1.38.0/kompose-darwin-arm64.tar.gz"
+    },
+    {
+      "name": "kompose-darwin-amd64.tar.gz",
+      "size": 8809333,
+      "url": "https://github.com/kubernetes/kompose/releases/download/v1.38.0/kompose-darwin-amd64.tar.gz"
+    },
+    {
+      "name": "kompose-windows-amd64.exe.tar.gz",
+      "size": 8901469,
+      "url": "https://github.com/kubernetes/kompose/releases/download/v1.38.0/kompose-windows-amd64.exe.tar.gz"
+    },
+    {
+      "name": "kompose-windows-amd64.exe",
+      "size": 26143232,
+      "url": "https://github.com/kubernetes/kompose/releases/download/v1.38.0/kompose-windows-amd64.exe"
+    },
+    {
+      "name": "kompose-linux-arm64.tar.gz",
+      "size": 7661534,
+      "url": "https://github.com/kubernetes/kompose/releases/download/v1.38.0/kompose-linux-arm64.tar.gz"
+    },
+    {
+      "name": "kompose-linux-arm.tar.gz",
+      "size": 8107033,
+      "url": "https://github.com/kubernetes/kompose/releases/download/v1.38.0/kompose-linux-arm.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

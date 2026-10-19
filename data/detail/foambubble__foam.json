@@ -1,0 +1,31 @@
+{
+  "repo": "foambubble/foam",
+  "slug": "foambubble__foam",
+  "name": "foam",
+  "note_zh": "VS Code 里的个人知识管理与双向链接",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "VS Code"
+  ],
+  "deploy_type": "依赖库 / 编辑器扩展",
+  "platform": "github",
+  "updated_at": "2026-10-14T16:08:35Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/foambubble/foam/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

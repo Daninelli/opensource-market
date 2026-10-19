@@ -1,0 +1,56 @@
+{
+  "repo": "endless-sky/endless-sky",
+  "slug": "endless-sky__endless-sky",
+  "name": "endless-sky",
+  "note_zh": "太空探索贸易与战斗游戏",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏客户端",
+  "subcategory_slug": "client",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++"
+  ],
+  "deploy_type": "客户端 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-18T19:35:29Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/endless-sky/endless-sky/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.11.2",
+    "name": "v0.11.2 Stable Release",
+    "published": "2026-06-27T20:37:33Z",
+    "url": "https://github.com/endless-sky/endless-sky/releases/tag/v0.11.2"
+  },
+  "assets": [
+    {
+      "name": "EndlessSky-v0.11.2-win32-setup.exe",
+      "size": 362376195,
+      "url": "https://github.com/endless-sky/endless-sky/releases/download/v0.11.2/EndlessSky-v0.11.2-win32-setup.exe"
+    },
+    {
+      "name": "EndlessSky-v0.11.2-win64-setup.exe",
+      "size": 362480233,
+      "url": "https://github.com/endless-sky/endless-sky/releases/download/v0.11.2/EndlessSky-v0.11.2-win64-setup.exe"
+    },
+    {
+      "name": "Endless-Sky-v0.11.2.dmg",
+      "size": 377346725,
+      "url": "https://github.com/endless-sky/endless-sky/releases/download/v0.11.2/Endless-Sky-v0.11.2.dmg"
+    },
+    {
+      "name": "Endless_Sky-v0.11.2-x86_64.AppImage",
+      "size": 363155768,
+      "url": "https://github.com/endless-sky/endless-sky/releases/download/v0.11.2/Endless_Sky-v0.11.2-x86_64.AppImage"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

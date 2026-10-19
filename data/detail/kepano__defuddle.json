@@ -1,0 +1,41 @@
+{
+  "repo": "kepano/defuddle",
+  "slug": "kepano__defuddle",
+  "name": "defuddle",
+  "note_zh": "把任意网页正文提取成 Markdown",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-10T17:59:09Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/kepano/defuddle/zip/refs/heads/main",
+  "release": {
+    "tag": "0.19.5",
+    "name": "0.19.5",
+    "published": "2026-10-10T15:34:53Z",
+    "url": "https://github.com/kepano/defuddle/releases/tag/0.19.5"
+  },
+  "assets": [
+    {
+      "name": "defuddle-0.19.5.tgz",
+      "size": 659138,
+      "url": "https://github.com/kepano/defuddle/releases/download/0.19.5/defuddle-0.19.5.tgz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

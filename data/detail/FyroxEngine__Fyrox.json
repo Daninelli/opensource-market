@@ -1,0 +1,30 @@
+{
+  "repo": "FyroxEngine/Fyrox",
+  "slug": "FyroxEngine__Fyrox",
+  "name": "Fyrox",
+  "note_zh": "Rust 编写的 2D 与 3D 游戏引擎",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏引擎",
+  "subcategory_slug": "engine",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:29:50Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/FyroxEngine/Fyrox/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

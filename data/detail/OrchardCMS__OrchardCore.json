@@ -1,0 +1,31 @@
+{
+  "repo": "OrchardCMS/OrchardCore",
+  "slug": "OrchardCMS__OrchardCore",
+  "name": "OrchardCore",
+  "note_zh": "模块化多租户的开源 CMS 框架",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "BSD-3-Clause",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:58:04Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/OrchardCMS/OrchardCore/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

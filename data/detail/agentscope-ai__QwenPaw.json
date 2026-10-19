@@ -1,0 +1,46 @@
+{
+  "repo": "agentscope-ai/QwenPaw",
+  "slug": "agentscope-ai__QwenPaw",
+  "name": "QwenPaw",
+  "note_zh": "可本地部署的个人 AI 助理",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "源码 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:08:58Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/agentscope-ai/QwenPaw/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.2.2",
+    "name": "v2.2.2",
+    "published": "2026-10-15T07:10:45Z",
+    "url": "https://github.com/agentscope-ai/QwenPaw/releases/tag/v2.2.2"
+  },
+  "assets": [
+    {
+      "name": "QwenPaw-Tauri-2.2.2-Windows-setup.exe",
+      "size": 907926294,
+      "url": "https://github.com/agentscope-ai/QwenPaw/releases/download/v2.2.2/QwenPaw-Tauri-2.2.2-Windows-setup.exe"
+    },
+    {
+      "name": "QwenPaw-Tauri-2.2.2-macOS.zip",
+      "size": 1051715306,
+      "url": "https://github.com/agentscope-ai/QwenPaw/releases/download/v2.2.2/QwenPaw-Tauri-2.2.2-macOS.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

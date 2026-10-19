@@ -1,0 +1,57 @@
+{
+  "repo": "ImranR98/Obtainium",
+  "slug": "ImranR98__Obtainium",
+  "name": "Obtainium",
+  "note_zh": "直接从源头获取安卓应用更新的工具",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Dart",
+    "Flutter"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-18T09:27:13Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/ImranR98/Obtainium/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.7.1",
+    "name": "v1.7.1",
+    "published": "2026-10-18T17:16:53Z",
+    "url": "https://github.com/ImranR98/Obtainium/releases/tag/v1.7.1"
+  },
+  "assets": [
+    {
+      "name": "app-armeabi-v7a-fdroid-release.apk",
+      "size": 25425041,
+      "url": "https://github.com/ImranR98/Obtainium/releases/download/v1.7.1/app-armeabi-v7a-fdroid-release.apk"
+    },
+    {
+      "name": "app-armeabi-v7a-release.apk",
+      "size": 25425041,
+      "url": "https://github.com/ImranR98/Obtainium/releases/download/v1.7.1/app-armeabi-v7a-release.apk"
+    },
+    {
+      "name": "app-armeabi-v7a-fdroid-release.apk.idsig",
+      "size": 206362,
+      "url": "https://github.com/ImranR98/Obtainium/releases/download/v1.7.1/app-armeabi-v7a-fdroid-release.apk.idsig"
+    },
+    {
+      "name": "app-armeabi-v7a-release.apk.idsig",
+      "size": 206362,
+      "url": "https://github.com/ImranR98/Obtainium/releases/download/v1.7.1/app-armeabi-v7a-release.apk.idsig"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

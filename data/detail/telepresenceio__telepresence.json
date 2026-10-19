@@ -1,0 +1,66 @@
+{
+  "repo": "telepresenceio/telepresence",
+  "slug": "telepresenceio__telepresence",
+  "name": "telepresence",
+  "note_zh": "本地开发直连远程 Kubernetes 集群",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-18T22:58:28Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "release/v2",
+  "download_url": "https://codeload.github.com/telepresenceio/telepresence/zip/refs/heads/release%2Fv2",
+  "release": {
+    "tag": "v2.32.2",
+    "name": "v2.32.2",
+    "published": "2026-10-08T04:16:58Z",
+    "url": "https://github.com/telepresenceio/telepresence/releases/tag/v2.32.2"
+  },
+  "assets": [
+    {
+      "name": "telepresence-windows-arm64.msi",
+      "size": 20729856,
+      "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.32.2/telepresence-windows-arm64.msi"
+    },
+    {
+      "name": "telepresence-windows-amd64.msi",
+      "size": 22929408,
+      "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.32.2/telepresence-windows-amd64.msi"
+    },
+    {
+      "name": "telepresence-darwin-arm64.pkg",
+      "size": 28078746,
+      "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.32.2/telepresence-darwin-arm64.pkg"
+    },
+    {
+      "name": "telepresence-darwin-amd64.pkg",
+      "size": 31916006,
+      "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.32.2/telepresence-darwin-amd64.pkg"
+    },
+    {
+      "name": "telepresence-2.32.2-linux-arm64.deb",
+      "size": 36601718,
+      "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.32.2/telepresence-2.32.2-linux-arm64.deb"
+    },
+    {
+      "name": "telepresence-linux-arm64.deb",
+      "size": 36601718,
+      "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.32.2/telepresence-linux-arm64.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

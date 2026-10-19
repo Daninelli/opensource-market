@@ -1,0 +1,52 @@
+{
+  "repo": "firerpa/lamda",
+  "slug": "firerpa__lamda",
+  "name": "lamda",
+  "note_zh": "安卓全栈设备控制平台，支持远程投屏",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Android"
+  ],
+  "deploy_type": "源码 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-09-27T10:05:24Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "10",
+  "download_url": "https://codeload.github.com/firerpa/lamda/zip/refs/heads/10",
+  "release": {
+    "tag": "v10.9",
+    "name": "v10.9",
+    "published": "2026-09-27T10:09:54Z",
+    "url": "https://github.com/firerpa/lamda/releases/tag/v10.9"
+  },
+  "assets": [
+    {
+      "name": "startmitm.exe",
+      "size": 22463129,
+      "url": "https://github.com/firerpa/lamda/releases/download/v10.9/startmitm.exe"
+    },
+    {
+      "name": "lamda-mod-debian-armeabi-v7a.tar.gz",
+      "size": 32938429,
+      "url": "https://github.com/firerpa/lamda/releases/download/v10.9/lamda-mod-debian-armeabi-v7a.tar.gz"
+    },
+    {
+      "name": "lamda-mod-debian-x86_64.tar.gz",
+      "size": 36839335,
+      "url": "https://github.com/firerpa/lamda/releases/download/v10.9/lamda-mod-debian-x86_64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,76 @@
+{
+  "repo": "git-lfs/git-lfs",
+  "slug": "git-lfs__git-lfs",
+  "name": "git-lfs",
+  "note_zh": "Git 大文件版本管理扩展",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-01T04:52:14Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/git-lfs/git-lfs/zip/refs/heads/main",
+  "release": {
+    "tag": "v3.8.0",
+    "name": "v3.8.0",
+    "published": "2026-08-28T00:23:08Z",
+    "url": "https://github.com/git-lfs/git-lfs/releases/tag/v3.8.0"
+  },
+  "assets": [
+    {
+      "name": "git-lfs-windows-arm64-v3.8.0.zip",
+      "size": 5260326,
+      "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-windows-arm64-v3.8.0.zip"
+    },
+    {
+      "name": "git-lfs-darwin-arm64-v3.8.0.zip",
+      "size": 5550634,
+      "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-darwin-arm64-v3.8.0.zip"
+    },
+    {
+      "name": "git-lfs-windows-386-v3.8.0.zip",
+      "size": 5770441,
+      "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-windows-386-v3.8.0.zip"
+    },
+    {
+      "name": "git-lfs-darwin-amd64-v3.8.0.zip",
+      "size": 6198060,
+      "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-darwin-amd64-v3.8.0.zip"
+    },
+    {
+      "name": "git-lfs-linux-arm64-v3.8.0.tar.gz",
+      "size": 5341074,
+      "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-linux-arm64-v3.8.0.tar.gz"
+    },
+    {
+      "name": "git-lfs-linux-ppc64le-v3.8.0.tar.gz",
+      "size": 5416905,
+      "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-linux-ppc64le-v3.8.0.tar.gz"
+    },
+    {
+      "name": "git-lfs-v3.8.0.tar.gz",
+      "size": 748916,
+      "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-v3.8.0.tar.gz"
+    },
+    {
+      "name": "git-lfs-vendor-v3.8.0.tar.gz",
+      "size": 3598783,
+      "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-vendor-v3.8.0.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

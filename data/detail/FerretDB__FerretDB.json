@@ -1,0 +1,46 @@
+{
+  "repo": "FerretDB/FerretDB",
+  "slug": "FerretDB__FerretDB",
+  "name": "FerretDB",
+  "note_zh": "真正开源的 MongoDB 替代，基于 Postgres",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-06-05T07:31:28Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/FerretDB/FerretDB/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.7.0",
+    "name": "v2.7.0",
+    "published": "2025-11-10T17:47:20Z",
+    "url": "https://github.com/FerretDB/FerretDB/releases/tag/v2.7.0"
+  },
+  "assets": [
+    {
+      "name": "ferretdb-arm64-linux.deb",
+      "size": 16440928,
+      "url": "https://github.com/FerretDB/FerretDB/releases/download/v2.7.0/ferretdb-arm64-linux.deb"
+    },
+    {
+      "name": "ferretdb-dev-arm64-linux.deb",
+      "size": 16666554,
+      "url": "https://github.com/FerretDB/FerretDB/releases/download/v2.7.0/ferretdb-dev-arm64-linux.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

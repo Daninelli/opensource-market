@@ -1,0 +1,71 @@
+{
+  "repo": "bee-san/RustScan",
+  "slug": "bee-san__RustScan",
+  "name": "RustScan",
+  "note_zh": "现代端口扫描器，速度快",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-13T08:06:46Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/bee-san/RustScan/zip/refs/heads/master",
+  "release": {
+    "tag": "2.4.1",
+    "name": "2.4.1 - Guaranteed Speed 🦔",
+    "published": "2025-02-23T15:03:50Z",
+    "url": "https://github.com/bee-san/RustScan/releases/tag/2.4.1"
+  },
+  "assets": [
+    {
+      "name": "x86-windows-rustscan.exe.zip",
+      "size": 1785986,
+      "url": "https://github.com/bee-san/RustScan/releases/download/2.4.1/x86-windows-rustscan.exe.zip"
+    },
+    {
+      "name": "aarch64-macos-rustscan.tar.gz.zip",
+      "size": 1835936,
+      "url": "https://github.com/bee-san/RustScan/releases/download/2.4.1/aarch64-macos-rustscan.tar.gz.zip"
+    },
+    {
+      "name": "x86_64-macos-rustscan.tar.gz.zip",
+      "size": 2007300,
+      "url": "https://github.com/bee-san/RustScan/releases/download/2.4.1/x86_64-macos-rustscan.tar.gz.zip"
+    },
+    {
+      "name": "x86_64-windows-rustscan.exe.zip",
+      "size": 2058866,
+      "url": "https://github.com/bee-san/RustScan/releases/download/2.4.1/x86_64-windows-rustscan.exe.zip"
+    },
+    {
+      "name": "x86-linux-rustscan.zip",
+      "size": 2030323,
+      "url": "https://github.com/bee-san/RustScan/releases/download/2.4.1/x86-linux-rustscan.zip"
+    },
+    {
+      "name": "aarch64-linux-rustscan.zip",
+      "size": 2054366,
+      "url": "https://github.com/bee-san/RustScan/releases/download/2.4.1/aarch64-linux-rustscan.zip"
+    },
+    {
+      "name": "rustscan.deb.zip",
+      "size": 3965411,
+      "url": "https://github.com/bee-san/RustScan/releases/download/2.4.1/rustscan.deb.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

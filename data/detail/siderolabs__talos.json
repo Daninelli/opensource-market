@@ -1,0 +1,76 @@
+{
+  "repo": "siderolabs/talos",
+  "slug": "siderolabs__talos",
+  "name": "talos",
+  "note_zh": "为 Kubernetes 而生的极简 Linux 发行版",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "MPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "镜像 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:18:45Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/siderolabs/talos/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.14.4",
+    "name": "v1.14.4",
+    "published": "2026-10-16T15:25:45Z",
+    "url": "https://github.com/siderolabs/talos/releases/tag/v1.14.4"
+  },
+  "assets": [
+    {
+      "name": "talosctl-windows-arm64.exe",
+      "size": 108510208,
+      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.4/talosctl-windows-arm64.exe"
+    },
+    {
+      "name": "talosctl-darwin-arm64",
+      "size": 113712418,
+      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.4/talosctl-darwin-arm64"
+    },
+    {
+      "name": "talosctl-windows-amd64.exe",
+      "size": 117452288,
+      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.4/talosctl-windows-amd64.exe"
+    },
+    {
+      "name": "talosctl-darwin-amd64",
+      "size": 120363920,
+      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.4/talosctl-darwin-amd64"
+    },
+    {
+      "name": "talosctl-linux-riscv64",
+      "size": 106954914,
+      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.4/talosctl-linux-riscv64"
+    },
+    {
+      "name": "talosctl-linux-armv7",
+      "size": 110624930,
+      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.4/talosctl-linux-armv7"
+    },
+    {
+      "name": "talosctl-cni-bundle-arm64.tar.gz",
+      "size": 5240970,
+      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.4/talosctl-cni-bundle-arm64.tar.gz"
+    },
+    {
+      "name": "talosctl-cni-bundle-amd64.tar.gz",
+      "size": 5810481,
+      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.4/talosctl-cni-bundle-amd64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

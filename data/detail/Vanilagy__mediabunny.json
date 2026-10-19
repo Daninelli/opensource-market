@@ -1,0 +1,46 @@
+{
+  "repo": "Vanilagy/mediabunny",
+  "slug": "Vanilagy__mediabunny",
+  "name": "mediabunny",
+  "note_zh": "纯 TypeScript 的音视频读写转换工具包",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "MPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-16T18:13:50Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Vanilagy/mediabunny/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.61.6",
+    "name": "v1.61.6",
+    "published": "2026-10-16T18:08:58Z",
+    "url": "https://github.com/Vanilagy/mediabunny/releases/tag/v1.61.6"
+  },
+  "assets": [
+    {
+      "name": "mediabunny-server.mjs",
+      "size": 138183,
+      "url": "https://github.com/Vanilagy/mediabunny/releases/download/v1.61.6/mediabunny-server.mjs"
+    },
+    {
+      "name": "mediabunny-server.cjs",
+      "size": 148430,
+      "url": "https://github.com/Vanilagy/mediabunny/releases/download/v1.61.6/mediabunny-server.cjs"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

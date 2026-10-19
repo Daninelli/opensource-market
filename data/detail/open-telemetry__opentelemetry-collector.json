@@ -1,0 +1,30 @@
+{
+  "repo": "open-telemetry/opentelemetry-collector",
+  "slug": "open-telemetry__opentelemetry-collector",
+  "name": "opentelemetry-collector",
+  "note_zh": "OpenTelemetry 数据采集与导出管道",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "二进制 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:36:16Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/open-telemetry/opentelemetry-collector/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

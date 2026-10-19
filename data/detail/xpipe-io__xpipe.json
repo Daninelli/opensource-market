@@ -1,0 +1,67 @@
+{
+  "repo": "xpipe-io/xpipe",
+  "slug": "xpipe-io__xpipe",
+  "name": "xpipe",
+  "note_zh": "从本机访问全部服务器基础设施",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "JavaFX"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:57:23Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/xpipe-io/xpipe/zip/refs/heads/master",
+  "release": {
+    "tag": "24.7.1",
+    "name": "24.7.1",
+    "published": "2026-10-19T08:57:23Z",
+    "url": "https://github.com/xpipe-io/xpipe/releases/tag/24.7.1"
+  },
+  "assets": [
+    {
+      "name": "xpipe-installer-windows-arm64.msi",
+      "size": 107249664,
+      "url": "https://github.com/xpipe-io/xpipe/releases/download/24.7.1/xpipe-installer-windows-arm64.msi"
+    },
+    {
+      "name": "xpipe-portable-windows-arm64.zip",
+      "size": 128405588,
+      "url": "https://github.com/xpipe-io/xpipe/releases/download/24.7.1/xpipe-portable-windows-arm64.zip"
+    },
+    {
+      "name": "xpipe-portable-macos-x86_64.dmg",
+      "size": 130074282,
+      "url": "https://github.com/xpipe-io/xpipe/releases/download/24.7.1/xpipe-portable-macos-x86_64.dmg"
+    },
+    {
+      "name": "xpipe-installer-macos-x86_64.pkg",
+      "size": 130312089,
+      "url": "https://github.com/xpipe-io/xpipe/releases/download/24.7.1/xpipe-installer-macos-x86_64.pkg"
+    },
+    {
+      "name": "xpipe-portable-linux-arm64.AppImage",
+      "size": 143739400,
+      "url": "https://github.com/xpipe-io/xpipe/releases/download/24.7.1/xpipe-portable-linux-arm64.AppImage"
+    },
+    {
+      "name": "xpipe-portable-linux-x86_64.AppImage",
+      "size": 145975800,
+      "url": "https://github.com/xpipe-io/xpipe/releases/download/24.7.1/xpipe-portable-linux-x86_64.AppImage"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

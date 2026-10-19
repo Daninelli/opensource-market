@@ -1,0 +1,46 @@
+{
+  "repo": "valeriansaliou/sonic",
+  "slug": "valeriansaliou__sonic",
+  "name": "sonic",
+  "note_zh": "轻量无模式的搜索后端，替代 Elasticsearch",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "MPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "二进制 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:41:31Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/valeriansaliou/sonic/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.10.2",
+    "name": "Sonic v1.10.2",
+    "published": "2026-10-05T13:25:51Z",
+    "url": "https://github.com/valeriansaliou/sonic/releases/tag/v1.10.2"
+  },
+  "assets": [
+    {
+      "name": "v1.10.2-x86_64-rhel9.tar.gz",
+      "size": 8481615,
+      "url": "https://github.com/valeriansaliou/sonic/releases/download/v1.10.2/v1.10.2-x86_64-rhel9.tar.gz"
+    },
+    {
+      "name": "v1.10.2-x86_64-gnu.tar.gz",
+      "size": 8742912,
+      "url": "https://github.com/valeriansaliou/sonic/releases/download/v1.10.2/v1.10.2-x86_64-gnu.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

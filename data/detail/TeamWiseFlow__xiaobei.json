@@ -1,0 +1,57 @@
+{
+  "repo": "TeamWiseFlow/xiaobei",
+  "slug": "TeamWiseFlow__xiaobei",
+  "name": "xiaobei",
+  "note_zh": "面向中小企业的自媒体获客智能体",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "LLM"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-16T03:59:04Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/TeamWiseFlow/xiaobei/zip/refs/heads/master",
+  "release": {
+    "tag": "v5.7.4",
+    "name": "v5.7.4",
+    "published": "2026-10-16T04:20:12Z",
+    "url": "https://github.com/TeamWiseFlow/xiaobei/releases/tag/v5.7.4"
+  },
+  "assets": [
+    {
+      "name": "xiaobei-v5.7.4-win-x64.tar.gz",
+      "size": 139369849,
+      "url": "https://github.com/TeamWiseFlow/xiaobei/releases/download/v5.7.4/xiaobei-v5.7.4-win-x64.tar.gz"
+    },
+    {
+      "name": "xiaobei-v5.7.4-mac-arm64.tar.gz",
+      "size": 153916699,
+      "url": "https://github.com/TeamWiseFlow/xiaobei/releases/download/v5.7.4/xiaobei-v5.7.4-mac-arm64.tar.gz"
+    },
+    {
+      "name": "xiaobei-v5.7.4-mac-x64.tar.gz",
+      "size": 155121950,
+      "url": "https://github.com/TeamWiseFlow/xiaobei/releases/download/v5.7.4/xiaobei-v5.7.4-mac-x64.tar.gz"
+    },
+    {
+      "name": "xiaobei-v5.7.4-linux-x64.tar.zst",
+      "size": 143888731,
+      "url": "https://github.com/TeamWiseFlow/xiaobei/releases/download/v5.7.4/xiaobei-v5.7.4-linux-x64.tar.zst"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

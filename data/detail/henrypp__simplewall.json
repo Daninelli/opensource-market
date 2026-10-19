@@ -1,0 +1,47 @@
+{
+  "repo": "henrypp/simplewall",
+  "slug": "henrypp__simplewall",
+  "name": "simplewall",
+  "note_zh": "Windows 防火墙配置的简洁工具",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C",
+    ".NET"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-18T10:11:45Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/henrypp/simplewall/zip/refs/heads/master",
+  "release": {
+    "tag": "v.3.8.7",
+    "name": "v.3.8.7",
+    "published": "2025-08-08T12:30:35Z",
+    "url": "https://github.com/henrypp/simplewall/releases/tag/v.3.8.7"
+  },
+  "assets": [
+    {
+      "name": "simplewall-3.8.7-setup.exe",
+      "size": 1198999,
+      "url": "https://github.com/henrypp/simplewall/releases/download/v.3.8.7/simplewall-3.8.7-setup.exe"
+    },
+    {
+      "name": "simplewall-3.8.7-bin.7z",
+      "size": 943658,
+      "url": "https://github.com/henrypp/simplewall/releases/download/v.3.8.7/simplewall-3.8.7-bin.7z"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

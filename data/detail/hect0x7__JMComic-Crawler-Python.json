@@ -1,0 +1,30 @@
+{
+  "repo": "hect0x7/JMComic-Crawler-Python",
+  "slug": "hect0x7__JMComic-Crawler-Python",
+  "name": "JMComic-Crawler-Python",
+  "note_zh": "提供 Python API 的漫画下载工具",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-14T06:29:44Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/hect0x7/JMComic-Crawler-Python/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

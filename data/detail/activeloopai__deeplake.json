@@ -1,0 +1,46 @@
+{
+  "repo": "activeloopai/deeplake",
+  "slug": "activeloopai__deeplake",
+  "name": "deeplake",
+  "note_zh": "面向智能体的 AI 数据运行时",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-05-21T15:28:00Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/activeloopai/deeplake/zip/refs/heads/main",
+  "release": {
+    "tag": "v4.5.2",
+    "name": "v4.5.2",
+    "published": "2026-02-11T02:06:12Z",
+    "url": "https://github.com/activeloopai/deeplake/releases/tag/v4.5.2"
+  },
+  "assets": [
+    {
+      "name": "deeplake-api-4.5.2-linux-aarch64.zip",
+      "size": 152934624,
+      "url": "https://github.com/activeloopai/deeplake/releases/download/v4.5.2/deeplake-api-4.5.2-linux-aarch64.zip"
+    },
+    {
+      "name": "deeplake-api-4.5.2-linux-x86_64.zip",
+      "size": 160107217,
+      "url": "https://github.com/activeloopai/deeplake/releases/download/v4.5.2/deeplake-api-4.5.2-linux-x86_64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,30 @@
+{
+  "repo": "hediet/vscode-drawio",
+  "slug": "hediet__vscode-drawio",
+  "name": "vscode-drawio",
+  "note_zh": "在 VS Code 里画 draw.io 图",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "编辑器扩展",
+  "platform": "github",
+  "updated_at": "2026-10-18T18:16:15Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/hediet/vscode-drawio/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

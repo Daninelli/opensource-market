@@ -1,0 +1,31 @@
+{
+  "repo": "getlago/lago",
+  "slug": "getlago__lago",
+  "name": "lago",
+  "note_zh": "开源计量与按用量计费 API",
+  "category": "金融",
+  "category_slug": "finance",
+  "subcategory": "支付网关",
+  "subcategory_slug": "payment",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Ruby",
+    "Go"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:02:34Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/getlago/lago/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

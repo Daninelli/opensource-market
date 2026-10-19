@@ -1,0 +1,46 @@
+{
+  "repo": "Vinzent03/obsidian-git",
+  "slug": "Vinzent03__obsidian-git",
+  "name": "obsidian-git",
+  "note_zh": "Obsidian 的 Git 版本控制与自动同步",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "编辑器扩展",
+  "platform": "github",
+  "updated_at": "2026-10-18T21:06:11Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/Vinzent03/obsidian-git/zip/refs/heads/master",
+  "release": {
+    "tag": "2.42.0",
+    "name": "2.42.0",
+    "published": "2026-10-18T15:40:36Z",
+    "url": "https://github.com/Vinzent03/obsidian-git/releases/tag/2.42.0"
+  },
+  "assets": [
+    {
+      "name": "obsidian-git-2.42.0.zip",
+      "size": 259901,
+      "url": "https://github.com/Vinzent03/obsidian-git/releases/download/2.42.0/obsidian-git-2.42.0.zip"
+    },
+    {
+      "name": "main.js",
+      "size": 813552,
+      "url": "https://github.com/Vinzent03/obsidian-git/releases/download/2.42.0/main.js"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

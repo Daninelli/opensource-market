@@ -1,0 +1,52 @@
+{
+  "repo": "hyperdxio/hyperdx",
+  "slug": "hyperdxio__hyperdx",
+  "name": "hyperdx",
+  "note_zh": "快速定位线上问题的可观测平台",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Go"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:16:36Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/hyperdxio/hyperdx/zip/refs/heads/main",
+  "release": {
+    "tag": "cli-v0.7.0",
+    "name": "@hyperdx/cli v0.7.0",
+    "published": "2026-10-13T05:07:13Z",
+    "url": "https://github.com/hyperdxio/hyperdx/releases/tag/cli-v0.7.0"
+  },
+  "assets": [
+    {
+      "name": "hdx-darwin-arm64",
+      "size": 68598688,
+      "url": "https://github.com/hyperdxio/hyperdx/releases/download/cli-v0.7.0/hdx-darwin-arm64"
+    },
+    {
+      "name": "hdx-darwin-x64",
+      "size": 73599552,
+      "url": "https://github.com/hyperdxio/hyperdx/releases/download/cli-v0.7.0/hdx-darwin-x64"
+    },
+    {
+      "name": "hdx-linux-x64",
+      "size": 106779172,
+      "url": "https://github.com/hyperdxio/hyperdx/releases/download/cli-v0.7.0/hdx-linux-x64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

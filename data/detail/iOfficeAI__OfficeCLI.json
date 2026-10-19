@@ -1,0 +1,66 @@
+{
+  "repo": "iOfficeAI/OfficeCLI",
+  "slug": "iOfficeAI__OfficeCLI",
+  "name": "OfficeCLI",
+  "note_zh": "为 AI 代理设计的 Office 文档处理命令行",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "办公套件",
+  "subcategory_slug": "office",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "命令行",
+  "platform": "github",
+  "updated_at": "2026-10-13T02:29:44Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/iOfficeAI/OfficeCLI/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.0.157",
+    "name": "v1.0.157",
+    "published": "2026-10-12T13:01:22Z",
+    "url": "https://github.com/iOfficeAI/OfficeCLI/releases/tag/v1.0.157"
+  },
+  "assets": [
+    {
+      "name": "officecli-win-x64.exe",
+      "size": 33513384,
+      "url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.157/officecli-win-x64.exe"
+    },
+    {
+      "name": "officecli-mac-arm64",
+      "size": 33888048,
+      "url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.157/officecli-mac-arm64"
+    },
+    {
+      "name": "officecli-win-arm64.exe",
+      "size": 33955764,
+      "url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.157/officecli-win-arm64.exe"
+    },
+    {
+      "name": "officecli-mac-x64",
+      "size": 34837760,
+      "url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.157/officecli-mac-x64"
+    },
+    {
+      "name": "officecli-linux-arm64",
+      "size": 34860551,
+      "url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.157/officecli-linux-arm64"
+    },
+    {
+      "name": "officecli-linux-alpine-arm64",
+      "size": 34901087,
+      "url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.157/officecli-linux-alpine-arm64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

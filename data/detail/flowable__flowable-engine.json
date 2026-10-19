@@ -1,0 +1,41 @@
+{
+  "repo": "flowable/flowable-engine",
+  "slug": "flowable__flowable-engine",
+  "name": "flowable-engine",
+  "note_zh": "紧凑高效的业务流程管理引擎",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "低代码平台",
+  "subcategory_slug": "low-code",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java"
+  ],
+  "deploy_type": "依赖库 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-18T02:10:15Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/flowable/flowable-engine/zip/refs/heads/main",
+  "release": {
+    "tag": "flowable-8.0.0",
+    "name": "Flowable 8.0.0 Release",
+    "published": "2026-02-27T16:35:48Z",
+    "url": "https://github.com/flowable/flowable-engine/releases/tag/flowable-8.0.0"
+  },
+  "assets": [
+    {
+      "name": "flowable-8.0.0.zip",
+      "size": 101332703,
+      "url": "https://github.com/flowable/flowable-engine/releases/download/flowable-8.0.0/flowable-8.0.0.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

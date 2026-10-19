@@ -1,0 +1,46 @@
+{
+  "repo": "oceanbase/oceanbase",
+  "slug": "oceanbase__oceanbase",
+  "name": "oceanbase",
+  "note_zh": "面向 AI 时代的统一分布式数据库",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-10T01:00:41Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/oceanbase/oceanbase/zip/refs/heads/master",
+  "release": {
+    "tag": "v4.4.2_CE_BP3",
+    "name": "v4.4.2_CE_BP3",
+    "published": "2026-09-15T02:39:26Z",
+    "url": "https://github.com/oceanbase/oceanbase/releases/tag/v4.4.2_CE_BP3"
+  },
+  "assets": [
+    {
+      "name": "oceanbase-ce-sql-parser-4.4.2.3-103000052026090811.el7.aarch64.rpm",
+      "size": 1088292,
+      "url": "https://github.com/oceanbase/oceanbase/releases/download/v4.4.2_CE_BP3/oceanbase-ce-sql-parser-4.4.2.3-103000052026090811.el7.aarch64.rpm"
+    },
+    {
+      "name": "oceanbase-ce-sql-parser-4.4.2.3-103000052026090811.nonlse.el7.aarch64.rpm",
+      "size": 1088400,
+      "url": "https://github.com/oceanbase/oceanbase/releases/download/v4.4.2_CE_BP3/oceanbase-ce-sql-parser-4.4.2.3-103000052026090811.nonlse.el7.aarch64.rpm"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

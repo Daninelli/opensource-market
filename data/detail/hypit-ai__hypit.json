@@ -1,0 +1,42 @@
+{
+  "repo": "hypit-ai/hypit",
+  "slug": "hypit-ai__hypit",
+  "name": "hypit",
+  "note_zh": "用 AI 智能体复刻爆款短视频",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "LLM"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T03:45:35Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/hypit-ai/hypit/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.3.1",
+    "name": "v0.3.1",
+    "published": "2026-10-09T10:24:35Z",
+    "url": "https://github.com/hypit-ai/hypit/releases/tag/v0.3.1"
+  },
+  "assets": [
+    {
+      "name": "hypit-hypit-0.3.1.tgz",
+      "size": 349090,
+      "url": "https://github.com/hypit-ai/hypit/releases/download/v0.3.1/hypit-hypit-0.3.1.tgz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

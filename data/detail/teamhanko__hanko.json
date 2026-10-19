@@ -1,0 +1,67 @@
+{
+  "repo": "teamhanko/hanko",
+  "slug": "teamhanko__hanko",
+  "name": "hanko",
+  "note_zh": "现代化的开源身份认证方案",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T16:14:40Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/teamhanko/hanko/zip/refs/heads/main",
+  "release": {
+    "tag": "backend/v3.1.0",
+    "name": "Hanko v3.1",
+    "published": "2026-10-01T12:51:22Z",
+    "url": "https://github.com/teamhanko/hanko/releases/tag/backend/v3.1.0"
+  },
+  "assets": [
+    {
+      "name": "hanko_Windows_arm64.zip",
+      "size": 12940745,
+      "url": "https://github.com/teamhanko/hanko/releases/download/backend/v3.1.0/hanko_Windows_arm64.zip"
+    },
+    {
+      "name": "hanko_Darwin_arm64.tar.gz",
+      "size": 13422588,
+      "url": "https://github.com/teamhanko/hanko/releases/download/backend/v3.1.0/hanko_Darwin_arm64.tar.gz"
+    },
+    {
+      "name": "hanko_Windows_i386.zip",
+      "size": 13920166,
+      "url": "https://github.com/teamhanko/hanko/releases/download/backend/v3.1.0/hanko_Windows_i386.zip"
+    },
+    {
+      "name": "hanko_Darwin_x86_64.tar.gz",
+      "size": 14408566,
+      "url": "https://github.com/teamhanko/hanko/releases/download/backend/v3.1.0/hanko_Darwin_x86_64.tar.gz"
+    },
+    {
+      "name": "hanko_Linux_arm64.tar.gz",
+      "size": 12815897,
+      "url": "https://github.com/teamhanko/hanko/releases/download/backend/v3.1.0/hanko_Linux_arm64.tar.gz"
+    },
+    {
+      "name": "hanko_Linux_i386.tar.gz",
+      "size": 13318329,
+      "url": "https://github.com/teamhanko/hanko/releases/download/backend/v3.1.0/hanko_Linux_i386.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

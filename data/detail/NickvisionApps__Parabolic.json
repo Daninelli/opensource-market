@@ -1,0 +1,77 @@
+{
+  "repo": "NickvisionApps/Parabolic",
+  "slug": "NickvisionApps__Parabolic",
+  "name": "Parabolic",
+  "note_zh": "下载网页视频与音频",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-06-29T03:59:31Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/NickvisionApps/Parabolic/zip/refs/heads/main",
+  "release": {
+    "tag": "2026.5.0",
+    "name": "V2026.5.0",
+    "published": "2026-05-24T19:23:15Z",
+    "url": "https://github.com/NickvisionApps/Parabolic/releases/tag/2026.5.0"
+  },
+  "assets": [
+    {
+      "name": "Parabolic-macOS-arm64.zip",
+      "size": 141818176,
+      "url": "https://github.com/NickvisionApps/Parabolic/releases/download/2026.5.0/Parabolic-macOS-arm64.zip"
+    },
+    {
+      "name": "Parabolic-macOS-x64.zip",
+      "size": 146841958,
+      "url": "https://github.com/NickvisionApps/Parabolic/releases/download/2026.5.0/Parabolic-macOS-x64.zip"
+    },
+    {
+      "name": "NickvisionParabolicSetup-arm64.exe",
+      "size": 191518786,
+      "url": "https://github.com/NickvisionApps/Parabolic/releases/download/2026.5.0/NickvisionParabolicSetup-arm64.exe"
+    },
+    {
+      "name": "NickvisionParabolicSetup.exe",
+      "size": 234814697,
+      "url": "https://github.com/NickvisionApps/Parabolic/releases/download/2026.5.0/NickvisionParabolicSetup.exe"
+    },
+    {
+      "name": "org.nickvision.tubeconverter.aarch64.flatpak",
+      "size": 168018152,
+      "url": "https://github.com/NickvisionApps/Parabolic/releases/download/2026.5.0/org.nickvision.tubeconverter.aarch64.flatpak"
+    },
+    {
+      "name": "org.nickvision.tubeconverter.x64.flatpak",
+      "size": 188736504,
+      "url": "https://github.com/NickvisionApps/Parabolic/releases/download/2026.5.0/org.nickvision.tubeconverter.x64.flatpak"
+    },
+    {
+      "name": "NickvisionParabolicPortable-arm64.zip",
+      "size": 302332039,
+      "url": "https://github.com/NickvisionApps/Parabolic/releases/download/2026.5.0/NickvisionParabolicPortable-arm64.zip"
+    },
+    {
+      "name": "NickvisionParabolicPortable.zip",
+      "size": 359252909,
+      "url": "https://github.com/NickvisionApps/Parabolic/releases/download/2026.5.0/NickvisionParabolicPortable.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

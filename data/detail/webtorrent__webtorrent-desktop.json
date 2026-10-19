@@ -1,0 +1,72 @@
+{
+  "repo": "webtorrent/webtorrent-desktop",
+  "slug": "webtorrent__webtorrent-desktop",
+  "name": "webtorrent-desktop",
+  "note_zh": "边下边播的种子流媒体客户端",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Electron"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-13T14:04:48Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/webtorrent/webtorrent-desktop/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.24.0",
+    "name": "v0.24.0",
+    "published": "2020-08-29T00:28:38Z",
+    "url": "https://github.com/webtorrent/webtorrent-desktop/releases/tag/v0.24.0"
+  },
+  "assets": [
+    {
+      "name": "WebTorrentSetup-v0.24.0.exe",
+      "size": 85760256,
+      "url": "https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.24.0/WebTorrentSetup-v0.24.0.exe"
+    },
+    {
+      "name": "WebTorrent-v0.24.0-win.zip",
+      "size": 88755846,
+      "url": "https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.24.0/WebTorrent-v0.24.0-win.zip"
+    },
+    {
+      "name": "WebTorrent-v0.24.0-darwin.zip",
+      "size": 89442886,
+      "url": "https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.24.0/WebTorrent-v0.24.0-darwin.zip"
+    },
+    {
+      "name": "WebTorrent-v0.24.0.dmg",
+      "size": 89641529,
+      "url": "https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.24.0/WebTorrent-v0.24.0.dmg"
+    },
+    {
+      "name": "webtorrent-desktop_0.24.0_arm64.deb",
+      "size": 61919484,
+      "url": "https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.24.0/webtorrent-desktop_0.24.0_arm64.deb"
+    },
+    {
+      "name": "webtorrent-desktop_0.24.0_amd64.deb",
+      "size": 62049756,
+      "url": "https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.24.0/webtorrent-desktop_0.24.0_amd64.deb"
+    },
+    {
+      "name": "WebTorrent-0.24.0-full.nupkg",
+      "size": 84557457,
+      "url": "https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.24.0/WebTorrent-0.24.0-full.nupkg"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

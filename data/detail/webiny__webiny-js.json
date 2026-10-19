@@ -1,0 +1,31 @@
+{
+  "repo": "webiny/webiny-js",
+  "slug": "webiny__webiny-js",
+  "name": "webiny-js",
+  "note_zh": "基于 AWS Serverless 的自托管 CMS",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Node.js"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:28:12Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "next",
+  "download_url": "https://codeload.github.com/webiny/webiny-js/zip/refs/heads/next",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

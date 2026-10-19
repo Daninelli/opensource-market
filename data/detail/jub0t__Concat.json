@@ -1,0 +1,77 @@
+{
+  "repo": "jub0t/Concat",
+  "slug": "jub0t__Concat",
+  "name": "Concat",
+  "note_zh": "本地优先的跨平台剪映替代",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T02:10:41Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/jub0t/Concat/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.2.7",
+    "name": "Concat v0.2.7",
+    "published": "2026-10-13T18:23:56Z",
+    "url": "https://github.com/jub0t/Concat/releases/tag/v0.2.7"
+  },
+  "assets": [
+    {
+      "name": "Concat-0.2.7-macos-arm64.dmg",
+      "size": 61187375,
+      "url": "https://github.com/jub0t/Concat/releases/download/v0.2.7/Concat-0.2.7-macos-arm64.dmg"
+    },
+    {
+      "name": "Concat-0.2.7-macos-x86_64.dmg",
+      "size": 83766467,
+      "url": "https://github.com/jub0t/Concat/releases/download/v0.2.7/Concat-0.2.7-macos-x86_64.dmg"
+    },
+    {
+      "name": "Concat-0.2.7-windows-x86_64-setup.exe",
+      "size": 84783443,
+      "url": "https://github.com/jub0t/Concat/releases/download/v0.2.7/Concat-0.2.7-windows-x86_64-setup.exe"
+    },
+    {
+      "name": "Concat-0.2.7-windows-x86_64.msi",
+      "size": 101961728,
+      "url": "https://github.com/jub0t/Concat/releases/download/v0.2.7/Concat-0.2.7-windows-x86_64.msi"
+    },
+    {
+      "name": "Concat-0.2.7-aarch64.AppImage",
+      "size": 118389256,
+      "url": "https://github.com/jub0t/Concat/releases/download/v0.2.7/Concat-0.2.7-aarch64.AppImage"
+    },
+    {
+      "name": "Concat-0.2.7-linux-aarch64.pkg.tar.zst",
+      "size": 123396536,
+      "url": "https://github.com/jub0t/Concat/releases/download/v0.2.7/Concat-0.2.7-linux-aarch64.pkg.tar.zst"
+    },
+    {
+      "name": "Concat-0.2.7-ios-arm64.ipa",
+      "size": 70234562,
+      "url": "https://github.com/jub0t/Concat/releases/download/v0.2.7/Concat-0.2.7-ios-arm64.ipa"
+    },
+    {
+      "name": "Concat-0.2.7-android-arm64.apk",
+      "size": 72234024,
+      "url": "https://github.com/jub0t/Concat/releases/download/v0.2.7/Concat-0.2.7-android-arm64.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

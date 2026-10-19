@@ -1,0 +1,31 @@
+{
+  "repo": "cocos/cocos-engine",
+  "slug": "cocos__cocos-engine",
+  "name": "cocos-engine",
+  "note_zh": "Cocos 跨平台游戏引擎",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏引擎",
+  "subcategory_slug": "engine",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "C++"
+  ],
+  "deploy_type": "依赖库 / 客户端",
+  "platform": "github",
+  "updated_at": "2026-10-08T07:08:45Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "v3.8.9",
+  "download_url": "https://codeload.github.com/cocos/cocos-engine/zip/refs/heads/v3.8.9",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

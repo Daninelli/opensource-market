@@ -1,0 +1,71 @@
+{
+  "repo": "wasm3/wasm3",
+  "slug": "wasm3__wasm3",
+  "name": "wasm3",
+  "note_zh": "快速通用的 WebAssembly 解释器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C"
+  ],
+  "deploy_type": "依赖库 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-09-30T22:02:43Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/wasm3/wasm3/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.9.1-beta.1",
+    "name": "v0.9.1-beta.1",
+    "published": "2026-09-10T16:06:05Z",
+    "url": "https://github.com/wasm3/wasm3/releases/tag/v0.9.1-beta.1"
+  },
+  "assets": [
+    {
+      "name": "wasm3-win-x86.exe",
+      "size": 394752,
+      "url": "https://github.com/wasm3/wasm3/releases/download/v0.9.1-beta.1/wasm3-win-x86.exe"
+    },
+    {
+      "name": "wasm3-win-x64.exe",
+      "size": 423424,
+      "url": "https://github.com/wasm3/wasm3/releases/download/v0.9.1-beta.1/wasm3-win-x64.exe"
+    },
+    {
+      "name": "wasm3-linux-x64.elf",
+      "size": 442528,
+      "url": "https://github.com/wasm3/wasm3/releases/download/v0.9.1-beta.1/wasm3-linux-x64.elf"
+    },
+    {
+      "name": "wasm3-strace-linux-x64.elf",
+      "size": 456832,
+      "url": "https://github.com/wasm3/wasm3/releases/download/v0.9.1-beta.1/wasm3-strace-linux-x64.elf"
+    },
+    {
+      "name": "wasm3-android-coremark.apk",
+      "size": 5305968,
+      "url": "https://github.com/wasm3/wasm3/releases/download/v0.9.1-beta.1/wasm3-android-coremark.apk"
+    },
+    {
+      "name": "wasm3-wasi.wasm",
+      "size": 759091,
+      "url": "https://github.com/wasm3/wasm3/releases/download/v0.9.1-beta.1/wasm3-wasi.wasm"
+    },
+    {
+      "name": "wasm3-strace.wasm",
+      "size": 788194,
+      "url": "https://github.com/wasm3/wasm3/releases/download/v0.9.1-beta.1/wasm3-strace.wasm"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

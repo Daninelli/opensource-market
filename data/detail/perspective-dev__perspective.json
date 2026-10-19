@@ -1,0 +1,72 @@
+{
+  "repo": "perspective-dev/perspective",
+  "slug": "perspective-dev__perspective",
+  "name": "perspective",
+  "note_zh": "高性能数据可视化与分析组件",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "数据分析",
+  "subcategory_slug": "bi",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "TypeScript"
+  ],
+  "deploy_type": "依赖库 / 前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T02:53:07Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/perspective-dev/perspective/zip/refs/heads/master",
+  "release": {
+    "tag": "v5.6.0",
+    "name": "v5.6.0",
+    "published": "2026-10-14T01:23:38Z",
+    "url": "https://github.com/perspective-dev/perspective/releases/tag/v5.6.0"
+  },
+  "assets": [
+    {
+      "name": "perspective_python-5.6.0-cp311-abi3-macosx_14_0_arm64.whl",
+      "size": 14253541,
+      "url": "https://github.com/perspective-dev/perspective/releases/download/v5.6.0/perspective_python-5.6.0-cp311-abi3-macosx_14_0_arm64.whl"
+    },
+    {
+      "name": "perspective_python-5.6.0-cp311-abi3-win_amd64.whl",
+      "size": 14459708,
+      "url": "https://github.com/perspective-dev/perspective/releases/download/v5.6.0/perspective_python-5.6.0-cp311-abi3-win_amd64.whl"
+    },
+    {
+      "name": "perspective_python-5.6.0-cp311-abi3-manylinux_2_28_aarch64.whl",
+      "size": 15395105,
+      "url": "https://github.com/perspective-dev/perspective/releases/download/v5.6.0/perspective_python-5.6.0-cp311-abi3-manylinux_2_28_aarch64.whl"
+    },
+    {
+      "name": "perspective_python-5.6.0-cp311-abi3-manylinux_2_28_x86_64.whl",
+      "size": 15841726,
+      "url": "https://github.com/perspective-dev/perspective/releases/download/v5.6.0/perspective_python-5.6.0-cp311-abi3-manylinux_2_28_x86_64.whl"
+    },
+    {
+      "name": "perspective-client-5.6.0.crate",
+      "size": 109750,
+      "url": "https://github.com/perspective-dev/perspective/releases/download/v5.6.0/perspective-client-5.6.0.crate"
+    },
+    {
+      "name": "perspective-dev-viewer-datagrid-5.6.0.tgz",
+      "size": 375572,
+      "url": "https://github.com/perspective-dev/perspective/releases/download/v5.6.0/perspective-dev-viewer-datagrid-5.6.0.tgz"
+    },
+    {
+      "name": "perspective_python-5.6.0.tar.gz",
+      "size": 9159890,
+      "url": "https://github.com/perspective-dev/perspective/releases/download/v5.6.0/perspective_python-5.6.0.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

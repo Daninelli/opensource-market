@@ -1,0 +1,56 @@
+{
+  "repo": "elizaOS/eliza",
+  "slug": "elizaOS__eliza",
+  "name": "eliza",
+  "note_zh": "开源智能体操作系统框架",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T07:49:34Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/elizaOS/eliza/zip/refs/heads/develop",
+  "release": {
+    "tag": "pr-evidence-11",
+    "name": "PR #26518 revised structured metadata visuals",
+    "published": "2026-08-23T19:49:30Z",
+    "url": "https://github.com/elizaOS/eliza/releases/tag/pr-evidence-11"
+  },
+  "assets": [
+    {
+      "name": "29724-runtime-desktop-after.png",
+      "size": 103569,
+      "url": "https://github.com/elizaOS/eliza/releases/download/pr-evidence-11/29724-runtime-desktop-after.png"
+    },
+    {
+      "name": "desktop-wallet-defi-unified-v5.png",
+      "size": 104043,
+      "url": "https://github.com/elizaOS/eliza/releases/download/pr-evidence-11/desktop-wallet-defi-unified-v5.png"
+    },
+    {
+      "name": "30229-pr30229-d8ded5b-migration-row-evidence.zip",
+      "size": 229768,
+      "url": "https://github.com/elizaOS/eliza/releases/download/pr-evidence-11/30229-pr30229-d8ded5b-migration-row-evidence.zip"
+    },
+    {
+      "name": "29533-87557357-d9a9-4d34-8ab9-54ccaccf60be-trajectories.tar.gz",
+      "size": 234880,
+      "url": "https://github.com/elizaOS/eliza/releases/download/pr-evidence-11/29533-87557357-d9a9-4d34-8ab9-54ccaccf60be-trajectories.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

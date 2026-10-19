@@ -1,0 +1,72 @@
+{
+  "repo": "dbgate/dbgate",
+  "slug": "dbgate__dbgate",
+  "name": "dbgate",
+  "note_zh": "支持多种数据库的统一管理客户端",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron"
+  ],
+  "deploy_type": "客户端 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T13:23:35Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/dbgate/dbgate/zip/refs/heads/master",
+  "release": {
+    "tag": "v7.3.2",
+    "name": "v7.3.2",
+    "published": "2026-10-08T11:49:05Z",
+    "url": "https://github.com/dbgate/dbgate/releases/tag/v7.3.2"
+  },
+  "assets": [
+    {
+      "name": "dbgate-7.3.2-win_x64.exe",
+      "size": 134192384,
+      "url": "https://github.com/dbgate/dbgate/releases/download/v7.3.2/dbgate-7.3.2-win_x64.exe"
+    },
+    {
+      "name": "dbgate-7.3.2-win_arm64.exe",
+      "size": 135696808,
+      "url": "https://github.com/dbgate/dbgate/releases/download/v7.3.2/dbgate-7.3.2-win_arm64.exe"
+    },
+    {
+      "name": "dbgate-7.3.2-mac_arm64.zip",
+      "size": 170093811,
+      "url": "https://github.com/dbgate/dbgate/releases/download/v7.3.2/dbgate-7.3.2-mac_arm64.zip"
+    },
+    {
+      "name": "dbgate-7.3.2-mac_x64.zip",
+      "size": 176813561,
+      "url": "https://github.com/dbgate/dbgate/releases/download/v7.3.2/dbgate-7.3.2-mac_x64.zip"
+    },
+    {
+      "name": "dbgate-7.3.2-linux_amd64.deb",
+      "size": 113718950,
+      "url": "https://github.com/dbgate/dbgate/releases/download/v7.3.2/dbgate-7.3.2-linux_amd64.deb"
+    },
+    {
+      "name": "dbgate-latest.deb",
+      "size": 113718950,
+      "url": "https://github.com/dbgate/dbgate/releases/download/v7.3.2/dbgate-latest.deb"
+    },
+    {
+      "name": "cloud-build.zip",
+      "size": 8994949,
+      "url": "https://github.com/dbgate/dbgate/releases/download/v7.3.2/cloud-build.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

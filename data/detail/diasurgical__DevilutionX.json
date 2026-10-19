@@ -1,0 +1,76 @@
+{
+  "repo": "diasurgical/DevilutionX",
+  "slug": "diasurgical__DevilutionX",
+  "name": "DevilutionX",
+  "note_zh": "暗黑破坏神 1 的现代系统移植版",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏客户端",
+  "subcategory_slug": "client",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C++"
+  ],
+  "deploy_type": "客户端 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-18T08:20:06Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/diasurgical/DevilutionX/zip/refs/heads/master",
+  "release": {
+    "tag": "1.5.5",
+    "name": "1.5.5",
+    "published": "2025-10-30T17:00:17Z",
+    "url": "https://github.com/diasurgical/DevilutionX/releases/tag/1.5.5"
+  },
+  "assets": [
+    {
+      "name": "devilutionx-macOS-intel-x86.dmg",
+      "size": 6682539,
+      "url": "https://github.com/diasurgical/DevilutionX/releases/download/1.5.5/devilutionx-macOS-intel-x86.dmg"
+    },
+    {
+      "name": "devilutionx-macOS-10.4-tiger-ppc.dmg",
+      "size": 6745467,
+      "url": "https://github.com/diasurgical/DevilutionX/releases/download/1.5.5/devilutionx-macOS-10.4-tiger-ppc.dmg"
+    },
+    {
+      "name": "devilutionx-windows-xp-32bit.zip",
+      "size": 8523155,
+      "url": "https://github.com/diasurgical/DevilutionX/releases/download/1.5.5/devilutionx-windows-xp-32bit.zip"
+    },
+    {
+      "name": "devilutionx-windows-i386.zip",
+      "size": 10442606,
+      "url": "https://github.com/diasurgical/DevilutionX/releases/download/1.5.5/devilutionx-windows-i386.zip"
+    },
+    {
+      "name": "devilutionx-linux-x86_64.appimage",
+      "size": 14158328,
+      "url": "https://github.com/diasurgical/DevilutionX/releases/download/1.5.5/devilutionx-linux-x86_64.appimage"
+    },
+    {
+      "name": "devilutionx-linux-aarch64.tar.xz",
+      "size": 21826732,
+      "url": "https://github.com/diasurgical/DevilutionX/releases/download/1.5.5/devilutionx-linux-aarch64.tar.xz"
+    },
+    {
+      "name": "devilutionx-iOS.ipa",
+      "size": 8603944,
+      "url": "https://github.com/diasurgical/DevilutionX/releases/download/1.5.5/devilutionx-iOS.ipa"
+    },
+    {
+      "name": "devilutionx-android.apk",
+      "size": 18840504,
+      "url": "https://github.com/diasurgical/DevilutionX/releases/download/1.5.5/devilutionx-android.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

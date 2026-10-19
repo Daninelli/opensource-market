@@ -1,0 +1,47 @@
+{
+  "repo": "zhanghai/MaterialFiles",
+  "slug": "zhanghai__MaterialFiles",
+  "name": "MaterialFiles",
+  "note_zh": "安卓 Material Design 文件管理器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "文件管理与网盘",
+  "subcategory_slug": "file",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Kotlin",
+    "Android"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-15T07:33:48Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/zhanghai/MaterialFiles/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.7.5",
+    "name": "v1.7.5",
+    "published": "2026-09-20T06:28:21Z",
+    "url": "https://github.com/zhanghai/MaterialFiles/releases/tag/v1.7.5"
+  },
+  "assets": [
+    {
+      "name": "app-release-fdroid.apk",
+      "size": 10944578,
+      "url": "https://github.com/zhanghai/MaterialFiles/releases/download/v1.7.5/app-release-fdroid.apk"
+    },
+    {
+      "name": "app-release-universal.apk",
+      "size": 13747821,
+      "url": "https://github.com/zhanghai/MaterialFiles/releases/download/v1.7.5/app-release-universal.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,31 @@
+{
+  "repo": "budtmo/docker-android",
+  "slug": "budtmo__docker-android",
+  "name": "docker-android",
+  "note_zh": "Docker 里跑安卓模拟器，支持远程与录屏",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Docker",
+    "Python"
+  ],
+  "deploy_type": "Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-18T21:59:25Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/budtmo/docker-android/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

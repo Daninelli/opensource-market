@@ -1,0 +1,47 @@
+{
+  "repo": "ccfos/nightingale",
+  "slug": "ccfos__nightingale",
+  "name": "nightingale",
+  "note_zh": "自托管的指标日志数据库告警平台",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:43:42Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/ccfos/nightingale/zip/refs/heads/main",
+  "release": {
+    "tag": "v9.2.0",
+    "name": "v9.2.0",
+    "published": "2026-10-11T07:24:51Z",
+    "url": "https://github.com/ccfos/nightingale/releases/tag/v9.2.0"
+  },
+  "assets": [
+    {
+      "name": "n9e-v9.2.0-linux-arm64.tar.gz",
+      "size": 287675328,
+      "url": "https://github.com/ccfos/nightingale/releases/download/v9.2.0/n9e-v9.2.0-linux-arm64.tar.gz"
+    },
+    {
+      "name": "n9e-v9.2.0-linux-amd64.tar.gz",
+      "size": 294022506,
+      "url": "https://github.com/ccfos/nightingale/releases/download/v9.2.0/n9e-v9.2.0-linux-amd64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

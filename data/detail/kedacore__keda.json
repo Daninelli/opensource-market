@@ -1,0 +1,46 @@
+{
+  "repo": "kedacore/keda",
+  "slug": "kedacore__keda",
+  "name": "keda",
+  "note_zh": "Kubernetes 事件驱动自动伸缩组件",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:14:33Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/kedacore/keda/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.21.0",
+    "name": "v2.21.0",
+    "published": "2026-09-23T16:20:41Z",
+    "url": "https://github.com/kedacore/keda/releases/tag/v2.21.0"
+  },
+  "assets": [
+    {
+      "name": "scalers-schema-2.21.0.yaml",
+      "size": 166168,
+      "url": "https://github.com/kedacore/keda/releases/download/v2.21.0/scalers-schema-2.21.0.yaml"
+    },
+    {
+      "name": "keda-2.21.0-crds.yaml",
+      "size": 763186,
+      "url": "https://github.com/kedacore/keda/releases/download/v2.21.0/keda-2.21.0-crds.yaml"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

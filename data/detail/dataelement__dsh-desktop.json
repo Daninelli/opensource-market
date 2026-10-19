@@ -1,0 +1,52 @@
+{
+  "repo": "dataelement/dsh-desktop",
+  "slug": "dataelement__dsh-desktop",
+  "name": "dsh-desktop",
+  "note_zh": "DeepSeek Harness 桌面版，本地跑智能体",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Rust"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:03:21Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/dataelement/dsh-desktop/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.12.0",
+    "name": "DSH Desktop v0.12.0",
+    "published": "2026-10-16T10:58:51Z",
+    "url": "https://github.com/dataelement/dsh-desktop/releases/tag/v0.12.0"
+  },
+  "assets": [
+    {
+      "name": "dsh-desktop-windows-x64-setup.exe",
+      "size": 282009896,
+      "url": "https://github.com/dataelement/dsh-desktop/releases/download/v0.12.0/dsh-desktop-windows-x64-setup.exe"
+    },
+    {
+      "name": "dsh-desktop-mac-arm64.dmg",
+      "size": 321087402,
+      "url": "https://github.com/dataelement/dsh-desktop/releases/download/v0.12.0/dsh-desktop-mac-arm64.dmg"
+    },
+    {
+      "name": "dsh-desktop-mac-x64.dmg",
+      "size": 328712083,
+      "url": "https://github.com/dataelement/dsh-desktop/releases/download/v0.12.0/dsh-desktop-mac-x64.dmg"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

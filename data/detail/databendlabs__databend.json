@@ -1,0 +1,46 @@
+{
+  "repo": "databendlabs/databend",
+  "slug": "databendlabs__databend",
+  "name": "databend",
+  "note_zh": "面向数据智能体的云数仓",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:40:01Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/databendlabs/databend/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.2.881",
+    "name": "v1.2.881",
+    "published": "2026-04-17T08:01:42Z",
+    "url": "https://github.com/databendlabs/databend/releases/tag/v1.2.881"
+  },
+  "assets": [
+    {
+      "name": "databend-testsuite-v1.2.881-x86_64-unknown-linux-gnu.tar.gz",
+      "size": 91939090,
+      "url": "https://github.com/databendlabs/databend/releases/download/v1.2.881/databend-testsuite-v1.2.881-x86_64-unknown-linux-gnu.tar.gz"
+    },
+    {
+      "name": "databend-meta_1.2.881_amd64.deb",
+      "size": 97965302,
+      "url": "https://github.com/databendlabs/databend/releases/download/v1.2.881/databend-meta_1.2.881_amd64.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

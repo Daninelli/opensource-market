@@ -1,0 +1,42 @@
+{
+  "repo": "openai/tart",
+  "slug": "openai__tart",
+  "name": "tart",
+  "note_zh": "在 Apple Silicon 上跑 macOS 与 Linux 虚拟机",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Swift",
+    "macOS"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-17T02:09:54Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/openai/tart/zip/refs/heads/main",
+  "release": {
+    "tag": "2.41.1",
+    "name": "2.41.1",
+    "published": "2026-10-15T14:38:26Z",
+    "url": "https://github.com/openai/tart/releases/tag/2.41.1"
+  },
+  "assets": [
+    {
+      "name": "tart.tar.gz",
+      "size": 22959557,
+      "url": "https://github.com/openai/tart/releases/download/2.41.1/tart.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

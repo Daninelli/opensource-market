@@ -1,0 +1,62 @@
+{
+  "repo": "MODSetter/SurfSense",
+  "slug": "MODSetter__SurfSense",
+  "name": "SurfSense",
+  "note_zh": "隐私优先的开源 NotebookLM 替代",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T01:28:01Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/MODSetter/SurfSense/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.2.2",
+    "name": "v2.2.2",
+    "published": "2026-10-16T23:08:11Z",
+    "url": "https://github.com/MODSetter/SurfSense/releases/tag/v2.2.2"
+  },
+  "assets": [
+    {
+      "name": "SurfSense-Setup.exe",
+      "size": 1214080736,
+      "url": "https://github.com/MODSetter/SurfSense/releases/download/v2.2.2/SurfSense-Setup.exe"
+    },
+    {
+      "name": "SurfSense-arm64.dmg",
+      "size": 1352143946,
+      "url": "https://github.com/MODSetter/SurfSense/releases/download/v2.2.2/SurfSense-arm64.dmg"
+    },
+    {
+      "name": "SurfSense.deb",
+      "size": 1341746252,
+      "url": "https://github.com/MODSetter/SurfSense/releases/download/v2.2.2/SurfSense.deb"
+    },
+    {
+      "name": "SurfSense.AppImage",
+      "size": 1460914192,
+      "url": "https://github.com/MODSetter/SurfSense/releases/download/v2.2.2/SurfSense.AppImage"
+    },
+    {
+      "name": "SurfSense-arm64.zip",
+      "size": 1333066612,
+      "url": "https://github.com/MODSetter/SurfSense/releases/download/v2.2.2/SurfSense-arm64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

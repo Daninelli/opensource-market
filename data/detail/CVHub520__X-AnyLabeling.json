@@ -1,0 +1,67 @@
+{
+  "repo": "CVHub520/X-AnyLabeling",
+  "slug": "CVHub520__X-AnyLabeling",
+  "name": "X-AnyLabeling",
+  "note_zh": "跨平台统一标注工具，支持 AI 辅助",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Qt"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-18T15:39:04Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/CVHub520/X-AnyLabeling/zip/refs/heads/main",
+  "release": {
+    "tag": "v4.2.0",
+    "name": "X-AnyLabeling v4.2.0",
+    "published": "2026-10-18T15:55:53Z",
+    "url": "https://github.com/CVHub520/X-AnyLabeling/releases/tag/v4.2.0"
+  },
+  "assets": [
+    {
+      "name": "X-AnyLabeling-v4.2.0-Windows-CPU-Setup.exe",
+      "size": 349493832,
+      "url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v4.2.0/X-AnyLabeling-v4.2.0-Windows-CPU-Setup.exe"
+    },
+    {
+      "name": "X-AnyLabeling-v4.2.0-macOS-arm64-unsigned.dmg",
+      "size": 363898843,
+      "url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v4.2.0/X-AnyLabeling-v4.2.0-macOS-arm64-unsigned.dmg"
+    },
+    {
+      "name": "X-AnyLabeling-v4.2.0-macOS-x86_64-unsigned.dmg",
+      "size": 381479059,
+      "url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v4.2.0/X-AnyLabeling-v4.2.0-macOS-x86_64-unsigned.dmg"
+    },
+    {
+      "name": "X-AnyLabeling-v4.2.0-Windows-CUDA11-Setup.exe",
+      "size": 457396225,
+      "url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v4.2.0/X-AnyLabeling-v4.2.0-Windows-CUDA11-Setup.exe"
+    },
+    {
+      "name": "X-AnyLabeling-v4.2.0-Linux-CPU",
+      "size": 445302824,
+      "url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v4.2.0/X-AnyLabeling-v4.2.0-Linux-CPU"
+    },
+    {
+      "name": "X-AnyLabeling-v4.2.0-Linux-CUDA11",
+      "size": 616656072,
+      "url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v4.2.0/X-AnyLabeling-v4.2.0-Linux-CUDA11"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,61 @@
+{
+  "repo": "o2sh/onefetch",
+  "slug": "o2sh__onefetch",
+  "name": "onefetch",
+  "note_zh": "命令行展示 Git 仓库信息与语言构成",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T02:20:00Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/o2sh/onefetch/zip/refs/heads/main",
+  "release": {
+    "tag": "3.1.0",
+    "name": "3.1.0",
+    "published": "2026-10-18T20:35:02Z",
+    "url": "https://github.com/o2sh/onefetch/releases/tag/3.1.0"
+  },
+  "assets": [
+    {
+      "name": "onefetch-win.tar.gz",
+      "size": 5622927,
+      "url": "https://github.com/o2sh/onefetch/releases/download/3.1.0/onefetch-win.tar.gz"
+    },
+    {
+      "name": "onefetch-setup.exe",
+      "size": 6318489,
+      "url": "https://github.com/o2sh/onefetch/releases/download/3.1.0/onefetch-setup.exe"
+    },
+    {
+      "name": "onefetch_amd64.deb",
+      "size": 4459636,
+      "url": "https://github.com/o2sh/onefetch/releases/download/3.1.0/onefetch_amd64.deb"
+    },
+    {
+      "name": "onefetch-linux.tar.gz",
+      "size": 5731281,
+      "url": "https://github.com/o2sh/onefetch/releases/download/3.1.0/onefetch-linux.tar.gz"
+    },
+    {
+      "name": "onefetch-mac.tar.gz",
+      "size": 5201513,
+      "url": "https://github.com/o2sh/onefetch/releases/download/3.1.0/onefetch-mac.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

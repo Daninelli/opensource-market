@@ -1,0 +1,66 @@
+{
+  "repo": "ory/hydra",
+  "slug": "ory__hydra",
+  "name": "hydra",
+  "note_zh": "通过 OpenID 认证的 OAuth2 授权服务器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-07-29T09:30:11Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/ory/hydra/zip/refs/heads/master",
+  "release": {
+    "tag": "v26.2.0",
+    "name": "v26.2.0",
+    "published": "2026-03-20T13:23:08Z",
+    "url": "https://github.com/ory/hydra/releases/tag/v26.2.0"
+  },
+  "assets": [
+    {
+      "name": "hydra_26.2.0-windows_arm64.zip",
+      "size": 13894020,
+      "url": "https://github.com/ory/hydra/releases/download/v26.2.0/hydra_26.2.0-windows_arm64.zip"
+    },
+    {
+      "name": "hydra_26.2.0-macOS_arm64.tar.gz",
+      "size": 14378029,
+      "url": "https://github.com/ory/hydra/releases/download/v26.2.0/hydra_26.2.0-macOS_arm64.tar.gz"
+    },
+    {
+      "name": "hydra_26.2.0-macOS_static-nosqlite_arm64.tar.gz",
+      "size": 14378057,
+      "url": "https://github.com/ory/hydra/releases/download/v26.2.0/hydra_26.2.0-macOS_static-nosqlite_arm64.tar.gz"
+    },
+    {
+      "name": "hydra_26.2.0-windows_32bit.zip",
+      "size": 14889548,
+      "url": "https://github.com/ory/hydra/releases/download/v26.2.0/hydra_26.2.0-windows_32bit.zip"
+    },
+    {
+      "name": "hydra_26.2.0-linux_arm64.tar.gz",
+      "size": 13790073,
+      "url": "https://github.com/ory/hydra/releases/download/v26.2.0/hydra_26.2.0-linux_arm64.tar.gz"
+    },
+    {
+      "name": "hydra_26.2.0-linux_static-nosqlite_arm64.tar.gz",
+      "size": 13790247,
+      "url": "https://github.com/ory/hydra/releases/download/v26.2.0/hydra_26.2.0-linux_static-nosqlite_arm64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

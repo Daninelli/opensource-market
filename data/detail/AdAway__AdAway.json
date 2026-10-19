@@ -1,0 +1,42 @@
+{
+  "repo": "AdAway/AdAway",
+  "slug": "AdAway__AdAway",
+  "name": "AdAway",
+  "note_zh": "安卓开源广告拦截器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "Android"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-09-13T08:48:56Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/AdAway/AdAway/zip/refs/heads/master",
+  "release": {
+    "tag": "v6.1.4",
+    "name": "Version 6.1.4",
+    "published": "2024-10-27T14:19:54Z",
+    "url": "https://github.com/AdAway/AdAway/releases/tag/v6.1.4"
+  },
+  "assets": [
+    {
+      "name": "AdAway-6.1.4-20241027.apk",
+      "size": 13955875,
+      "url": "https://github.com/AdAway/AdAway/releases/download/v6.1.4/AdAway-6.1.4-20241027.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

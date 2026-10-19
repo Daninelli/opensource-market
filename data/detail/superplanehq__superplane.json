@@ -1,0 +1,47 @@
+{
+  "repo": "superplanehq/superplane",
+  "slug": "superplanehq__superplane",
+  "name": "superplane",
+  "note_zh": "一次成型工程的开源自动化工厂",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Go"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T16:52:40Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/superplanehq/superplane/zip/refs/heads/main",
+  "release": {
+    "tag": "fleet-manager/v0.1.4",
+    "name": "Fleet Manager v0.1.4",
+    "published": "2026-10-15T23:08:32Z",
+    "url": "https://github.com/superplanehq/superplane/releases/tag/fleet-manager/v0.1.4"
+  },
+  "assets": [
+    {
+      "name": "fleet-manager-linux-arm64.tar.gz",
+      "size": 13227216,
+      "url": "https://github.com/superplanehq/superplane/releases/download/fleet-manager/v0.1.4/fleet-manager-linux-arm64.tar.gz"
+    },
+    {
+      "name": "fleet-manager-linux-amd64.tar.gz",
+      "size": 15077520,
+      "url": "https://github.com/superplanehq/superplane/releases/download/fleet-manager/v0.1.4/fleet-manager-linux-amd64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

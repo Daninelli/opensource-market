@@ -1,0 +1,31 @@
+{
+  "repo": "leon-ai/leon",
+  "slug": "leon-ai__leon",
+  "name": "leon",
+  "note_zh": "开源个人语音助理，可自建技能",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Python"
+  ],
+  "deploy_type": "源码 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:09:24Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/leon-ai/leon/zip/refs/heads/develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

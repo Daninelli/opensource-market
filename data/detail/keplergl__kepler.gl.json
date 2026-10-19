@@ -1,0 +1,31 @@
+{
+  "repo": "keplergl/kepler.gl",
+  "slug": "keplergl__kepler.gl",
+  "name": "kepler.gl",
+  "note_zh": "强大的开源地理空间数据分析工具",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "数据分析",
+  "subcategory_slug": "bi",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React"
+  ],
+  "deploy_type": "依赖库 / 前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T05:46:38Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/keplergl/kepler.gl/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

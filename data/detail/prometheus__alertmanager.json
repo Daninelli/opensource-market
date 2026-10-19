@@ -1,0 +1,76 @@
+{
+  "repo": "prometheus/alertmanager",
+  "slug": "prometheus__alertmanager",
+  "name": "alertmanager",
+  "note_zh": "Prometheus 告警路由与去重",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "二进制 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:45:35Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/prometheus/alertmanager/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.34.1",
+    "name": "0.34.1 / 2026-09-17",
+    "published": "2026-09-17T08:12:07Z",
+    "url": "https://github.com/prometheus/alertmanager/releases/tag/v0.34.1"
+  },
+  "assets": [
+    {
+      "name": "alertmanager-0.34.1.windows-arm64.tar.gz",
+      "size": 36117342,
+      "url": "https://github.com/prometheus/alertmanager/releases/download/v0.34.1/alertmanager-0.34.1.windows-arm64.tar.gz"
+    },
+    {
+      "name": "alertmanager-0.34.1.windows-arm64.zip",
+      "size": 36779775,
+      "url": "https://github.com/prometheus/alertmanager/releases/download/v0.34.1/alertmanager-0.34.1.windows-arm64.zip"
+    },
+    {
+      "name": "alertmanager-0.34.1.darwin-arm64.tar.gz",
+      "size": 38203929,
+      "url": "https://github.com/prometheus/alertmanager/releases/download/v0.34.1/alertmanager-0.34.1.darwin-arm64.tar.gz"
+    },
+    {
+      "name": "alertmanager-0.34.1.darwin-amd64.tar.gz",
+      "size": 40541015,
+      "url": "https://github.com/prometheus/alertmanager/releases/download/v0.34.1/alertmanager-0.34.1.darwin-amd64.tar.gz"
+    },
+    {
+      "name": "alertmanager-0.34.1.linux-mips64le.tar.gz",
+      "size": 35160080,
+      "url": "https://github.com/prometheus/alertmanager/releases/download/v0.34.1/alertmanager-0.34.1.linux-mips64le.tar.gz"
+    },
+    {
+      "name": "alertmanager-0.34.1.linux-mipsle.tar.gz",
+      "size": 35672626,
+      "url": "https://github.com/prometheus/alertmanager/releases/download/v0.34.1/alertmanager-0.34.1.linux-mipsle.tar.gz"
+    },
+    {
+      "name": "alertmanager-web-ui-0.34.1.tar.gz",
+      "size": 931784,
+      "url": "https://github.com/prometheus/alertmanager/releases/download/v0.34.1/alertmanager-web-ui-0.34.1.tar.gz"
+    },
+    {
+      "name": "alertmanager-0.34.1.netbsd-arm64.tar.gz",
+      "size": 35689933,
+      "url": "https://github.com/prometheus/alertmanager/releases/download/v0.34.1/alertmanager-0.34.1.netbsd-arm64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,46 @@
+{
+  "repo": "pinpoint-apm/pinpoint",
+  "slug": "pinpoint-apm__pinpoint",
+  "name": "pinpoint",
+  "note_zh": "大规模分布式系统的调用链追踪 APM",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:18:38Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/pinpoint-apm/pinpoint/zip/refs/heads/master",
+  "release": {
+    "tag": "v3.1.1",
+    "name": "3.1.1 release",
+    "published": "2026-10-02T06:04:27Z",
+    "url": "https://github.com/pinpoint-apm/pinpoint/releases/tag/v3.1.1"
+  },
+  "assets": [
+    {
+      "name": "pinpoint-agent-3.1.1.tar.gz",
+      "size": 34083814,
+      "url": "https://github.com/pinpoint-apm/pinpoint/releases/download/v3.1.1/pinpoint-agent-3.1.1.tar.gz"
+    },
+    {
+      "name": "pinpoint-collector-3.1.1-exec.jar",
+      "size": 187400417,
+      "url": "https://github.com/pinpoint-apm/pinpoint/releases/download/v3.1.1/pinpoint-collector-3.1.1-exec.jar"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

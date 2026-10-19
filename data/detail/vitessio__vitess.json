@@ -1,0 +1,51 @@
+{
+  "repo": "vitessio/vitess",
+  "slug": "vitessio__vitess",
+  "name": "vitess",
+  "note_zh": "MySQL 水平扩展的集群方案",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:34:08Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/vitessio/vitess/zip/refs/heads/main",
+  "release": {
+    "tag": "v24.0.5",
+    "name": "Vitess v24.0.5",
+    "published": "2026-10-13T20:27:32Z",
+    "url": "https://github.com/vitessio/vitess/releases/tag/v24.0.5"
+  },
+  "assets": [
+    {
+      "name": "vitess_24.0.5-9b28c87_amd64.deb",
+      "size": 800446046,
+      "url": "https://github.com/vitessio/vitess/releases/download/v24.0.5/vitess_24.0.5-9b28c87_amd64.deb"
+    },
+    {
+      "name": "vitess-24.0.5-9b28c87.x86_64.rpm",
+      "size": 800955562,
+      "url": "https://github.com/vitessio/vitess/releases/download/v24.0.5/vitess-24.0.5-9b28c87.x86_64.rpm"
+    },
+    {
+      "name": "vitess-24.0.5-9b28c87.tar.gz",
+      "size": 803358661,
+      "url": "https://github.com/vitessio/vitess/releases/download/v24.0.5/vitess-24.0.5-9b28c87.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

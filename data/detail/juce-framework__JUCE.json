@@ -1,0 +1,51 @@
+{
+  "repo": "juce-framework/JUCE",
+  "slug": "juce-framework__JUCE",
+  "name": "JUCE",
+  "note_zh": "跨平台 C++ 应用与音频插件框架",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C++"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-17T07:54:30Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/juce-framework/JUCE/zip/refs/heads/master",
+  "release": {
+    "tag": "9.0.4",
+    "name": "9.0.4",
+    "published": "2026-10-12T11:29:26Z",
+    "url": "https://github.com/juce-framework/JUCE/releases/tag/9.0.4"
+  },
+  "assets": [
+    {
+      "name": "juce-9.0.4-windows.zip",
+      "size": 42259208,
+      "url": "https://github.com/juce-framework/JUCE/releases/download/9.0.4/juce-9.0.4-windows.zip"
+    },
+    {
+      "name": "juce-9.0.4-linux.zip",
+      "size": 45934080,
+      "url": "https://github.com/juce-framework/JUCE/releases/download/9.0.4/juce-9.0.4-linux.zip"
+    },
+    {
+      "name": "juce-9.0.4-osx.zip",
+      "size": 58657831,
+      "url": "https://github.com/juce-framework/JUCE/releases/download/9.0.4/juce-9.0.4-osx.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

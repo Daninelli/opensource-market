@@ -1,0 +1,47 @@
+{
+  "repo": "IridiumIO/CompactGUI",
+  "slug": "IridiumIO__CompactGUI",
+  "name": "CompactGUI",
+  "note_zh": "用系统压缩 API 减小游戏与程序体积",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "系统工具",
+  "subcategory_slug": "system",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-13T23:56:07Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/IridiumIO/CompactGUI/zip/refs/heads/master",
+  "release": {
+    "tag": "v4.0.0-beta.12",
+    "name": "Version 4.0 Beta 12",
+    "published": "2026-09-21T11:07:57Z",
+    "url": "https://github.com/IridiumIO/CompactGUI/releases/tag/v4.0.0-beta.12"
+  },
+  "assets": [
+    {
+      "name": "CompactGUI.arm64.exe",
+      "size": 10638757,
+      "url": "https://github.com/IridiumIO/CompactGUI/releases/download/v4.0.0-beta.12/CompactGUI.arm64.exe"
+    },
+    {
+      "name": "CompactGUI.exe",
+      "size": 10662305,
+      "url": "https://github.com/IridiumIO/CompactGUI/releases/download/v4.0.0-beta.12/CompactGUI.exe"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

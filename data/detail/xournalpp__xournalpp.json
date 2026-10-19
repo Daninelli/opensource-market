@@ -1,0 +1,77 @@
+{
+  "repo": "xournalpp/xournalpp",
+  "slug": "xournalpp__xournalpp",
+  "name": "xournalpp",
+  "note_zh": "手写笔记与 PDF 批注软件",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "GPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "GTK"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T07:05:41Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/xournalpp/xournalpp/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.3.8",
+    "name": "Xournal++ 1.3.8",
+    "published": "2026-09-26T06:23:53Z",
+    "url": "https://github.com/xournalpp/xournalpp/releases/tag/v1.3.8"
+  },
+  "assets": [
+    {
+      "name": "xournalpp-1.3.8-macOS-ARM64.dmg",
+      "size": 42552771,
+      "url": "https://github.com/xournalpp/xournalpp/releases/download/v1.3.8/xournalpp-1.3.8-macOS-ARM64.dmg"
+    },
+    {
+      "name": "xournalpp-1.3.8-macOS-X64.dmg",
+      "size": 43337863,
+      "url": "https://github.com/xournalpp/xournalpp/releases/download/v1.3.8/xournalpp-1.3.8-macOS-X64.dmg"
+    },
+    {
+      "name": "xournalpp-1.3.8-windows-setup-ARM64.exe",
+      "size": 69279250,
+      "url": "https://github.com/xournalpp/xournalpp/releases/download/v1.3.8/xournalpp-1.3.8-windows-setup-ARM64.exe"
+    },
+    {
+      "name": "xournalpp-1.3.8-windows-portable-ARM64.zip",
+      "size": 70523111,
+      "url": "https://github.com/xournalpp/xournalpp/releases/download/v1.3.8/xournalpp-1.3.8-windows-portable-ARM64.zip"
+    },
+    {
+      "name": "xournalpp-1.3.8-Ubuntu-jammy-aarch64.deb",
+      "size": 3028212,
+      "url": "https://github.com/xournalpp/xournalpp/releases/download/v1.3.8/xournalpp-1.3.8-Ubuntu-jammy-aarch64.deb"
+    },
+    {
+      "name": "xournalpp-1.3.8-Ubuntu-resolute-aarch64.deb",
+      "size": 3062972,
+      "url": "https://github.com/xournalpp/xournalpp/releases/download/v1.3.8/xournalpp-1.3.8-Ubuntu-resolute-aarch64.deb"
+    },
+    {
+      "name": "xournalpp-1.3.8-Ubuntu-jammy-aarch64.tar.gz",
+      "size": 3023915,
+      "url": "https://github.com/xournalpp/xournalpp/releases/download/v1.3.8/xournalpp-1.3.8-Ubuntu-jammy-aarch64.tar.gz"
+    },
+    {
+      "name": "xournalpp-1.3.8-Ubuntu-resolute-aarch64.tar.gz",
+      "size": 3050430,
+      "url": "https://github.com/xournalpp/xournalpp/releases/download/v1.3.8/xournalpp-1.3.8-Ubuntu-resolute-aarch64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,62 @@
+{
+  "repo": "redis/RedisInsight",
+  "slug": "redis__RedisInsight",
+  "name": "RedisInsight",
+  "note_zh": "Redis 官方图形化管理客户端",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-18T23:09:26Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/redis/RedisInsight/zip/refs/heads/main",
+  "release": {
+    "tag": "3.8.0",
+    "name": "3.8.0 (July 2026)",
+    "published": "2026-07-21T07:51:57Z",
+    "url": "https://github.com/redis/RedisInsight/releases/tag/3.8.0"
+  },
+  "assets": [
+    {
+      "name": "Redis-Insight-win-installer.exe",
+      "size": 115599376,
+      "url": "https://github.com/redis/RedisInsight/releases/download/3.8.0/Redis-Insight-win-installer.exe"
+    },
+    {
+      "name": "Redis-Insight-mac-arm64.dmg",
+      "size": 134309487,
+      "url": "https://github.com/redis/RedisInsight/releases/download/3.8.0/Redis-Insight-mac-arm64.dmg"
+    },
+    {
+      "name": "Redis-Insight-mac-x64.dmg",
+      "size": 141538303,
+      "url": "https://github.com/redis/RedisInsight/releases/download/3.8.0/Redis-Insight-mac-x64.dmg"
+    },
+    {
+      "name": "Redis-Insight-linux-aarch64.rpm",
+      "size": 89895805,
+      "url": "https://github.com/redis/RedisInsight/releases/download/3.8.0/Redis-Insight-linux-aarch64.rpm"
+    },
+    {
+      "name": "Redis-Insight-linux-x86_64.rpm",
+      "size": 95161637,
+      "url": "https://github.com/redis/RedisInsight/releases/download/3.8.0/Redis-Insight-linux-x86_64.rpm"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

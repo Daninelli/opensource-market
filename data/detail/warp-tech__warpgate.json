@@ -1,0 +1,46 @@
+{
+  "repo": "warp-tech/warpgate",
+  "slug": "warp-tech__warpgate",
+  "name": "warpgate",
+  "note_zh": "全透明的 SSH HTTPS 与数据库访问网关",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:56:13Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/warp-tech/warpgate/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.30.0",
+    "name": "v0.30.0",
+    "published": "2026-10-19T10:56:29Z",
+    "url": "https://github.com/warp-tech/warpgate/releases/tag/v0.30.0"
+  },
+  "assets": [
+    {
+      "name": "warpgate-v0.30.0-arm64-linux",
+      "size": 102056808,
+      "url": "https://github.com/warp-tech/warpgate/releases/download/v0.30.0/warpgate-v0.30.0-arm64-linux"
+    },
+    {
+      "name": "warpgate-v0.30.0-x86_64-linux",
+      "size": 108740288,
+      "url": "https://github.com/warp-tech/warpgate/releases/download/v0.30.0/warpgate-v0.30.0-x86_64-linux"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

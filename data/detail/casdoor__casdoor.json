@@ -1,0 +1,67 @@
+{
+  "repo": "casdoor/casdoor",
+  "slug": "casdoor__casdoor",
+  "name": "casdoor",
+  "note_zh": "面向智能体的身份与访问管理平台",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "React"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T16:07:08Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/casdoor/casdoor/zip/refs/heads/master",
+  "release": {
+    "tag": "v4.22.0",
+    "name": "v4.22.0",
+    "published": "2026-10-19T16:26:13Z",
+    "url": "https://github.com/casdoor/casdoor/releases/tag/v4.22.0"
+  },
+  "assets": [
+    {
+      "name": "casdoor_Windows_arm64.zip",
+      "size": 35504109,
+      "url": "https://github.com/casdoor/casdoor/releases/download/v4.22.0/casdoor_Windows_arm64.zip"
+    },
+    {
+      "name": "casdoor_Darwin_arm64.tar.gz",
+      "size": 37128647,
+      "url": "https://github.com/casdoor/casdoor/releases/download/v4.22.0/casdoor_Darwin_arm64.tar.gz"
+    },
+    {
+      "name": "casdoor_Darwin_x86_64.tar.gz",
+      "size": 39651465,
+      "url": "https://github.com/casdoor/casdoor/releases/download/v4.22.0/casdoor_Darwin_x86_64.tar.gz"
+    },
+    {
+      "name": "casdoor_Windows_x86_64.zip",
+      "size": 39794028,
+      "url": "https://github.com/casdoor/casdoor/releases/download/v4.22.0/casdoor_Windows_x86_64.zip"
+    },
+    {
+      "name": "casdoor_Linux_arm64.tar.gz",
+      "size": 35228438,
+      "url": "https://github.com/casdoor/casdoor/releases/download/v4.22.0/casdoor_Linux_arm64.tar.gz"
+    },
+    {
+      "name": "casdoor_Linux_x86_64.tar.gz",
+      "size": 38689833,
+      "url": "https://github.com/casdoor/casdoor/releases/download/v4.22.0/casdoor_Linux_x86_64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

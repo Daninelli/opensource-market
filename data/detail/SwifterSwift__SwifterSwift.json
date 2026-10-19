@@ -1,0 +1,30 @@
+{
+  "repo": "SwifterSwift/SwifterSwift",
+  "slug": "SwifterSwift__SwifterSwift",
+  "name": "SwifterSwift",
+  "note_zh": "500 多个 Swift 原生扩展工具集",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Swift"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-09-26T06:59:59Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/SwifterSwift/SwifterSwift/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -22,16 +22,16 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/paperless-ngx/paperless-ngx/zip/refs/heads/dev",
   "release": {
-    "tag": "v3.3.2",
-    "name": "Paperless-ngx v3.3.2",
-    "published": "2026-10-16T06:14:32Z",
-    "url": "https://github.com/paperless-ngx/paperless-ngx/releases/tag/v3.3.2"
+    "tag": "v3.3.3",
+    "name": "Paperless-ngx v3.3.3",
+    "published": "2026-10-19T17:24:02Z",
+    "url": "https://github.com/paperless-ngx/paperless-ngx/releases/tag/v3.3.3"
   },
   "assets": [
     {
-      "name": "paperless-ngx-v3.3.2.tar.xz",
-      "size": 328930672,
-      "url": "https://github.com/paperless-ngx/paperless-ngx/releases/download/v3.3.2/paperless-ngx-v3.3.2.tar.xz"
+      "name": "paperless-ngx-v3.3.3.tar.xz",
+      "size": 329097964,
+      "url": "https://github.com/paperless-ngx/paperless-ngx/releases/download/v3.3.3/paperless-ngx-v3.3.3.tar.xz"
     }
   ],
   "pinned": false,

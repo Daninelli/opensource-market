@@ -1,0 +1,41 @@
+{
+  "repo": "gitkraken/vscode-gitlens",
+  "slug": "gitkraken__vscode-gitlens",
+  "name": "vscode-gitlens",
+  "note_zh": "VS Code 里的 Git 增强插件",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "编辑器扩展",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:33:37Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/gitkraken/vscode-gitlens/zip/refs/heads/main",
+  "release": {
+    "tag": "v19.4.0",
+    "name": "v19.4.0",
+    "published": "2026-10-15T21:07:07Z",
+    "url": "https://github.com/gitkraken/vscode-gitlens/releases/tag/v19.4.0"
+  },
+  "assets": [
+    {
+      "name": "gitlens-19.4.0.vsix",
+      "size": 4812986,
+      "url": "https://github.com/gitkraken/vscode-gitlens/releases/download/v19.4.0/gitlens-19.4.0.vsix"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

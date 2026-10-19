@@ -1,0 +1,46 @@
+{
+  "repo": "greatscottgadgets/hackrf",
+  "slug": "greatscottgadgets__hackrf",
+  "name": "hackrf",
+  "note_zh": "低成本软件无线电硬件平台",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "物联网",
+  "subcategory_slug": "iot",
+  "license": "GPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C"
+  ],
+  "deploy_type": "源码 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-12T07:19:39Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/greatscottgadgets/hackrf/zip/refs/heads/main",
+  "release": {
+    "tag": "v2026.01.3",
+    "name": "2026.01.3",
+    "published": "2026-01-30T04:02:01Z",
+    "url": "https://github.com/greatscottgadgets/hackrf/releases/tag/v2026.01.3"
+  },
+  "assets": [
+    {
+      "name": "hackrf-2026.01.3.tar.xz",
+      "size": 25945024,
+      "url": "https://github.com/greatscottgadgets/hackrf/releases/download/v2026.01.3/hackrf-2026.01.3.tar.xz"
+    },
+    {
+      "name": "hackrf-2026.01.3.zip",
+      "size": 36335527,
+      "url": "https://github.com/greatscottgadgets/hackrf/releases/download/v2026.01.3/hackrf-2026.01.3.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

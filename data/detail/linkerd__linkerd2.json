@@ -1,0 +1,62 @@
+{
+  "repo": "linkerd/linkerd2",
+  "slug": "linkerd__linkerd2",
+  "name": "linkerd2",
+  "note_zh": "超轻量安全优先的 Kubernetes 服务网格",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Rust"
+  ],
+  "deploy_type": "命令行 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T03:02:46Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/linkerd/linkerd2/zip/refs/heads/main",
+  "release": {
+    "tag": "edge-26.10.1",
+    "name": "edge-26.10.1",
+    "published": "2026-10-05T17:55:10Z",
+    "url": "https://github.com/linkerd/linkerd2/releases/tag/edge-26.10.1"
+  },
+  "assets": [
+    {
+      "name": "linkerd2-cli-edge-26.10.1-darwin-arm64",
+      "size": 88106018,
+      "url": "https://github.com/linkerd/linkerd2/releases/download/edge-26.10.1/linkerd2-cli-edge-26.10.1-darwin-arm64"
+    },
+    {
+      "name": "linkerd2-cli-edge-26.10.1-darwin",
+      "size": 93125136,
+      "url": "https://github.com/linkerd/linkerd2/releases/download/edge-26.10.1/linkerd2-cli-edge-26.10.1-darwin"
+    },
+    {
+      "name": "linkerd2-cli-edge-26.10.1-windows.exe",
+      "size": 93393920,
+      "url": "https://github.com/linkerd/linkerd2/releases/download/edge-26.10.1/linkerd2-cli-edge-26.10.1-windows.exe"
+    },
+    {
+      "name": "linkerd2-cli-edge-26.10.1-linux-arm64",
+      "size": 85524642,
+      "url": "https://github.com/linkerd/linkerd2/releases/download/edge-26.10.1/linkerd2-cli-edge-26.10.1-linux-arm64"
+    },
+    {
+      "name": "linkerd2-cli-edge-26.10.1-linux-amd64",
+      "size": 91160738,
+      "url": "https://github.com/linkerd/linkerd2/releases/download/edge-26.10.1/linkerd2-cli-edge-26.10.1-linux-amd64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

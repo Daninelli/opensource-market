@@ -1,0 +1,41 @@
+{
+  "repo": "windingwind/zotero-pdf-translate",
+  "slug": "windingwind__zotero-pdf-translate",
+  "name": "zotero-pdf-translate",
+  "note_zh": "Zotero 的 PDF 与网页翻译插件",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "编辑器扩展",
+  "platform": "github",
+  "updated_at": "2026-10-03T11:50:09Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/windingwind/zotero-pdf-translate/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.4.8",
+    "name": "Release v2.4.8",
+    "published": "2026-10-03T11:50:39Z",
+    "url": "https://github.com/windingwind/zotero-pdf-translate/releases/tag/v2.4.8"
+  },
+  "assets": [
+    {
+      "name": "translate-for-zotero.xpi",
+      "size": 775381,
+      "url": "https://github.com/windingwind/zotero-pdf-translate/releases/download/v2.4.8/translate-for-zotero.xpi"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

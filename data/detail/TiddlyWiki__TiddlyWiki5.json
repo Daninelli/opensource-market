@@ -1,0 +1,30 @@
+{
+  "repo": "TiddlyWiki/TiddlyWiki5",
+  "slug": "TiddlyWiki__TiddlyWiki5",
+  "name": "TiddlyWiki5",
+  "note_zh": "自包含的 JavaScript 单文件维基",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript"
+  ],
+  "deploy_type": "前端源码 / 单文件",
+  "platform": "github",
+  "updated_at": "2026-10-18T10:26:15Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/TiddlyWiki/TiddlyWiki5/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

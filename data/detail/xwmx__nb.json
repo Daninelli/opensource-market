@@ -1,0 +1,41 @@
+{
+  "repo": "xwmx/nb",
+  "slug": "xwmx__nb",
+  "name": "nb",
+  "note_zh": "命令行与本地网页的纯文本笔记书签工具",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Shell"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-08-26T00:51:47Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/xwmx/nb/zip/refs/heads/master",
+  "release": {
+    "tag": "7.25.5",
+    "name": "7.25.5",
+    "published": "2026-08-12T23:57:33Z",
+    "url": "https://github.com/xwmx/nb/releases/tag/7.25.5"
+  },
+  "assets": [
+    {
+      "name": "nb",
+      "size": 755562,
+      "url": "https://github.com/xwmx/nb/releases/download/7.25.5/nb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,67 @@
+{
+  "repo": "bepass-org/oblivion-desktop",
+  "slug": "bepass-org__oblivion-desktop",
+  "name": "oblivion-desktop",
+  "note_zh": "Cloudflare Warp 的跨平台非官方客户端",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Tauri"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-06-30T04:31:48Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/bepass-org/oblivion-desktop/zip/refs/heads/main",
+  "release": {
+    "tag": "v3.11.0",
+    "name": "v3.11.0",
+    "published": "2025-11-10T07:15:33Z",
+    "url": "https://github.com/bepass-org/oblivion-desktop/releases/tag/v3.11.0"
+  },
+  "assets": [
+    {
+      "name": "oblivion-desktop-win-ia32.exe",
+      "size": 106607273,
+      "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-win-ia32.exe"
+    },
+    {
+      "name": "oblivion-desktop-win-x64.exe",
+      "size": 119802453,
+      "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-win-x64.exe"
+    },
+    {
+      "name": "oblivion-desktop-mac-arm64.zip",
+      "size": 151500745,
+      "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-mac-arm64.zip"
+    },
+    {
+      "name": "oblivion-desktop-mac-arm64.dmg",
+      "size": 156551707,
+      "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-mac-arm64.dmg"
+    },
+    {
+      "name": "oblivion-desktop-linux-arm64.deb",
+      "size": 103016662,
+      "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-linux-arm64.deb"
+    },
+    {
+      "name": "oblivion-desktop-linux-arm64.tar.xz",
+      "size": 104536408,
+      "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-linux-arm64.tar.xz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

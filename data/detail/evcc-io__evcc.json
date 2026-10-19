@@ -1,0 +1,57 @@
+{
+  "repo": "evcc-io/evcc",
+  "slug": "evcc-io__evcc",
+  "name": "evcc",
+  "note_zh": "太阳能充电与电动车充电调度",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Vue"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:49:24Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/evcc-io/evcc/zip/refs/heads/master",
+  "release": {
+    "tag": "0.317.2",
+    "name": "0.317.2",
+    "published": "2026-10-17T10:05:06Z",
+    "url": "https://github.com/evcc-io/evcc/releases/tag/0.317.2"
+  },
+  "assets": [
+    {
+      "name": "evcc_0.317.2_windows-amd64.zip",
+      "size": 30924718,
+      "url": "https://github.com/evcc-io/evcc/releases/download/0.317.2/evcc_0.317.2_windows-amd64.zip"
+    },
+    {
+      "name": "evcc_0.317.2_macOS-all.tar.gz",
+      "size": 60881952,
+      "url": "https://github.com/evcc-io/evcc/releases/download/0.317.2/evcc_0.317.2_macOS-all.tar.gz"
+    },
+    {
+      "name": "evcc_0.317.2_arm64.deb",
+      "size": 28152096,
+      "url": "https://github.com/evcc-io/evcc/releases/download/0.317.2/evcc_0.317.2_arm64.deb"
+    },
+    {
+      "name": "evcc_0.317.2_linux-arm64.tar.gz",
+      "size": 28155160,
+      "url": "https://github.com/evcc-io/evcc/releases/download/0.317.2/evcc_0.317.2_linux-arm64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

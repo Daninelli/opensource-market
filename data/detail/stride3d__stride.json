@@ -1,0 +1,47 @@
+{
+  "repo": "stride3d/stride",
+  "slug": "stride3d__stride",
+  "name": "stride",
+  "note_zh": "跨平台开源 C# 游戏引擎",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏引擎",
+  "subcategory_slug": "engine",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-17T07:28:27Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/stride3d/stride/zip/refs/heads/master",
+  "release": {
+    "tag": "releases/4.4.1",
+    "name": "Stride 4.4.1",
+    "published": "2026-10-17T07:28:23Z",
+    "url": "https://github.com/stride3d/stride/releases/tag/releases/4.4.1"
+  },
+  "assets": [
+    {
+      "name": "Stride.Shaders.4.4.1.nupkg",
+      "size": 107789,
+      "url": "https://github.com/stride3d/stride/releases/download/releases/4.4.1/Stride.Shaders.4.4.1.nupkg"
+    },
+    {
+      "name": "Stride.Core.IO.4.4.1.nupkg",
+      "size": 120804,
+      "url": "https://github.com/stride3d/stride/releases/download/releases/4.4.1/Stride.Core.IO.4.4.1.nupkg"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,76 @@
+{
+  "repo": "saltstack/salt",
+  "slug": "saltstack__salt",
+  "name": "salt",
+  "note_zh": "大规模基础设施自动化配置管理",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "命令行 / 传统部署",
+  "platform": "github",
+  "updated_at": "2026-10-18T07:52:58Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/saltstack/salt/zip/refs/heads/master",
+  "release": {
+    "tag": "v3008.3",
+    "name": "v3008.3",
+    "published": "2026-09-30T21:19:42Z",
+    "url": "https://github.com/saltstack/salt/releases/tag/v3008.3"
+  },
+  "assets": [
+    {
+      "name": "salt-3008.3-onedir-macos-arm64.tar.xz",
+      "size": 23593532,
+      "url": "https://github.com/saltstack/salt/releases/download/v3008.3/salt-3008.3-onedir-macos-arm64.tar.xz"
+    },
+    {
+      "name": "salt-3008.3-onedir-macos-x86_64.tar.xz",
+      "size": 23630652,
+      "url": "https://github.com/saltstack/salt/releases/download/v3008.3/salt-3008.3-onedir-macos-x86_64.tar.xz"
+    },
+    {
+      "name": "Salt-Minion-3008.3-Py3-AMD64.msi",
+      "size": 45318144,
+      "url": "https://github.com/saltstack/salt/releases/download/v3008.3/Salt-Minion-3008.3-Py3-AMD64.msi"
+    },
+    {
+      "name": "salt-3008.3-onedir-windows-amd64.zip",
+      "size": 51378351,
+      "url": "https://github.com/saltstack/salt/releases/download/v3008.3/salt-3008.3-onedir-windows-amd64.zip"
+    },
+    {
+      "name": "salt-ssh_3008.3_amd64.deb",
+      "size": 162314,
+      "url": "https://github.com/saltstack/salt/releases/download/v3008.3/salt-ssh_3008.3_amd64.deb"
+    },
+    {
+      "name": "salt-ssh_3008.3_arm64.deb",
+      "size": 162314,
+      "url": "https://github.com/saltstack/salt/releases/download/v3008.3/salt-ssh_3008.3_arm64.deb"
+    },
+    {
+      "name": "salt-3008.3.patch",
+      "size": 589967,
+      "url": "https://github.com/saltstack/salt/releases/download/v3008.3/salt-3008.3.patch"
+    },
+    {
+      "name": "salt-3008.3-docs-html.tar.xz",
+      "size": 7695532,
+      "url": "https://github.com/saltstack/salt/releases/download/v3008.3/salt-3008.3-docs-html.tar.xz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

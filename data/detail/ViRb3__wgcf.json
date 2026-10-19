@@ -1,0 +1,76 @@
+{
+  "repo": "ViRb3/wgcf",
+  "slug": "ViRb3__wgcf",
+  "name": "wgcf",
+  "note_zh": "Cloudflare Warp 的非官方跨平台命令行",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-15T11:42:20Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/ViRb3/wgcf/zip/refs/heads/master",
+  "release": {
+    "tag": "v2.3.1",
+    "name": "v2.3.1",
+    "published": "2026-10-11T23:40:32Z",
+    "url": "https://github.com/ViRb3/wgcf/releases/tag/v2.3.1"
+  },
+  "assets": [
+    {
+      "name": "wgcf_2.3.1_windows_arm64.exe",
+      "size": 14094848,
+      "url": "https://github.com/ViRb3/wgcf/releases/download/v2.3.1/wgcf_2.3.1_windows_arm64.exe"
+    },
+    {
+      "name": "wgcf_2.3.1_darwin_arm64",
+      "size": 14279298,
+      "url": "https://github.com/ViRb3/wgcf/releases/download/v2.3.1/wgcf_2.3.1_darwin_arm64"
+    },
+    {
+      "name": "wgcf_2.3.1_windows_386.exe",
+      "size": 14823936,
+      "url": "https://github.com/ViRb3/wgcf/releases/download/v2.3.1/wgcf_2.3.1_windows_386.exe"
+    },
+    {
+      "name": "wgcf_2.3.1_darwin_amd64",
+      "size": 15307744,
+      "url": "https://github.com/ViRb3/wgcf/releases/download/v2.3.1/wgcf_2.3.1_darwin_amd64"
+    },
+    {
+      "name": "wgcf_2.3.1_linux_arm64",
+      "size": 13959328,
+      "url": "https://github.com/ViRb3/wgcf/releases/download/v2.3.1/wgcf_2.3.1_linux_arm64"
+    },
+    {
+      "name": "wgcf_2.3.1_linux_386",
+      "size": 14405792,
+      "url": "https://github.com/ViRb3/wgcf/releases/download/v2.3.1/wgcf_2.3.1_linux_386"
+    },
+    {
+      "name": "wgcf_2.3.1_freebsd_arm64",
+      "size": 13893802,
+      "url": "https://github.com/ViRb3/wgcf/releases/download/v2.3.1/wgcf_2.3.1_freebsd_arm64"
+    },
+    {
+      "name": "wgcf_2.3.1_freebsd_386",
+      "size": 14217386,
+      "url": "https://github.com/ViRb3/wgcf/releases/download/v2.3.1/wgcf_2.3.1_freebsd_386"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

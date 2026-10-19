@@ -1,0 +1,57 @@
+{
+  "repo": "Fincept-Corporation/FinceptTerminal",
+  "slug": "Fincept-Corporation__FinceptTerminal",
+  "name": "FinceptTerminal",
+  "note_zh": "专业金融终端，含行情分析与数据工具",
+  "category": "金融",
+  "category_slug": "finance",
+  "subcategory": "投资管理",
+  "subcategory_slug": "investment",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Qt"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-13T07:44:03Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Fincept-Corporation/FinceptTerminal/zip/refs/heads/main",
+  "release": {
+    "tag": "v4.5.1",
+    "name": "Fincept Terminal v4.5.1",
+    "published": "2026-10-13T07:43:21Z",
+    "url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/tag/v4.5.1"
+  },
+  "assets": [
+    {
+      "name": "FinceptTerminal-4.5.1-windows-x64-setup.exe",
+      "size": 173828448,
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-windows-x64-setup.exe"
+    },
+    {
+      "name": "FinceptTerminal-4.5.1-macos-arm64-setup.dmg",
+      "size": 262558689,
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-macos-arm64-setup.dmg"
+    },
+    {
+      "name": "FinceptTerminal-4.5.1-linux-x64.deb",
+      "size": 57857002,
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-linux-x64.deb"
+    },
+    {
+      "name": "FinceptTerminal-4.5.1-linux-x64.rpm",
+      "size": 63574200,
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-linux-x64.rpm"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

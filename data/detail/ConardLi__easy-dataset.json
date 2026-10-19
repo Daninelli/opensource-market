@@ -1,0 +1,57 @@
+{
+  "repo": "ConardLi/easy-dataset",
+  "slug": "ConardLi__easy-dataset",
+  "name": "easy-dataset",
+  "note_zh": "为大模型微调与 RAG 构建数据集",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Python"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-05-01T15:03:32Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/ConardLi/easy-dataset/zip/refs/heads/main",
+  "release": {
+    "tag": "1.7.3",
+    "name": "[1.7.3] 2026-04-09",
+    "published": "2026-04-09T13:08:33Z",
+    "url": "https://github.com/ConardLi/easy-dataset/releases/tag/1.7.3"
+  },
+  "assets": [
+    {
+      "name": "Easy.Dataset.Setup.1.7.3.exe",
+      "size": 271956565,
+      "url": "https://github.com/ConardLi/easy-dataset/releases/download/1.7.3/Easy.Dataset.Setup.1.7.3.exe"
+    },
+    {
+      "name": "Easy.Dataset-1.7.3-arm64.dmg",
+      "size": 290634865,
+      "url": "https://github.com/ConardLi/easy-dataset/releases/download/1.7.3/Easy.Dataset-1.7.3-arm64.dmg"
+    },
+    {
+      "name": "Easy.Dataset-1.7.3.dmg",
+      "size": 295407798,
+      "url": "https://github.com/ConardLi/easy-dataset/releases/download/1.7.3/Easy.Dataset-1.7.3.dmg"
+    },
+    {
+      "name": "Easy.Dataset-1.7.3.AppImage",
+      "size": 250288072,
+      "url": "https://github.com/ConardLi/easy-dataset/releases/download/1.7.3/Easy.Dataset-1.7.3.AppImage"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,66 @@
+{
+  "repo": "github/github-mcp-server",
+  "slug": "github__github-mcp-server",
+  "name": "github-mcp-server",
+  "note_zh": "GitHub 官方 MCP 服务，让代理操作仓库",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "依赖库 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:23:31Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/github/github-mcp-server/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.0.2",
+    "name": "GitHub MCP Server 2.0.2",
+    "published": "2026-10-08T11:33:15Z",
+    "url": "https://github.com/github/github-mcp-server/releases/tag/v2.0.2"
+  },
+  "assets": [
+    {
+      "name": "github-mcp-server_Windows_arm64.zip",
+      "size": 8504898,
+      "url": "https://github.com/github/github-mcp-server/releases/download/v2.0.2/github-mcp-server_Windows_arm64.zip"
+    },
+    {
+      "name": "github-mcp-server_Darwin_arm64.tar.gz",
+      "size": 8848361,
+      "url": "https://github.com/github/github-mcp-server/releases/download/v2.0.2/github-mcp-server_Darwin_arm64.tar.gz"
+    },
+    {
+      "name": "github-mcp-server_Windows_i386.zip",
+      "size": 9121909,
+      "url": "https://github.com/github/github-mcp-server/releases/download/v2.0.2/github-mcp-server_Windows_i386.zip"
+    },
+    {
+      "name": "github-mcp-server_Darwin_x86_64.tar.gz",
+      "size": 9427411,
+      "url": "https://github.com/github/github-mcp-server/releases/download/v2.0.2/github-mcp-server_Darwin_x86_64.tar.gz"
+    },
+    {
+      "name": "github-mcp-server_Linux_arm64.tar.gz",
+      "size": 8417035,
+      "url": "https://github.com/github/github-mcp-server/releases/download/v2.0.2/github-mcp-server_Linux_arm64.tar.gz"
+    },
+    {
+      "name": "github-mcp-server_Linux_i386.tar.gz",
+      "size": 8742842,
+      "url": "https://github.com/github/github-mcp-server/releases/download/v2.0.2/github-mcp-server_Linux_i386.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

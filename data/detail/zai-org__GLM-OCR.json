@@ -1,0 +1,47 @@
+{
+  "repo": "zai-org/GLM-OCR",
+  "slug": "zai-org__GLM-OCR",
+  "name": "GLM-OCR",
+  "note_zh": "精准快速的通用 OCR 模型",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "PyTorch"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-14T01:46:03Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/zai-org/GLM-OCR/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.1.5",
+    "name": "v0.1.5",
+    "published": "2026-04-08T06:22:18Z",
+    "url": "https://github.com/zai-org/GLM-OCR/releases/tag/v0.1.5"
+  },
+  "assets": [
+    {
+      "name": "glmocr-0.1.5.tar.gz",
+      "size": 103617,
+      "url": "https://github.com/zai-org/GLM-OCR/releases/download/v0.1.5/glmocr-0.1.5.tar.gz"
+    },
+    {
+      "name": "glmocr-0.1.5-py3-none-any.whl",
+      "size": 115188,
+      "url": "https://github.com/zai-org/GLM-OCR/releases/download/v0.1.5/glmocr-0.1.5-py3-none-any.whl"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

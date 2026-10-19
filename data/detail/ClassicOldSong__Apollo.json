@@ -1,0 +1,42 @@
+{
+  "repo": "ClassicOldSong/Apollo",
+  "slug": "ClassicOldSong__Apollo",
+  "name": "Apollo",
+  "note_zh": "游戏串流服务端，支持原生分辨率高帧率",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Rust"
+  ],
+  "deploy_type": "客户端 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-05-21T10:31:13Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/ClassicOldSong/Apollo/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.4.6",
+    "name": "v0.4.6",
+    "published": "2025-07-13T20:12:33Z",
+    "url": "https://github.com/ClassicOldSong/Apollo/releases/tag/v0.4.6"
+  },
+  "assets": [
+    {
+      "name": "Apollo-0.4.6.exe",
+      "size": 17529901,
+      "url": "https://github.com/ClassicOldSong/Apollo/releases/download/v0.4.6/Apollo-0.4.6.exe"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

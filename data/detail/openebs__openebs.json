@@ -1,0 +1,61 @@
+{
+  "repo": "openebs/openebs",
+  "slug": "openebs__openebs",
+  "name": "openebs",
+  "note_zh": "容器原生存储方案，广泛部署",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T00:55:33Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/openebs/openebs/zip/refs/heads/develop",
+  "release": {
+    "tag": "v4.6.2",
+    "name": "v4.6.2",
+    "published": "2026-10-07T11:41:26Z",
+    "url": "https://github.com/openebs/openebs/releases/tag/v4.6.2"
+  },
+  "assets": [
+    {
+      "name": "kubectl-openebs-aarch64-apple-darwin.tar.gz",
+      "size": 13323872,
+      "url": "https://github.com/openebs/openebs/releases/download/v4.6.2/kubectl-openebs-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "kubectl-openebs-x86_64-apple-darwin.tar.gz",
+      "size": 13653772,
+      "url": "https://github.com/openebs/openebs/releases/download/v4.6.2/kubectl-openebs-x86_64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "kubectl-openebs-x86_64-windows-gnu.tar.gz",
+      "size": 21865253,
+      "url": "https://github.com/openebs/openebs/releases/download/v4.6.2/kubectl-openebs-x86_64-windows-gnu.tar.gz"
+    },
+    {
+      "name": "kubectl-openebs-aarch64-linux-musl.tar.gz",
+      "size": 14250624,
+      "url": "https://github.com/openebs/openebs/releases/download/v4.6.2/kubectl-openebs-aarch64-linux-musl.tar.gz"
+    },
+    {
+      "name": "kubectl-openebs-x86_64-linux-musl.tar.gz",
+      "size": 14730175,
+      "url": "https://github.com/openebs/openebs/releases/download/v4.6.2/kubectl-openebs-x86_64-linux-musl.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

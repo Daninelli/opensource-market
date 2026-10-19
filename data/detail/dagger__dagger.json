@@ -1,0 +1,66 @@
+{
+  "repo": "dagger/dagger",
+  "slug": "dagger__dagger",
+  "name": "dagger",
+  "note_zh": "可编程的构建测试发布流水线引擎",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:14:54Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/dagger/dagger/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.21.10",
+    "name": "v0.21.10",
+    "published": "2026-09-30T16:26:37Z",
+    "url": "https://github.com/dagger/dagger/releases/tag/v0.21.10"
+  },
+  "assets": [
+    {
+      "name": "dagger_v0.21.10_windows_arm64.zip",
+      "size": 20363023,
+      "url": "https://github.com/dagger/dagger/releases/download/v0.21.10/dagger_v0.21.10_windows_arm64.zip"
+    },
+    {
+      "name": "dagger_v0.21.10_darwin_arm64.tar.gz",
+      "size": 21028595,
+      "url": "https://github.com/dagger/dagger/releases/download/v0.21.10/dagger_v0.21.10_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "dagger_v0.21.10_darwin_amd64.tar.gz",
+      "size": 22325118,
+      "url": "https://github.com/dagger/dagger/releases/download/v0.21.10/dagger_v0.21.10_darwin_amd64.tar.gz"
+    },
+    {
+      "name": "dagger_v0.21.10_windows_amd64.zip",
+      "size": 22461948,
+      "url": "https://github.com/dagger/dagger/releases/download/v0.21.10/dagger_v0.21.10_windows_amd64.zip"
+    },
+    {
+      "name": "dagger_v0.21.10_linux_arm64.tar.gz",
+      "size": 20174829,
+      "url": "https://github.com/dagger/dagger/releases/download/v0.21.10/dagger_v0.21.10_linux_arm64.tar.gz"
+    },
+    {
+      "name": "dagger_v0.21.10_linux_armv7.tar.gz",
+      "size": 20477798,
+      "url": "https://github.com/dagger/dagger/releases/download/v0.21.10/dagger_v0.21.10_linux_armv7.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

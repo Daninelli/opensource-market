@@ -1,0 +1,66 @@
+{
+  "repo": "gitui-org/gitui",
+  "slug": "gitui-org__gitui",
+  "name": "gitui",
+  "note_zh": "Rust 写的极速终端 Git 界面",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-06T07:08:04Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/gitui-org/gitui/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.28.1",
+    "name": "v0.28.1",
+    "published": "2026-03-24T23:26:28Z",
+    "url": "https://github.com/gitui-org/gitui/releases/tag/v0.28.1"
+  },
+  "assets": [
+    {
+      "name": "gitui-win.tar.gz",
+      "size": 4757777,
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-win.tar.gz"
+    },
+    {
+      "name": "gitui-mac-x86.tar.gz",
+      "size": 5823957,
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-mac-x86.tar.gz"
+    },
+    {
+      "name": "gitui-win.msi",
+      "size": 6213632,
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-win.msi"
+    },
+    {
+      "name": "gitui-linux-armv7.tar.gz",
+      "size": 6110712,
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-linux-armv7.tar.gz"
+    },
+    {
+      "name": "gitui-linux-arm.tar.gz",
+      "size": 6148015,
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-linux-arm.tar.gz"
+    },
+    {
+      "name": "gitui-mac.tar.gz",
+      "size": 6023751,
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-mac.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

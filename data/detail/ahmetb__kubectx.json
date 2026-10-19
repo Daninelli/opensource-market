@@ -1,0 +1,67 @@
+{
+  "repo": "ahmetb/kubectx",
+  "slug": "ahmetb__kubectx",
+  "name": "kubectx",
+  "note_zh": "快速切换 kubectl 集群与命名空间",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Shell"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-11T01:43:15Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/ahmetb/kubectx/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.11.0",
+    "name": "v0.11.0",
+    "published": "2026-03-27T03:13:19Z",
+    "url": "https://github.com/ahmetb/kubectx/releases/tag/v0.11.0"
+  },
+  "assets": [
+    {
+      "name": "kubectx_v0.11.0_windows_arm64.zip",
+      "size": 4756800,
+      "url": "https://github.com/ahmetb/kubectx/releases/download/v0.11.0/kubectx_v0.11.0_windows_arm64.zip"
+    },
+    {
+      "name": "kubectx_v0.11.0_darwin_arm64.tar.gz",
+      "size": 4866080,
+      "url": "https://github.com/ahmetb/kubectx/releases/download/v0.11.0/kubectx_v0.11.0_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "kubectx_v0.11.0_windows_armv7.zip",
+      "size": 5029679,
+      "url": "https://github.com/ahmetb/kubectx/releases/download/v0.11.0/kubectx_v0.11.0_windows_armv7.zip"
+    },
+    {
+      "name": "kubectx_v0.11.0_darwin_x86_64.tar.gz",
+      "size": 5256842,
+      "url": "https://github.com/ahmetb/kubectx/releases/download/v0.11.0/kubectx_v0.11.0_darwin_x86_64.tar.gz"
+    },
+    {
+      "name": "kubectx_v0.11.0_linux_arm64.tar.gz",
+      "size": 4690533,
+      "url": "https://github.com/ahmetb/kubectx/releases/download/v0.11.0/kubectx_v0.11.0_linux_arm64.tar.gz"
+    },
+    {
+      "name": "kubectx_v0.11.0_linux_ppc64le.tar.gz",
+      "size": 4708064,
+      "url": "https://github.com/ahmetb/kubectx/releases/download/v0.11.0/kubectx_v0.11.0_linux_ppc64le.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

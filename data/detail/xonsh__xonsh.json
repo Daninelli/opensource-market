@@ -1,0 +1,41 @@
+{
+  "repo": "xonsh/xonsh",
+  "slug": "xonsh__xonsh",
+  "name": "xonsh",
+  "note_zh": "Python 驱动的跨平台 Shell",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:05:07Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/xonsh/xonsh/zip/refs/heads/main",
+  "release": {
+    "tag": "0.24.2",
+    "name": "v0.24.2",
+    "published": "2026-08-23T15:39:49Z",
+    "url": "https://github.com/xonsh/xonsh/releases/tag/0.24.2"
+  },
+  "assets": [
+    {
+      "name": "xonsh-x86_64.AppImage",
+      "size": 29108728,
+      "url": "https://github.com/xonsh/xonsh/releases/download/0.24.2/xonsh-x86_64.AppImage"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

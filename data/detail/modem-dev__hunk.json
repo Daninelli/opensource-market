@@ -1,0 +1,61 @@
+{
+  "repo": "modem-dev/hunk",
+  "slug": "modem-dev__hunk",
+  "name": "hunk",
+  "note_zh": "面向编码代理的终端差异审查器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:09:27Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/modem-dev/hunk/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.24.0",
+    "name": "v0.24.0",
+    "published": "2026-10-19T12:38:21Z",
+    "url": "https://github.com/modem-dev/hunk/releases/tag/v0.24.0"
+  },
+  "assets": [
+    {
+      "name": "hunkdiff-darwin-arm64.tar.gz",
+      "size": 32731744,
+      "url": "https://github.com/modem-dev/hunk/releases/download/v0.24.0/hunkdiff-darwin-arm64.tar.gz"
+    },
+    {
+      "name": "hunkdiff-darwin-x64.tar.gz",
+      "size": 35229829,
+      "url": "https://github.com/modem-dev/hunk/releases/download/v0.24.0/hunkdiff-darwin-x64.tar.gz"
+    },
+    {
+      "name": "hunkdiff-windows-x64.tar.gz",
+      "size": 46608976,
+      "url": "https://github.com/modem-dev/hunk/releases/download/v0.24.0/hunkdiff-windows-x64.tar.gz"
+    },
+    {
+      "name": "hunkdiff-linux-arm64.tar.gz",
+      "size": 55688499,
+      "url": "https://github.com/modem-dev/hunk/releases/download/v0.24.0/hunkdiff-linux-arm64.tar.gz"
+    },
+    {
+      "name": "hunkdiff-linux-x64.tar.gz",
+      "size": 56265408,
+      "url": "https://github.com/modem-dev/hunk/releases/download/v0.24.0/hunkdiff-linux-x64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

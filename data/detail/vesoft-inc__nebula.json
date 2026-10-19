@@ -1,0 +1,56 @@
+{
+  "repo": "vesoft-inc/nebula",
+  "slug": "vesoft-inc__nebula",
+  "name": "nebula",
+  "note_zh": "可水平扩展的分布式图数据库",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-09-08T06:42:15Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/vesoft-inc/nebula/zip/refs/heads/master",
+  "release": {
+    "tag": "v3.8.0",
+    "name": "NebulaGraph v3.8.0",
+    "published": "2024-05-17T10:33:59Z",
+    "url": "https://github.com/vesoft-inc/nebula/releases/tag/v3.8.0"
+  },
+  "assets": [
+    {
+      "name": "nebula-graph-3.8.0.el8.x86_64.rpm",
+      "size": 64189140,
+      "url": "https://github.com/vesoft-inc/nebula/releases/download/v3.8.0/nebula-graph-3.8.0.el8.x86_64.rpm"
+    },
+    {
+      "name": "nebula-graph-3.8.0.el7.x86_64.rpm",
+      "size": 64791652,
+      "url": "https://github.com/vesoft-inc/nebula/releases/download/v3.8.0/nebula-graph-3.8.0.el7.x86_64.rpm"
+    },
+    {
+      "name": "nebula-graph-3.8.0.tar.gz",
+      "size": 2214236,
+      "url": "https://github.com/vesoft-inc/nebula/releases/download/v3.8.0/nebula-graph-3.8.0.tar.gz"
+    },
+    {
+      "name": "nebula-graph-3.8.0.ubuntu1604.amd64.tar.gz",
+      "size": 84825168,
+      "url": "https://github.com/vesoft-inc/nebula/releases/download/v3.8.0/nebula-graph-3.8.0.ubuntu1604.amd64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

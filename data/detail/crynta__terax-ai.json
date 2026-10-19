@@ -1,0 +1,77 @@
+{
+  "repo": "crynta/terax-ai",
+  "slug": "crynta__terax-ai",
+  "name": "terax-ai",
+  "note_zh": "7MB 的终端优先 AI 开发环境",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "TypeScript"
+  ],
+  "deploy_type": "命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:46:50Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/crynta/terax-ai/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.9.0",
+    "name": "Terax v0.9.0",
+    "published": "2026-10-16T11:55:46Z",
+    "url": "https://github.com/crynta/terax-ai/releases/tag/v0.9.0"
+  },
+  "assets": [
+    {
+      "name": "Terax_0.9.0_x64-setup.exe",
+      "size": 5058184,
+      "url": "https://github.com/crynta/terax-ai/releases/download/v0.9.0/Terax_0.9.0_x64-setup.exe"
+    },
+    {
+      "name": "Terax_0.9.0_x64_en-US.msi",
+      "size": 6250496,
+      "url": "https://github.com/crynta/terax-ai/releases/download/v0.9.0/Terax_0.9.0_x64_en-US.msi"
+    },
+    {
+      "name": "Terax_0.9.0_aarch64.dmg",
+      "size": 7257412,
+      "url": "https://github.com/crynta/terax-ai/releases/download/v0.9.0/Terax_0.9.0_aarch64.dmg"
+    },
+    {
+      "name": "Terax_0.9.0_x64.dmg",
+      "size": 7662774,
+      "url": "https://github.com/crynta/terax-ai/releases/download/v0.9.0/Terax_0.9.0_x64.dmg"
+    },
+    {
+      "name": "Terax-0.9.0-1.x86_64.rpm",
+      "size": 6936755,
+      "url": "https://github.com/crynta/terax-ai/releases/download/v0.9.0/Terax-0.9.0-1.x86_64.rpm"
+    },
+    {
+      "name": "Terax_0.9.0_amd64.deb",
+      "size": 6938910,
+      "url": "https://github.com/crynta/terax-ai/releases/download/v0.9.0/Terax_0.9.0_amd64.deb"
+    },
+    {
+      "name": "Terax_0.9.0_aarch64.app.tar.gz",
+      "size": 6665821,
+      "url": "https://github.com/crynta/terax-ai/releases/download/v0.9.0/Terax_0.9.0_aarch64.app.tar.gz"
+    },
+    {
+      "name": "Terax_0.9.0_x64.app.tar.gz",
+      "size": 7036177,
+      "url": "https://github.com/crynta/terax-ai/releases/download/v0.9.0/Terax_0.9.0_x64.app.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

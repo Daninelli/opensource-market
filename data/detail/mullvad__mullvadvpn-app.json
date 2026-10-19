@@ -1,0 +1,42 @@
+{
+  "repo": "mullvad/mullvadvpn-app",
+  "slug": "mullvad__mullvadvpn-app",
+  "name": "mullvadvpn-app",
+  "note_zh": "注重隐私的 Mullvad VPN 官方客户端",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "Electron"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:17:29Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/mullvad/mullvadvpn-app/zip/refs/heads/main",
+  "release": {
+    "tag": "android/2026.12",
+    "name": "android/2026.12",
+    "published": "2026-09-30T14:32:59Z",
+    "url": "https://github.com/mullvad/mullvadvpn-app/releases/tag/android/2026.12"
+  },
+  "assets": [
+    {
+      "name": "MullvadVPN-2026.12.apk",
+      "size": 39008494,
+      "url": "https://github.com/mullvad/mullvadvpn-app/releases/download/android/2026.12/MullvadVPN-2026.12.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

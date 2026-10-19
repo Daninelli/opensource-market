@@ -1,0 +1,66 @@
+{
+  "repo": "cryptomator/cryptomator",
+  "slug": "cryptomator__cryptomator",
+  "name": "cryptomator",
+  "note_zh": "云盘客户端加密，密钥只在本机",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-16T14:51:04Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/cryptomator/cryptomator/zip/refs/heads/develop",
+  "release": {
+    "tag": "1.19.3",
+    "name": "1.19.3",
+    "published": "2026-06-29T12:24:45Z",
+    "url": "https://github.com/cryptomator/cryptomator/releases/tag/1.19.3"
+  },
+  "assets": [
+    {
+      "name": "Cryptomator-1.19.3-x64.msi",
+      "size": 56815616,
+      "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.3/Cryptomator-1.19.3-x64.msi"
+    },
+    {
+      "name": "Cryptomator-1.19.3-x64.exe",
+      "size": 57605976,
+      "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.3/Cryptomator-1.19.3-x64.exe"
+    },
+    {
+      "name": "Cryptomator-1.19.3-arm64.dmg",
+      "size": 62393246,
+      "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.3/Cryptomator-1.19.3-arm64.dmg"
+    },
+    {
+      "name": "Cryptomator-1.19.3-x64.dmg",
+      "size": 63801297,
+      "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.3/Cryptomator-1.19.3-x64.dmg"
+    },
+    {
+      "name": "cryptomator_1.19.3-0ppa1_amd64.deb",
+      "size": 52309774,
+      "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.3/cryptomator_1.19.3-0ppa1_amd64.deb"
+    },
+    {
+      "name": "cryptomator-1.19.3-aarch64.AppImage",
+      "size": 61753864,
+      "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.3/cryptomator-1.19.3-aarch64.AppImage"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

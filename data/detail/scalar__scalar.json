@@ -1,0 +1,31 @@
+{
+  "repo": "scalar/scalar",
+  "slug": "scalar__scalar",
+  "name": "scalar",
+  "note_zh": "开源 API 平台，现代 REST 客户端与文档",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Vue"
+  ],
+  "deploy_type": "前端源码 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T16:52:12Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/scalar/scalar/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

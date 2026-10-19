@@ -1,0 +1,46 @@
+{
+  "repo": "winsiderss/systeminformer",
+  "slug": "winsiderss__systeminformer",
+  "name": "systeminformer",
+  "note_zh": "进程与系统资源监控工具，可替代任务管理器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:52:57Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/winsiderss/systeminformer/zip/refs/heads/master",
+  "release": {
+    "tag": "v4.0.26241.138",
+    "name": "4.0.26241.138",
+    "published": "2026-08-29T01:54:13Z",
+    "url": "https://github.com/winsiderss/systeminformer/releases/tag/v4.0.26241.138"
+  },
+  "assets": [
+    {
+      "name": "systeminformer-4.0.26241.138-release-setup.exe",
+      "size": 30354960,
+      "url": "https://github.com/winsiderss/systeminformer/releases/download/v4.0.26241.138/systeminformer-4.0.26241.138-release-setup.exe"
+    },
+    {
+      "name": "systeminformer-4.0.26241.138-bin.zip",
+      "size": 22089103,
+      "url": "https://github.com/winsiderss/systeminformer/releases/download/v4.0.26241.138/systeminformer-4.0.26241.138-bin.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

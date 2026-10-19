@@ -1,0 +1,41 @@
+{
+  "repo": "nanobrowser/nanobrowser",
+  "slug": "nanobrowser__nanobrowser",
+  "name": "nanobrowser",
+  "note_zh": "用真实登录态做网页自动化的开源代理",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "浏览器扩展",
+  "platform": "github",
+  "updated_at": "2026-10-15T15:44:39Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/nanobrowser/nanobrowser/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.3.0",
+    "name": "Nanobrowser v0.3.0",
+    "published": "2026-10-15T15:44:39Z",
+    "url": "https://github.com/nanobrowser/nanobrowser/releases/tag/v0.3.0"
+  },
+  "assets": [
+    {
+      "name": "nanobrowser-0.3.0.zip",
+      "size": 1115191,
+      "url": "https://github.com/nanobrowser/nanobrowser/releases/download/v0.3.0/nanobrowser-0.3.0.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

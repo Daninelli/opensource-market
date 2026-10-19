@@ -1,0 +1,56 @@
+{
+  "repo": "CoreBunch/Instatic",
+  "slug": "CoreBunch__Instatic",
+  "name": "Instatic",
+  "note_zh": "开源建站工具，替代 Webflow 与 WordPress",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-13T18:13:43Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/CoreBunch/Instatic/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.0.21",
+    "name": "Instatic 0.0.21",
+    "published": "2026-10-12T17:53:45Z",
+    "url": "https://github.com/CoreBunch/Instatic/releases/tag/v0.0.21"
+  },
+  "assets": [
+    {
+      "name": "instatic-server-0.0.21-darwin-arm64.tar.gz",
+      "size": 44083406,
+      "url": "https://github.com/CoreBunch/Instatic/releases/download/v0.0.21/instatic-server-0.0.21-darwin-arm64.tar.gz"
+    },
+    {
+      "name": "instatic-server-0.0.21-darwin-x64.tar.gz",
+      "size": 47593645,
+      "url": "https://github.com/CoreBunch/Instatic/releases/download/v0.0.21/instatic-server-0.0.21-darwin-x64.tar.gz"
+    },
+    {
+      "name": "instatic-server-0.0.21-windows-x64.tar.gz",
+      "size": 58386858,
+      "url": "https://github.com/CoreBunch/Instatic/releases/download/v0.0.21/instatic-server-0.0.21-windows-x64.tar.gz"
+    },
+    {
+      "name": "instatic-server-0.0.21-linux-x64.tar.gz",
+      "size": 55057751,
+      "url": "https://github.com/CoreBunch/Instatic/releases/download/v0.0.21/instatic-server-0.0.21-linux-x64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

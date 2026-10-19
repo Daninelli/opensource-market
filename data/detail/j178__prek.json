@@ -1,0 +1,71 @@
+{
+  "repo": "j178/prek",
+  "slug": "j178__prek",
+  "name": "prek",
+  "note_zh": "Rust 写的快速 Git 钩子管理器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T13:31:55Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/j178/prek/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.5.6",
+    "name": "0.5.6",
+    "published": "2026-10-19T05:48:07Z",
+    "url": "https://github.com/j178/prek/releases/tag/v0.5.6"
+  },
+  "assets": [
+    {
+      "name": "prek-aarch64-pc-windows-msvc.zip",
+      "size": 5387016,
+      "url": "https://github.com/j178/prek/releases/download/v0.5.6/prek-aarch64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "prek-aarch64-apple-darwin.tar.gz",
+      "size": 5426335,
+      "url": "https://github.com/j178/prek/releases/download/v0.5.6/prek-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "prek-x86_64-pc-windows-msvc.zip",
+      "size": 5502395,
+      "url": "https://github.com/j178/prek/releases/download/v0.5.6/prek-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "prek-x86_64-apple-darwin.tar.gz",
+      "size": 5847267,
+      "url": "https://github.com/j178/prek/releases/download/v0.5.6/prek-x86_64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "prek-aarch64-unknown-linux-gnu.tar.gz",
+      "size": 5554241,
+      "url": "https://github.com/j178/prek/releases/download/v0.5.6/prek-aarch64-unknown-linux-gnu.tar.gz"
+    },
+    {
+      "name": "prek-aarch64-unknown-linux-musl.tar.gz",
+      "size": 5561419,
+      "url": "https://github.com/j178/prek/releases/download/v0.5.6/prek-aarch64-unknown-linux-musl.tar.gz"
+    },
+    {
+      "name": "source.tar.gz",
+      "size": 1274077,
+      "url": "https://github.com/j178/prek/releases/download/v0.5.6/source.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

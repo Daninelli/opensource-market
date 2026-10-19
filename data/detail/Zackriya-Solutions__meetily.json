@@ -1,0 +1,57 @@
+{
+  "repo": "Zackriya-Solutions/meetily",
+  "slug": "Zackriya-Solutions__meetily",
+  "name": "meetily",
+  "note_zh": "注重隐私的 AI 会议助手，本地转写",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Python"
+  ],
+  "deploy_type": "Docker 部署 / 客户端",
+  "platform": "github",
+  "updated_at": "2026-09-15T18:32:32Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Zackriya-Solutions/meetily/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.4.1",
+    "name": "Meetily v0.4.1",
+    "published": "2026-09-12T06:15:42Z",
+    "url": "https://github.com/Zackriya-Solutions/meetily/releases/tag/v0.4.1"
+  },
+  "assets": [
+    {
+      "name": "meetily_0.4.1_x64-setup.exe",
+      "size": 42483368,
+      "url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_x64-setup.exe"
+    },
+    {
+      "name": "meetily_0.4.1_aarch64.dmg",
+      "size": 47951342,
+      "url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_aarch64.dmg"
+    },
+    {
+      "name": "meetily_0.4.1_x64_en-US.msi",
+      "size": 68653056,
+      "url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_x64_en-US.msi"
+    },
+    {
+      "name": "meetily_aarch64.app.tar.gz",
+      "size": 49247769,
+      "url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_aarch64.app.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

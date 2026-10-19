@@ -1,0 +1,71 @@
+{
+  "repo": "cloudnative-pg/cloudnative-pg",
+  "slug": "cloudnative-pg__cloudnative-pg",
+  "name": "cloudnative-pg",
+  "note_zh": "最流行的 PostgreSQL Kubernetes Operator",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:14:21Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/cloudnative-pg/cloudnative-pg/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.30.1",
+    "name": "v1.30.1",
+    "published": "2026-09-23T13:35:42Z",
+    "url": "https://github.com/cloudnative-pg/cloudnative-pg/releases/tag/v1.30.1"
+  },
+  "assets": [
+    {
+      "name": "kubectl-cnpg_1.30.1_windows_arm64.tar.gz",
+      "size": 21903520,
+      "url": "https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.30.1/kubectl-cnpg_1.30.1_windows_arm64.tar.gz"
+    },
+    {
+      "name": "kubectl-cnpg_1.30.1_darwin_arm64.tar.gz",
+      "size": 22992399,
+      "url": "https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.30.1/kubectl-cnpg_1.30.1_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "kubectl-cnpg_1.30.1_darwin_x86_64.tar.gz",
+      "size": 24266530,
+      "url": "https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.30.1/kubectl-cnpg_1.30.1_darwin_x86_64.tar.gz"
+    },
+    {
+      "name": "kubectl-cnpg_1.30.1_windows_x86_64.tar.gz",
+      "size": 24394543,
+      "url": "https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.30.1/kubectl-cnpg_1.30.1_windows_x86_64.tar.gz"
+    },
+    {
+      "name": "kubectl-cnpg_1.30.1_linux_ppc64le.deb",
+      "size": 21664458,
+      "url": "https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.30.1/kubectl-cnpg_1.30.1_linux_ppc64le.deb"
+    },
+    {
+      "name": "kubectl-cnpg_1.30.1_linux_ppc64le.rpm",
+      "size": 21676967,
+      "url": "https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.30.1/kubectl-cnpg_1.30.1_linux_ppc64le.rpm"
+    },
+    {
+      "name": "cnpg-1.30.1.yaml",
+      "size": 1293413,
+      "url": "https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.30.1/cnpg-1.30.1.yaml"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

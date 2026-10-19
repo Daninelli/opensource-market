@@ -1,0 +1,72 @@
+{
+  "repo": "coleam00/Archon",
+  "slug": "coleam00__Archon",
+  "name": "Archon",
+  "note_zh": "面向 AI 编码的智能体脚手架构建器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:42:38Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/coleam00/Archon/zip/refs/heads/dev",
+  "release": {
+    "tag": "v0.12.1",
+    "name": "Archon CLI v0.12.1",
+    "published": "2026-10-17T15:04:17Z",
+    "url": "https://github.com/coleam00/Archon/releases/tag/v0.12.1"
+  },
+  "assets": [
+    {
+      "name": "archon-provider-codex-darwin-arm64",
+      "size": 62474610,
+      "url": "https://github.com/coleam00/Archon/releases/download/v0.12.1/archon-provider-codex-darwin-arm64"
+    },
+    {
+      "name": "archon-forge-github-darwin-arm64",
+      "size": 62854386,
+      "url": "https://github.com/coleam00/Archon/releases/download/v0.12.1/archon-forge-github-darwin-arm64"
+    },
+    {
+      "name": "archon-provider-codex-windows-x64.exe",
+      "size": 86336512,
+      "url": "https://github.com/coleam00/Archon/releases/download/v0.12.1/archon-provider-codex-windows-x64.exe"
+    },
+    {
+      "name": "archon-forge-github-windows-x64.exe",
+      "size": 86718976,
+      "url": "https://github.com/coleam00/Archon/releases/download/v0.12.1/archon-forge-github-windows-x64.exe"
+    },
+    {
+      "name": "archon-provider-codex-linux-arm64",
+      "size": 81512744,
+      "url": "https://github.com/coleam00/Archon/releases/download/v0.12.1/archon-provider-codex-linux-arm64"
+    },
+    {
+      "name": "archon-provider-codex-linux-x64",
+      "size": 81561056,
+      "url": "https://github.com/coleam00/Archon/releases/download/v0.12.1/archon-provider-codex-linux-x64"
+    },
+    {
+      "name": "archon-web.tar.gz",
+      "size": 1802304,
+      "url": "https://github.com/coleam00/Archon/releases/download/v0.12.1/archon-web.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

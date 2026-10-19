@@ -1,0 +1,66 @@
+{
+  "repo": "goplus/xgo",
+  "slug": "goplus__xgo",
+  "name": "xgo",
+  "note_zh": "读起来像自然语言的编程语言",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:32:33Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/goplus/xgo/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.7.5",
+    "name": "v1.7.5",
+    "published": "2026-07-22T02:04:48Z",
+    "url": "https://github.com/goplus/xgo/releases/tag/v1.7.5"
+  },
+  "assets": [
+    {
+      "name": "xgo1.7.5.darwin-arm64.tar.gz",
+      "size": 19725241,
+      "url": "https://github.com/goplus/xgo/releases/download/v1.7.5/xgo1.7.5.darwin-arm64.tar.gz"
+    },
+    {
+      "name": "xgo1.7.5.windows-arm64.zip",
+      "size": 20393956,
+      "url": "https://github.com/goplus/xgo/releases/download/v1.7.5/xgo1.7.5.windows-arm64.zip"
+    },
+    {
+      "name": "xgo1.7.5.darwin-amd64.tar.gz",
+      "size": 20818502,
+      "url": "https://github.com/goplus/xgo/releases/download/v1.7.5/xgo1.7.5.darwin-amd64.tar.gz"
+    },
+    {
+      "name": "xgo1.7.5.windows-386.zip",
+      "size": 21247286,
+      "url": "https://github.com/goplus/xgo/releases/download/v1.7.5/xgo1.7.5.windows-386.zip"
+    },
+    {
+      "name": "xgo1.7.5.linux-arm64.tar.gz",
+      "size": 19695228,
+      "url": "https://github.com/goplus/xgo/releases/download/v1.7.5/xgo1.7.5.linux-arm64.tar.gz"
+    },
+    {
+      "name": "xgo1.7.5.linux-arm64.deb",
+      "size": 19729934,
+      "url": "https://github.com/goplus/xgo/releases/download/v1.7.5/xgo1.7.5.linux-arm64.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

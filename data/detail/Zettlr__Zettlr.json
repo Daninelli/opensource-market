@@ -1,0 +1,62 @@
+{
+  "repo": "Zettlr/Zettlr",
+  "slug": "Zettlr__Zettlr",
+  "name": "Zettlr",
+  "note_zh": "面向学术写作的一站式 Markdown 工作台",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-18T11:18:23Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/Zettlr/Zettlr/zip/refs/heads/develop",
+  "release": {
+    "tag": "v4.8.0",
+    "name": "Release v4.8.0",
+    "published": "2026-09-18T17:20:22Z",
+    "url": "https://github.com/Zettlr/Zettlr/releases/tag/v4.8.0"
+  },
+  "assets": [
+    {
+      "name": "Zettlr-4.8.0-x64.exe",
+      "size": 157306080,
+      "url": "https://github.com/Zettlr/Zettlr/releases/download/v4.8.0/Zettlr-4.8.0-x64.exe"
+    },
+    {
+      "name": "Zettlr-4.8.0-x64.dmg",
+      "size": 184877770,
+      "url": "https://github.com/Zettlr/Zettlr/releases/download/v4.8.0/Zettlr-4.8.0-x64.dmg"
+    },
+    {
+      "name": "Zettlr-4.8.0-arm64.dmg",
+      "size": 193524402,
+      "url": "https://github.com/Zettlr/Zettlr/releases/download/v4.8.0/Zettlr-4.8.0-arm64.dmg"
+    },
+    {
+      "name": "Zettlr-4.8.0-amd64.deb",
+      "size": 135430530,
+      "url": "https://github.com/Zettlr/Zettlr/releases/download/v4.8.0/Zettlr-4.8.0-amd64.deb"
+    },
+    {
+      "name": "Zettlr-4.8.0-arm64.deb",
+      "size": 136252128,
+      "url": "https://github.com/Zettlr/Zettlr/releases/download/v4.8.0/Zettlr-4.8.0-arm64.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

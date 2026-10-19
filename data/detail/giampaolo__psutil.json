@@ -1,0 +1,31 @@
+{
+  "repo": "giampaolo/psutil",
+  "slug": "giampaolo__psutil",
+  "name": "psutil",
+  "note_zh": "跨平台进程与系统监控 Python 库",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "BSD-3-Clause",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "C"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:42:07Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/giampaolo/psutil/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

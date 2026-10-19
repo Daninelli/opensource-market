@@ -1,0 +1,36 @@
+{
+  "repo": "so-fancy/diff-so-fancy",
+  "slug": "so-fancy__diff-so-fancy",
+  "name": "diff-so-fancy",
+  "note_zh": "让 git diff 输出更易读",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Shell",
+    "Perl"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T18:29:14Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "next",
+  "download_url": "https://codeload.github.com/so-fancy/diff-so-fancy/zip/refs/heads/next",
+  "release": {
+    "tag": "v1.4.14",
+    "name": "v1.4.14",
+    "published": "2026-10-03T20:45:10Z",
+    "url": "https://github.com/so-fancy/diff-so-fancy/releases/tag/v1.4.14"
+  },
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

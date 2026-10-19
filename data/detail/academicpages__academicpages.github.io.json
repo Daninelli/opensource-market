@@ -1,0 +1,31 @@
+{
+  "repo": "academicpages/academicpages.github.io",
+  "slug": "academicpages__academicpages.github.io",
+  "name": "academicpages.github.io",
+  "note_zh": "学术个人主页的 GitHub Pages 模板",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Jekyll",
+    "Markdown"
+  ],
+  "deploy_type": "前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T22:33:52Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/academicpages/academicpages.github.io/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

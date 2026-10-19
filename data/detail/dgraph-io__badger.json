@@ -1,0 +1,46 @@
+{
+  "repo": "dgraph-io/badger",
+  "slug": "dgraph-io__badger",
+  "name": "badger",
+  "note_zh": "Go 写的快速键值数据库",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-15T17:40:01Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/dgraph-io/badger/zip/refs/heads/main",
+  "release": {
+    "tag": "v4.9.6",
+    "name": "v4.9.6",
+    "published": "2026-08-05T01:32:45Z",
+    "url": "https://github.com/dgraph-io/badger/releases/tag/v4.9.6"
+  },
+  "assets": [
+    {
+      "name": "badger-linux-arm64.tar.gz",
+      "size": 11625772,
+      "url": "https://github.com/dgraph-io/badger/releases/download/v4.9.6/badger-linux-arm64.tar.gz"
+    },
+    {
+      "name": "badger-linux-amd64.tar.gz",
+      "size": 12328494,
+      "url": "https://github.com/dgraph-io/badger/releases/download/v4.9.6/badger-linux-amd64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,66 @@
+{
+  "repo": "ScottSloan/Bili23-Downloader",
+  "slug": "ScottSloan__Bili23-Downloader",
+  "name": "Bili23-Downloader",
+  "note_zh": "跨平台 B 站视频下载，支持弹幕与元数据",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-17T05:18:49Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/ScottSloan/Bili23-Downloader/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.20.0",
+    "name": "v2.20.0",
+    "published": "2026-09-27T07:23:51Z",
+    "url": "https://github.com/ScottSloan/Bili23-Downloader/releases/tag/v2.20.0"
+  },
+  "assets": [
+    {
+      "name": "Bili23-Downloader_2.20.0_windows_x64.exe",
+      "size": 32997448,
+      "url": "https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.20.0/Bili23-Downloader_2.20.0_windows_x64.exe"
+    },
+    {
+      "name": "Bili23-Downloader_2.20.0_windows_x64_for_win7.exe",
+      "size": 33304544,
+      "url": "https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.20.0/Bili23-Downloader_2.20.0_windows_x64_for_win7.exe"
+    },
+    {
+      "name": "Bili23-Downloader_2.20.0_macos_x86_64.dmg",
+      "size": 60355833,
+      "url": "https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.20.0/Bili23-Downloader_2.20.0_macos_x86_64.dmg"
+    },
+    {
+      "name": "Bili23-Downloader_2.20.0_macos_aarch64.dmg",
+      "size": 60504905,
+      "url": "https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.20.0/Bili23-Downloader_2.20.0_macos_aarch64.dmg"
+    },
+    {
+      "name": "Bili23-Downloader_2.20.0_linux_arm64.deb",
+      "size": 47931850,
+      "url": "https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.20.0/Bili23-Downloader_2.20.0_linux_arm64.deb"
+    },
+    {
+      "name": "Bili23-Downloader_2.20.0_linux_amd64.deb",
+      "size": 50507244,
+      "url": "https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.20.0/Bili23-Downloader_2.20.0_linux_amd64.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

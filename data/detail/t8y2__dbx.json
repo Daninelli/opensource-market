@@ -1,0 +1,77 @@
+{
+  "repo": "t8y2/dbx",
+  "slug": "t8y2__dbx",
+  "name": "dbx",
+  "note_zh": "25MB 轻量数据库客户端，支持百余种数据库",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Rust"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:52:06Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/t8y2/dbx/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.6.48",
+    "name": "DBX v0.6.48",
+    "published": "2026-10-19T03:25:50Z",
+    "url": "https://github.com/t8y2/dbx/releases/tag/v0.6.48"
+  },
+  "assets": [
+    {
+      "name": "DBX_0.6.48_arm64-setup.exe",
+      "size": 28234480,
+      "url": "https://github.com/t8y2/dbx/releases/download/v0.6.48/DBX_0.6.48_arm64-setup.exe"
+    },
+    {
+      "name": "DBX_0.6.48_x64-setup.exe",
+      "size": 30724536,
+      "url": "https://github.com/t8y2/dbx/releases/download/v0.6.48/DBX_0.6.48_x64-setup.exe"
+    },
+    {
+      "name": "DBX_0.6.48_arm64.dmg",
+      "size": 41283396,
+      "url": "https://github.com/t8y2/dbx/releases/download/v0.6.48/DBX_0.6.48_arm64.dmg"
+    },
+    {
+      "name": "DBX_0.6.48_x64.dmg",
+      "size": 44864098,
+      "url": "https://github.com/t8y2/dbx/releases/download/v0.6.48/DBX_0.6.48_x64.dmg"
+    },
+    {
+      "name": "DBX_0.6.48_arm64.rpm",
+      "size": 42924609,
+      "url": "https://github.com/t8y2/dbx/releases/download/v0.6.48/DBX_0.6.48_arm64.rpm"
+    },
+    {
+      "name": "DBX_0.6.48_arm64.deb",
+      "size": 42925172,
+      "url": "https://github.com/t8y2/dbx/releases/download/v0.6.48/DBX_0.6.48_arm64.deb"
+    },
+    {
+      "name": "dbx-jdbc-plugin-0.1.47.zip",
+      "size": 9759784,
+      "url": "https://github.com/t8y2/dbx/releases/download/v0.6.48/dbx-jdbc-plugin-0.1.47.zip"
+    },
+    {
+      "name": "dbx-jdbc-plugin-latest.zip",
+      "size": 9759784,
+      "url": "https://github.com/t8y2/dbx/releases/download/v0.6.48/dbx-jdbc-plugin-latest.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

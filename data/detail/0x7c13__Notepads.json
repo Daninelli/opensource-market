@@ -1,0 +1,42 @@
+{
+  "repo": "0x7c13/Notepads",
+  "slug": "0x7c13__Notepads",
+  "name": "Notepads",
+  "note_zh": "极简设计的现代轻量文本编辑器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-17T23:38:27Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/0x7c13/Notepads/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.5.6.0",
+    "name": "Notepads v1.5.6.0",
+    "published": "2025-03-28T09:00:22Z",
+    "url": "https://github.com/0x7c13/Notepads/releases/tag/v1.5.6.0"
+  },
+  "assets": [
+    {
+      "name": "Notepads_1.5.6.0_x86_x64_arm64.msixbundle",
+      "size": 32556690,
+      "url": "https://github.com/0x7c13/Notepads/releases/download/v1.5.6.0/Notepads_1.5.6.0_x86_x64_arm64.msixbundle"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

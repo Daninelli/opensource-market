@@ -1,0 +1,76 @@
+{
+  "repo": "EKKOLearnAI/ekko-studio",
+  "slug": "EKKOLearnAI__ekko-studio",
+  "name": "ekko-studio",
+  "note_zh": "本地优先的多智能体对话工作区",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:48:18Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/EKKOLearnAI/ekko-studio/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.7.37",
+    "name": "Ekko Studio v0.7.37",
+    "published": "2026-10-19T06:30:36Z",
+    "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/tag/v0.7.37"
+  },
+  "assets": [
+    {
+      "name": "Ekko.Studio-0.7.37-arm64.exe",
+      "size": 193347946,
+      "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.7.37/Ekko.Studio-0.7.37-arm64.exe"
+    },
+    {
+      "name": "Ekko.Studio-0.7.37-x64.exe",
+      "size": 202806188,
+      "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.7.37/Ekko.Studio-0.7.37-x64.exe"
+    },
+    {
+      "name": "Ekko.Studio-0.7.37-arm64.dmg",
+      "size": 267964738,
+      "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.7.37/Ekko.Studio-0.7.37-arm64.dmg"
+    },
+    {
+      "name": "Ekko.Studio-0.7.37-x64.dmg",
+      "size": 274656266,
+      "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.7.37/Ekko.Studio-0.7.37-x64.dmg"
+    },
+    {
+      "name": "com.hermeswebui.studio_0.7.37_x86_64.deb",
+      "size": 179941268,
+      "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.7.37/com.hermeswebui.studio_0.7.37_x86_64.deb"
+    },
+    {
+      "name": "Ekko.Studio-0.7.37-amd64.deb",
+      "size": 189100864,
+      "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.7.37/Ekko.Studio-0.7.37-amd64.deb"
+    },
+    {
+      "name": "hermes-web-ui-0.7.37.tar.gz",
+      "size": 154481123,
+      "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.7.37/hermes-web-ui-0.7.37.tar.gz"
+    },
+    {
+      "name": "Ekko.Studio-0.7.37-arm64.zip",
+      "size": 270771942,
+      "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.7.37/Ekko.Studio-0.7.37-arm64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

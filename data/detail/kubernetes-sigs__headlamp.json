@@ -1,0 +1,67 @@
+{
+  "repo": "kubernetes-sigs/headlamp",
+  "slug": "kubernetes-sigs__headlamp",
+  "name": "headlamp",
+  "note_zh": "功能完整的 Kubernetes Web 界面",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Go"
+  ],
+  "deploy_type": "客户端 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:47:51Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/kubernetes-sigs/headlamp/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.46.0",
+    "name": "0.46.0",
+    "published": "2026-10-15T23:14:36Z",
+    "url": "https://github.com/kubernetes-sigs/headlamp/releases/tag/v0.46.0"
+  },
+  "assets": [
+    {
+      "name": "Headlamp-0.46.0-win-arm64.exe",
+      "size": 122101368,
+      "url": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.46.0/Headlamp-0.46.0-win-arm64.exe"
+    },
+    {
+      "name": "Headlamp-0.46.0-win-x64.exe",
+      "size": 128297356,
+      "url": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.46.0/Headlamp-0.46.0-win-x64.exe"
+    },
+    {
+      "name": "Headlamp-0.46.0-mac-arm64.dmg",
+      "size": 145502945,
+      "url": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.46.0/Headlamp-0.46.0-mac-arm64.dmg"
+    },
+    {
+      "name": "Headlamp-0.46.0-mac-x64.dmg",
+      "size": 153874379,
+      "url": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.46.0/Headlamp-0.46.0-mac-x64.dmg"
+    },
+    {
+      "name": "headlamp_0.46.0-1_amd64.deb",
+      "size": 123735048,
+      "url": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.46.0/headlamp_0.46.0-1_amd64.deb"
+    },
+    {
+      "name": "Headlamp-0.46.0-linux-armv7l.tar.gz",
+      "size": 131976564,
+      "url": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.46.0/Headlamp-0.46.0-linux-armv7l.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

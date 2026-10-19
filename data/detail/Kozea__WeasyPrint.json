@@ -1,0 +1,46 @@
+{
+  "repo": "Kozea/WeasyPrint",
+  "slug": "Kozea__WeasyPrint",
+  "name": "WeasyPrint",
+  "note_zh": "HTML 与 CSS 转 PDF 排版引擎",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "BSD-3-Clause",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-15T15:04:20Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Kozea/WeasyPrint/zip/refs/heads/main",
+  "release": {
+    "tag": "v70.0",
+    "name": "v70.0",
+    "published": "2026-09-08T12:31:06Z",
+    "url": "https://github.com/Kozea/WeasyPrint/releases/tag/v70.0"
+  },
+  "assets": [
+    {
+      "name": "weasyprint-windows-onefile.zip",
+      "size": 31510667,
+      "url": "https://github.com/Kozea/WeasyPrint/releases/download/v70.0/weasyprint-windows-onefile.zip"
+    },
+    {
+      "name": "weasyprint-windows-onedir.zip",
+      "size": 32271073,
+      "url": "https://github.com/Kozea/WeasyPrint/releases/download/v70.0/weasyprint-windows-onedir.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

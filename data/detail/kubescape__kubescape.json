@@ -1,0 +1,76 @@
+{
+  "repo": "kubescape/kubescape",
+  "slug": "kubescape__kubescape",
+  "name": "kubescape",
+  "note_zh": "Kubernetes 安全态势扫描平台",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:57:11Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/kubescape/kubescape/zip/refs/heads/master",
+  "release": {
+    "tag": "v4.0.16",
+    "name": "v4.0.16",
+    "published": "2026-10-14T13:00:31Z",
+    "url": "https://github.com/kubescape/kubescape/releases/tag/v4.0.16"
+  },
+  "assets": [
+    {
+      "name": "kubescape_4.0.16_windows_arm64.tar.gz",
+      "size": 111901181,
+      "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.16/kubescape_4.0.16_windows_arm64.tar.gz"
+    },
+    {
+      "name": "kubescape_4.0.16_darwin_arm64.tar.gz",
+      "size": 121354888,
+      "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.16/kubescape_4.0.16_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "kubescape_4.0.16_windows_amd64.tar.gz",
+      "size": 122028989,
+      "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.16/kubescape_4.0.16_windows_amd64.tar.gz"
+    },
+    {
+      "name": "kubescape_4.0.16_darwin_amd64.tar.gz",
+      "size": 127755207,
+      "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.16/kubescape_4.0.16_darwin_amd64.tar.gz"
+    },
+    {
+      "name": "kubescape_4.0.16_linux_arm64.deb",
+      "size": 111950888,
+      "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.16/kubescape_4.0.16_linux_arm64.deb"
+    },
+    {
+      "name": "kubescape_4.0.16_linux_arm64.rpm",
+      "size": 111966203,
+      "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.16/kubescape_4.0.16_linux_arm64.rpm"
+    },
+    {
+      "name": "kubescape_4.0.16_linux_arm64.apk",
+      "size": 114770800,
+      "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.16/kubescape_4.0.16_linux_arm64.apk"
+    },
+    {
+      "name": "kubescape_4.0.16_linux_amd64.apk",
+      "size": 124369098,
+      "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.16/kubescape_4.0.16_linux_amd64.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,62 @@
+{
+  "repo": "tursodatabase/libsql",
+  "slug": "tursodatabase__libsql",
+  "name": "libsql",
+  "note_zh": "SQLite 的开源分支，支持复制与远程访问",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C",
+    "Rust"
+  ],
+  "deploy_type": "依赖库 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-17T08:02:28Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/tursodatabase/libsql/zip/refs/heads/main",
+  "release": {
+    "tag": "libsql-server-v0.24.32",
+    "name": "libsql-server-v0.24.32",
+    "published": "2025-02-14T12:59:35Z",
+    "url": "https://github.com/tursodatabase/libsql/releases/tag/libsql-server-v0.24.32"
+  },
+  "assets": [
+    {
+      "name": "libsql-server-aarch64-apple-darwin.tar.xz",
+      "size": 9324600,
+      "url": "https://github.com/tursodatabase/libsql/releases/download/libsql-server-v0.24.32/libsql-server-aarch64-apple-darwin.tar.xz"
+    },
+    {
+      "name": "libsql-server-x86_64-apple-darwin.tar.xz",
+      "size": 10544688,
+      "url": "https://github.com/tursodatabase/libsql/releases/download/libsql-server-v0.24.32/libsql-server-x86_64-apple-darwin.tar.xz"
+    },
+    {
+      "name": "libsql-server-aarch64-unknown-linux-gnu.tar.xz",
+      "size": 10313860,
+      "url": "https://github.com/tursodatabase/libsql/releases/download/libsql-server-v0.24.32/libsql-server-aarch64-unknown-linux-gnu.tar.xz"
+    },
+    {
+      "name": "libsql-server-x86_64-unknown-linux-gnu.tar.xz",
+      "size": 10990112,
+      "url": "https://github.com/tursodatabase/libsql/releases/download/libsql-server-v0.24.32/libsql-server-x86_64-unknown-linux-gnu.tar.xz"
+    },
+    {
+      "name": "source.tar.gz",
+      "size": 29633672,
+      "url": "https://github.com/tursodatabase/libsql/releases/download/libsql-server-v0.24.32/source.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

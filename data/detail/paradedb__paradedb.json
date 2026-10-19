@@ -1,0 +1,62 @@
+{
+  "repo": "paradedb/paradedb",
+  "slug": "paradedb__paradedb",
+  "name": "paradedb",
+  "note_zh": "一个 Postgres 兼顾全文检索与向量",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "PostgreSQL"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:57:34Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/paradedb/paradedb/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.26.2",
+    "name": "v0.26.2",
+    "published": "2026-10-16T02:34:15Z",
+    "url": "https://github.com/paradedb/paradedb/releases/tag/v0.26.2"
+  },
+  "assets": [
+    {
+      "name": "pg_search@15--0.26.2.arm64_tahoe.pkg",
+      "size": 74724190,
+      "url": "https://github.com/paradedb/paradedb/releases/download/v0.26.2/pg_search%4015--0.26.2.arm64_tahoe.pkg"
+    },
+    {
+      "name": "pg_search@18--0.26.2.arm64_tahoe.pkg",
+      "size": 74735772,
+      "url": "https://github.com/paradedb/paradedb/releases/download/v0.26.2/pg_search%4018--0.26.2.arm64_tahoe.pkg"
+    },
+    {
+      "name": "postgresql-17-pg-search_0.26.2-1PARADEDB-noble_arm64.deb",
+      "size": 50968868,
+      "url": "https://github.com/paradedb/paradedb/releases/download/v0.26.2/postgresql-17-pg-search_0.26.2-1PARADEDB-noble_arm64.deb"
+    },
+    {
+      "name": "postgresql-15-pg-search_0.26.2-1PARADEDB-noble_arm64.deb",
+      "size": 50983444,
+      "url": "https://github.com/paradedb/paradedb/releases/download/v0.26.2/postgresql-15-pg-search_0.26.2-1PARADEDB-noble_arm64.deb"
+    },
+    {
+      "name": "pg_search.schema.sql",
+      "size": 360879,
+      "url": "https://github.com/paradedb/paradedb/releases/download/v0.26.2/pg_search.schema.sql"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

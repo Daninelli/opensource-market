@@ -1,0 +1,31 @@
+{
+  "repo": "titanwings/distilly",
+  "slug": "titanwings__distilly",
+  "name": "distilly",
+  "note_zh": "把专家思路蒸馏成可复用 Agent 技能",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Markdown"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-13T05:57:17Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "dot-skill",
+  "download_url": "https://codeload.github.com/titanwings/distilly/zip/refs/heads/dot-skill",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

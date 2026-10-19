@@ -1,0 +1,76 @@
+{
+  "repo": "ClementTsang/bottom",
+  "slug": "ClementTsang__bottom",
+  "name": "bottom",
+  "note_zh": "跨平台图形化进程与系统监控终端",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-04T01:33:55Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/ClementTsang/bottom/zip/refs/heads/main",
+  "release": {
+    "tag": "0.14.9",
+    "name": "0.14.9 Release",
+    "published": "2026-08-27T08:24:00Z",
+    "url": "https://github.com/ClementTsang/bottom/releases/tag/0.14.9"
+  },
+  "assets": [
+    {
+      "name": "bottom_aarch64-pc-windows-msvc.zip",
+      "size": 1720657,
+      "url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_aarch64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "bottom_aarch64-apple-darwin.tar.gz",
+      "size": 1755361,
+      "url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "bottom_i686-pc-windows-msvc.zip",
+      "size": 1774635,
+      "url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_i686-pc-windows-msvc.zip"
+    },
+    {
+      "name": "bottom_x86_64-apple-darwin.tar.gz",
+      "size": 1901583,
+      "url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "bottom_0.14.9-1_arm64.deb",
+      "size": 1293500,
+      "url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_0.14.9-1_arm64.deb"
+    },
+    {
+      "name": "bottom-musl_0.14.9-1_arm64.deb",
+      "size": 1321404,
+      "url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom-musl_0.14.9-1_arm64.deb"
+    },
+    {
+      "name": "bottom_aarch64-linux-android.tar.gz",
+      "size": 1736275,
+      "url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_aarch64-linux-android.tar.gz"
+    },
+    {
+      "name": "bottom_x86_64-unknown-netbsd.tar.gz",
+      "size": 1989420,
+      "url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64-unknown-netbsd.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

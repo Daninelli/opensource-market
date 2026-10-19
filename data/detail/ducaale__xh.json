@@ -1,0 +1,61 @@
+{
+  "repo": "ducaale/xh",
+  "slug": "ducaale__xh",
+  "name": "xh",
+  "note_zh": "友好快速的 HTTP 请求命令行工具",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-18T10:54:45Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/ducaale/xh/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.26.2",
+    "name": "v0.26.2",
+    "published": "2026-07-26T14:22:45Z",
+    "url": "https://github.com/ducaale/xh/releases/tag/v0.26.2"
+  },
+  "assets": [
+    {
+      "name": "xh-v0.26.2-aarch64-apple-darwin.tar.gz",
+      "size": 4144757,
+      "url": "https://github.com/ducaale/xh/releases/download/v0.26.2/xh-v0.26.2-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "xh-v0.26.2-x86_64-pc-windows-msvc.zip",
+      "size": 4304140,
+      "url": "https://github.com/ducaale/xh/releases/download/v0.26.2/xh-v0.26.2-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "xh-v0.26.2-x86_64-apple-darwin.tar.gz",
+      "size": 4413500,
+      "url": "https://github.com/ducaale/xh/releases/download/v0.26.2/xh-v0.26.2-x86_64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "xh-v0.26.2-arm-unknown-linux-gnueabihf.tar.gz",
+      "size": 3925436,
+      "url": "https://github.com/ducaale/xh/releases/download/v0.26.2/xh-v0.26.2-arm-unknown-linux-gnueabihf.tar.gz"
+    },
+    {
+      "name": "xh-v0.26.2-aarch64-unknown-linux-musl.tar.gz",
+      "size": 4220425,
+      "url": "https://github.com/ducaale/xh/releases/download/v0.26.2/xh-v0.26.2-aarch64-unknown-linux-musl.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

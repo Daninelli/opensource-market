@@ -1,0 +1,47 @@
+{
+  "repo": "Kunzisoft/KeePassDX",
+  "slug": "Kunzisoft__KeePassDX",
+  "name": "KeePassDX",
+  "note_zh": "安卓上的 KeePass 密码管理器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Kotlin",
+    "Android"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-17T20:51:31Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/Kunzisoft/KeePassDX/zip/refs/heads/master",
+  "release": {
+    "tag": "4.5.6",
+    "name": "🦋 Beautiful Butterfly",
+    "published": "2026-10-17T20:53:59Z",
+    "url": "https://github.com/Kunzisoft/KeePassDX/releases/tag/4.5.6"
+  },
+  "assets": [
+    {
+      "name": "KeePassDX-4.5.6-libre.apk",
+      "size": 16771674,
+      "url": "https://github.com/Kunzisoft/KeePassDX/releases/download/4.5.6/KeePassDX-4.5.6-libre.apk"
+    },
+    {
+      "name": "KeePassDX-4.5.6-free.apk",
+      "size": 16777534,
+      "url": "https://github.com/Kunzisoft/KeePassDX/releases/download/4.5.6/KeePassDX-4.5.6-free.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

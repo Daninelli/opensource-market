@@ -1,0 +1,61 @@
+{
+  "repo": "adnanh/webhook",
+  "slug": "adnanh__webhook",
+  "name": "webhook",
+  "note_zh": "轻量 webhook 服务，收到请求即执行脚本",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-09-04T18:02:57Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/adnanh/webhook/zip/refs/heads/master",
+  "release": {
+    "tag": "2.8.3",
+    "name": "webhook 2.8.3",
+    "published": "2026-02-12T22:46:54Z",
+    "url": "https://github.com/adnanh/webhook/releases/tag/2.8.3"
+  },
+  "assets": [
+    {
+      "name": "webhook-darwin-amd64.tar.gz",
+      "size": 7068153,
+      "url": "https://github.com/adnanh/webhook/releases/download/2.8.3/webhook-darwin-amd64.tar.gz"
+    },
+    {
+      "name": "webhook-linux-arm.tar.gz",
+      "size": 6617800,
+      "url": "https://github.com/adnanh/webhook/releases/download/2.8.3/webhook-linux-arm.tar.gz"
+    },
+    {
+      "name": "webhook-linux-arm64.tar.gz",
+      "size": 6670902,
+      "url": "https://github.com/adnanh/webhook/releases/download/2.8.3/webhook-linux-arm64.tar.gz"
+    },
+    {
+      "name": "webhook-openbsd-arm.tar.gz",
+      "size": 6524334,
+      "url": "https://github.com/adnanh/webhook/releases/download/2.8.3/webhook-openbsd-arm.tar.gz"
+    },
+    {
+      "name": "webhook-freebsd-arm.tar.gz",
+      "size": 6529162,
+      "url": "https://github.com/adnanh/webhook/releases/download/2.8.3/webhook-freebsd-arm.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

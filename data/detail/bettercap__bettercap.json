@@ -1,0 +1,51 @@
+{
+  "repo": "bettercap/bettercap",
+  "slug": "bettercap__bettercap",
+  "name": "bettercap",
+  "note_zh": "网络侦察与中间人攻击的瑞士军刀",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-08-13T13:47:49Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/bettercap/bettercap/zip/refs/heads/master",
+  "release": {
+    "tag": "v2.41.7",
+    "name": "v2.41.7",
+    "published": "2026-05-11T09:46:36Z",
+    "url": "https://github.com/bettercap/bettercap/releases/tag/v2.41.7"
+  },
+  "assets": [
+    {
+      "name": "bettercap_windows_amd64.zip",
+      "size": 23041685,
+      "url": "https://github.com/bettercap/bettercap/releases/download/v2.41.7/bettercap_windows_amd64.zip"
+    },
+    {
+      "name": "bettercap_darwin_arm64.zip",
+      "size": 23918095,
+      "url": "https://github.com/bettercap/bettercap/releases/download/v2.41.7/bettercap_darwin_arm64.zip"
+    },
+    {
+      "name": "bettercap_linux_amd64.zip",
+      "size": 27404814,
+      "url": "https://github.com/bettercap/bettercap/releases/download/v2.41.7/bettercap_linux_amd64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

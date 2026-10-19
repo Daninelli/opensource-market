@@ -1,0 +1,51 @@
+{
+  "repo": "bridgecrewio/checkov",
+  "slug": "bridgecrewio__checkov",
+  "name": "checkov",
+  "note_zh": "基础设施即代码的配置错误扫描",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "命令行 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T04:44:39Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/bridgecrewio/checkov/zip/refs/heads/main",
+  "release": {
+    "tag": "3.3.29",
+    "name": "3.3.29",
+    "published": "2026-10-13T23:03:17Z",
+    "url": "https://github.com/bridgecrewio/checkov/releases/tag/3.3.29"
+  },
+  "assets": [
+    {
+      "name": "checkov_darwin_X86_64.zip",
+      "size": 40807923,
+      "url": "https://github.com/bridgecrewio/checkov/releases/download/3.3.29/checkov_darwin_X86_64.zip"
+    },
+    {
+      "name": "checkov_windows_X86_64.zip",
+      "size": 52182277,
+      "url": "https://github.com/bridgecrewio/checkov/releases/download/3.3.29/checkov_windows_X86_64.zip"
+    },
+    {
+      "name": "checkov_linux_X86_64.zip",
+      "size": 68063860,
+      "url": "https://github.com/bridgecrewio/checkov/releases/download/3.3.29/checkov_linux_X86_64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,51 @@
+{
+  "repo": "ChatLab/ChatLab",
+  "slug": "ChatLab__ChatLab",
+  "name": "ChatLab",
+  "note_zh": "本地优先的 AI 聊天记录分析工具",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-12T12:50:43Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/ChatLab/ChatLab/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.37.5",
+    "name": "ChatLab v0.37.5",
+    "published": "2026-09-28T09:27:34Z",
+    "url": "https://github.com/ChatLab/ChatLab/releases/tag/v0.37.5"
+  },
+  "assets": [
+    {
+      "name": "ChatLab-0.37.5-setup.exe",
+      "size": 128992416,
+      "url": "https://github.com/ChatLab/ChatLab/releases/download/v0.37.5/ChatLab-0.37.5-setup.exe"
+    },
+    {
+      "name": "ChatLab-0.37.5-arm64.dmg",
+      "size": 166443836,
+      "url": "https://github.com/ChatLab/ChatLab/releases/download/v0.37.5/ChatLab-0.37.5-arm64.dmg"
+    },
+    {
+      "name": "ChatLab-0.37.5-arm64.zip",
+      "size": 160212152,
+      "url": "https://github.com/ChatLab/ChatLab/releases/download/v0.37.5/ChatLab-0.37.5-arm64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

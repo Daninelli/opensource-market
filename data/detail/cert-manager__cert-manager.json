@@ -1,0 +1,46 @@
+{
+  "repo": "cert-manager/cert-manager",
+  "slug": "cert-manager__cert-manager",
+  "name": "cert-manager",
+  "note_zh": "Kubernetes 里自动签发管理 TLS 证书",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:29:43Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/cert-manager/cert-manager/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.21.2",
+    "name": "v1.21.2",
+    "published": "2026-09-11T07:51:11Z",
+    "url": "https://github.com/cert-manager/cert-manager/releases/tag/v1.21.2"
+  },
+  "assets": [
+    {
+      "name": "cert-manager.crds.yaml",
+      "size": 997110,
+      "url": "https://github.com/cert-manager/cert-manager/releases/download/v1.21.2/cert-manager.crds.yaml"
+    },
+    {
+      "name": "cert-manager.yaml",
+      "size": 1034400,
+      "url": "https://github.com/cert-manager/cert-manager/releases/download/v1.21.2/cert-manager.yaml"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

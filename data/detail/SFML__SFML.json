@@ -1,0 +1,66 @@
+{
+  "repo": "SFML/SFML",
+  "slug": "SFML__SFML",
+  "name": "SFML",
+  "note_zh": "简单快速的多媒体与游戏开发库",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏引擎",
+  "subcategory_slug": "engine",
+  "license": "Zlib",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-16T17:54:07Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/SFML/SFML/zip/refs/heads/master",
+  "release": {
+    "tag": "3.1.0",
+    "name": "SFML 3.1.0",
+    "published": "2026-04-16T14:22:15Z",
+    "url": "https://github.com/SFML/SFML/releases/tag/3.1.0"
+  },
+  "assets": [
+    {
+      "name": "SFML-3.1.0-macOS-clang-arm64.tar.gz",
+      "size": 35073047,
+      "url": "https://github.com/SFML/SFML/releases/download/3.1.0/SFML-3.1.0-macOS-clang-arm64.tar.gz"
+    },
+    {
+      "name": "SFML-3.1.0-macOS-clang-64-bit.tar.gz",
+      "size": 36309978,
+      "url": "https://github.com/SFML/SFML/releases/download/3.1.0/SFML-3.1.0-macOS-clang-64-bit.tar.gz"
+    },
+    {
+      "name": "SFML-3.1.0-windows-vc17-32-bit.zip",
+      "size": 64745420,
+      "url": "https://github.com/SFML/SFML/releases/download/3.1.0/SFML-3.1.0-windows-vc17-32-bit.zip"
+    },
+    {
+      "name": "SFML-3.1.0-windows-vc17-64-bit.zip",
+      "size": 71671863,
+      "url": "https://github.com/SFML/SFML/releases/download/3.1.0/SFML-3.1.0-windows-vc17-64-bit.zip"
+    },
+    {
+      "name": "SFML-3.1.0-linux-gcc-64-bit.tar.gz",
+      "size": 19316591,
+      "url": "https://github.com/SFML/SFML/releases/download/3.1.0/SFML-3.1.0-linux-gcc-64-bit.tar.gz"
+    },
+    {
+      "name": "SFML-3.1.0-doc.zip",
+      "size": 2734202,
+      "url": "https://github.com/SFML/SFML/releases/download/3.1.0/SFML-3.1.0-doc.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

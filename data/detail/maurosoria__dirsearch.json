@@ -1,0 +1,66 @@
+{
+  "repo": "maurosoria/dirsearch",
+  "slug": "maurosoria__dirsearch",
+  "name": "dirsearch",
+  "note_zh": "Web 路径爆破扫描器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "命令行",
+  "platform": "github",
+  "updated_at": "2026-10-18T08:48:10Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/maurosoria/dirsearch/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.5.0",
+    "name": "dirsearch v0.5.0",
+    "published": "2026-08-14T02:25:15Z",
+    "url": "https://github.com/maurosoria/dirsearch/releases/tag/v0.5.0"
+  },
+  "assets": [
+    {
+      "name": "dirsearch-v0.5.0-macos-silicon-async",
+      "size": 22182080,
+      "url": "https://github.com/maurosoria/dirsearch/releases/download/v0.5.0/dirsearch-v0.5.0-macos-silicon-async"
+    },
+    {
+      "name": "dirsearch-v0.5.0-macos-silicon-threaded",
+      "size": 22182592,
+      "url": "https://github.com/maurosoria/dirsearch/releases/download/v0.5.0/dirsearch-v0.5.0-macos-silicon-threaded"
+    },
+    {
+      "name": "dirsearch-v0.5.0-windows-x64-threaded.exe",
+      "size": 29341810,
+      "url": "https://github.com/maurosoria/dirsearch/releases/download/v0.5.0/dirsearch-v0.5.0-windows-x64-threaded.exe"
+    },
+    {
+      "name": "dirsearch-v0.5.0-windows-x64-async.exe",
+      "size": 29379523,
+      "url": "https://github.com/maurosoria/dirsearch/releases/download/v0.5.0/dirsearch-v0.5.0-windows-x64-async.exe"
+    },
+    {
+      "name": "dirsearch-v0.5.0-linux-x64-threaded",
+      "size": 50655256,
+      "url": "https://github.com/maurosoria/dirsearch/releases/download/v0.5.0/dirsearch-v0.5.0-linux-x64-threaded"
+    },
+    {
+      "name": "dirsearch-v0.5.0-linux-x64-async",
+      "size": 50724752,
+      "url": "https://github.com/maurosoria/dirsearch/releases/download/v0.5.0/dirsearch-v0.5.0-linux-x64-async"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

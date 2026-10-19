@@ -1,0 +1,61 @@
+{
+  "repo": "alexellis/k3sup",
+  "slug": "alexellis__k3sup",
+  "name": "k3sup",
+  "note_zh": "60 秒内通过 SSH 引导 K3s 集群",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-09-03T06:39:49Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/alexellis/k3sup/zip/refs/heads/master",
+  "release": {
+    "tag": "0.13.13",
+    "name": "Bump go modules and GitHub Actions to Go 1.26",
+    "published": "2026-09-03T06:39:49Z",
+    "url": "https://github.com/alexellis/k3sup/releases/tag/0.13.13"
+  },
+  "assets": [
+    {
+      "name": "k3sup-darwin-arm64",
+      "size": 8205538,
+      "url": "https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-darwin-arm64"
+    },
+    {
+      "name": "k3sup-darwin",
+      "size": 8834528,
+      "url": "https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-darwin"
+    },
+    {
+      "name": "k3sup.exe",
+      "size": 9026048,
+      "url": "https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup.exe"
+    },
+    {
+      "name": "k3sup-arm64",
+      "size": 8061090,
+      "url": "https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-arm64"
+    },
+    {
+      "name": "k3sup-armhf",
+      "size": 8388770,
+      "url": "https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-armhf"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

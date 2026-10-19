@@ -1,0 +1,61 @@
+{
+  "repo": "GoogleContainerTools/skaffold",
+  "slug": "GoogleContainerTools__skaffold",
+  "name": "skaffold",
+  "note_zh": "Kubernetes 开发内循环，自动构建部署",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:45:36Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/GoogleContainerTools/skaffold/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.25.0",
+    "name": "v2.25.0 Release",
+    "published": "2026-09-16T20:24:33Z",
+    "url": "https://github.com/GoogleContainerTools/skaffold/releases/tag/v2.25.0"
+  },
+  "assets": [
+    {
+      "name": "skaffold-windows-amd64.exe",
+      "size": 119910040,
+      "url": "https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-windows-amd64.exe"
+    },
+    {
+      "name": "skaffold-darwin-arm64",
+      "size": 127633744,
+      "url": "https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-darwin-arm64"
+    },
+    {
+      "name": "skaffold-darwin-amd64",
+      "size": 136000752,
+      "url": "https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-darwin-amd64"
+    },
+    {
+      "name": "skaffold-linux-arm64",
+      "size": 119000832,
+      "url": "https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-linux-arm64"
+    },
+    {
+      "name": "skaffold-linux-amd64",
+      "size": 127728552,
+      "url": "https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-linux-amd64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

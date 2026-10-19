@@ -1,0 +1,67 @@
+{
+  "repo": "onyx-dot-app/onyx",
+  "slug": "onyx-dot-app__onyx",
+  "name": "onyx",
+  "note_zh": "开源 AI 平台，接企业数据做智能问答",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:50:21Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/onyx-dot-app/onyx/zip/refs/heads/main",
+  "release": {
+    "tag": "v4.9.2",
+    "name": "v4.9.2",
+    "published": "2026-10-15T22:24:53Z",
+    "url": "https://github.com/onyx-dot-app/onyx/releases/tag/v4.9.2"
+  },
+  "assets": [
+    {
+      "name": "Onyx_arm64.exe",
+      "size": 3752264,
+      "url": "https://github.com/onyx-dot-app/onyx/releases/download/v4.9.2/Onyx_arm64.exe"
+    },
+    {
+      "name": "Onyx_x64.exe",
+      "size": 4105804,
+      "url": "https://github.com/onyx-dot-app/onyx/releases/download/v4.9.2/Onyx_x64.exe"
+    },
+    {
+      "name": "Onyx_universal.dmg",
+      "size": 12431342,
+      "url": "https://github.com/onyx-dot-app/onyx/releases/download/v4.9.2/Onyx_universal.dmg"
+    },
+    {
+      "name": "Onyx_amd64.deb",
+      "size": 6803652,
+      "url": "https://github.com/onyx-dot-app/onyx/releases/download/v4.9.2/Onyx_amd64.deb"
+    },
+    {
+      "name": "Onyx_x86_64.rpm",
+      "size": 6806974,
+      "url": "https://github.com/onyx-dot-app/onyx/releases/download/v4.9.2/Onyx_x86_64.rpm"
+    },
+    {
+      "name": "Onyx_universal.app.tar.gz",
+      "size": 12409149,
+      "url": "https://github.com/onyx-dot-app/onyx/releases/download/v4.9.2/Onyx_universal.app.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

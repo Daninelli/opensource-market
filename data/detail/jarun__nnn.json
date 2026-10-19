@@ -1,0 +1,46 @@
+{
+  "repo": "jarun/nnn",
+  "slug": "jarun__nnn",
+  "name": "nnn",
+  "note_zh": "极快的终端文件管理器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "文件管理与网盘",
+  "subcategory_slug": "file",
+  "license": "BSD-2-Clause",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-07T00:00:32Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/jarun/nnn/zip/refs/heads/master",
+  "release": {
+    "tag": "v5.3",
+    "name": "nnn v5.3 Mai Tai",
+    "published": "2026-08-15T14:12:16Z",
+    "url": "https://github.com/jarun/nnn/releases/tag/v5.3"
+  },
+  "assets": [
+    {
+      "name": "nnn-musl-static-5.3.x86_64.tar.gz",
+      "size": 209447,
+      "url": "https://github.com/jarun/nnn/releases/download/v5.3/nnn-musl-static-5.3.x86_64.tar.gz"
+    },
+    {
+      "name": "nnn-musl-emoji-static-5.3.x86_64.tar.gz",
+      "size": 232392,
+      "url": "https://github.com/jarun/nnn/releases/download/v5.3/nnn-musl-emoji-static-5.3.x86_64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

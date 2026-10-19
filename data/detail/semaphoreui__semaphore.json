@@ -1,0 +1,77 @@
+{
+  "repo": "semaphoreui/semaphore",
+  "slug": "semaphoreui__semaphore",
+  "name": "semaphore",
+  "note_zh": "Ansible 与 Terraform 的现代化 Web 界面",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Vue"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:38:12Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/semaphoreui/semaphore/zip/refs/heads/develop",
+  "release": {
+    "tag": "v2.19.16",
+    "name": "v2.19.16",
+    "published": "2026-10-07T10:01:55Z",
+    "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.19.16"
+  },
+  "assets": [
+    {
+      "name": "semaphore_community_2.19.16_windows_arm64.zip",
+      "size": 17125386,
+      "url": "https://github.com/semaphoreui/semaphore/releases/download/v2.19.16/semaphore_community_2.19.16_windows_arm64.zip"
+    },
+    {
+      "name": "semaphore_community_2.19.16_darwin_arm64.tar.gz",
+      "size": 17553617,
+      "url": "https://github.com/semaphoreui/semaphore/releases/download/v2.19.16/semaphore_community_2.19.16_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "semaphore_community_2.19.16_windows_386.zip",
+      "size": 17630291,
+      "url": "https://github.com/semaphoreui/semaphore/releases/download/v2.19.16/semaphore_community_2.19.16_windows_386.zip"
+    },
+    {
+      "name": "semaphore_community_2.19.16_darwin_amd64.tar.gz",
+      "size": 17919832,
+      "url": "https://github.com/semaphoreui/semaphore/releases/download/v2.19.16/semaphore_community_2.19.16_darwin_amd64.tar.gz"
+    },
+    {
+      "name": "semaphore_community_2.19.16_linux_arm64.tar.gz",
+      "size": 17051281,
+      "url": "https://github.com/semaphoreui/semaphore/releases/download/v2.19.16/semaphore_community_2.19.16_linux_arm64.tar.gz"
+    },
+    {
+      "name": "semaphore_community_2.19.16_linux_ppc64le.tar.gz",
+      "size": 17077905,
+      "url": "https://github.com/semaphoreui/semaphore/releases/download/v2.19.16/semaphore_community_2.19.16_linux_ppc64le.tar.gz"
+    },
+    {
+      "name": "semaphore_community_2.19.16_freebsd_arm64.tar.gz",
+      "size": 17000737,
+      "url": "https://github.com/semaphoreui/semaphore/releases/download/v2.19.16/semaphore_community_2.19.16_freebsd_arm64.tar.gz"
+    },
+    {
+      "name": "semaphore_community_2.19.16_freebsd_amd64.tar.gz",
+      "size": 17757762,
+      "url": "https://github.com/semaphoreui/semaphore/releases/download/v2.19.16/semaphore_community_2.19.16_freebsd_amd64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

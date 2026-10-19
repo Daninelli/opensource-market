@@ -1,0 +1,67 @@
+{
+  "repo": "electerm/electerm",
+  "slug": "electerm__electerm",
+  "name": "electerm",
+  "note_zh": "终端与 SSH/SFTP 一体化的跨平台客户端",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-17T12:13:58Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/electerm/electerm/zip/refs/heads/master",
+  "release": {
+    "tag": "v5.6.10",
+    "name": "v5.6.10",
+    "published": "2026-10-15T09:51:13Z",
+    "url": "https://github.com/electerm/electerm/releases/tag/v5.6.10"
+  },
+  "assets": [
+    {
+      "name": "electerm-5.6.10-mac10-x64.dmg",
+      "size": 92828357,
+      "url": "https://github.com/electerm/electerm/releases/download/v5.6.10/electerm-5.6.10-mac10-x64.dmg"
+    },
+    {
+      "name": "electerm-5.6.10-win7.tar.gz",
+      "size": 97789285,
+      "url": "https://github.com/electerm/electerm/releases/download/v5.6.10/electerm-5.6.10-win7.tar.gz"
+    },
+    {
+      "name": "electerm-5.6.10-win-arm64-installer.exe",
+      "size": 113974812,
+      "url": "https://github.com/electerm/electerm/releases/download/v5.6.10/electerm-5.6.10-win-arm64-installer.exe"
+    },
+    {
+      "name": "electerm-5.6.10-mac-arm64.dmg",
+      "size": 123345276,
+      "url": "https://github.com/electerm/electerm/releases/download/v5.6.10/electerm-5.6.10-mac-arm64.dmg"
+    },
+    {
+      "name": "electerm-5.6.10-linux-armv7l-legacy.rpm",
+      "size": 60399468,
+      "url": "https://github.com/electerm/electerm/releases/download/v5.6.10/electerm-5.6.10-linux-armv7l-legacy.rpm"
+    },
+    {
+      "name": "electerm-5.6.10-linux-armv7l.rpm",
+      "size": 60477401,
+      "url": "https://github.com/electerm/electerm/releases/download/v5.6.10/electerm-5.6.10-linux-armv7l.rpm"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,42 @@
+{
+  "repo": "streamaserver/streama",
+  "slug": "streamaserver__streama",
+  "name": "streama",
+  "note_zh": "自托管流媒体服务端，像私人 Netflix",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Groovy",
+    "Java"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-08-09T20:24:33Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/streamaserver/streama/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.11.0",
+    "name": "v1.11.0",
+    "published": "2026-01-02T20:50:45Z",
+    "url": "https://github.com/streamaserver/streama/releases/tag/v1.11.0"
+  },
+  "assets": [
+    {
+      "name": "streama-1.11.0.jar",
+      "size": 105009427,
+      "url": "https://github.com/streamaserver/streama/releases/download/v1.11.0/streama-1.11.0.jar"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

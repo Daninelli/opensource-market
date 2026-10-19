@@ -1,0 +1,46 @@
+{
+  "repo": "PDFMathTranslate/PDFMathTranslate",
+  "slug": "PDFMathTranslate__PDFMathTranslate",
+  "name": "PDFMathTranslate",
+  "note_zh": "PDF 学术论文翻译，保留原排版",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "Docker 部署 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T17:03:34Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/PDFMathTranslate/PDFMathTranslate/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.9.11",
+    "name": "v1.9.11",
+    "published": "2025-07-11T08:37:31Z",
+    "url": "https://github.com/PDFMathTranslate/PDFMathTranslate/releases/tag/v1.9.11"
+  },
+  "assets": [
+    {
+      "name": "pdf2zh-v1.9.11-win64.zip",
+      "size": 323026518,
+      "url": "https://github.com/PDFMathTranslate/PDFMathTranslate/releases/download/v1.9.11/pdf2zh-v1.9.11-win64.zip"
+    },
+    {
+      "name": "pdf2zh-v1.9.11-with-assets-win64.zip",
+      "size": 546221784,
+      "url": "https://github.com/PDFMathTranslate/PDFMathTranslate/releases/download/v1.9.11/pdf2zh-v1.9.11-with-assets-win64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

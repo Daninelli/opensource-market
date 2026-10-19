@@ -1,0 +1,52 @@
+{
+  "repo": "SoftEtherVPN/SoftEtherVPN",
+  "slug": "SoftEtherVPN__SoftEtherVPN",
+  "name": "SoftEtherVPN",
+  "note_zh": "跨平台多协议 VPN 服务端",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C",
+    "C++"
+  ],
+  "deploy_type": "二进制 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-06T21:17:25Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/SoftEtherVPN/SoftEtherVPN/zip/refs/heads/master",
+  "release": {
+    "tag": "5.2.5188",
+    "name": "5.2.5188",
+    "published": "2025-07-18T12:28:02Z",
+    "url": "https://github.com/SoftEtherVPN/SoftEtherVPN/releases/tag/5.2.5188"
+  },
+  "assets": [
+    {
+      "name": "softether-vpnclient-5.02.5187.x86.exe",
+      "size": 46536192,
+      "url": "https://github.com/SoftEtherVPN/SoftEtherVPN/releases/download/5.2.5188/softether-vpnclient-5.02.5187.x86.exe"
+    },
+    {
+      "name": "softether-vpnserver_vpnbridge-5.02.5187.x86.exe",
+      "size": 51257344,
+      "url": "https://github.com/SoftEtherVPN/SoftEtherVPN/releases/download/5.2.5188/softether-vpnserver_vpnbridge-5.02.5187.x86.exe"
+    },
+    {
+      "name": "SoftEtherVPN-5.2.5188.tar.xz",
+      "size": 12305536,
+      "url": "https://github.com/SoftEtherVPN/SoftEtherVPN/releases/download/5.2.5188/SoftEtherVPN-5.2.5188.tar.xz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

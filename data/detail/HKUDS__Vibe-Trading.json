@@ -1,0 +1,31 @@
+{
+  "repo": "HKUDS/Vibe-Trading",
+  "slug": "HKUDS__Vibe-Trading",
+  "name": "Vibe-Trading",
+  "note_zh": "个人 AI 交易代理，自动分析行情与策略",
+  "category": "金融",
+  "category_slug": "finance",
+  "subcategory": "投资管理",
+  "subcategory_slug": "investment",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "LLM"
+  ],
+  "deploy_type": "源码 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:43:11Z",
+  "added_at": "2026-10-18T00:03:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/HKUDS/Vibe-Trading/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}
