@@ -1,0 +1,31 @@
+{
+  "repo": "volcengine/OpenViking",
+  "slug": "volcengine__OpenViking",
+  "name": "OpenViking",
+  "note_zh": "面向 AI 智能体的自进化上下文数据库",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Go"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:10:27Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/volcengine/OpenViking/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

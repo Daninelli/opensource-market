@@ -1,0 +1,30 @@
+{
+  "repo": "skypjack/entt",
+  "slug": "skypjack__entt",
+  "name": "entt",
+  "note_zh": "现代 C++ 实体组件系统，游戏架构基石",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏引擎",
+  "subcategory_slug": "engine",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T13:01:56Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/skypjack/entt/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

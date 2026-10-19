@@ -1,0 +1,47 @@
+{
+  "repo": "T8RIN/ImageToolbox",
+  "slug": "T8RIN__ImageToolbox",
+  "name": "ImageToolbox",
+  "note_zh": "功能强大的安卓图像处理工具箱",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Kotlin",
+    "Android"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-19T01:31:53Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/T8RIN/ImageToolbox/zip/refs/heads/master",
+  "release": {
+    "tag": "4.2.0",
+    "name": "4.2.0",
+    "published": "2026-09-04T20:59:32Z",
+    "url": "https://github.com/T8RIN/ImageToolbox/releases/tag/4.2.0"
+  },
+  "assets": [
+    {
+      "name": "image-toolbox-4.2.0-foss-armeabi-v7a.apk",
+      "size": 99700122,
+      "url": "https://github.com/T8RIN/ImageToolbox/releases/download/4.2.0/image-toolbox-4.2.0-foss-armeabi-v7a.apk"
+    },
+    {
+      "name": "image-toolbox-4.2.0-foss-arm64-v8a.apk",
+      "size": 107826476,
+      "url": "https://github.com/T8RIN/ImageToolbox/releases/download/4.2.0/image-toolbox-4.2.0-foss-arm64-v8a.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

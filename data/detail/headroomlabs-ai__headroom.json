@@ -1,0 +1,67 @@
+{
+  "repo": "headroomlabs-ai/headroom",
+  "slug": "headroomlabs-ai__headroom",
+  "name": "headroom",
+  "note_zh": "给 AI 上下文瘦身，压缩工具输出与 RAG 片段",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Python"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-17T18:29:50Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/headroomlabs-ai/headroom/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.41.0",
+    "name": "Release v0.41.0",
+    "published": "2026-10-14T22:46:09Z",
+    "url": "https://github.com/headroomlabs-ai/headroom/releases/tag/v0.41.0"
+  },
+  "assets": [
+    {
+      "name": "headroom_ai-0.41.0-cp310-abi3-macosx_11_0_arm64.whl",
+      "size": 15471745,
+      "url": "https://github.com/headroomlabs-ai/headroom/releases/download/v0.41.0/headroom_ai-0.41.0-cp310-abi3-macosx_11_0_arm64.whl"
+    },
+    {
+      "name": "headroom_ai-0.41.0-cp310-abi3-macosx_10_12_x86_64.whl",
+      "size": 15480090,
+      "url": "https://github.com/headroomlabs-ai/headroom/releases/download/v0.41.0/headroom_ai-0.41.0-cp310-abi3-macosx_10_12_x86_64.whl"
+    },
+    {
+      "name": "headroom_ai-0.41.0-cp310-abi3-win_amd64.whl",
+      "size": 15589221,
+      "url": "https://github.com/headroomlabs-ai/headroom/releases/download/v0.41.0/headroom_ai-0.41.0-cp310-abi3-win_amd64.whl"
+    },
+    {
+      "name": "headroom_ai-0.41.0-cp310-abi3-manylinux_2_28_aarch64.whl",
+      "size": 15466560,
+      "url": "https://github.com/headroomlabs-ai/headroom/releases/download/v0.41.0/headroom_ai-0.41.0-cp310-abi3-manylinux_2_28_aarch64.whl"
+    },
+    {
+      "name": "headroom_ai-0.41.0-cp310-abi3-manylinux_2_28_x86_64.whl",
+      "size": 15642717,
+      "url": "https://github.com/headroomlabs-ai/headroom/releases/download/v0.41.0/headroom_ai-0.41.0-cp310-abi3-manylinux_2_28_x86_64.whl"
+    },
+    {
+      "name": "headroom_ai-0.41.0.tar.gz",
+      "size": 3336220,
+      "url": "https://github.com/headroomlabs-ai/headroom/releases/download/v0.41.0/headroom_ai-0.41.0.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

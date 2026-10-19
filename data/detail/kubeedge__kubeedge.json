@@ -1,0 +1,56 @@
+{
+  "repo": "kubeedge/kubeedge",
+  "slug": "kubeedge__kubeedge",
+  "name": "kubeedge",
+  "note_zh": "Kubernetes 原生边缘计算框架，纳管边缘节点",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "物联网",
+  "subcategory_slug": "iot",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T02:46:05Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/kubeedge/kubeedge/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.23.1",
+    "name": "KubeEdge v1.23.1 release",
+    "published": "2026-07-15T14:03:03Z",
+    "url": "https://github.com/kubeedge/kubeedge/releases/tag/v1.23.1"
+  },
+  "assets": [
+    {
+      "name": "keadm-v1.23.1-windows-amd64.tar.gz",
+      "size": 38219740,
+      "url": "https://github.com/kubeedge/kubeedge/releases/download/v1.23.1/keadm-v1.23.1-windows-amd64.tar.gz"
+    },
+    {
+      "name": "kubeedge-v1.23.1-windows-amd64.tar.gz",
+      "size": 55973605,
+      "url": "https://github.com/kubeedge/kubeedge/releases/download/v1.23.1/kubeedge-v1.23.1-windows-amd64.tar.gz"
+    },
+    {
+      "name": "edgesite-v1.23.1-linux-amd64.tar.gz",
+      "size": 18714903,
+      "url": "https://github.com/kubeedge/kubeedge/releases/download/v1.23.1/edgesite-v1.23.1-linux-amd64.tar.gz"
+    },
+    {
+      "name": "keadm-v1.23.1-linux-amd64.tar.gz",
+      "size": 34535658,
+      "url": "https://github.com/kubeedge/kubeedge/releases/download/v1.23.1/keadm-v1.23.1-linux-amd64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,61 @@
+{
+  "repo": "surrealdb/surrealdb",
+  "slug": "surrealdb__surrealdb",
+  "name": "surrealdb",
+  "note_zh": "文档图关系多模数据库，内置实时查询与权限",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:13:46Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/surrealdb/surrealdb/zip/refs/heads/main",
+  "release": {
+    "tag": "v3.3.4",
+    "name": "Release 3.3.4",
+    "published": "2026-10-19T09:14:03Z",
+    "url": "https://github.com/surrealdb/surrealdb/releases/tag/v3.3.4"
+  },
+  "assets": [
+    {
+      "name": "surreal-v3.3.4.darwin-arm64.tgz",
+      "size": 91843710,
+      "url": "https://github.com/surrealdb/surrealdb/releases/download/v3.3.4/surreal-v3.3.4.darwin-arm64.tgz"
+    },
+    {
+      "name": "surreal-v3.3.4.darwin-amd64.tgz",
+      "size": 102240575,
+      "url": "https://github.com/surrealdb/surrealdb/releases/download/v3.3.4/surreal-v3.3.4.darwin-amd64.tgz"
+    },
+    {
+      "name": "surreal-v3.3.4.windows-amd64.exe",
+      "size": 321555968,
+      "url": "https://github.com/surrealdb/surrealdb/releases/download/v3.3.4/surreal-v3.3.4.windows-amd64.exe"
+    },
+    {
+      "name": "surreal-v3.3.4.linux-arm64.tgz",
+      "size": 98086044,
+      "url": "https://github.com/surrealdb/surrealdb/releases/download/v3.3.4/surreal-v3.3.4.linux-arm64.tgz"
+    },
+    {
+      "name": "surreal-v3.3.4.linux-amd64.tgz",
+      "size": 105385846,
+      "url": "https://github.com/surrealdb/surrealdb/releases/download/v3.3.4/surreal-v3.3.4.linux-amd64.tgz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

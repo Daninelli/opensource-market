@@ -1,0 +1,31 @@
+{
+  "repo": "drawdb-io/drawdb",
+  "slug": "drawdb-io__drawdb",
+  "name": "drawdb",
+  "note_zh": "在线数据库 ER 图编辑器，可导出 SQL 建表语句",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "React"
+  ],
+  "deploy_type": "Docker 部署 / 前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-15T23:02:08Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/drawdb-io/drawdb/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

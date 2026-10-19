@@ -1,0 +1,52 @@
+{
+  "repo": "HIllya51/LunaTranslator",
+  "slug": "HIllya51__LunaTranslator",
+  "name": "LunaTranslator",
+  "note_zh": "视觉小说实时翻译器，支持文本提取与 OCR",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Qt"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T13:13:38Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/HIllya51/LunaTranslator/zip/refs/heads/main",
+  "release": {
+    "tag": "v12.1.2.12",
+    "name": "v12.1.2.12",
+    "published": "2026-10-19T13:13:39Z",
+    "url": "https://github.com/HIllya51/LunaTranslator/releases/tag/v12.1.2.12"
+  },
+  "assets": [
+    {
+      "name": "LunaTranslator_x86_winxp.zip",
+      "size": 50572676,
+      "url": "https://github.com/HIllya51/LunaTranslator/releases/download/v12.1.2.12/LunaTranslator_x86_winxp.zip"
+    },
+    {
+      "name": "LunaTranslator_x64_win7.zip",
+      "size": 53129419,
+      "url": "https://github.com/HIllya51/LunaTranslator/releases/download/v12.1.2.12/LunaTranslator_x64_win7.zip"
+    },
+    {
+      "name": "LunaTranslator_x64.zip",
+      "size": 66667416,
+      "url": "https://github.com/HIllya51/LunaTranslator/releases/download/v12.1.2.12/LunaTranslator_x64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

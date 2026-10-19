@@ -1,0 +1,47 @@
+{
+  "repo": "DIYgod/RSSHub-Radar",
+  "slug": "DIYgod__RSSHub-Radar",
+  "name": "RSSHub-Radar",
+  "note_zh": "自动发现网页 RSS 源并一键订阅的扩展",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "稍后读与收藏",
+  "subcategory_slug": "readlater",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "WebExtensions"
+  ],
+  "deploy_type": "浏览器扩展",
+  "platform": "github",
+  "updated_at": "2026-09-01T07:04:41Z",
+  "added_at": null,
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/DIYgod/RSSHub-Radar/zip/refs/heads/dev",
+  "release": {
+    "tag": "v2.2.0",
+    "name": "v2.2.0",
+    "published": "2026-02-11T13:05:56Z",
+    "url": "https://github.com/DIYgod/RSSHub-Radar/releases/tag/v2.2.0"
+  },
+  "assets": [
+    {
+      "name": "safari-mv3-prod.zip",
+      "size": 657581,
+      "url": "https://github.com/DIYgod/RSSHub-Radar/releases/download/v2.2.0/safari-mv3-prod.zip"
+    },
+    {
+      "name": "chrome-mv3-prod.zip",
+      "size": 1005603,
+      "url": "https://github.com/DIYgod/RSSHub-Radar/releases/download/v2.2.0/chrome-mv3-prod.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

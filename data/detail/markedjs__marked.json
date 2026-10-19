@@ -1,0 +1,31 @@
+{
+  "repo": "markedjs/marked",
+  "slug": "markedjs__marked",
+  "name": "marked",
+  "note_zh": "高性能 Markdown 解析与编译库，生态最广泛",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-14T00:18:28Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/markedjs/marked/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,66 @@
+{
+  "repo": "Pumpkin-MC/Pumpkin",
+  "slug": "Pumpkin-MC__Pumpkin",
+  "name": "Pumpkin",
+  "note_zh": "Rust 编写的高效 Minecraft 服务端",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏引擎",
+  "subcategory_slug": "engine",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "二进制 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:56:53Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/Pumpkin-MC/Pumpkin/zip/refs/heads/master",
+  "release": {
+    "tag": "0.2.0+26.3-26.51",
+    "name": "Release 0.2.0+26.3-26.51",
+    "published": "2026-09-20T12:22:14Z",
+    "url": "https://github.com/Pumpkin-MC/Pumpkin/releases/tag/0.2.0%2B26.3-26.51"
+  },
+  "assets": [
+    {
+      "name": "pumpkin-ARM64-macOS",
+      "size": 103638160,
+      "url": "https://github.com/Pumpkin-MC/Pumpkin/releases/download/0.2.0%2B26.3-26.51/pumpkin-ARM64-macOS"
+    },
+    {
+      "name": "pumpkin-ARM64-Windows.exe",
+      "size": 105938240,
+      "url": "https://github.com/Pumpkin-MC/Pumpkin/releases/download/0.2.0%2B26.3-26.51/pumpkin-ARM64-Windows.exe"
+    },
+    {
+      "name": "pumpkin-X64-Windows.exe",
+      "size": 123150648,
+      "url": "https://github.com/Pumpkin-MC/Pumpkin/releases/download/0.2.0%2B26.3-26.51/pumpkin-X64-Windows.exe"
+    },
+    {
+      "name": "pumpkin-ARM64-Linux-musl",
+      "size": 110910240,
+      "url": "https://github.com/Pumpkin-MC/Pumpkin/releases/download/0.2.0%2B26.3-26.51/pumpkin-ARM64-Linux-musl"
+    },
+    {
+      "name": "pumpkin-ARM64-Linux",
+      "size": 120392024,
+      "url": "https://github.com/Pumpkin-MC/Pumpkin/releases/download/0.2.0%2B26.3-26.51/pumpkin-ARM64-Linux"
+    },
+    {
+      "name": "pumpkin-aarch64-android",
+      "size": 122009152,
+      "url": "https://github.com/Pumpkin-MC/Pumpkin/releases/download/0.2.0%2B26.3-26.51/pumpkin-aarch64-android"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,31 @@
+{
+  "repo": "Infisical/infisical",
+  "slug": "Infisical__infisical",
+  "name": "infisical",
+  "note_zh": "开源密钥与证书管理平台，团队级凭据下发",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Go"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:04:42Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Infisical/infisical/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

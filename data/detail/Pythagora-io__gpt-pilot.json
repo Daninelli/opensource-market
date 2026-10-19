@@ -1,0 +1,31 @@
+{
+  "repo": "Pythagora-io/gpt-pilot",
+  "slug": "Pythagora-io__gpt-pilot",
+  "name": "gpt-pilot",
+  "note_zh": "从需求到可运行代码的 AI 全栈开发代理",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "TypeScript"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-06-18T18:38:25Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Pythagora-io/gpt-pilot/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

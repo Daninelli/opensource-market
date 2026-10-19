@@ -1,0 +1,42 @@
+{
+  "repo": "opendataloader-project/opendataloader-pdf",
+  "slug": "opendataloader-project__opendataloader-pdf",
+  "name": "opendataloader-pdf",
+  "note_zh": "把 PDF 解析成 AI 可用结构化数据，含无障碍标注",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "Python"
+  ],
+  "deploy_type": "依赖库 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T04:38:50Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/opendataloader-project/opendataloader-pdf/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.5.13",
+    "name": "Release v2.5.13",
+    "published": "2026-10-13T03:48:22Z",
+    "url": "https://github.com/opendataloader-project/opendataloader-pdf/releases/tag/v2.5.13"
+  },
+  "assets": [
+    {
+      "name": "opendataloader-pdf-cli-2.5.13.zip",
+      "size": 22586355,
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf/releases/download/v2.5.13/opendataloader-pdf-cli-2.5.13.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

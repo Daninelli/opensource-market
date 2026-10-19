@@ -1,0 +1,66 @@
+{
+  "repo": "gitleaks/gitleaks",
+  "slug": "gitleaks__gitleaks",
+  "name": "gitleaks",
+  "note_zh": "扫描代码库与提交历史中的密钥泄露",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-09-30T04:14:02Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/gitleaks/gitleaks/zip/refs/heads/master",
+  "release": {
+    "tag": "v8.30.1",
+    "name": "v8.30.1",
+    "published": "2026-03-21T02:17:58Z",
+    "url": "https://github.com/gitleaks/gitleaks/releases/tag/v8.30.1"
+  },
+  "assets": [
+    {
+      "name": "gitleaks_8.30.1_windows_arm64.zip",
+      "size": 7701820,
+      "url": "https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_windows_arm64.zip"
+    },
+    {
+      "name": "gitleaks_8.30.1_darwin_arm64.tar.gz",
+      "size": 7897593,
+      "url": "https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "gitleaks_8.30.1_windows_x32.zip",
+      "size": 7912746,
+      "url": "https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_windows_x32.zip"
+    },
+    {
+      "name": "gitleaks_8.30.1_darwin_x64.tar.gz",
+      "size": 8359235,
+      "url": "https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_darwin_x64.tar.gz"
+    },
+    {
+      "name": "gitleaks_8.30.1_linux_armv7.tar.gz",
+      "size": 7501622,
+      "url": "https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_linux_armv7.tar.gz"
+    },
+    {
+      "name": "gitleaks_8.30.1_linux_armv6.tar.gz",
+      "size": 7515485,
+      "url": "https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_linux_armv6.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

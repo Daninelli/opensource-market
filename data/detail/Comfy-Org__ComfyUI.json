@@ -1,0 +1,47 @@
+{
+  "repo": "Comfy-Org/ComfyUI",
+  "slug": "Comfy-Org__ComfyUI",
+  "name": "ComfyUI",
+  "note_zh": "节点式扩散模型工作流界面，图像视频生成可视化编排",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "PyTorch"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:54:06Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/Comfy-Org/ComfyUI/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.42.1",
+    "name": "v0.42.1",
+    "published": "2026-10-19T01:33:54Z",
+    "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.1"
+  },
+  "assets": [
+    {
+      "name": "ComfyUI_windows_portable_intel.7z",
+      "size": 1451207360,
+      "url": "https://github.com/Comfy-Org/ComfyUI/releases/download/v0.42.1/ComfyUI_windows_portable_intel.7z"
+    },
+    {
+      "name": "ComfyUI_windows_portable_amd.7z",
+      "size": 1636139353,
+      "url": "https://github.com/Comfy-Org/ComfyUI/releases/download/v0.42.1/ComfyUI_windows_portable_amd.7z"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

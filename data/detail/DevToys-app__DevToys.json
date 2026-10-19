@@ -1,0 +1,42 @@
+{
+  "repo": "DevToys-app/DevToys",
+  "slug": "DevToys-app__DevToys",
+  "name": "DevToys",
+  "note_zh": "开发者瑞士军刀，格式化转码正则等常用小工具集",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    "TypeScript"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-09-29T00:45:51Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/DevToys-app/DevToys/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.0.13.0",
+    "name": "v1.0.13.0",
+    "published": "2023-07-25T14:23:58Z",
+    "url": "https://github.com/DevToys-app/DevToys/releases/tag/v1.0.13.0"
+  },
+  "assets": [
+    {
+      "name": "64360VelerSoftware.DevToys_1.0.13.0_neutral_._j80j2txgjg9dj.msixbundle",
+      "size": 166568573,
+      "url": "https://github.com/DevToys-app/DevToys/releases/download/v1.0.13.0/64360VelerSoftware.DevToys_1.0.13.0_neutral_._j80j2txgjg9dj.msixbundle"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

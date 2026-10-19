@@ -1,0 +1,77 @@
+{
+  "repo": "diegosouzapw/OmniRoute",
+  "slug": "diegosouzapw__OmniRoute",
+  "name": "OmniRoute",
+  "note_zh": "统一 AI 网关，一个端点接入 375 家模型供应商",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Node.js"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:44:31Z",
+  "added_at": null,
+  "default_branch": "release/v3.8.53",
+  "download_url": "https://codeload.github.com/diegosouzapw/OmniRoute/zip/refs/heads/release%2Fv3.8.53",
+  "release": {
+    "tag": "v3.8.51",
+    "name": "v3.8.51",
+    "published": "2026-09-30T01:41:50Z",
+    "url": "https://github.com/diegosouzapw/OmniRoute/releases/tag/v3.8.51"
+  },
+  "assets": [
+    {
+      "name": "OmniRoute.3.8.51.exe",
+      "size": 581400670,
+      "url": "https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.51/OmniRoute.3.8.51.exe"
+    },
+    {
+      "name": "OmniRoute.exe",
+      "size": 581400670,
+      "url": "https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.51/OmniRoute.exe"
+    },
+    {
+      "name": "OmniRoute-3.8.51-arm64.dmg",
+      "size": 672833975,
+      "url": "https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.51/OmniRoute-3.8.51-arm64.dmg"
+    },
+    {
+      "name": "OmniRoute-3.8.51.dmg",
+      "size": 677949065,
+      "url": "https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.51/OmniRoute-3.8.51.dmg"
+    },
+    {
+      "name": "omniroute-desktop_3.8.51_arm64.deb",
+      "size": 305936588,
+      "url": "https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.51/omniroute-desktop_3.8.51_arm64.deb"
+    },
+    {
+      "name": "omniroute-desktop_3.8.51_amd64.deb",
+      "size": 310853960,
+      "url": "https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.51/omniroute-desktop_3.8.51_amd64.deb"
+    },
+    {
+      "name": "OmniRoute-v3.8.51.source.tar.gz",
+      "size": 186522931,
+      "url": "https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.51/OmniRoute-v3.8.51.source.tar.gz"
+    },
+    {
+      "name": "OmniRoute-v3.8.51.source.zip",
+      "size": 204375330,
+      "url": "https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.51/OmniRoute-v3.8.51.source.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

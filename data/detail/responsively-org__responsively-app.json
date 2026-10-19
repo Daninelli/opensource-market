@@ -1,0 +1,31 @@
+{
+  "repo": "responsively-org/responsively-app",
+  "slug": "responsively-org__responsively-app",
+  "name": "responsively-app",
+  "note_zh": "响应式开发浏览器，多设备同屏预览调试",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-03T14:34:26Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/responsively-org/responsively-app/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,31 @@
+{
+  "repo": "videolan/vlc",
+  "slug": "videolan__vlc",
+  "name": "vlc",
+  "note_zh": "全能开源播放器，格式支持与跨平台无人能敌",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "GPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C",
+    "C++"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-18T11:47:30Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/videolan/vlc/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

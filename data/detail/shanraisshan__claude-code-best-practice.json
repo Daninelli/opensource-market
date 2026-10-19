@@ -1,0 +1,30 @@
+{
+  "repo": "shanraisshan/claude-code-best-practice",
+  "slug": "shanraisshan__claude-code-best-practice",
+  "name": "claude-code-best-practice",
+  "note_zh": "Claude Code 工程化实践手册，从氛围编程到智能体工程",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Markdown"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T06:34:20Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/shanraisshan/claude-code-best-practice/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

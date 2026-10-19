@@ -1,0 +1,31 @@
+{
+  "repo": "dokku/dokku",
+  "slug": "dokku__dokku",
+  "name": "dokku",
+  "note_zh": "基于 Docker 的轻量 PaaS，一条命令部署应用",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Shell",
+    "Go"
+  ],
+  "deploy_type": "命令行 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:09:33Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/dokku/dokku/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

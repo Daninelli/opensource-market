@@ -1,0 +1,56 @@
+{
+  "repo": "jo-inc/camofox-browser",
+  "slug": "jo-inc__camofox-browser",
+  "name": "camofox-browser",
+  "note_zh": "面向 AI 代理的隐身无头浏览器，可过风控",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-16T20:27:20Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/jo-inc/camofox-browser/zip/refs/heads/master",
+  "release": {
+    "tag": "camoufox-backup-404310733",
+    "name": "Camoufox backup v156.0.1-beta.36",
+    "published": "2026-10-07T03:38:46Z",
+    "url": "https://github.com/jo-inc/camofox-browser/releases/tag/camoufox-backup-404310733"
+  },
+  "assets": [
+    {
+      "name": "camoufox-156.0.1-beta.36-win.i686.zip",
+      "size": 1297194809,
+      "url": "https://github.com/jo-inc/camofox-browser/releases/download/camoufox-backup-404310733/camoufox-156.0.1-beta.36-win.i686.zip"
+    },
+    {
+      "name": "camoufox-156.0.1-beta.36-win.x86_64.zip",
+      "size": 1311638126,
+      "url": "https://github.com/jo-inc/camofox-browser/releases/download/camoufox-backup-404310733/camoufox-156.0.1-beta.36-win.x86_64.zip"
+    },
+    {
+      "name": "camoufox-156.0.1-beta.36-lin.arm64.zip",
+      "size": 1284863246,
+      "url": "https://github.com/jo-inc/camofox-browser/releases/download/camoufox-backup-404310733/camoufox-156.0.1-beta.36-lin.arm64.zip"
+    },
+    {
+      "name": "camoufox-156.0.1-beta.36-mac.arm64.zip",
+      "size": 1289762241,
+      "url": "https://github.com/jo-inc/camofox-browser/releases/download/camoufox-backup-404310733/camoufox-156.0.1-beta.36-mac.arm64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

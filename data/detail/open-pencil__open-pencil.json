@@ -1,0 +1,76 @@
+{
+  "repo": "open-pencil/open-pencil",
+  "slug": "open-pencil__open-pencil",
+  "name": "open-pencil",
+  "note_zh": "AI 原生的开源设计编辑器，Figma 替代方案",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "前端源码 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:44:09Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/open-pencil/open-pencil/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.16.0",
+    "name": "v0.16.0",
+    "published": "2026-10-14T12:37:16Z",
+    "url": "https://github.com/open-pencil/open-pencil/releases/tag/v0.16.0"
+  },
+  "assets": [
+    {
+      "name": "OpenPencil_0.16.0_arm64-setup.exe",
+      "size": 13414529,
+      "url": "https://github.com/open-pencil/open-pencil/releases/download/v0.16.0/OpenPencil_0.16.0_arm64-setup.exe"
+    },
+    {
+      "name": "OpenPencil_0.16.0_x64-setup.exe",
+      "size": 13959325,
+      "url": "https://github.com/open-pencil/open-pencil/releases/download/v0.16.0/OpenPencil_0.16.0_x64-setup.exe"
+    },
+    {
+      "name": "OpenPencil_0.16.0_aarch64.dmg",
+      "size": 16213804,
+      "url": "https://github.com/open-pencil/open-pencil/releases/download/v0.16.0/OpenPencil_0.16.0_aarch64.dmg"
+    },
+    {
+      "name": "OpenPencil_0.16.0_x64.dmg",
+      "size": 16846140,
+      "url": "https://github.com/open-pencil/open-pencil/releases/download/v0.16.0/OpenPencil_0.16.0_x64.dmg"
+    },
+    {
+      "name": "OpenPencil-0.16.0-1.x86_64.rpm",
+      "size": 18832761,
+      "url": "https://github.com/open-pencil/open-pencil/releases/download/v0.16.0/OpenPencil-0.16.0-1.x86_64.rpm"
+    },
+    {
+      "name": "OpenPencil_0.16.0_amd64.deb",
+      "size": 18833038,
+      "url": "https://github.com/open-pencil/open-pencil/releases/download/v0.16.0/OpenPencil_0.16.0_amd64.deb"
+    },
+    {
+      "name": "OpenPencil_aarch64.app.tar.gz",
+      "size": 16417594,
+      "url": "https://github.com/open-pencil/open-pencil/releases/download/v0.16.0/OpenPencil_aarch64.app.tar.gz"
+    },
+    {
+      "name": "OpenPencil_x64.app.tar.gz",
+      "size": 16969199,
+      "url": "https://github.com/open-pencil/open-pencil/releases/download/v0.16.0/OpenPencil_x64.app.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

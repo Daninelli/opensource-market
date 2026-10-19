@@ -1,0 +1,31 @@
+{
+  "repo": "Tencent/WeKnora",
+  "slug": "Tencent__WeKnora",
+  "name": "WeKnora",
+  "note_zh": "开源 LLM 知识平台，文档转可问答知识库",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "文档与知识库",
+  "subcategory_slug": "docs",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Python"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:36:34Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Tencent/WeKnora/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

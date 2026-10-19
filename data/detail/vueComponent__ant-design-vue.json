@@ -1,0 +1,31 @@
+{
+  "repo": "vueComponent/ant-design-vue",
+  "slug": "vueComponent__ant-design-vue",
+  "name": "ant-design-vue",
+  "note_zh": "Ant Design 的 Vue 实现，企业级组件库",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Vue",
+    "TypeScript"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-13T14:59:07Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/vueComponent/ant-design-vue/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

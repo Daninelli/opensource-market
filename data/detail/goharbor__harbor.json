@@ -1,0 +1,41 @@
+{
+  "repo": "goharbor/harbor",
+  "slug": "goharbor__harbor",
+  "name": "harbor",
+  "note_zh": "云原生镜像仓库，含签名扫描与复制策略",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:22:27Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/goharbor/harbor/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.15.4",
+    "name": "v2.15.4",
+    "published": "2026-10-09T03:28:27Z",
+    "url": "https://github.com/goharbor/harbor/releases/tag/v2.15.4"
+  },
+  "assets": [
+    {
+      "name": "harbor-offline-installer-v2.15.4.tgz",
+      "size": 747317006,
+      "url": "https://github.com/goharbor/harbor/releases/download/v2.15.4/harbor-offline-installer-v2.15.4.tgz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

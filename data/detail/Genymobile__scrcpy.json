@@ -1,0 +1,67 @@
+{
+  "repo": "Genymobile/scrcpy",
+  "slug": "Genymobile__scrcpy",
+  "name": "scrcpy",
+  "note_zh": "安卓设备投屏到电脑，支持键鼠控制，低延迟无需 root",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C",
+    "Java"
+  ],
+  "deploy_type": "二进制 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-17T21:40:27Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/Genymobile/scrcpy/zip/refs/heads/master",
+  "release": {
+    "tag": "v5.0.1",
+    "name": "scrcpy 5.0.1",
+    "published": "2026-10-08T06:44:27Z",
+    "url": "https://github.com/Genymobile/scrcpy/releases/tag/v5.0.1"
+  },
+  "assets": [
+    {
+      "name": "scrcpy-winarm64-v5.0.1.zip",
+      "size": 9825739,
+      "url": "https://github.com/Genymobile/scrcpy/releases/download/v5.0.1/scrcpy-winarm64-v5.0.1.zip"
+    },
+    {
+      "name": "scrcpy-win32-v5.0.1.zip",
+      "size": 10133753,
+      "url": "https://github.com/Genymobile/scrcpy/releases/download/v5.0.1/scrcpy-win32-v5.0.1.zip"
+    },
+    {
+      "name": "scrcpy-macos-aarch64-v5.0.1.tar.gz",
+      "size": 12565912,
+      "url": "https://github.com/Genymobile/scrcpy/releases/download/v5.0.1/scrcpy-macos-aarch64-v5.0.1.tar.gz"
+    },
+    {
+      "name": "scrcpy-macos-x86_64-v5.0.1.tar.gz",
+      "size": 13478118,
+      "url": "https://github.com/Genymobile/scrcpy/releases/download/v5.0.1/scrcpy-macos-x86_64-v5.0.1.tar.gz"
+    },
+    {
+      "name": "scrcpy-linux-x86_64-v5.0.1.tar.gz",
+      "size": 17883742,
+      "url": "https://github.com/Genymobile/scrcpy/releases/download/v5.0.1/scrcpy-linux-x86_64-v5.0.1.tar.gz"
+    },
+    {
+      "name": "scrcpy-server-v5.0.1",
+      "size": 733930,
+      "url": "https://github.com/Genymobile/scrcpy/releases/download/v5.0.1/scrcpy-server-v5.0.1"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

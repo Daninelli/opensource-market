@@ -1,0 +1,30 @@
+{
+  "repo": "mojs/mojs",
+  "slug": "mojs__mojs",
+  "name": "mojs",
+  "note_zh": "Web 动效图形工具带，让交互动画更简单",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-07-30T16:54:33Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/mojs/mojs/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,30 @@
+{
+  "repo": "wshobson/agents",
+  "slug": "wshobson__agents",
+  "name": "agents",
+  "note_zh": "跨 Claude Code Codex Cursor 的智能体插件市场",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Markdown"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T01:07:28Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/wshobson/agents/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

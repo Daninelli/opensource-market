@@ -1,0 +1,67 @@
+{
+  "repo": "rowboatlabs/rowboat",
+  "slug": "rowboatlabs__rowboat",
+  "name": "rowboat",
+  "note_zh": "带记忆与协作能力的 AI 工作伙伴",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Python"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:54:06Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/rowboatlabs/rowboat/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.0.3",
+    "name": "v1.0.3",
+    "published": "2026-09-17T05:02:41Z",
+    "url": "https://github.com/rowboatlabs/rowboat/releases/tag/v1.0.3"
+  },
+  "assets": [
+    {
+      "name": "Rowboat-darwin-arm64-1.0.3.dmg",
+      "size": 147242717,
+      "url": "https://github.com/rowboatlabs/rowboat/releases/download/v1.0.3/Rowboat-darwin-arm64-1.0.3.dmg"
+    },
+    {
+      "name": "Rowboat-darwin-arm64-1.0.3.zip",
+      "size": 147873943,
+      "url": "https://github.com/rowboatlabs/rowboat/releases/download/v1.0.3/Rowboat-darwin-arm64-1.0.3.zip"
+    },
+    {
+      "name": "Rowboat-win32-x64-1.0.3-full.nupkg",
+      "size": 182894234,
+      "url": "https://github.com/rowboatlabs/rowboat/releases/download/v1.0.3/Rowboat-win32-x64-1.0.3-full.nupkg"
+    },
+    {
+      "name": "Rowboat-win32-x64-1.0.3-setup.exe",
+      "size": 183012664,
+      "url": "https://github.com/rowboatlabs/rowboat/releases/download/v1.0.3/Rowboat-win32-x64-1.0.3-setup.exe"
+    },
+    {
+      "name": "rowboat-linux_1.0.3_amd64.deb",
+      "size": 117262552,
+      "url": "https://github.com/rowboatlabs/rowboat/releases/download/v1.0.3/rowboat-linux_1.0.3_amd64.deb"
+    },
+    {
+      "name": "Rowboat-linux-1.0.3-1.x86_64.rpm",
+      "size": 123863385,
+      "url": "https://github.com/rowboatlabs/rowboat/releases/download/v1.0.3/Rowboat-linux-1.0.3-1.x86_64.rpm"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

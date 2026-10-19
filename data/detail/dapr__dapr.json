@@ -1,0 +1,66 @@
+{
+  "repo": "dapr/dapr",
+  "slug": "dapr__dapr",
+  "name": "dapr",
+  "note_zh": "分布式应用运行时，服务调用状态发布订阅开箱即用",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:39:55Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/dapr/dapr/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.18.7",
+    "name": "Dapr Runtime v1.18.7",
+    "published": "2026-10-09T20:32:33Z",
+    "url": "https://github.com/dapr/dapr/releases/tag/v1.18.7"
+  },
+  "assets": [
+    {
+      "name": "placement_darwin_arm64.tar.gz",
+      "size": 13228727,
+      "url": "https://github.com/dapr/dapr/releases/download/v1.18.7/placement_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "placement_windows_amd64.zip",
+      "size": 14311801,
+      "url": "https://github.com/dapr/dapr/releases/download/v1.18.7/placement_windows_amd64.zip"
+    },
+    {
+      "name": "placement_darwin_amd64.tar.gz",
+      "size": 14621432,
+      "url": "https://github.com/dapr/dapr/releases/download/v1.18.7/placement_darwin_amd64.tar.gz"
+    },
+    {
+      "name": "injector_windows_amd64.zip",
+      "size": 15862745,
+      "url": "https://github.com/dapr/dapr/releases/download/v1.18.7/injector_windows_amd64.zip"
+    },
+    {
+      "name": "placement_linux_arm64.tar.gz",
+      "size": 12669040,
+      "url": "https://github.com/dapr/dapr/releases/download/v1.18.7/placement_linux_arm64.tar.gz"
+    },
+    {
+      "name": "placement_linux_arm.tar.gz",
+      "size": 13455218,
+      "url": "https://github.com/dapr/dapr/releases/download/v1.18.7/placement_linux_arm.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

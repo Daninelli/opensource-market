@@ -1,0 +1,77 @@
+{
+  "repo": "radareorg/radare2",
+  "slug": "radareorg__radare2",
+  "name": "radare2",
+  "note_zh": "类 UNIX 逆向工程框架与二进制分析工具集",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C",
+    "Python"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:18:55Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/radareorg/radare2/zip/refs/heads/master",
+  "release": {
+    "tag": "6.2.4",
+    "name": "6.2.4",
+    "published": "2026-10-05T19:52:50Z",
+    "url": "https://github.com/radareorg/radare2/releases/tag/6.2.4"
+  },
+  "assets": [
+    {
+      "name": "radare2-arm64-6.2.4.pkg",
+      "size": 11514888,
+      "url": "https://github.com/radareorg/radare2/releases/download/6.2.4/radare2-arm64-6.2.4.pkg"
+    },
+    {
+      "name": "radare2-x64-6.2.4.pkg",
+      "size": 11795598,
+      "url": "https://github.com/radareorg/radare2/releases/download/6.2.4/radare2-x64-6.2.4.pkg"
+    },
+    {
+      "name": "radare2-dev_6.2.4_i386.deb",
+      "size": 258432,
+      "url": "https://github.com/radareorg/radare2/releases/download/6.2.4/radare2-dev_6.2.4_i386.deb"
+    },
+    {
+      "name": "radare2-dev_6.2.4_amd64.deb",
+      "size": 258524,
+      "url": "https://github.com/radareorg/radare2/releases/download/6.2.4/radare2-dev_6.2.4_amd64.deb"
+    },
+    {
+      "name": "radare2-6.2.4-android-aarch64.tar.gz",
+      "size": 24523165,
+      "url": "https://github.com/radareorg/radare2/releases/download/6.2.4/radare2-6.2.4-android-aarch64.tar.gz"
+    },
+    {
+      "name": "radare2-6.2.4-android-arm.tar.gz",
+      "size": 25149754,
+      "url": "https://github.com/radareorg/radare2/releases/download/6.2.4/radare2-6.2.4-android-arm.tar.gz"
+    },
+    {
+      "name": "r2blob-6.2.4-w64.zip",
+      "size": 7358196,
+      "url": "https://github.com/radareorg/radare2/releases/download/6.2.4/r2blob-6.2.4-w64.zip"
+    },
+    {
+      "name": "radare2-6.2.4-w32.zip",
+      "size": 12693533,
+      "url": "https://github.com/radareorg/radare2/releases/download/6.2.4/radare2-6.2.4-w32.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

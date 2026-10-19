@@ -1,0 +1,31 @@
+{
+  "repo": "run-llama/liteparse",
+  "slug": "run-llama__liteparse",
+  "name": "liteparse",
+  "note_zh": "快速轻量的文档解析库，为 LLM 准备数据",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "Python"
+  ],
+  "deploy_type": "依赖库 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-12T22:09:49Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/run-llama/liteparse/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

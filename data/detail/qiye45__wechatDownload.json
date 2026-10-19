@@ -1,0 +1,42 @@
+{
+  "repo": "qiye45/wechatDownload",
+  "slug": "qiye45__wechatDownload",
+  "name": "wechatDownload",
+  "note_zh": "微信公众号文章批量下载，支持评论与合集",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "JavaScript"
+  ],
+  "deploy_type": "客户端 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-07T12:59:49Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/qiye45/wechatDownload/zip/refs/heads/main",
+  "release": {
+    "tag": "4.7",
+    "name": "微信公众号批量下载工具4.7(已失效)",
+    "published": "2026-08-16T14:04:55Z",
+    "url": "https://github.com/qiye45/wechatDownload/releases/tag/4.7"
+  },
+  "assets": [
+    {
+      "name": "wechatDownload4.7.zip",
+      "size": 87710472,
+      "url": "https://github.com/qiye45/wechatDownload/releases/download/4.7/wechatDownload4.7.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

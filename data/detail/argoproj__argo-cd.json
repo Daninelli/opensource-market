@@ -1,0 +1,67 @@
+{
+  "repo": "argoproj/argo-cd",
+  "slug": "argoproj__argo-cd",
+  "name": "argo-cd",
+  "note_zh": "Kubernetes 声明式持续部署，GitOps 标准实现",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:09:10Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/argoproj/argo-cd/zip/refs/heads/master",
+  "release": {
+    "tag": "v3.5.5",
+    "name": "v3.5.5",
+    "published": "2026-10-12T10:59:41Z",
+    "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.5.5"
+  },
+  "assets": [
+    {
+      "name": "argocd-darwin-arm64",
+      "size": 246717218,
+      "url": "https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-darwin-arm64"
+    },
+    {
+      "name": "argocd-windows-amd64.exe",
+      "size": 252547072,
+      "url": "https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-windows-amd64.exe"
+    },
+    {
+      "name": "argocd-darwin-amd64",
+      "size": 257453888,
+      "url": "https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-darwin-amd64"
+    },
+    {
+      "name": "argocd-linux-arm64",
+      "size": 237457126,
+      "url": "https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-linux-arm64"
+    },
+    {
+      "name": "argocd-linux-ppc64le",
+      "size": 246423004,
+      "url": "https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-linux-ppc64le"
+    },
+    {
+      "name": "sbom.tar.gz",
+      "size": 135236,
+      "url": "https://github.com/argoproj/argo-cd/releases/download/v3.5.5/sbom.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

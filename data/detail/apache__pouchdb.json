@@ -1,0 +1,46 @@
+{
+  "repo": "apache/pouchdb",
+  "slug": "apache__pouchdb",
+  "name": "pouchdb",
+  "note_zh": "口袋大小的浏览器端数据库，离线可用可同步",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-17T13:34:56Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/apache/pouchdb/zip/refs/heads/master",
+  "release": {
+    "tag": "9.0.0",
+    "name": "9.0.0",
+    "published": "2024-06-21T16:10:33Z",
+    "url": "https://github.com/apache/pouchdb/releases/tag/9.0.0"
+  },
+  "assets": [
+    {
+      "name": "pouchdb.find.min.js.map",
+      "size": 105865,
+      "url": "https://github.com/apache/pouchdb/releases/download/9.0.0/pouchdb.find.min.js.map"
+    },
+    {
+      "name": "pouchdb-9.0.0.min.js",
+      "size": 138618,
+      "url": "https://github.com/apache/pouchdb/releases/download/9.0.0/pouchdb-9.0.0.min.js"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

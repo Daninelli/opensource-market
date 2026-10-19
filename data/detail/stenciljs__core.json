@@ -1,0 +1,30 @@
+{
+  "repo": "stenciljs/core",
+  "slug": "stenciljs__core",
+  "name": "core",
+  "note_zh": "编译 Web Components 的组件工具链，跨框架复用",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "依赖库 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-18T13:14:59Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/stenciljs/core/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

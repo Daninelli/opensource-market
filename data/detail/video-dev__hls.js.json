@@ -1,0 +1,41 @@
+{
+  "repo": "video-dev/hls.js",
+  "slug": "video-dev__hls.js",
+  "name": "hls.js",
+  "note_zh": "浏览器端 HLS 播放库，基于 MSE 流式播放",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:23:01Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/video-dev/hls.js/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.7.3",
+    "name": "v1.7.3",
+    "published": "2026-09-11T17:40:05Z",
+    "url": "https://github.com/video-dev/hls.js/releases/tag/v1.7.3"
+  },
+  "assets": [
+    {
+      "name": "release.zip",
+      "size": 7704258,
+      "url": "https://github.com/video-dev/hls.js/releases/download/v1.7.3/release.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

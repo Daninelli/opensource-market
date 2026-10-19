@@ -1,0 +1,61 @@
+{
+  "repo": "HBAI-Ltd/Toonflow-app",
+  "slug": "HBAI-Ltd__Toonflow-app",
+  "name": "Toonflow-app",
+  "note_zh": "短剧与漫剧制作工具，AI 视频创作平台",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "客户端 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-16T08:31:49Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/HBAI-Ltd/Toonflow-app/zip/refs/heads/master",
+  "release": {
+    "tag": "v2.0.6",
+    "name": "Toonflow 2.0.6",
+    "published": "2026-10-13T07:59:07Z",
+    "url": "https://github.com/HBAI-Ltd/Toonflow-app/releases/tag/v2.0.6"
+  },
+  "assets": [
+    {
+      "name": "stable-macos-arm64-rmectz7msdat.patch",
+      "size": 5361600,
+      "url": "https://github.com/HBAI-Ltd/Toonflow-app/releases/download/v2.0.6/stable-macos-arm64-rmectz7msdat.patch"
+    },
+    {
+      "name": "stable-macos-x64-2ha1hmftmr5l5.patch",
+      "size": 5681976,
+      "url": "https://github.com/HBAI-Ltd/Toonflow-app/releases/download/v2.0.6/stable-macos-x64-2ha1hmftmr5l5.patch"
+    },
+    {
+      "name": "stable-win-x64-knlfps67z3wt.patch",
+      "size": 5789699,
+      "url": "https://github.com/HBAI-Ltd/Toonflow-app/releases/download/v2.0.6/stable-win-x64-knlfps67z3wt.patch"
+    },
+    {
+      "name": "toonflow-2.0.6-Setup.exe",
+      "size": 47171645,
+      "url": "https://github.com/HBAI-Ltd/Toonflow-app/releases/download/v2.0.6/toonflow-2.0.6-Setup.exe"
+    },
+    {
+      "name": "toonflow-2.0.6-android-arm64.apk",
+      "size": 147811319,
+      "url": "https://github.com/HBAI-Ltd/Toonflow-app/releases/download/v2.0.6/toonflow-2.0.6-android-arm64.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

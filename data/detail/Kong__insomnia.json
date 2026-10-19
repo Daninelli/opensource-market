@@ -1,0 +1,77 @@
+{
+  "repo": "Kong/insomnia",
+  "slug": "Kong__insomnia",
+  "name": "insomnia",
+  "note_zh": "跨平台 API 调试客户端，支持 GraphQL 与 WebSocket",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T10:21:15Z",
+  "added_at": null,
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/Kong/insomnia/zip/refs/heads/develop",
+  "release": {
+    "tag": "core@13.3.1",
+    "name": "13.3.1 📦",
+    "published": "2026-10-09T07:35:39Z",
+    "url": "https://github.com/Kong/insomnia/releases/tag/core%4013.3.1"
+  },
+  "assets": [
+    {
+      "name": "inso-macos-13.3.1.zip",
+      "size": 87986990,
+      "url": "https://github.com/Kong/insomnia/releases/download/core%4013.3.1/inso-macos-13.3.1.zip"
+    },
+    {
+      "name": "inso-macos-15-large-13.3.1.pkg",
+      "size": 88003378,
+      "url": "https://github.com/Kong/insomnia/releases/download/core%4013.3.1/inso-macos-15-large-13.3.1.pkg"
+    },
+    {
+      "name": "inso-windows-13.3.1.zip",
+      "size": 89785245,
+      "url": "https://github.com/Kong/insomnia/releases/download/core%4013.3.1/inso-windows-13.3.1.zip"
+    },
+    {
+      "name": "Insomnia.Core-nsis-13.3.1.exe",
+      "size": 524800080,
+      "url": "https://github.com/Kong/insomnia/releases/download/core%4013.3.1/Insomnia.Core-nsis-13.3.1.exe"
+    },
+    {
+      "name": "inso-linux-x64-13.3.1.tar.xz",
+      "size": 52071296,
+      "url": "https://github.com/Kong/insomnia/releases/download/core%4013.3.1/inso-linux-x64-13.3.1.tar.xz"
+    },
+    {
+      "name": "Insomnia.Core-13.3.1.rpm",
+      "size": 370952689,
+      "url": "https://github.com/Kong/insomnia/releases/download/core%4013.3.1/Insomnia.Core-13.3.1.rpm"
+    },
+    {
+      "name": "Insomnia.Core-13.3.1.zip",
+      "size": 366012625,
+      "url": "https://github.com/Kong/insomnia/releases/download/core%4013.3.1/Insomnia.Core-13.3.1.zip"
+    },
+    {
+      "name": "inso-docker-image.tar",
+      "size": 371677184,
+      "url": "https://github.com/Kong/insomnia/releases/download/core%4013.3.1/inso-docker-image.tar"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

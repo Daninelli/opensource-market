@@ -1,0 +1,31 @@
+{
+  "repo": "hiyouga/LlamaFactory",
+  "slug": "hiyouga__LlamaFactory",
+  "name": "LlamaFactory",
+  "note_zh": "统一微调框架，支持 100+ 大模型与多模态模型",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "PyTorch"
+  ],
+  "deploy_type": "源码 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-10T07:29:23Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/hiyouga/LlamaFactory/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

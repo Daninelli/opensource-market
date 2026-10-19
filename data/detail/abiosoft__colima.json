@@ -1,0 +1,57 @@
+{
+  "repo": "abiosoft/colima",
+  "slug": "abiosoft__colima",
+  "name": "colima",
+  "note_zh": "macOS 上最小化配置的容器运行时，替代 Docker Desktop",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Shell"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-13T21:49:45Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/abiosoft/colima/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.10.3",
+    "name": "v0.10.3",
+    "published": "2026-06-04T17:14:15Z",
+    "url": "https://github.com/abiosoft/colima/releases/tag/v0.10.3"
+  },
+  "assets": [
+    {
+      "name": "colima-Darwin-arm64",
+      "size": 15656320,
+      "url": "https://github.com/abiosoft/colima/releases/download/v0.10.3/colima-Darwin-arm64"
+    },
+    {
+      "name": "colima-Darwin-x86_64",
+      "size": 16954240,
+      "url": "https://github.com/abiosoft/colima/releases/download/v0.10.3/colima-Darwin-x86_64"
+    },
+    {
+      "name": "colima-Linux-aarch64",
+      "size": 15068215,
+      "url": "https://github.com/abiosoft/colima/releases/download/v0.10.3/colima-Linux-aarch64"
+    },
+    {
+      "name": "colima-Linux-x86_64",
+      "size": 16160826,
+      "url": "https://github.com/abiosoft/colima/releases/download/v0.10.3/colima-Linux-x86_64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

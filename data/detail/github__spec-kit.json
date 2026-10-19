@@ -1,0 +1,30 @@
+{
+  "repo": "github/spec-kit",
+  "slug": "github__spec-kit",
+  "name": "spec-kit",
+  "note_zh": "规格驱动开发工具包，先写规格再让 AI 编码",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:49:33Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/github/spec-kit/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

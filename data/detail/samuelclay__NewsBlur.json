@@ -1,0 +1,31 @@
+{
+  "repo": "samuelclay/NewsBlur",
+  "slug": "samuelclay__NewsBlur",
+  "name": "NewsBlur",
+  "note_zh": "个人新闻阅读器，支持社交讨论与训练式排序",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "稍后读与收藏",
+  "subcategory_slug": "readlater",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "JavaScript"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-18T01:28:15Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/samuelclay/NewsBlur/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

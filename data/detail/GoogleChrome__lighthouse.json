@@ -1,0 +1,31 @@
+{
+  "repo": "GoogleChrome/lighthouse",
+  "slug": "GoogleChrome__lighthouse",
+  "name": "lighthouse",
+  "note_zh": "网页性能与最佳实践自动化审计工具",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Node.js"
+  ],
+  "deploy_type": "命令行 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-18T12:04:51Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/GoogleChrome/lighthouse/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

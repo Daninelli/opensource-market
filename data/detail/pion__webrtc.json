@@ -1,0 +1,30 @@
+{
+  "repo": "pion/webrtc",
+  "slug": "pion__webrtc",
+  "name": "webrtc",
+  "note_zh": "纯 Go 实现的 WebRTC API，实时音视频底座",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:32:27Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/pion/webrtc/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

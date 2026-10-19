@@ -1,0 +1,47 @@
+{
+  "repo": "koel/koel",
+  "slug": "koel__koel",
+  "name": "koel",
+  "note_zh": "自托管音乐流媒体服务，个人音乐库在线播放",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "PHP",
+    "Vue"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-18T18:56:06Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/koel/koel/zip/refs/heads/master",
+  "release": {
+    "tag": "v9.15.0",
+    "name": "v9.15.0",
+    "published": "2026-09-28T12:51:54Z",
+    "url": "https://github.com/koel/koel/releases/tag/v9.15.0"
+  },
+  "assets": [
+    {
+      "name": "koel-v9.15.0.tar.gz",
+      "size": 37634247,
+      "url": "https://github.com/koel/koel/releases/download/v9.15.0/koel-v9.15.0.tar.gz"
+    },
+    {
+      "name": "koel-v9.15.0.zip",
+      "size": 47712229,
+      "url": "https://github.com/koel/koel/releases/download/v9.15.0/koel-v9.15.0.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

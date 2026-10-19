@@ -1,0 +1,76 @@
+{
+  "repo": "charmbracelet/glow",
+  "slug": "charmbracelet__glow",
+  "name": "glow",
+  "note_zh": "终端里渲染 Markdown，带样式与分页浏览",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "笔记工具",
+  "subcategory_slug": "notes",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-05T11:11:20Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/charmbracelet/glow/zip/refs/heads/main",
+  "release": {
+    "tag": "v3.0.0",
+    "name": "v3.0.0",
+    "published": "2026-08-11T18:09:45Z",
+    "url": "https://github.com/charmbracelet/glow/releases/tag/v3.0.0"
+  },
+  "assets": [
+    {
+      "name": "glow_3.0.0_Darwin_arm64.tar.gz",
+      "size": 6466187,
+      "url": "https://github.com/charmbracelet/glow/releases/download/v3.0.0/glow_3.0.0_Darwin_arm64.tar.gz"
+    },
+    {
+      "name": "glow_3.0.0_Windows_i386.zip",
+      "size": 6804387,
+      "url": "https://github.com/charmbracelet/glow/releases/download/v3.0.0/glow_3.0.0_Windows_i386.zip"
+    },
+    {
+      "name": "glow_3.0.0_Darwin_x86_64.tar.gz",
+      "size": 6925688,
+      "url": "https://github.com/charmbracelet/glow/releases/download/v3.0.0/glow_3.0.0_Darwin_x86_64.tar.gz"
+    },
+    {
+      "name": "glow_3.0.0_Windows_x86_64.zip",
+      "size": 7025299,
+      "url": "https://github.com/charmbracelet/glow/releases/download/v3.0.0/glow_3.0.0_Windows_x86_64.zip"
+    },
+    {
+      "name": "glow-3.0.0-1.aarch64.rpm",
+      "size": 6200748,
+      "url": "https://github.com/charmbracelet/glow/releases/download/v3.0.0/glow-3.0.0-1.aarch64.rpm"
+    },
+    {
+      "name": "glow_3.0.0_arm64.deb",
+      "size": 6221630,
+      "url": "https://github.com/charmbracelet/glow/releases/download/v3.0.0/glow_3.0.0_arm64.deb"
+    },
+    {
+      "name": "glow_3.0.0_aarch64.apk",
+      "size": 6473542,
+      "url": "https://github.com/charmbracelet/glow/releases/download/v3.0.0/glow_3.0.0_aarch64.apk"
+    },
+    {
+      "name": "glow_3.0.0_x86.apk",
+      "size": 6759611,
+      "url": "https://github.com/charmbracelet/glow/releases/download/v3.0.0/glow_3.0.0_x86.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

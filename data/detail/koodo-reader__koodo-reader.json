@@ -1,0 +1,77 @@
+{
+  "repo": "koodo-reader/koodo-reader",
+  "slug": "koodo-reader__koodo-reader",
+  "name": "koodo-reader",
+  "note_zh": "现代电子书管理与阅读器，支持多端同步备份",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "电子书与阅读",
+  "subcategory_slug": "ebook",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-18T22:28:11Z",
+  "added_at": null,
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/koodo-reader/koodo-reader/zip/refs/heads/dev",
+  "release": {
+    "tag": "v2.4.6",
+    "name": "2.4.6",
+    "published": "2026-10-07T00:29:56Z",
+    "url": "https://github.com/koodo-reader/koodo-reader/releases/tag/v2.4.6"
+  },
+  "assets": [
+    {
+      "name": "Koodo-Reader-2.4.6-ia32.exe",
+      "size": 107888307,
+      "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.6/Koodo-Reader-2.4.6-ia32.exe"
+    },
+    {
+      "name": "Koodo-Reader-2.4.6-x64-Portable.exe",
+      "size": 113074912,
+      "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.6/Koodo-Reader-2.4.6-x64-Portable.exe"
+    },
+    {
+      "name": "Koodo-Reader-2.4.6-arm64.dmg",
+      "size": 135444632,
+      "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.6/Koodo-Reader-2.4.6-arm64.dmg"
+    },
+    {
+      "name": "Koodo-Reader-2.4.6-x64.dmg",
+      "size": 143056180,
+      "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.6/Koodo-Reader-2.4.6-x64.dmg"
+    },
+    {
+      "name": "Koodo-Reader-2.4.6-x86_64.rpm",
+      "size": 89322545,
+      "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.6/Koodo-Reader-2.4.6-x86_64.rpm"
+    },
+    {
+      "name": "Koodo-Reader-2.4.6-arm64.deb",
+      "size": 103329952,
+      "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.6/Koodo-Reader-2.4.6-arm64.deb"
+    },
+    {
+      "name": "Koodo-Reader-2.4.6-arm64.apk",
+      "size": 64334135,
+      "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.6/Koodo-Reader-2.4.6-arm64.apk"
+    },
+    {
+      "name": "Koodo-Reader-2.4.6-universal.apk",
+      "size": 64334135,
+      "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.6/Koodo-Reader-2.4.6-universal.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,47 @@
+{
+  "repo": "utkarshdalal/GameNative",
+  "slug": "utkarshdalal__GameNative",
+  "name": "GameNative",
+  "note_zh": "安卓上原生运行 PC 游戏，接 Steam Epic GOG",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏客户端",
+  "subcategory_slug": "client",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Kotlin",
+    "Android"
+  ],
+  "deploy_type": "客户端",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:12:20Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/utkarshdalal/GameNative/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.3.0",
+    "name": "v1.3.0",
+    "published": "2026-10-14T09:36:19Z",
+    "url": "https://github.com/utkarshdalal/GameNative/releases/tag/v1.3.0"
+  },
+  "assets": [
+    {
+      "name": "gamenative-v1.3.0.apk",
+      "size": 574151860,
+      "url": "https://github.com/utkarshdalal/GameNative/releases/download/v1.3.0/gamenative-v1.3.0.apk"
+    },
+    {
+      "name": "gamenative-v1.3.0-legacy-xr.apk",
+      "size": 576442318,
+      "url": "https://github.com/utkarshdalal/GameNative/releases/download/v1.3.0/gamenative-v1.3.0-legacy-xr.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

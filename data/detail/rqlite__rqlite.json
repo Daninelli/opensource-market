@@ -1,0 +1,51 @@
+{
+  "repo": "rqlite/rqlite",
+  "slug": "rqlite__rqlite",
+  "name": "rqlite",
+  "note_zh": "基于 SQLite 的轻量容错分布式数据库",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "二进制 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T11:48:04Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/rqlite/rqlite/zip/refs/heads/master",
+  "release": {
+    "tag": "v10.6.2",
+    "name": "v10.6.2",
+    "published": "2026-10-18T16:51:29Z",
+    "url": "https://github.com/rqlite/rqlite/releases/tag/v10.6.2"
+  },
+  "assets": [
+    {
+      "name": "rqlite-v10.6.2-win64.zip",
+      "size": 15553582,
+      "url": "https://github.com/rqlite/rqlite/releases/download/v10.6.2/rqlite-v10.6.2-win64.zip"
+    },
+    {
+      "name": "rqlite_10.6.2_arm64.deb",
+      "size": 11498338,
+      "url": "https://github.com/rqlite/rqlite/releases/download/v10.6.2/rqlite_10.6.2_arm64.deb"
+    },
+    {
+      "name": "rqlite_10.6.2_amd64.deb",
+      "size": 13091872,
+      "url": "https://github.com/rqlite/rqlite/releases/download/v10.6.2/rqlite_10.6.2_amd64.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

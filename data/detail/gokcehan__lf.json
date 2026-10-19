@@ -1,0 +1,76 @@
+{
+  "repo": "gokcehan/lf",
+  "slug": "gokcehan__lf",
+  "name": "lf",
+  "note_zh": "终端文件管理器，类 ranger 的轻量实现",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "文件管理与网盘",
+  "subcategory_slug": "file",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-14T13:16:24Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/gokcehan/lf/zip/refs/heads/master",
+  "release": {
+    "tag": "r42",
+    "name": "r42",
+    "published": "2026-07-31T07:16:17Z",
+    "url": "https://github.com/gokcehan/lf/releases/tag/r42"
+  },
+  "assets": [
+    {
+      "name": "lf-darwin-arm64.tar.gz",
+      "size": 2172503,
+      "url": "https://github.com/gokcehan/lf/releases/download/r42/lf-darwin-arm64.tar.gz"
+    },
+    {
+      "name": "lf-windows-386.zip",
+      "size": 2316377,
+      "url": "https://github.com/gokcehan/lf/releases/download/r42/lf-windows-386.zip"
+    },
+    {
+      "name": "lf-darwin-amd64.tar.gz",
+      "size": 2337597,
+      "url": "https://github.com/gokcehan/lf/releases/download/r42/lf-darwin-amd64.tar.gz"
+    },
+    {
+      "name": "lf-windows-amd64.zip",
+      "size": 2408423,
+      "url": "https://github.com/gokcehan/lf/releases/download/r42/lf-windows-amd64.zip"
+    },
+    {
+      "name": "lf-linux-mips64le.tar.gz",
+      "size": 2042497,
+      "url": "https://github.com/gokcehan/lf/releases/download/r42/lf-linux-mips64le.tar.gz"
+    },
+    {
+      "name": "lf-linux-mipsle.tar.gz",
+      "size": 2078816,
+      "url": "https://github.com/gokcehan/lf/releases/download/r42/lf-linux-mipsle.tar.gz"
+    },
+    {
+      "name": "lf-android-arm64.tar.gz",
+      "size": 2198743,
+      "url": "https://github.com/gokcehan/lf/releases/download/r42/lf-android-arm64.tar.gz"
+    },
+    {
+      "name": "lf-openbsd-arm64.tar.gz",
+      "size": 2086637,
+      "url": "https://github.com/gokcehan/lf/releases/download/r42/lf-openbsd-arm64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,31 @@
+{
+  "repo": "knex/knex",
+  "slug": "knex__knex",
+  "name": "knex",
+  "note_zh": "多数据库查询构建器，可移植的 SQL 层",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-06-26T15:02:12Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/knex/knex/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

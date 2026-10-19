@@ -1,0 +1,31 @@
+{
+  "repo": "MadsLorentzen/ai-job-search",
+  "slug": "MadsLorentzen__ai-job-search",
+  "name": "ai-job-search",
+  "note_zh": "本地运行的 AI 求职框架，自动筛选与投递",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "LLM"
+  ],
+  "deploy_type": "源码 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:20:15Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/MadsLorentzen/ai-job-search/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

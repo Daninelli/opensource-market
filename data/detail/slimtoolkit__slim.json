@@ -1,0 +1,56 @@
+{
+  "repo": "slimtoolkit/slim",
+  "slug": "slimtoolkit__slim",
+  "name": "slim",
+  "note_zh": "不改镜像内容即可瘦身容器体积",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-09-19T23:40:59Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/slimtoolkit/slim/zip/refs/heads/master",
+  "release": {
+    "tag": "1.40.11",
+    "name": "Improved xray and build, new Docker Engine version support",
+    "published": "2024-02-02T13:57:50Z",
+    "url": "https://github.com/slimtoolkit/slim/releases/tag/1.40.11"
+  },
+  "assets": [
+    {
+      "name": "dist_mac_m1.zip",
+      "size": 68968761,
+      "url": "https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_mac_m1.zip"
+    },
+    {
+      "name": "dist_linux_arm64.tar.gz",
+      "size": 25809341,
+      "url": "https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_linux_arm64.tar.gz"
+    },
+    {
+      "name": "dist_linux_arm.tar.gz",
+      "size": 26338913,
+      "url": "https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_linux_arm.tar.gz"
+    },
+    {
+      "name": "dist_mac.zip",
+      "size": 73756227,
+      "url": "https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_mac.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

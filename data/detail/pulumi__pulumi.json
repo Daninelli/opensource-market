@@ -1,0 +1,78 @@
+{
+  "repo": "pulumi/pulumi",
+  "slug": "pulumi__pulumi",
+  "name": "pulumi",
+  "note_zh": "用通用编程语言写基础设施即代码",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "TypeScript",
+    "Python"
+  ],
+  "deploy_type": "命令行 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:03:45Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/pulumi/pulumi/zip/refs/heads/master",
+  "release": {
+    "tag": "v3.270.0",
+    "name": "v3.270.0",
+    "published": "2026-10-16T20:28:10Z",
+    "url": "https://github.com/pulumi/pulumi/releases/tag/v3.270.0"
+  },
+  "assets": [
+    {
+      "name": "pulumi-v3.270.0-windows-arm64.zip",
+      "size": 91385636,
+      "url": "https://github.com/pulumi/pulumi/releases/download/v3.270.0/pulumi-v3.270.0-windows-arm64.zip"
+    },
+    {
+      "name": "pulumi-v3.270.0-darwin-arm64.tar.gz",
+      "size": 97295182,
+      "url": "https://github.com/pulumi/pulumi/releases/download/v3.270.0/pulumi-v3.270.0-darwin-arm64.tar.gz"
+    },
+    {
+      "name": "pulumi-v3.270.0-windows-x64.zip",
+      "size": 104712684,
+      "url": "https://github.com/pulumi/pulumi/releases/download/v3.270.0/pulumi-v3.270.0-windows-x64.zip"
+    },
+    {
+      "name": "pulumi-v3.270.0-darwin-x64.tar.gz",
+      "size": 105613190,
+      "url": "https://github.com/pulumi/pulumi/releases/download/v3.270.0/pulumi-v3.270.0-darwin-x64.tar.gz"
+    },
+    {
+      "name": "pulumi-v3.270.0-linux-arm64.tar.gz",
+      "size": 96767534,
+      "url": "https://github.com/pulumi/pulumi/releases/download/v3.270.0/pulumi-v3.270.0-linux-arm64.tar.gz"
+    },
+    {
+      "name": "pulumi-v3.270.0-linux-x64.tar.gz",
+      "size": 107465568,
+      "url": "https://github.com/pulumi/pulumi/releases/download/v3.270.0/pulumi-v3.270.0-linux-x64.tar.gz"
+    },
+    {
+      "name": "sdk-python-pulumi-3.270.0-py3-none-any.whl",
+      "size": 433159,
+      "url": "https://github.com/pulumi/pulumi/releases/download/v3.270.0/sdk-python-pulumi-3.270.0-py3-none-any.whl"
+    },
+    {
+      "name": "sdk-nodejs-pulumi-pulumi-3.270.0.tgz",
+      "size": 2456951,
+      "url": "https://github.com/pulumi/pulumi/releases/download/v3.270.0/sdk-nodejs-pulumi-pulumi-3.270.0.tgz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

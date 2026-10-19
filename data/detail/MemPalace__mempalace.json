@@ -1,0 +1,66 @@
+{
+  "repo": "MemPalace/mempalace",
+  "slug": "MemPalace__mempalace",
+  "name": "mempalace",
+  "note_zh": "面向 AI 智能体的开源长期记忆系统",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-18T14:20:56Z",
+  "added_at": null,
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/MemPalace/mempalace/zip/refs/heads/develop",
+  "release": {
+    "tag": "v3.11.0",
+    "name": "v3.11.0 — audit, repair and opt-in EmbeddingGemma 2",
+    "published": "2026-10-14T05:25:57Z",
+    "url": "https://github.com/MemPalace/mempalace/releases/tag/v3.11.0"
+  },
+  "assets": [
+    {
+      "name": "mempalace_native_core-3.11.0-cp39-abi3-win_amd64.whl",
+      "size": 1056451,
+      "url": "https://github.com/MemPalace/mempalace/releases/download/v3.11.0/mempalace_native_core-3.11.0-cp39-abi3-win_amd64.whl"
+    },
+    {
+      "name": "mempalace_native_core-3.11.0-cp39-abi3-macosx_11_0_arm64.whl",
+      "size": 1092256,
+      "url": "https://github.com/MemPalace/mempalace/releases/download/v3.11.0/mempalace_native_core-3.11.0-cp39-abi3-macosx_11_0_arm64.whl"
+    },
+    {
+      "name": "mempalace_native_core-3.11.0-cp39-abi3-macosx_10_12_x86_64.whl",
+      "size": 1145048,
+      "url": "https://github.com/MemPalace/mempalace/releases/download/v3.11.0/mempalace_native_core-3.11.0-cp39-abi3-macosx_10_12_x86_64.whl"
+    },
+    {
+      "name": "mempalace-native-windows-amd64.exe",
+      "size": 2247168,
+      "url": "https://github.com/MemPalace/mempalace/releases/download/v3.11.0/mempalace-native-windows-amd64.exe"
+    },
+    {
+      "name": "mempalace_native_core-3.11.0-cp39-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+      "size": 1069430,
+      "url": "https://github.com/MemPalace/mempalace/releases/download/v3.11.0/mempalace_native_core-3.11.0-cp39-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl"
+    },
+    {
+      "name": "mempalace_native_core-3.11.0-cp39-abi3-manylinux_2_34_x86_64.whl",
+      "size": 1253641,
+      "url": "https://github.com/MemPalace/mempalace/releases/download/v3.11.0/mempalace_native_core-3.11.0-cp39-abi3-manylinux_2_34_x86_64.whl"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

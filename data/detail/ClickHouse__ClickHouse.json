@@ -17,46 +17,26 @@
   ],
   "deploy_type": "Docker 部署 / 二进制 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-19T12:18:20Z",
+  "updated_at": "2026-10-19T15:11:15Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/ClickHouse/ClickHouse/zip/refs/heads/master",
   "release": {
-    "tag": "v26.7.34.3-stable",
-    "name": "Release v26.7.34.3-stable",
-    "published": "2026-10-18T13:46:32Z",
-    "url": "https://github.com/ClickHouse/ClickHouse/releases/tag/v26.7.34.3-stable"
+    "tag": "v26.9.22.3-stable",
+    "name": "Release v26.9.22.3-stable",
+    "published": "2026-10-19T15:48:33Z",
+    "url": "https://github.com/ClickHouse/ClickHouse/releases/tag/v26.9.22.3-stable"
   },
   "assets": [
     {
-      "name": "clickhouse-macos-aarch64",
-      "size": 168051436,
-      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.7.34.3-stable/clickhouse-macos-aarch64"
+      "name": "clickhouse-client_26.9.22.3_amd64.deb",
+      "size": 428696,
+      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.9.22.3-stable/clickhouse-client_26.9.22.3_amd64.deb"
     },
     {
-      "name": "clickhouse-macos",
-      "size": 176530573,
-      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.7.34.3-stable/clickhouse-macos"
-    },
-    {
-      "name": "clickhouse-client_26.7.34.3_arm64.deb",
-      "size": 229732,
-      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.7.34.3-stable/clickhouse-client_26.7.34.3_arm64.deb"
-    },
-    {
-      "name": "clickhouse-client_26.7.34.3_amd64.deb",
-      "size": 229738,
-      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.7.34.3-stable/clickhouse-client_26.7.34.3_amd64.deb"
-    },
-    {
-      "name": "clickhouse-client-26.7.34.3-amd64.tgz",
-      "size": 220429,
-      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.7.34.3-stable/clickhouse-client-26.7.34.3-amd64.tgz"
-    },
-    {
-      "name": "clickhouse-client-26.7.34.3-arm64.tgz",
-      "size": 220435,
-      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.7.34.3-stable/clickhouse-client-26.7.34.3-arm64.tgz"
+      "name": "clickhouse-common-static_26.9.22.3_amd64.deb",
+      "size": 265700660,
+      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.9.22.3-stable/clickhouse-common-static_26.9.22.3_amd64.deb"
     }
   ],
   "pinned": false,

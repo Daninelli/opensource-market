@@ -1,0 +1,31 @@
+{
+  "repo": "Canner/WrenAI",
+  "slug": "Canner__WrenAI",
+  "name": "WrenAI",
+  "note_zh": "面向 AI 代理的生成式 BI，自然语言查数",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "数据分析",
+  "subcategory_slug": "bi",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Python"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T03:38:21Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/Canner/WrenAI/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

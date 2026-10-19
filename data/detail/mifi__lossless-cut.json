@@ -16,46 +16,46 @@
   ],
   "deploy_type": "客户端",
   "platform": "github",
-  "updated_at": "2026-10-19T12:17:49Z",
+  "updated_at": "2026-10-19T14:15:47Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mifi/lossless-cut/zip/refs/heads/master",
   "release": {
-    "tag": "v3.69.0",
-    "name": "3.69.0",
-    "published": "2026-06-04T08:14:49Z",
-    "url": "https://github.com/mifi/lossless-cut/releases/tag/v3.69.0"
+    "tag": "v3.70.1",
+    "name": "3.70.1",
+    "published": "2026-10-19T12:33:53Z",
+    "url": "https://github.com/mifi/lossless-cut/releases/tag/v3.70.1"
   },
   "assets": [
     {
       "name": "LosslessCut-win-arm64.7z",
-      "size": 106777858,
-      "url": "https://github.com/mifi/lossless-cut/releases/download/v3.69.0/LosslessCut-win-arm64.7z"
+      "size": 129622555,
+      "url": "https://github.com/mifi/lossless-cut/releases/download/v3.70.1/LosslessCut-win-arm64.7z"
     },
     {
       "name": "LosslessCut-win-x64.7z",
-      "size": 146192088,
-      "url": "https://github.com/mifi/lossless-cut/releases/download/v3.69.0/LosslessCut-win-x64.7z"
+      "size": 151740489,
+      "url": "https://github.com/mifi/lossless-cut/releases/download/v3.70.1/LosslessCut-win-x64.7z"
     },
     {
       "name": "LosslessCut-mac-arm64.dmg",
-      "size": 156724100,
-      "url": "https://github.com/mifi/lossless-cut/releases/download/v3.69.0/LosslessCut-mac-arm64.dmg"
+      "size": 165847881,
+      "url": "https://github.com/mifi/lossless-cut/releases/download/v3.70.1/LosslessCut-mac-arm64.dmg"
     },
     {
       "name": "LosslessCut-mac-x64.dmg",
-      "size": 168564969,
-      "url": "https://github.com/mifi/lossless-cut/releases/download/v3.69.0/LosslessCut-mac-x64.dmg"
-    },
-    {
-      "name": "LosslessCut-linux-armv7l.tar.bz2",
-      "size": 115481272,
-      "url": "https://github.com/mifi/lossless-cut/releases/download/v3.69.0/LosslessCut-linux-armv7l.tar.bz2"
+      "size": 177981716,
+      "url": "https://github.com/mifi/lossless-cut/releases/download/v3.70.1/LosslessCut-mac-x64.dmg"
     },
     {
       "name": "LosslessCut-linux-arm64.tar.bz2",
-      "size": 121697523,
-      "url": "https://github.com/mifi/lossless-cut/releases/download/v3.69.0/LosslessCut-linux-arm64.tar.bz2"
+      "size": 131844909,
+      "url": "https://github.com/mifi/lossless-cut/releases/download/v3.70.1/LosslessCut-linux-arm64.tar.bz2"
+    },
+    {
+      "name": "LosslessCut-linux-armv7l.tar.bz2",
+      "size": 132353237,
+      "url": "https://github.com/mifi/lossless-cut/releases/download/v3.70.1/LosslessCut-linux-armv7l.tar.bz2"
     }
   ],
   "pinned": false,

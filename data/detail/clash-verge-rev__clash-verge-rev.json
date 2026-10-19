@@ -1,0 +1,78 @@
+{
+  "repo": "clash-verge-rev/clash-verge-rev",
+  "slug": "clash-verge-rev__clash-verge-rev",
+  "name": "clash-verge-rev",
+  "note_zh": "基于 Tauri 的 Clash 图形客户端，跨三端订阅管理",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "TypeScript",
+    "Tauri"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:02:17Z",
+  "added_at": null,
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/clash-verge-rev/clash-verge-rev/zip/refs/heads/dev",
+  "release": {
+    "tag": "v2.5.8",
+    "name": "Clash Verge Rev v2.5.8",
+    "published": "2026-10-09T02:43:45Z",
+    "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.8"
+  },
+  "assets": [
+    {
+      "name": "Clash.Verge_2.5.8_arm64-setup.exe",
+      "size": 53952182,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_arm64-setup.exe"
+    },
+    {
+      "name": "Clash.Verge_2.5.8_x64-setup.exe",
+      "size": 60230483,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_x64-setup.exe"
+    },
+    {
+      "name": "Clash.Verge_2.5.8_aarch64.dmg",
+      "size": 81825361,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_aarch64.dmg"
+    },
+    {
+      "name": "Clash.Verge_2.5.8_x64.dmg",
+      "size": 87523387,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_x64.dmg"
+    },
+    {
+      "name": "Clash.Verge-2.5.8-1.aarch64.rpm",
+      "size": 100298341,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge-2.5.8-1.aarch64.rpm"
+    },
+    {
+      "name": "Clash.Verge_2.5.8_arm64.deb",
+      "size": 100300512,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_arm64.deb"
+    },
+    {
+      "name": "Clash.Verge_2.5.8_aarch64.app.tar.gz",
+      "size": 83642657,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_aarch64.app.tar.gz"
+    },
+    {
+      "name": "Clash.Verge_2.5.8_x64.app.tar.gz",
+      "size": 89108423,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_x64.app.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

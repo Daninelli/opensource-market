@@ -1,0 +1,30 @@
+{
+  "repo": "ZLMediaKit/ZLMediaKit",
+  "slug": "ZLMediaKit__ZLMediaKit",
+  "name": "ZLMediaKit",
+  "note_zh": "国产流媒体服务器，支持 WebRTC RTSP RTMP HLS",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C++"
+  ],
+  "deploy_type": "二进制 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-12T12:42:31Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/ZLMediaKit/ZLMediaKit/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

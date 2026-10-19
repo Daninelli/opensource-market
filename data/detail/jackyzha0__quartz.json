@@ -1,0 +1,31 @@
+{
+  "repo": "jackyzha0/quartz",
+  "slug": "jackyzha0__quartz",
+  "name": "quartz",
+  "note_zh": "把 Markdown 转成双向链接知识站",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Node.js"
+  ],
+  "deploy_type": "前端源码 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-04T20:13:44Z",
+  "added_at": null,
+  "default_branch": "v5",
+  "download_url": "https://codeload.github.com/jackyzha0/quartz/zip/refs/heads/v5",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

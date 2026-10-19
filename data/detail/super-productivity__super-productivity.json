@@ -1,0 +1,72 @@
+{
+  "repo": "super-productivity/super-productivity",
+  "slug": "super-productivity__super-productivity",
+  "name": "super-productivity",
+  "note_zh": "带时间盒与时间追踪的高级待办清单应用",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:30:51Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/super-productivity/super-productivity/zip/refs/heads/master",
+  "release": {
+    "tag": "v19.2.0",
+    "name": "v19.2.0",
+    "published": "2026-10-11T11:45:19Z",
+    "url": "https://github.com/super-productivity/super-productivity/releases/tag/v19.2.0"
+  },
+  "assets": [
+    {
+      "name": "superProductivity-arm64.dmg",
+      "size": 140302516,
+      "url": "https://github.com/super-productivity/super-productivity/releases/download/v19.2.0/superProductivity-arm64.dmg"
+    },
+    {
+      "name": "superProductivity-x64.dmg",
+      "size": 145957455,
+      "url": "https://github.com/super-productivity/super-productivity/releases/download/v19.2.0/superProductivity-x64.dmg"
+    },
+    {
+      "name": "superProductivity-arm64.exe",
+      "size": 244987456,
+      "url": "https://github.com/super-productivity/super-productivity/releases/download/v19.2.0/superProductivity-arm64.exe"
+    },
+    {
+      "name": "superProductivity-x64.exe",
+      "size": 244987456,
+      "url": "https://github.com/super-productivity/super-productivity/releases/download/v19.2.0/superProductivity-x64.exe"
+    },
+    {
+      "name": "superProductivity-x86_64.rpm",
+      "size": 100350453,
+      "url": "https://github.com/super-productivity/super-productivity/releases/download/v19.2.0/superProductivity-x86_64.rpm"
+    },
+    {
+      "name": "superProductivity-amd64.deb",
+      "size": 114493852,
+      "url": "https://github.com/super-productivity/super-productivity/releases/download/v19.2.0/superProductivity-amd64.deb"
+    },
+    {
+      "name": "app-play-release.apk",
+      "size": 22872841,
+      "url": "https://github.com/super-productivity/super-productivity/releases/download/v19.2.0/app-play-release.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

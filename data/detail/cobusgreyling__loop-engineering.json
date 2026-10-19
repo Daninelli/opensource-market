@@ -1,0 +1,31 @@
+{
+  "repo": "cobusgreyling/loop-engineering",
+  "slug": "cobusgreyling__loop-engineering",
+  "name": "loop-engineering",
+  "note_zh": "AI 编程代理的循环工程实践模式与工具",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Markdown",
+    "Shell"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:06:17Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/cobusgreyling/loop-engineering/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

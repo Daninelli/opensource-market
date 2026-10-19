@@ -1,0 +1,77 @@
+{
+  "repo": "jely2002/youtube-dl-gui",
+  "slug": "jely2002__youtube-dl-gui",
+  "name": "youtube-dl-gui",
+  "note_zh": "youtube-dl 的跨平台图形界面下载器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "Tauri"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-18T08:17:28Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/jely2002/youtube-dl-gui/zip/refs/heads/main",
+  "release": {
+    "tag": "app-v3.2.1",
+    "name": "v3.2.1",
+    "published": "2026-07-05T12:06:40Z",
+    "url": "https://github.com/jely2002/youtube-dl-gui/releases/tag/app-v3.2.1"
+  },
+  "assets": [
+    {
+      "name": "Open.Video.Downloader_3.2.1_arm64-setup.exe",
+      "size": 4082590,
+      "url": "https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_arm64-setup.exe"
+    },
+    {
+      "name": "Open.Video.Downloader_3.2.1_x64-setup.exe",
+      "size": 4480753,
+      "url": "https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_x64-setup.exe"
+    },
+    {
+      "name": "Open.Video.Downloader_3.2.1_aarch64.dmg",
+      "size": 7454313,
+      "url": "https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_aarch64.dmg"
+    },
+    {
+      "name": "Open.Video.Downloader_3.2.1_x64.dmg",
+      "size": 8199157,
+      "url": "https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_x64.dmg"
+    },
+    {
+      "name": "Open.Video.Downloader-3.2.1-1.aarch64.rpm",
+      "size": 12653586,
+      "url": "https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader-3.2.1-1.aarch64.rpm"
+    },
+    {
+      "name": "Open.Video.Downloader_3.2.1_arm64.deb",
+      "size": 12653692,
+      "url": "https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_arm64.deb"
+    },
+    {
+      "name": "Open.Video.Downloader_3.2.1_arm64-portable.zip",
+      "size": 5474836,
+      "url": "https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_arm64-portable.zip"
+    },
+    {
+      "name": "Open.Video.Downloader_3.2.1_x64-portable.zip",
+      "size": 5774429,
+      "url": "https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_x64-portable.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

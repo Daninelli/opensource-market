@@ -1,0 +1,31 @@
+{
+  "repo": "visgl/deck.gl",
+  "slug": "visgl__deck.gl",
+  "name": "deck.gl",
+  "note_zh": "大规模地理数据可视化框架，WebGL 渲染",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "数据分析",
+  "subcategory_slug": "bi",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "WebGL"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-15T23:05:08Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/visgl/deck.gl/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

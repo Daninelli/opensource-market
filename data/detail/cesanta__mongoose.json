@@ -18,7 +18,7 @@
   ],
   "deploy_type": "依赖库 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-18T12:31:04Z",
+  "updated_at": "2026-10-19T14:56:09Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/cesanta/mongoose/zip/refs/heads/master",
@@ -35,9 +35,9 @@
       "url": "https://github.com/cesanta/mongoose/releases/download/7.23/Cesanta.I-CUBE-Mongoose.7.23.1.pack"
     },
     {
-      "name": "Cesanta.I-CUBE-Mongoose.pack",
-      "size": 345124,
-      "url": "https://github.com/cesanta/mongoose/releases/download/7.23/Cesanta.I-CUBE-Mongoose.pack"
+      "name": "Cesanta.I-CUBE-Mongoose.7.23.2.pack",
+      "size": 366545,
+      "url": "https://github.com/cesanta/mongoose/releases/download/7.23/Cesanta.I-CUBE-Mongoose.7.23.2.pack"
     }
   ],
   "pinned": false,

@@ -1,0 +1,77 @@
+{
+  "repo": "henrygd/beszel",
+  "slug": "henrygd__beszel",
+  "name": "beszel",
+  "note_zh": "轻量服务器监控，含历史数据与容器指标",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:00:10Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/henrygd/beszel/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.21.0",
+    "name": "v0.21.0",
+    "published": "2026-10-02T17:34:33Z",
+    "url": "https://github.com/henrygd/beszel/releases/tag/v0.21.0"
+  },
+  "assets": [
+    {
+      "name": "beszel-agent_darwin_arm64.tar.gz",
+      "size": 4051083,
+      "url": "https://github.com/henrygd/beszel/releases/download/v0.21.0/beszel-agent_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "beszel-agent_darwin_amd64.tar.gz",
+      "size": 4366770,
+      "url": "https://github.com/henrygd/beszel/releases/download/v0.21.0/beszel-agent_darwin_amd64.tar.gz"
+    },
+    {
+      "name": "beszel-agent_windows_arm64.zip",
+      "size": 5304860,
+      "url": "https://github.com/henrygd/beszel/releases/download/v0.21.0/beszel-agent_windows_arm64.zip"
+    },
+    {
+      "name": "beszel-agent_windows_amd64.zip",
+      "size": 6286962,
+      "url": "https://github.com/henrygd/beszel/releases/download/v0.21.0/beszel-agent_windows_amd64.zip"
+    },
+    {
+      "name": "beszel-agent_0.21.0_linux_mips64_hardfloat.deb",
+      "size": 3945544,
+      "url": "https://github.com/henrygd/beszel/releases/download/v0.21.0/beszel-agent_0.21.0_linux_mips64_hardfloat.deb"
+    },
+    {
+      "name": "beszel-agent_linux_mips64.tar.gz",
+      "size": 3945708,
+      "url": "https://github.com/henrygd/beszel/releases/download/v0.21.0/beszel-agent_linux_mips64.tar.gz"
+    },
+    {
+      "name": "beszel-agent_openbsd_arm64.tar.gz",
+      "size": 3698198,
+      "url": "https://github.com/henrygd/beszel/releases/download/v0.21.0/beszel-agent_openbsd_arm64.tar.gz"
+    },
+    {
+      "name": "beszel-agent_freebsd_arm64.tar.gz",
+      "size": 3701856,
+      "url": "https://github.com/henrygd/beszel/releases/download/v0.21.0/beszel-agent_freebsd_arm64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

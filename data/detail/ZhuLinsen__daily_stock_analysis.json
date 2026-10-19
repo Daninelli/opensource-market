@@ -1,0 +1,57 @@
+{
+  "repo": "ZhuLinsen/daily_stock_analysis",
+  "slug": "ZhuLinsen__daily_stock_analysis",
+  "name": "daily_stock_analysis",
+  "note_zh": "LLM 驱动的多市场股票智能分析与每日复盘",
+  "category": "金融",
+  "category_slug": "finance",
+  "subcategory": "投资管理",
+  "subcategory_slug": "investment",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "LLM"
+  ],
+  "deploy_type": "源码 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-17T11:54:29Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/ZhuLinsen/daily_stock_analysis/zip/refs/heads/main",
+  "release": {
+    "tag": "v3.33.0",
+    "name": "v3.33.0",
+    "published": "2026-10-15T11:46:29Z",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/tag/v3.33.0"
+  },
+  "assets": [
+    {
+      "name": "daily-stock-analysis-windows-installer-v3.33.0.exe",
+      "size": 241443590,
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/download/v3.33.0/daily-stock-analysis-windows-installer-v3.33.0.exe"
+    },
+    {
+      "name": "daily-stock-analysis-macos-arm64-v3.33.0.dmg",
+      "size": 280960511,
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/download/v3.33.0/daily-stock-analysis-macos-arm64-v3.33.0.dmg"
+    },
+    {
+      "name": "daily-stock-analysis-macos-x64-v3.33.0.dmg",
+      "size": 293686128,
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/download/v3.33.0/daily-stock-analysis-macos-x64-v3.33.0.dmg"
+    },
+    {
+      "name": "daily-stock-analysis-windows-noinstall-v3.33.0.zip",
+      "size": 313097590,
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/download/v3.33.0/daily-stock-analysis-windows-noinstall-v3.33.0.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

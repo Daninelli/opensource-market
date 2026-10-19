@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-10-18T20:26:46Z",
+  "updated_at": "2026-10-19T13:52:03Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/Kareadita/Kavita/zip/refs/heads/develop",

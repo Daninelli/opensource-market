@@ -1,0 +1,31 @@
+{
+  "repo": "freeCodeCamp/devdocs",
+  "slug": "freeCodeCamp__devdocs",
+  "name": "devdocs",
+  "note_zh": "离线 API 文档浏览器，一站式查阅各类开发文档",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Ruby",
+    "JavaScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T02:45:14Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/freeCodeCamp/devdocs/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

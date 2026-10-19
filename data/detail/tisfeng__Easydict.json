@@ -1,0 +1,47 @@
+{
+  "repo": "tisfeng/Easydict",
+  "slug": "tisfeng__Easydict",
+  "name": "Easydict",
+  "note_zh": "简洁优雅的 macOS 词典翻译应用，支持离线 OCR",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Swift",
+    "macOS"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T13:53:03Z",
+  "added_at": null,
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/tisfeng/Easydict/zip/refs/heads/dev",
+  "release": {
+    "tag": "2.24.0",
+    "name": "2.24.0",
+    "published": "2026-09-27T17:51:06Z",
+    "url": "https://github.com/tisfeng/Easydict/releases/tag/2.24.0"
+  },
+  "assets": [
+    {
+      "name": "Easydict.dmg",
+      "size": 35757709,
+      "url": "https://github.com/tisfeng/Easydict/releases/download/2.24.0/Easydict.dmg"
+    },
+    {
+      "name": "Easydict.zip",
+      "size": 36093094,
+      "url": "https://github.com/tisfeng/Easydict/releases/download/2.24.0/Easydict.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

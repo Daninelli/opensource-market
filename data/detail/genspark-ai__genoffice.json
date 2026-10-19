@@ -1,0 +1,66 @@
+{
+  "repo": "genspark-ai/genoffice",
+  "slug": "genspark-ai__genoffice",
+  "name": "genoffice",
+  "note_zh": "开源 AI 办公套件，文档表格幻灯片一体",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "办公套件",
+  "subcategory_slug": "office",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "前端源码 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:47:18Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/genspark-ai/genoffice/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.11.919",
+    "name": "GenOffice v0.11.919",
+    "published": "2026-10-19T14:47:19Z",
+    "url": "https://github.com/genspark-ai/genoffice/releases/tag/v0.11.919"
+  },
+  "assets": [
+    {
+      "name": "GenOfficeSetup-v0.11.919-x64.exe",
+      "size": 156573736,
+      "url": "https://github.com/genspark-ai/genoffice/releases/download/v0.11.919/GenOfficeSetup-v0.11.919-x64.exe"
+    },
+    {
+      "name": "GenOfficeSetup-v0.11.919-arm64.exe",
+      "size": 160262344,
+      "url": "https://github.com/genspark-ai/genoffice/releases/download/v0.11.919/GenOfficeSetup-v0.11.919-arm64.exe"
+    },
+    {
+      "name": "GenOffice-0.11.919-arm64.dmg",
+      "size": 192306587,
+      "url": "https://github.com/genspark-ai/genoffice/releases/download/v0.11.919/GenOffice-0.11.919-arm64.dmg"
+    },
+    {
+      "name": "GenOffice-0.11.919.dmg",
+      "size": 198220893,
+      "url": "https://github.com/genspark-ai/genoffice/releases/download/v0.11.919/GenOffice-0.11.919.dmg"
+    },
+    {
+      "name": "genoffice-0.11.919.x86_64.rpm",
+      "size": 125715033,
+      "url": "https://github.com/genspark-ai/genoffice/releases/download/v0.11.919/genoffice-0.11.919.x86_64.rpm"
+    },
+    {
+      "name": "genoffice_0.11.919_amd64.deb",
+      "size": 152338088,
+      "url": "https://github.com/genspark-ai/genoffice/releases/download/v0.11.919/genoffice_0.11.919_amd64.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

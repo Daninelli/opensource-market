@@ -1,6 +1,6 @@
 {
   "note": "由 tools/track-changes.mjs 自动维护；只追加变动记录，不重新计算历史",
-  "updated_at": "2026-10-19T12:36:18.658Z",
+  "updated_at": "2026-10-19T15:43:08.540Z",
   "events": [
     {
       "date": "2026-10-19",
@@ -4683,6 +4683,1248 @@
     },
     "go2ismail/Asp.Net-Core-Inventory-Order-Management-System": {
       "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "Genymobile/scrcpy": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "clash-verge-rev/clash-verge-rev": {
+      "license": "GPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "anthropics/claude-code": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "github/spec-kit": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "Comfy-Org/ComfyUI": {
+      "license": "GPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "ggml-org/llama.cpp": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "openai/codex": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "rustdesk/rustdesk": {
+      "license": "AGPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "diegosouzapw/OmniRoute": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "unslothai/unsloth": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "ruvnet/ruflo": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "headroomlabs-ai/headroom": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "hiyouga/LlamaFactory": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "code-yeongyu/oh-my-openagent": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "calesthio/OpenMontage": {
+      "license": "AGPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "shanraisshan/claude-code-best-practice": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "mem0ai/mem0": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "Mintplex-Labs/anything-llm": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "heygen-com/hyperframes": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "ZhuLinsen/daily_stock_analysis": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "upstash/context7": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "sansan0/TrendRadar": {
+      "license": "GPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "BerriAI/litellm": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "MemPalace/mempalace": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "blader/humanizer": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "coreyhaines31/marketingskills": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "aaif-goose/goose": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "MadsLorentzen/ai-job-search": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "ChromeDevTools/chrome-devtools-mcp": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "mudler/LocalAI": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "HKUDS/nanobot": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "wshobson/agents": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "pingcap/tidb": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "volcengine/OpenViking": {
+      "license": "AGPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "HKUDS/LightRAG": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "koalaman/shellcheck": {
+      "license": "GPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "drawdb-io/drawdb": {
+      "license": "AGPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "Yeachan-Heo/oh-my-claudecode": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "Kong/insomnia": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "freeCodeCamp/devdocs": {
+      "license": "MPL-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "lapce/lapce": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "harness/harness": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "markedjs/marked": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "JCodesMore/ai-website-cloner-template": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "continuedev/continue": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "esengine/DeepSeek-Reasonix": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "virgiliojr94/book-to-skill": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "Tencent/WeKnora": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "TabbyML/tabby": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "Pythagora-io/gpt-pilot": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "surrealdb/surrealdb": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "dandavison/delta": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "SigNoz/signoz": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "kubernetes/minikube": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "dokku/dokku": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "DevToys-app/DevToys": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "ScrapeGraphAI/Scrapegraph-ai": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "influxdata/influxdb": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "docsifyjs/docsify": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "abiosoft/colima": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "GoogleChrome/lighthouse": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "ComposioHQ/composio": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "trailofbits/algo": {
+      "license": "AGPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "helm/helm": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "gitleaks/gitleaks": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "hashicorp/consul": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "netbirdio/netbird": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "Infisical/infisical": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "community-scripts/ProxmoxVE": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "opendataloader-project/opendataloader-pdf": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "goharbor/harbor": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "GitbookIO/gitbook": {
+      "license": "GPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "yamadashy/repomix": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "hwdsl2/setup-ipsec-vpn": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "trufflesecurity/trufflehog": {
+      "license": "AGPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "QwenLM/qwen-code": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "koodo-reader/koodo-reader": {
+      "license": "AGPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "alirezarezvani/claude-skills": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "charmbracelet/glow": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "OpenZeppelin/openzeppelin-contracts": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "floci-io/floci": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "OpenAPITools/openapi-generator": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "jenkinsci/jenkins": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "henrygd/beszel": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "openfaas/faas": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "dapr/dapr": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "rancher/rancher": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "pulumi/pulumi": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "cilium/cilium": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "d2lang/d2": {
+      "license": "MPL-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "responsively-org/responsively-app": {
+      "license": "AGPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "taosdata/TDengine": {
+      "license": "AGPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "radareorg/radare2": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "argoproj/argo-cd": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "osquery/osquery": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "TecharoHQ/anubis": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "slimtoolkit/slim": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "getsops/sops": {
+      "license": "MPL-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "pubkey/rxdb": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "neondatabase/neon": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "fosrl/pangolin": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "chartdb/chartdb": {
+      "license": "AGPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "super-productivity/super-productivity": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "forem/forem": {
+      "license": "AGPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "chaitin/SafeLine": {
+      "license": "GPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "comet-ml/opik": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "vectordotdev/vector": {
+      "license": "MPL-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "pranshuparmar/witr": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "HyNetworks/hysteria": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "palantir/blueprint": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "dgraph-io/dgraph": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "vueComponent/ant-design-vue": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "allinurl/goaccess": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "qax-os/excelize": {
+      "license": "BSD-3-Clause",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "apache/shardingsphere": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "mybatis/mybatis-3": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "knex/knex": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "videolan/vlc": {
+      "license": "GPL-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "kyleneideck/BackgroundMusic": {
+      "license": "GPL-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "ActivityWatch/activitywatch": {
+      "license": "MPL-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "AgriciDaniel/claude-seo": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "amark/gun": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "golang-migrate/migrate": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "mojs/mojs": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "alyssaxuu/screenity": {
+      "license": "GPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "audacity/audacity": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "wasp-lang/wasp": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "nukeop/nuclear": {
+      "license": "AGPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "fastapi/sqlmodel": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "DapperLib/Dapper": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "sqlc-dev/sqlc": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "plotly/plotly.js": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "HBAI-Ltd/Toonflow-app": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "rowboatlabs/rowboat": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "Canner/WrenAI": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "asciinema/asciinema": {
+      "license": "GPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "ffmpegwasm/ffmpeg.wasm": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "rqlite/rqlite": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "ZLMediaKit/ZLMediaKit": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "apache/pouchdb": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "transact-rs/sqlx": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "questdb/questdb": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "neo4j/neo4j": {
+      "license": "GPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "koel/koel": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "argoproj/argo-workflows": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "video-dev/hls.js": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "pion/webrtc": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "dagster-io/dagster": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "MaterialDesignInXAML/MaterialDesignInXamlToolkit": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "amplication/amplication": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "apitable/apitable": {
+      "license": "AGPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "documenso/documenso": {
+      "license": "AGPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "mltframework/shotcut": {
+      "license": "GPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "n8n-io/self-hosted-ai-starter-kit": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "hicccc77/WeFlow": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "apexcharts/apexcharts.js": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "T8RIN/ImageToolbox": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "tisfeng/Easydict": {
+      "license": "GPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "konvajs/konva": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "kekingcn/kkFileView": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "lint-staged/lint-staged": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "visgl/deck.gl": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "apache/dolphinscheduler": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "BuilderIO/mitosis": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "originalankur/maptoposter": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "QuestPDF/QuestPDF": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "HIllya51/LunaTranslator": {
+      "license": "GPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "puckeditor/puck": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "jackyzha0/quartz": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "getpelican/pelican": {
+      "license": "AGPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "gotenberg/gotenberg": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "AutoHotkey/AutoHotkey": {
+      "license": "GPL-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "skypjack/entt": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "stenciljs/core": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "mapeditor/tiled": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "run-llama/liteparse": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "Pumpkin-MC/Pumpkin": {
+      "license": "GPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "boardgameio/boardgame.io": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "giscus/giscus": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "dataelement/bisheng": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "wix/Detox": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "robotframework/robotframework": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "notionnext-org/NotionNext": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "wenzhixin/bootstrap-table": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "jrouwe/JoltPhysics": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "jo-inc/camofox-browser": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "cobusgreyling/loop-engineering": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "kangarooking/cangjie-skill": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "utkarshdalal/GameNative": {
+      "license": "GPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "go-vgo/robotgo": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "itsfatduck/optimizerDuck": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "electric-sql/electric": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "s3fs-fuse/s3fs-fuse": {
+      "license": "GPL-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "genspark-ai/genoffice": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "qiye45/wechatDownload": {
+      "license": "NOASSERTION",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "gokcehan/lf": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "usekaneo/kaneo": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "jely2002/youtube-dl-gui": {
+      "license": "AGPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "shaxiu/XianyuAutoAgent": {
+      "license": "GPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "mediago-dev/mediago": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "yagop/node-telegram-bot-api": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "open-pencil/open-pencil": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "gonum/gonum": {
+      "license": "BSD-3-Clause",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "hacs/integration": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "samuelclay/NewsBlur": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "kubeedge/kubeedge": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "DIYgod/RSSHub-Radar": {
+      "license": "AGPL-3.0",
       "pinned": false,
       "pin_label": null,
       "archived": false

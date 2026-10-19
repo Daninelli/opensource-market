@@ -1,0 +1,30 @@
+{
+  "repo": "s3fs-fuse/s3fs-fuse",
+  "slug": "s3fs-fuse__s3fs-fuse",
+  "name": "s3fs-fuse",
+  "note_zh": "把 S3 存储桶挂载成本地文件系统",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "文件管理与网盘",
+  "subcategory_slug": "file",
+  "license": "GPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-17T16:38:33Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/s3fs-fuse/s3fs-fuse/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

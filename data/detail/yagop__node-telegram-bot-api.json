@@ -1,0 +1,31 @@
+{
+  "repo": "yagop/node-telegram-bot-api",
+  "slug": "yagop__node-telegram-bot-api",
+  "name": "node-telegram-bot-api",
+  "note_zh": "Node.js 的 Telegram Bot API 封装库",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "即时通讯",
+  "subcategory_slug": "im",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Node.js"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-09-07T23:49:00Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/yagop/node-telegram-bot-api/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

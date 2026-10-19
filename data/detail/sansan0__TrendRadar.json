@@ -1,0 +1,30 @@
+{
+  "repo": "sansan0/TrendRadar",
+  "slug": "sansan0__TrendRadar",
+  "name": "TrendRadar",
+  "note_zh": "多平台聚合的舆情与热点趋势监控分析",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "数据分析",
+  "subcategory_slug": "bi",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-15T11:24:14Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/sansan0/TrendRadar/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

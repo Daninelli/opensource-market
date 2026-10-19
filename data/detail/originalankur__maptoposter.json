@@ -1,0 +1,30 @@
+{
+  "repo": "originalankur/maptoposter",
+  "slug": "originalankur__maptoposter",
+  "name": "maptoposter",
+  "note_zh": "把城市地图生成极简风格海报",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-08-06T07:57:04Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/originalankur/maptoposter/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

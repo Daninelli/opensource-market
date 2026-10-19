@@ -1,0 +1,66 @@
+{
+  "repo": "code-yeongyu/oh-my-openagent",
+  "slug": "code-yeongyu__oh-my-openagent",
+  "name": "oh-my-openagent",
+  "note_zh": "提示词关键词触发的多代理协作技能包",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Markdown"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:17:16Z",
+  "added_at": null,
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/code-yeongyu/oh-my-openagent/zip/refs/heads/dev",
+  "release": {
+    "tag": "v5.1.38",
+    "name": "v5.1.38",
+    "published": "2026-10-19T10:11:33Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent/releases/tag/v5.1.38"
+  },
+  "assets": [
+    {
+      "name": "senpi-desktop-engine-win32-arm64.exe",
+      "size": 4298752,
+      "url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.38/senpi-desktop-engine-win32-arm64.exe"
+    },
+    {
+      "name": "senpi-desktop-engine-win32-x64.exe",
+      "size": 5088768,
+      "url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.38/senpi-desktop-engine-win32-x64.exe"
+    },
+    {
+      "name": "senpi-desktop-engine-darwin-arm64",
+      "size": 7216928,
+      "url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.38/senpi-desktop-engine-darwin-arm64"
+    },
+    {
+      "name": "senpi-desktop-engine-darwin-x64",
+      "size": 7311728,
+      "url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.38/senpi-desktop-engine-darwin-x64"
+    },
+    {
+      "name": "senpi-desktop-engine-linux-arm64",
+      "size": 18657200,
+      "url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.38/senpi-desktop-engine-linux-arm64"
+    },
+    {
+      "name": "senpi-desktop-engine-linux-x64",
+      "size": 20606368,
+      "url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.38/senpi-desktop-engine-linux-x64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

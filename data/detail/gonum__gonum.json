@@ -1,0 +1,30 @@
+{
+  "repo": "gonum/gonum",
+  "slug": "gonum__gonum",
+  "name": "gonum",
+  "note_zh": "Go 语言的数值计算与统计库集合",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "BSD-3-Clause",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-08T20:51:37Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/gonum/gonum/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

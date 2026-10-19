@@ -1,0 +1,72 @@
+{
+  "repo": "osquery/osquery",
+  "slug": "osquery__osquery",
+  "name": "osquery",
+  "note_zh": "用 SQL 查询操作系统状态，安全与运维审计利器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Python"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-15T16:57:10Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/osquery/osquery/zip/refs/heads/master",
+  "release": {
+    "tag": "5.23.1",
+    "name": "5.23.1",
+    "published": "2026-06-24T14:57:05Z",
+    "url": "https://github.com/osquery/osquery/releases/tag/5.23.1"
+  },
+  "assets": [
+    {
+      "name": "osquery-5.23.1.windows_arm64.zip",
+      "size": 13634280,
+      "url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery-5.23.1.windows_arm64.zip"
+    },
+    {
+      "name": "osquery-5.23.1.windows_x86_64.zip",
+      "size": 18950597,
+      "url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery-5.23.1.windows_x86_64.zip"
+    },
+    {
+      "name": "osqueryd-macos-bare-5.23.1.tar.gz",
+      "size": 25571024,
+      "url": "https://github.com/osquery/osquery/releases/download/5.23.1/osqueryd-macos-bare-5.23.1.tar.gz"
+    },
+    {
+      "name": "osquery-5.23.1_1.macos_arm64.tar.gz",
+      "size": 25893999,
+      "url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery-5.23.1_1.macos_arm64.tar.gz"
+    },
+    {
+      "name": "osquery-5.23.1-1.linux.aarch64.rpm",
+      "size": 30945997,
+      "url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery-5.23.1-1.linux.aarch64.rpm"
+    },
+    {
+      "name": "osquery_5.23.1-1.linux_arm64.deb",
+      "size": 30999764,
+      "url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery_5.23.1-1.linux_arm64.deb"
+    },
+    {
+      "name": "osquery.5.23.1.nupkg",
+      "size": 19469296,
+      "url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery.5.23.1.nupkg"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,31 @@
+{
+  "repo": "puckeditor/puck",
+  "slug": "puckeditor__puck",
+  "name": "puck",
+  "note_zh": "React 可视化编辑器组件，可嵌入自有系统",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "低代码平台",
+  "subcategory_slug": "low-code",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-16T05:49:03Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/puckeditor/puck/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

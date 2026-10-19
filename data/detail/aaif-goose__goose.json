@@ -1,0 +1,77 @@
+{
+  "repo": "aaif-goose/goose",
+  "slug": "aaif-goose__goose",
+  "name": "goose",
+  "note_zh": "可扩展的开源 AI 代理，超越代码补全的自动化助手",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "TypeScript"
+  ],
+  "deploy_type": "客户端 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:22:26Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/aaif-goose/goose/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.55.0",
+    "name": "v1.55.0",
+    "published": "2026-10-16T16:58:21Z",
+    "url": "https://github.com/aaif-goose/goose/releases/tag/v1.55.0"
+  },
+  "assets": [
+    {
+      "name": "goose-aarch64-apple-darwin.tar.bz2",
+      "size": 73630086,
+      "url": "https://github.com/aaif-goose/goose/releases/download/v1.55.0/goose-aarch64-apple-darwin.tar.bz2"
+    },
+    {
+      "name": "goose-x86_64-apple-darwin.tar.bz2",
+      "size": 75543354,
+      "url": "https://github.com/aaif-goose/goose/releases/download/v1.55.0/goose-x86_64-apple-darwin.tar.bz2"
+    },
+    {
+      "name": "goose-x86_64-pc-windows-msvc.zip",
+      "size": 76483830,
+      "url": "https://github.com/aaif-goose/goose/releases/download/v1.55.0/goose-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "Goose-win32-x64.zip",
+      "size": 246032962,
+      "url": "https://github.com/aaif-goose/goose/releases/download/v1.55.0/Goose-win32-x64.zip"
+    },
+    {
+      "name": "goose-aarch64-unknown-linux-musl.tar.bz2",
+      "size": 42662252,
+      "url": "https://github.com/aaif-goose/goose/releases/download/v1.55.0/goose-aarch64-unknown-linux-musl.tar.bz2"
+    },
+    {
+      "name": "goose-x86_64-unknown-linux-musl.tar.bz2",
+      "size": 43243812,
+      "url": "https://github.com/aaif-goose/goose/releases/download/v1.55.0/goose-x86_64-unknown-linux-musl.tar.bz2"
+    },
+    {
+      "name": "Goose.zip",
+      "size": 207547874,
+      "url": "https://github.com/aaif-goose/goose/releases/download/v1.55.0/Goose.zip"
+    },
+    {
+      "name": "Goose_intel_mac.zip",
+      "size": 219291109,
+      "url": "https://github.com/aaif-goose/goose/releases/download/v1.55.0/Goose_intel_mac.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

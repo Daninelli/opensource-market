@@ -1,0 +1,31 @@
+{
+  "repo": "wix/Detox",
+  "slug": "wix__Detox",
+  "name": "Detox",
+  "note_zh": "移动端灰盒端到端测试与自动化框架",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "deploy_type": "依赖库 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-05T09:34:09Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/wix/Detox/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

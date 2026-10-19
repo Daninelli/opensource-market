@@ -18,16 +18,11 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T11:18:47Z",
+  "updated_at": "2026-10-19T12:33:22Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/saleor/saleor/zip/refs/heads/main",
-  "release": {
-    "tag": "3.23.42",
-    "name": "3.23.42",
-    "published": "2026-10-16T06:44:14Z",
-    "url": "https://github.com/saleor/saleor/releases/tag/3.23.42"
-  },
+  "release": null,
   "assets": [],
   "pinned": false,
   "pin_label": null,

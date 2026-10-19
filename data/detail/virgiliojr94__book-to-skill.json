@@ -1,0 +1,31 @@
+{
+  "repo": "virgiliojr94/book-to-skill",
+  "slug": "virgiliojr94__book-to-skill",
+  "name": "book-to-skill",
+  "note_zh": "把技术书 PDF 蒸馏成可执行的 Claude 技能",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Markdown"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T21:24:32Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/virgiliojr94/book-to-skill/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

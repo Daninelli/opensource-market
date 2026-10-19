@@ -1,0 +1,67 @@
+{
+  "repo": "ActivityWatch/activitywatch",
+  "slug": "ActivityWatch__activitywatch",
+  "name": "activitywatch",
+  "note_zh": "自动记录时间去向的开源时间追踪器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "MPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "TypeScript"
+  ],
+  "deploy_type": "客户端 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-18T17:01:44Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/ActivityWatch/activitywatch/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.14.1",
+    "name": "v0.14.1",
+    "published": "2026-10-10T19:18:45Z",
+    "url": "https://github.com/ActivityWatch/activitywatch/releases/tag/v0.14.1"
+  },
+  "assets": [
+    {
+      "name": "activitywatch-tauri-v0.14.1-windows-x86_64-setup.exe",
+      "size": 43559218,
+      "url": "https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.1/activitywatch-tauri-v0.14.1-windows-x86_64-setup.exe"
+    },
+    {
+      "name": "activitywatch-tauri-v0.14.1-macos-arm64.dmg",
+      "size": 52789017,
+      "url": "https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.1/activitywatch-tauri-v0.14.1-macos-arm64.dmg"
+    },
+    {
+      "name": "activitywatch-tauri-0.14.1-darwin-aarch64.app.tar.gz",
+      "size": 55265247,
+      "url": "https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.1/activitywatch-tauri-0.14.1-darwin-aarch64.app.tar.gz"
+    },
+    {
+      "name": "activitywatch-tauri-v0.14.1-windows-x86_64.zip",
+      "size": 62239333,
+      "url": "https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.1/activitywatch-tauri-v0.14.1-windows-x86_64.zip"
+    },
+    {
+      "name": "activitywatch-tauri-v0.14.1-linux-x86_64.rpm",
+      "size": 32067281,
+      "url": "https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.1/activitywatch-tauri-v0.14.1-linux-x86_64.rpm"
+    },
+    {
+      "name": "activitywatch-tauri-v0.14.1-linux-x86_64.deb",
+      "size": 32070888,
+      "url": "https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.1/activitywatch-tauri-v0.14.1-linux-x86_64.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

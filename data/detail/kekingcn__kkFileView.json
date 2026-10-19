@@ -1,0 +1,31 @@
+{
+  "repo": "kekingcn/kkFileView",
+  "slug": "kekingcn__kkFileView",
+  "name": "kkFileView",
+  "note_zh": "通用文件在线预览服务，支持数十种格式",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "Spring Boot"
+  ],
+  "deploy_type": "Docker 部署 / 传统部署",
+  "platform": "github",
+  "updated_at": "2026-10-08T07:58:17Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/kekingcn/kkFileView/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

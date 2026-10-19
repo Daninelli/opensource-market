@@ -1,0 +1,42 @@
+{
+  "repo": "alyssaxuu/screenity",
+  "slug": "alyssaxuu__screenity",
+  "name": "screenity",
+  "note_zh": "免费隐私友好的无限制屏幕录制扩展",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "WebExtensions"
+  ],
+  "deploy_type": "浏览器扩展",
+  "platform": "github",
+  "updated_at": "2026-10-05T14:17:23Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/alyssaxuu/screenity/zip/refs/heads/master",
+  "release": {
+    "tag": "v4.6.12",
+    "name": "Screenity 4.6.12",
+    "published": "2026-09-25T18:09:05Z",
+    "url": "https://github.com/alyssaxuu/screenity/releases/tag/v4.6.12"
+  },
+  "assets": [
+    {
+      "name": "build.zip",
+      "size": 10861548,
+      "url": "https://github.com/alyssaxuu/screenity/releases/download/v4.6.12/build.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

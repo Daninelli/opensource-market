@@ -1,0 +1,30 @@
+{
+  "repo": "apache/shardingsphere",
+  "slug": "apache__shardingsphere",
+  "name": "shardingsphere",
+  "note_zh": "分布式 SQL 分片与弹性伸缩中间件",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java"
+  ],
+  "deploy_type": "依赖库 / 传统部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:27:02Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/apache/shardingsphere/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,31 @@
+{
+  "repo": "neondatabase/neon",
+  "slug": "neondatabase__neon",
+  "name": "neon",
+  "note_zh": "存算分离的无服务器 Postgres，按需伸缩",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 云服务",
+  "platform": "github",
+  "updated_at": "2026-08-31T11:03:14Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/neondatabase/neon/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

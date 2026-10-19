@@ -1,0 +1,51 @@
+{
+  "repo": "vectordotdev/vector",
+  "slug": "vectordotdev__vector",
+  "name": "vector",
+  "note_zh": "高性能可观测数据管道，采集转换路由日志指标",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "MPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "二进制 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:15:38Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/vectordotdev/vector/zip/refs/heads/master",
+  "release": {
+    "tag": "vdev-v0.3.30",
+    "name": "vdev-v0.3.30",
+    "published": "2026-10-09T22:30:38Z",
+    "url": "https://github.com/vectordotdev/vector/releases/tag/vdev-v0.3.30"
+  },
+  "assets": [
+    {
+      "name": "vdev-aarch64-apple-darwin-v0.3.30.tgz",
+      "size": 3080509,
+      "url": "https://github.com/vectordotdev/vector/releases/download/vdev-v0.3.30/vdev-aarch64-apple-darwin-v0.3.30.tgz"
+    },
+    {
+      "name": "vdev-aarch64-unknown-linux-gnu-v0.3.30.tgz",
+      "size": 3648128,
+      "url": "https://github.com/vectordotdev/vector/releases/download/vdev-v0.3.30/vdev-aarch64-unknown-linux-gnu-v0.3.30.tgz"
+    },
+    {
+      "name": "vdev-x86_64-unknown-linux-gnu-v0.3.30.tgz",
+      "size": 3834623,
+      "url": "https://github.com/vectordotdev/vector/releases/download/vdev-v0.3.30/vdev-x86_64-unknown-linux-gnu-v0.3.30.tgz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

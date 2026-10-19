@@ -1,0 +1,31 @@
+{
+  "repo": "chartdb/chartdb",
+  "slug": "chartdb__chartdb",
+  "name": "chartdb",
+  "note_zh": "数据库结构可视化编辑器，一键生成建表脚本",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React"
+  ],
+  "deploy_type": "前端源码 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-09-13T08:43:19Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/chartdb/chartdb/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,36 @@
+{
+  "repo": "rancher/rancher",
+  "slug": "rancher__rancher",
+  "name": "rancher",
+  "note_zh": "多集群容器管理平台，统一纳管 K8s",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:15:44Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/rancher/rancher/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.15.2",
+    "name": "v2.15.2",
+    "published": "2026-09-23T21:02:27Z",
+    "url": "https://github.com/rancher/rancher/releases/tag/v2.15.2"
+  },
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

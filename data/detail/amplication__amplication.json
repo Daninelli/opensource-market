@@ -1,0 +1,31 @@
+{
+  "repo": "amplication/amplication",
+  "slug": "amplication__amplication",
+  "name": "amplication",
+  "note_zh": "自动生成后端服务的低代码平台",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "低代码平台",
+  "subcategory_slug": "low-code",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Node.js"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-06-30T13:46:55Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/amplication/amplication/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

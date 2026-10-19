@@ -1,0 +1,67 @@
+{
+  "repo": "esengine/DeepSeek-Reasonix",
+  "slug": "esengine__DeepSeek-Reasonix",
+  "name": "DeepSeek-Reasonix",
+  "note_zh": "面向复杂工程任务的可靠编程代理",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Python"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:08:28Z",
+  "added_at": null,
+  "default_branch": "studio",
+  "download_url": "https://codeload.github.com/esengine/DeepSeek-Reasonix/zip/refs/heads/studio",
+  "release": {
+    "tag": "studio-v2.45.0",
+    "name": "Reasonix Studio v2.45.0",
+    "published": "2026-10-19T02:09:00Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix/releases/tag/studio-v2.45.0"
+  },
+  "assets": [
+    {
+      "name": "reasonix-darwin-arm64.tar.gz",
+      "size": 35004383,
+      "url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.45.0/reasonix-darwin-arm64.tar.gz"
+    },
+    {
+      "name": "reasonix-windows-arm64.zip",
+      "size": 35824613,
+      "url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.45.0/reasonix-windows-arm64.zip"
+    },
+    {
+      "name": "reasonix-darwin-amd64.tar.gz",
+      "size": 36242781,
+      "url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.45.0/reasonix-darwin-amd64.tar.gz"
+    },
+    {
+      "name": "reasonix-windows-amd64.zip",
+      "size": 37829263,
+      "url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.45.0/reasonix-windows-amd64.zip"
+    },
+    {
+      "name": "reasonix-linux-arm64.tar.gz",
+      "size": 34608462,
+      "url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.45.0/reasonix-linux-arm64.tar.gz"
+    },
+    {
+      "name": "reasonix-linux-amd64.tar.gz",
+      "size": 36265256,
+      "url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.45.0/reasonix-linux-amd64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

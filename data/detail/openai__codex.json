@@ -1,0 +1,72 @@
+{
+  "repo": "openai/codex",
+  "slug": "openai__codex",
+  "name": "codex",
+  "note_zh": "OpenAI 轻量终端编程代理，可本地执行代码任务",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "TypeScript"
+  ],
+  "deploy_type": "命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:21:26Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/openai/codex/zip/refs/heads/main",
+  "release": {
+    "tag": "rust-v0.163.0",
+    "name": "0.163.0",
+    "published": "2026-10-15T21:30:38Z",
+    "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0"
+  },
+  "assets": [
+    {
+      "name": "codex-responses-api-proxy-aarch64-apple-darwin-bazel.zst",
+      "size": 1903676,
+      "url": "https://github.com/openai/codex/releases/download/rust-v0.163.0/codex-responses-api-proxy-aarch64-apple-darwin-bazel.zst"
+    },
+    {
+      "name": "codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.zst",
+      "size": 1905532,
+      "url": "https://github.com/openai/codex/releases/download/rust-v0.163.0/codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.zst"
+    },
+    {
+      "name": "codex-responses-api-proxy-aarch64-apple-darwin.zst",
+      "size": 1908948,
+      "url": "https://github.com/openai/codex/releases/download/rust-v0.163.0/codex-responses-api-proxy-aarch64-apple-darwin.zst"
+    },
+    {
+      "name": "codex-responses-api-proxy-aarch64-pc-windows-msvc-bazel.exe.zst",
+      "size": 1940146,
+      "url": "https://github.com/openai/codex/releases/download/rust-v0.163.0/codex-responses-api-proxy-aarch64-pc-windows-msvc-bazel.exe.zst"
+    },
+    {
+      "name": "bwrap-aarch64-unknown-linux-musl-bazel.zst",
+      "size": 209624,
+      "url": "https://github.com/openai/codex/releases/download/rust-v0.163.0/bwrap-aarch64-unknown-linux-musl-bazel.zst"
+    },
+    {
+      "name": "bwrap-x86_64-unknown-linux-musl-bazel.zst",
+      "size": 213149,
+      "url": "https://github.com/openai/codex/releases/download/rust-v0.163.0/bwrap-x86_64-unknown-linux-musl-bazel.zst"
+    },
+    {
+      "name": "codex-responses-api-proxy-npm-0.163.0.tgz",
+      "size": 20332103,
+      "url": "https://github.com/openai/codex/releases/download/rust-v0.163.0/codex-responses-api-proxy-npm-0.163.0.tgz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

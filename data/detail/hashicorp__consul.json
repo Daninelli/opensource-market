@@ -1,0 +1,30 @@
+{
+  "repo": "hashicorp/consul",
+  "slug": "hashicorp__consul",
+  "name": "consul",
+  "note_zh": "服务发现与配置中心，多数据中心高可用",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "二进制 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:11:10Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/hashicorp/consul/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

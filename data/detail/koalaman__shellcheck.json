@@ -1,0 +1,61 @@
+{
+  "repo": "koalaman/shellcheck",
+  "slug": "koalaman__shellcheck",
+  "name": "shellcheck",
+  "note_zh": "Shell 脚本静态分析，提前发现语法与陷阱",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Haskell"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T01:25:10Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/koalaman/shellcheck/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.11.0",
+    "name": "Stable version v0.11.0",
+    "published": "2025-08-04T00:27:19Z",
+    "url": "https://github.com/koalaman/shellcheck/releases/tag/v0.11.0"
+  },
+  "assets": [
+    {
+      "name": "shellcheck-v0.11.0.darwin.x86_64.tar.xz",
+      "size": 4393952,
+      "url": "https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.darwin.x86_64.tar.xz"
+    },
+    {
+      "name": "shellcheck-v0.11.0.darwin.x86_64.tar.gz",
+      "size": 6700263,
+      "url": "https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.darwin.x86_64.tar.gz"
+    },
+    {
+      "name": "shellcheck-v0.11.0.linux.x86_64.tar.xz",
+      "size": 2559196,
+      "url": "https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.linux.x86_64.tar.xz"
+    },
+    {
+      "name": "shellcheck-v0.11.0.linux.x86_64.tar.gz",
+      "size": 3773312,
+      "url": "https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.linux.x86_64.tar.gz"
+    },
+    {
+      "name": "shellcheck-v0.11.0.zip",
+      "size": 8068167,
+      "url": "https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

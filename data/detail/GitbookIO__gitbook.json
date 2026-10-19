@@ -1,0 +1,31 @@
+{
+  "repo": "GitbookIO/gitbook",
+  "slug": "GitbookIO__gitbook",
+  "name": "gitbook",
+  "note_zh": "GitBook 文档站开源前端，多人协作写文档",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React"
+  ],
+  "deploy_type": "前端源码 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-16T10:52:56Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/GitbookIO/gitbook/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

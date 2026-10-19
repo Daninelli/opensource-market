@@ -1,0 +1,31 @@
+{
+  "repo": "QwenLM/qwen-code",
+  "slug": "QwenLM__qwen-code",
+  "name": "qwen-code",
+  "note_zh": "通义千问官方终端编程代理，开源可自托管",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Python"
+  ],
+  "deploy_type": "命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:16:49Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/QwenLM/qwen-code/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

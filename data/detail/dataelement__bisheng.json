@@ -1,0 +1,31 @@
+{
+  "repo": "dataelement/bisheng",
+  "slug": "dataelement__bisheng",
+  "name": "bisheng",
+  "note_zh": "企业级 LLM 应用开发运维平台",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "低代码平台",
+  "subcategory_slug": "low-code",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:35:59Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/dataelement/bisheng/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

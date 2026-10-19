@@ -1,0 +1,41 @@
+{
+  "repo": "OpenAPITools/openapi-generator",
+  "slug": "OpenAPITools__openapi-generator",
+  "name": "openapi-generator",
+  "note_zh": "按 OpenAPI 规范生成各语言客户端与服务端骨架",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java"
+  ],
+  "deploy_type": "命令行 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T12:07:05Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/OpenAPITools/openapi-generator/zip/refs/heads/master",
+  "release": {
+    "tag": "v7.26.0",
+    "name": "v7.26.0 released",
+    "published": "2026-10-06T09:33:32Z",
+    "url": "https://github.com/OpenAPITools/openapi-generator/releases/tag/v7.26.0"
+  },
+  "assets": [
+    {
+      "name": "openapi-generator-cli-7.26.0.jar",
+      "size": 33737249,
+      "url": "https://github.com/OpenAPITools/openapi-generator/releases/download/v7.26.0/openapi-generator-cli-7.26.0.jar"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

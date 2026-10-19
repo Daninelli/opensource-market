@@ -1,0 +1,52 @@
+{
+  "repo": "questdb/questdb",
+  "slug": "questdb__questdb",
+  "name": "questdb",
+  "note_zh": "高性能开源时序数据库，支持 SQL 实时分析",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "C++"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:34:41Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/questdb/questdb/zip/refs/heads/master",
+  "release": {
+    "tag": "10.0.1",
+    "name": "10.0.1",
+    "published": "2026-08-24T13:55:02Z",
+    "url": "https://github.com/questdb/questdb/releases/tag/10.0.1"
+  },
+  "assets": [
+    {
+      "name": "questdb-10.0.1-rt-windows-x86-64.tar.gz",
+      "size": 88871519,
+      "url": "https://github.com/questdb/questdb/releases/download/10.0.1/questdb-10.0.1-rt-windows-x86-64.tar.gz"
+    },
+    {
+      "name": "questdb-10.0.1-rt-linux-x86-64.tar.gz",
+      "size": 98016278,
+      "url": "https://github.com/questdb/questdb/releases/download/10.0.1/questdb-10.0.1-rt-linux-x86-64.tar.gz"
+    },
+    {
+      "name": "questdb-10.0.1-no-jre-bin.tar.gz",
+      "size": 36656884,
+      "url": "https://github.com/questdb/questdb/releases/download/10.0.1/questdb-10.0.1-no-jre-bin.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

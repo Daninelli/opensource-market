@@ -1,0 +1,52 @@
+{
+  "repo": "dagster-io/dagster",
+  "slug": "dagster-io__dagster",
+  "name": "dagster",
+  "note_zh": "数据资产编排平台，开发生产观测一体",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "低代码平台",
+  "subcategory_slug": "low-code",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T13:36:17Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/dagster-io/dagster/zip/refs/heads/master",
+  "release": {
+    "tag": "1.13.26",
+    "name": "1.13.26 (core) / 0.29.26 (libraries)",
+    "published": "2026-10-09T23:08:50Z",
+    "url": "https://github.com/dagster-io/dagster/releases/tag/1.13.26"
+  },
+  "assets": [
+    {
+      "name": "create-dagster-x86_64-apple-darwin.tar.xz",
+      "size": 56019536,
+      "url": "https://github.com/dagster-io/dagster/releases/download/1.13.26/create-dagster-x86_64-apple-darwin.tar.xz"
+    },
+    {
+      "name": "create-dagster-aarch64-apple-darwin.tar.xz",
+      "size": 56359672,
+      "url": "https://github.com/dagster-io/dagster/releases/download/1.13.26/create-dagster-aarch64-apple-darwin.tar.xz"
+    },
+    {
+      "name": "create-dagster-x86_64-unknown-linux-gnu.tar.xz",
+      "size": 96600360,
+      "url": "https://github.com/dagster-io/dagster/releases/download/1.13.26/create-dagster-x86_64-unknown-linux-gnu.tar.xz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

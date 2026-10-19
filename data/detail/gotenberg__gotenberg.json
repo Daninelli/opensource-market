@@ -1,0 +1,31 @@
+{
+  "repo": "gotenberg/gotenberg",
+  "slug": "gotenberg__gotenberg",
+  "name": "gotenberg",
+  "note_zh": "文档转 PDF 的开发者友好 API 服务",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Chromium"
+  ],
+  "deploy_type": "Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-16T02:53:13Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/gotenberg/gotenberg/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

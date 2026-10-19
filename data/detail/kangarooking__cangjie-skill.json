@@ -1,0 +1,47 @@
+{
+  "repo": "kangarooking/cangjie-skill",
+  "slug": "kangarooking__cangjie-skill",
+  "name": "cangjie-skill",
+  "note_zh": "把书与长视频蒸馏成可执行 Agent 技能",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Markdown"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-02T03:17:52Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/kangarooking/cangjie-skill/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.5.0",
+    "name": "仓颉 Skill v2.5.0",
+    "published": "2026-08-30T02:38:07Z",
+    "url": "https://github.com/kangarooking/cangjie-skill/releases/tag/v2.5.0"
+  },
+  "assets": [
+    {
+      "name": "dsh-cangjie-skill-2.5.0.tgz",
+      "size": 105400,
+      "url": "https://github.com/kangarooking/cangjie-skill/releases/download/v2.5.0/dsh-cangjie-skill-2.5.0.tgz"
+    },
+    {
+      "name": "cangjie-skill-2.5.0.zip",
+      "size": 143071,
+      "url": "https://github.com/kangarooking/cangjie-skill/releases/download/v2.5.0/cangjie-skill-2.5.0.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

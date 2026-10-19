@@ -1,0 +1,35 @@
+{
+  "repo": "helm/helm",
+  "slug": "helm__helm",
+  "name": "helm",
+  "note_zh": "Kubernetes 包管理器，用模板管理应用发布",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-18T15:37:44Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/helm/helm/zip/refs/heads/main",
+  "release": {
+    "tag": "v4.3.1",
+    "name": "Helm v4.3.1",
+    "published": "2026-10-15T01:08:37Z",
+    "url": "https://github.com/helm/helm/releases/tag/v4.3.1"
+  },
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,61 @@
+{
+  "repo": "HKUDS/nanobot",
+  "slug": "HKUDS__nanobot",
+  "name": "nanobot",
+  "note_zh": "超轻量自托管个人 AI 代理框架",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "源码 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T13:30:45Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/HKUDS/nanobot/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.3.5",
+    "name": "v0.3.5",
+    "published": "2026-09-15T19:05:37Z",
+    "url": "https://github.com/HKUDS/nanobot/releases/tag/v0.3.5"
+  },
+  "assets": [
+    {
+      "name": "nanobot-tui-darwin-arm64.zip",
+      "size": 25277146,
+      "url": "https://github.com/HKUDS/nanobot/releases/download/v0.3.5/nanobot-tui-darwin-arm64.zip"
+    },
+    {
+      "name": "nanobot-tui-darwin-x64.zip",
+      "size": 28089184,
+      "url": "https://github.com/HKUDS/nanobot/releases/download/v0.3.5/nanobot-tui-darwin-x64.zip"
+    },
+    {
+      "name": "nanobot-tui-win32-x64.exe.zip",
+      "size": 44401915,
+      "url": "https://github.com/HKUDS/nanobot/releases/download/v0.3.5/nanobot-tui-win32-x64.exe.zip"
+    },
+    {
+      "name": "nanobot-tui-linux-arm64.zip",
+      "size": 43137257,
+      "url": "https://github.com/HKUDS/nanobot/releases/download/v0.3.5/nanobot-tui-linux-arm64.zip"
+    },
+    {
+      "name": "nanobot-tui-linux-x64.zip",
+      "size": 43320003,
+      "url": "https://github.com/HKUDS/nanobot/releases/download/v0.3.5/nanobot-tui-linux-x64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

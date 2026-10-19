@@ -1,0 +1,56 @@
+{
+  "repo": "dandavison/delta",
+  "slug": "dandavison__delta",
+  "name": "delta",
+  "note_zh": "带语法高亮的 git diff 分页器，读差异更清晰",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-17T02:58:19Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/dandavison/delta/zip/refs/heads/main",
+  "release": {
+    "tag": "0.20.1",
+    "name": "0.20.1",
+    "published": "2026-10-04T19:38:10Z",
+    "url": "https://github.com/dandavison/delta/releases/tag/0.20.1"
+  },
+  "assets": [
+    {
+      "name": "delta-0.20.1-aarch64-apple-darwin.tar.gz",
+      "size": 3022152,
+      "url": "https://github.com/dandavison/delta/releases/download/0.20.1/delta-0.20.1-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "delta-0.20.1-x86_64-pc-windows-msvc.zip",
+      "size": 3450186,
+      "url": "https://github.com/dandavison/delta/releases/download/0.20.1/delta-0.20.1-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "git-delta_0.20.1_armhf.deb",
+      "size": 2379732,
+      "url": "https://github.com/dandavison/delta/releases/download/0.20.1/git-delta_0.20.1_armhf.deb"
+    },
+    {
+      "name": "git-delta_0.20.1_arm64.deb",
+      "size": 2390896,
+      "url": "https://github.com/dandavison/delta/releases/download/0.20.1/git-delta_0.20.1_arm64.deb"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

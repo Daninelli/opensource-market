@@ -1,0 +1,31 @@
+{
+  "repo": "documenso/documenso",
+  "slug": "documenso__documenso",
+  "name": "documenso",
+  "note_zh": "开源电子签名方案，可替代 DocuSign",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "办公套件",
+  "subcategory_slug": "office",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Next.js"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:09:01Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/documenso/documenso/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,31 @@
+{
+  "repo": "continuedev/continue",
+  "slug": "continuedev__continue",
+  "name": "continue",
+  "note_zh": "可接任意模型的开源编程代理，IDE 内对话与补全",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Python"
+  ],
+  "deploy_type": "客户端 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-18T18:34:51Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/continuedev/continue/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

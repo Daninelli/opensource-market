@@ -1,0 +1,57 @@
+{
+  "repo": "wasp-lang/wasp",
+  "slug": "wasp-lang__wasp",
+  "name": "wasp",
+  "note_zh": "全栈框架，用一个配置文件描述前后端与部署",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Haskell"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:18:08Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/wasp-lang/wasp/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.26.0",
+    "name": "v0.26.0",
+    "published": "2026-10-16T06:39:06Z",
+    "url": "https://github.com/wasp-lang/wasp/releases/tag/v0.26.0"
+  },
+  "assets": [
+    {
+      "name": "wasp-macos-x86_64.tar.gz",
+      "size": 6327440,
+      "url": "https://github.com/wasp-lang/wasp/releases/download/v0.26.0/wasp-macos-x86_64.tar.gz"
+    },
+    {
+      "name": "wasp-macos-aarch64.tar.gz",
+      "size": 23585292,
+      "url": "https://github.com/wasp-lang/wasp/releases/download/v0.26.0/wasp-macos-aarch64.tar.gz"
+    },
+    {
+      "name": "wasp-linux-x86_64.tar.gz",
+      "size": 17316368,
+      "url": "https://github.com/wasp-lang/wasp/releases/download/v0.26.0/wasp-linux-x86_64.tar.gz"
+    },
+    {
+      "name": "wasp-linux-x86_64-static.tar.gz",
+      "size": 21232341,
+      "url": "https://github.com/wasp-lang/wasp/releases/download/v0.26.0/wasp-linux-x86_64-static.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

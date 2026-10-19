@@ -1,0 +1,72 @@
+{
+  "repo": "netbirdio/netbird",
+  "slug": "netbirdio__netbird",
+  "name": "netbird",
+  "note_zh": "基于 WireGuard 的零信任网络，连接人与机器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 客户端",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:05:09Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/netbirdio/netbird/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.81.3",
+    "name": "v0.81.3",
+    "published": "2026-10-19T13:50:20Z",
+    "url": "https://github.com/netbirdio/netbird/releases/tag/v0.81.3"
+  },
+  "assets": [
+    {
+      "name": "netbird-ui_0.81.3_darwin_arm64_signed.zip",
+      "size": 10046336,
+      "url": "https://github.com/netbirdio/netbird/releases/download/v0.81.3/netbird-ui_0.81.3_darwin_arm64_signed.zip"
+    },
+    {
+      "name": "netbird-ui_0.81.3_darwin_arm64.tar.gz",
+      "size": 10298216,
+      "url": "https://github.com/netbirdio/netbird/releases/download/v0.81.3/netbird-ui_0.81.3_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "netbird-ui-windows_0.81.3_windows_arm64.tar.gz",
+      "size": 10367128,
+      "url": "https://github.com/netbirdio/netbird/releases/download/v0.81.3/netbird-ui-windows_0.81.3_windows_arm64.tar.gz"
+    },
+    {
+      "name": "netbird-ui-windows_0.81.3_windows_amd64.tar.gz",
+      "size": 11290195,
+      "url": "https://github.com/netbirdio/netbird/releases/download/v0.81.3/netbird-ui-windows_0.81.3_windows_amd64.tar.gz"
+    },
+    {
+      "name": "netbird-mysql-migrate_0.81.3_linux_arm64.tar.gz",
+      "size": 11041075,
+      "url": "https://github.com/netbirdio/netbird/releases/download/v0.81.3/netbird-mysql-migrate_0.81.3_linux_arm64.tar.gz"
+    },
+    {
+      "name": "netbird-mysql-migrate_0.81.3_linux_arm.tar.gz",
+      "size": 11413184,
+      "url": "https://github.com/netbirdio/netbird/releases/download/v0.81.3/netbird-mysql-migrate_0.81.3_linux_arm.tar.gz"
+    },
+    {
+      "name": "netbird_0.81.3.wasm",
+      "size": 60406765,
+      "url": "https://github.com/netbirdio/netbird/releases/download/v0.81.3/netbird_0.81.3.wasm"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

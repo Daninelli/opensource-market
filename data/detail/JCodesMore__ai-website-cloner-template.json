@@ -1,0 +1,31 @@
+{
+  "repo": "JCodesMore/ai-website-cloner-template",
+  "slug": "JCodesMore__ai-website-cloner-template",
+  "name": "ai-website-cloner-template",
+  "note_zh": "一条命令克隆任意网站的 AI 建站模板底座",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Next.js"
+  ],
+  "deploy_type": "前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-05T08:07:48Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/JCodesMore/ai-website-cloner-template/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

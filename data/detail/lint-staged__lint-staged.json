@@ -1,0 +1,31 @@
+{
+  "repo": "lint-staged/lint-staged",
+  "slug": "lint-staged__lint-staged",
+  "name": "lint-staged",
+  "note_zh": "只对暂存文件跑格式化和检查，加速提交",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Node.js"
+  ],
+  "deploy_type": "命令行 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-09-26T05:59:32Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/lint-staged/lint-staged/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

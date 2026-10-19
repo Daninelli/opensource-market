@@ -1,0 +1,67 @@
+{
+  "repo": "Mintplex-Labs/anything-llm",
+  "slug": "Mintplex-Labs__anything-llm",
+  "name": "anything-llm",
+  "note_zh": "本地 LLM 知识库问答，文档转可检索私有助理",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Node.js"
+  ],
+  "deploy_type": "Docker 部署 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-17T01:36:42Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/Mintplex-Labs/anything-llm/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.18.0",
+    "name": "AnythingLLM v1.18.0",
+    "published": "2026-10-13T16:15:52Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm/releases/tag/v1.18.0"
+  },
+  "assets": [
+    {
+      "name": "AnythingLLMDesktop.exe",
+      "size": 407381240,
+      "url": "https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.18.0/AnythingLLMDesktop.exe"
+    },
+    {
+      "name": "AnythingLLMDesktop-Arm64.exe",
+      "size": 513734624,
+      "url": "https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.18.0/AnythingLLMDesktop-Arm64.exe"
+    },
+    {
+      "name": "AnythingLLMDesktop.dmg",
+      "size": 548548002,
+      "url": "https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.18.0/AnythingLLMDesktop.dmg"
+    },
+    {
+      "name": "AnythingLLMDesktop-Silicon.dmg",
+      "size": 582631265,
+      "url": "https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.18.0/AnythingLLMDesktop-Silicon.dmg"
+    },
+    {
+      "name": "AnythingLLMDesktop-Arm64.AppImage",
+      "size": 632226083,
+      "url": "https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.18.0/AnythingLLMDesktop-Arm64.AppImage"
+    },
+    {
+      "name": "AnythingLLMDesktop.AppImage",
+      "size": 903867816,
+      "url": "https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.18.0/AnythingLLMDesktop.AppImage"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

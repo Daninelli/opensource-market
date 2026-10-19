@@ -1,0 +1,67 @@
+{
+  "repo": "unslothai/unsloth",
+  "slug": "unslothai__unsloth",
+  "name": "unsloth",
+  "note_zh": "本地大模型与扩散模型微调界面，显存占用低",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "PyTorch"
+  ],
+  "deploy_type": "源码 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:18:21Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/unslothai/unsloth/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.1.908-beta",
+    "name": "Meta Muse Spark Open + NVIDIA Nemotron 3.5",
+    "published": "2026-10-15T18:50:55Z",
+    "url": "https://github.com/unslothai/unsloth/releases/tag/v0.1.908-beta"
+  },
+  "assets": [
+    {
+      "name": "Unsloth-Desktop-Windows-ARM64.exe",
+      "size": 23300264,
+      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.908-beta/Unsloth-Desktop-Windows-ARM64.exe"
+    },
+    {
+      "name": "Unsloth-Desktop-Windows.exe",
+      "size": 23866696,
+      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.908-beta/Unsloth-Desktop-Windows.exe"
+    },
+    {
+      "name": "Unsloth-Desktop-MacOS.dmg",
+      "size": 25596474,
+      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.908-beta/Unsloth-Desktop-MacOS.dmg"
+    },
+    {
+      "name": "Unsloth-Desktop-Ubuntu.deb",
+      "size": 27661084,
+      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.908-beta/Unsloth-Desktop-Ubuntu.deb"
+    },
+    {
+      "name": "Unsloth-Desktop-Ubuntu-ARM64.deb",
+      "size": 27984470,
+      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.908-beta/Unsloth-Desktop-Ubuntu-ARM64.deb"
+    },
+    {
+      "name": "Unsloth-Desktop-ARM64.app.tar.gz",
+      "size": 25397285,
+      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.908-beta/Unsloth-Desktop-ARM64.app.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

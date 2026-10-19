@@ -1,0 +1,47 @@
+{
+  "repo": "itsfatduck/optimizerDuck",
+  "slug": "itsfatduck__optimizerDuck",
+  "name": "optimizerDuck",
+  "note_zh": "Windows 性能隐私优化工具，开源轻量",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "系统工具",
+  "subcategory_slug": "system",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET"
+  ],
+  "deploy_type": "客户端 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T13:14:55Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/itsfatduck/optimizerDuck/zip/refs/heads/master",
+  "release": {
+    "tag": "v2.29.0",
+    "name": "optimizerDuck v2.29.0 - ARM64 builds, clearer edition names, and Persian",
+    "published": "2026-10-07T14:36:52Z",
+    "url": "https://github.com/itsfatduck/optimizerDuck/releases/tag/v2.29.0"
+  },
+  "assets": [
+    {
+      "name": "optimizerDuck-Windows-arm64-2.29.0.exe",
+      "size": 82224429,
+      "url": "https://github.com/itsfatduck/optimizerDuck/releases/download/v2.29.0/optimizerDuck-Windows-arm64-2.29.0.exe"
+    },
+    {
+      "name": "optimizerDuck-Windows-x64-2.29.0.exe",
+      "size": 87389615,
+      "url": "https://github.com/itsfatduck/optimizerDuck/releases/download/v2.29.0/optimizerDuck-Windows-x64-2.29.0.exe"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

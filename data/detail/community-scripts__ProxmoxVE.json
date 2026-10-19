@@ -1,0 +1,30 @@
+{
+  "repo": "community-scripts/ProxmoxVE",
+  "slug": "community-scripts__ProxmoxVE",
+  "name": "ProxmoxVE",
+  "note_zh": "Proxmox VE 一键部署脚本合集，社区维护",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Shell"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T13:47:53Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/community-scripts/ProxmoxVE/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

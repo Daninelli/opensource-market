@@ -1,0 +1,57 @@
+{
+  "repo": "SigNoz/signoz",
+  "slug": "SigNoz__signoz",
+  "name": "signoz",
+  "note_zh": "OpenTelemetry 原生的可观测平台，日志指标链路一体",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:07:02Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/SigNoz/signoz/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.146.0",
+    "name": "v0.146.0",
+    "published": "2026-10-14T06:42:10Z",
+    "url": "https://github.com/SigNoz/signoz/releases/tag/v0.146.0"
+  },
+  "assets": [
+    {
+      "name": "signoz-community_darwin_arm64.tar.gz",
+      "size": 66285343,
+      "url": "https://github.com/SigNoz/signoz/releases/download/v0.146.0/signoz-community_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "signoz_darwin_arm64.tar.gz",
+      "size": 68049914,
+      "url": "https://github.com/SigNoz/signoz/releases/download/v0.146.0/signoz_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "signoz-community_linux_arm64.tar.gz",
+      "size": 65366254,
+      "url": "https://github.com/SigNoz/signoz/releases/download/v0.146.0/signoz-community_linux_arm64.tar.gz"
+    },
+    {
+      "name": "signoz_linux_arm64.tar.gz",
+      "size": 67061189,
+      "url": "https://github.com/SigNoz/signoz/releases/download/v0.146.0/signoz_linux_arm64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

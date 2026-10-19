@@ -1,0 +1,31 @@
+{
+  "repo": "ScrapeGraphAI/Scrapegraph-ai",
+  "slug": "ScrapeGraphAI__Scrapegraph-ai",
+  "name": "Scrapegraph-ai",
+  "note_zh": "用自然语言描述即可抓取网页的 AI 爬虫库",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "LLM"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-06T08:27:54Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/ScrapeGraphAI/Scrapegraph-ai/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

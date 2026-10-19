@@ -1,0 +1,30 @@
+{
+  "repo": "BuilderIO/mitosis",
+  "slug": "BuilderIO__mitosis",
+  "name": "mitosis",
+  "note_zh": "组件写一次编译到多框架，跨端复用",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "依赖库 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-09-29T15:49:15Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/BuilderIO/mitosis/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

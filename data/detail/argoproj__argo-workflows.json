@@ -1,0 +1,76 @@
+{
+  "repo": "argoproj/argo-workflows",
+  "slug": "argoproj__argo-workflows",
+  "name": "argo-workflows",
+  "note_zh": "Kubernetes 上的工作流引擎，编排批处理任务",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "低代码平台",
+  "subcategory_slug": "low-code",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:57:20Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/argoproj/argo-workflows/zip/refs/heads/main",
+  "release": {
+    "tag": "v4.1.5",
+    "name": "v4.1.5",
+    "published": "2026-10-09T13:58:57Z",
+    "url": "https://github.com/argoproj/argo-workflows/releases/tag/v4.1.5"
+  },
+  "assets": [
+    {
+      "name": "argo-darwin-arm64.gz",
+      "size": 75431722,
+      "url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/argo-darwin-arm64.gz"
+    },
+    {
+      "name": "argo-windows-amd64.exe.gz",
+      "size": 75822929,
+      "url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/argo-windows-amd64.exe.gz"
+    },
+    {
+      "name": "argo-darwin-amd64.gz",
+      "size": 79054023,
+      "url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/argo-darwin-amd64.gz"
+    },
+    {
+      "name": "argo-linux-arm64.gz",
+      "size": 69633047,
+      "url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/argo-linux-arm64.gz"
+    },
+    {
+      "name": "argo-linux-ppc64le.gz",
+      "size": 70186020,
+      "url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/argo-linux-ppc64le.gz"
+    },
+    {
+      "name": "sbom.tar.gz",
+      "size": 283735,
+      "url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/sbom.tar.gz"
+    },
+    {
+      "name": "namespace-install.yaml",
+      "size": 11984924,
+      "url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/namespace-install.yaml"
+    },
+    {
+      "name": "install.yaml",
+      "size": 11987610,
+      "url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/install.yaml"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

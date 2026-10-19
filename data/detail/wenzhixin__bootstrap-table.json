@@ -1,0 +1,30 @@
+{
+  "repo": "wenzhixin/bootstrap-table",
+  "slug": "wenzhixin__bootstrap-table",
+  "name": "bootstrap-table",
+  "note_zh": "功能丰富的表格组件，可接入主流 CSS 框架",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-19T07:26:15Z",
+  "added_at": null,
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/wenzhixin/bootstrap-table/zip/refs/heads/develop",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

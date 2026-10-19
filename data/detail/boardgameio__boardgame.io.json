@@ -1,0 +1,30 @@
+{
+  "repo": "boardgameio/boardgame.io",
+  "slug": "boardgameio__boardgame.io",
+  "name": "boardgame.io",
+  "note_zh": "回合制游戏的状态管理与联机网络层",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏引擎",
+  "subcategory_slug": "engine",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-09-18T15:14:16Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/boardgameio/boardgame.io/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

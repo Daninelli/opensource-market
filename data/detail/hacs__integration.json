@@ -1,0 +1,41 @@
+{
+  "repo": "hacs/integration",
+  "slug": "hacs__integration",
+  "name": "integration",
+  "note_zh": "Home Assistant 的社区插件商店，一键装扩展",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "智能家居",
+  "subcategory_slug": "smart-home",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python"
+  ],
+  "deploy_type": "自托管服务 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:03:06Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/hacs/integration/zip/refs/heads/main",
+  "release": {
+    "tag": "2.0.5",
+    "name": "2.0.5",
+    "published": "2025-01-28T07:26:46Z",
+    "url": "https://github.com/hacs/integration/releases/tag/2.0.5"
+  },
+  "assets": [
+    {
+      "name": "hacs.zip",
+      "size": 19021117,
+      "url": "https://github.com/hacs/integration/releases/download/2.0.5/hacs.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,46 @@
+{
+  "repo": "AutoHotkey/AutoHotkey",
+  "slug": "AutoHotkey__AutoHotkey",
+  "name": "AutoHotkey",
+  "note_zh": "Windows 宏与自动化脚本工具，效率神器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "自动化",
+  "subcategory_slug": "automation",
+  "license": "GPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++"
+  ],
+  "deploy_type": "客户端 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-18T08:40:46Z",
+  "added_at": null,
+  "default_branch": "alpha",
+  "download_url": "https://codeload.github.com/AutoHotkey/AutoHotkey/zip/refs/heads/alpha",
+  "release": {
+    "tag": "v2.0.30",
+    "name": "v2.0.30",
+    "published": "2026-10-09T04:46:24Z",
+    "url": "https://github.com/AutoHotkey/AutoHotkey/releases/tag/v2.0.30"
+  },
+  "assets": [
+    {
+      "name": "AutoHotkey_2.0.30_setup.exe",
+      "size": 3040256,
+      "url": "https://github.com/AutoHotkey/AutoHotkey/releases/download/v2.0.30/AutoHotkey_2.0.30_setup.exe"
+    },
+    {
+      "name": "AutoHotkey_2.0.30.zip",
+      "size": 3155998,
+      "url": "https://github.com/AutoHotkey/AutoHotkey/releases/download/v2.0.30/AutoHotkey_2.0.30.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

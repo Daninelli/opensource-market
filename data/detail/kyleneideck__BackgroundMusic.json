@@ -1,0 +1,47 @@
+{
+  "repo": "kyleneideck/BackgroundMusic",
+  "slug": "kyleneideck__BackgroundMusic",
+  "name": "BackgroundMusic",
+  "note_zh": "macOS 音频工具，自动暂停背景音乐与音量控制",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "GPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Swift"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-06-10T08:58:49Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/kyleneideck/BackgroundMusic/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.5.0",
+    "name": "Background Music v0.5.0",
+    "published": "2026-06-10T08:45:52Z",
+    "url": "https://github.com/kyleneideck/BackgroundMusic/releases/tag/v0.5.0"
+  },
+  "assets": [
+    {
+      "name": "BackgroundMusic-0.5.0.pkg",
+      "size": 806818,
+      "url": "https://github.com/kyleneideck/BackgroundMusic/releases/download/v0.5.0/BackgroundMusic-0.5.0.pkg"
+    },
+    {
+      "name": "build-artifacts-v0.5.0.zip",
+      "size": 9240141,
+      "url": "https://github.com/kyleneideck/BackgroundMusic/releases/download/v0.5.0/build-artifacts-v0.5.0.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

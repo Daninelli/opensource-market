@@ -1,0 +1,47 @@
+{
+  "repo": "fosrl/pangolin",
+  "slug": "fosrl__pangolin",
+  "name": "pangolin",
+  "note_zh": "带身份认证的反向代理，安全暴露内网服务",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:21:54Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/fosrl/pangolin/zip/refs/heads/main",
+  "release": {
+    "tag": "1.24.0",
+    "name": "1.24.0",
+    "published": "2026-09-30T20:23:59Z",
+    "url": "https://github.com/fosrl/pangolin/releases/tag/1.24.0"
+  },
+  "assets": [
+    {
+      "name": "installer_linux_arm64",
+      "size": 9030255,
+      "url": "https://github.com/fosrl/pangolin/releases/download/1.24.0/installer_linux_arm64"
+    },
+    {
+      "name": "installer_linux_amd64",
+      "size": 9484385,
+      "url": "https://github.com/fosrl/pangolin/releases/download/1.24.0/installer_linux_amd64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

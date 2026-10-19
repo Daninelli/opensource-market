@@ -1,0 +1,30 @@
+{
+  "repo": "transact-rs/sqlx",
+  "slug": "transact-rs__sqlx",
+  "name": "sqlx",
+  "note_zh": "Rust 异步 SQL 工具箱，编译期校验查询",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-16T00:50:52Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/transact-rs/sqlx/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

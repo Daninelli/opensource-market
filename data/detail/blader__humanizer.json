@@ -1,0 +1,30 @@
+{
+  "repo": "blader/humanizer",
+  "slug": "blader__humanizer",
+  "name": "humanizer",
+  "note_zh": "去除 AI 写作痕迹的智能体技能，让文风更自然",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Markdown"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-16T19:12:03Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/blader/humanizer/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

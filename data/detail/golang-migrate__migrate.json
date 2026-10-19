@@ -1,0 +1,71 @@
+{
+  "repo": "golang-migrate/migrate",
+  "slug": "golang-migrate__migrate",
+  "name": "migrate",
+  "note_zh": "数据库版本迁移工具，支持多种数据库与源",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-09-09T05:06:21Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/golang-migrate/migrate/zip/refs/heads/master",
+  "release": {
+    "tag": "v4.20.1",
+    "name": "v4.20.1",
+    "published": "2026-09-09T06:21:49Z",
+    "url": "https://github.com/golang-migrate/migrate/releases/tag/v4.20.1"
+  },
+  "assets": [
+    {
+      "name": "migrate.windows-arm64.zip",
+      "size": 16754518,
+      "url": "https://github.com/golang-migrate/migrate/releases/download/v4.20.1/migrate.windows-arm64.zip"
+    },
+    {
+      "name": "migrate.darwin-arm64.tar.gz",
+      "size": 17568938,
+      "url": "https://github.com/golang-migrate/migrate/releases/download/v4.20.1/migrate.darwin-arm64.tar.gz"
+    },
+    {
+      "name": "migrate.windows-386.zip",
+      "size": 18128185,
+      "url": "https://github.com/golang-migrate/migrate/releases/download/v4.20.1/migrate.windows-386.zip"
+    },
+    {
+      "name": "migrate.darwin-amd64.tar.gz",
+      "size": 18816941,
+      "url": "https://github.com/golang-migrate/migrate/releases/download/v4.20.1/migrate.darwin-amd64.tar.gz"
+    },
+    {
+      "name": "migrate.linux-arm64.tar.gz",
+      "size": 16611335,
+      "url": "https://github.com/golang-migrate/migrate/releases/download/v4.20.1/migrate.linux-arm64.tar.gz"
+    },
+    {
+      "name": "migrate.linux-arm64.deb",
+      "size": 16674966,
+      "url": "https://github.com/golang-migrate/migrate/releases/download/v4.20.1/migrate.linux-arm64.deb"
+    },
+    {
+      "name": "migrate-4.20.1.zip",
+      "size": 355774,
+      "url": "https://github.com/golang-migrate/migrate/releases/download/v4.20.1/migrate-4.20.1.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

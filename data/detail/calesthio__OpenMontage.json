@@ -1,0 +1,31 @@
+{
+  "repo": "calesthio/OpenMontage",
+  "slug": "calesthio__OpenMontage",
+  "name": "OpenMontage",
+  "note_zh": "智能体驱动的视频生产系统，自动完成剪辑与合成",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Python"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-16T15:07:33Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/calesthio/OpenMontage/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,77 @@
+{
+  "repo": "nukeop/nuclear",
+  "slug": "nukeop__nuclear",
+  "name": "nuclear",
+  "note_zh": "自动聚合免费音源的开源音乐播放器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T13:51:08Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/nukeop/nuclear/zip/refs/heads/master",
+  "release": {
+    "tag": "player@1.51.2",
+    "name": "Nuclear Player v1.51.2",
+    "published": "2026-10-16T00:52:44Z",
+    "url": "https://github.com/nukeop/nuclear/releases/tag/player%401.51.2"
+  },
+  "assets": [
+    {
+      "name": "Nuclear_1.51.2_x64-setup.exe",
+      "size": 15016220,
+      "url": "https://github.com/nukeop/nuclear/releases/download/player%401.51.2/Nuclear_1.51.2_x64-setup.exe"
+    },
+    {
+      "name": "Nuclear_1.51.2_x64_en-US.msi",
+      "size": 19931136,
+      "url": "https://github.com/nukeop/nuclear/releases/download/player%401.51.2/Nuclear_1.51.2_x64_en-US.msi"
+    },
+    {
+      "name": "Nuclear_1.51.2_aarch64.dmg",
+      "size": 22303307,
+      "url": "https://github.com/nukeop/nuclear/releases/download/player%401.51.2/Nuclear_1.51.2_aarch64.dmg"
+    },
+    {
+      "name": "Nuclear_1.51.2_x64.dmg",
+      "size": 23389655,
+      "url": "https://github.com/nukeop/nuclear/releases/download/player%401.51.2/Nuclear_1.51.2_x64.dmg"
+    },
+    {
+      "name": "Nuclear_1.51.2_x86_64.flatpak",
+      "size": 15472568,
+      "url": "https://github.com/nukeop/nuclear/releases/download/player%401.51.2/Nuclear_1.51.2_x86_64.flatpak"
+    },
+    {
+      "name": "Nuclear_1.51.2_amd64.deb",
+      "size": 22687530,
+      "url": "https://github.com/nukeop/nuclear/releases/download/player%401.51.2/Nuclear_1.51.2_amd64.deb"
+    },
+    {
+      "name": "Nuclear_1.51.2_aarch64.app.tar.gz",
+      "size": 21626667,
+      "url": "https://github.com/nukeop/nuclear/releases/download/player%401.51.2/Nuclear_1.51.2_aarch64.app.tar.gz"
+    },
+    {
+      "name": "Nuclear_1.51.2_x64.app.tar.gz",
+      "size": 22581148,
+      "url": "https://github.com/nukeop/nuclear/releases/download/player%401.51.2/Nuclear_1.51.2_x64.app.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

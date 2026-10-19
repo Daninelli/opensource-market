@@ -1,0 +1,71 @@
+{
+  "repo": "lapce/lapce",
+  "slug": "lapce__lapce",
+  "name": "lapce",
+  "note_zh": "Rust 编写的极速代码编辑器，内置 LSP 与远程开发",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-09T00:41:19Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/lapce/lapce/zip/refs/heads/master",
+  "release": {
+    "tag": "v0.4.6",
+    "name": "v0.4.6",
+    "published": "2026-01-21T21:44:37Z",
+    "url": "https://github.com/lapce/lapce/releases/tag/v0.4.6"
+  },
+  "assets": [
+    {
+      "name": "lapce-proxy-windows-x86_64.gz",
+      "size": 7815244,
+      "url": "https://github.com/lapce/lapce/releases/download/v0.4.6/lapce-proxy-windows-x86_64.gz"
+    },
+    {
+      "name": "lapce-proxy-darwin-aarch64.gz",
+      "size": 8833366,
+      "url": "https://github.com/lapce/lapce/releases/download/v0.4.6/lapce-proxy-darwin-aarch64.gz"
+    },
+    {
+      "name": "lapce-proxy-darwin-x86_64.gz",
+      "size": 9126584,
+      "url": "https://github.com/lapce/lapce/releases/download/v0.4.6/lapce-proxy-darwin-x86_64.gz"
+    },
+    {
+      "name": "Lapce-windows-portable.zip",
+      "size": 19695035,
+      "url": "https://github.com/lapce/lapce/releases/download/v0.4.6/Lapce-windows-portable.zip"
+    },
+    {
+      "name": "lapce-proxy-linux-aarch64.gz",
+      "size": 10256360,
+      "url": "https://github.com/lapce/lapce/releases/download/v0.4.6/lapce-proxy-linux-aarch64.gz"
+    },
+    {
+      "name": "lapce-proxy-linux-x86_64.gz",
+      "size": 10730425,
+      "url": "https://github.com/lapce/lapce/releases/download/v0.4.6/lapce-proxy-linux-x86_64.gz"
+    },
+    {
+      "name": "vendor.tar.gz",
+      "size": 148103315,
+      "url": "https://github.com/lapce/lapce/releases/download/v0.4.6/vendor.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

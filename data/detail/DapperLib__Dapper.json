@@ -1,0 +1,31 @@
+{
+  "repo": "DapperLib/Dapper",
+  "slug": "DapperLib__Dapper",
+  "name": "Dapper",
+  "note_zh": "轻量高性能的 .NET 对象映射器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-09-23T04:33:15Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/DapperLib/Dapper/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,31 @@
+{
+  "repo": "comet-ml/opik",
+  "slug": "comet-ml__opik",
+  "name": "opik",
+  "note_zh": "LLM 应用与智能体的调试评估监控平台",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:01:00Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/comet-ml/opik/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

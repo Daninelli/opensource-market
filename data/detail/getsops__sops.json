@@ -1,0 +1,66 @@
+{
+  "repo": "getsops/sops",
+  "slug": "getsops__sops",
+  "name": "sops",
+  "note_zh": "简单灵活的密钥与配置加密管理工具",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "MPL-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:15:55Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/getsops/sops/zip/refs/heads/main",
+  "release": {
+    "tag": "v3.13.3",
+    "name": "v3.13.3",
+    "published": "2026-07-23T05:27:57Z",
+    "url": "https://github.com/getsops/sops/releases/tag/v3.13.3"
+  },
+  "assets": [
+    {
+      "name": "sops-v3.13.3.arm64.exe",
+      "size": 48963072,
+      "url": "https://github.com/getsops/sops/releases/download/v3.13.3/sops-v3.13.3.arm64.exe"
+    },
+    {
+      "name": "sops-v3.13.3.darwin.arm64",
+      "size": 50168146,
+      "url": "https://github.com/getsops/sops/releases/download/v3.13.3/sops-v3.13.3.darwin.arm64"
+    },
+    {
+      "name": "sops-v3.13.3.amd64.exe",
+      "size": 53497856,
+      "url": "https://github.com/getsops/sops/releases/download/v3.13.3/sops-v3.13.3.amd64.exe"
+    },
+    {
+      "name": "sops-v3.13.3.darwin.amd64",
+      "size": 53674896,
+      "url": "https://github.com/getsops/sops/releases/download/v3.13.3/sops-v3.13.3.darwin.amd64"
+    },
+    {
+      "name": "sops_3.13.3_arm64.deb",
+      "size": 14887884,
+      "url": "https://github.com/getsops/sops/releases/download/v3.13.3/sops_3.13.3_arm64.deb"
+    },
+    {
+      "name": "sops-3.13.3-1.aarch64.rpm",
+      "size": 15381222,
+      "url": "https://github.com/getsops/sops/releases/download/v3.13.3/sops-3.13.3-1.aarch64.rpm"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

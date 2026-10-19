@@ -1,0 +1,41 @@
+{
+  "repo": "heygen-com/hyperframes",
+  "slug": "heygen-com__hyperframes",
+  "name": "hyperframes",
+  "note_zh": "写 HTML 直接渲染成视频，为智能体设计的视频管线",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "依赖库 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:21:18Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/heygen-com/hyperframes/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.8.175",
+    "name": "v0.8.175",
+    "published": "2026-10-19T14:58:04Z",
+    "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.175"
+  },
+  "assets": [
+    {
+      "name": "hyperframes-agent-plugin.zip",
+      "size": 11933954,
+      "url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.175/hyperframes-agent-plugin.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

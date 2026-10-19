@@ -1,0 +1,31 @@
+{
+  "repo": "harness/harness",
+  "slug": "harness__harness",
+  "name": "harness",
+  "note_zh": "端到端开发者平台，代码托管流水线制品库一体",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "开发工具",
+  "subcategory_slug": "devtools",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T09:56:56Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/harness/harness/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

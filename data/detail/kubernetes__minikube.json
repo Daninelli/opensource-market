@@ -1,0 +1,76 @@
+{
+  "repo": "kubernetes/minikube",
+  "slug": "kubernetes__minikube",
+  "name": "minikube",
+  "note_zh": "本机一键起 Kubernetes 集群，用于开发与测试",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:00:02Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/kubernetes/minikube/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.39.0",
+    "name": "v1.39.0",
+    "published": "2026-09-02T21:09:46Z",
+    "url": "https://github.com/kubernetes/minikube/releases/tag/v1.39.0"
+  },
+  "assets": [
+    {
+      "name": "minikube-windows-amd64.tar.gz",
+      "size": 53971761,
+      "url": "https://github.com/kubernetes/minikube/releases/download/v1.39.0/minikube-windows-amd64.tar.gz"
+    },
+    {
+      "name": "minikube-installer.exe",
+      "size": 54308621,
+      "url": "https://github.com/kubernetes/minikube/releases/download/v1.39.0/minikube-installer.exe"
+    },
+    {
+      "name": "minikube-darwin-arm64.tar.gz",
+      "size": 54887069,
+      "url": "https://github.com/kubernetes/minikube/releases/download/v1.39.0/minikube-darwin-arm64.tar.gz"
+    },
+    {
+      "name": "minikube-darwin-amd64.tar.gz",
+      "size": 57954213,
+      "url": "https://github.com/kubernetes/minikube/releases/download/v1.39.0/minikube-darwin-amd64.tar.gz"
+    },
+    {
+      "name": "minikube_1.39.0-0_ppc64el.deb",
+      "size": 39402948,
+      "url": "https://github.com/kubernetes/minikube/releases/download/v1.39.0/minikube_1.39.0-0_ppc64el.deb"
+    },
+    {
+      "name": "minikube_latest_ppc64el.deb",
+      "size": 39402948,
+      "url": "https://github.com/kubernetes/minikube/releases/download/v1.39.0/minikube_latest_ppc64el.deb"
+    },
+    {
+      "name": "licenses.tar.gz",
+      "size": 338390,
+      "url": "https://github.com/kubernetes/minikube/releases/download/v1.39.0/licenses.tar.gz"
+    },
+    {
+      "name": "minikube_v1.39.0_sbom.spdx",
+      "size": 3297680,
+      "url": "https://github.com/kubernetes/minikube/releases/download/v1.39.0/minikube_v1.39.0_sbom.spdx"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

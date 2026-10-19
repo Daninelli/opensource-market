@@ -1,0 +1,57 @@
+{
+  "repo": "mudler/LocalAI",
+  "slug": "mudler__LocalAI",
+  "name": "LocalAI",
+  "note_zh": "本地 AI 推理引擎，OpenAI 兼容接口一键自托管",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Python"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:06:00Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/mudler/LocalAI/zip/refs/heads/master",
+  "release": {
+    "tag": "v4.11.0",
+    "name": "v4.11.0",
+    "published": "2026-10-02T21:56:09Z",
+    "url": "https://github.com/mudler/LocalAI/releases/tag/v4.11.0"
+  },
+  "assets": [
+    {
+      "name": "LocalAI.dmg",
+      "size": 20473484,
+      "url": "https://github.com/mudler/LocalAI/releases/download/v4.11.0/LocalAI.dmg"
+    },
+    {
+      "name": "local-ai-v4.11.0-darwin-arm64",
+      "size": 190847445,
+      "url": "https://github.com/mudler/LocalAI/releases/download/v4.11.0/local-ai-v4.11.0-darwin-arm64"
+    },
+    {
+      "name": "local-ai-launcher-linux.tar.xz",
+      "size": 16627268,
+      "url": "https://github.com/mudler/LocalAI/releases/download/v4.11.0/local-ai-launcher-linux.tar.xz"
+    },
+    {
+      "name": "local-ai-v4.11.0-linux-arm64",
+      "size": 183697570,
+      "url": "https://github.com/mudler/LocalAI/releases/download/v4.11.0/local-ai-v4.11.0-linux-arm64"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

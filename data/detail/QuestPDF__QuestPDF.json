@@ -1,0 +1,47 @@
+{
+  "repo": "QuestPDF/QuestPDF",
+  "slug": "QuestPDF__QuestPDF",
+  "name": "QuestPDF",
+  "note_zh": "现代化 PDF 生成库，链式 API 排版",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C#",
+    ".NET"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-09-30T10:07:18Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/QuestPDF/QuestPDF/zip/refs/heads/main",
+  "release": {
+    "tag": "2026.9.1",
+    "name": "2026.9.1",
+    "published": "2026-09-25T15:18:11Z",
+    "url": "https://github.com/QuestPDF/QuestPDF/releases/tag/2026.9.1"
+  },
+  "assets": [
+    {
+      "name": "QuestPDF.2026.9.1.snupkg",
+      "size": 568448,
+      "url": "https://github.com/QuestPDF/QuestPDF/releases/download/2026.9.1/QuestPDF.2026.9.1.snupkg"
+    },
+    {
+      "name": "QuestPDF.2026.9.1.nupkg",
+      "size": 49762064,
+      "url": "https://github.com/QuestPDF/QuestPDF/releases/download/2026.9.1/QuestPDF.2026.9.1.nupkg"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

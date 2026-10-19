@@ -1,0 +1,31 @@
+{
+  "repo": "pingcap/tidb",
+  "slug": "pingcap__tidb",
+  "name": "tidb",
+  "note_zh": "分布式 HTAP 数据库，兼容 MySQL 协议弹性扩展",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go",
+    "Rust"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:39:12Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/pingcap/tidb/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

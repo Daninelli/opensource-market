@@ -1,0 +1,31 @@
+{
+  "repo": "giscus/giscus",
+  "slug": "giscus__giscus",
+  "name": "giscus",
+  "note_zh": "基于 GitHub Discussions 的评论系统",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "React"
+  ],
+  "deploy_type": "前端源码",
+  "platform": "github",
+  "updated_at": "2026-05-26T22:20:10Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/giscus/giscus/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

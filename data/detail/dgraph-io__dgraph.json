@@ -1,0 +1,46 @@
+{
+  "repo": "dgraph-io/dgraph",
+  "slug": "dgraph-io__dgraph",
+  "name": "dgraph",
+  "note_zh": "面向实时场景的高性能图数据库",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T13:38:13Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/dgraph-io/dgraph/zip/refs/heads/main",
+  "release": {
+    "tag": "v25.5.0",
+    "name": "v25.5.0",
+    "published": "2026-10-13T19:37:37Z",
+    "url": "https://github.com/dgraph-io/dgraph/releases/tag/v25.5.0"
+  },
+  "assets": [
+    {
+      "name": "dgraph-linux-arm64.tar.gz",
+      "size": 35918510,
+      "url": "https://github.com/dgraph-io/dgraph/releases/download/v25.5.0/dgraph-linux-arm64.tar.gz"
+    },
+    {
+      "name": "dgraph-linux-amd64.tar.gz",
+      "size": 38937325,
+      "url": "https://github.com/dgraph-io/dgraph/releases/download/v25.5.0/dgraph-linux-amd64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

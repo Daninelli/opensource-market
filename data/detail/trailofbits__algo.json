@@ -1,0 +1,31 @@
+{
+  "repo": "trailofbits/algo",
+  "slug": "trailofbits__algo",
+  "name": "algo",
+  "note_zh": "几条命令在云上搭好个人 VPN，自动加固",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Ansible"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-14T20:22:07Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/trailofbits/algo/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

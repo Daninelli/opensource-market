@@ -1,0 +1,76 @@
+{
+  "repo": "pranshuparmar/witr",
+  "slug": "pranshuparmar__witr",
+  "name": "witr",
+  "note_zh": "追溯进程端口容器文件由谁启动，排障利器",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T06:30:48Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/pranshuparmar/witr/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.3.4",
+    "name": "v0.3.4",
+    "published": "2026-10-04T17:33:12Z",
+    "url": "https://github.com/pranshuparmar/witr/releases/tag/v0.3.4"
+  },
+  "assets": [
+    {
+      "name": "witr-windows-arm64.zip",
+      "size": 2263902,
+      "url": "https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-windows-arm64.zip"
+    },
+    {
+      "name": "witr-windows-amd64.zip",
+      "size": 2508815,
+      "url": "https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-windows-amd64.zip"
+    },
+    {
+      "name": "witr-darwin-arm64",
+      "size": 6935586,
+      "url": "https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-darwin-arm64"
+    },
+    {
+      "name": "witr-darwin-amd64",
+      "size": 7135392,
+      "url": "https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-darwin-amd64"
+    },
+    {
+      "name": "witr-0.3.4-linux-arm64.deb",
+      "size": 2584524,
+      "url": "https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-0.3.4-linux-arm64.deb"
+    },
+    {
+      "name": "witr-0.3.4-linux-arm64.rpm",
+      "size": 2587664,
+      "url": "https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-0.3.4-linux-arm64.rpm"
+    },
+    {
+      "name": "witr-0.3.4-linux-arm64.apk",
+      "size": 2676246,
+      "url": "https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-0.3.4-linux-arm64.apk"
+    },
+    {
+      "name": "witr-0.3.4-linux-loong64.apk",
+      "size": 2767146,
+      "url": "https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-0.3.4-linux-loong64.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

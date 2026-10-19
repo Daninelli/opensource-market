@@ -1,0 +1,62 @@
+{
+  "repo": "mapeditor/tiled",
+  "slug": "mapeditor__tiled",
+  "name": "tiled",
+  "note_zh": "通用游戏关卡地图编辑器，支持多种格式",
+  "category": "游戏",
+  "category_slug": "game",
+  "subcategory": "游戏引擎",
+  "subcategory_slug": "engine",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Qt"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:22:57Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/mapeditor/tiled/zip/refs/heads/master",
+  "release": {
+    "tag": "v1.12.2",
+    "name": "Tiled 1.12.2",
+    "published": "2026-05-27T15:17:56Z",
+    "url": "https://github.com/mapeditor/tiled/releases/tag/v1.12.2"
+  },
+  "assets": [
+    {
+      "name": "Tiled-1.12.2_macOS-10.13-12.zip",
+      "size": 18040894,
+      "url": "https://github.com/mapeditor/tiled/releases/download/v1.12.2/Tiled-1.12.2_macOS-10.13-12.zip"
+    },
+    {
+      "name": "Tiled-1.12.2_Windows-7-8_x86.msi",
+      "size": 21364736,
+      "url": "https://github.com/mapeditor/tiled/releases/download/v1.12.2/Tiled-1.12.2_Windows-7-8_x86.msi"
+    },
+    {
+      "name": "Tiled-1.12.2_Windows-10+_x86_64.msi",
+      "size": 23425024,
+      "url": "https://github.com/mapeditor/tiled/releases/download/v1.12.2/Tiled-1.12.2_Windows-10%2B_x86_64.msi"
+    },
+    {
+      "name": "Tiled-1.12.2_macOS-13+.zip",
+      "size": 37795686,
+      "url": "https://github.com/mapeditor/tiled/releases/download/v1.12.2/Tiled-1.12.2_macOS-13%2B.zip"
+    },
+    {
+      "name": "Tiled-1.12.2_Linux_x86_64.AppImage",
+      "size": 47286776,
+      "url": "https://github.com/mapeditor/tiled/releases/download/v1.12.2/Tiled-1.12.2_Linux_x86_64.AppImage"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

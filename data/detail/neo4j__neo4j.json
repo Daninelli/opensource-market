@@ -1,0 +1,31 @@
+{
+  "repo": "neo4j/neo4j",
+  "slug": "neo4j__neo4j",
+  "name": "neo4j",
+  "note_zh": "图数据库事实标准，适合关系网络分析",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java",
+    "Kotlin"
+  ],
+  "deploy_type": "Docker 部署 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-09T14:37:06Z",
+  "added_at": null,
+  "default_branch": "2026.09",
+  "download_url": "https://codeload.github.com/neo4j/neo4j/zip/refs/heads/2026.09",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

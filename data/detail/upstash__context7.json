@@ -1,0 +1,30 @@
+{
+  "repo": "upstash/context7",
+  "slug": "upstash__context7",
+  "name": "context7",
+  "note_zh": "给 AI 编程代理提供实时最新的库文档上下文",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "Docker 部署 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T13:47:45Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/upstash/context7/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -1,0 +1,30 @@
+{
+  "repo": "allinurl/goaccess",
+  "slug": "allinurl__goaccess",
+  "name": "goaccess",
+  "note_zh": "终端里的实时 Web 日志分析器与可视化面板",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维监控",
+  "subcategory_slug": "monitoring",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-19T13:17:12Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/allinurl/goaccess/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

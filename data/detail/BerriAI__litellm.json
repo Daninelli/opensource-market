@@ -1,0 +1,31 @@
+{
+  "repo": "BerriAI/litellm",
+  "slug": "BerriAI__litellm",
+  "name": "litellm",
+  "note_zh": "统一 100+ 模型的 AI 网关，带配额与成本追踪",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Rust"
+  ],
+  "deploy_type": "依赖库 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:20:54Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/BerriAI/litellm/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

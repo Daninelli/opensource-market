@@ -1,0 +1,31 @@
+{
+  "repo": "n8n-io/self-hosted-ai-starter-kit",
+  "slug": "n8n-io__self-hosted-ai-starter-kit",
+  "name": "self-hosted-ai-starter-kit",
+  "note_zh": "自托管 AI 起步模板，一键拉起整套本地栈",
+  "category": "企业服务",
+  "category_slug": "enterprise",
+  "subcategory": "低代码平台",
+  "subcategory_slug": "low-code",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Docker"
+  ],
+  "deploy_type": "Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-12T08:50:13Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/n8n-io/self-hosted-ai-starter-kit/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

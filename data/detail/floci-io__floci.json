@@ -1,0 +1,30 @@
+{
+  "repo": "floci-io/floci",
+  "slug": "floci-io__floci",
+  "name": "floci",
+  "note_zh": "本地模拟 AWS 服务的轻量替代方案",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / Docker 部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T14:57:04Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/floci-io/floci/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

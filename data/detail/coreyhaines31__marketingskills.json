@@ -1,0 +1,41 @@
+{
+  "repo": "coreyhaines31/marketingskills",
+  "slug": "coreyhaines31__marketingskills",
+  "name": "marketingskills",
+  "note_zh": "面向 AI 代理的营销技能包，覆盖文案 SEO 转化",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Markdown"
+  ],
+  "deploy_type": "命令行 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-15T21:33:21Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/coreyhaines31/marketingskills/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.11.37",
+    "name": "v2.11.37 — Copywriting and ads now read the learnings ledger added to product-marketing in 2.11.34.",
+    "published": "2026-10-15T18:35:22Z",
+    "url": "https://github.com/coreyhaines31/marketingskills/releases/tag/v2.11.37"
+  },
+  "assets": [
+    {
+      "name": "marketing-plan-claude-web.zip",
+      "size": 105764,
+      "url": "https://github.com/coreyhaines31/marketingskills/releases/download/v2.11.37/marketing-plan-claude-web.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

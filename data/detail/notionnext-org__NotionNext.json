@@ -1,0 +1,31 @@
+{
+  "repo": "notionnext-org/NotionNext",
+  "slug": "notionnext-org__NotionNext",
+  "name": "NotionNext",
+  "note_zh": "把 Notion 变成快速可定制的独立站点",
+  "category": "内容媒体",
+  "category_slug": "media",
+  "subcategory": "建站与 CMS",
+  "subcategory_slug": "cms",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Next.js"
+  ],
+  "deploy_type": "前端源码",
+  "platform": "github",
+  "updated_at": "2026-10-19T08:58:51Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/notionnext-org/NotionNext/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

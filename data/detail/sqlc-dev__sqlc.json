@@ -1,0 +1,66 @@
+{
+  "repo": "sqlc-dev/sqlc",
+  "slug": "sqlc-dev__sqlc",
+  "name": "sqlc",
+  "note_zh": "从 SQL 生成类型安全的访问代码",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Go"
+  ],
+  "deploy_type": "命令行 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-17T03:20:11Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/sqlc-dev/sqlc/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.31.1",
+    "name": "v1.31.1",
+    "published": "2026-04-22T14:55:41Z",
+    "url": "https://github.com/sqlc-dev/sqlc/releases/tag/v1.31.1"
+  },
+  "assets": [
+    {
+      "name": "sqlc_1.31.1_windows_arm64.zip",
+      "size": 13661627,
+      "url": "https://github.com/sqlc-dev/sqlc/releases/download/v1.31.1/sqlc_1.31.1_windows_arm64.zip"
+    },
+    {
+      "name": "sqlc_1.31.1_windows_arm64.tar.gz",
+      "size": 13755056,
+      "url": "https://github.com/sqlc-dev/sqlc/releases/download/v1.31.1/sqlc_1.31.1_windows_arm64.tar.gz"
+    },
+    {
+      "name": "sqlc_1.31.1_darwin_arm64.zip",
+      "size": 14396261,
+      "url": "https://github.com/sqlc-dev/sqlc/releases/download/v1.31.1/sqlc_1.31.1_darwin_arm64.zip"
+    },
+    {
+      "name": "sqlc_1.31.1_darwin_arm64.tar.gz",
+      "size": 14470343,
+      "url": "https://github.com/sqlc-dev/sqlc/releases/download/v1.31.1/sqlc_1.31.1_darwin_arm64.tar.gz"
+    },
+    {
+      "name": "sqlc_1.31.1_linux_arm64.zip",
+      "size": 13543427,
+      "url": "https://github.com/sqlc-dev/sqlc/releases/download/v1.31.1/sqlc_1.31.1_linux_arm64.zip"
+    },
+    {
+      "name": "sqlc_1.31.1_linux_arm64.tar.gz",
+      "size": 13638664,
+      "url": "https://github.com/sqlc-dev/sqlc/releases/download/v1.31.1/sqlc_1.31.1_linux_arm64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

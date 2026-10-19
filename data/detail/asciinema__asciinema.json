@@ -1,0 +1,57 @@
+{
+  "repo": "asciinema/asciinema",
+  "slug": "asciinema__asciinema",
+  "name": "asciinema",
+  "note_zh": "终端会话录制与回放，轻量分享命令行操作",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "Python"
+  ],
+  "deploy_type": "命令行 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-10-13T12:53:45Z",
+  "added_at": null,
+  "default_branch": "develop",
+  "download_url": "https://codeload.github.com/asciinema/asciinema/zip/refs/heads/develop",
+  "release": {
+    "tag": "v3.2.1",
+    "name": "v3.2.1",
+    "published": "2026-06-16T14:38:15Z",
+    "url": "https://github.com/asciinema/asciinema/releases/tag/v3.2.1"
+  },
+  "assets": [
+    {
+      "name": "asciinema-aarch64-apple-darwin",
+      "size": 6845888,
+      "url": "https://github.com/asciinema/asciinema/releases/download/v3.2.1/asciinema-aarch64-apple-darwin"
+    },
+    {
+      "name": "asciinema-x86_64-apple-darwin",
+      "size": 7411548,
+      "url": "https://github.com/asciinema/asciinema/releases/download/v3.2.1/asciinema-x86_64-apple-darwin"
+    },
+    {
+      "name": "asciinema-aarch64-unknown-linux-gnu",
+      "size": 7138888,
+      "url": "https://github.com/asciinema/asciinema/releases/download/v3.2.1/asciinema-aarch64-unknown-linux-gnu"
+    },
+    {
+      "name": "asciinema-x86_64-unknown-linux-gnu",
+      "size": 7983848,
+      "url": "https://github.com/asciinema/asciinema/releases/download/v3.2.1/asciinema-x86_64-unknown-linux-gnu"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

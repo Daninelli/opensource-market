@@ -1,0 +1,30 @@
+{
+  "repo": "hicccc77/WeFlow",
+  "slug": "hicccc77__WeFlow",
+  "name": "WeFlow",
+  "note_zh": "本地导出微信聊天记录并生成年度报告",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "文档归档",
+  "subcategory_slug": "documents",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-10-16T11:32:41Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/hicccc77/WeFlow/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

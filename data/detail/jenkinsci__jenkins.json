@@ -1,0 +1,56 @@
+{
+  "repo": "jenkinsci/jenkins",
+  "slug": "jenkinsci__jenkins",
+  "name": "jenkins",
+  "note_zh": "老牌持续集成服务器，插件生态极其丰富",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "运维部署",
+  "subcategory_slug": "devops",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Java"
+  ],
+  "deploy_type": "Docker 部署 / 传统部署",
+  "platform": "github",
+  "updated_at": "2026-10-19T04:15:52Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/jenkinsci/jenkins/zip/refs/heads/master",
+  "release": {
+    "tag": "jenkins-2.586",
+    "name": "2.586",
+    "published": "2026-10-13T11:25:28Z",
+    "url": "https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.586"
+  },
+  "assets": [
+    {
+      "name": "jenkins.msi",
+      "size": 58785792,
+      "url": "https://github.com/jenkinsci/jenkins/releases/download/jenkins-2.586/jenkins.msi"
+    },
+    {
+      "name": "jenkins_2.586_all.deb",
+      "size": 52402756,
+      "url": "https://github.com/jenkinsci/jenkins/releases/download/jenkins-2.586/jenkins_2.586_all.deb"
+    },
+    {
+      "name": "jenkins-2.586-1.noarch.rpm",
+      "size": 52467647,
+      "url": "https://github.com/jenkinsci/jenkins/releases/download/jenkins-2.586/jenkins-2.586-1.noarch.rpm"
+    },
+    {
+      "name": "jenkins.war",
+      "size": 52589351,
+      "url": "https://github.com/jenkinsci/jenkins/releases/download/jenkins-2.586/jenkins.war"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

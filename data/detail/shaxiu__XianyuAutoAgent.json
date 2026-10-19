@@ -1,0 +1,31 @@
+{
+  "repo": "shaxiu/XianyuAutoAgent",
+  "slug": "shaxiu__XianyuAutoAgent",
+  "name": "XianyuAutoAgent",
+  "note_zh": "闲鱼平台 AI 客服值守机器人",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "LLM"
+  ],
+  "deploy_type": "源码 / 命令行",
+  "platform": "github",
+  "updated_at": "2026-06-10T00:01:09Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/shaxiu/XianyuAutoAgent/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

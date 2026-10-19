@@ -1,0 +1,30 @@
+{
+  "repo": "amark/gun",
+  "slug": "amark__gun",
+  "name": "gun",
+  "note_zh": "去中心化图数据同步协议与数据库",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "后端服务",
+  "subcategory_slug": "backend",
+  "license": "NOASSERTION",
+  "license_category": "unknown",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript"
+  ],
+  "deploy_type": "依赖库",
+  "platform": "github",
+  "updated_at": "2026-10-15T00:29:24Z",
+  "added_at": null,
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/amark/gun/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

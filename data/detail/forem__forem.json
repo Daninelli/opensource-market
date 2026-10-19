@@ -1,0 +1,31 @@
+{
+  "repo": "forem/forem",
+  "slug": "forem__forem",
+  "name": "forem",
+  "note_zh": "构建技术社区的完整平台，dev.to 开源内核",
+  "category": "社交",
+  "category_slug": "social",
+  "subcategory": "论坛社区",
+  "subcategory_slug": "forum",
+  "license": "AGPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Ruby",
+    "Rails"
+  ],
+  "deploy_type": "Docker 部署 / 自托管服务",
+  "platform": "github",
+  "updated_at": "2026-10-19T15:00:46Z",
+  "added_at": null,
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/forem/forem/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}
