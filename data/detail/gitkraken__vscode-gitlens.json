@@ -15,7 +15,7 @@
   ],
   "deploy_type": "编辑器扩展",
   "platform": "github",
-  "updated_at": "2026-10-19T17:33:37Z",
+  "updated_at": "2026-10-19T18:19:29Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/gitkraken/vscode-gitlens/zip/refs/heads/main",

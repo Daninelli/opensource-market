@@ -16,7 +16,7 @@
   ],
   "deploy_type": "客户端 + 服务端",
   "platform": "github",
-  "updated_at": "2026-10-18T11:59:56Z",
+  "updated_at": "2026-10-19T16:06:24Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/minetest/minetest/zip/refs/heads/master",

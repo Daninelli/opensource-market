@@ -16,7 +16,7 @@
   ],
   "deploy_type": "命令行 / 依赖库",
   "platform": "github",
-  "updated_at": "2026-10-19T17:33:52Z",
+  "updated_at": "2026-10-19T18:18:39Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/promptfoo/promptfoo/zip/refs/heads/main",

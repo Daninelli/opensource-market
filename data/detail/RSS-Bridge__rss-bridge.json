@@ -17,7 +17,7 @@
   ],
   "deploy_type": "自托管服务 / Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-19T14:03:03Z",
+  "updated_at": "2026-10-19T17:18:44Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/RSS-Bridge/rss-bridge/zip/refs/heads/master",

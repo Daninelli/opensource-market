@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker / npm",
   "platform": "github",
-  "updated_at": "2026-10-19T15:12:34Z",
+  "updated_at": "2026-10-19T18:32:04Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/n8n-io/n8n/zip/refs/heads/master",

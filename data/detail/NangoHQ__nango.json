@@ -15,7 +15,7 @@
   ],
   "deploy_type": "依赖库 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T17:37:25Z",
+  "updated_at": "2026-10-19T18:19:25Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/NangoHQ/nango/zip/refs/heads/master",

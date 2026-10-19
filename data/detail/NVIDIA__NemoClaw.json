@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-19T17:50:41Z",
+  "updated_at": "2026-10-19T18:31:10Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/NVIDIA/NemoClaw/zip/refs/heads/main",

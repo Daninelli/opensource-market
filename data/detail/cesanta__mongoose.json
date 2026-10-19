@@ -18,7 +18,7 @@
   ],
   "deploy_type": "依赖库 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-19T14:56:09Z",
+  "updated_at": "2026-10-19T17:58:13Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/cesanta/mongoose/zip/refs/heads/master",

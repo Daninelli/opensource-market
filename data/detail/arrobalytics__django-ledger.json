@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-09T11:55:05Z",
+  "updated_at": "2026-10-19T16:14:18Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/arrobalytics/django-ledger/zip/refs/heads/master",
