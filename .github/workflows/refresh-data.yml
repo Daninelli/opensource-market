@@ -17,9 +17,16 @@ on:
 permissions:
   contents: write
 
+# 同一时间只跑一个刷新任务：两个并发运行会同时消耗同一份 API 配额，
+# 也容易在提交阶段互相打断。
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
 
@@ -27,8 +34,10 @@ jobs:
         with:
           node-version: "20"
 
-      # 走 REST API：Actions 自带的 GITHUB_TOKEN 额度是 1000 次/小时（按仓库算），
-      # 当前 154 个项目只消耗 154 次，绰绰有余；不需要额外生成 PAT。
+      # 走 GraphQL 批量：一条查询用别名取 100 个仓库，1699 个项目只要 17 次请求。
+      # （GITHUB_TOKEN 的 REST 额度是 1000 次/小时/仓库，逐仓库抓在项目数破千后
+      #   必然中途 403，而且会把旧 star 当成新快照写进去——热门榜会静默丢项目。）
+      # 仓库改名 / 已删除 / 整批失败时脚本会自动回落到 REST 逐个抓。
       - name: 抓取 star / 更新时间
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
