@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/gravitational/teleport/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v18.10.0",
+    "name": "Teleport 18.10.0",
+    "published": "2026-07-09T00:01:09Z",
+    "url": "https://github.com/gravitational/teleport/releases/tag/v18.10.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

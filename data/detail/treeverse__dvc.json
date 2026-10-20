@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/treeverse/dvc/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "3.67.1",
+    "name": "3.67.1",
+    "published": "2026-03-31T05:06:44Z",
+    "url": "https://github.com/treeverse/dvc/releases/tag/3.67.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

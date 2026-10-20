@@ -15,11 +15,16 @@
   ],
   "deploy_type": "命令行 / 依赖库",
   "platform": "github",
-  "updated_at": "2026-10-19T13:23:27Z",
+  "updated_at": "2026-10-20T08:02:02Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/swagger-api/swagger-codegen/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v3.0.82",
+    "name": "v3.0.82",
+    "published": "2026-08-04T06:16:28Z",
+    "url": "https://github.com/swagger-api/swagger-codegen/releases/tag/v3.0.82"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

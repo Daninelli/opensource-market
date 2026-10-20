@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ikuaitu/vue-fabric-editor/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "no-plugin",
+    "name": "No Plugin Core Version",
+    "published": "2023-07-16T03:53:15Z",
+    "url": "https://github.com/ikuaitu/vue-fabric-editor/releases/tag/no-plugin"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

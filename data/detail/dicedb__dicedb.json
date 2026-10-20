@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "downstream/8.0",
   "download_url": "https://codeload.github.com/dicedb/dicedb/zip/refs/heads/downstream%2F8.0",
-  "release": null,
+  "release": {
+    "tag": "1.0.0",
+    "name": "1.0.0",
+    "published": "2026-02-11T09:54:47Z",
+    "url": "https://github.com/dicedb/dicedb/releases/tag/1.0.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

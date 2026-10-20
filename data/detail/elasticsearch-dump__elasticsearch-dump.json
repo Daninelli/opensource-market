@@ -22,7 +22,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/elasticsearch-dump/elasticsearch-dump/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v6.125.1",
+    "name": "v6.125.1",
+    "published": "2026-05-12T13:16:58Z",
+    "url": "https://github.com/elasticsearch-dump/elasticsearch-dump/releases/tag/v6.125.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

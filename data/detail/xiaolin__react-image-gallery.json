@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/xiaolin/react-image-gallery/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v2.1.2",
+    "name": "v2.1.2",
+    "published": "2026-02-26T01:45:19Z",
+    "url": "https://github.com/xiaolin/react-image-gallery/releases/tag/v2.1.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

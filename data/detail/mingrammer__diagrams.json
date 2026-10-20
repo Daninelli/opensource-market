@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mingrammer/diagrams/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v0.25.1",
+    "name": "v0.25.1",
+    "published": "2025-11-22T02:30:19Z",
+    "url": "https://github.com/mingrammer/diagrams/releases/tag/v0.25.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

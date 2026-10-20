@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/simonw/datasette/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "0.65.5",
+    "name": "0.65.5",
+    "published": "2026-09-16T23:51:08Z",
+    "url": "https://github.com/simonw/datasette/releases/tag/0.65.5"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

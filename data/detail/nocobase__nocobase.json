@@ -15,11 +15,16 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-10-20T04:08:16Z",
+  "updated_at": "2026-10-20T08:27:56Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/nocobase/nocobase/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.2.28",
+    "name": "v2.2.28",
+    "published": "2026-10-19T09:02:28Z",
+    "url": "https://github.com/nocobase/nocobase/releases/tag/v2.2.28"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

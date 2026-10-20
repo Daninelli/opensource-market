@@ -17,26 +17,26 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-20T03:48:49Z",
+  "updated_at": "2026-10-20T08:08:16Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/simstudioai/sim/zip/refs/heads/main",
   "release": {
-    "tag": "v0.9.26",
-    "name": "v0.9.26",
-    "published": "2026-10-17T21:46:14Z",
-    "url": "https://github.com/simstudioai/sim/releases/tag/v0.9.26"
+    "tag": "v0.9.28",
+    "name": "v0.9.28",
+    "published": "2026-10-20T00:47:37Z",
+    "url": "https://github.com/simstudioai/sim/releases/tag/v0.9.28"
   },
   "assets": [
     {
-      "name": "Sim-0.9.26-universal.dmg",
-      "size": 234256609,
-      "url": "https://github.com/simstudioai/sim/releases/download/v0.9.26/Sim-0.9.26-universal.dmg"
+      "name": "Sim-0.9.28-universal.dmg",
+      "size": 234286124,
+      "url": "https://github.com/simstudioai/sim/releases/download/v0.9.28/Sim-0.9.28-universal.dmg"
     },
     {
-      "name": "Sim-0.9.26-universal.zip",
-      "size": 232769961,
-      "url": "https://github.com/simstudioai/sim/releases/download/v0.9.26/Sim-0.9.26-universal.zip"
+      "name": "Sim-0.9.28-universal.zip",
+      "size": 232775226,
+      "url": "https://github.com/simstudioai/sim/releases/download/v0.9.28/Sim-0.9.28-universal.zip"
     }
   ],
   "pinned": false,

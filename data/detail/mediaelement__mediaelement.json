@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mediaelement/mediaelement/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "7.1.0",
+    "name": "7.1.0",
+    "published": "2025-11-12T10:26:32Z",
+    "url": "https://github.com/mediaelement/mediaelement/releases/tag/7.1.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

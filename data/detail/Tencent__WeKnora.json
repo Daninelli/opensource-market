@@ -16,11 +16,16 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-19T16:11:36Z",
+  "updated_at": "2026-10-20T07:30:26Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Tencent/WeKnora/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v0.8.3",
+    "name": "v0.8.3",
+    "published": "2026-10-14T07:53:24Z",
+    "url": "https://github.com/Tencent/WeKnora/releases/tag/v0.8.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/refinedev/refine/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "@refinedev/core@5.0.12",
+    "name": "@refinedev/core@5.0.12",
+    "published": "2026-04-02T16:44:33Z",
+    "url": "https://github.com/refinedev/refine/releases/tag/%40refinedev/core%405.0.12"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

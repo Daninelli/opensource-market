@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/diaspora/diaspora/zip/refs/heads/develop",
-  "release": null,
+  "release": {
+    "tag": "v0.9.1.0",
+    "name": "diaspora* 0.9.1.0",
+    "published": "2026-04-07T19:37:06Z",
+    "url": "https://github.com/diaspora/diaspora/releases/tag/v0.9.1.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

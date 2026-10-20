@@ -17,11 +17,16 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-20T04:02:09Z",
+  "updated_at": "2026-10-20T05:05:05Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/appium/appium/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "@appium/support@7.2.8",
+    "name": "@appium/support@7.2.8",
+    "published": "2026-09-24T18:26:00Z",
+    "url": "https://github.com/appium/appium/releases/tag/%40appium/support%407.2.8"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

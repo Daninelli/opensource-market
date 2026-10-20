@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "stable",
   "download_url": "https://codeload.github.com/blacklanternsecurity/bbot/zip/refs/heads/stable",
-  "release": null,
+  "release": {
+    "tag": "v3.0.2",
+    "name": "3.0.2",
+    "published": "2026-08-24T14:31:46Z",
+    "url": "https://github.com/blacklanternsecurity/bbot/releases/tag/v3.0.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

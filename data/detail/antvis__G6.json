@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "v5",
   "download_url": "https://codeload.github.com/antvis/G6/zip/refs/heads/v5",
-  "release": null,
+  "release": {
+    "tag": "5.1.1",
+    "name": "5.1.1",
+    "published": "2026-04-17T03:19:19Z",
+    "url": "https://github.com/antvis/G6/releases/tag/5.1.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

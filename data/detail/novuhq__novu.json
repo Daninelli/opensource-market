@@ -17,11 +17,16 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-19T20:54:24Z",
+  "updated_at": "2026-10-20T08:15:32Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "next",
   "download_url": "https://codeload.github.com/novuhq/novu/zip/refs/heads/next",
-  "release": null,
+  "release": {
+    "tag": "@novu/framework@v2.14.0",
+    "name": "@novu/framework@v2.14.0",
+    "published": "2026-09-28T15:43:34Z",
+    "url": "https://github.com/novuhq/novu/releases/tag/%40novu/framework%40v2.14.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

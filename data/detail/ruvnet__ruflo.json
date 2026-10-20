@@ -16,11 +16,16 @@
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T03:53:54Z",
+  "updated_at": "2026-10-20T08:29:30Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ruvnet/ruflo/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v3.58.0",
+    "name": "v3.58.0 — critical install fix + TUI mouse/menu fixes + memory peek",
+    "published": "2026-10-20T06:31:48Z",
+    "url": "https://github.com/ruvnet/ruflo/releases/tag/v3.58.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

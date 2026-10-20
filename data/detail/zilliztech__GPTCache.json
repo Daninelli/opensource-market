@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/zilliztech/GPTCache/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "0.1.44",
+    "name": "v0.1.44",
+    "published": "2024-08-01T11:25:55Z",
+    "url": "https://github.com/zilliztech/GPTCache/releases/tag/0.1.44"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

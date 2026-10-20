@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/mem0ai/mem0/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "ts-v3.3.1",
+    "name": "Mem0 Node SDK (v3.3.1)",
+    "published": "2026-09-25T17:36:35Z",
+    "url": "https://github.com/mem0ai/mem0/releases/tag/ts-v3.3.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

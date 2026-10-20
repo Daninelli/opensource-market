@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-20T04:03:51Z",
+  "updated_at": "2026-10-20T08:28:33Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/paradedb/paradedb/zip/refs/heads/main",
@@ -28,24 +28,24 @@
   },
   "assets": [
     {
-      "name": "pg_search@15--0.26.2.arm64_tahoe.pkg",
-      "size": 74724190,
-      "url": "https://github.com/paradedb/paradedb/releases/download/v0.26.2/pg_search%4015--0.26.2.arm64_tahoe.pkg"
-    },
-    {
       "name": "pg_search@18--0.26.2.arm64_tahoe.pkg",
       "size": 74735772,
       "url": "https://github.com/paradedb/paradedb/releases/download/v0.26.2/pg_search%4018--0.26.2.arm64_tahoe.pkg"
     },
     {
-      "name": "postgresql-17-pg-search_0.26.2-1PARADEDB-noble_arm64.deb",
-      "size": 50968868,
-      "url": "https://github.com/paradedb/paradedb/releases/download/v0.26.2/postgresql-17-pg-search_0.26.2-1PARADEDB-noble_arm64.deb"
+      "name": "pg_search@17--0.26.2.arm64_tahoe.pkg",
+      "size": 74755486,
+      "url": "https://github.com/paradedb/paradedb/releases/download/v0.26.2/pg_search%4017--0.26.2.arm64_tahoe.pkg"
     },
     {
-      "name": "postgresql-15-pg-search_0.26.2-1PARADEDB-noble_arm64.deb",
-      "size": 50983444,
-      "url": "https://github.com/paradedb/paradedb/releases/download/v0.26.2/postgresql-15-pg-search_0.26.2-1PARADEDB-noble_arm64.deb"
+      "name": "postgresql-15-pg-search_0.26.2-1PARADEDB-bookworm_amd64.deb",
+      "size": 53748948,
+      "url": "https://github.com/paradedb/paradedb/releases/download/v0.26.2/postgresql-15-pg-search_0.26.2-1PARADEDB-bookworm_amd64.deb"
+    },
+    {
+      "name": "postgresql-17-pg-search_0.26.2-1PARADEDB-bookworm_amd64.deb",
+      "size": 53749880,
+      "url": "https://github.com/paradedb/paradedb/releases/download/v0.26.2/postgresql-17-pg-search_0.26.2-1PARADEDB-bookworm_amd64.deb"
     },
     {
       "name": "pg_search.schema.sql",

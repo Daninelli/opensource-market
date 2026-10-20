@@ -16,11 +16,16 @@
   ],
   "deploy_type": "命令行 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-20T00:40:48Z",
+  "updated_at": "2026-10-20T06:04:22Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/flyteorg/flyte/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.0.51",
+    "name": "v2.0.51",
+    "published": "2026-10-08T00:20:35Z",
+    "url": "https://github.com/flyteorg/flyte/releases/tag/v2.0.51"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Skyvern-AI/skyvern/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v1.0.56",
+    "name": "Release v1.0.56",
+    "published": "2026-10-14T04:03:00Z",
+    "url": "https://github.com/Skyvern-AI/skyvern/releases/tag/v1.0.56"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

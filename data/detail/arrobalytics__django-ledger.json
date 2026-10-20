@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/arrobalytics/django-ledger/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v0.8.5",
+    "name": "v0.8.5",
+    "published": "2026-08-24T14:19:58Z",
+    "url": "https://github.com/arrobalytics/django-ledger/releases/tag/v0.8.5"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

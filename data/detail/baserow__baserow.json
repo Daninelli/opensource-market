@@ -18,11 +18,16 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T18:35:45Z",
+  "updated_at": "2026-10-20T08:26:04Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/baserow/baserow/zip/refs/heads/develop",
-  "release": null,
+  "release": {
+    "tag": "2.4.1",
+    "name": "2.4.1",
+    "published": "2026-10-13T15:39:27Z",
+    "url": "https://github.com/baserow/baserow/releases/tag/2.4.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

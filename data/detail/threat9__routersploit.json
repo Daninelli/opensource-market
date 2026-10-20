@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/threat9/routersploit/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v3.4.0",
+    "name": "I Knew You Were Trouble 3.4.0",
+    "published": "2018-10-17T17:30:58Z",
+    "url": "https://github.com/threat9/routersploit/releases/tag/v3.4.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

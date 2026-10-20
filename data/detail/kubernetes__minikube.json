@@ -57,14 +57,14 @@
       "url": "https://github.com/kubernetes/minikube/releases/download/v1.39.0/minikube_latest_ppc64el.deb"
     },
     {
-      "name": "licenses.tar.gz",
-      "size": 338390,
-      "url": "https://github.com/kubernetes/minikube/releases/download/v1.39.0/licenses.tar.gz"
-    },
-    {
       "name": "minikube_v1.39.0_sbom.spdx",
       "size": 3297680,
       "url": "https://github.com/kubernetes/minikube/releases/download/v1.39.0/minikube_v1.39.0_sbom.spdx"
+    },
+    {
+      "name": "minikube-v1.39.0-arm64.iso",
+      "size": 448708608,
+      "url": "https://github.com/kubernetes/minikube/releases/download/v1.39.0/minikube-v1.39.0-arm64.iso"
     }
   ],
   "pinned": false,

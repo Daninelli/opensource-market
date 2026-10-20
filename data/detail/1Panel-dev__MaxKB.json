@@ -16,11 +16,16 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T03:40:28Z",
+  "updated_at": "2026-10-20T08:18:26Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "v2",
   "download_url": "https://codeload.github.com/1Panel-dev/MaxKB/zip/refs/heads/v2",
-  "release": null,
+  "release": {
+    "tag": "v2.10.7-lts",
+    "name": "v2.10.7-lts",
+    "published": "2026-10-15T08:10:35Z",
+    "url": "https://github.com/1Panel-dev/MaxKB/releases/tag/v2.10.7-lts"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

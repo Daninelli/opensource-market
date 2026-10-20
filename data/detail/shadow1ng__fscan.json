@@ -57,14 +57,14 @@
       "url": "https://github.com/shadow1ng/fscan/releases/download/v2.2.2/fscan_2.2.2_linux_arm64"
     },
     {
-      "name": "fscan-nolocal_2.2.2_freebsd_arm64",
-      "size": 25821378,
-      "url": "https://github.com/shadow1ng/fscan/releases/download/v2.2.2/fscan-nolocal_2.2.2_freebsd_arm64"
-    },
-    {
       "name": "fscan_2.2.2_freebsd_arm64",
       "size": 26017986,
       "url": "https://github.com/shadow1ng/fscan/releases/download/v2.2.2/fscan_2.2.2_freebsd_arm64"
+    },
+    {
+      "name": "fscan-nolocal_2.2.2_freebsd_x32",
+      "size": 26046658,
+      "url": "https://github.com/shadow1ng/fscan/releases/download/v2.2.2/fscan-nolocal_2.2.2_freebsd_x32"
     }
   ],
   "pinned": false,

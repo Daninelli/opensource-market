@@ -21,7 +21,12 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/openplans/shareabouts/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "4.1.1",
+    "name": "4.1.1",
+    "published": "2025-07-16T15:10:14Z",
+    "url": "https://github.com/openplans/shareabouts/releases/tag/4.1.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/simple-icons/simple-icons/zip/refs/heads/develop",
-  "release": null,
+  "release": {
+    "tag": "16.35.0",
+    "name": "Release 16.35.0",
+    "published": "2026-10-11T10:21:38Z",
+    "url": "https://github.com/simple-icons/simple-icons/releases/tag/16.35.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

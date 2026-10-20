@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/aden-hive/hive/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v1.0.11",
+    "name": "v1.0.11",
+    "published": "2026-10-19T19:37:39Z",
+    "url": "https://github.com/aden-hive/hive/releases/tag/v1.0.11"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

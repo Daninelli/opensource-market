@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Volmarg/personal-management-system/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.1.0",
+    "name": "Version 2.1.0",
+    "published": "2026-09-27T16:40:51Z",
+    "url": "https://github.com/Volmarg/personal-management-system/releases/tag/v2.1.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

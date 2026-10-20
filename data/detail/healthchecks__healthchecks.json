@@ -16,11 +16,16 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-10-19T13:58:48Z",
+  "updated_at": "2026-10-20T06:43:52Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/healthchecks/healthchecks/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v4.4",
+    "name": "v4.4",
+    "published": "2026-08-31T08:32:16Z",
+    "url": "https://github.com/healthchecks/healthchecks/releases/tag/v4.4"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

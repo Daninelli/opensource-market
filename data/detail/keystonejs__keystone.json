@@ -16,11 +16,16 @@
   ],
   "deploy_type": "依赖库 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T04:12:49Z",
+  "updated_at": "2026-10-20T07:32:41Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/keystonejs/keystone/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "2026-08-31",
+    "name": "31 August 2026",
+    "published": "2026-08-31T04:57:56Z",
+    "url": "https://github.com/keystonejs/keystone/releases/tag/2026-08-31"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

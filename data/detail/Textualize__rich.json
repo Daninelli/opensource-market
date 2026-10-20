@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Textualize/rich/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v15.0.0",
+    "name": "The So Long 3.8 Release",
+    "published": "2026-04-12T08:27:58Z",
+    "url": "https://github.com/Textualize/rich/releases/tag/v15.0.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

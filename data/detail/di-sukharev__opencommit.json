@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/di-sukharev/opencommit/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "github-action-v1.0.2",
+    "name": "v1.0.2",
+    "published": "2023-05-21T09:13:16Z",
+    "url": "https://github.com/di-sukharev/opencommit/releases/tag/github-action-v1.0.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

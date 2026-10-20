@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/markdoc/markdoc/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v0.5.10",
+    "name": "v0.5.10",
+    "published": "2026-09-16T16:47:48Z",
+    "url": "https://github.com/markdoc/markdoc/releases/tag/v0.5.10"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

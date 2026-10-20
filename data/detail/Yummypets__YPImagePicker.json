@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Yummypets/YPImagePicker/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "5.4.0",
+    "name": "5.4.0 — Stability, performance & privacy manifest",
+    "published": "2026-07-28T15:57:50Z",
+    "url": "https://github.com/Yummypets/YPImagePicker/releases/tag/5.4.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -18,11 +18,16 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T20:49:53Z",
+  "updated_at": "2026-10-20T05:39:32Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/cBioPortal/cbioportal/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v7.1.1",
+    "name": "v7.1.1",
+    "published": "2026-09-01T22:32:00Z",
+    "url": "https://github.com/cBioPortal/cbioportal/releases/tag/v7.1.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -15,7 +15,7 @@
   ],
   "deploy_type": "二进制",
   "platform": "github",
-  "updated_at": "2026-10-20T04:01:33Z",
+  "updated_at": "2026-10-20T05:09:30Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/seaweedfs/seaweedfs/zip/refs/heads/master",
@@ -27,16 +27,6 @@
   },
   "assets": [
     {
-      "name": "weed-volume_large_disk_windows_amd64.zip",
-      "size": 10631978,
-      "url": "https://github.com/seaweedfs/seaweedfs/releases/download/4.48/weed-volume_large_disk_windows_amd64.zip"
-    },
-    {
-      "name": "weed-volume_windows_amd64.zip",
-      "size": 10631981,
-      "url": "https://github.com/seaweedfs/seaweedfs/releases/download/4.48/weed-volume_windows_amd64.zip"
-    },
-    {
       "name": "weed-volume_large_disk_darwin_arm64.tar.gz",
       "size": 11575157,
       "url": "https://github.com/seaweedfs/seaweedfs/releases/download/4.48/weed-volume_large_disk_darwin_arm64.tar.gz"
@@ -47,24 +37,34 @@
       "url": "https://github.com/seaweedfs/seaweedfs/releases/download/4.48/weed-volume_darwin_arm64.tar.gz"
     },
     {
-      "name": "weed-volume_linux_amd64.tar.gz",
-      "size": 13268068,
-      "url": "https://github.com/seaweedfs/seaweedfs/releases/download/4.48/weed-volume_linux_amd64.tar.gz"
+      "name": "windows_amd64.zip",
+      "size": 47000874,
+      "url": "https://github.com/seaweedfs/seaweedfs/releases/download/4.48/windows_amd64.zip"
     },
     {
-      "name": "weed-volume_large_disk_linux_amd64.tar.gz",
-      "size": 13271246,
-      "url": "https://github.com/seaweedfs/seaweedfs/releases/download/4.48/weed-volume_large_disk_linux_amd64.tar.gz"
+      "name": "windows_amd64_large_disk.zip",
+      "size": 47002259,
+      "url": "https://github.com/seaweedfs/seaweedfs/releases/download/4.48/windows_amd64_large_disk.zip"
     },
     {
-      "name": "openbsd_arm64.tar.gz",
-      "size": 40094283,
-      "url": "https://github.com/seaweedfs/seaweedfs/releases/download/4.48/openbsd_arm64.tar.gz"
+      "name": "linux_arm64_large_disk.tar.gz",
+      "size": 40554665,
+      "url": "https://github.com/seaweedfs/seaweedfs/releases/download/4.48/linux_arm64_large_disk.tar.gz"
     },
     {
-      "name": "openbsd_arm64_large_disk.tar.gz",
-      "size": 40095082,
-      "url": "https://github.com/seaweedfs/seaweedfs/releases/download/4.48/openbsd_arm64_large_disk.tar.gz"
+      "name": "linux_arm64.tar.gz",
+      "size": 40558283,
+      "url": "https://github.com/seaweedfs/seaweedfs/releases/download/4.48/linux_arm64.tar.gz"
+    },
+    {
+      "name": "freebsd_arm64.tar.gz",
+      "size": 40492161,
+      "url": "https://github.com/seaweedfs/seaweedfs/releases/download/4.48/freebsd_arm64.tar.gz"
+    },
+    {
+      "name": "freebsd_arm64_large_disk.tar.gz",
+      "size": 40494303,
+      "url": "https://github.com/seaweedfs/seaweedfs/releases/download/4.48/freebsd_arm64_large_disk.tar.gz"
     }
   ],
   "pinned": false,

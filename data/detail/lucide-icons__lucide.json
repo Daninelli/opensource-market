@@ -17,26 +17,26 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-19T14:49:36Z",
+  "updated_at": "2026-10-20T07:25:58Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/lucide-icons/lucide/zip/refs/heads/main",
   "release": {
-    "tag": "1.59.0",
-    "name": "Version 1.59.0",
-    "published": "2026-10-17T06:06:42Z",
-    "url": "https://github.com/lucide-icons/lucide/releases/tag/1.59.0"
+    "tag": "1.60.0",
+    "name": "Version 1.60.0",
+    "published": "2026-10-20T06:07:21Z",
+    "url": "https://github.com/lucide-icons/lucide/releases/tag/1.60.0"
   },
   "assets": [
     {
-      "name": "lucide-icons-1.59.0.zip",
-      "size": 1427722,
-      "url": "https://github.com/lucide-icons/lucide/releases/download/1.59.0/lucide-icons-1.59.0.zip"
+      "name": "lucide-icons-1.60.0.zip",
+      "size": 1435094,
+      "url": "https://github.com/lucide-icons/lucide/releases/download/1.60.0/lucide-icons-1.60.0.zip"
     },
     {
-      "name": "lucide-font-1.59.0.zip",
-      "size": 5293222,
-      "url": "https://github.com/lucide-icons/lucide/releases/download/1.59.0/lucide-font-1.59.0.zip"
+      "name": "lucide-font-1.60.0.zip",
+      "size": 5320875,
+      "url": "https://github.com/lucide-icons/lucide/releases/download/1.60.0/lucide-font-1.60.0.zip"
     }
   ],
   "pinned": false,

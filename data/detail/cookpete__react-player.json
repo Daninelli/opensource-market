@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/cookpete/react-player/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v3.4.0",
+    "name": "v3.4.0",
+    "published": "2025-11-13T19:27:52Z",
+    "url": "https://github.com/cookpete/react-player/releases/tag/v3.4.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

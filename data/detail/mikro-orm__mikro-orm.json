@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mikro-orm/mikro-orm/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v7.2.5",
+    "name": "v7.2.5",
+    "published": "2026-10-09T12:30:43Z",
+    "url": "https://github.com/mikro-orm/mikro-orm/releases/tag/v7.2.5"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

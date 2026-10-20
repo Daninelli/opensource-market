@@ -19,7 +19,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/OpenZeppelin/openzeppelin-contracts/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v5.7.0",
+    "name": "v5.7.0",
+    "published": "2026-07-29T16:43:07Z",
+    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v5.7.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

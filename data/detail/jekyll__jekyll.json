@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/jekyll/jekyll/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v4.4.1",
+    "name": "v4.4.1",
+    "published": "2025-01-29T12:47:41Z",
+    "url": "https://github.com/jekyll/jekyll/releases/tag/v4.4.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

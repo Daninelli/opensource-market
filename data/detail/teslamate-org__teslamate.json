@@ -16,11 +16,16 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-19T15:54:12Z",
+  "updated_at": "2026-10-20T05:17:34Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/teslamate-org/teslamate/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v4.3.0",
+    "name": "v4.3.0",
+    "published": "2026-09-29T14:58:14Z",
+    "url": "https://github.com/teslamate-org/teslamate/releases/tag/v4.3.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

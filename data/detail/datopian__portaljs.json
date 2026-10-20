@@ -17,11 +17,16 @@
   ],
   "deploy_type": "前端源码 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-19T07:51:45Z",
+  "updated_at": "2026-10-20T08:03:24Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/datopian/portaljs/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "create-portaljs@0.6.0",
+    "name": "create-portaljs@0.6.0",
+    "published": "2026-06-18T09:52:53Z",
+    "url": "https://github.com/datopian/portaljs/releases/tag/create-portaljs%400.6.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

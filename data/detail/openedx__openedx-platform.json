@@ -17,11 +17,16 @@
   ],
   "deploy_type": "传统部署",
   "platform": "github",
-  "updated_at": "2026-10-20T02:24:38Z",
+  "updated_at": "2026-10-20T05:27:02Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/openedx/openedx-platform/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "named-release/birch",
+    "name": "Birch",
+    "published": "2015-03-02T21:13:51Z",
+    "url": "https://github.com/openedx/openedx-platform/releases/tag/named-release/birch"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

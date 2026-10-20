@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/calcom/cal.diy/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v6.2.0",
+    "name": "v6.2.0",
+    "published": "2026-03-01T23:49:01Z",
+    "url": "https://github.com/calcom/cal.diy/releases/tag/v6.2.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

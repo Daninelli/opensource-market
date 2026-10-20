@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 二进制 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-20T04:10:50Z",
+  "updated_at": "2026-10-20T08:32:11Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/ClickHouse/ClickHouse/zip/refs/heads/master",
@@ -28,16 +28,6 @@
     "url": "https://github.com/ClickHouse/ClickHouse/releases/tag/v26.9.22.3-stable"
   },
   "assets": [
-    {
-      "name": "clickhouse-macos-aarch64",
-      "size": 182755511,
-      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.9.22.3-stable/clickhouse-macos-aarch64"
-    },
-    {
-      "name": "clickhouse-macos",
-      "size": 192242832,
-      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.9.22.3-stable/clickhouse-macos"
-    },
     {
       "name": "clickhouse-client_26.9.22.3_amd64.deb",
       "size": 428696,

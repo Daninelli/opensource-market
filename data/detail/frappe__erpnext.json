@@ -18,11 +18,16 @@
   ],
   "deploy_type": "传统部署 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-20T04:09:16Z",
+  "updated_at": "2026-10-20T08:27:27Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/frappe/erpnext/zip/refs/heads/develop",
-  "release": null,
+  "release": {
+    "tag": "v16.51.1",
+    "name": "v16.51.1",
+    "published": "2026-10-15T17:09:25Z",
+    "url": "https://github.com/frappe/erpnext/releases/tag/v16.51.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

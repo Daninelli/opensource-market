@@ -22,7 +22,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/aureuserp/aureuserp/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v1.6.0",
+    "name": "v1.6.0",
+    "published": "2026-08-27T12:55:05Z",
+    "url": "https://github.com/aureuserp/aureuserp/releases/tag/v1.6.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

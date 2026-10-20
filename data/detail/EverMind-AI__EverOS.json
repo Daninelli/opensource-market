@@ -15,11 +15,16 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-20T03:28:01Z",
+  "updated_at": "2026-10-20T07:37:53Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/EverMind-AI/EverOS/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v1.4.2",
+    "name": "EverOS 1.4.2",
+    "published": "2026-10-14T13:49:58Z",
+    "url": "https://github.com/EverMind-AI/EverOS/releases/tag/v1.4.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

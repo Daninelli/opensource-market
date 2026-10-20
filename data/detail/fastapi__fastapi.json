@@ -16,11 +16,16 @@
   ],
   "deploy_type": "依赖库 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-19T22:39:29Z",
+  "updated_at": "2026-10-20T08:11:33Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/fastapi/fastapi/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "0.150.0",
+    "name": "0.150.0",
+    "published": "2026-10-19T22:39:30Z",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.150.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/apache/echarts/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "6.1.0",
+    "name": "6.1.0",
+    "published": "2026-05-19T17:38:29Z",
+    "url": "https://github.com/apache/echarts/releases/tag/6.1.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

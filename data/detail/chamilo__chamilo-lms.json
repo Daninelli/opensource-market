@@ -16,7 +16,7 @@
   ],
   "deploy_type": "传统部署 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-20T02:42:29Z",
+  "updated_at": "2026-10-20T07:55:53Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/chamilo/chamilo-lms/zip/refs/heads/master",

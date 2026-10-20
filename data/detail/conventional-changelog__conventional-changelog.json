@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/conventional-changelog/conventional-changelog/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "git-client-v3.2.0",
+    "name": "@conventional-changelog/git-client: v3.2.0",
+    "published": "2026-10-05T18:12:29Z",
+    "url": "https://github.com/conventional-changelog/conventional-changelog/releases/tag/git-client-v3.2.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

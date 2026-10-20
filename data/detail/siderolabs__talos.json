@@ -15,7 +15,7 @@
   ],
   "deploy_type": "镜像 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-19T19:31:35Z",
+  "updated_at": "2026-10-20T08:28:53Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/siderolabs/talos/zip/refs/heads/main",
@@ -47,24 +47,24 @@
       "url": "https://github.com/siderolabs/talos/releases/download/v1.14.4/talosctl-darwin-amd64"
     },
     {
-      "name": "talosctl-linux-riscv64",
-      "size": 106954914,
-      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.4/talosctl-linux-riscv64"
-    },
-    {
       "name": "talosctl-linux-armv7",
       "size": 110624930,
       "url": "https://github.com/siderolabs/talos/releases/download/v1.14.4/talosctl-linux-armv7"
     },
     {
-      "name": "talosctl-cni-bundle-arm64.tar.gz",
-      "size": 5240970,
-      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.4/talosctl-cni-bundle-arm64.tar.gz"
+      "name": "talosctl-linux-arm64",
+      "size": 110887074,
+      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.4/talosctl-linux-arm64"
     },
     {
-      "name": "talosctl-cni-bundle-amd64.tar.gz",
-      "size": 5810481,
-      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.4/talosctl-cni-bundle-amd64.tar.gz"
+      "name": "vmlinuz-amd64",
+      "size": 19255296,
+      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.4/vmlinuz-amd64"
+    },
+    {
+      "name": "initramfs-amd64.xz",
+      "size": 96458873,
+      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.4/initramfs-amd64.xz"
     }
   ],
   "pinned": false,

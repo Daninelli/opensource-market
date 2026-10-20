@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "feat/server_team",
   "download_url": "https://codeload.github.com/TencentCloud/TencentDB-Agent-Memory/zip/refs/heads/feat%2Fserver_team",
-  "release": null,
+  "release": {
+    "tag": "v2.0.3-beta.1",
+    "name": "v2.0.3-beta.1",
+    "published": "2026-10-13T10:43:52Z",
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory/releases/tag/v2.0.3-beta.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

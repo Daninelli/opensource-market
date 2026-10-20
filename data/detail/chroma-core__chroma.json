@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/chroma-core/chroma/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "1.5.9",
+    "name": "1.5.9",
+    "published": "2026-05-05T05:55:40Z",
+    "url": "https://github.com/chroma-core/chroma/releases/tag/1.5.9"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

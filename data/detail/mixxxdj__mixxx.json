@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/mixxxdj/mixxx/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "2.5.6",
+    "name": "2.5.6",
+    "published": "2026-03-27T17:45:39Z",
+    "url": "https://github.com/mixxxdj/mixxx/releases/tag/2.5.6"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

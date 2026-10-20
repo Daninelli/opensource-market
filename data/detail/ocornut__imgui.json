@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/ocornut/imgui/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v1.93.0",
+    "name": "v1.93.0",
+    "published": "2026-10-14T16:37:04Z",
+    "url": "https://github.com/ocornut/imgui/releases/tag/v1.93.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/khuedoan/homelab/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v0.0.8",
+    "name": "v0.0.8",
+    "published": "2022-07-26T14:08:05Z",
+    "url": "https://github.com/khuedoan/homelab/releases/tag/v0.0.8"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

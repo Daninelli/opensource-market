@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/arkenfox/user.js/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "144.0",
+    "name": "arkenfox user.js v144",
+    "published": "2026-04-20T20:30:29Z",
+    "url": "https://github.com/arkenfox/user.js/releases/tag/144.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

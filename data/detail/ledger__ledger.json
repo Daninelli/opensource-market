@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ledger/ledger/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v3.4.1",
+    "name": "3.4.1",
+    "published": "2025-10-26T05:57:54Z",
+    "url": "https://github.com/ledger/ledger/releases/tag/v3.4.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

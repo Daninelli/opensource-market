@@ -16,11 +16,16 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-19T23:04:54Z",
+  "updated_at": "2026-10-20T04:22:18Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/delta-io/delta/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v4.4.1",
+    "name": "Delta Lake 4.4.1",
+    "published": "2026-10-05T23:25:36Z",
+    "url": "https://github.com/delta-io/delta/releases/tag/v4.4.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

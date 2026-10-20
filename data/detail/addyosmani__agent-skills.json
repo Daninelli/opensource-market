@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/addyosmani/agent-skills/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "0.6.13",
+    "name": "Agent Skills 0.6.13",
+    "published": "2026-10-13T20:21:58Z",
+    "url": "https://github.com/addyosmani/agent-skills/releases/tag/0.6.13"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

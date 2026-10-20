@@ -22,7 +22,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/ant-design/ant-design-pro/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v6.0.3",
+    "name": "v6.0.3",
+    "published": "2026-08-17T03:37:34Z",
+    "url": "https://github.com/ant-design/ant-design-pro/releases/tag/v6.0.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

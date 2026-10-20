@@ -22,51 +22,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/xtekky/gpt4free/zip/refs/heads/main",
   "release": {
-    "tag": "v8.7.7",
-    "name": "Release v8.7.7",
-    "published": "2026-10-18T09:07:42Z",
-    "url": "https://github.com/xtekky/gpt4free/releases/tag/v8.7.7"
+    "tag": "v8.8.0",
+    "name": "Release v8.8.0",
+    "published": "2026-10-19T19:24:51Z",
+    "url": "https://github.com/xtekky/gpt4free/releases/tag/v8.8.0"
   },
   "assets": [
     {
-      "name": "g4f-go-v8.7.7-darwin-arm64.zip",
-      "size": 2608933,
-      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.7.7/g4f-go-v8.7.7-darwin-arm64.zip"
+      "name": "g4f-go-v8.8.0-darwin-arm64.zip",
+      "size": 2613074,
+      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.8.0/g4f-go-v8.8.0-darwin-arm64.zip"
     },
     {
-      "name": "g4f-go-v8.7.7-darwin-amd64.zip",
-      "size": 2784462,
-      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.7.7/g4f-go-v8.7.7-darwin-amd64.zip"
+      "name": "g4f-go-v8.8.0-darwin-amd64.zip",
+      "size": 2788641,
+      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.8.0/g4f-go-v8.8.0-darwin-amd64.zip"
     },
     {
-      "name": "g4f-go-v8.7.7-windows-amd64.zip",
-      "size": 2807045,
-      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.7.7/g4f-go-v8.7.7-windows-amd64.zip"
+      "name": "g4f-go-v8.8.0-windows-amd64.zip",
+      "size": 2808411,
+      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.8.0/g4f-go-v8.8.0-windows-amd64.zip"
     },
     {
-      "name": "g4f-go-v8.7.7-linux-arm64.zip",
-      "size": 2508693,
-      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.7.7/g4f-go-v8.7.7-linux-arm64.zip"
+      "name": "g4f-go-v8.8.0-linux-arm64.zip",
+      "size": 2514909,
+      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.8.0/g4f-go-v8.8.0-linux-arm64.zip"
     },
     {
-      "name": "g4f-go-v8.7.7-linux-amd64.zip",
-      "size": 2736967,
-      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.7.7/g4f-go-v8.7.7-linux-amd64.zip"
+      "name": "g4f-go-v8.8.0-linux-amd64.zip",
+      "size": 2740451,
+      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.8.0/g4f-go-v8.8.0-linux-amd64.zip"
     },
     {
-      "name": "g4f-v8.7.7.apk",
-      "size": 32165296,
-      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.7.7/g4f-v8.7.7.apk"
+      "name": "g4f-v8.8.0.apk",
+      "size": 32187347,
+      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.8.0/g4f-v8.8.0.apk"
     },
     {
-      "name": "g4f-8.7.7.tar.gz",
-      "size": 792278,
-      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.7.7/g4f-8.7.7.tar.gz"
+      "name": "g4f-8.8.0.tar.gz",
+      "size": 815791,
+      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.8.0/g4f-8.8.0.tar.gz"
     },
     {
-      "name": "g4f-8.7.7-py3-none-any.whl",
-      "size": 884300,
-      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.7.7/g4f-8.7.7-py3-none-any.whl"
+      "name": "g4f-8.8.0-py3-none-any.whl",
+      "size": 909939,
+      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.8.0/g4f-8.8.0-py3-none-any.whl"
     }
   ],
   "pinned": false,

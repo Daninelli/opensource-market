@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/tinacms/tinacms/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "tinacms@3.15.0",
+    "name": "tinacms@3.15.0",
+    "published": "2026-10-19T01:31:21Z",
+    "url": "https://github.com/tinacms/tinacms/releases/tag/tinacms%403.15.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

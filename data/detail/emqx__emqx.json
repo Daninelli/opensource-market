@@ -17,11 +17,16 @@
   ],
   "deploy_type": "Docker 部署 / 二进制 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-20T04:06:19Z",
+  "updated_at": "2026-10-20T07:40:41Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/emqx/emqx/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "6.3.2",
+    "name": "EMQX Enterprise (LTS) 6.3.2",
+    "published": "2026-10-16T19:18:56Z",
+    "url": "https://github.com/emqx/emqx/releases/tag/6.3.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

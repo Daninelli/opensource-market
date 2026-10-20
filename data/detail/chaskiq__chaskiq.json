@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/chaskiq/chaskiq/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "2.0.3",
+    "name": "React version",
+    "published": "2023-11-14T20:58:55Z",
+    "url": "https://github.com/chaskiq/chaskiq/releases/tag/2.0.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

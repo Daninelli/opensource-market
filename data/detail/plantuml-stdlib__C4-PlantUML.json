@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/plantuml-stdlib/C4-PlantUML/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v2.14.0",
+    "name": "Release v2.14.0",
+    "published": "2026-08-26T14:32:25Z",
+    "url": "https://github.com/plantuml-stdlib/C4-PlantUML/releases/tag/v2.14.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

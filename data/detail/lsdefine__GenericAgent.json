@@ -47,11 +47,6 @@
       "name": "GenericAgent-Linux-WithPython.tar.gz",
       "size": 240455912,
       "url": "https://github.com/lsdefine/GenericAgent/releases/download/v0.2.1/GenericAgent-Linux-WithPython.tar.gz"
-    },
-    {
-      "name": "GenericAgent.exe.rollback-20261019T071922Z",
-      "size": 13488128,
-      "url": "https://github.com/lsdefine/GenericAgent/releases/download/v0.2.1/GenericAgent.exe.rollback-20261019T071922Z"
     }
   ],
   "pinned": false,

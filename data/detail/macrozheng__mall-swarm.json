@@ -22,7 +22,12 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/macrozheng/mall-swarm/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v1.0.3",
+    "name": "v1.0.3",
+    "published": "2024-03-01T08:19:25Z",
+    "url": "https://github.com/macrozheng/mall-swarm/releases/tag/v1.0.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

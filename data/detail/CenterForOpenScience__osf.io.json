@@ -21,7 +21,12 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/CenterForOpenScience/osf.io/zip/refs/heads/develop",
-  "release": null,
+  "release": {
+    "tag": "26.22.0",
+    "name": "osf.io 26.22",
+    "published": "2026-09-17T16:50:22Z",
+    "url": "https://github.com/CenterForOpenScience/osf.io/releases/tag/26.22.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

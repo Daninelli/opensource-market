@@ -16,11 +16,16 @@
   ],
   "deploy_type": "Docker / 传统部署",
   "platform": "github",
-  "updated_at": "2026-10-19T21:10:38Z",
+  "updated_at": "2026-10-20T07:52:31Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "edge",
   "download_url": "https://codeload.github.com/FreshRSS/FreshRSS/zip/refs/heads/edge",
-  "release": null,
+  "release": {
+    "tag": "1.30.2",
+    "name": "FreshRSS 1.30.2",
+    "published": "2026-10-19T20:57:49Z",
+    "url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -15,7 +15,7 @@
   ],
   "deploy_type": "客户端 / 桌面应用",
   "platform": "github",
-  "updated_at": "2026-10-20T03:57:43Z",
+  "updated_at": "2026-10-20T08:21:10Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/superset-sh/superset/zip/refs/heads/main",
@@ -42,9 +42,9 @@
       "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.39.0/superset-1.39.0-amd64.deb"
     },
     {
-      "name": "superset-1.39.0-x86_64.AppImage",
+      "name": "Superset-x86_64.AppImage",
       "size": 465233497,
-      "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.39.0/superset-1.39.0-x86_64.AppImage"
+      "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.39.0/Superset-x86_64.AppImage"
     },
     {
       "name": "Superset-1.39.0-arm64-mac.zip",

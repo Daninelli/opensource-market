@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/OpenTTD/OpenTTD/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "15.3",
+    "name": "15.3",
+    "published": "2026-04-04T19:56:48Z",
+    "url": "https://github.com/OpenTTD/OpenTTD/releases/tag/15.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/plait-board/drawnix/zip/refs/heads/develop",
-  "release": null,
+  "release": {
+    "tag": "v0.4.0",
+    "name": "v0.4.0 is now live ! 🚀",
+    "published": "2026-04-19T13:29:06Z",
+    "url": "https://github.com/plait-board/drawnix/releases/tag/v0.4.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

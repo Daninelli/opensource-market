@@ -15,11 +15,16 @@
   ],
   "deploy_type": "依赖库 / 前端源码",
   "platform": "github",
-  "updated_at": "2026-10-15T10:50:08Z",
+  "updated_at": "2026-10-20T08:31:53Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/BuilderIO/builder/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "@builder.io/react@9.4.9",
+    "name": "@builder.io/react@9.4.9",
+    "published": "2026-10-15T06:09:04Z",
+    "url": "https://github.com/BuilderIO/builder/releases/tag/%40builder.io/react%409.4.9"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

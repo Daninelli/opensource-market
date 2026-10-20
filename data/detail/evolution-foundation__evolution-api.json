@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/evolution-foundation/evolution-api/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "2.3.7",
+    "name": "v2.3.7",
+    "published": "2025-12-05T14:29:49Z",
+    "url": "https://github.com/evolution-foundation/evolution-api/releases/tag/2.3.7"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

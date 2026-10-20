@@ -17,11 +17,16 @@
   ],
   "deploy_type": "命令行 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-19T11:54:35Z",
+  "updated_at": "2026-10-20T07:40:20Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/mitmproxy/mitmproxy/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v12.2.3",
+    "name": "mitmproxy 12.2.3",
+    "published": "2026-05-12T13:02:17Z",
+    "url": "https://github.com/mitmproxy/mitmproxy/releases/tag/v12.2.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

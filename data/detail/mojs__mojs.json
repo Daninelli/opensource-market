@@ -19,7 +19,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/mojs/mojs/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v1.7.1",
+    "name": "@mojs/core 1.7.1",
+    "published": "2023-10-06T21:00:42Z",
+    "url": "https://github.com/mojs/mojs/releases/tag/v1.7.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

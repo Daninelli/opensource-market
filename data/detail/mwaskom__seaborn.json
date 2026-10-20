@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mwaskom/seaborn/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v0.13.2",
+    "name": "v0.13.2 (January 2024)",
+    "published": "2024-01-25T13:21:20Z",
+    "url": "https://github.com/mwaskom/seaborn/releases/tag/v0.13.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/DapperLib/Dapper/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "2.1.89",
+    "name": "2.1.89",
+    "published": "2026-09-23T04:33:15Z",
+    "url": "https://github.com/DapperLib/Dapper/releases/tag/2.1.89"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

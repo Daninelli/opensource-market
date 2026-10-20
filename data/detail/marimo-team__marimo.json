@@ -17,11 +17,16 @@
   ],
   "deploy_type": "依赖库 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T02:34:10Z",
+  "updated_at": "2026-10-20T07:34:28Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/marimo-team/marimo/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "0.25.2",
+    "name": "0.25.2",
+    "published": "2026-10-19T20:13:24Z",
+    "url": "https://github.com/marimo-team/marimo/releases/tag/0.25.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

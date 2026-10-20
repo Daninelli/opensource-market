@@ -16,11 +16,16 @@
   ],
   "deploy_type": "镜像 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T04:08:13Z",
+  "updated_at": "2026-10-20T07:25:33Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ublue-os/bazzite/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "44.20261012.1",
+    "name": "44.20261012.1: Stable (F44.20261012)",
+    "published": "2026-10-13T01:37:49Z",
+    "url": "https://github.com/ublue-os/bazzite/releases/tag/44.20261012.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -16,11 +16,16 @@
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T03:03:46Z",
+  "updated_at": "2026-10-20T07:10:44Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Yeachan-Heo/oh-my-claudecode/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v5.7.5",
+    "name": "v5.7.5",
+    "published": "2026-10-18T07:02:02Z",
+    "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/releases/tag/v5.7.5"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

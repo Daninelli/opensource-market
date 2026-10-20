@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mixmark-io/turndown/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v7.2.4",
+    "name": "v7.2.4",
+    "published": "2026-04-03T14:59:50Z",
+    "url": "https://github.com/mixmark-io/turndown/releases/tag/v7.2.4"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

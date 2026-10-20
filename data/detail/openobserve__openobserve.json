@@ -17,11 +17,16 @@
   ],
   "deploy_type": "Docker 部署 / 二进制 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-20T04:03:29Z",
+  "updated_at": "2026-10-20T08:29:42Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/openobserve/openobserve/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v1.1.2",
+    "name": "Release v1.1.2",
+    "published": "2026-10-20T05:26:56Z",
+    "url": "https://github.com/openobserve/openobserve/releases/tag/v1.1.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

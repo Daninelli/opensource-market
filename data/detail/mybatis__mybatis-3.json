@@ -19,7 +19,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mybatis/mybatis-3/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "mybatis-3.5.19",
+    "name": "Mybatis 3.5.19",
+    "published": "2025-01-02T20:39:24Z",
+    "url": "https://github.com/mybatis/mybatis-3/releases/tag/mybatis-3.5.19"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

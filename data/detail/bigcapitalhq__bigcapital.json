@@ -17,11 +17,16 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-20T00:00:13Z",
+  "updated_at": "2026-10-20T08:22:47Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/bigcapitalhq/bigcapital/zip/refs/heads/develop",
-  "release": null,
+  "release": {
+    "tag": "v0.25.44",
+    "name": "v0.25.44",
+    "published": "2026-10-15T22:51:14Z",
+    "url": "https://github.com/bigcapitalhq/bigcapital/releases/tag/v0.25.44"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

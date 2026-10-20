@@ -20,41 +20,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/miniflux/v2/zip/refs/heads/main",
   "release": {
-    "tag": "2.3.3",
-    "name": "Miniflux 2.3.3",
-    "published": "2026-07-24T22:41:57Z",
-    "url": "https://github.com/miniflux/v2/releases/tag/2.3.3"
+    "tag": "2.3.4",
+    "name": "Miniflux 2.3.4",
+    "published": "2026-10-20T01:08:39Z",
+    "url": "https://github.com/miniflux/v2/releases/tag/2.3.4"
   },
   "assets": [
     {
       "name": "miniflux-darwin-arm64",
-      "size": 21039522,
-      "url": "https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-darwin-arm64"
+      "size": 22768754,
+      "url": "https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-darwin-arm64"
     },
     {
       "name": "miniflux-darwin-amd64",
-      "size": 22339232,
-      "url": "https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-darwin-amd64"
+      "size": 24210880,
+      "url": "https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-darwin-amd64"
     },
     {
-      "name": "miniflux_2.3.3_armhf.deb",
-      "size": 5545608,
-      "url": "https://github.com/miniflux/v2/releases/download/2.3.3/miniflux_2.3.3_armhf.deb"
+      "name": "miniflux_2.3.4_armhf.deb",
+      "size": 6419836,
+      "url": "https://github.com/miniflux/v2/releases/download/2.3.4/miniflux_2.3.4_armhf.deb"
     },
     {
-      "name": "miniflux_2.3.3_arm64.deb",
-      "size": 5612308,
-      "url": "https://github.com/miniflux/v2/releases/download/2.3.3/miniflux_2.3.3_arm64.deb"
+      "name": "miniflux_2.3.4_arm64.deb",
+      "size": 6456796,
+      "url": "https://github.com/miniflux/v2/releases/download/2.3.4/miniflux_2.3.4_arm64.deb"
     },
     {
       "name": "miniflux-freebsd-amd64",
-      "size": 21803180,
-      "url": "https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-freebsd-amd64"
+      "size": 23654570,
+      "url": "https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-freebsd-amd64"
     },
     {
       "name": "miniflux-openbsd-amd64",
-      "size": 21807389,
-      "url": "https://github.com/miniflux/v2/releases/download/2.3.3/miniflux-openbsd-amd64"
+      "size": 23666971,
+      "url": "https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-openbsd-amd64"
     }
   ],
   "pinned": false,

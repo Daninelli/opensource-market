@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T20:55:58Z",
+  "updated_at": "2026-10-20T08:28:39Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/dapr/dapr/zip/refs/heads/master",
@@ -27,19 +27,14 @@
   },
   "assets": [
     {
-      "name": "placement_darwin_arm64.tar.gz",
-      "size": 13228727,
-      "url": "https://github.com/dapr/dapr/releases/download/v1.18.7/placement_darwin_arm64.tar.gz"
+      "name": "injector_darwin_arm64.tar.gz",
+      "size": 14768941,
+      "url": "https://github.com/dapr/dapr/releases/download/v1.18.7/injector_darwin_arm64.tar.gz"
     },
     {
-      "name": "placement_windows_amd64.zip",
-      "size": 14311801,
-      "url": "https://github.com/dapr/dapr/releases/download/v1.18.7/placement_windows_amd64.zip"
-    },
-    {
-      "name": "placement_darwin_amd64.tar.gz",
-      "size": 14621432,
-      "url": "https://github.com/dapr/dapr/releases/download/v1.18.7/placement_darwin_amd64.tar.gz"
+      "name": "operator_darwin_arm64.tar.gz",
+      "size": 14995266,
+      "url": "https://github.com/dapr/dapr/releases/download/v1.18.7/operator_darwin_arm64.tar.gz"
     },
     {
       "name": "injector_windows_amd64.zip",
@@ -47,14 +42,19 @@
       "url": "https://github.com/dapr/dapr/releases/download/v1.18.7/injector_windows_amd64.zip"
     },
     {
-      "name": "placement_linux_arm64.tar.gz",
-      "size": 12669040,
-      "url": "https://github.com/dapr/dapr/releases/download/v1.18.7/placement_linux_arm64.tar.gz"
+      "name": "daprd_windows_amd64.zip",
+      "size": 63353736,
+      "url": "https://github.com/dapr/dapr/releases/download/v1.18.7/daprd_windows_amd64.zip"
     },
     {
-      "name": "placement_linux_arm.tar.gz",
-      "size": 13455218,
-      "url": "https://github.com/dapr/dapr/releases/download/v1.18.7/placement_linux_arm.tar.gz"
+      "name": "injector_linux_arm64.tar.gz",
+      "size": 14059301,
+      "url": "https://github.com/dapr/dapr/releases/download/v1.18.7/injector_linux_arm64.tar.gz"
+    },
+    {
+      "name": "injector_linux_arm.tar.gz",
+      "size": 14851499,
+      "url": "https://github.com/dapr/dapr/releases/download/v1.18.7/injector_linux_arm.tar.gz"
     }
   ],
   "pinned": false,

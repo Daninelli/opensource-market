@@ -42,9 +42,9 @@
       "url": "https://github.com/TecharoHQ/anubis/releases/download/v1.28.1/anubis-1.28.1-linux-ppc64le.tar.gz"
     },
     {
-      "name": "anubis_1.28.1_ppc64el.deb",
-      "size": 21808770,
-      "url": "https://github.com/TecharoHQ/anubis/releases/download/v1.28.1/anubis_1.28.1_ppc64el.deb"
+      "name": "anubis-1.28.1-1.ppc64le.rpm",
+      "size": 21826156,
+      "url": "https://github.com/TecharoHQ/anubis/releases/download/v1.28.1/anubis-1.28.1-1.ppc64le.rpm"
     },
     {
       "name": "anubis-1.28.1-netbsd-arm64.tar.gz",
@@ -57,14 +57,9 @@
       "url": "https://github.com/TecharoHQ/anubis/releases/download/v1.28.1/anubis-1.28.1-freebsd-arm64.tar.gz"
     },
     {
-      "name": "anubis_1.28.1_ppc64le_sysext.raw",
-      "size": 34361344,
-      "url": "https://github.com/TecharoHQ/anubis/releases/download/v1.28.1/anubis_1.28.1_ppc64le_sysext.raw"
-    },
-    {
-      "name": "anubis_1.28.1_arm64_sysext.raw",
-      "size": 34435072,
-      "url": "https://github.com/TecharoHQ/anubis/releases/download/v1.28.1/anubis_1.28.1_arm64_sysext.raw"
+      "name": "anubis_1.28.1_amd64_sysext.raw",
+      "size": 38461440,
+      "url": "https://github.com/TecharoHQ/anubis/releases/download/v1.28.1/anubis_1.28.1_amd64_sysext.raw"
     }
   ],
   "pinned": false,

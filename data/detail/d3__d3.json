@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/d3/d3/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v7.9.0",
+    "name": "v7.9.0",
+    "published": "2024-03-12T22:18:19Z",
+    "url": "https://github.com/d3/d3/releases/tag/v7.9.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

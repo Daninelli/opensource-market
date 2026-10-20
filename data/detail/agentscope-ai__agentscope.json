@@ -15,11 +15,16 @@
   ],
   "deploy_type": "依赖库 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T03:06:39Z",
+  "updated_at": "2026-10-20T07:03:16Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/agentscope-ai/agentscope/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.0.10",
+    "name": "v2.0.10",
+    "published": "2026-10-12T08:15:09Z",
+    "url": "https://github.com/agentscope-ai/agentscope/releases/tag/v2.0.10"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

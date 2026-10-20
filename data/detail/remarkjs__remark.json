@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/remarkjs/remark/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "remark-cli@12.0.0",
+    "name": "remark-cli@12.0.0",
+    "published": "2023-09-18T09:46:45Z",
+    "url": "https://github.com/remarkjs/remark/releases/tag/remark-cli%4012.0.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

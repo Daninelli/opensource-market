@@ -15,11 +15,16 @@
   ],
   "deploy_type": "Docker 部署 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-19T14:26:59Z",
+  "updated_at": "2026-10-20T07:55:18Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/TykTechnologies/tyk/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v5.15.1",
+    "name": "v5.15.1",
+    "published": "2026-10-02T21:58:17Z",
+    "url": "https://github.com/TykTechnologies/tyk/releases/tag/v5.15.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

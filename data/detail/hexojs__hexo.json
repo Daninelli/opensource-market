@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/hexojs/hexo/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v8.1.2",
+    "name": "v8.1.2",
+    "published": "2026-05-06T13:24:24Z",
+    "url": "https://github.com/hexojs/hexo/releases/tag/v8.1.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

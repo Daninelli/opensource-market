@@ -17,11 +17,16 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-20T04:07:01Z",
+  "updated_at": "2026-10-20T05:08:41Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/nextcloud/all-in-one/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v14.3.0",
+    "name": "v14.3.0",
+    "published": "2026-10-08T08:53:22Z",
+    "url": "https://github.com/nextcloud/all-in-one/releases/tag/v14.3.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

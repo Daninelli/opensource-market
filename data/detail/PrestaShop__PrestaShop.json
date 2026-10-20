@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/PrestaShop/PrestaShop/zip/refs/heads/develop",
-  "release": null,
+  "release": {
+    "tag": "9.2.0",
+    "name": "PrestaShop 9.2.0",
+    "published": "2026-09-30T09:56:24Z",
+    "url": "https://github.com/PrestaShop/PrestaShop/releases/tag/9.2.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

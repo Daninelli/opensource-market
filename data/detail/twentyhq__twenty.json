@@ -18,11 +18,16 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-20T02:23:19Z",
+  "updated_at": "2026-10-20T08:32:39Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/twentyhq/twenty/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "sdk/v2.49.0",
+    "name": "sdk/v2.49.0",
+    "published": "2026-10-19T14:53:16Z",
+    "url": "https://github.com/twentyhq/twenty/releases/tag/sdk/v2.49.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

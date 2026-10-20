@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/apache/rocketmq/zip/refs/heads/develop",
-  "release": null,
+  "release": {
+    "tag": "rocketmq-all-5.5.1",
+    "name": "rocketmq-all-5.5.1",
+    "published": "2026-08-20T07:35:53Z",
+    "url": "https://github.com/apache/rocketmq/releases/tag/rocketmq-all-5.5.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

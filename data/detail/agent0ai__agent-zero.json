@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/agent0ai/agent-zero/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.14",
+    "name": "v2.14",
+    "published": "2026-10-13T16:29:24Z",
+    "url": "https://github.com/agent0ai/agent-zero/releases/tag/v2.14"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

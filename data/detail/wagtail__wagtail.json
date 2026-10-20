@@ -17,11 +17,16 @@
   ],
   "deploy_type": "源码 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-16T17:03:34Z",
+  "updated_at": "2026-10-20T07:28:05Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/wagtail/wagtail/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v8.0",
+    "name": "8.0",
+    "published": "2026-08-25T12:36:17Z",
+    "url": "https://github.com/wagtail/wagtail/releases/tag/v8.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

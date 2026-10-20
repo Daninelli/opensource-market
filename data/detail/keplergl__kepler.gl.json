@@ -16,11 +16,16 @@
   ],
   "deploy_type": "依赖库 / 前端源码",
   "platform": "github",
-  "updated_at": "2026-10-20T04:11:12Z",
+  "updated_at": "2026-10-20T05:41:33Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/keplergl/kepler.gl/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v3.3.0-alpha.18",
+    "name": "v3.3.0-alpha.18",
+    "published": "2026-10-19T20:35:58Z",
+    "url": "https://github.com/keplergl/kepler.gl/releases/tag/v3.3.0-alpha.18"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

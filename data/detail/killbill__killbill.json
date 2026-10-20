@@ -21,7 +21,12 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/killbill/killbill/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "killbill-0.24.22",
+    "name": "killbill-0.24.22",
+    "published": "2026-09-29T04:01:36Z",
+    "url": "https://github.com/killbill/killbill/releases/tag/killbill-0.24.22"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/sickn33/agentic-awesome-skills/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v19.11.0",
+    "name": "v19.11.0",
+    "published": "2026-10-19T08:31:15Z",
+    "url": "https://github.com/sickn33/agentic-awesome-skills/releases/tag/v19.11.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/vueComponent/ant-design-vue/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "4.2.6",
+    "name": "4.2.6",
+    "published": "2024-11-11T06:59:22Z",
+    "url": "https://github.com/vueComponent/ant-design-vue/releases/tag/4.2.6"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/faisalman/ua-parser-js/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "2.0.10",
+    "name": "v2.0.10",
+    "published": "2026-05-21T06:31:55Z",
+    "url": "https://github.com/faisalman/ua-parser-js/releases/tag/2.0.10"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

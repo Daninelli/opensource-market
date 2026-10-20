@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/FaridSafi/react-native-gifted-chat/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "3.4.1",
+    "name": "3.4.1",
+    "published": "2026-06-19T14:13:43Z",
+    "url": "https://github.com/FaridSafi/react-native-gifted-chat/releases/tag/3.4.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

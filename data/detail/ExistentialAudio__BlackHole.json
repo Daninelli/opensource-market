@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/ExistentialAudio/BlackHole/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v0.7.1",
+    "name": "v0.7.1",
+    "published": "2026-07-03T17:58:06Z",
+    "url": "https://github.com/ExistentialAudio/BlackHole/releases/tag/v0.7.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -16,56 +16,26 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T04:10:43Z",
+  "updated_at": "2026-10-20T08:32:18Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/OneUptime/oneuptime/zip/refs/heads/master",
   "release": {
-    "tag": "14.0.75",
-    "name": "14.0.75",
-    "published": "2026-10-19T12:05:24Z",
-    "url": "https://github.com/OneUptime/oneuptime/releases/tag/14.0.75"
+    "tag": "14.0.78",
+    "name": "14.0.78",
+    "published": "2026-10-20T06:19:04Z",
+    "url": "https://github.com/OneUptime/oneuptime/releases/tag/14.0.78"
   },
   "assets": [
     {
-      "name": "oneuptime-infrastructure-agent_windows_arm64.zip",
-      "size": 2945107,
-      "url": "https://github.com/OneUptime/oneuptime/releases/download/14.0.75/oneuptime-infrastructure-agent_windows_arm64.zip"
+      "name": "oneuptime-infrastructure-agent_openbsd_arm64.tar.gz",
+      "size": 1926198,
+      "url": "https://github.com/OneUptime/oneuptime/releases/download/14.0.78/oneuptime-infrastructure-agent_openbsd_arm64.tar.gz"
     },
     {
-      "name": "oneuptime-infrastructure-agent-arm64.msi",
-      "size": 3032576,
-      "url": "https://github.com/OneUptime/oneuptime/releases/download/14.0.75/oneuptime-infrastructure-agent-arm64.msi"
-    },
-    {
-      "name": "oneuptime-infrastructure-agent_darwin_arm64.tar.gz",
-      "size": 3414394,
-      "url": "https://github.com/OneUptime/oneuptime/releases/download/14.0.75/oneuptime-infrastructure-agent_darwin_arm64.tar.gz"
-    },
-    {
-      "name": "oneuptime-infrastructure-agent_darwin_amd64.tar.gz",
-      "size": 3680144,
-      "url": "https://github.com/OneUptime/oneuptime/releases/download/14.0.75/oneuptime-infrastructure-agent_darwin_amd64.tar.gz"
-    },
-    {
-      "name": "oneuptime-infrastructure-agent_arm64.archlinux.pkg.tar.zst",
-      "size": 3341755,
-      "url": "https://github.com/OneUptime/oneuptime/releases/download/14.0.75/oneuptime-infrastructure-agent_arm64.archlinux.pkg.tar.zst"
-    },
-    {
-      "name": "oneuptime-infrastructure-agent_arm64.rpm",
-      "size": 3344385,
-      "url": "https://github.com/OneUptime/oneuptime/releases/download/14.0.75/oneuptime-infrastructure-agent_arm64.rpm"
-    },
-    {
-      "name": "oneuptime-on-call-ios-app.ipa",
-      "size": 17905441,
-      "url": "https://github.com/OneUptime/oneuptime/releases/download/14.0.75/oneuptime-on-call-ios-app.ipa"
-    },
-    {
-      "name": "oneuptime-infrastructure-agent_arm64.apk",
-      "size": 3463298,
-      "url": "https://github.com/OneUptime/oneuptime/releases/download/14.0.75/oneuptime-infrastructure-agent_arm64.apk"
+      "name": "oneuptime-infrastructure-agent_openbsd_amd64.tar.gz",
+      "size": 2097008,
+      "url": "https://github.com/OneUptime/oneuptime/releases/download/14.0.78/oneuptime-infrastructure-agent_openbsd_amd64.tar.gz"
     }
   ],
   "pinned": false,

@@ -21,41 +21,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/anthropics/claude-code/zip/refs/heads/main",
   "release": {
-    "tag": "v2.1.303",
-    "name": "v2.1.303",
-    "published": "2026-10-18T22:26:54Z",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.303"
+    "tag": "v2.1.304",
+    "name": "v2.1.304",
+    "published": "2026-10-19T21:34:39Z",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.304"
   },
   "assets": [
     {
       "name": "claude-darwin-arm64.tar.gz",
-      "size": 117029790,
-      "url": "https://github.com/anthropics/claude-code/releases/download/v2.1.303/claude-darwin-arm64.tar.gz"
+      "size": 118498011,
+      "url": "https://github.com/anthropics/claude-code/releases/download/v2.1.304/claude-darwin-arm64.tar.gz"
     },
     {
       "name": "claude-darwin-x64.tar.gz",
-      "size": 122846166,
-      "url": "https://github.com/anthropics/claude-code/releases/download/v2.1.303/claude-darwin-x64.tar.gz"
+      "size": 124316104,
+      "url": "https://github.com/anthropics/claude-code/releases/download/v2.1.304/claude-darwin-x64.tar.gz"
     },
     {
       "name": "claude-win32-arm64.zip",
-      "size": 125237113,
-      "url": "https://github.com/anthropics/claude-code/releases/download/v2.1.303/claude-win32-arm64.zip"
+      "size": 126645856,
+      "url": "https://github.com/anthropics/claude-code/releases/download/v2.1.304/claude-win32-arm64.zip"
     },
     {
       "name": "claude-win32-x64.zip",
-      "size": 130787105,
-      "url": "https://github.com/anthropics/claude-code/releases/download/v2.1.303/claude-win32-x64.zip"
+      "size": 132209788,
+      "url": "https://github.com/anthropics/claude-code/releases/download/v2.1.304/claude-win32-x64.zip"
     },
     {
       "name": "claude-linux-arm64-musl.tar.gz",
-      "size": 124715949,
-      "url": "https://github.com/anthropics/claude-code/releases/download/v2.1.303/claude-linux-arm64-musl.tar.gz"
+      "size": 126123890,
+      "url": "https://github.com/anthropics/claude-code/releases/download/v2.1.304/claude-linux-arm64-musl.tar.gz"
     },
     {
       "name": "claude-linux-x64-musl.tar.gz",
-      "size": 125329263,
-      "url": "https://github.com/anthropics/claude-code/releases/download/v2.1.303/claude-linux-x64-musl.tar.gz"
+      "size": 126708087,
+      "url": "https://github.com/anthropics/claude-code/releases/download/v2.1.304/claude-linux-x64-musl.tar.gz"
     }
   ],
   "pinned": false,

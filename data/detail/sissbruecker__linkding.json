@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/sissbruecker/linkding/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v1.47.0",
+    "name": "v1.47.0",
+    "published": "2026-09-13T17:47:41Z",
+    "url": "https://github.com/sissbruecker/linkding/releases/tag/v1.47.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

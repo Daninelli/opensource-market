@@ -15,11 +15,16 @@
   ],
   "deploy_type": "二进制 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T20:41:13Z",
+  "updated_at": "2026-10-20T05:16:35Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/open-telemetry/opentelemetry-collector/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v0.163.0",
+    "name": "v1.69.0/v0.163.0",
+    "published": "2026-10-14T02:03:50Z",
+    "url": "https://github.com/open-telemetry/opentelemetry-collector/releases/tag/v0.163.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ayghri/i-have-adhd/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v0.4.1",
+    "name": "v0.4.1",
+    "published": "2026-10-19T19:46:23Z",
+    "url": "https://github.com/ayghri/i-have-adhd/releases/tag/v0.4.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

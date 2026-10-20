@@ -17,11 +17,16 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T04:31:25Z",
+  "updated_at": "2026-10-20T04:31:16Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "development",
   "download_url": "https://codeload.github.com/BookStackApp/BookStack/zip/refs/heads/development",
-  "release": null,
+  "release": {
+    "tag": "v26.09.1",
+    "name": "BookStack v26.09.1",
+    "published": "2026-09-29T14:24:29Z",
+    "url": "https://github.com/BookStackApp/BookStack/releases/tag/v26.09.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

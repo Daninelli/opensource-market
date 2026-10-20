@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/joemccann/dillinger/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "3.5.1",
+    "name": "Adds resizable interaction for editor and preview panes",
+    "published": "2016-08-04T17:14:48Z",
+    "url": "https://github.com/joemccann/dillinger/releases/tag/3.5.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

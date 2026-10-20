@@ -16,11 +16,16 @@
   ],
   "deploy_type": "源码 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-19T19:46:48Z",
+  "updated_at": "2026-10-20T06:30:43Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/MadsLorentzen/ai-job-search/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v1.7.3",
+    "name": "v1.7.3 - Least privilege, postings checked before use, and fifty-eight fixes",
+    "published": "2026-10-19T16:42:35Z",
+    "url": "https://github.com/MadsLorentzen/ai-job-search/releases/tag/v1.7.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

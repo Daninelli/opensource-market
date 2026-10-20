@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/tcgoetz/GarminDB/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v3.9.0",
+    "name": "v3.9.0",
+    "published": "2026-08-23T18:01:38Z",
+    "url": "https://github.com/tcgoetz/GarminDB/releases/tag/v3.9.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -22,7 +22,12 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/outline/outline/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v1.11.0",
+    "name": "v1.11.0",
+    "published": "2026-10-12T14:22:35Z",
+    "url": "https://github.com/outline/outline/releases/tag/v1.11.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

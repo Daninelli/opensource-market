@@ -17,11 +17,16 @@
   ],
   "deploy_type": "桌面应用 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-19T21:20:29Z",
+  "updated_at": "2026-10-20T04:25:29Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/files-community/Files/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v4.3",
+    "name": "v4.3",
+    "published": "2026-10-11T18:35:07Z",
+    "url": "https://github.com/files-community/Files/releases/tag/v4.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

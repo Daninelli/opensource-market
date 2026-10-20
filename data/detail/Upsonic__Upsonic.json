@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Upsonic/Upsonic/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v0.77.3",
+    "name": "v0.77.3",
+    "published": "2026-05-19T18:05:33Z",
+    "url": "https://github.com/Upsonic/Upsonic/releases/tag/v0.77.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

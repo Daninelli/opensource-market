@@ -16,11 +16,16 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-19T16:03:38Z",
+  "updated_at": "2026-10-20T07:00:47Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/usekaneo/kaneo/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.46.2",
+    "name": "v2.46.2",
+    "published": "2026-10-12T22:42:29Z",
+    "url": "https://github.com/usekaneo/kaneo/releases/tag/v2.46.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

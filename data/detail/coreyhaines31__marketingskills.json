@@ -20,16 +20,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/coreyhaines31/marketingskills/zip/refs/heads/main",
   "release": {
-    "tag": "v2.12.2",
-    "name": "v2.12.2 — ai-seo (2.9.1 → 2.10.0): the bot access check and robots.txt config separate Meta's crawl…",
-    "published": "2026-10-19T17:19:59Z",
-    "url": "https://github.com/coreyhaines31/marketingskills/releases/tag/v2.12.2"
+    "tag": "v2.13.0",
+    "name": "v2.13.0 — Added the conversion-tracking skill (1.0.0). Setting up, auditing, verifying and fixing t…",
+    "published": "2026-10-19T21:30:05Z",
+    "url": "https://github.com/coreyhaines31/marketingskills/releases/tag/v2.13.0"
   },
   "assets": [
     {
-      "name": "marketing-plan-claude-web.zip",
-      "size": 105764,
-      "url": "https://github.com/coreyhaines31/marketingskills/releases/download/v2.12.2/marketing-plan-claude-web.zip"
+      "name": "conversion-tracking-claude-web.zip",
+      "size": 236726,
+      "url": "https://github.com/coreyhaines31/marketingskills/releases/download/v2.13.0/conversion-tracking-claude-web.zip"
     }
   ],
   "pinned": false,

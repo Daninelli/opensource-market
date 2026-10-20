@@ -17,11 +17,16 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-19T14:38:00Z",
+  "updated_at": "2026-10-20T08:19:01Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/plausible/analytics/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v3.2.1",
+    "name": "v3.2.1",
+    "published": "2026-05-15T09:15:56Z",
+    "url": "https://github.com/plausible/analytics/releases/tag/v3.2.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

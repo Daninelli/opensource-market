@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/continuedev/continue/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.0.0-vscode",
+    "name": "v2.0.0-vscode",
+    "published": "2026-06-19T00:24:01Z",
+    "url": "https://github.com/continuedev/continue/releases/tag/v2.0.0-vscode"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

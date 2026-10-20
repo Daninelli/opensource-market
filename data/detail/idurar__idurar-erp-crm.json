@@ -22,7 +22,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/idurar/idurar-erp-crm/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "4.1.1",
+    "name": "4.1.1",
+    "published": "2026-03-16T19:17:57Z",
+    "url": "https://github.com/idurar/idurar-erp-crm/releases/tag/4.1.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

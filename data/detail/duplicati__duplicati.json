@@ -17,7 +17,7 @@
   ],
   "deploy_type": "二进制 / 桌面应用 / 客户端",
   "platform": "github",
-  "updated_at": "2026-10-19T09:29:17Z",
+  "updated_at": "2026-10-20T08:29:24Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/duplicati/duplicati/zip/refs/heads/master",
@@ -28,16 +28,6 @@
     "url": "https://github.com/duplicati/duplicati/releases/tag/v2.4.0.1_stable_2026-10-07"
   },
   "assets": [
-    {
-      "name": "duplicati-2.4.0.1_stable_2026-10-07-osx-arm64-agent.pkg",
-      "size": 86998447,
-      "url": "https://github.com/duplicati/duplicati/releases/download/v2.4.0.1_stable_2026-10-07/duplicati-2.4.0.1_stable_2026-10-07-osx-arm64-agent.pkg"
-    },
-    {
-      "name": "duplicati-2.4.0.1_stable_2026-10-07-osx-arm64-cli.pkg",
-      "size": 88113845,
-      "url": "https://github.com/duplicati/duplicati/releases/download/v2.4.0.1_stable_2026-10-07/duplicati-2.4.0.1_stable_2026-10-07-osx-arm64-cli.pkg"
-    },
     {
       "name": "duplicati-2.4.0.1_stable_2026-10-07-win-arm64-agent.zip",
       "size": 91482601,

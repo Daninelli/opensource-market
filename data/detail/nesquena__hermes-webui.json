@@ -15,11 +15,16 @@
   ],
   "deploy_type": "Docker 部署 / 前端源码",
   "platform": "github",
-  "updated_at": "2026-10-20T03:12:45Z",
+  "updated_at": "2026-10-20T07:01:51Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/nesquena/hermes-webui/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v0.52.458",
+    "name": "v0.52.458",
+    "published": "2026-10-14T18:43:43Z",
+    "url": "https://github.com/nesquena/hermes-webui/releases/tag/v0.52.458"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -15,11 +15,16 @@
   ],
   "deploy_type": "依赖库 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T20:15:19Z",
+  "updated_at": "2026-10-20T08:31:50Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/NangoHQ/nango/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v0.71.13",
+    "name": "v0.71.13",
+    "published": "2026-10-14T13:01:54Z",
+    "url": "https://github.com/NangoHQ/nango/releases/tag/v0.71.13"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/payloadcms/payload/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v3.91.0",
+    "name": "v3.91.0",
+    "published": "2026-10-15T20:23:15Z",
+    "url": "https://github.com/payloadcms/payload/releases/tag/v3.91.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

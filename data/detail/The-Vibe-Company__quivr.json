@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/The-Vibe-Company/quivr/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "core-0.0.33",
+    "name": "core: v0.0.33",
+    "published": "2025-02-04T10:18:50Z",
+    "url": "https://github.com/The-Vibe-Company/quivr/releases/tag/core-0.0.33"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

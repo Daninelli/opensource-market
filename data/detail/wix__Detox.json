@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/wix/Detox/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "20.51.3",
+    "name": "20.51.3",
+    "published": "2026-05-30T11:25:05Z",
+    "url": "https://github.com/wix/Detox/releases/tag/20.51.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

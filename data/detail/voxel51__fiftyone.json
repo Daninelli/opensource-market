@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/voxel51/fiftyone/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v1.22.1",
+    "name": "v1.22.1",
+    "published": "2026-09-29T23:31:11Z",
+    "url": "https://github.com/voxel51/fiftyone/releases/tag/v1.22.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -17,11 +17,16 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-20T03:26:24Z",
+  "updated_at": "2026-10-20T08:31:15Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "new_dawn_uat",
   "download_url": "https://codeload.github.com/metasfresh/metasfresh/zip/refs/heads/new_dawn_uat",
-  "release": null,
+  "release": {
+    "tag": "5.175",
+    "name": "metasfresh 5.175",
+    "published": "2023-06-27T13:26:51Z",
+    "url": "https://github.com/metasfresh/metasfresh/releases/tag/5.175"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

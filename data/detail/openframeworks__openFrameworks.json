@@ -22,39 +22,39 @@
   "release": {
     "tag": "nightly",
     "name": "Nightly Release",
-    "published": "2026-10-19T06:42:10Z",
+    "published": "2026-10-20T06:37:52Z",
     "url": "https://github.com/openframeworks/openFrameworks/releases/tag/nightly"
   },
   "assets": [
     {
-      "name": "of_v20261019_linuxarmv6l_release.tar.gz",
-      "size": 195133938,
-      "url": "https://github.com/openframeworks/openFrameworks/releases/download/nightly/of_v20261019_linuxarmv6l_release.tar.gz"
+      "name": "of_v20261020_linuxarmv6l_release.tar.gz",
+      "size": 195132067,
+      "url": "https://github.com/openframeworks/openFrameworks/releases/download/nightly/of_v20261020_linuxarmv6l_release.tar.gz"
     },
     {
-      "name": "of_v20261019_linuxaarch64_release.tar.gz",
-      "size": 195213402,
-      "url": "https://github.com/openframeworks/openFrameworks/releases/download/nightly/of_v20261019_linuxaarch64_release.tar.gz"
+      "name": "of_v20261020_linuxaarch64_release.tar.gz",
+      "size": 195211023,
+      "url": "https://github.com/openframeworks/openFrameworks/releases/download/nightly/of_v20261020_linuxaarch64_release.tar.gz"
     },
     {
-      "name": "of_v20261019_android_windows_release.zip",
+      "name": "of_v20261020_android_windows_release.zip",
       "size": 483040139,
-      "url": "https://github.com/openframeworks/openFrameworks/releases/download/nightly/of_v20261019_android_windows_release.zip"
+      "url": "https://github.com/openframeworks/openFrameworks/releases/download/nightly/of_v20261020_android_windows_release.zip"
     },
     {
-      "name": "of_v20261019_android_macos_release.tar.gz",
-      "size": 551261981,
-      "url": "https://github.com/openframeworks/openFrameworks/releases/download/nightly/of_v20261019_android_macos_release.tar.gz"
+      "name": "of_v20261020_android_macos_release.tar.gz",
+      "size": 551263625,
+      "url": "https://github.com/openframeworks/openFrameworks/releases/download/nightly/of_v20261020_android_macos_release.tar.gz"
     },
     {
-      "name": "of_v20261019_msys2_ucrt64_release.zip",
+      "name": "of_v20261020_msys2_ucrt64_release.zip",
       "size": 412272535,
-      "url": "https://github.com/openframeworks/openFrameworks/releases/download/nightly/of_v20261019_msys2_ucrt64_release.zip"
+      "url": "https://github.com/openframeworks/openFrameworks/releases/download/nightly/of_v20261020_msys2_ucrt64_release.zip"
     },
     {
-      "name": "of_v20261019_msys2_clangarm64_release.zip",
+      "name": "of_v20261020_msys2_clangarm64_release.zip",
       "size": 412353604,
-      "url": "https://github.com/openframeworks/openFrameworks/releases/download/nightly/of_v20261019_msys2_clangarm64_release.zip"
+      "url": "https://github.com/openframeworks/openFrameworks/releases/download/nightly/of_v20261020_msys2_clangarm64_release.zip"
     }
   ],
   "pinned": false,

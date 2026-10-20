@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/liangliangyy/DjangoBlog/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "2.1.0.0",
+    "name": "2.1.0.0",
+    "published": "2026-01-14T09:38:28Z",
+    "url": "https://github.com/liangliangyy/DjangoBlog/releases/tag/2.1.0.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

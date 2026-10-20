@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Koenkk/zigbee2mqtt/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "2.14.2",
+    "name": "2.14.2",
+    "published": "2026-10-01T20:16:59Z",
+    "url": "https://github.com/Koenkk/zigbee2mqtt/releases/tag/2.14.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

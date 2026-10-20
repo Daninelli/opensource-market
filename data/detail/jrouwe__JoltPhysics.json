@@ -19,7 +19,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/jrouwe/JoltPhysics/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v5.6.0",
+    "name": "5.6.0",
+    "published": "2026-07-11T18:55:00Z",
+    "url": "https://github.com/jrouwe/JoltPhysics/releases/tag/v5.6.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

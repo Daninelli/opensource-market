@@ -16,11 +16,16 @@
   ],
   "deploy_type": "依赖库 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-19T17:55:38Z",
+  "updated_at": "2026-10-20T08:21:30Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ChromeDevTools/chrome-devtools-mcp/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "chrome-devtools-mcp-v1.11.0",
+    "name": "chrome-devtools-mcp: v1.11.0",
+    "published": "2026-10-15T14:01:41Z",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.11.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

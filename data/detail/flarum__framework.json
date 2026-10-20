@@ -17,11 +17,16 @@
   ],
   "deploy_type": "源码",
   "platform": "github",
-  "updated_at": "2026-10-19T18:27:39Z",
+  "updated_at": "2026-10-20T07:16:53Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "2.x",
   "download_url": "https://codeload.github.com/flarum/framework/zip/refs/heads/2.x",
-  "release": null,
+  "release": {
+    "tag": "v2.0.2",
+    "name": "v2.0.2",
+    "published": "2026-10-18T08:06:25Z",
+    "url": "https://github.com/flarum/framework/releases/tag/v2.0.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

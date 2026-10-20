@@ -21,7 +21,12 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "2.x",
   "download_url": "https://codeload.github.com/flarum/flarum/zip/refs/heads/2.x",
-  "release": null,
+  "release": {
+    "tag": "v2.0.0",
+    "name": "v2.0.0",
+    "published": "2026-10-09T18:15:31Z",
+    "url": "https://github.com/flarum/flarum/releases/tag/v2.0.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

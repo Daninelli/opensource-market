@@ -17,11 +17,16 @@
   ],
   "deploy_type": "源码 / 前端源码",
   "platform": "github",
-  "updated_at": "2026-10-20T02:49:56Z",
+  "updated_at": "2026-10-20T08:03:13Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/backstage/backstage/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v1.55.3",
+    "name": "v1.55.3",
+    "published": "2026-09-29T14:48:15Z",
+    "url": "https://github.com/backstage/backstage/releases/tag/v1.55.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

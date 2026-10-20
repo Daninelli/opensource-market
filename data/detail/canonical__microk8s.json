@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/canonical/microk8s/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v1.36",
+    "name": "Microk8s 1.36 released!",
+    "published": "2026-05-25T06:56:13Z",
+    "url": "https://github.com/canonical/microk8s/releases/tag/v1.36"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

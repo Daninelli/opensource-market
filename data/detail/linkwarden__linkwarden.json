@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/linkwarden/linkwarden/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.16.3",
+    "name": "v2.16.3",
+    "published": "2026-09-09T21:34:39Z",
+    "url": "https://github.com/linkwarden/linkwarden/releases/tag/v2.16.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

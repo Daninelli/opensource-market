@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/react/react/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v19.3.1",
+    "name": "19.3.1 (October 14th, 2026)",
+    "published": "2026-10-14T17:06:15Z",
+    "url": "https://github.com/react/react/releases/tag/v19.3.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

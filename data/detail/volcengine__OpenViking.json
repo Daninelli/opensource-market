@@ -16,11 +16,16 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T03:39:54Z",
+  "updated_at": "2026-10-20T08:23:28Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/volcengine/OpenViking/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v0.5.1",
+    "name": "v0.5.1",
+    "published": "2026-10-19T13:37:45Z",
+    "url": "https://github.com/volcengine/OpenViking/releases/tag/v0.5.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

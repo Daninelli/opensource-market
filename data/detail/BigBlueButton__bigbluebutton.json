@@ -22,7 +22,12 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "v4.0.x-develop",
   "download_url": "https://codeload.github.com/BigBlueButton/bigbluebutton/zip/refs/heads/v4.0.x-develop",
-  "release": null,
+  "release": {
+    "tag": "v4.0.0",
+    "name": "v4.0.0",
+    "published": "2026-10-14T23:32:13Z",
+    "url": "https://github.com/bigbluebutton/bigbluebutton/releases/tag/v4.0.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

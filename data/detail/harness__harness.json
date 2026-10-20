@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/harness/harness/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.28.2",
+    "name": "v2.28.2",
+    "published": "2026-04-20T11:19:42Z",
+    "url": "https://github.com/harness/harness/releases/tag/v2.28.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

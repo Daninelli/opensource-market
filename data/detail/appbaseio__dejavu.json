@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/appbaseio/dejavu/zip/refs/heads/dev",
-  "release": null,
+  "release": {
+    "tag": "3.10.0",
+    "name": "3.10.0",
+    "published": "2025-09-07T13:02:47Z",
+    "url": "https://github.com/appbaseio/dejavu/releases/tag/3.10.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

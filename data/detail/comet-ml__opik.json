@@ -16,11 +16,16 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T02:47:23Z",
+  "updated_at": "2026-10-20T08:30:46Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/comet-ml/opik/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "2.2.105",
+    "name": "2.2.105",
+    "published": "2026-10-19T14:30:39Z",
+    "url": "https://github.com/comet-ml/opik/releases/tag/2.2.105"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

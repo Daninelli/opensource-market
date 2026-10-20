@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-19T15:56:07Z",
+  "updated_at": "2026-10-20T08:16:22Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/traefik/traefik/zip/refs/heads/master",

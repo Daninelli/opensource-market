@@ -22,7 +22,12 @@
   "added_at": "2026-10-18T12:36:48+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/macrozheng/mall/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v1.0.3",
+    "name": "v1.0.3",
+    "published": "2024-03-01T08:21:50Z",
+    "url": "https://github.com/macrozheng/mall/releases/tag/v1.0.3"
+  },
   "assets": [],
   "pinned": true,
   "pin_label": "置顶",

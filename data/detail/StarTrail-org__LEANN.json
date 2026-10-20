@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/StarTrail-org/LEANN/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v0.3.8",
+    "name": "Release v0.3.8",
+    "published": "2026-09-28T15:35:07Z",
+    "url": "https://github.com/StarTrail-org/LEANN/releases/tag/v0.3.8"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

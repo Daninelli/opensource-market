@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/aws-amplify/amplify-js/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "@aws-amplify/pubsub@6.2.2",
+    "name": "@aws-amplify/pubsub@6.2.2",
+    "published": "2026-10-13T23:32:17Z",
+    "url": "https://github.com/aws-amplify/amplify-js/releases/tag/%40aws-amplify/pubsub%406.2.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

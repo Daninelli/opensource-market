@@ -17,11 +17,16 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-20T03:57:37Z",
+  "updated_at": "2026-10-20T08:17:30Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/labring/FastGPT/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v4.17.2",
+    "name": "v4.17.2",
+    "published": "2026-10-09T12:04:44Z",
+    "url": "https://github.com/labring/FastGPT/releases/tag/v4.17.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

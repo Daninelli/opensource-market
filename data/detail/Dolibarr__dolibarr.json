@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/Dolibarr/dolibarr/zip/refs/heads/develop",
-  "release": null,
+  "release": {
+    "tag": "24.0.1",
+    "name": "24.0.1",
+    "published": "2026-09-07T12:58:22Z",
+    "url": "https://github.com/Dolibarr/dolibarr/releases/tag/24.0.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

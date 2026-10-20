@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/wger-project/wger/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "2.7",
+    "name": "2.7",
+    "published": "2026-09-03T09:33:59Z",
+    "url": "https://github.com/wger-project/wger/releases/tag/2.7"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/influxdata/influxdb/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v3.12.1",
+    "name": "v3.12.1 | 10-14-26",
+    "published": "2026-10-15T17:44:55Z",
+    "url": "https://github.com/influxdata/influxdb/releases/tag/v3.12.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -22,7 +22,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "2.4-develop",
   "download_url": "https://codeload.github.com/magento/magento2/zip/refs/heads/2.4-develop",
-  "release": null,
+  "release": {
+    "tag": "2.4.10-alpha1",
+    "name": "Magento Release 2.4.10-alpha1",
+    "published": "2026-10-13T14:01:47Z",
+    "url": "https://github.com/magento/magento2/releases/tag/2.4.10-alpha1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

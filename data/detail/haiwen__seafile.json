@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T14:45:00.000Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/haiwen/seafile/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v9.0.5",
+    "name": "v9.0.5",
+    "published": "2024-02-27T07:51:16Z",
+    "url": "https://github.com/haiwen/seafile/releases/tag/v9.0.5"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

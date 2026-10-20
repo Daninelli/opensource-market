@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/chaitin/SafeLine/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v9.4.2",
+    "name": "SafeLine-CE 9.4.2",
+    "published": "2026-09-28T07:06:51Z",
+    "url": "https://github.com/chaitin/SafeLine/releases/tag/v9.4.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

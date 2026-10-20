@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/photoview/photoview/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v2.4.0",
+    "name": "2.4.0 - Project restart: a lot of improvements!",
+    "published": "2024-06-23T19:28:58Z",
+    "url": "https://github.com/photoview/photoview/releases/tag/v2.4.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

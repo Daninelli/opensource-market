@@ -15,11 +15,16 @@
   ],
   "deploy_type": "依赖库 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-20T03:01:37Z",
+  "updated_at": "2026-10-20T08:31:33Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/GitoxideLabs/gitoxide/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "gix-utils-v0.5.1",
+    "name": "gix-utils v0.5.1",
+    "published": "2026-10-11T08:14:32Z",
+    "url": "https://github.com/GitoxideLabs/gitoxide/releases/tag/gix-utils-v0.5.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

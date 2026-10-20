@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T04:08:30Z",
+  "updated_at": "2026-10-20T07:27:16Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/elizaOS/eliza/zip/refs/heads/develop",
@@ -27,24 +27,19 @@
   },
   "assets": [
     {
-      "name": "29724-runtime-desktop-after.png",
-      "size": 103569,
-      "url": "https://github.com/elizaOS/eliza/releases/download/pr-evidence-11/29724-runtime-desktop-after.png"
+      "name": "26518-release-wgpu-before-after-v2.jpg",
+      "size": 127317,
+      "url": "https://github.com/elizaOS/eliza/releases/download/pr-evidence-11/26518-release-wgpu-before-after-v2.jpg"
     },
     {
-      "name": "desktop-wallet-defi-unified-v5.png",
-      "size": 104043,
-      "url": "https://github.com/elizaOS/eliza/releases/download/pr-evidence-11/desktop-wallet-defi-unified-v5.png"
+      "name": "26518-release-status-before-after-v2.jpg",
+      "size": 135987,
+      "url": "https://github.com/elizaOS/eliza/releases/download/pr-evidence-11/26518-release-status-before-after-v2.jpg"
     },
     {
-      "name": "30229-pr30229-d8ded5b-migration-row-evidence.zip",
-      "size": 229768,
-      "url": "https://github.com/elizaOS/eliza/releases/download/pr-evidence-11/30229-pr30229-d8ded5b-migration-row-evidence.zip"
-    },
-    {
-      "name": "29533-87557357-d9a9-4d34-8ab9-54ccaccf60be-trajectories.tar.gz",
-      "size": 234880,
-      "url": "https://github.com/elizaOS/eliza/releases/download/pr-evidence-11/29533-87557357-d9a9-4d34-8ab9-54ccaccf60be-trajectories.tar.gz"
+      "name": "26518-structured-metadata-visuals.zip",
+      "size": 530635,
+      "url": "https://github.com/elizaOS/eliza/releases/download/pr-evidence-11/26518-structured-metadata-visuals.zip"
     }
   ],
   "pinned": false,

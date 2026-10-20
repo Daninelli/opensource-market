@@ -27,16 +27,6 @@
   },
   "assets": [
     {
-      "name": "rclone-v1.75.2-windows-arm64.zip",
-      "size": 28556640,
-      "url": "https://github.com/rclone/rclone/releases/download/v1.75.2/rclone-v1.75.2-windows-arm64.zip"
-    },
-    {
-      "name": "rclone-v1.75.2-windows-386.zip",
-      "size": 29670365,
-      "url": "https://github.com/rclone/rclone/releases/download/v1.75.2/rclone-v1.75.2-windows-386.zip"
-    },
-    {
       "name": "rclone-v1.75.2-linux-mipsle.zip",
       "size": 28015763,
       "url": "https://github.com/rclone/rclone/releases/download/v1.75.2/rclone-v1.75.2-linux-mipsle.zip"
@@ -47,14 +37,14 @@
       "url": "https://github.com/rclone/rclone/releases/download/v1.75.2/rclone-v1.75.2-linux-mips.zip"
     },
     {
-      "name": "rclone-v1.75.2.tar.gz",
-      "size": 16877336,
-      "url": "https://github.com/rclone/rclone/releases/download/v1.75.2/rclone-v1.75.2.tar.gz"
+      "name": "rclone-v1.75.2-netbsd-arm-v7.zip",
+      "size": 29452214,
+      "url": "https://github.com/rclone/rclone/releases/download/v1.75.2/rclone-v1.75.2-netbsd-arm-v7.zip"
     },
     {
-      "name": "rclone-v1.75.2-vendor.tar.gz",
-      "size": 17892726,
-      "url": "https://github.com/rclone/rclone/releases/download/v1.75.2/rclone-v1.75.2-vendor.tar.gz"
+      "name": "rclone-v1.75.2-netbsd-arm-v6.zip",
+      "size": 29470736,
+      "url": "https://github.com/rclone/rclone/releases/download/v1.75.2/rclone-v1.75.2-netbsd-arm-v6.zip"
     }
   ],
   "pinned": false,

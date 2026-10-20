@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "4.x",
   "download_url": "https://codeload.github.com/octobercms/october/zip/refs/heads/4.x",
-  "release": null,
+  "release": {
+    "tag": "v4.4.0",
+    "name": "v4.4 - User Content Release",
+    "published": "2026-08-30T22:26:58Z",
+    "url": "https://github.com/octobercms/october/releases/tag/v4.4.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

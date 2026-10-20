@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/nicolargo/glances/zip/refs/heads/develop",
-  "release": null,
+  "release": {
+    "tag": "v4.5.8",
+    "name": "Glances 4.5.8",
+    "published": "2026-10-11T19:18:48Z",
+    "url": "https://github.com/nicolargo/glances/releases/tag/v4.5.8"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

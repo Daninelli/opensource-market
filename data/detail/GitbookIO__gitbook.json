@@ -16,11 +16,16 @@
   ],
   "deploy_type": "前端源码 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-16T10:52:56Z",
+  "updated_at": "2026-10-20T08:26:01Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/GitbookIO/gitbook/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "@gitbook/react-contentkit@0.7.7",
+    "name": "@gitbook/react-contentkit@0.7.7",
+    "published": "2025-10-15T11:34:01Z",
+    "url": "https://github.com/GitbookIO/gitbook/releases/tag/%40gitbook/react-contentkit%400.7.7"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

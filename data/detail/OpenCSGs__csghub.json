@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/OpenCSGs/csghub/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.6.0-ce",
+    "name": "v2.6.0-ce",
+    "published": "2026-10-15T12:13:22Z",
+    "url": "https://github.com/OpenCSGs/csghub/releases/tag/v2.6.0-ce"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

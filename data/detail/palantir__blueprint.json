@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/palantir/blueprint/zip/refs/heads/develop",
-  "release": null,
+  "release": {
+    "tag": "@blueprintjs/core@6.21.0",
+    "name": "@blueprintjs/core@6.21.0",
+    "published": "2026-09-30T18:15:25Z",
+    "url": "https://github.com/palantir/blueprint/releases/tag/%40blueprintjs/core%406.21.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

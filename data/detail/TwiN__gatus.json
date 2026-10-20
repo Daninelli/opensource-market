@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/TwiN/gatus/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v5.37.0",
+    "name": "v5.37.0",
+    "published": "2026-09-24T00:00:21Z",
+    "url": "https://github.com/TwiN/gatus/releases/tag/v5.37.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

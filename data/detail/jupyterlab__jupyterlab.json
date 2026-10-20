@@ -28,19 +28,14 @@
   },
   "assets": [
     {
-      "name": "jupyterlab-lsp-4.6.4.tgz",
-      "size": 102714,
-      "url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-lsp-4.6.4.tgz"
-    },
-    {
       "name": "jupyterlab-codemirror-4.6.4.tgz",
       "size": 106894,
       "url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-codemirror-4.6.4.tgz"
     },
     {
-      "name": "jupyterlab-4.6.4.tar.gz",
-      "size": 28335647,
-      "url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-4.6.4.tar.gz"
+      "name": "jupyterlab-application-4.6.4.tgz",
+      "size": 114353,
+      "url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-application-4.6.4.tgz"
     }
   ],
   "pinned": false,

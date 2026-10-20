@@ -22,7 +22,12 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/marmelab/react-admin/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v5.15.5",
+    "name": "5.15.5",
+    "published": "2026-10-19T16:35:54Z",
+    "url": "https://github.com/marmelab/react-admin/releases/tag/v5.15.5"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

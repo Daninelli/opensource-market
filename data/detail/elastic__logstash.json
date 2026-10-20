@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/elastic/logstash/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v9.5.5",
+    "name": "Logstash 9.5.5",
+    "published": "2026-10-06T14:02:23Z",
+    "url": "https://github.com/elastic/logstash/releases/tag/v9.5.5"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

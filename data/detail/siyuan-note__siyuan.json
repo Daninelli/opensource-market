@@ -16,51 +16,51 @@
   ],
   "deploy_type": "客户端",
   "platform": "github",
-  "updated_at": "2026-10-20T02:42:25Z",
+  "updated_at": "2026-10-20T07:08:18Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/siyuan-note/siyuan/zip/refs/heads/master",
   "release": {
-    "tag": "v3.8.7",
-    "name": "v3.8.7",
-    "published": "2026-10-14T03:24:20Z",
-    "url": "https://github.com/siyuan-note/siyuan/releases/tag/v3.8.7"
+    "tag": "v3.8.8",
+    "name": "v3.8.8",
+    "published": "2026-10-20T05:16:00Z",
+    "url": "https://github.com/siyuan-note/siyuan/releases/tag/v3.8.8"
   },
   "assets": [
     {
-      "name": "siyuan-3.8.7-win-arm64.exe",
-      "size": 199655160,
-      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.7/siyuan-3.8.7-win-arm64.exe"
+      "name": "siyuan-3.8.8-win-arm64.exe",
+      "size": 201581720,
+      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.8/siyuan-3.8.8-win-arm64.exe"
     },
     {
-      "name": "siyuan-3.8.7-win.exe",
-      "size": 235674928,
-      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.7/siyuan-3.8.7-win.exe"
+      "name": "siyuan-3.8.8-win.exe",
+      "size": 237890808,
+      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.8/siyuan-3.8.8-win.exe"
     },
     {
-      "name": "siyuan-3.8.7-mac.dmg",
-      "size": 274142704,
-      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.7/siyuan-3.8.7-mac.dmg"
+      "name": "siyuan-3.8.8-mac.dmg",
+      "size": 277068259,
+      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.8/siyuan-3.8.8-mac.dmg"
     },
     {
-      "name": "siyuan-3.8.7-mac-arm64.dmg",
-      "size": 276246129,
-      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.7/siyuan-3.8.7-mac-arm64.dmg"
+      "name": "siyuan-3.8.8-mac-arm64.dmg",
+      "size": 278931214,
+      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.8/siyuan-3.8.8-mac-arm64.dmg"
     },
     {
-      "name": "siyuan-3.8.7-linux-arm64.rpm",
-      "size": 184277161,
-      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.7/siyuan-3.8.7-linux-arm64.rpm"
+      "name": "siyuan-3.8.8-linux-arm64.rpm",
+      "size": 185911913,
+      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.8/siyuan-3.8.8-linux-arm64.rpm"
     },
     {
-      "name": "siyuan-3.8.7-linux.rpm",
-      "size": 194374949,
-      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.7/siyuan-3.8.7-linux.rpm"
+      "name": "siyuan-3.8.8-linux.rpm",
+      "size": 196360533,
+      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.8/siyuan-3.8.8-linux.rpm"
     },
     {
-      "name": "siyuan-3.8.7.apk",
-      "size": 115537429,
-      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.7/siyuan-3.8.7.apk"
+      "name": "siyuan-3.8.8.apk",
+      "size": 118049423,
+      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.8/siyuan-3.8.8.apk"
     }
   ],
   "pinned": false,

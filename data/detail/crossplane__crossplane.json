@@ -15,11 +15,16 @@
   ],
   "deploy_type": "命令行 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T21:58:52Z",
+  "updated_at": "2026-10-20T08:33:29Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/crossplane/crossplane/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.4.2",
+    "name": "v2.4.2",
+    "published": "2026-09-22T19:11:31Z",
+    "url": "https://github.com/crossplane/crossplane/releases/tag/v2.4.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

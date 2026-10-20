@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/sphinx-doc/sphinx/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v9.1.1",
+    "name": "Sphinx 9.1.1",
+    "published": "2026-10-20T00:40:48Z",
+    "url": "https://github.com/sphinx-doc/sphinx/releases/tag/v9.1.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

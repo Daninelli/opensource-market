@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/mukul975/Anthropic-Cybersecurity-Skills/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v1.3.0",
+    "name": "v1.3.0",
+    "published": "2026-06-22T17:11:11Z",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills/releases/tag/v1.3.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

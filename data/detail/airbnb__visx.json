@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/airbnb/visx/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v4.0.0",
+    "name": "v4.0.0",
+    "published": "2026-06-11T21:40:42Z",
+    "url": "https://github.com/airbnb/visx/releases/tag/v4.0.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

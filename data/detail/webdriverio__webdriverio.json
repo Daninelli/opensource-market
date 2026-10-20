@@ -16,11 +16,16 @@
   ],
   "deploy_type": "依赖库 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-20T02:45:46Z",
+  "updated_at": "2026-10-20T06:09:50Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/webdriverio/webdriverio/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v10.1.0",
+    "name": "v10.1.0",
+    "published": "2026-10-18T21:12:59Z",
+    "url": "https://github.com/webdriverio/webdriverio/releases/tag/v10.1.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -15,11 +15,16 @@
   ],
   "deploy_type": "源码",
   "platform": "github",
-  "updated_at": "2026-10-20T04:10:22Z",
+  "updated_at": "2026-10-20T08:10:52Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/crewAIInc/crewAI/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "1.15.28",
+    "name": "1.15.28",
+    "published": "2026-10-14T04:47:00Z",
+    "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.28"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

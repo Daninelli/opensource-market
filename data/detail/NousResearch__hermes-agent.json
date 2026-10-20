@@ -17,11 +17,16 @@
   ],
   "deploy_type": "源码",
   "platform": "github",
-  "updated_at": "2026-10-20T04:10:27Z",
+  "updated_at": "2026-10-20T08:31:57Z",
   "added_at": "2026-10-18T09:50:47.976Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/NousResearch/hermes-agent/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v0.22.2",
+    "name": "Hermes Agent v0.22.2",
+    "published": "2026-10-15T08:21:32Z",
+    "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

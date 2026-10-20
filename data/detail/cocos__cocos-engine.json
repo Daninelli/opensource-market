@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "v3.8.9",
   "download_url": "https://codeload.github.com/cocos/cocos-engine/zip/refs/heads/v3.8.9",
-  "release": null,
+  "release": {
+    "tag": "3.8.8",
+    "name": "Release 3.8.8",
+    "published": "2025-12-16T03:54:26Z",
+    "url": "https://github.com/cocos/cocos-engine/releases/tag/3.8.8"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

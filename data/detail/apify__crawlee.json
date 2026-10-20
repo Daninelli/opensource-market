@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/apify/crawlee/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v3.18.2",
+    "name": "v3.18.2",
+    "published": "2026-09-29T09:58:35Z",
+    "url": "https://github.com/apify/crawlee/releases/tag/v3.18.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

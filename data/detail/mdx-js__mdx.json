@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/mdx-js/mdx/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "3.1.1",
+    "name": "3.1.1",
+    "published": "2025-08-29T18:04:53Z",
+    "url": "https://github.com/mdx-js/mdx/releases/tag/3.1.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

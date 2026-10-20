@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Chalarangelo/30-seconds-of-code/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v14.0.0",
+    "name": "v14.0.0 (dimensional debugger)",
+    "published": "2025-05-07T15:35:47Z",
+    "url": "https://github.com/Chalarangelo/30-seconds-of-code/releases/tag/v14.0.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "4.x",
   "download_url": "https://codeload.github.com/GetDKAN/dkan/zip/refs/heads/4.x",
-  "release": null,
+  "release": {
+    "tag": "2.23.2",
+    "name": "2.23.2",
+    "published": "2026-05-12T13:57:50Z",
+    "url": "https://github.com/GetDKAN/dkan/releases/tag/2.23.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

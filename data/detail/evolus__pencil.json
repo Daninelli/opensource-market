@@ -16,11 +16,16 @@
   ],
   "deploy_type": "客户端 / 桌面应用",
   "platform": "github",
-  "updated_at": "2026-10-16T08:15:48Z",
+  "updated_at": "2026-10-20T08:31:49Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/evolus/pencil/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v3.1.1",
+    "name": "3.1.1",
+    "published": "2023-01-01T03:03:19Z",
+    "url": "https://github.com/evolus/pencil/releases/tag/v3.1.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

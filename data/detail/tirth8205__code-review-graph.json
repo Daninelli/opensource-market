@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "staging",
   "download_url": "https://codeload.github.com/tirth8205/code-review-graph/zip/refs/heads/staging",
-  "release": null,
+  "release": {
+    "tag": "v2.3.9",
+    "name": "v2.3.9",
+    "published": "2026-09-18T19:41:30Z",
+    "url": "https://github.com/tirth8205/code-review-graph/releases/tag/v2.3.9"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

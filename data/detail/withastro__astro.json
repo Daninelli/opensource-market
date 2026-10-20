@@ -17,11 +17,16 @@
   ],
   "deploy_type": "前端源码",
   "platform": "github",
-  "updated_at": "2026-10-20T00:42:38Z",
+  "updated_at": "2026-10-20T07:50:23Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/withastro/astro/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "@astrojs/vue@7.1.1",
+    "name": "@astrojs/vue@7.1.1",
+    "published": "2026-10-19T14:11:20Z",
+    "url": "https://github.com/withastro/astro/releases/tag/%40astrojs/vue%407.1.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

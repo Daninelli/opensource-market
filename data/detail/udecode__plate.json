@@ -16,11 +16,16 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-20T04:07:49Z",
+  "updated_at": "2026-10-20T08:05:46Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/udecode/plate/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v53.4.0",
+    "name": "v53.4.0",
+    "published": "2026-10-19T14:00:17Z",
+    "url": "https://github.com/udecode/plate/releases/tag/v53.4.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/django-oscar/django-oscar/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "4.2.1",
+    "name": "4.2.1",
+    "published": "2026-09-29T12:07:14Z",
+    "url": "https://github.com/django-oscar/django-oscar/releases/tag/4.2.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

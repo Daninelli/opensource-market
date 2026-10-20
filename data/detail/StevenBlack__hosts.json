@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/StevenBlack/hosts/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "3.16.123",
+    "name": "Release 3.16.123",
+    "published": "2026-10-18T19:22:31Z",
+    "url": "https://github.com/StevenBlack/hosts/releases/tag/3.16.123"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

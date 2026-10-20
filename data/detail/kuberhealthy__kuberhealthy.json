@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/kuberhealthy/kuberhealthy/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v3.0.17",
+    "name": "v3.0.17",
+    "published": "2026-09-25T04:29:15Z",
+    "url": "https://github.com/kuberhealthy/kuberhealthy/releases/tag/v3.0.17"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "ASP.NET-9.0",
   "download_url": "https://codeload.github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System/zip/refs/heads/ASP.NET-9.0",
-  "release": null,
+  "release": {
+    "tag": "v9.20250118",
+    "name": "ASP.NET Core 9.0",
+    "published": "2025-01-18T11:42:52Z",
+    "url": "https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System/releases/tag/v9.20250118"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/artilleryio/artillery/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "artillery-2.0.34",
+    "name": "Artillery v2.0.34",
+    "published": "2026-08-14T13:20:22Z",
+    "url": "https://github.com/artilleryio/artillery/releases/tag/artillery-2.0.34"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

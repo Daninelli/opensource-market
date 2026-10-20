@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/Tonejs/Tone.js/zip/refs/heads/dev",
-  "release": null,
+  "release": {
+    "tag": "15.1.22",
+    "name": "15.1.22",
+    "published": "2026-07-12T15:06:38Z",
+    "url": "https://github.com/Tonejs/Tone.js/releases/tag/15.1.22"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

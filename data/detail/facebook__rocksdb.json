@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/facebook/rocksdb/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v11.8.1",
+    "name": "RocksDB 11.8.1",
+    "published": "2026-08-07T17:30:50Z",
+    "url": "https://github.com/facebook/rocksdb/releases/tag/v11.8.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

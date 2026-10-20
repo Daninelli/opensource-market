@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/CISOfy/lynis/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "3.1.7",
+    "name": "Lynis 3.1.7",
+    "published": "2026-06-25T08:55:17Z",
+    "url": "https://github.com/CISOfy/lynis/releases/tag/3.1.7"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

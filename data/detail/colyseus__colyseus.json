@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/colyseus/colyseus/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "0.18",
+    "name": "0.18",
+    "published": "2026-08-25T19:43:34Z",
+    "url": "https://github.com/colyseus/colyseus/releases/tag/0.18"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

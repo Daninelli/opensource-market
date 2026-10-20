@@ -21,7 +21,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/ckan/ckan/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "ckan-2.12.0",
+    "name": "ckan-2.12.0",
+    "published": "2026-08-26T14:13:48Z",
+    "url": "https://github.com/ckan/ckan/releases/tag/ckan-2.12.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/teambit/bit/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v2.0.26",
+    "name": "v2.0.26",
+    "published": "2026-07-21T15:32:56Z",
+    "url": "https://github.com/teambit/bit/releases/tag/v2.0.26"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

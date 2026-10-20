@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/academicpages/academicpages.github.io/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v0.9",
+    "name": "v0.9",
+    "published": "2026-06-24T03:10:11Z",
+    "url": "https://github.com/academicpages/academicpages.github.io/releases/tag/v0.9"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

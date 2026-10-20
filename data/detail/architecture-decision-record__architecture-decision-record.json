@@ -16,7 +16,7 @@
   ],
   "deploy_type": "源码",
   "platform": "github",
-  "updated_at": "2026-10-17T18:36:12Z",
+  "updated_at": "2026-10-20T06:59:13Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/architecture-decision-record/architecture-decision-record/zip/refs/heads/main",

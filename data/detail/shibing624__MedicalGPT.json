@@ -22,7 +22,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/shibing624/MedicalGPT/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "2.7.0",
+    "name": "v2.7.0",
+    "published": "2026-04-20T04:11:20Z",
+    "url": "https://github.com/shibing624/MedicalGPT/releases/tag/2.7.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

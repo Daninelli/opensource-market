@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/nolimits4web/swiper/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v14.3.0",
+    "name": "v14.3.0",
+    "published": "2026-09-28T16:36:03Z",
+    "url": "https://github.com/nolimits4web/swiper/releases/tag/v14.3.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

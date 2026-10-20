@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/yjs/yjs/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v13.6.33",
+    "name": "v13.6.33",
+    "published": "2026-09-23T16:37:33Z",
+    "url": "https://github.com/yjs/yjs/releases/tag/v13.6.33"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

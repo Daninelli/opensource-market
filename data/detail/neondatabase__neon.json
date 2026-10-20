@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/neondatabase/neon/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "release-proxy-8853",
+    "name": "release-proxy-8853",
+    "published": "2025-07-29T11:01:51Z",
+    "url": "https://github.com/neondatabase/neon/releases/tag/release-proxy-8853"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

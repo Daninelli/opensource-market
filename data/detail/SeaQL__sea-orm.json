@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/SeaQL/sea-orm/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "2.0.4",
+    "name": "2.0.4",
+    "published": "2026-09-27T16:39:15Z",
+    "url": "https://github.com/SeaQL/sea-orm/releases/tag/2.0.4"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

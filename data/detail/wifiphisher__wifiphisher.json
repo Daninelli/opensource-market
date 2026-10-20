@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/wifiphisher/wifiphisher/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v1.4",
+    "name": "wifiphisher v1.4",
+    "published": "2018-01-12T17:38:16Z",
+    "url": "https://github.com/wifiphisher/wifiphisher/releases/tag/v1.4"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T14:45:00.000Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/grokability/snipe-it/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v8.8.1",
+    "name": "v8.8.1",
+    "published": "2026-10-20T01:42:22Z",
+    "url": "https://github.com/grokability/snipe-it/releases/tag/v8.8.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Vanessa219/vditor/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v4.0.1",
+    "name": "v4.0.1",
+    "published": "2026-10-18T05:18:58Z",
+    "url": "https://github.com/Vanessa219/vditor/releases/tag/v4.0.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

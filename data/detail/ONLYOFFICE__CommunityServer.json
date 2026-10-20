@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/ONLYOFFICE/CommunityServer/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v12.8",
+    "name": "v12.8.0",
+    "published": "2026-05-05T09:49:52Z",
+    "url": "https://github.com/ONLYOFFICE/CommunityServer/releases/tag/v12.8"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

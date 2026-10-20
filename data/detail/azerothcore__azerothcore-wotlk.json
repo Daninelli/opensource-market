@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/azerothcore/azerothcore-wotlk/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "Latest",
+    "name": "Install latest AzerothCore",
+    "published": "2024-11-16T21:19:23Z",
+    "url": "https://github.com/azerothcore/azerothcore-wotlk/releases/tag/Latest"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

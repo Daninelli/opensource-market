@@ -15,11 +15,16 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-19T15:01:13Z",
+  "updated_at": "2026-10-20T08:25:16Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/apify/crawlee-python/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v1.11.0",
+    "name": "1.11.0",
+    "published": "2026-10-15T08:38:18Z",
+    "url": "https://github.com/apify/crawlee-python/releases/tag/v1.11.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

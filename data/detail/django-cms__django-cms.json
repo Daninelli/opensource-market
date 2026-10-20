@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/django-cms/django-cms/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "5.1.3",
+    "name": "5.1.3",
+    "published": "2026-09-23T19:54:38Z",
+    "url": "https://github.com/django-cms/django-cms/releases/tag/5.1.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

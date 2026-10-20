@@ -15,11 +15,16 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-19T20:16:36Z",
+  "updated_at": "2026-10-20T06:48:09Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/every-app/open-seo/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v0.1.14",
+    "name": "v0.1.14",
+    "published": "2026-10-19T20:16:37Z",
+    "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.14"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

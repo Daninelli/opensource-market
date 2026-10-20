@@ -17,11 +17,16 @@
   ],
   "deploy_type": "前端源码 / 依赖库",
   "platform": "github",
-  "updated_at": "2026-10-20T03:58:49Z",
+  "updated_at": "2026-10-20T08:22:30Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/dream-num/univer/zip/refs/heads/dev",
-  "release": null,
+  "release": {
+    "tag": "v1.1.0",
+    "name": "🎉 Release v1.1.0",
+    "published": "2026-10-17T11:23:23Z",
+    "url": "https://github.com/dream-num/univer/releases/tag/v1.1.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/massgravel/Microsoft-Activation-Scripts/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "3.12",
+    "name": "v3.12 8 Years of MAS",
+    "published": "2026-07-04T07:56:17Z",
+    "url": "https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/3.12"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

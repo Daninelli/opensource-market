@@ -15,11 +15,16 @@
   ],
   "deploy_type": "依赖库 / 传统部署",
   "platform": "github",
-  "updated_at": "2026-10-20T02:56:07Z",
+  "updated_at": "2026-10-20T06:08:07Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/apache/shardingsphere/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "5.5.3",
+    "name": "5.5.3",
+    "published": "2026-02-28T17:46:30Z",
+    "url": "https://github.com/apache/shardingsphere/releases/tag/5.5.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

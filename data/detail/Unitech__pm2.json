@@ -17,11 +17,16 @@
   ],
   "deploy_type": "命令行",
   "platform": "github",
-  "updated_at": "2026-10-19T22:32:42Z",
+  "updated_at": "2026-10-20T08:30:42Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Unitech/pm2/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v7.0.4",
+    "name": "v7.0.4",
+    "published": "2026-08-24T12:35:48Z",
+    "url": "https://github.com/Unitech/pm2/releases/tag/v7.0.4"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

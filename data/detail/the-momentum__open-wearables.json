@@ -17,11 +17,16 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-19T23:27:46Z",
+  "updated_at": "2026-10-20T08:06:13Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/the-momentum/open-wearables/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "0.10.0",
+    "name": "0.10 - New dashboard & nutrition data",
+    "published": "2026-10-16T14:12:26Z",
+    "url": "https://github.com/the-momentum/open-wearables/releases/tag/0.10.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

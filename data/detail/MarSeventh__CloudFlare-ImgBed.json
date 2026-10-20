@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/MarSeventh/CloudFlare-ImgBed/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.7.7",
+    "name": "Release v2.7.7 - 2026-09-28",
+    "published": "2026-09-28T02:02:39Z",
+    "url": "https://github.com/MarSeventh/CloudFlare-ImgBed/releases/tag/v2.7.7"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

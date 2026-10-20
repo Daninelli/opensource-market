@@ -22,7 +22,12 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "mealie-next",
   "download_url": "https://codeload.github.com/mealie-recipes/mealie/zip/refs/heads/mealie-next",
-  "release": null,
+  "release": {
+    "tag": "v3.29.0",
+    "name": "v3.29.0",
+    "published": "2026-10-17T16:29:06Z",
+    "url": "https://github.com/mealie-recipes/mealie/releases/tag/v3.29.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

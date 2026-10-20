@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Kong/kong/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "3.9.4",
+    "name": "3.9.4",
+    "published": "2026-10-12T07:27:48Z",
+    "url": "https://github.com/Kong/kong/releases/tag/3.9.4"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

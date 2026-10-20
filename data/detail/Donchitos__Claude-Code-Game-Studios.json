@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Donchitos/Claude-Code-Game-Studios/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v1.2.0",
+    "name": "v1.2.0 — the main path, rebuilt and tested",
+    "published": "2026-10-19T02:44:23Z",
+    "url": "https://github.com/Donchitos/Claude-Code-Game-Studios/releases/tag/v1.2.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

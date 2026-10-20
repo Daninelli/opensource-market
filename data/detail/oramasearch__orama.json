@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/oramasearch/orama/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v3.1.18",
+    "name": "v3.1.18",
+    "published": "2025-12-19T22:13:02Z",
+    "url": "https://github.com/oramasearch/orama/releases/tag/v3.1.18"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

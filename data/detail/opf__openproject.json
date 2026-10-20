@@ -17,11 +17,16 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-20T00:26:35Z",
+  "updated_at": "2026-10-20T08:31:53Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/opf/openproject/zip/refs/heads/dev",
-  "release": null,
+  "release": {
+    "tag": "v17.9.2",
+    "name": "OpenProject 17.9.2",
+    "published": "2026-10-15T11:56:10Z",
+    "url": "https://github.com/opf/openproject/releases/tag/v17.9.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

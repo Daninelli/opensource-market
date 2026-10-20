@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/netalertx/NetAlertX/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v26.10.0",
+    "name": "v26.10.0 - 📈 Performance profiling and deeper device customization ",
+    "published": "2026-09-30T22:14:23Z",
+    "url": "https://github.com/netalertx/NetAlertX/releases/tag/v26.10.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

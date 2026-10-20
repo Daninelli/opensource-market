@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/gatsbyjs/gatsby/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "gatsby@5.16.1",
+    "name": "gatsby@5.16.1",
+    "published": "2026-02-10T14:38:44Z",
+    "url": "https://github.com/gatsbyjs/gatsby/releases/tag/gatsby%405.16.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

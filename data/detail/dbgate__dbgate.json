@@ -16,7 +16,7 @@
   ],
   "deploy_type": "客户端 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T13:23:35Z",
+  "updated_at": "2026-10-20T07:52:47Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/dbgate/dbgate/zip/refs/heads/master",
@@ -43,9 +43,9 @@
       "url": "https://github.com/dbgate/dbgate/releases/download/v7.3.2/dbgate-7.3.2-mac_arm64.zip"
     },
     {
-      "name": "dbgate-7.3.2-mac_x64.zip",
-      "size": 176813561,
-      "url": "https://github.com/dbgate/dbgate/releases/download/v7.3.2/dbgate-7.3.2-mac_x64.zip"
+      "name": "dbgate-7.3.2-mac_arm64.dmg",
+      "size": 176876698,
+      "url": "https://github.com/dbgate/dbgate/releases/download/v7.3.2/dbgate-7.3.2-mac_arm64.dmg"
     },
     {
       "name": "dbgate-7.3.2-linux_amd64.deb",

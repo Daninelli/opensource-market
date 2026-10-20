@@ -15,11 +15,16 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-19T17:57:04Z",
+  "updated_at": "2026-10-20T08:23:26Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/upstash/context7/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "@upstash/context7-mcp@4.4.4",
+    "name": "@upstash/context7-mcp@4.4.4",
+    "published": "2026-10-19T13:47:20Z",
+    "url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-mcp%404.4.4"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

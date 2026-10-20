@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/D4Vinci/Scrapling/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v0.5",
+    "name": "Release v0.5",
+    "published": "2026-10-17T21:43:59Z",
+    "url": "https://github.com/D4Vinci/Scrapling/releases/tag/v0.5"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -21,7 +21,12 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "2.x",
   "download_url": "https://codeload.github.com/linuxserver/Heimdall/zip/refs/heads/2.x",
-  "release": null,
+  "release": {
+    "tag": "v2.8.3",
+    "name": "v2.8.3",
+    "published": "2026-09-05T15:28:30Z",
+    "url": "https://github.com/linuxserver/Heimdall/releases/tag/v2.8.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

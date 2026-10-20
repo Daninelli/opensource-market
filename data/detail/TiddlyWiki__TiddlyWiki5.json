@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/TiddlyWiki/TiddlyWiki5/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v5.4.1",
+    "name": "v5.4.1",
+    "published": "2026-07-10T09:48:17Z",
+    "url": "https://github.com/TiddlyWiki/TiddlyWiki5/releases/tag/v5.4.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

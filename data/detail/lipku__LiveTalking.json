@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/lipku/LiveTalking/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.0.4",
+    "name": "v2.0.4",
+    "published": "2026-06-20T01:04:44Z",
+    "url": "https://github.com/lipku/LiveTalking/releases/tag/v2.0.4"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

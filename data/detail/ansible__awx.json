@@ -22,7 +22,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "devel",
   "download_url": "https://codeload.github.com/ansible/awx/zip/refs/heads/devel",
-  "release": null,
+  "release": {
+    "tag": "24.6.1",
+    "name": "24.6.1",
+    "published": "2024-07-02T21:51:06Z",
+    "url": "https://github.com/ansible/awx/releases/tag/24.6.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

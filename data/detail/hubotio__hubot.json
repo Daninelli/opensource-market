@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/hubotio/hubot/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v14.1.0",
+    "name": "v14.1.0",
+    "published": "2026-02-24T16:46:10Z",
+    "url": "https://github.com/hubotio/hubot/releases/tag/v14.1.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

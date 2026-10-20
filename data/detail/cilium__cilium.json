@@ -16,11 +16,16 @@
   ],
   "deploy_type": "命令行 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-20T02:00:54Z",
+  "updated_at": "2026-10-20T08:29:05Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/cilium/cilium/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v1.20.3",
+    "name": "1.20.3",
+    "published": "2026-10-15T15:26:34Z",
+    "url": "https://github.com/cilium/cilium/releases/tag/v1.20.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

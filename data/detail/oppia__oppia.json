@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/oppia/oppia/zip/refs/heads/develop",
-  "release": null,
+  "release": {
+    "tag": "v3.5.3",
+    "name": "Version 3.5.3",
+    "published": "2026-09-23T12:40:52Z",
+    "url": "https://github.com/oppia/oppia/releases/tag/v3.5.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

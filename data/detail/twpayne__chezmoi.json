@@ -37,9 +37,9 @@
       "url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.2/chezmoi_2.73.2_darwin_arm64.tar.gz"
     },
     {
-      "name": "chezmoi_2.73.2_windows_arm64.msix",
-      "size": 15371526,
-      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.2/chezmoi_2.73.2_windows_arm64.msix"
+      "name": "chezmoi_2.73.2_windows_i386.zip",
+      "size": 15904868,
+      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.2/chezmoi_2.73.2_windows_i386.zip"
     },
     {
       "name": "chezmoi_2.73.2_darwin_amd64.tar.gz",
@@ -57,14 +57,14 @@
       "url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.2/chezmoi_2.73.2_linux_mips64le_hardfloat.tar.gz"
     },
     {
-      "name": "chezmoi_2.73.2_linux_mips64le_hardfloat.apk",
-      "size": 14498681,
-      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.2/chezmoi_2.73.2_linux_mips64le_hardfloat.apk"
+      "name": "chezmoi_2.73.2_android_arm64.tar.gz",
+      "size": 15320939,
+      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.2/chezmoi_2.73.2_android_arm64.tar.gz"
     },
     {
-      "name": "chezmoi_2.73.2_linux_mips64_hardfloat.apk",
-      "size": 14793739,
-      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.2/chezmoi_2.73.2_linux_mips64_hardfloat.apk"
+      "name": "chezmoi-2.73.2.tar.gz",
+      "size": 2507873,
+      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.2/chezmoi-2.73.2.tar.gz"
     }
   ],
   "pinned": false,

@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-20T03:28:11Z",
+  "updated_at": "2026-10-20T08:29:12Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/grafana/grafana/zip/refs/heads/main",

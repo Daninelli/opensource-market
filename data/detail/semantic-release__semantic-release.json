@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/semantic-release/semantic-release/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v25.0.9",
+    "name": "v25.0.9",
+    "published": "2026-08-05T04:42:47Z",
+    "url": "https://github.com/semantic-release/semantic-release/releases/tag/v25.0.9"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

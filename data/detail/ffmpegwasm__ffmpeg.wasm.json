@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ffmpegwasm/ffmpeg.wasm/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v12.15",
+    "name": "RELEASE: v12.15 (main), v12.10 (core, core-mt)",
+    "published": "2025-01-07T10:16:16Z",
+    "url": "https://github.com/ffmpegwasm/ffmpeg.wasm/releases/tag/v12.15"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

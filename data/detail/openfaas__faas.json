@@ -19,7 +19,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/openfaas/faas/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "0.27.13",
+    "name": "Update Go to 1.24 and vendor for CE gateway",
+    "published": "2025-08-29T14:24:04Z",
+    "url": "https://github.com/openfaas/faas/releases/tag/0.27.13"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

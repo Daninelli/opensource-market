@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/thesysdev/openui/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "@openuidev/cli@0.6.0",
+    "name": "@openuidev/cli@0.6.0",
+    "published": "2026-10-15T11:08:44Z",
+    "url": "https://github.com/thesysdev/openui/releases/tag/%40openuidev/cli%400.6.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

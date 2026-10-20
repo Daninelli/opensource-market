@@ -15,7 +15,7 @@
   ],
   "deploy_type": "客户端 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-20T04:07:53Z",
+  "updated_at": "2026-10-20T08:32:05Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/OrchestratorInc/agent-orchestrator/zip/refs/heads/main",
@@ -27,24 +27,24 @@
   },
   "assets": [
     {
-      "name": "agent-orchestrator-win32-x64.exe",
-      "size": 189283843,
-      "url": "https://github.com/OrchestratorInc/agent-orchestrator/releases/download/v0.14.3/agent-orchestrator-win32-x64.exe"
-    },
-    {
       "name": "Agent.Orchestrator.Setup.0.14.3.exe",
       "size": 189283843,
       "url": "https://github.com/OrchestratorInc/agent-orchestrator/releases/download/v0.14.3/Agent.Orchestrator.Setup.0.14.3.exe"
     },
     {
-      "name": "agent-orchestrator-darwin-arm64.zip",
-      "size": 225181794,
-      "url": "https://github.com/OrchestratorInc/agent-orchestrator/releases/download/v0.14.3/agent-orchestrator-darwin-arm64.zip"
+      "name": "agent-orchestrator-win32-x64.exe",
+      "size": 189283843,
+      "url": "https://github.com/OrchestratorInc/agent-orchestrator/releases/download/v0.14.3/agent-orchestrator-win32-x64.exe"
     },
     {
       "name": "Agent.Orchestrator-darwin-arm64-0.14.3.zip",
       "size": 225181794,
       "url": "https://github.com/OrchestratorInc/agent-orchestrator/releases/download/v0.14.3/Agent.Orchestrator-darwin-arm64-0.14.3.zip"
+    },
+    {
+      "name": "agent-orchestrator-darwin-arm64.zip",
+      "size": 225181794,
+      "url": "https://github.com/OrchestratorInc/agent-orchestrator/releases/download/v0.14.3/agent-orchestrator-darwin-arm64.zip"
     },
     {
       "name": "agent-orchestrator-linux-x64.rpm",

@@ -16,11 +16,16 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-20T01:07:06Z",
+  "updated_at": "2026-10-20T06:59:44Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/decidim/decidim/zip/refs/heads/develop",
-  "release": null,
+  "release": {
+    "tag": "v0.32.1",
+    "name": "v0.32.1",
+    "published": "2026-07-30T08:20:38Z",
+    "url": "https://github.com/decidim/decidim/releases/tag/v0.32.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

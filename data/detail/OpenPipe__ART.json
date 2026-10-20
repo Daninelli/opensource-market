@@ -15,12 +15,28 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-20T04:06:45Z",
+  "updated_at": "2026-10-20T06:50:12Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/OpenPipe/ART/zip/refs/heads/main",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v0.5.21",
+    "name": "v0.5.21",
+    "published": "2026-10-20T06:22:38Z",
+    "url": "https://github.com/OpenPipe/ART/releases/tag/v0.5.21"
+  },
+  "assets": [
+    {
+      "name": "openpipe_art-0.5.21.tar.gz",
+      "size": 11117343,
+      "url": "https://github.com/OpenPipe/ART/releases/download/v0.5.21/openpipe_art-0.5.21.tar.gz"
+    },
+    {
+      "name": "openpipe_art-0.5.21-py3-none-any.whl",
+      "size": 11304287,
+      "url": "https://github.com/OpenPipe/ART/releases/download/v0.5.21/openpipe_art-0.5.21-py3-none-any.whl"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

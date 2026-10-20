@@ -16,36 +16,36 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-20T03:36:47Z",
+  "updated_at": "2026-10-20T05:34:26Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/zip/refs/heads/master",
   "release": {
-    "tag": "v5.3.2",
-    "name": "5.3.2",
-    "published": "2026-05-01T07:11:04Z",
-    "url": "https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/releases/tag/v5.3.2"
+    "tag": "v5.4.0",
+    "name": "5.4.0",
+    "published": "2026-10-20T03:17:17Z",
+    "url": "https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/releases/tag/v5.4.0"
   },
   "assets": [
     {
-      "name": "MaterialDesignColors.5.3.2.nupkg",
-      "size": 140694,
-      "url": "https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/releases/download/v5.3.2/MaterialDesignColors.5.3.2.nupkg"
+      "name": "MaterialDesignColors.5.4.0.nupkg",
+      "size": 140618,
+      "url": "https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/releases/download/v5.4.0/MaterialDesignColors.5.4.0.nupkg"
     },
     {
       "name": "DemoApp.zip",
-      "size": 14318451,
-      "url": "https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/releases/download/v5.3.2/DemoApp.zip"
+      "size": 14497501,
+      "url": "https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/releases/download/v5.4.0/DemoApp.zip"
     },
     {
       "name": "Demo3App.zip",
-      "size": 14475120,
-      "url": "https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/releases/download/v5.3.2/Demo3App.zip"
+      "size": 14622762,
+      "url": "https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/releases/download/v5.4.0/Demo3App.zip"
     },
     {
-      "name": "MaterialDesignThemes.5.3.2.nupkg",
-      "size": 20449107,
-      "url": "https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/releases/download/v5.3.2/MaterialDesignThemes.5.3.2.nupkg"
+      "name": "MaterialDesignThemes.5.4.0.nupkg",
+      "size": 20462061,
+      "url": "https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/releases/download/v5.4.0/MaterialDesignThemes.5.4.0.nupkg"
     }
   ],
   "pinned": false,

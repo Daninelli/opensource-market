@@ -16,11 +16,16 @@
   ],
   "deploy_type": "Docker 部署 / 传统部署",
   "platform": "github",
-  "updated_at": "2026-10-16T12:51:22Z",
+  "updated_at": "2026-10-20T06:03:50Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/apache/dolphinscheduler/zip/refs/heads/dev",
-  "release": null,
+  "release": {
+    "tag": "3.4.3",
+    "name": "3.4.3",
+    "published": "2026-09-06T03:26:05Z",
+    "url": "https://github.com/apache/dolphinscheduler/releases/tag/3.4.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

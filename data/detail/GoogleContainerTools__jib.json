@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/GoogleContainerTools/jib/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v3.5.4-gradle",
+    "name": "jib-gradle-plugin v3.5.4",
+    "published": "2026-07-14T21:24:10Z",
+    "url": "https://github.com/GoogleContainerTools/jib/releases/tag/v3.5.4-gradle"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

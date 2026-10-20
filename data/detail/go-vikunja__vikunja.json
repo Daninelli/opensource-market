@@ -42,9 +42,9 @@
       "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/veans-v2.7.0-darwin-10.15-arm64-full.zip"
     },
     {
-      "name": "veans-v2.7.0-darwin-10.15-amd64-full.zip",
-      "size": 9750312,
-      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/veans-v2.7.0-darwin-10.15-amd64-full.zip"
+      "name": "vikunja-v2.7.0-darwin-10.15-arm64-full.zip",
+      "size": 54138373,
+      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/vikunja-v2.7.0-darwin-10.15-arm64-full.zip"
     },
     {
       "name": "veans-v2.7.0-linux-arm64-full.zip",
@@ -52,19 +52,19 @@
       "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/veans-v2.7.0-linux-arm64-full.zip"
     },
     {
-      "name": "veans-v2.7.0-aarch64.deb",
-      "size": 8120270,
-      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/veans-v2.7.0-aarch64.deb"
+      "name": "veans-v2.7.0-linux-arm-7-full.zip",
+      "size": 8151450,
+      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/veans-v2.7.0-linux-arm-7-full.zip"
     },
     {
-      "name": "veans-v2.7.0-aarch64.apk",
-      "size": 8225719,
-      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/veans-v2.7.0-aarch64.apk"
+      "name": "vikunja-v2.7.0-aarch64.apk",
+      "size": 45838325,
+      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/vikunja-v2.7.0-aarch64.apk"
     },
     {
-      "name": "veans-v2.7.0-armv7.apk",
-      "size": 8287819,
-      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/veans-v2.7.0-armv7.apk"
+      "name": "vikunja-v2.7.0-x86_64.apk",
+      "size": 49565248,
+      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/vikunja-v2.7.0-x86_64.apk"
     }
   ],
   "pinned": false,

@@ -16,11 +16,16 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-19T16:48:59Z",
+  "updated_at": "2026-10-20T08:16:23Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/suitenumerique/docs/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v6.0.1",
+    "name": "v6.0.1",
+    "published": "2026-10-15T18:47:48Z",
+    "url": "https://github.com/suitenumerique/docs/releases/tag/v6.0.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

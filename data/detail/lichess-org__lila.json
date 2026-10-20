@@ -17,11 +17,16 @@
   ],
   "deploy_type": "自托管服务 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T18:53:16Z",
+  "updated_at": "2026-10-20T08:13:27Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/lichess-org/lila/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v1.1.0",
+    "name": "lichess 1.1",
+    "published": "2017-08-31T13:15:36Z",
+    "url": "https://github.com/lichess-org/lila/releases/tag/v1.1.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

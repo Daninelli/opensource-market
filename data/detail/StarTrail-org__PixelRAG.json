@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/StarTrail-org/PixelRAG/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v0.4.0",
+    "name": "v0.4.0",
+    "published": "2026-07-16T10:44:48Z",
+    "url": "https://github.com/StarTrail-org/PixelRAG/releases/tag/v0.4.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

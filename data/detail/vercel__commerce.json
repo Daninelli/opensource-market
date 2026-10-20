@@ -21,7 +21,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/vercel/commerce/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v1",
+    "name": "v1",
+    "published": "2023-04-18T01:49:47Z",
+    "url": "https://github.com/vercel/commerce/releases/tag/v1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Piwigo/Piwigo/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "16.4.0",
+    "name": "16.4.0",
+    "published": "2026-05-03T14:54:31Z",
+    "url": "https://github.com/Piwigo/Piwigo/releases/tag/16.4.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

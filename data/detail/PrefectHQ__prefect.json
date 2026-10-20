@@ -17,11 +17,16 @@
   ],
   "deploy_type": "依赖库 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-19T21:13:46Z",
+  "updated_at": "2026-10-20T08:18:29Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/PrefectHQ/prefect/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "3.8.8",
+    "name": "3.8.8 - I take my wildcards literally",
+    "published": "2026-10-06T16:29:55Z",
+    "url": "https://github.com/PrefectHQ/prefect/releases/tag/3.8.8"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

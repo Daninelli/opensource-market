@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/veops/cmdb/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v2.6.2",
+    "name": "v2.6.2",
+    "published": "2026-07-25T10:14:46Z",
+    "url": "https://github.com/veops/cmdb/releases/tag/v2.6.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

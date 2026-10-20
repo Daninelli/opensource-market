@@ -19,7 +19,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/go-vgo/robotgo/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v1.3.6",
+    "name": "v1.3.6",
+    "published": "2026-10-16T20:06:32Z",
+    "url": "https://github.com/go-vgo/robotgo/releases/tag/v1.3.6"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/coze-dev/coze-studio/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v0.5.1",
+    "name": "V0.5.1",
+    "published": "2026-02-05T06:04:16Z",
+    "url": "https://github.com/coze-dev/coze-studio/releases/tag/v0.5.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

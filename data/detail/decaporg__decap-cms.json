@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/decaporg/decap-cms/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "decap-cms@3.17.1",
+    "name": "decap-cms@3.17.1",
+    "published": "2026-10-14T11:38:18Z",
+    "url": "https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.17.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

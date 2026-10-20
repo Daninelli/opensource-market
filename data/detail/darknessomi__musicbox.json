@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/darknessomi/musicbox/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "0.5.3",
+    "name": "0.5.3",
+    "published": "2026-08-27T08:12:32Z",
+    "url": "https://github.com/darknessomi/musicbox/releases/tag/0.5.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

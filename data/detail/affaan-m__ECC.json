@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/affaan-m/ECC/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.2.3",
+    "name": "v2.2.3",
+    "published": "2026-10-01T23:00:36Z",
+    "url": "https://github.com/affaan-m/ECC/releases/tag/v2.2.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

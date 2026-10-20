@@ -21,7 +21,12 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/consuldemocracy/consuldemocracy/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "2.6.1",
+    "name": "2.6.1",
+    "published": "2026-10-08T14:20:02Z",
+    "url": "https://github.com/consuldemocracy/consuldemocracy/releases/tag/2.6.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

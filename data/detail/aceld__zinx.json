@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/aceld/zinx/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v1.2.8",
+    "name": "v1.2.8",
+    "published": "2026-05-04T02:58:16Z",
+    "url": "https://github.com/aceld/zinx/releases/tag/v1.2.8"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

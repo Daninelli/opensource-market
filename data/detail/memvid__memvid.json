@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/memvid/memvid/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.0.140",
+    "name": "v2.0.140",
+    "published": "2026-05-27T19:15:32Z",
+    "url": "https://github.com/memvid/memvid/releases/tag/v2.0.140"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

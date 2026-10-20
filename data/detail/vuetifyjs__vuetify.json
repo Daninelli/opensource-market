@@ -17,11 +17,16 @@
   ],
   "deploy_type": "前端源码",
   "platform": "github",
-  "updated_at": "2026-10-19T21:12:58Z",
+  "updated_at": "2026-10-20T06:57:33Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/vuetifyjs/vuetify/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v4.3.0",
+    "name": "v4.3.0",
+    "published": "2026-10-19T21:15:45Z",
+    "url": "https://github.com/vuetifyjs/vuetify/releases/tag/v4.3.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

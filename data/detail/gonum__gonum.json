@@ -19,7 +19,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/gonum/gonum/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v0.17.0",
+    "name": "v0.17.0",
+    "published": "2026-01-10T19:53:25Z",
+    "url": "https://github.com/gonum/gonum/releases/tag/v0.17.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

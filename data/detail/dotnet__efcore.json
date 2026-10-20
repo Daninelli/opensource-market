@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/dotnet/efcore/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v10.0.13",
+    "name": ".NET 10.0.13",
+    "published": "2026-10-13T22:30:06Z",
+    "url": "https://github.com/dotnet/efcore/releases/tag/v10.0.13"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

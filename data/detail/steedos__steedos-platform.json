@@ -17,11 +17,16 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-15T05:38:29Z",
+  "updated_at": "2026-10-20T07:22:00Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "3.0",
   "download_url": "https://codeload.github.com/steedos/steedos-platform/zip/refs/heads/3.0",
-  "release": null,
+  "release": {
+    "tag": "v2.7.32",
+    "name": "v2.7.32",
+    "published": "2026-02-04T09:53:34Z",
+    "url": "https://github.com/steedos/steedos-platform/releases/tag/v2.7.32"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

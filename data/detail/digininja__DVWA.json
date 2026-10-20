@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/digininja/DVWA/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "2.5",
+    "name": "Vulnerable APIs",
+    "published": "2025-01-29T10:16:53Z",
+    "url": "https://github.com/digininja/DVWA/releases/tag/2.5"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

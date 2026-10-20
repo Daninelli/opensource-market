@@ -17,11 +17,16 @@
   ],
   "deploy_type": "依赖库 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T04:05:19Z",
+  "updated_at": "2026-10-20T08:27:22Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/huggingface/transformers/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v5.20.2",
+    "name": "Patch release v5.20.2",
+    "published": "2026-10-19T17:45:37Z",
+    "url": "https://github.com/huggingface/transformers/releases/tag/v5.20.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

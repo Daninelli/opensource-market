@@ -29,11 +29,6 @@
   },
   "assets": [
     {
-      "name": "gitea-28.2.0-windows-arm64.exe.xz",
-      "size": 37429512,
-      "url": "https://github.com/go-gitea/gitea/releases/download/v28.2.0/gitea-28.2.0-windows-arm64.exe.xz"
-    },
-    {
       "name": "gitea-28.2.0-darwin-arm64.xz",
       "size": 38675708,
       "url": "https://github.com/go-gitea/gitea/releases/download/v28.2.0/gitea-28.2.0-darwin-arm64.xz"
@@ -44,19 +39,9 @@
       "url": "https://github.com/go-gitea/gitea/releases/download/v28.2.0/gitea-28.2.0-darwin-amd64.xz"
     },
     {
-      "name": "gitea-28.2.0-windows-amd64.exe.xz",
-      "size": 42494464,
-      "url": "https://github.com/go-gitea/gitea/releases/download/v28.2.0/gitea-28.2.0-windows-amd64.exe.xz"
-    },
-    {
-      "name": "gitea-28.2.0-linux-arm64.xz",
-      "size": 37297532,
-      "url": "https://github.com/go-gitea/gitea/releases/download/v28.2.0/gitea-28.2.0-linux-arm64.xz"
-    },
-    {
-      "name": "gitea-28.2.0-linux-arm-6.xz",
-      "size": 38618472,
-      "url": "https://github.com/go-gitea/gitea/releases/download/v28.2.0/gitea-28.2.0-linux-arm-6.xz"
+      "name": "gitea-28.2.0-linux-amd64",
+      "size": 119488672,
+      "url": "https://github.com/go-gitea/gitea/releases/download/v28.2.0/gitea-28.2.0-linux-amd64"
     },
     {
       "name": "gitea-28.2.0-freebsd-amd64.xz",
@@ -64,9 +49,9 @@
       "url": "https://github.com/go-gitea/gitea/releases/download/v28.2.0/gitea-28.2.0-freebsd-amd64.xz"
     },
     {
-      "name": "gitea-src-28.2.0.tar.gz",
-      "size": 70647717,
-      "url": "https://github.com/go-gitea/gitea/releases/download/v28.2.0/gitea-src-28.2.0.tar.gz"
+      "name": "gitea-28.2.0-freebsd-amd64",
+      "size": 119320746,
+      "url": "https://github.com/go-gitea/gitea/releases/download/v28.2.0/gitea-28.2.0-freebsd-amd64"
     }
   ],
   "pinned": false,

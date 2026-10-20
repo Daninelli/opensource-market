@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/The-Vibe-Company/megaparse/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "megaparse-v0.0.55",
+    "name": "megaparse: v0.0.55",
+    "published": "2025-02-14T09:24:42Z",
+    "url": "https://github.com/The-Vibe-Company/megaparse/releases/tag/megaparse-v0.0.55"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

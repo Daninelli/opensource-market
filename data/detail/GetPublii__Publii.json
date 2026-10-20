@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/GetPublii/Publii/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v.0.48.1-build-17565",
+    "name": "v.0.48.1 (build 17565)",
+    "published": "2026-10-09T18:57:27Z",
+    "url": "https://github.com/GetPublii/Publii/releases/tag/v.0.48.1-build-17565"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

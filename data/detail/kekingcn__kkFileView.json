@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/kekingcn/kkFileView/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v5.0.3",
+    "name": "v5.0.3 — Security release",
+    "published": "2026-10-08T07:58:17Z",
+    "url": "https://github.com/kekingcn/kkFileView/releases/tag/v5.0.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

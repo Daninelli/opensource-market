@@ -15,11 +15,16 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-17T12:47:04Z",
+  "updated_at": "2026-10-20T07:25:06Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/MemTensor/MemOS/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.0.34",
+    "name": "v2.0.34",
+    "published": "2026-09-23T05:24:20Z",
+    "url": "https://github.com/MemTensor/MemOS/releases/tag/v2.0.34"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

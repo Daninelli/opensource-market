@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/javascript-obfuscator/javascript-obfuscator/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "5.9.0",
+    "name": "5.9.0 version",
+    "published": "2026-10-04T02:33:31Z",
+    "url": "https://github.com/javascript-obfuscator/javascript-obfuscator/releases/tag/5.9.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

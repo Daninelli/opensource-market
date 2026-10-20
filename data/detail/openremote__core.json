@@ -17,11 +17,16 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-19T20:52:23Z",
+  "updated_at": "2026-10-20T08:23:01Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/openremote/core/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "1.32.1",
+    "name": "1.32.1",
+    "published": "2026-10-14T13:40:53Z",
+    "url": "https://github.com/openremote/core/releases/tag/1.32.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/waooAI/waoowaoo/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v0.4.1",
+    "name": "v0.4.1 update",
+    "published": "2026-04-03T15:30:50Z",
+    "url": "https://github.com/waooAI/waoowaoo/releases/tag/v0.4.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

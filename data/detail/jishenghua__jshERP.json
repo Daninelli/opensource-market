@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/jishenghua/jshERP/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v3.5",
+    "name": "管伊佳ERP_v3.5",
+    "published": "2024-11-11T06:20:45Z",
+    "url": "https://github.com/jishenghua/jshERP/releases/tag/v3.5"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

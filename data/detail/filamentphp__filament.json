@@ -18,11 +18,16 @@
   ],
   "deploy_type": "依赖库 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-19T20:15:47Z",
+  "updated_at": "2026-10-20T08:07:44Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "4.x",
   "download_url": "https://codeload.github.com/filamentphp/filament/zip/refs/heads/4.x",
-  "release": null,
+  "release": {
+    "tag": "v5.10.2",
+    "name": "v5.10.2",
+    "published": "2026-10-13T22:48:54Z",
+    "url": "https://github.com/filamentphp/filament/releases/tag/v5.10.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -16,11 +16,16 @@
   ],
   "deploy_type": "前端源码 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-19T05:20:32Z",
+  "updated_at": "2026-10-20T07:04:35Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/hoppscotch/hoppscotch/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "2026.9.0",
+    "name": "2026.9.0",
+    "published": "2026-09-30T11:50:32Z",
+    "url": "https://github.com/hoppscotch/hoppscotch/releases/tag/2026.9.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

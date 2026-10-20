@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/barryvdh/laravel-dompdf/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v3.1.2",
+    "name": "v3.1.2",
+    "published": "2026-03-17T15:52:39Z",
+    "url": "https://github.com/barryvdh/laravel-dompdf/releases/tag/v3.1.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

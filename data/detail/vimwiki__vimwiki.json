@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/vimwiki/vimwiki/zip/refs/heads/dev",
-  "release": null,
+  "release": {
+    "tag": "v2024.01.24",
+    "name": "v2024.01.24",
+    "published": "2024-01-25T03:18:12Z",
+    "url": "https://github.com/vimwiki/vimwiki/releases/tag/v2024.01.24"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

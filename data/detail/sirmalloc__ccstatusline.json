@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/sirmalloc/ccstatusline/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.2.32",
+    "name": "v2.2.32",
+    "published": "2026-10-09T18:51:51Z",
+    "url": "https://github.com/sirmalloc/ccstatusline/releases/tag/v2.2.32"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

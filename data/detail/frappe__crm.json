@@ -17,11 +17,16 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-19T12:27:58Z",
+  "updated_at": "2026-10-20T07:55:55Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/frappe/crm/zip/refs/heads/develop",
-  "release": null,
+  "release": {
+    "tag": "v1.88.0",
+    "name": "v1.88.0",
+    "published": "2026-10-15T18:58:15Z",
+    "url": "https://github.com/frappe/crm/releases/tag/v1.88.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -15,11 +15,16 @@
   ],
   "deploy_type": "Docker 部署 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-19T22:45:46Z",
+  "updated_at": "2026-10-20T04:44:48Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/manticoresoftware/manticoresearch/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "release-29.9.0",
+    "name": "Manticore Search 29.9.0",
+    "published": "2026-09-11T14:20:16Z",
+    "url": "https://github.com/manticoresoftware/manticoresearch/releases/tag/release-29.9.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

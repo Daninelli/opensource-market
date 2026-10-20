@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/thedotmack/claude-mem/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v14.0.1",
+    "name": "v14.0.1",
+    "published": "2026-10-17T16:25:51Z",
+    "url": "https://github.com/thedotmack/claude-mem/releases/tag/v14.0.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

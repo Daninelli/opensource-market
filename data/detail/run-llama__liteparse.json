@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/run-llama/liteparse/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "docker-v2.16.0",
+    "name": "Docker v2.16.0",
+    "published": "2026-10-12T22:09:55Z",
+    "url": "https://github.com/run-llama/liteparse/releases/tag/docker-v2.16.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

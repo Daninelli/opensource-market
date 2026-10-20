@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/sumatrapdfreader/sumatrapdf/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "3.6.1rel",
+    "name": "3.6.1 release",
+    "published": "2026-04-06T13:47:05Z",
+    "url": "https://github.com/sumatrapdfreader/sumatrapdf/releases/tag/3.6.1rel"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

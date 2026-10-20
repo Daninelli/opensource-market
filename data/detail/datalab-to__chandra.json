@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/datalab-to/chandra/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v0.2.0",
+    "name": "Chandra OCR 2",
+    "published": "2026-03-18T15:16:25Z",
+    "url": "https://github.com/datalab-to/chandra/releases/tag/v0.2.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

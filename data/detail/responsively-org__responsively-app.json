@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/responsively-org/responsively-app/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v1.18.0",
+    "name": "v1.18.0: Design mockup overlap feature & bug fixes",
+    "published": "2026-02-17T04:58:48Z",
+    "url": "https://github.com/responsively-org/responsively-app/releases/tag/v1.18.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

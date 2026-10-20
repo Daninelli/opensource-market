@@ -19,7 +19,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/alirezarezvani/claude-skills/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.12.0",
+    "name": "v2.12.0 — consolidated release: 20 domains, 380 skills, full issue-triage sweep",
+    "published": "2026-08-25T06:14:47Z",
+    "url": "https://github.com/alirezarezvani/claude-skills/releases/tag/v2.12.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

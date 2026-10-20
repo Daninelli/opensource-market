@@ -38,9 +38,9 @@
       "url": "https://github.com/electerm/electerm/releases/download/v5.6.10/electerm-5.6.10-win7.tar.gz"
     },
     {
-      "name": "electerm-5.6.10-win-arm64-installer.exe",
-      "size": 113974812,
-      "url": "https://github.com/electerm/electerm/releases/download/v5.6.10/electerm-5.6.10-win-arm64-installer.exe"
+      "name": "electerm-5.6.10-win-x64-installer.exe",
+      "size": 119727538,
+      "url": "https://github.com/electerm/electerm/releases/download/v5.6.10/electerm-5.6.10-win-x64-installer.exe"
     },
     {
       "name": "electerm-5.6.10-mac-arm64.dmg",
@@ -53,9 +53,9 @@
       "url": "https://github.com/electerm/electerm/releases/download/v5.6.10/electerm-5.6.10-linux-armv7l-legacy.rpm"
     },
     {
-      "name": "electerm-5.6.10-linux-armv7l.rpm",
-      "size": 60477401,
-      "url": "https://github.com/electerm/electerm/releases/download/v5.6.10/electerm-5.6.10-linux-armv7l.rpm"
+      "name": "electerm-5.6.10-linux-aarch64-legacy.rpm",
+      "size": 62714012,
+      "url": "https://github.com/electerm/electerm/releases/download/v5.6.10/electerm-5.6.10-linux-aarch64-legacy.rpm"
     }
   ],
   "pinned": false,

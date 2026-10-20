@@ -22,7 +22,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/project-chip/connectedhomeip/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v1.6.1.0",
+    "name": "v1.6.1.0 Release",
+    "published": "2026-09-25T12:38:51Z",
+    "url": "https://github.com/project-chip/connectedhomeip/releases/tag/v1.6.1.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

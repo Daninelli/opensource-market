@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/swagger-api/swagger-ui/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v5.34.0",
+    "name": "v5.34.0",
+    "published": "2026-10-19T12:14:33Z",
+    "url": "https://github.com/swagger-api/swagger-ui/releases/tag/v5.34.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

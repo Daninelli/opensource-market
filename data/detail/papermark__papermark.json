@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/papermark/papermark/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v0.22.0",
+    "name": "v0.22.0",
+    "published": "2025-12-06T12:44:04Z",
+    "url": "https://github.com/papermark/papermark/releases/tag/v0.22.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

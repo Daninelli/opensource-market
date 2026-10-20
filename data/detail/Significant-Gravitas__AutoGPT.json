@@ -15,11 +15,16 @@
   ],
   "deploy_type": "源码 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-20T04:08:29Z",
+  "updated_at": "2026-10-20T08:32:17Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Significant-Gravitas/AutoGPT/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "autogpt-platform-beta-v0.8.4",
+    "name": "autogpt-platform-beta-v0.8.4",
+    "published": "2026-10-14T16:22:16Z",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/releases/tag/autogpt-platform-beta-v0.8.4"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

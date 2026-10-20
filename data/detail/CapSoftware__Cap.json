@@ -17,11 +17,16 @@
   ],
   "deploy_type": "桌面应用 / 客户端",
   "platform": "github",
-  "updated_at": "2026-10-20T04:06:00Z",
+  "updated_at": "2026-10-20T07:57:50Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/CapSoftware/Cap/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "cap-v0.6.0",
+    "name": "0.6.0",
+    "published": "2026-09-15T13:10:21Z",
+    "url": "https://github.com/CapSoftware/Cap/releases/tag/cap-v0.6.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

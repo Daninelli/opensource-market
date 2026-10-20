@@ -19,7 +19,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/qax-os/excelize/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v2.11.0",
+    "name": "v2.11.0",
+    "published": "2026-07-06T16:12:44Z",
+    "url": "https://github.com/qax-os/excelize/releases/tag/v2.11.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

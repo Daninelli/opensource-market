@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ScrapeGraphAI/Scrapegraph-ai/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.3.1",
+    "name": "v2.3.1",
+    "published": "2026-10-06T08:28:00Z",
+    "url": "https://github.com/ScrapeGraphAI/Scrapegraph-ai/releases/tag/v2.3.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

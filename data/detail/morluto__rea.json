@@ -17,11 +17,16 @@
   ],
   "deploy_type": "命令行",
   "platform": "github",
-  "updated_at": "2026-10-20T04:01:34Z",
+  "updated_at": "2026-10-20T08:14:06Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/morluto/rea/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "rea-agents-6.7.0",
+    "name": "rea-agents: v6.7.0",
+    "published": "2026-10-18T07:45:18Z",
+    "url": "https://github.com/morluto/rea/releases/tag/rea-agents-6.7.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

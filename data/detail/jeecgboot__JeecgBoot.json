@@ -22,7 +22,12 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/jeecgboot/JeecgBoot/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v3.9.5",
+    "name": "v3.9.5",
+    "published": "2026-08-27T03:29:52Z",
+    "url": "https://github.com/jeecgboot/JeecgBoot/releases/tag/v3.9.5"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

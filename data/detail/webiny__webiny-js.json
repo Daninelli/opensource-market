@@ -16,11 +16,16 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-19T21:24:12Z",
+  "updated_at": "2026-10-20T07:05:39Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "next",
   "download_url": "https://codeload.github.com/webiny/webiny-js/zip/refs/heads/next",
-  "release": null,
+  "release": {
+    "tag": "v6.4.11",
+    "name": "v6.4.11",
+    "published": "2026-09-11T11:25:17Z",
+    "url": "https://github.com/webiny/webiny-js/releases/tag/v6.4.11"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

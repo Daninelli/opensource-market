@@ -22,7 +22,12 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/evershopcommerce/evershop/zip/refs/heads/dev",
-  "release": null,
+  "release": {
+    "tag": "v2.3.0",
+    "name": "v2.3.0",
+    "published": "2026-10-08T12:29:49Z",
+    "url": "https://github.com/evershopcommerce/evershop/releases/tag/v2.3.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

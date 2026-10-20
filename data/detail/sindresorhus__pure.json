@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/sindresorhus/pure/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v1.28.4",
+    "name": "v1.28.4",
+    "published": "2026-10-07T13:58:52Z",
+    "url": "https://github.com/sindresorhus/pure/releases/tag/v1.28.4"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

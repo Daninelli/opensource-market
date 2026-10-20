@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/cskefu/cskefu/zip/refs/heads/develop",
-  "release": null,
+  "release": {
+    "tag": "8.0.1",
+    "name": "春松客服",
+    "published": "2023-07-21T22:11:17Z",
+    "url": "https://github.com/cskefu/cskefu/releases/tag/8.0.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

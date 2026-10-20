@@ -22,7 +22,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/carekit-apple/CareKit/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "4.1.0",
+    "name": "4.1.0",
+    "published": "2026-04-03T01:29:53Z",
+    "url": "https://github.com/carekit-apple/CareKit/releases/tag/4.1.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

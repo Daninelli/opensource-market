@@ -16,11 +16,16 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T03:30:57Z",
+  "updated_at": "2026-10-20T08:12:39Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/liketrek/TREK/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v4.3.3",
+    "name": "v4.3.3",
+    "published": "2026-09-26T12:26:28Z",
+    "url": "https://github.com/liketrek/TREK/releases/tag/v4.3.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

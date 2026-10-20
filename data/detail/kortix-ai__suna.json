@@ -16,51 +16,46 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T03:04:20Z",
+  "updated_at": "2026-10-20T08:33:04Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/kortix-ai/suna/zip/refs/heads/dev",
   "release": {
-    "tag": "v0.14.2",
-    "name": "v0.14.2 — Trigger run history, a bigger Free plan, and steadier sessions",
-    "published": "2026-10-19T04:39:29Z",
-    "url": "https://github.com/kortix-ai/suna/releases/tag/v0.14.2"
+    "tag": "v0.14.3",
+    "name": "v0.14.3 — Capture on Windows, signed installers, Drive, and automation controls",
+    "published": "2026-10-20T05:46:19Z",
+    "url": "https://github.com/kortix-ai/suna/releases/tag/v0.14.3"
   },
   "assets": [
     {
-      "name": "KortixCapture-v0.14.2-x64.msi",
-      "size": 16588800,
-      "url": "https://github.com/kortix-ai/suna/releases/download/v0.14.2/KortixCapture-v0.14.2-x64.msi"
+      "name": "KortixCapture-v0.14.3-x64.msi",
+      "size": 18919424,
+      "url": "https://github.com/kortix-ai/suna/releases/download/v0.14.3/KortixCapture-v0.14.3-x64.msi"
     },
     {
       "name": "KortixCapture-x64.msi",
-      "size": 16588800,
-      "url": "https://github.com/kortix-ai/suna/releases/download/v0.14.2/KortixCapture-x64.msi"
+      "size": 18919424,
+      "url": "https://github.com/kortix-ai/suna/releases/download/v0.14.3/KortixCapture-x64.msi"
     },
     {
       "name": "KortixCapture-universal.pkg",
-      "size": 45496319,
-      "url": "https://github.com/kortix-ai/suna/releases/download/v0.14.2/KortixCapture-universal.pkg"
+      "size": 45634514,
+      "url": "https://github.com/kortix-ai/suna/releases/download/v0.14.3/KortixCapture-universal.pkg"
     },
     {
-      "name": "KortixCapture-v0.14.2-universal.pkg",
-      "size": 45496319,
-      "url": "https://github.com/kortix-ai/suna/releases/download/v0.14.2/KortixCapture-v0.14.2-universal.pkg"
+      "name": "KortixCapture-v0.14.3-universal.pkg",
+      "size": 45634514,
+      "url": "https://github.com/kortix-ai/suna/releases/download/v0.14.3/KortixCapture-v0.14.3-universal.pkg"
     },
     {
       "name": "kortix-capture_amd64.deb",
-      "size": 20589586,
-      "url": "https://github.com/kortix-ai/suna/releases/download/v0.14.2/kortix-capture_amd64.deb"
+      "size": 20753960,
+      "url": "https://github.com/kortix-ai/suna/releases/download/v0.14.3/kortix-capture_amd64.deb"
     },
     {
-      "name": "kortix-capture_v0.14.2_amd64.deb",
-      "size": 20589586,
-      "url": "https://github.com/kortix-ai/suna/releases/download/v0.14.2/kortix-capture_v0.14.2_amd64.deb"
-    },
-    {
-      "name": "Kortix-0.14.2-universal-mac.zip",
-      "size": 230507119,
-      "url": "https://github.com/kortix-ai/suna/releases/download/v0.14.2/Kortix-0.14.2-universal-mac.zip"
+      "name": "kortix-capture_v0.14.3_amd64.deb",
+      "size": 20753960,
+      "url": "https://github.com/kortix-ai/suna/releases/download/v0.14.3/kortix-capture_v0.14.3_amd64.deb"
     }
   ],
   "pinned": false,

@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/letta-ai/letta/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "0.16.8",
+    "name": "v0.16.8",
+    "published": "2026-05-14T17:14:24Z",
+    "url": "https://github.com/letta-ai/letta/releases/tag/0.16.8"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

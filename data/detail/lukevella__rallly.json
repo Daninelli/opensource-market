@@ -18,11 +18,16 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-20T04:09:34Z",
+  "updated_at": "2026-10-20T06:18:44Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/lukevella/rallly/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v4.16.0",
+    "name": "v4.16.0",
+    "published": "2026-10-20T01:14:55Z",
+    "url": "https://github.com/lukevella/rallly/releases/tag/v4.16.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/refly-ai/refly/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v1.1.0",
+    "name": "v1.1.0",
+    "published": "2026-02-02T08:24:26Z",
+    "url": "https://github.com/refly-ai/refly/releases/tag/v1.1.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

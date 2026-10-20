@@ -16,11 +16,16 @@
   ],
   "deploy_type": "客户端 / 桌面应用",
   "platform": "github",
-  "updated_at": "2026-10-19T07:38:08Z",
+  "updated_at": "2026-10-20T07:28:22Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/bottlesdevs/Bottles/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "67.4",
+    "name": "67.4",
+    "published": "2026-09-07T18:13:02Z",
+    "url": "https://github.com/bottlesdevs/Bottles/releases/tag/67.4"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/kangvcar/InfoSpider/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v1.0",
+    "name": "INFO-SPIDER v1.0",
+    "published": "2020-08-18T02:14:32Z",
+    "url": "https://github.com/kangvcar/InfoSpider/releases/tag/v1.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

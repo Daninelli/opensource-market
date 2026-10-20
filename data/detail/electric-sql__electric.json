@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/electric-sql/electric/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "@electric-sql/y-electric@0.1.54",
+    "name": "@electric-sql/y-electric@0.1.54",
+    "published": "2026-09-09T11:28:29Z",
+    "url": "https://github.com/electric-sql/electric/releases/tag/%40electric-sql/y-electric%400.1.54"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

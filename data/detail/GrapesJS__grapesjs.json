@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/GrapesJS/grapesjs/zip/refs/heads/dev",
-  "release": null,
+  "release": {
+    "tag": "v0.23.8",
+    "name": "v0.23.8",
+    "published": "2026-10-15T09:13:51Z",
+    "url": "https://github.com/GrapesJS/grapesjs/releases/tag/v0.23.8"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

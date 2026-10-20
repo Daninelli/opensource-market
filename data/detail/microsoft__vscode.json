@@ -17,11 +17,16 @@
   ],
   "deploy_type": "桌面应用 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-20T04:10:40Z",
+  "updated_at": "2026-10-20T08:15:28Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/microsoft/vscode/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "1.142.0",
+    "name": "1.142.0",
+    "published": "2026-10-14T19:46:12Z",
+    "url": "https://github.com/microsoft/vscode/releases/tag/1.142.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

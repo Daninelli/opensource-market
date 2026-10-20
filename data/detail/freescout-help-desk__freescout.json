@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T14:45:00.000Z",
   "default_branch": "dist",
   "download_url": "https://codeload.github.com/freescout-help-desk/freescout/zip/refs/heads/dist",
-  "release": null,
+  "release": {
+    "tag": "1.8.248",
+    "name": "1.8.248",
+    "published": "2026-10-17T05:01:00Z",
+    "url": "https://github.com/freescout-help-desk/freescout/releases/tag/1.8.248"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

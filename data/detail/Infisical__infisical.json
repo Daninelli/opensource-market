@@ -16,11 +16,16 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T04:01:14Z",
+  "updated_at": "2026-10-20T08:25:18Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Infisical/infisical/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v0.166.8",
+    "name": "v0.166.8",
+    "published": "2026-10-15T17:55:46Z",
+    "url": "https://github.com/Infisical/infisical/releases/tag/v0.166.8"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

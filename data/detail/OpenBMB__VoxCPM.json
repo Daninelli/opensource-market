@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/OpenBMB/VoxCPM/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "2.0.3",
+    "name": "v2.0.3: fine-tuning validation, runtime stability, and streaming improvements",
+    "published": "2026-05-11T11:59:20Z",
+    "url": "https://github.com/OpenBMB/VoxCPM/releases/tag/2.0.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

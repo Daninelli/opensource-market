@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/groue/GRDB.swift/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v7.11.1",
+    "name": "v7.11.1",
+    "published": "2026-06-18T12:15:08Z",
+    "url": "https://github.com/groue/GRDB.swift/releases/tag/v7.11.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

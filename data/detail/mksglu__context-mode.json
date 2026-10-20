@@ -15,11 +15,16 @@
   ],
   "deploy_type": "依赖库 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-20T04:08:58Z",
+  "updated_at": "2026-10-20T08:30:17Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/mksglu/context-mode/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v1.0.169",
+    "name": "v1.0.169",
+    "published": "2026-06-29T18:18:53Z",
+    "url": "https://github.com/mksglu/context-mode/releases/tag/v1.0.169"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

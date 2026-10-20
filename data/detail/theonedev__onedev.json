@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/theonedev/onedev/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v16.9.4",
+    "name": "16.9.4",
+    "published": "2026-10-19T14:53:29Z",
+    "url": "https://github.com/theonedev/onedev/releases/tag/v16.9.4"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

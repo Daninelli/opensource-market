@@ -20,46 +20,46 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/pdfcpu/pdfcpu/zip/refs/heads/master",
   "release": {
-    "tag": "v0.16.2",
-    "name": "v0.16.2",
-    "published": "2026-10-11T21:23:02Z",
-    "url": "https://github.com/pdfcpu/pdfcpu/releases/tag/v0.16.2"
+    "tag": "v0.16.3",
+    "name": "v0.16.3",
+    "published": "2026-10-19T19:44:32Z",
+    "url": "https://github.com/pdfcpu/pdfcpu/releases/tag/v0.16.3"
   },
   "assets": [
     {
-      "name": "pdfcpu_0.16.2_Darwin_arm64.tar.xz",
-      "size": 5455600,
-      "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.2/pdfcpu_0.16.2_Darwin_arm64.tar.xz"
+      "name": "pdfcpu_0.16.3_Darwin_arm64.tar.xz",
+      "size": 5466876,
+      "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.3/pdfcpu_0.16.3_Darwin_arm64.tar.xz"
     },
     {
-      "name": "pdfcpu_0.16.2_Darwin_x86_64.tar.xz",
-      "size": 6387424,
-      "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.2/pdfcpu_0.16.2_Darwin_x86_64.tar.xz"
+      "name": "pdfcpu_0.16.3_Darwin_x86_64.tar.xz",
+      "size": 6403348,
+      "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.3/pdfcpu_0.16.3_Darwin_x86_64.tar.xz"
     },
     {
-      "name": "pdfcpu_0.16.2_Windows_i386.zip",
-      "size": 6815426,
-      "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.2/pdfcpu_0.16.2_Windows_i386.zip"
+      "name": "pdfcpu_0.16.3_Windows_i386.zip",
+      "size": 6826813,
+      "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.3/pdfcpu_0.16.3_Windows_i386.zip"
     },
     {
-      "name": "pdfcpu_0.16.2_Windows_x86_64.zip",
-      "size": 7053372,
-      "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.2/pdfcpu_0.16.2_Windows_x86_64.zip"
+      "name": "pdfcpu_0.16.3_Windows_x86_64.zip",
+      "size": 7071702,
+      "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.3/pdfcpu_0.16.3_Windows_x86_64.zip"
     },
     {
-      "name": "pdfcpu_0.16.2_Linux_arm64.tar.xz",
-      "size": 5279092,
-      "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.2/pdfcpu_0.16.2_Linux_arm64.tar.xz"
+      "name": "pdfcpu_0.16.3_Linux_arm64.tar.xz",
+      "size": 5291216,
+      "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.3/pdfcpu_0.16.3_Linux_arm64.tar.xz"
     },
     {
-      "name": "pdfcpu_0.16.2_Linux_armv7.tar.xz",
-      "size": 5645752,
-      "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.2/pdfcpu_0.16.2_Linux_armv7.tar.xz"
+      "name": "pdfcpu_0.16.3_Linux_armv7.tar.xz",
+      "size": 5657980,
+      "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.3/pdfcpu_0.16.3_Linux_armv7.tar.xz"
     },
     {
-      "name": "pdfcpu_0.16.2_Js_wasm.tar.xz",
-      "size": 6980012,
-      "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.2/pdfcpu_0.16.2_Js_wasm.tar.xz"
+      "name": "pdfcpu_0.16.3_Js_wasm.tar.xz",
+      "size": 6982256,
+      "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.3/pdfcpu_0.16.3_Js_wasm.tar.xz"
     }
   ],
   "pinned": false,

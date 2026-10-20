@@ -16,11 +16,16 @@
   ],
   "deploy_type": "源码 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-20T03:41:34Z",
+  "updated_at": "2026-10-20T06:42:06Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/esphome/esphome/zip/refs/heads/dev",
-  "release": null,
+  "release": {
+    "tag": "2026.9.1",
+    "name": "2026.9.1",
+    "published": "2026-09-29T19:12:08Z",
+    "url": "https://github.com/esphome/esphome/releases/tag/2026.9.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/visgl/react-map-gl/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v8.1.3",
+    "name": "v8.1.3",
+    "published": "2026-09-02T21:36:45Z",
+    "url": "https://github.com/visgl/react-map-gl/releases/tag/v8.1.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

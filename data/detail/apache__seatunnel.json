@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/apache/seatunnel/zip/refs/heads/dev",
-  "release": null,
+  "release": {
+    "tag": "v3.0.0",
+    "name": "3.0.0 Release",
+    "published": "2026-09-29T02:33:39Z",
+    "url": "https://github.com/apache/seatunnel/releases/tag/v3.0.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

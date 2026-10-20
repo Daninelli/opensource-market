@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/databasus/databasus/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v3.61.0",
+    "name": "Release v3.61.0",
+    "published": "2026-10-10T19:44:08Z",
+    "url": "https://github.com/databasus/databasus/releases/tag/v3.61.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

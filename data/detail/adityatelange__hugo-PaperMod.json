@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/adityatelange/hugo-PaperMod/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v8.0",
+    "name": "Release v8.0 🎈",
+    "published": "2024-11-03T07:58:18Z",
+    "url": "https://github.com/adityatelange/hugo-PaperMod/releases/tag/v8.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

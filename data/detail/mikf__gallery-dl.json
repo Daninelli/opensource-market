@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mikf/gallery-dl/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v1.32.17",
+    "name": "v1.32.17",
+    "published": "2026-10-17T14:26:38Z",
+    "url": "https://github.com/mikf/gallery-dl/releases/tag/v1.32.17"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

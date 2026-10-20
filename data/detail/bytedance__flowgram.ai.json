@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/bytedance/flowgram.ai/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v1.0.16",
+    "name": "v1.0.16",
+    "published": "2026-10-13T10:03:10Z",
+    "url": "https://github.com/bytedance/flowgram.ai/releases/tag/v1.0.16"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

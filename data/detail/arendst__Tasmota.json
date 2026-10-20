@@ -34,9 +34,9 @@
       "url": "https://github.com/arendst/Tasmota/releases/download/v16.0.0/tasmota-minimal.map.gz"
     },
     {
-      "name": "tasmota-lite.map.gz",
-      "size": 226761,
-      "url": "https://github.com/arendst/Tasmota/releases/download/v16.0.0/tasmota-lite.map.gz"
+      "name": "tasmota-KO.map.gz",
+      "size": 273567,
+      "url": "https://github.com/arendst/Tasmota/releases/download/v16.0.0/tasmota-KO.map.gz"
     }
   ],
   "pinned": false,

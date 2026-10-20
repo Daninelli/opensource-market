@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/AudioKit/AudioKit/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "5.7.2",
+    "name": "AudioKit v5.7.2",
+    "published": "2026-03-31T20:39:27Z",
+    "url": "https://github.com/AudioKit/AudioKit/releases/tag/5.7.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

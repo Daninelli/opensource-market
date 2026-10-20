@@ -15,11 +15,16 @@
   ],
   "deploy_type": "二进制 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T21:49:05Z",
+  "updated_at": "2026-10-20T08:23:18Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/influxdata/telegraf/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v1.40.2",
+    "name": "v1.40.2",
+    "published": "2026-10-12T14:52:08Z",
+    "url": "https://github.com/influxdata/telegraf/releases/tag/v1.40.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

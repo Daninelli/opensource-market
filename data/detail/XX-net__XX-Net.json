@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/XX-net/XX-Net/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "5.16.7",
+    "name": "V5.16.7 Support Mac arm64 CPU",
+    "published": "2026-09-28T23:50:48Z",
+    "url": "https://github.com/XX-net/XX-Net/releases/tag/5.16.7"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

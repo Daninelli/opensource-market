@@ -21,7 +21,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/shadcn-ui/ui/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "shadcn@4.22.1",
+    "name": "shadcn@4.22.1",
+    "published": "2026-10-18T18:11:04Z",
+    "url": "https://github.com/shadcn-ui/ui/releases/tag/shadcn%404.22.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

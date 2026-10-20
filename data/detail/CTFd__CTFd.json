@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/CTFd/CTFd/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "3.8.8",
+    "name": "3.8.8",
+    "published": "2026-10-02T19:06:16Z",
+    "url": "https://github.com/CTFd/CTFd/releases/tag/3.8.8"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

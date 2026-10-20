@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/prettier/prettier/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "3.9.10",
+    "name": "3.9.10",
+    "published": "2026-10-10T08:36:47Z",
+    "url": "https://github.com/prettier/prettier/releases/tag/3.9.10"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

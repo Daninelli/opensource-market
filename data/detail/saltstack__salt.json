@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 传统部署",
   "platform": "github",
-  "updated_at": "2026-10-20T00:07:50Z",
+  "updated_at": "2026-10-20T06:13:28Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/saltstack/salt/zip/refs/heads/master",
@@ -27,14 +27,14 @@
   },
   "assets": [
     {
-      "name": "salt-3008.3-onedir-macos-arm64.tar.xz",
-      "size": 23593532,
-      "url": "https://github.com/saltstack/salt/releases/download/v3008.3/salt-3008.3-onedir-macos-arm64.tar.xz"
+      "name": "salt-3008.3-py3-x86_64.pkg",
+      "size": 35012598,
+      "url": "https://github.com/saltstack/salt/releases/download/v3008.3/salt-3008.3-py3-x86_64.pkg"
     },
     {
-      "name": "salt-3008.3-onedir-macos-x86_64.tar.xz",
-      "size": 23630652,
-      "url": "https://github.com/saltstack/salt/releases/download/v3008.3/salt-3008.3-onedir-macos-x86_64.tar.xz"
+      "name": "salt-3008.3-py3-arm64.pkg",
+      "size": 35064998,
+      "url": "https://github.com/saltstack/salt/releases/download/v3008.3/salt-3008.3-py3-arm64.pkg"
     },
     {
       "name": "Salt-Minion-3008.3-Py3-AMD64.msi",
@@ -47,14 +47,14 @@
       "url": "https://github.com/saltstack/salt/releases/download/v3008.3/salt-3008.3-onedir-windows-amd64.zip"
     },
     {
-      "name": "salt-ssh_3008.3_amd64.deb",
-      "size": 162314,
-      "url": "https://github.com/saltstack/salt/releases/download/v3008.3/salt-ssh_3008.3_amd64.deb"
+      "name": "salt-ssh-3008.3-0.aarch64.rpm",
+      "size": 195025,
+      "url": "https://github.com/saltstack/salt/releases/download/v3008.3/salt-ssh-3008.3-0.aarch64.rpm"
     },
     {
-      "name": "salt-ssh_3008.3_arm64.deb",
-      "size": 162314,
-      "url": "https://github.com/saltstack/salt/releases/download/v3008.3/salt-ssh_3008.3_arm64.deb"
+      "name": "salt-ssh-3008.3-0.x86_64.rpm",
+      "size": 195061,
+      "url": "https://github.com/saltstack/salt/releases/download/v3008.3/salt-ssh-3008.3-0.x86_64.rpm"
     },
     {
       "name": "salt-3008.3.patch",

@@ -22,7 +22,12 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "beta",
   "download_url": "https://codeload.github.com/illacloud/illa-builder/zip/refs/heads/beta",
-  "release": null,
+  "release": {
+    "tag": "illa-builder@4.8.5",
+    "name": "illa-builder@4.8.5",
+    "published": "2024-08-05T09:23:19Z",
+    "url": "https://github.com/illacloud/illa-builder/releases/tag/illa-builder%404.8.5"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

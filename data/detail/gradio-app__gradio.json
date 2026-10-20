@@ -17,11 +17,16 @@
   ],
   "deploy_type": "依赖库 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-19T21:36:03Z",
+  "updated_at": "2026-10-20T08:08:14Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/gradio-app/gradio/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "gradio@6.30.0",
+    "name": "gradio@6.30.0",
+    "published": "2026-10-08T22:21:51Z",
+    "url": "https://github.com/gradio-app/gradio/releases/tag/gradio%406.30.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

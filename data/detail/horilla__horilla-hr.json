@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "2.0",
   "download_url": "https://codeload.github.com/horilla/horilla-hr/zip/refs/heads/2.0",
-  "release": null,
+  "release": {
+    "tag": "2.1.8",
+    "name": "2.1.8 — Security release",
+    "published": "2026-09-26T08:22:38Z",
+    "url": "https://github.com/horilla/horilla-hr/releases/tag/2.1.8"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

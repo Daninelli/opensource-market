@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/cyberjunky/python-garminconnect/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "0.3.19",
+    "name": "Release 0.3.19",
+    "published": "2026-10-16T11:20:10Z",
+    "url": "https://github.com/cyberjunky/python-garminconnect/releases/tag/0.3.19"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

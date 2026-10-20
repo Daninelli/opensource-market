@@ -22,7 +22,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/offen/docker-volume-backup/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.49.1",
+    "name": "v2.49.1",
+    "published": "2026-09-21T18:59:19Z",
+    "url": "https://github.com/offen/docker-volume-backup/releases/tag/v2.49.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

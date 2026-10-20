@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "2026.09",
   "download_url": "https://codeload.github.com/neo4j/neo4j/zip/refs/heads/2026.09",
-  "release": null,
+  "release": {
+    "tag": "3.2.0-alpha08",
+    "name": "3.2.0-alpha08",
+    "published": "2017-04-11T08:47:47Z",
+    "url": "https://github.com/neo4j/neo4j/releases/tag/3.2.0-alpha08"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

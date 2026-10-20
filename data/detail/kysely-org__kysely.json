@@ -15,11 +15,16 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-19T07:46:04Z",
+  "updated_at": "2026-10-20T07:44:42Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/kysely-org/kysely/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v0.29.7",
+    "name": "0.29.7",
+    "published": "2026-10-17T15:52:22Z",
+    "url": "https://github.com/kysely-org/kysely/releases/tag/v0.29.7"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

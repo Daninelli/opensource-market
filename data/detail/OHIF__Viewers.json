@@ -21,7 +21,12 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/OHIF/Viewers/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v3.13.13",
+    "name": "v3.13.13",
+    "published": "2026-10-16T17:18:05Z",
+    "url": "https://github.com/OHIF/Viewers/releases/tag/v3.13.13"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

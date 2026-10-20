@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/lowlighter/metrics/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v3.34",
+    "name": "Version 3.34",
+    "published": "2023-09-13T02:39:37Z",
+    "url": "https://github.com/lowlighter/metrics/releases/tag/v3.34"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

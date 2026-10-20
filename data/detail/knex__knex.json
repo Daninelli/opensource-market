@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/knex/knex/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "3.3.0",
+    "name": "3.3.0",
+    "published": "2026-06-26T14:55:58Z",
+    "url": "https://github.com/knex/knex/releases/tag/3.3.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -17,26 +17,26 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-19T07:11:55Z",
+  "updated_at": "2026-10-20T05:52:10Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/fleetbase/fleetbase/zip/refs/heads/main",
   "release": {
-    "tag": "v0.7.71",
-    "name": "v0.7.71",
-    "published": "2026-10-19T07:06:16Z",
-    "url": "https://github.com/fleetbase/fleetbase/releases/tag/v0.7.71"
+    "tag": "v0.7.72",
+    "name": "v0.7.72",
+    "published": "2026-10-20T05:12:47Z",
+    "url": "https://github.com/fleetbase/fleetbase/releases/tag/v0.7.72"
   },
   "assets": [
     {
       "name": "fleetbase-darwin-arm64",
       "size": 118880706,
-      "url": "https://github.com/fleetbase/fleetbase/releases/download/v0.7.71/fleetbase-darwin-arm64"
+      "url": "https://github.com/fleetbase/fleetbase/releases/download/v0.7.72/fleetbase-darwin-arm64"
     },
     {
       "name": "fleetbase-linux-x86_64",
       "size": 135025192,
-      "url": "https://github.com/fleetbase/fleetbase/releases/download/v0.7.71/fleetbase-linux-x86_64"
+      "url": "https://github.com/fleetbase/fleetbase/releases/download/v0.7.72/fleetbase-linux-x86_64"
     }
   ],
   "pinned": false,

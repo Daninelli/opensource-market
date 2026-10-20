@@ -18,11 +18,16 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-19T09:11:03Z",
+  "updated_at": "2026-10-20T08:28:31Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/frappe/frappe_docker/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v4.1.1",
+    "name": "v4.1.1",
+    "published": "2026-10-19T09:11:04Z",
+    "url": "https://github.com/frappe/frappe_docker/releases/tag/v4.1.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "development",
   "download_url": "https://codeload.github.com/yusufkaraaslan/Skill_Seekers/zip/refs/heads/development",
-  "release": null,
+  "release": {
+    "tag": "v3.10.0",
+    "name": "v3.10.0",
+    "published": "2026-09-30T18:53:11Z",
+    "url": "https://github.com/yusufkaraaslan/Skill_Seekers/releases/tag/v3.10.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

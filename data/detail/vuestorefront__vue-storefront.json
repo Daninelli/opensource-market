@@ -22,7 +22,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/vuestorefront/vue-storefront/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "@vue-storefront/middleware@5.4.0",
+    "name": "@vue-storefront/middleware@5.4.0",
+    "published": "2025-04-23T07:41:06Z",
+    "url": "https://github.com/vuestorefront/vue-storefront/releases/tag/%40vue-storefront/middleware%405.4.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

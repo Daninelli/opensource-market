@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/hajimehoshi/ebiten/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.10.5",
+    "name": "v2.10.5",
+    "published": "2026-10-09T19:24:38Z",
+    "url": "https://github.com/hajimehoshi/ebiten/releases/tag/v2.10.5"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

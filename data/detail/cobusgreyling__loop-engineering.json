@@ -16,11 +16,16 @@
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T02:35:39Z",
+  "updated_at": "2026-10-20T08:02:08Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/cobusgreyling/loop-engineering/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v1.6.0",
+    "name": "v1.6.0 — Foundry funnel + loop-gate",
+    "published": "2026-07-20T18:42:38Z",
+    "url": "https://github.com/cobusgreyling/loop-engineering/releases/tag/v1.6.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

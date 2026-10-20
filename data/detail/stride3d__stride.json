@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-19T21:29:58Z",
+  "updated_at": "2026-10-20T07:11:17Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/stride3d/stride/zip/refs/heads/master",
@@ -28,14 +28,14 @@
   },
   "assets": [
     {
-      "name": "Stride.Shaders.4.4.1.nupkg",
-      "size": 107789,
-      "url": "https://github.com/stride3d/stride/releases/download/releases/4.4.1/Stride.Shaders.4.4.1.nupkg"
-    },
-    {
       "name": "Stride.Core.IO.4.4.1.nupkg",
       "size": 120804,
       "url": "https://github.com/stride3d/stride/releases/download/releases/4.4.1/Stride.Core.IO.4.4.1.nupkg"
+    },
+    {
+      "name": "Stride.Editor.4.4.1.nupkg",
+      "size": 132661,
+      "url": "https://github.com/stride3d/stride/releases/download/releases/4.4.1/Stride.Editor.4.4.1.nupkg"
     }
   ],
   "pinned": false,

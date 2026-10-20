@@ -17,11 +17,16 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-20T02:03:12Z",
+  "updated_at": "2026-10-20T08:29:43Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/teableio/teable/zip/refs/heads/develop",
-  "release": null,
+  "release": {
+    "tag": "release.2026-10-16T07-06-34Z.3445",
+    "name": "release.2026-10-16T07-06-34Z.3445",
+    "published": "2026-10-16T07:57:29Z",
+    "url": "https://github.com/teableio/teable/releases/tag/release.2026-10-16T07-06-34Z.3445"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

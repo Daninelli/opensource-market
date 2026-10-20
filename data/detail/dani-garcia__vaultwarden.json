@@ -21,7 +21,12 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/dani-garcia/vaultwarden/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "1.37.4",
+    "name": "1.37.4",
+    "published": "2026-10-05T23:40:54Z",
+    "url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.37.4"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

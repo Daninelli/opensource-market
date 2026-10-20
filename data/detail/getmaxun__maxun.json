@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/getmaxun/maxun/zip/refs/heads/develop",
-  "release": null,
+  "release": {
+    "tag": "v0.0.48",
+    "name": "v0.0.48",
+    "published": "2026-10-01T17:37:37Z",
+    "url": "https://github.com/getmaxun/maxun/releases/tag/v0.0.48"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

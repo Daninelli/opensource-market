@@ -16,11 +16,16 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-20T04:07:12Z",
+  "updated_at": "2026-10-20T06:46:27Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/visgl/deck.gl/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v9.4.0",
+    "name": "v9.4.0",
+    "published": "2026-09-05T21:54:36Z",
+    "url": "https://github.com/visgl/deck.gl/releases/tag/v9.4.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

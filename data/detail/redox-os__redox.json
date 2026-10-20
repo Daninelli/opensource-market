@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/redox-os/redox/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "0.9.0",
+    "name": "0.9.0",
+    "published": "2025-09-22T02:27:02Z",
+    "url": "https://github.com/redox-os/redox/releases/tag/0.9.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

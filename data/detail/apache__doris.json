@@ -16,11 +16,16 @@
   ],
   "deploy_type": "Docker 部署 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-20T04:08:16Z",
+  "updated_at": "2026-10-20T08:31:15Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/apache/doris/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "4.1.5-release",
+    "name": "Apache Doris 4.1.5 Release",
+    "published": "2026-10-15T04:44:11Z",
+    "url": "https://github.com/apache/doris/releases/tag/4.1.5-release"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -28,14 +28,14 @@
   },
   "assets": [
     {
-      "name": "v2.5.2_xmini-c3-4g.zip",
-      "size": 1100898,
-      "url": "https://github.com/78/xiaozhi-esp32/releases/download/v2.5.2/v2.5.2_xmini-c3-4g.zip"
+      "name": "v2.5.2_bread-compact-esp32-128x32.zip",
+      "size": 1502206,
+      "url": "https://github.com/78/xiaozhi-esp32/releases/download/v2.5.2/v2.5.2_bread-compact-esp32-128x32.zip"
     },
     {
-      "name": "v2.5.2_m5stack-atommatrix-echo-base.zip",
-      "size": 1311013,
-      "url": "https://github.com/78/xiaozhi-esp32/releases/download/v2.5.2/v2.5.2_m5stack-atommatrix-echo-base.zip"
+      "name": "v2.5.2_bread-compact-esp32.zip",
+      "size": 1502210,
+      "url": "https://github.com/78/xiaozhi-esp32/releases/download/v2.5.2/v2.5.2_bread-compact-esp32.zip"
     }
   ],
   "pinned": false,

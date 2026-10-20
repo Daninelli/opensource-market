@@ -15,21 +15,26 @@
   ],
   "deploy_type": "依赖库 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-20T04:08:06Z",
+  "updated_at": "2026-10-20T08:32:04Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/heygen-com/hyperframes/zip/refs/heads/main",
   "release": {
-    "tag": "v0.8.176",
-    "name": "v0.8.176",
-    "published": "2026-10-19T16:35:51Z",
-    "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.176"
+    "tag": "v0.8.181",
+    "name": "v0.8.181",
+    "published": "2026-10-20T03:37:05Z",
+    "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.181"
   },
   "assets": [
     {
       "name": "hyperframes-agent-plugin.zip",
-      "size": 11933954,
-      "url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.176/hyperframes-agent-plugin.zip"
+      "size": 11934879,
+      "url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.181/hyperframes-agent-plugin.zip"
+    },
+    {
+      "name": "hyperframes-lambda-handler.zip",
+      "size": 129250221,
+      "url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.181/hyperframes-lambda-handler.zip"
     }
   ],
   "pinned": false,

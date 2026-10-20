@@ -15,11 +15,16 @@
   ],
   "deploy_type": "二进制 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T18:35:33Z",
+  "updated_at": "2026-10-20T08:31:40Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/hashicorp/consul/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.0.4",
+    "name": "v2.0.4",
+    "published": "2026-09-10T06:12:16Z",
+    "url": "https://github.com/hashicorp/consul/releases/tag/v2.0.4"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

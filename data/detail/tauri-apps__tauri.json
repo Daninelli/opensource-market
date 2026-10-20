@@ -16,11 +16,16 @@
   ],
   "deploy_type": "依赖库 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-19T19:26:07Z",
+  "updated_at": "2026-10-20T06:16:35Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/tauri-apps/tauri/zip/refs/heads/dev",
-  "release": null,
+  "release": {
+    "tag": "tauri-v3.0.0-alpha.5",
+    "name": "tauri v3.0.0-alpha.5",
+    "published": "2026-10-14T21:14:12Z",
+    "url": "https://github.com/tauri-apps/tauri/releases/tag/tauri-v3.0.0-alpha.5"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

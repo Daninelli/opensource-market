@@ -16,11 +16,16 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T02:58:53Z",
+  "updated_at": "2026-10-20T06:42:41Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/pingcap/tidb/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v7.5.8",
+    "name": "TiDB v7.5.8",
+    "published": "2026-09-17T05:57:53Z",
+    "url": "https://github.com/pingcap/tidb/releases/tag/v7.5.8"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

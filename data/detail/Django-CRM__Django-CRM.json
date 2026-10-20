@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Django-CRM/Django-CRM/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v1.17.0",
+    "name": "v1.17.0",
+    "published": "2026-10-15T15:13:59Z",
+    "url": "https://github.com/Django-CRM/Django-CRM/releases/tag/v1.17.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -19,7 +19,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/amark/gun/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "0.2019.413",
+    "name": "out of date, use npm or cdn for latest",
+    "published": "2019-04-15T19:50:41Z",
+    "url": "https://github.com/amark/gun/releases/tag/0.2019.413"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

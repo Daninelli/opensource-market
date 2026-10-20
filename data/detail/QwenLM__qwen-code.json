@@ -16,11 +16,16 @@
   ],
   "deploy_type": "命令行",
   "platform": "github",
-  "updated_at": "2026-10-20T04:02:32Z",
+  "updated_at": "2026-10-20T08:28:39Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/QwenLM/qwen-code/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "sdk-typescript-v0.1.21",
+    "name": "SDK TypeScript Release v0.1.21",
+    "published": "2026-10-19T07:47:40Z",
+    "url": "https://github.com/QwenLM/qwen-code/releases/tag/sdk-typescript-v0.1.21"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

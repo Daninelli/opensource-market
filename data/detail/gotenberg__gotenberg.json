@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/gotenberg/gotenberg/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v8.38.1",
+    "name": "8.38.1",
+    "published": "2026-10-15T15:03:56Z",
+    "url": "https://github.com/gotenberg/gotenberg/releases/tag/v8.38.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -17,11 +17,16 @@
   ],
   "deploy_type": "依赖库 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-19T21:31:29Z",
+  "updated_at": "2026-10-20T08:05:21Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/streamlit/streamlit/zip/refs/heads/develop",
-  "release": null,
+  "release": {
+    "tag": "1.66.0",
+    "name": "1.66.0",
+    "published": "2026-10-14T16:08:00Z",
+    "url": "https://github.com/streamlit/streamlit/releases/tag/1.66.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

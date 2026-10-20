@@ -17,11 +17,16 @@
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-15T11:34:42Z",
+  "updated_at": "2026-10-20T08:18:23Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Panniantong/Agent-Reach/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v1.5.0",
+    "name": "v1.5.0 — 能力层:多后端路由 + 真体检 + OpenCLI",
+    "published": "2026-06-11T12:29:59Z",
+    "url": "https://github.com/Panniantong/Agent-Reach/releases/tag/v1.5.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -17,11 +17,16 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-20T02:59:01Z",
+  "updated_at": "2026-10-20T04:27:07Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/ever-co/ever-gauzy/zip/refs/heads/develop",
-  "release": null,
+  "release": {
+    "tag": "v111.48.2",
+    "name": "v111.48.2",
+    "published": "2026-10-03T02:12:08Z",
+    "url": "https://github.com/ever-co/ever-gauzy/releases/tag/v111.48.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

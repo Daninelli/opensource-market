@@ -17,11 +17,16 @@
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-19T16:38:02Z",
+  "updated_at": "2026-10-20T08:07:38Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/sqlmapproject/sqlmap/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "1.10",
+    "name": "Tiarsus Helexina",
+    "published": "2026-01-01T18:27:27Z",
+    "url": "https://github.com/sqlmapproject/sqlmap/releases/tag/1.10"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

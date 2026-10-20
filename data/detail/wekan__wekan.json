@@ -21,51 +21,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/wekan/wekan/zip/refs/heads/main",
   "release": {
-    "tag": "v12.55",
-    "name": "v12.55",
-    "published": "2026-10-18T20:59:47Z",
-    "url": "https://github.com/wekan/wekan/releases/tag/v12.55"
+    "tag": "v12.56",
+    "name": "v12.56",
+    "published": "2026-10-20T01:01:12Z",
+    "url": "https://github.com/wekan/wekan/releases/tag/v12.56"
   },
   "assets": [
     {
-      "name": "wekan-12.55-win32.zip",
-      "size": 238549245,
-      "url": "https://github.com/wekan/wekan/releases/download/v12.55/wekan-12.55-win32.zip"
+      "name": "wekan-12.56-win32.zip",
+      "size": 238573189,
+      "url": "https://github.com/wekan/wekan/releases/download/v12.56/wekan-12.56-win32.zip"
     },
     {
-      "name": "wekan-12.55-win-arm64.zip",
-      "size": 245179576,
-      "url": "https://github.com/wekan/wekan/releases/download/v12.55/wekan-12.55-win-arm64.zip"
+      "name": "wekan-12.56-win-arm64.zip",
+      "size": 245186743,
+      "url": "https://github.com/wekan/wekan/releases/download/v12.56/wekan-12.56-win-arm64.zip"
     },
     {
-      "name": "wekan-12.55-mac-x64.zip",
-      "size": 256910519,
-      "url": "https://github.com/wekan/wekan/releases/download/v12.55/wekan-12.55-mac-x64.zip"
+      "name": "wekan-12.56-mac-x64.zip",
+      "size": 256921041,
+      "url": "https://github.com/wekan/wekan/releases/download/v12.56/wekan-12.56-mac-x64.zip"
     },
     {
-      "name": "wekan-12.55-mac-arm64.zip",
-      "size": 257789774,
-      "url": "https://github.com/wekan/wekan/releases/download/v12.55/wekan-12.55-mac-arm64.zip"
+      "name": "wekan-12.56-mac-arm64.zip",
+      "size": 257800296,
+      "url": "https://github.com/wekan/wekan/releases/download/v12.56/wekan-12.56-mac-arm64.zip"
     },
     {
-      "name": "WeKan-12.55-armhf.AppImage",
-      "size": 191192452,
-      "url": "https://github.com/wekan/wekan/releases/download/v12.55/WeKan-12.55-armhf.AppImage"
+      "name": "wekan-12.56-bun-linux-arm64-musl.zip",
+      "size": 457219691,
+      "url": "https://github.com/wekan/wekan/releases/download/v12.56/wekan-12.56-bun-linux-arm64-musl.zip"
     },
     {
-      "name": "WeKan-12.55-i686.AppImage",
-      "size": 196926840,
-      "url": "https://github.com/wekan/wekan/releases/download/v12.55/WeKan-12.55-i686.AppImage"
+      "name": "wekan-12.56-bun-linux-arm64.zip",
+      "size": 457911613,
+      "url": "https://github.com/wekan/wekan/releases/download/v12.56/wekan-12.56-bun-linux-arm64.zip"
     },
     {
-      "name": "wekan-12.55-android-armv7.zip",
-      "size": 232982675,
-      "url": "https://github.com/wekan/wekan/releases/download/v12.55/wekan-12.55-android-armv7.zip"
+      "name": "wekan-12.56-bun-android-arm64.zip",
+      "size": 446944057,
+      "url": "https://github.com/wekan/wekan/releases/download/v12.56/wekan-12.56-bun-android-arm64.zip"
     },
     {
-      "name": "wekan-12.55-android-arm64.zip",
-      "size": 234630237,
-      "url": "https://github.com/wekan/wekan/releases/download/v12.55/wekan-12.55-android-arm64.zip"
+      "name": "wekan-12.56-armhf.zip",
+      "size": 236894504,
+      "url": "https://github.com/wekan/wekan/releases/download/v12.56/wekan-12.56-armhf.zip"
     }
   ],
   "pinned": false,

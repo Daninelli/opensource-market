@@ -18,11 +18,16 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-20T04:01:50Z",
+  "updated_at": "2026-10-20T08:06:23Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/1Panel-dev/CordysCRM/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v1.9.4",
+    "name": "v1.9.4",
+    "published": "2026-10-19T08:46:31Z",
+    "url": "https://github.com/1Panel-dev/CordysCRM/releases/tag/v1.9.4"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

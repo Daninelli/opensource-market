@@ -15,11 +15,16 @@
   ],
   "deploy_type": "依赖库 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T02:14:54Z",
+  "updated_at": "2026-10-20T08:25:21Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/deepset-ai/haystack/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v3.4.0",
+    "name": "v3.4.0",
+    "published": "2026-10-15T09:26:37Z",
+    "url": "https://github.com/deepset-ai/haystack/releases/tag/v3.4.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

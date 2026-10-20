@@ -17,11 +17,16 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-19T14:21:55Z",
+  "updated_at": "2026-10-20T08:14:55Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Unleash/unleash/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v8.2.0",
+    "name": "v8.2.0",
+    "published": "2026-09-08T09:57:08Z",
+    "url": "https://github.com/Unleash/unleash/releases/tag/v8.2.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

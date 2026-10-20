@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/libgdx/libgdx/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "1.14.2",
+    "name": "1.14.2",
+    "published": "2026-06-05T08:18:26Z",
+    "url": "https://github.com/libgdx/libgdx/releases/tag/1.14.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

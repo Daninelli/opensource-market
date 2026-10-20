@@ -16,11 +16,16 @@
   ],
   "deploy_type": "源码 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-19T17:31:04Z",
+  "updated_at": "2026-10-20T07:45:55Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/xbtlin/ai-berkshire/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v1.0.0",
+    "name": "v1.0.0 - AI Berkshire 首发",
+    "published": "2026-04-07T11:31:35Z",
+    "url": "https://github.com/xbtlin/ai-berkshire/releases/tag/v1.0.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

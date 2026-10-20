@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/promptfoo/promptfoo/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "code-scan-action-0.2.2",
+    "name": "code-scan-action: 0.2.2",
+    "published": "2026-10-08T15:46:03Z",
+    "url": "https://github.com/promptfoo/promptfoo/releases/tag/code-scan-action-0.2.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

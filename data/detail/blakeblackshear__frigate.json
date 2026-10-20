@@ -17,11 +17,16 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-20T03:32:10Z",
+  "updated_at": "2026-10-20T06:19:47Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/blakeblackshear/frigate/zip/refs/heads/dev",
-  "release": null,
+  "release": {
+    "tag": "v0.18.2",
+    "name": "0.18.2 Release",
+    "published": "2026-10-15T22:41:47Z",
+    "url": "https://github.com/blakeblackshear/frigate/releases/tag/v0.18.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

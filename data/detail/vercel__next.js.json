@@ -17,11 +17,16 @@
   ],
   "deploy_type": "前端源码 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T04:07:44Z",
+  "updated_at": "2026-10-20T08:30:43Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "canary",
   "download_url": "https://codeload.github.com/vercel/next.js/zip/refs/heads/canary",
-  "release": null,
+  "release": {
+    "tag": "v16.4.2",
+    "name": "v16.4.2",
+    "published": "2026-10-15T20:44:37Z",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.4.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

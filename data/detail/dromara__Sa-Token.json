@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T12:36:48+08:00",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/dromara/Sa-Token/zip/refs/heads/dev",
-  "release": null,
+  "release": {
+    "tag": "v1.46.0",
+    "name": "Sa-Token v1.46.0 发布 🚀，新增 Apache Fory 集成、独立 Redisson 集成",
+    "published": "2026-08-19T06:01:14Z",
+    "url": "https://github.com/dromara/Sa-Token/releases/tag/v1.46.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

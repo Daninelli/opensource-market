@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/uvdesk/community-skeleton/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v1.1.8",
+    "name": "v1.1.8",
+    "published": "2025-09-19T12:41:20Z",
+    "url": "https://github.com/uvdesk/community-skeleton/releases/tag/v1.1.8"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

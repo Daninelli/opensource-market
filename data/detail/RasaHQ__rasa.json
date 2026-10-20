@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "3.6.x",
   "download_url": "https://codeload.github.com/RasaHQ/rasa/zip/refs/heads/3.6.x",
-  "release": null,
+  "release": {
+    "tag": "3.6.21",
+    "name": "3.6.21",
+    "published": "2025-01-14T10:40:21Z",
+    "url": "https://github.com/RasaHQ/rasa/releases/tag/3.6.21"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

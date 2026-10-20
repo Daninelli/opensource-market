@@ -17,11 +17,16 @@
   ],
   "deploy_type": "Docker / 云服务",
   "platform": "github",
-  "updated_at": "2026-10-20T04:06:52Z",
+  "updated_at": "2026-10-20T08:29:19Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/supabase/supabase/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v1.26.08",
+    "name": "Developer Update - August 2026",
+    "published": "2026-08-07T13:57:57Z",
+    "url": "https://github.com/supabase/supabase/releases/tag/v1.26.08"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

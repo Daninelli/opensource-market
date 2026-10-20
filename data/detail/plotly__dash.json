@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/plotly/dash/zip/refs/heads/dev",
-  "release": null,
+  "release": {
+    "tag": "v4.4.1",
+    "name": "v4.4.1",
+    "published": "2026-07-21T19:01:01Z",
+    "url": "https://github.com/plotly/dash/releases/tag/v4.4.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

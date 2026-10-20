@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/doocs/md/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.1.0",
+    "name": "v2.1.0",
+    "published": "2025-10-17T14:08:04Z",
+    "url": "https://github.com/doocs/md/releases/tag/v2.1.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

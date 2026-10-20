@@ -21,7 +21,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/jellyfin/jellyfin/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v12.2",
+    "name": "12.2",
+    "published": "2026-10-05T23:07:59Z",
+    "url": "https://github.com/jellyfin/jellyfin/releases/tag/v12.2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

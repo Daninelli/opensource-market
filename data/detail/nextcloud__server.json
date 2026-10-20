@@ -17,11 +17,16 @@
   ],
   "deploy_type": "Docker / 传统部署",
   "platform": "github",
-  "updated_at": "2026-10-20T02:11:08Z",
+  "updated_at": "2026-10-20T08:33:08Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/nextcloud/server/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v33.0.10",
+    "name": "v33.0.10",
+    "published": "2026-10-15T08:37:28Z",
+    "url": "https://github.com/nextcloud/server/releases/tag/v33.0.10"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

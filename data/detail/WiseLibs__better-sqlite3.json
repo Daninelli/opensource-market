@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/WiseLibs/better-sqlite3/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v13.0.3",
+    "name": "v13.0.3",
+    "published": "2026-08-05T03:26:05Z",
+    "url": "https://github.com/WiseLibs/better-sqlite3/releases/tag/v13.0.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

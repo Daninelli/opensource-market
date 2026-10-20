@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/11ty/buildawesome/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v3.1.7",
+    "name": "Eleventy v3.1.7: Maintenance Release",
+    "published": "2026-10-15T19:51:53Z",
+    "url": "https://github.com/11ty/buildawesome/releases/tag/v3.1.7"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

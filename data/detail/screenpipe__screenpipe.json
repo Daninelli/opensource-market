@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/screenpipe/screenpipe/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "app-v2.7.109",
+    "name": "Screenpipe App v2.7.109",
+    "published": "2026-10-14T20:32:37Z",
+    "url": "https://github.com/screenpipe/screenpipe/releases/tag/app-v2.7.109"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

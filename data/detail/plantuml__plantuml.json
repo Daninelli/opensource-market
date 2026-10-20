@@ -47,14 +47,14 @@
       "url": "https://github.com/plantuml/plantuml/releases/download/v1.2026.9/native-plantuml-linux-amd64-1.2026.9.zip"
     },
     {
-      "name": "plantuml-mit-light-1.2026.9.jar",
-      "size": 8070162,
-      "url": "https://github.com/plantuml/plantuml/releases/download/v1.2026.9/plantuml-mit-light-1.2026.9.jar"
-    },
-    {
       "name": "plantuml-asl-1.2026.9-javadoc.jar",
       "size": 16845422,
       "url": "https://github.com/plantuml/plantuml/releases/download/v1.2026.9/plantuml-asl-1.2026.9-javadoc.jar"
+    },
+    {
+      "name": "plantuml-epl-1.2026.9-javadoc.jar",
+      "size": 16845934,
+      "url": "https://github.com/plantuml/plantuml/releases/download/v1.2026.9/plantuml-epl-1.2026.9-javadoc.jar"
     }
   ],
   "pinned": false,

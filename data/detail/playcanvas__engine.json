@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/playcanvas/engine/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.23.3",
+    "name": "v2.23.3",
+    "published": "2026-10-15T15:44:13Z",
+    "url": "https://github.com/playcanvas/engine/releases/tag/v2.23.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

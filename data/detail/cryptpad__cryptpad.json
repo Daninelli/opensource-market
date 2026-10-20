@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/cryptpad/cryptpad/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "2026.5.1",
+    "name": "🌷🩹 Spring fix release (2026.5.1)",
+    "published": "2026-05-26T11:17:53Z",
+    "url": "https://github.com/cryptpad/cryptpad/releases/tag/2026.5.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

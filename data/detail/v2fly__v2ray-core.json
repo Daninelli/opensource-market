@@ -49,24 +49,24 @@
       "url": "https://github.com/v2fly/v2ray-core/releases/download/v5.53.0/v2ray-macos-64.zip"
     },
     {
-      "name": "v2ray-linux-mips64le.zip",
-      "size": 17237623,
-      "url": "https://github.com/v2fly/v2ray-core/releases/download/v5.53.0/v2ray-linux-mips64le.zip"
+      "name": "v2ray-linux-mips32le.zip",
+      "size": 17535667,
+      "url": "https://github.com/v2fly/v2ray-core/releases/download/v5.53.0/v2ray-linux-mips32le.zip"
     },
     {
-      "name": "v2ray-linux-mips64.zip",
-      "size": 17353614,
-      "url": "https://github.com/v2fly/v2ray-core/releases/download/v5.53.0/v2ray-linux-mips64.zip"
+      "name": "v2ray-linux-mips32.zip",
+      "size": 17644701,
+      "url": "https://github.com/v2fly/v2ray-core/releases/download/v5.53.0/v2ray-linux-mips32.zip"
     },
     {
-      "name": "v2ray-android-arm64-v8a.zip",
-      "size": 18773863,
-      "url": "https://github.com/v2fly/v2ray-core/releases/download/v5.53.0/v2ray-android-arm64-v8a.zip"
+      "name": "v2ray-freebsd-arm32-v7a.zip",
+      "size": 18157378,
+      "url": "https://github.com/v2fly/v2ray-core/releases/download/v5.53.0/v2ray-freebsd-arm32-v7a.zip"
     },
     {
-      "name": "v2ray-extra.zip",
-      "size": 296846,
-      "url": "https://github.com/v2fly/v2ray-core/releases/download/v5.53.0/v2ray-extra.zip"
+      "name": "v2ray-openbsd-32.zip",
+      "size": 18161308,
+      "url": "https://github.com/v2fly/v2ray-core/releases/download/v5.53.0/v2ray-openbsd-32.zip"
     }
   ],
   "pinned": false,

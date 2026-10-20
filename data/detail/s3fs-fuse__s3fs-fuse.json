@@ -19,7 +19,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/s3fs-fuse/s3fs-fuse/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v1.97",
+    "name": "Release version 1.97",
+    "published": "2025-12-08T03:34:57Z",
+    "url": "https://github.com/s3fs-fuse/s3fs-fuse/releases/tag/v1.97"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

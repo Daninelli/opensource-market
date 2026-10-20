@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/hiyouga/LlamaFactory/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v0.9.5",
+    "name": "v0.9.5: Qwen3.5/3.6, Gemma 4, Transformers v5",
+    "published": "2026-05-30T15:57:58Z",
+    "url": "https://github.com/hiyouga/LlamaFactory/releases/tag/v0.9.5"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

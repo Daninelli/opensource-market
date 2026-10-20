@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/chartdb/chartdb/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v1.20.1",
+    "name": "v1.20.1",
+    "published": "2026-04-07T14:40:49Z",
+    "url": "https://github.com/chartdb/chartdb/releases/tag/v1.20.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

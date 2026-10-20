@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/diegomura/react-pdf/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "@react-pdf/ui@1.0.0",
+    "name": "@react-pdf/ui@1.0.0",
+    "published": "2026-08-27T23:04:29Z",
+    "url": "https://github.com/diegomura/react-pdf/releases/tag/%40react-pdf/ui%401.0.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

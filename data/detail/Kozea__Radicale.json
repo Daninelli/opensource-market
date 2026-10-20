@@ -17,11 +17,16 @@
   ],
   "deploy_type": "Docker 部署 / 传统部署",
   "platform": "github",
-  "updated_at": "2026-10-19T05:50:28Z",
+  "updated_at": "2026-10-20T06:16:53Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Kozea/Radicale/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v3.8.3",
+    "name": "3.8.3 Fixes (Security)",
+    "published": "2026-10-08T05:44:06Z",
+    "url": "https://github.com/Kozea/Radicale/releases/tag/v3.8.3"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Osmantic/ODS/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v3.0.0",
+    "name": "ODS V3 Pre-Release",
+    "published": "2026-09-24T13:20:25Z",
+    "url": "https://github.com/Osmantic/ODS/releases/tag/v3.0.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

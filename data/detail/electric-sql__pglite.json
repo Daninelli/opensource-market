@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/electric-sql/pglite/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "@electric-sql/pglite-pgmq@0.0.8",
+    "name": "@electric-sql/pglite-pgmq@0.0.8",
+    "published": "2026-10-14T14:37:12Z",
+    "url": "https://github.com/electric-sql/pglite/releases/tag/%40electric-sql/pglite-pgmq%400.0.8"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

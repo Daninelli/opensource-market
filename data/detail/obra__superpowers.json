@@ -17,11 +17,16 @@
   ],
   "deploy_type": "源码",
   "platform": "github",
-  "updated_at": "2026-10-20T03:54:16Z",
+  "updated_at": "2026-10-20T06:37:50Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/obra/superpowers/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v7.0.0",
+    "name": "v7.0.0",
+    "published": "2026-10-10T00:28:58Z",
+    "url": "https://github.com/obra/superpowers/releases/tag/v7.0.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -15,11 +15,16 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-19T14:17:02Z",
+  "updated_at": "2026-10-20T07:30:04Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/langchain4j/langchain4j/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "1.22.0",
+    "name": "1.22.0 and 1.22.0-beta32",
+    "published": "2026-10-08T08:16:22Z",
+    "url": "https://github.com/langchain4j/langchain4j/releases/tag/1.22.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

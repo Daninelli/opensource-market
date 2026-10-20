@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/flutter/flutter/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "3.19.0-0.1.pre",
+    "name": "Flutter 3.19 beta (January 10, 2024)",
+    "published": "2024-01-11T18:31:57Z",
+    "url": "https://github.com/flutter/flutter/releases/tag/3.19.0-0.1.pre"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

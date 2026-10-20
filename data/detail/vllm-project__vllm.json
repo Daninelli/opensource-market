@@ -17,7 +17,7 @@
   ],
   "deploy_type": "自托管服务 / Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T03:53:27Z",
+  "updated_at": "2026-10-20T08:28:36Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/vllm-project/vllm/zip/refs/heads/main",

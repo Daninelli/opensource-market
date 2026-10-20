@@ -15,11 +15,16 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-19T23:18:55Z",
+  "updated_at": "2026-10-20T07:52:41Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/triggerdotdev/trigger.dev/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v4.7.4",
+    "name": "trigger.dev v4.7.4",
+    "published": "2026-10-14T17:09:17Z",
+    "url": "https://github.com/triggerdotdev/trigger.dev/releases/tag/v4.7.4"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

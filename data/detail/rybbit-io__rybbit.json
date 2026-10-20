@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/rybbit-io/rybbit/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v2.9.0",
+    "name": "v2.9.0",
+    "published": "2026-09-12T03:49:15Z",
+    "url": "https://github.com/rybbit-io/rybbit/releases/tag/v2.9.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

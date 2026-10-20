@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/getredash/redash/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v26.9.0",
+    "name": "v26.9.0",
+    "published": "2026-09-24T10:46:49Z",
+    "url": "https://github.com/getredash/redash/releases/tag/v26.9.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/microsoft/autogen/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "python-v0.7.5",
+    "name": "python-v0.7.5",
+    "published": "2025-09-30T06:18:26Z",
+    "url": "https://github.com/microsoft/autogen/releases/tag/python-v0.7.5"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

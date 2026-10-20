@@ -15,7 +15,7 @@
   ],
   "deploy_type": "二进制",
   "platform": "github",
-  "updated_at": "2026-10-20T02:57:26Z",
+  "updated_at": "2026-10-20T08:02:38Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/VictoriaMetrics/VictoriaMetrics/zip/refs/heads/master",

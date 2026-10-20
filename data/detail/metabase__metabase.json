@@ -17,11 +17,16 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-20T04:07:53Z",
+  "updated_at": "2026-10-20T08:29:48Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/metabase/metabase/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v0.64.1",
+    "name": "Metabase 64.1",
+    "published": "2026-10-07T18:42:49Z",
+    "url": "https://github.com/metabase/metabase/releases/tag/v0.64.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

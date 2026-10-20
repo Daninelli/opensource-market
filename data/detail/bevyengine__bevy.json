@@ -15,11 +15,16 @@
   ],
   "deploy_type": "源码",
   "platform": "github",
-  "updated_at": "2026-10-20T04:00:13Z",
+  "updated_at": "2026-10-20T08:18:44Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/bevyengine/bevy/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v0.20.0",
+    "name": "v0.20.0",
+    "published": "2026-10-08T21:41:02Z",
+    "url": "https://github.com/bevyengine/bevy/releases/tag/v0.20.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

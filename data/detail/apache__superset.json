@@ -17,11 +17,16 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-20T04:05:15Z",
+  "updated_at": "2026-10-20T08:16:17Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/apache/superset/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "6.1.0",
+    "name": "6.1.0",
+    "published": "2026-05-13T18:32:25Z",
+    "url": "https://github.com/apache/superset/releases/tag/6.1.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

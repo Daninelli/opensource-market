@@ -22,7 +22,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/crmeb/CRMEB/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v6.0.0",
+    "name": "开源版v6.0.0",
+    "published": "2026-04-11T03:31:53Z",
+    "url": "https://github.com/crmeb/CRMEB/releases/tag/v6.0.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -16,11 +16,16 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-13T09:11:14Z",
+  "updated_at": "2026-10-20T08:29:21Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/didi/DoKit/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "3.1.7",
+    "name": "iOS: 3.1.7",
+    "published": "2025-06-20T08:19:46Z",
+    "url": "https://github.com/didi/DoKit/releases/tag/3.1.7"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

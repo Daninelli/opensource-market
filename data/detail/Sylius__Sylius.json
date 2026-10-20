@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "2.3",
   "download_url": "https://codeload.github.com/Sylius/Sylius/zip/refs/heads/2.3",
-  "release": null,
+  "release": {
+    "tag": "v2.3.1",
+    "name": "v2.3.1",
+    "published": "2026-10-14T13:19:31Z",
+    "url": "https://github.com/Sylius/Sylius/releases/tag/v2.3.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

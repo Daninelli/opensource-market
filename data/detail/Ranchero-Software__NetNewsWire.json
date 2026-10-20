@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Ranchero-Software/NetNewsWire/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "iOS-7.2-7221",
+    "name": "NetNewsWire 7.2 (7221) for iOS",
+    "published": "2026-10-11T17:27:20Z",
+    "url": "https://github.com/Ranchero-Software/NetNewsWire/releases/tag/iOS-7.2-7221"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

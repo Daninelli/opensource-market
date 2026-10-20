@@ -22,7 +22,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/fecshop/yii2_fecshop/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "2.17.4",
+    "name": "2.17.4",
+    "published": "2021-09-02T09:54:15Z",
+    "url": "https://github.com/fecshop/yii2_fecshop/releases/tag/2.17.4"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

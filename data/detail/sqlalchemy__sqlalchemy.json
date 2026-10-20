@@ -47,14 +47,14 @@
       "url": "https://github.com/sqlalchemy/sqlalchemy/releases/download/rel_2_1_5/sqlalchemy-2.1.5-cp311-cp311-macosx_11_0_arm64.whl"
     },
     {
-      "name": "sqlalchemy-2.1.5-cp314-cp314-manylinux_2_31_riscv64.manylinux_2_39_riscv64.whl",
-      "size": 4316247,
-      "url": "https://github.com/sqlalchemy/sqlalchemy/releases/download/rel_2_1_5/sqlalchemy-2.1.5-cp314-cp314-manylinux_2_31_riscv64.manylinux_2_39_riscv64.whl"
+      "name": "sqlalchemy-2.1.5-cp315-cp315-musllinux_1_2_aarch64.whl",
+      "size": 4525244,
+      "url": "https://github.com/sqlalchemy/sqlalchemy/releases/download/rel_2_1_5/sqlalchemy-2.1.5-cp315-cp315-musllinux_1_2_aarch64.whl"
     },
     {
-      "name": "sqlalchemy-2.1.5-cp313-cp313-manylinux_2_31_riscv64.manylinux_2_39_riscv64.whl",
-      "size": 4316833,
-      "url": "https://github.com/sqlalchemy/sqlalchemy/releases/download/rel_2_1_5/sqlalchemy-2.1.5-cp313-cp313-manylinux_2_31_riscv64.manylinux_2_39_riscv64.whl"
+      "name": "sqlalchemy-2.1.5-cp311-cp311-musllinux_1_2_aarch64.whl",
+      "size": 4571827,
+      "url": "https://github.com/sqlalchemy/sqlalchemy/releases/download/rel_2_1_5/sqlalchemy-2.1.5-cp311-cp311-musllinux_1_2_aarch64.whl"
     },
     {
       "name": "sqlalchemy-2.1.5-py3-none-any.whl",

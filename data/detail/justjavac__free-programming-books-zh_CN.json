@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/justjavac/free-programming-books-zh_CN/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "3.0",
+    "name": "v3.0",
+    "published": "2018-11-05T05:21:03Z",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN/releases/tag/3.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

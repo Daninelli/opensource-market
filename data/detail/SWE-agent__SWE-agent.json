@@ -19,7 +19,12 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/SWE-agent/SWE-agent/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v1.1.0",
+    "name": "v1.1.0: 10s of thousands of training trajectories",
+    "published": "2025-05-22T16:11:39Z",
+    "url": "https://github.com/SWE-agent/SWE-agent/releases/tag/v1.1.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -17,11 +17,16 @@
   ],
   "deploy_type": "自托管服务 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-20T03:03:45Z",
+  "updated_at": "2026-10-20T06:29:36Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/humhub/humhub/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v1.19.0",
+    "name": "1.19.0",
+    "published": "2026-10-12T12:16:57Z",
+    "url": "https://github.com/humhub/humhub/releases/tag/v1.19.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

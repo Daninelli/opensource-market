@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/konvajs/konva/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "10.9.0",
+    "name": "10.9.0",
+    "published": "2026-10-15T00:15:32Z",
+    "url": "https://github.com/konvajs/konva/releases/tag/10.9.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

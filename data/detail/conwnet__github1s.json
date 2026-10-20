@@ -16,11 +16,16 @@
   ],
   "deploy_type": "前端源码",
   "platform": "github",
-  "updated_at": "2026-10-20T01:44:49Z",
+  "updated_at": "2026-10-20T06:29:26Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/conwnet/github1s/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v0.35.4",
+    "name": "0.35.4 (Oct 20, 2026)",
+    "published": "2026-10-20T06:29:26Z",
+    "url": "https://github.com/conwnet/github1s/releases/tag/v0.35.4"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

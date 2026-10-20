@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "4.0",
   "download_url": "https://codeload.github.com/openspug/spug/zip/refs/heads/4.0",
-  "release": null,
+  "release": {
+    "tag": "v4.1.1",
+    "name": "v4.1.1",
+    "published": "2026-10-12T02:22:52Z",
+    "url": "https://github.com/openspug/spug/releases/tag/v4.1.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

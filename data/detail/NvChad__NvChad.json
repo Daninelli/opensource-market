@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "v2.5",
   "download_url": "https://codeload.github.com/NvChad/NvChad/zip/refs/heads/v2.5",
-  "release": null,
+  "release": {
+    "tag": "v2.5",
+    "name": "v2.5 is released ",
+    "published": "2024-03-09T17:37:56Z",
+    "url": "https://github.com/NvChad/NvChad/releases/tag/v2.5"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

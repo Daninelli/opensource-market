@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/MonoGame/MonoGame/zip/refs/heads/develop",
-  "release": null,
+  "release": {
+    "tag": "v3.8.6",
+    "name": "MonoGame v3.8.6",
+    "published": "2026-10-07T14:16:03Z",
+    "url": "https://github.com/MonoGame/MonoGame/releases/tag/v3.8.6"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

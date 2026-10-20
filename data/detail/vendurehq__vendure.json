@@ -20,7 +20,12 @@
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/vendurehq/vendure/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v3.8.0",
+    "name": "v3.8.0",
+    "published": "2026-10-12T13:49:35Z",
+    "url": "https://github.com/vendurehq/vendure/releases/tag/v3.8.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

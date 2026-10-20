@@ -16,11 +16,16 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T03:39:48Z",
+  "updated_at": "2026-10-20T08:09:55Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/dataelement/bisheng/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v2.6.0-fix2",
+    "name": "v2.6.0-fix2",
+    "published": "2026-08-11T09:18:35Z",
+    "url": "https://github.com/dataelement/bisheng/releases/tag/v2.6.0-fix2"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

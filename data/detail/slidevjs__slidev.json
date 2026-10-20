@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/slidevjs/slidev/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v53.0.0",
+    "name": "v53.0.0",
+    "published": "2026-09-16T04:21:11Z",
+    "url": "https://github.com/slidevjs/slidev/releases/tag/v53.0.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/amplication/amplication/zip/refs/heads/master",
-  "release": null,
+  "release": {
+    "tag": "v3.15.0",
+    "name": "v3.15.0",
+    "published": "2026-04-02T16:56:32Z",
+    "url": "https://github.com/amplication/amplication/releases/tag/v3.15.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/tailscale/tailscale/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v1.104.1",
+    "name": "v1.104.1",
+    "published": "2026-10-07T22:09:57Z",
+    "url": "https://github.com/tailscale/tailscale/releases/tag/v1.104.1"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,
