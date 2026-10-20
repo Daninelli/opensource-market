@@ -60,8 +60,8 @@ const DRY_RUN = process.argv.includes("--dry-run");
 const GAP_MS = 120;
 /** GraphQL 每批仓库数：实测 110 可用、120 开始报 Resource limits，取 100 */
 const GQL_BATCH = 100;
-/** 单批 GraphQL 失败后的重试次数（GitHub 偶发 502） */
-const GQL_ATTEMPTS = 3;
+/** 单批 GraphQL 失败后的重试次数（GitHub 偶发 502，实测失败率不低） */
+const GQL_ATTEMPTS = 4;
 /** 批次之间的间隔，别把 GitHub 打得太急 */
 const GQL_GAP_MS = 600;
 /** REST 回落时遇到限流，最多愿意等多久（毫秒） */
@@ -440,14 +440,14 @@ if (useApi) {
     /* ---- 第二轮：REST 回落（改名 / 已删除 / 批量失败） ---- */
     if (restQueue.length) {
         console.log(`\nREST 回落：${restQueue.length} 个（改名、已删除或批次失败）`);
-        for (const project of restQueue) {
-            await fetchOneViaRest(project);
-            if (rateLimited > 0 && restQueue.length > 20) {
-                // 配额都耗尽了，剩下的继续抓也只会一路 403，直接停下更好排查
-                console.error("限流已触发，停止 REST 回落，剩余仓库留待下次运行");
+        for (let i = 0; i < restQueue.length; i += 1) {
+            await fetchOneViaRest(restQueue[i]);
+            if (rateLimited > 0 && restQueue.length - i > 20) {
+                // 已经等到配额重置都还失败，剩下的继续抓也只会一路 403，停下来等下次运行
+                console.error(`限流已触发，停止 REST 回落（还剩 ${restQueue.length - i} 个），留待下次运行`);
                 break;
             }
-            await sleep(GAP_MS);
+            if (i < restQueue.length - 1) await sleep(GAP_MS);
         }
     }
 } else {
