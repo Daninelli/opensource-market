@@ -15,7 +15,7 @@
   ],
   "deploy_type": "镜像 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-19T17:18:45Z",
+  "updated_at": "2026-10-19T19:31:35Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/siderolabs/talos/zip/refs/heads/main",

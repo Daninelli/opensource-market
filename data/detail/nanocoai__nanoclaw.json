@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T18:24:54Z",
+  "updated_at": "2026-10-19T22:49:02Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/nanocoai/nanoclaw/zip/refs/heads/main",

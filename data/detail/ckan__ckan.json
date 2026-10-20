@@ -17,7 +17,7 @@
   ],
   "deploy_type": "传统部署 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-19T10:28:20Z",
+  "updated_at": "2026-10-20T02:15:35Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/ckan/ckan/zip/refs/heads/master",

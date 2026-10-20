@@ -18,7 +18,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-16T20:44:46Z",
+  "updated_at": "2026-10-19T20:49:53Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/cBioPortal/cbioportal/zip/refs/heads/master",

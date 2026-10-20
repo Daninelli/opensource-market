@@ -16,7 +16,7 @@
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-19T18:32:43Z",
+  "updated_at": "2026-10-20T03:18:54Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/google/gvisor/zip/refs/heads/master",

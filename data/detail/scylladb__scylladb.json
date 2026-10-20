@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-19T18:08:49Z",
+  "updated_at": "2026-10-19T23:49:05Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/scylladb/scylladb/zip/refs/heads/master",

@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-10-19T09:11:52Z",
+  "updated_at": "2026-10-19T19:03:57Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/PrivateBin/PrivateBin/zip/refs/heads/master",

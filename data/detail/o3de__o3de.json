@@ -16,7 +16,7 @@
   ],
   "deploy_type": "源码 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-19T15:47:02Z",
+  "updated_at": "2026-10-19T20:02:59Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "development",
   "download_url": "https://codeload.github.com/o3de/o3de/zip/refs/heads/development",

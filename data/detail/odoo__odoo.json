@@ -17,7 +17,7 @@
   ],
   "deploy_type": "传统部署 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-19T18:29:07Z",
+  "updated_at": "2026-10-20T04:00:38Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "20.0",
   "download_url": "https://codeload.github.com/odoo/odoo/zip/refs/heads/20.0",

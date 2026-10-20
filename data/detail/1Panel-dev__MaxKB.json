@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-19T11:46:05Z",
+  "updated_at": "2026-10-20T03:40:28Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "v2",
   "download_url": "https://codeload.github.com/1Panel-dev/MaxKB/zip/refs/heads/v2",

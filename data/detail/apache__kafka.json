@@ -17,7 +17,7 @@
   ],
   "deploy_type": "自托管服务 / Docker 部署 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-19T18:17:26Z",
+  "updated_at": "2026-10-19T23:14:12Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "trunk",
   "download_url": "https://codeload.github.com/apache/kafka/zip/refs/heads/trunk",

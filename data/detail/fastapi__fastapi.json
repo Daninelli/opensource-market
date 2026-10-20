@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-19T17:21:45Z",
+  "updated_at": "2026-10-19T22:39:29Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/fastapi/fastapi/zip/refs/heads/master",

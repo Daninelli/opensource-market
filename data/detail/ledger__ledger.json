@@ -17,7 +17,7 @@
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-09-22T19:34:25Z",
+  "updated_at": "2026-10-19T23:32:01Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ledger/ledger/zip/refs/heads/main",

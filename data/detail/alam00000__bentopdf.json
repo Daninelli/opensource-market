@@ -17,7 +17,7 @@
   ],
   "deploy_type": "前端源码 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T12:47:09Z",
+  "updated_at": "2026-10-19T21:52:02Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/alam00000/bentopdf/zip/refs/heads/main",

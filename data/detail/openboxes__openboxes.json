@@ -17,7 +17,7 @@
   ],
   "deploy_type": "传统部署 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-19T15:23:56Z",
+  "updated_at": "2026-10-19T20:24:07Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/openboxes/openboxes/zip/refs/heads/develop",

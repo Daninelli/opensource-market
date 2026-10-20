@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T18:12:34Z",
+  "updated_at": "2026-10-20T00:09:57Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "release",
   "download_url": "https://codeload.github.com/appsmithorg/appsmith/zip/refs/heads/release",

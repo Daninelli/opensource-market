@@ -16,7 +16,7 @@
   ],
   "deploy_type": "客户端（编辑器 + 导出）",
   "platform": "github",
-  "updated_at": "2026-10-19T16:50:58Z",
+  "updated_at": "2026-10-19T20:57:28Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/godotengine/godot/zip/refs/heads/master",

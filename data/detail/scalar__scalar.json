@@ -16,7 +16,7 @@
   ],
   "deploy_type": "前端源码 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T18:09:20Z",
+  "updated_at": "2026-10-20T02:51:06Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/scalar/scalar/zip/refs/heads/main",

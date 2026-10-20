@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-19T15:40:16Z",
+  "updated_at": "2026-10-20T03:48:02Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/rabbitmq/rabbitmq-server/zip/refs/heads/main",

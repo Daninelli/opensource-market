@@ -17,7 +17,7 @@
   ],
   "deploy_type": "自托管服务 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T09:43:43Z",
+  "updated_at": "2026-10-20T01:19:19Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/apache/rocketmq/zip/refs/heads/develop",

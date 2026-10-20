@@ -17,7 +17,7 @@
   ],
   "deploy_type": "源码 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-19T05:45:45Z",
+  "updated_at": "2026-10-20T03:44:42Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/DeusData/codebase-memory-mcp/zip/refs/heads/main",

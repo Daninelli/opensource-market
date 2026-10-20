@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 传统部署",
   "platform": "github",
-  "updated_at": "2026-10-19T18:07:41Z",
+  "updated_at": "2026-10-20T03:07:44Z",
   "added_at": "2026-10-19T14:45:00.000Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/gitlabhq/gitlabhq/zip/refs/heads/master",
