@@ -16,7 +16,7 @@
     /**
      * 移动端（单列）每个分类默认展示几张卡片。
      * 桌面是「两行网格」，移动端只有一列，两行就是两张。
-     * 移动端的「更多」是一条通栏按钮，不占网格格子。
+     * 两种布局下「查看全部」都是网格末尾的一条通栏行，不占卡片格。
      */
     var MOBILE_CARDS_PER_SECTION = 2;
 
@@ -757,20 +757,19 @@
         renderGridCards(grid, pending.projects, pending.primary, section);
     }
 
-    /** 渲染网格：默认只展示两行，其余收进「更多」入口 */
+    /** 渲染网格：默认只展示两行，其余收进网格末尾的「查看全部」通栏行 */
     function renderGridCards(grid, projects, primary, section) {
         var cols = gridColumns();
-        // 单列（移动端）时，卡片本身就有 277px 高，
-        // 再放一个和卡片同高的「更多」格子太浪费，改成一条通栏按钮。
+        // 单列（移动端）时卡片很高，两行只放两张
         var singleColumn = cols === 1;
 
         var limit = singleColumn ? MOBILE_CARDS_PER_SECTION : cols * 2;
         // 二级筛选不展开，仍然保持折叠；搜索时展开全部匹配
         var collapsed = !state.query && projects.length > limit;
 
-        // 桌面的「更多」占网格最后一格，所以卡片要少放一张；移动端不占格
-        var visibleCount = singleColumn ? limit : limit - 1;
-        var visible = collapsed ? projects.slice(0, visibleCount) : projects;
+        // 「查看全部」是网格末尾的一条通栏行（grid-column: 1 / -1），不占卡片格，
+        // 所以两行格子可以全部放真实项目。
+        var visible = collapsed ? projects.slice(0, limit) : projects;
         visible.forEach(function (project) {
             grid.appendChild(buildCard(project, primary));
         });
@@ -780,14 +779,12 @@
         var rest = projects.length - visible.length;
         var more = document.createElement("button");
         more.type = "button";
-        more.className = singleColumn ? "more-row" : "more-card";
-        more.innerHTML = singleColumn
-            ? '<span class="more-row-label">查看全部 ' + projects.length + " 个</span>" +
-              '<span class="more-row-rest">还有 ' + rest + " 个</span>" +
-              '<span class="more-row-caret">' + iconMarkup("caret") + "</span>"
-            : '<span class="more-icon">' + iconMarkup("grid-more") + "</span>" +
-              '<span class="more-count">+' + rest + "</span>" +
-              '<span class="more-label">查看全部 ' + projects.length + " 个</span>";
+        more.className = "more-row";
+        // 「还有 N 个」只在剩余较多时出现，避免「还有 2 个」这种废话
+        more.innerHTML =
+            '<span class="more-row-label">查看全部 ' + projects.length + " 个</span>" +
+            (rest > 3 ? '<span class="more-row-rest">还有 ' + rest + " 个</span>" : "") +
+            '<span class="more-row-caret">' + iconMarkup("caret") + "</span>";
         more.setAttribute("aria-label", "展开" + primary.label + "全部 " + projects.length + " 个项目");
         more.addEventListener("click", function () {
             grid.removeChild(more);
@@ -902,6 +899,7 @@
         section.appendChild(head);
 
         /* 二级分类筛选行 */
+        /* 计数一律按「该一级分类的基数」算，不跟随当前二级筛选变化 */
         var subCounts = {};
         group.all.forEach(function (project) {
             var sub = resolveSubcategory(project, primary);
@@ -915,7 +913,7 @@
             chips.className = "subchips";
 
             chips.appendChild(
-                buildSubChip(primary.slug, "all", "全部", group.visible.length, activeSub === "all")
+                buildSubChip(primary.slug, "all", "全部", group.all.length, activeSub === "all")
             );
             primary.children.forEach(function (child) {
                 if (!subCounts[child.slug]) return;

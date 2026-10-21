@@ -318,61 +318,6 @@
         }
         .btn-reset:hover { border-color: var(--brand); color: var(--brand); }
 
-        /* 「更多」卡片：占一个格子，点开展开该分区全部项目 */
-        .more-card {
-            position: relative;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            gap: 10px;
-            min-height: 200px;
-            padding: 24px 20px;
-            border: 1px dashed var(--border-strong);
-            border-radius: 14px;
-            background: linear-gradient(180deg, #fbfcfd, #f4f6f8);
-            color: var(--muted);
-            font: inherit;
-            cursor: pointer;
-            transition: border-color .18s, background .18s, color .18s, transform .18s, box-shadow .18s;
-        }
-        .more-card:hover {
-            border-color: var(--brand);
-            background: #f0fdf4;
-            color: var(--brand);
-            transform: translateY(-2px);
-            box-shadow: 0 10px 24px rgba(17, 24, 39, .08);
-        }
-        .more-card .more-icon {
-            display: grid;
-            place-items: center;
-            width: 44px;
-            height: 44px;
-            border-radius: 12px;
-            background: #fff;
-            border: 1px solid var(--border);
-            color: var(--muted);
-            transition: color .18s, border-color .18s, transform .18s;
-        }
-        .more-card .more-icon .icon { font-size: 22px; }
-        .more-card:hover .more-icon {
-            color: var(--brand);
-            border-color: rgba(21, 128, 61, .35);
-            transform: scale(1.06);
-        }
-        .more-card .more-count {
-            font-size: 1.35rem;
-            font-weight: 600;
-            color: var(--ink);
-            line-height: 1.1;
-            font-variant-numeric: tabular-nums;
-        }
-        .more-card:hover .more-count { color: var(--brand); }
-        .more-card .more-label {
-            font-size: 12.5px;
-            line-height: 1.4;
-        }
-
         .card {
             background: var(--surface);
             border: 1px solid var(--border);
@@ -2160,8 +2105,8 @@
             .pin-panel-note { font-size: 13px; }
         }
 
-        /* ------------------------------ 移动端「查看更多」通栏按钮 ------------------------------ */
-        /* 单列布局下，「更多」不占和卡片同高的格子，改成一条通栏按钮 */
+        /* ------------------------------ 「查看全部」通栏行 ------------------------------ */
+        /* 桌面与移动端通用：占满整行、不占卡片格，作为分区内容的收尾入口 */
         .more-row {
             grid-column: 1 / -1;
             display: flex;
