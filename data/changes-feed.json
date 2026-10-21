@@ -1,10 +1,20 @@
 {
   "note": "由 tools/build-changes-feed.mjs 自动生成；只含变动事件，不含状态快照",
-  "generated_at": "2026-10-20T08:33:57.344Z",
+  "generated_at": "2026-10-21T08:35:30.652Z",
   "monitored": 1699,
-  "since": "2026-10-20",
-  "total": 3,
+  "since": "2026-10-21",
+  "total": 4,
   "items": [
+    {
+      "date": "2026-10-21",
+      "repo": "vercel/commerce",
+      "name": "Next.js Commerce",
+      "category": "电商",
+      "category_slug": "ecommerce",
+      "type": "archived",
+      "from": null,
+      "to": null
+    },
     {
       "date": "2026-10-19",
       "repo": "maybe-finance/maybe",

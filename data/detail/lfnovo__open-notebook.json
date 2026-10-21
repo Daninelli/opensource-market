@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-18T21:45:29Z",
+  "updated_at": "2026-10-20T10:52:09Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/lfnovo/open-notebook/zip/refs/heads/main",

@@ -16,7 +16,7 @@
   ],
   "deploy_type": "二进制",
   "platform": "github",
-  "updated_at": "2026-10-20T05:24:35Z",
+  "updated_at": "2026-10-21T08:32:46Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/neovim/neovim/zip/refs/heads/master",

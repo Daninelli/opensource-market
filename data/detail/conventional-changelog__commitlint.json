@@ -16,7 +16,7 @@
   ],
   "deploy_type": "命令行 / 依赖库",
   "platform": "github",
-  "updated_at": "2026-10-19T09:08:02Z",
+  "updated_at": "2026-10-21T02:35:27Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/conventional-changelog/commitlint/zip/refs/heads/master",

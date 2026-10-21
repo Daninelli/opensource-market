@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T08:25:18Z",
+  "updated_at": "2026-10-21T08:10:54Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Infisical/infisical/zip/refs/heads/main",

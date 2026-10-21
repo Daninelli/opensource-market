@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T05:07:33Z",
+  "updated_at": "2026-10-21T08:27:25Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/opensandbox-group/OpenSandbox/zip/refs/heads/main",

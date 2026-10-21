@@ -17,7 +17,7 @@
   ],
   "deploy_type": "桌面应用 / 客户端",
   "platform": "github",
-  "updated_at": "2026-10-20T07:13:47Z",
+  "updated_at": "2026-10-20T09:49:01Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/rotki/rotki/zip/refs/heads/develop",

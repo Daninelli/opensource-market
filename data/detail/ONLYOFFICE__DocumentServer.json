@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-16T09:39:04Z",
+  "updated_at": "2026-10-21T06:53:00Z",
   "added_at": "2026-10-19T14:45:00.000Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/ONLYOFFICE/DocumentServer/zip/refs/heads/master",

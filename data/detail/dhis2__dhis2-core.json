@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker / 传统部署",
   "platform": "github",
-  "updated_at": "2026-10-20T08:29:59Z",
+  "updated_at": "2026-10-21T08:07:36Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/dhis2/dhis2-core/zip/refs/heads/master",

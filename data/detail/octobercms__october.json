@@ -16,7 +16,7 @@
   ],
   "deploy_type": "源码 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-16T22:26:52Z",
+  "updated_at": "2026-10-20T20:25:23Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "4.x",
   "download_url": "https://codeload.github.com/octobercms/october/zip/refs/heads/4.x",

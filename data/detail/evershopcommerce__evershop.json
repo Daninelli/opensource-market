@@ -18,7 +18,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T14:42:32Z",
+  "updated_at": "2026-10-21T04:30:02Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/evershopcommerce/evershop/zip/refs/heads/dev",

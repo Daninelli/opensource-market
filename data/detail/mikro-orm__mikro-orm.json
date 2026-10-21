@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-19T05:04:01Z",
+  "updated_at": "2026-10-21T01:44:17Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mikro-orm/mikro-orm/zip/refs/heads/master",

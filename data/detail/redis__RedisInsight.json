@@ -16,7 +16,7 @@
   ],
   "deploy_type": "客户端 / 桌面应用",
   "platform": "github",
-  "updated_at": "2026-10-19T23:10:24Z",
+  "updated_at": "2026-10-21T03:34:20Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/redis/RedisInsight/zip/refs/heads/main",

@@ -15,7 +15,7 @@
   ],
   "deploy_type": "源码 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-20T07:43:37Z",
+  "updated_at": "2026-10-21T08:15:36Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/agentscope-ai/QwenPaw/zip/refs/heads/main",

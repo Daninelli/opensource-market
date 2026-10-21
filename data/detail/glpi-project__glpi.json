@@ -16,7 +16,7 @@
   ],
   "deploy_type": "传统部署 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-20T08:08:03Z",
+  "updated_at": "2026-10-21T07:09:10Z",
   "added_at": "2026-10-19T14:45:00.000Z",
   "default_branch": "12.0/bugfixes",
   "download_url": "https://codeload.github.com/glpi-project/glpi/zip/refs/heads/12.0%2Fbugfixes",

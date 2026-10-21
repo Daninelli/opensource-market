@@ -17,7 +17,7 @@
   ],
   "deploy_type": "前端源码",
   "platform": "github",
-  "updated_at": "2026-10-20T06:57:33Z",
+  "updated_at": "2026-10-21T06:55:14Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/vuetifyjs/vuetify/zip/refs/heads/master",

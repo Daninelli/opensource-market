@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-20T08:22:13Z",
+  "updated_at": "2026-10-21T08:32:51Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "devel",
   "download_url": "https://codeload.github.com/arangodb/arangodb/zip/refs/heads/devel",

@@ -16,7 +16,7 @@
   ],
   "deploy_type": "客户端 / 桌面应用",
   "platform": "github",
-  "updated_at": "2026-10-20T07:13:38Z",
+  "updated_at": "2026-10-21T08:33:48Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/mullvad/mullvadvpn-app/zip/refs/heads/main",

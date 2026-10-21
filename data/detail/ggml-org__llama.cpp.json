@@ -16,7 +16,7 @@
   ],
   "deploy_type": "源码 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-20T08:06:54Z",
+  "updated_at": "2026-10-21T08:32:35Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/ggml-org/llama.cpp/zip/refs/heads/master",

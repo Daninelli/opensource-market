@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-10-15T10:51:18Z",
+  "updated_at": "2026-10-21T08:34:12Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/apache/answer/zip/refs/heads/main",

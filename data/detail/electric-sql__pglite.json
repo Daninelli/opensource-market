@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-19T15:44:33Z",
+  "updated_at": "2026-10-21T08:28:51Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/electric-sql/pglite/zip/refs/heads/main",

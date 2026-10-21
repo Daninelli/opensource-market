@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T08:33:12Z",
+  "updated_at": "2026-10-21T07:50:48Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/pinpoint-apm/pinpoint/zip/refs/heads/master",

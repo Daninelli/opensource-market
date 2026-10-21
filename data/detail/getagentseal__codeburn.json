@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 前端源码",
   "platform": "github",
-  "updated_at": "2026-10-17T15:32:55Z",
+  "updated_at": "2026-10-20T19:32:50Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/getagentseal/codeburn/zip/refs/heads/main",
