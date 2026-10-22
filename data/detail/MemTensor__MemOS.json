@@ -15,7 +15,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-20T12:32:29Z",
+  "updated_at": "2026-10-21T13:26:48Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/MemTensor/MemOS/zip/refs/heads/main",

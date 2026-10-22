@@ -17,7 +17,7 @@
   ],
   "deploy_type": "自托管服务 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-16T10:29:11Z",
+  "updated_at": "2026-10-21T11:44:20Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "2.2",
   "download_url": "https://codeload.github.com/krayin/laravel-crm/zip/refs/heads/2.2",

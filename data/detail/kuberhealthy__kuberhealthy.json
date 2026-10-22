@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-16T11:16:42Z",
+  "updated_at": "2026-10-21T16:01:35Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/kuberhealthy/kuberhealthy/zip/refs/heads/main",

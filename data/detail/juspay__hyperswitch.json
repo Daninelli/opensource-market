@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-21T08:20:47Z",
+  "updated_at": "2026-10-22T08:16:10Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/juspay/hyperswitch/zip/refs/heads/main",

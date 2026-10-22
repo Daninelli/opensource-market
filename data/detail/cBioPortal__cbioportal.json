@@ -7,7 +7,7 @@
   "category_slug": "medical",
   "subcategory": "医学影像",
   "subcategory_slug": "imaging",
-  "license": "AGPL-3.0",
+  "license": "Apache-2.0",
   "license_category": "open",
   "archived": false,
   "tech_stack": [
@@ -18,7 +18,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-20T21:23:46Z",
+  "updated_at": "2026-10-21T16:29:56Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/cBioPortal/cbioportal/zip/refs/heads/master",
@@ -34,5 +34,13 @@
   "pin_note": null,
   "submitted_by": null,
   "gitee": null,
-  "changes": []
+  "changes": [
+    {
+      "date": "2026-10-22",
+      "repo": "cBioPortal/cbioportal",
+      "type": "license",
+      "from": "AGPL-3.0",
+      "to": "Apache-2.0"
+    }
+  ]
 }

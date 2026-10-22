@@ -15,7 +15,7 @@
   ],
   "deploy_type": "二进制 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-21T02:29:01Z",
+  "updated_at": "2026-10-22T02:20:09Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/open-telemetry/opentelemetry-collector/zip/refs/heads/main",

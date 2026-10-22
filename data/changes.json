@@ -1,7 +1,14 @@
 {
   "note": "由 tools/track-changes.mjs 自动维护；只追加变动记录，不重新计算历史",
-  "updated_at": "2026-10-21T08:35:30.572Z",
+  "updated_at": "2026-10-22T08:37:39.922Z",
   "events": [
+    {
+      "date": "2026-10-22",
+      "repo": "cBioPortal/cbioportal",
+      "type": "license",
+      "from": "AGPL-3.0",
+      "to": "Apache-2.0"
+    },
     {
       "date": "2026-10-21",
       "repo": "vercel/commerce",
@@ -361,7 +368,7 @@
       "archived": false
     },
     "cBioPortal/cbioportal": {
-      "license": "AGPL-3.0",
+      "license": "Apache-2.0",
       "pinned": false,
       "pin_label": null,
       "archived": false

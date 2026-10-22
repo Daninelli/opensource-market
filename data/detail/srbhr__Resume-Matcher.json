@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-17T04:54:13Z",
+  "updated_at": "2026-10-21T20:38:32Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/srbhr/Resume-Matcher/zip/refs/heads/main",

@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 依赖库",
   "platform": "github",
-  "updated_at": "2026-10-21T06:03:03Z",
+  "updated_at": "2026-10-22T01:02:02Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/sphinx-doc/sphinx/zip/refs/heads/master",

@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T09:46:15Z",
+  "updated_at": "2026-10-22T07:01:17Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/TandoorRecipes/recipes/zip/refs/heads/develop",

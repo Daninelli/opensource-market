@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-21T07:17:03Z",
+  "updated_at": "2026-10-22T08:16:49Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/loft-sh/vcluster/zip/refs/heads/main",

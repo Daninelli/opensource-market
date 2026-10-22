@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-21T08:34:04Z",
+  "updated_at": "2026-10-22T08:32:30Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/mastra-ai/mastra/zip/refs/heads/main",

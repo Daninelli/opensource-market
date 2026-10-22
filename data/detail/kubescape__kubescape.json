@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-21T06:38:01Z",
+  "updated_at": "2026-10-22T06:18:56Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/kubescape/kubescape/zip/refs/heads/master",

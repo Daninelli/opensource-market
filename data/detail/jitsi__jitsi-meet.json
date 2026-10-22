@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-21T06:57:02Z",
+  "updated_at": "2026-10-21T23:02:41Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/jitsi/jitsi-meet/zip/refs/heads/master",

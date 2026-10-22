@@ -15,7 +15,7 @@
   ],
   "deploy_type": "前端源码 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-20T19:52:50Z",
+  "updated_at": "2026-10-22T07:59:03Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ahmedkhaleel2004/gitdiagram/zip/refs/heads/main",

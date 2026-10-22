@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-20T10:14:47Z",
+  "updated_at": "2026-10-21T12:26:28Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/navidrome/navidrome/zip/refs/heads/master",

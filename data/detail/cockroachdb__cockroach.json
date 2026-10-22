@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 二进制 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-15T16:42:00Z",
+  "updated_at": "2026-10-21T21:32:37Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/cockroachdb/cockroach/zip/refs/heads/master",

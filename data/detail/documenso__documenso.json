@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-21T08:10:31Z",
+  "updated_at": "2026-10-22T08:27:54Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/documenso/documenso/zip/refs/heads/main",

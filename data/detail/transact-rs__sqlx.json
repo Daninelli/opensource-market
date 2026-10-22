@@ -15,7 +15,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-21T00:49:19Z",
+  "updated_at": "2026-10-21T22:33:29Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/transact-rs/sqlx/zip/refs/heads/main",

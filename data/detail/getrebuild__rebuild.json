@@ -17,7 +17,7 @@
   ],
   "deploy_type": "源码 / 传统部署",
   "platform": "github",
-  "updated_at": "2026-10-21T06:29:37Z",
+  "updated_at": "2026-10-22T07:38:33Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/getrebuild/rebuild/zip/refs/heads/master",

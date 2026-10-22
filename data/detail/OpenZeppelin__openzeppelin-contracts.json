@@ -15,7 +15,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-21T08:16:43Z",
+  "updated_at": "2026-10-21T21:55:31Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/OpenZeppelin/openzeppelin-contracts/zip/refs/heads/master",

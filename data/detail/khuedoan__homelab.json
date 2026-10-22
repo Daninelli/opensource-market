@@ -16,7 +16,7 @@
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-20T14:37:29Z",
+  "updated_at": "2026-10-22T06:34:30Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/khuedoan/homelab/zip/refs/heads/master",
