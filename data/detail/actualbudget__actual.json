@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker / 桌面端",
   "platform": "github",
-  "updated_at": "2026-10-19T21:45:47Z",
+  "updated_at": "2026-10-21T23:33:10Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/actualbudget/actual/zip/refs/heads/master",

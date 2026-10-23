@@ -17,7 +17,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-19T12:49:26Z",
+  "updated_at": "2026-10-23T07:59:28Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/puppeteer/puppeteer/zip/refs/heads/main",

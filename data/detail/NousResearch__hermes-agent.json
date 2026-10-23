@@ -17,7 +17,7 @@
   ],
   "deploy_type": "源码",
   "platform": "github",
-  "updated_at": "2026-10-20T08:31:57Z",
+  "updated_at": "2026-10-23T08:28:18Z",
   "added_at": "2026-10-18T09:50:47.976Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/NousResearch/hermes-agent/zip/refs/heads/main",

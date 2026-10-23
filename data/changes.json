@@ -1,7 +1,19 @@
 {
   "note": "由 tools/track-changes.mjs 自动维护；只追加变动记录，不重新计算历史",
-  "updated_at": "2026-10-19T18:20:02.653Z",
+  "updated_at": "2026-10-23T08:34:07.716Z",
   "events": [
+    {
+      "date": "2026-10-22",
+      "repo": "cBioPortal/cbioportal",
+      "type": "license",
+      "from": "AGPL-3.0",
+      "to": "Apache-2.0"
+    },
+    {
+      "date": "2026-10-21",
+      "repo": "vercel/commerce",
+      "type": "archived"
+    },
     {
       "date": "2026-10-19",
       "repo": "maybe-finance/maybe",
@@ -356,7 +368,7 @@
       "archived": false
     },
     "cBioPortal/cbioportal": {
-      "license": "AGPL-3.0",
+      "license": "Apache-2.0",
       "pinned": false,
       "pin_label": null,
       "archived": false
@@ -683,7 +695,7 @@
       "license": "MIT",
       "pinned": false,
       "pin_label": null,
-      "archived": false
+      "archived": true
     },
     "bagisto/bagisto": {
       "license": "MIT",
@@ -4298,7 +4310,7 @@
       "archived": false
     },
     "woocommerce/woocommerce": {
-      "license": "NOASSERTION",
+      "license": "GPL-2.0",
       "pinned": false,
       "pin_label": null,
       "archived": false
@@ -9194,7 +9206,7 @@
       "archived": false
     },
     "teamhanko/hanko": {
-      "license": "NOASSERTION",
+      "license": "AGPL-3.0",
       "pinned": false,
       "pin_label": null,
       "archived": false

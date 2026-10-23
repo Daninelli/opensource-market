@@ -17,7 +17,7 @@
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-17T11:57:57Z",
+  "updated_at": "2026-10-20T19:18:09Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/sharkdp/bat/zip/refs/heads/master",

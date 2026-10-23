@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-20T08:20:10Z",
+  "updated_at": "2026-10-22T17:13:00Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/gitroomhq/postiz-app/zip/refs/heads/main",

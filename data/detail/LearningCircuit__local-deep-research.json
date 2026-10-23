@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-20T05:09:43Z",
+  "updated_at": "2026-10-23T08:32:06Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/LearningCircuit/local-deep-research/zip/refs/heads/main",

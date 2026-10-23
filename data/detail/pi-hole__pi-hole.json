@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker / 树莓派镜像",
   "platform": "github",
-  "updated_at": "2026-10-19T20:00:24Z",
+  "updated_at": "2026-10-22T22:27:36Z",
   "added_at": "2026-10-18T00:20:44+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/pi-hole/pi-hole/zip/refs/heads/master",

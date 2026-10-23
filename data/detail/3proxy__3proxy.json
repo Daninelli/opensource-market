@@ -17,7 +17,7 @@
   ],
   "deploy_type": "二进制 / 传统部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-19T13:54:23Z",
+  "updated_at": "2026-10-22T15:36:00Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/3proxy/3proxy/zip/refs/heads/master",

@@ -18,7 +18,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-20T03:06:31Z",
+  "updated_at": "2026-10-23T08:18:35Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/zulip/zulip/zip/refs/heads/main",

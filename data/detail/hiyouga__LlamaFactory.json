@@ -16,7 +16,7 @@
   ],
   "deploy_type": "源码 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T18:17:27Z",
+  "updated_at": "2026-10-21T07:23:24Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/hiyouga/LlamaFactory/zip/refs/heads/main",

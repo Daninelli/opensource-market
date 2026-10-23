@@ -17,7 +17,7 @@
   ],
   "deploy_type": "二进制 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-19T09:31:55Z",
+  "updated_at": "2026-10-22T14:45:41Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/aquasecurity/trivy/zip/refs/heads/main",

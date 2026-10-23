@@ -17,7 +17,7 @@
   ],
   "deploy_type": "源码 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-19T06:08:07Z",
+  "updated_at": "2026-10-22T23:55:33Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/lsdefine/GenericAgent/zip/refs/heads/main",

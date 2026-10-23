@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-17T02:50:13Z",
+  "updated_at": "2026-10-21T04:25:29Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/hwdsl2/setup-ipsec-vpn/zip/refs/heads/master",

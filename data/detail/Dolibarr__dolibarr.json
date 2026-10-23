@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker / 传统部署",
   "platform": "github",
-  "updated_at": "2026-10-20T01:29:09Z",
+  "updated_at": "2026-10-23T08:29:31Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/Dolibarr/dolibarr/zip/refs/heads/develop",

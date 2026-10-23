@@ -15,7 +15,7 @@
   ],
   "deploy_type": "二进制 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-20T00:07:37Z",
+  "updated_at": "2026-10-23T06:49:52Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/dolthub/dolt/zip/refs/heads/main",

@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-19T08:00:49Z",
+  "updated_at": "2026-10-21T12:04:46Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/evilmartians/lefthook/zip/refs/heads/master",

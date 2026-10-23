@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-19T08:12:22Z",
+  "updated_at": "2026-10-23T08:30:09Z",
   "added_at": "2026-10-19T14:45:00.000Z",
   "default_branch": "dist",
   "download_url": "https://codeload.github.com/freescout-help-desk/freescout/zip/refs/heads/dist",

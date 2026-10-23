@@ -1,10 +1,30 @@
 {
   "note": "由 tools/build-changes-feed.mjs 自动生成；只含变动事件，不含状态快照",
-  "generated_at": "2026-10-20T08:33:57.344Z",
+  "generated_at": "2026-10-23T08:34:07.796Z",
   "monitored": 1699,
-  "since": "2026-10-20",
-  "total": 3,
+  "since": "2026-10-23",
+  "total": 5,
   "items": [
+    {
+      "date": "2026-10-22",
+      "repo": "cBioPortal/cbioportal",
+      "name": "cBioPortal",
+      "category": "医健",
+      "category_slug": "medical",
+      "type": "license",
+      "from": "AGPL-3.0",
+      "to": "Apache-2.0"
+    },
+    {
+      "date": "2026-10-21",
+      "repo": "vercel/commerce",
+      "name": "Next.js Commerce",
+      "category": "电商",
+      "category_slug": "ecommerce",
+      "type": "archived",
+      "from": null,
+      "to": null
+    },
     {
       "date": "2026-10-19",
       "repo": "maybe-finance/maybe",

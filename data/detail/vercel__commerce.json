@@ -9,7 +9,7 @@
   "subcategory_slug": "storefront",
   "license": "MIT",
   "license_category": "open",
-  "archived": false,
+  "archived": true,
   "tech_stack": [
     "Next.js",
     "TypeScript",
@@ -33,5 +33,11 @@
   "pin_note": null,
   "submitted_by": null,
   "gitee": null,
-  "changes": []
+  "changes": [
+    {
+      "date": "2026-10-21",
+      "repo": "vercel/commerce",
+      "type": "archived"
+    }
+  ]
 }

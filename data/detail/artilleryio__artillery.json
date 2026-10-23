@@ -16,7 +16,7 @@
   ],
   "deploy_type": "命令行 / 依赖库",
   "platform": "github",
-  "updated_at": "2026-10-19T13:35:32Z",
+  "updated_at": "2026-10-20T10:02:53Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/artilleryio/artillery/zip/refs/heads/main",

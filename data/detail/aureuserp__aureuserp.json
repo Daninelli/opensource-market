@@ -18,7 +18,7 @@
   ],
   "deploy_type": "Docker 部署 / 传统部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-19T13:14:14Z",
+  "updated_at": "2026-10-23T06:10:51Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/aureuserp/aureuserp/zip/refs/heads/master",

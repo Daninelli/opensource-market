@@ -16,7 +16,7 @@
   ],
   "deploy_type": "二进制 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-20T03:12:26Z",
+  "updated_at": "2026-10-22T12:15:59Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/elastic/logstash/zip/refs/heads/main",

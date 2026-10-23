@@ -17,7 +17,7 @@
   ],
   "deploy_type": "命令行 / 依赖库",
   "platform": "github",
-  "updated_at": "2026-10-20T08:27:43Z",
+  "updated_at": "2026-10-23T08:24:45Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/pulumi/pulumi/zip/refs/heads/master",

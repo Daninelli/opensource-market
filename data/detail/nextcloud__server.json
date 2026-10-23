@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker / 传统部署",
   "platform": "github",
-  "updated_at": "2026-10-20T08:33:08Z",
+  "updated_at": "2026-10-23T08:27:20Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/nextcloud/server/zip/refs/heads/master",

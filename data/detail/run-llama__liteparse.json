@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-19T22:02:43Z",
+  "updated_at": "2026-10-22T22:45:49Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/run-llama/liteparse/zip/refs/heads/main",

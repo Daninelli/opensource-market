@@ -16,7 +16,7 @@
   ],
   "deploy_type": "二进制 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-19T20:05:06Z",
+  "updated_at": "2026-10-23T08:23:33Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/gohugoio/hugo/zip/refs/heads/master",

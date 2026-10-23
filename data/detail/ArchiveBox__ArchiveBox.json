@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-20T08:31:29Z",
+  "updated_at": "2026-10-23T06:34:23Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/ArchiveBox/ArchiveBox/zip/refs/heads/dev",
