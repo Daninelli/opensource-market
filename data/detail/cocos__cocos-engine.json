@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库 / 客户端",
   "platform": "github",
-  "updated_at": "2026-10-08T07:08:45Z",
+  "updated_at": "2026-10-23T07:08:47Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "v3.8.9",
   "download_url": "https://codeload.github.com/cocos/cocos-engine/zip/refs/heads/v3.8.9",

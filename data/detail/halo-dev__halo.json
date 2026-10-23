@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-21T09:05:47Z",
+  "updated_at": "2026-10-23T08:25:56Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/halo-dev/halo/zip/refs/heads/main",

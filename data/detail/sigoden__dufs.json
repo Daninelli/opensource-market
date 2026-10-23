@@ -17,7 +17,7 @@
   ],
   "deploy_type": "命令行 / 二进制 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-22T00:53:14Z",
+  "updated_at": "2026-10-22T14:14:52Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/sigoden/dufs/zip/refs/heads/main",

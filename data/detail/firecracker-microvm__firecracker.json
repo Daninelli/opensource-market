@@ -17,7 +17,7 @@
   ],
   "deploy_type": "二进制 / 源码 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-21T15:01:16Z",
+  "updated_at": "2026-10-22T23:55:52Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/firecracker-microvm/firecracker/zip/refs/heads/main",

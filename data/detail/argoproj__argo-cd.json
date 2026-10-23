@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-22T08:27:44Z",
+  "updated_at": "2026-10-23T06:33:33Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/argoproj/argo-cd/zip/refs/heads/master",

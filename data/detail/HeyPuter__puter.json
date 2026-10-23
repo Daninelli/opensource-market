@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-22T07:47:48Z",
+  "updated_at": "2026-10-23T07:07:56Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/HeyPuter/puter/zip/refs/heads/main",

@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-18T03:41:38Z",
+  "updated_at": "2026-10-23T01:44:14Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/JoeanAmier/XHS-Downloader/zip/refs/heads/master",

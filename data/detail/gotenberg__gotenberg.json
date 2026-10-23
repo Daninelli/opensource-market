@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-16T02:53:13Z",
+  "updated_at": "2026-10-23T02:53:09Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/gotenberg/gotenberg/zip/refs/heads/main",

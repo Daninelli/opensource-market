@@ -15,7 +15,7 @@
   ],
   "deploy_type": "依赖库 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-22T07:55:38Z",
+  "updated_at": "2026-10-23T04:50:30Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/GitoxideLabs/gitoxide/zip/refs/heads/main",

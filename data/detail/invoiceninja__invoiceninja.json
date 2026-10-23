@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-21T22:46:24Z",
+  "updated_at": "2026-10-22T10:16:34Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "v5-stable",
   "download_url": "https://codeload.github.com/invoiceninja/invoiceninja/zip/refs/heads/v5-stable",

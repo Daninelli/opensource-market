@@ -1,6 +1,6 @@
 {
   "note": "由 tools/track-changes.mjs 自动维护；只追加变动记录，不重新计算历史",
-  "updated_at": "2026-10-22T08:37:39.922Z",
+  "updated_at": "2026-10-23T08:34:07.716Z",
   "events": [
     {
       "date": "2026-10-22",
@@ -9206,7 +9206,7 @@
       "archived": false
     },
     "teamhanko/hanko": {
-      "license": "NOASSERTION",
+      "license": "AGPL-3.0",
       "pinned": false,
       "pin_label": null,
       "archived": false

@@ -17,7 +17,7 @@
   ],
   "deploy_type": "依赖库 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-22T08:21:39Z",
+  "updated_at": "2026-10-23T08:23:20Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/huggingface/transformers/zip/refs/heads/main",

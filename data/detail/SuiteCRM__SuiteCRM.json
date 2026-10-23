@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker / 传统部署",
   "platform": "github",
-  "updated_at": "2026-10-20T16:03:54Z",
+  "updated_at": "2026-10-23T08:28:07Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "hotfix",
   "download_url": "https://codeload.github.com/SuiteCRM/SuiteCRM/zip/refs/heads/hotfix",

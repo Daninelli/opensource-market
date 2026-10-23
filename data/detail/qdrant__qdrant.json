@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-22T06:42:22Z",
+  "updated_at": "2026-10-23T07:51:28Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/qdrant/qdrant/zip/refs/heads/master",

@@ -18,7 +18,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-22T08:36:09Z",
+  "updated_at": "2026-10-23T08:24:55Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "dev-v3",
   "download_url": "https://codeload.github.com/dataease/dataease/zip/refs/heads/dev-v3",

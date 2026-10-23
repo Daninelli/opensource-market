@@ -16,7 +16,7 @@
   ],
   "deploy_type": "命令行 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-21T23:34:51Z",
+  "updated_at": "2026-10-22T22:29:31Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/linkerd/linkerd2/zip/refs/heads/main",

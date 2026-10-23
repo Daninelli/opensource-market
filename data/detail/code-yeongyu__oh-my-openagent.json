@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-22T08:23:21Z",
+  "updated_at": "2026-10-23T08:21:49Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/code-yeongyu/oh-my-openagent/zip/refs/heads/dev",

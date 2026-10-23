@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-22T08:21:41Z",
+  "updated_at": "2026-10-23T07:50:59Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/arc53/DocsGPT/zip/refs/heads/main",

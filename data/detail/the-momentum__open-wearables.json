@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-22T00:31:04Z",
+  "updated_at": "2026-10-23T00:52:39Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/the-momentum/open-wearables/zip/refs/heads/main",

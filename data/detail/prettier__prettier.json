@@ -17,7 +17,7 @@
   ],
   "deploy_type": "命令行 / 依赖库",
   "platform": "github",
-  "updated_at": "2026-10-22T08:09:04Z",
+  "updated_at": "2026-10-23T08:29:12Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/prettier/prettier/zip/refs/heads/main",

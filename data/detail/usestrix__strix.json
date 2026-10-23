@@ -17,7 +17,7 @@
   ],
   "deploy_type": "命令行 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-22T05:09:33Z",
+  "updated_at": "2026-10-23T03:49:19Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/usestrix/strix/zip/refs/heads/main",

@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-08-10T12:27:35Z",
+  "updated_at": "2026-10-22T09:17:23Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/ushahidi/platform/zip/refs/heads/develop",

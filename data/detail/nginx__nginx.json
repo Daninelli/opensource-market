@@ -17,7 +17,7 @@
   ],
   "deploy_type": "传统部署 / Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-21T14:30:55Z",
+  "updated_at": "2026-10-22T13:05:27Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/nginx/nginx/zip/refs/heads/master",

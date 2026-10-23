@@ -17,7 +17,7 @@
   ],
   "deploy_type": "依赖库 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-21T05:53:31Z",
+  "updated_at": "2026-10-22T17:56:34Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/modelscope/FunASR/zip/refs/heads/main",

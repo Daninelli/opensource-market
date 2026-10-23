@@ -18,7 +18,7 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-22T06:02:23Z",
+  "updated_at": "2026-10-23T07:14:35Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/nicotsx/zerobyte/zip/refs/heads/main",

@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-22T02:01:29Z",
+  "updated_at": "2026-10-22T17:08:15Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/wekan/wekan/zip/refs/heads/main",
