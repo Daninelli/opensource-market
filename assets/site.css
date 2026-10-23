@@ -1628,11 +1628,14 @@
         .star-delta .icon { font-size: 11px; }
         .star-delta.is-zero { color: var(--faint); background: #f3f4f6; }
 
-        .chart { width: 100%; height: 168px; display: block; overflow: visible; }
+        /* 曲线外层：宽度由它决定，SVG 按实际像素 1:1 画，日期刻度才不会被拉扁 */
+        .star-panel-chart { width: 100%; }
+        .chart { width: 100%; height: auto; display: block; overflow: visible; }
         .chart-axis {
             font-size: 10px;
             fill: var(--faint);
             font-family: inherit;
+            white-space: nowrap;
         }
         .chart-dot { fill: #16a34a; opacity: 0; transition: opacity .12s; }
         .chart-hit:hover .chart-dot { opacity: 1; }

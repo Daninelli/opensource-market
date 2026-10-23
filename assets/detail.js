@@ -122,14 +122,22 @@
     /**
      * 用原生 SVG 画折线 + 面积，不引任何图表库。
      * 点数不足 2 个时调用方不会走这里。
+     *
+     * 画布宽度取宿主容器的实际像素宽，viewBox 与像素 1:1，
+     * 这样日期刻度才是「按屏幕宽度」算的，也不会被 preserveAspectRatio 拉扁。
+     *
+     * @param {Array} series 曲线数据
+     * @param {HTMLElement} host 承载 SVG 的容器（必须已在文档中）
      */
-    function renderChart(series) {
-        var W = 720;
+    function renderChart(series, host) {
         var H = 168;
         var PAD_L = 46;
         var PAD_R = 14;
         var PAD_T = 14;
         var PAD_B = 26;
+
+        var W = Math.round(host.clientWidth || 720);
+        W = Math.max(240, Math.min(1100, W)); // 别让极端宽度把布局撑坏
 
         var points = series.filter(function (p) {
             return typeof p.stars === "number";
@@ -174,8 +182,38 @@
             '<text class="chart-axis" x="' + (PAD_L - 8) + '" y="' + (PAD_T + innerH) + '" text-anchor="end">' +
             formatCount(min) + "</text>";
 
-        // X 轴：首、中、尾三个日期
-        var xIdx = [0, Math.floor((points.length - 1) / 2), points.length - 1];
+        /**
+         * X 轴日期标签：按可用宽度决定标几个 —— 宽屏最多 7 个，窄屏收到 3 个。
+         *
+         * 之前写死首/中/尾 3 个，桌面宽屏上整条曲线只有 3 个刻度，
+         * 中间几天是哪天只能靠悬停。现在按可用宽度反推：
+         * 每 88px 一个刻度（「10-17」约 34px 宽 + 54px 呼吸间距）。
+         *   · 宽屏约 840px 可用 → 9 → 封顶 7 个
+         *   · 约 350px 可用      → 3 个
+         *   · 约 300px 可用      → 3 个（保底）
+         */
+        function xTickIndices(count) {
+            var tickW = 88;
+            var usable = W - PAD_L - PAD_R;
+            var ticks = Math.min(7, Math.max(3, Math.floor(usable / tickW)));
+            ticks = Math.min(ticks, count); // 数据点比 3 个还少时不能硬凑
+            if (ticks <= 1) return [count - 1];
+
+            // 均匀取样，首尾必留
+            var idx = [];
+            for (var i = 0; i < ticks; i += 1) {
+                idx.push(Math.round((i * (count - 1)) / (ticks - 1)));
+            }
+            // 去重（点数少、刻度密时会出现重复）
+            var seen = {};
+            return idx.filter(function (i) {
+                if (seen[i]) return false;
+                seen[i] = true;
+                return true;
+            });
+        }
+
+        var xIdx = xTickIndices(points.length);
         var xLabels = xIdx
             .map(function (i) {
                 var d = points[i].date || "";
@@ -199,8 +237,8 @@
             .join("");
 
         return (
-            '<svg class="chart" viewBox="0 0 ' + W + " " + H + '" preserveAspectRatio="none" role="img" ' +
-            'aria-label="Star 变化曲线">' +
+            '<svg class="chart" viewBox="0 0 ' + W + " " + H + '" width="' + W + '" height="' + H +
+            '" role="img" aria-label="Star 变化曲线">' +
             '<defs><linearGradient id="chart-fill" x1="0" y1="0" x2="0" y2="1">' +
             '<stop offset="0%" stop-color="#16a34a" stop-opacity=".18"/>' +
             '<stop offset="100%" stop-color="#16a34a" stop-opacity="0"/>' +
@@ -214,6 +252,38 @@
     }
 
     /** Star 区块：有曲线画曲线，数据不够就说明原因，绝不画假曲线 */
+    var chartResizeTimer = null;
+    var chartLastWidth = 0;
+
+    /**
+     * 把曲线真正画进容器。放在 root.innerHTML 赋值之后调用，
+     * 这样容器已有真实宽度，X 轴刻度数量才是按当前屏幕算的。
+     */
+    function paintChart(data) {
+        var host = document.querySelector(".star-panel-chart");
+        if (!host || !data.star) return;
+        host.innerHTML = renderChart(data.star.series || [], host);
+        chartLastWidth = host.clientWidth;
+    }
+
+    /**
+     * 窗口尺寸变化时重画曲线：X 轴刻度数量跟着面板宽度走。
+     * 只有宽度变化超过 40px 才重画，避免拖窗口时反复重建 DOM。
+     */
+    function bindChartResize(data) {
+        if (!document.querySelector(".star-panel-chart")) return;
+
+        window.addEventListener("resize", function () {
+            if (chartResizeTimer) clearTimeout(chartResizeTimer);
+            chartResizeTimer = setTimeout(function () {
+                var box = document.querySelector(".star-panel-chart");
+                if (!box) return;
+                if (Math.abs(box.clientWidth - chartLastWidth) < 40) return;
+                paintChart(data);
+            }, 150);
+        });
+    }
+
     function renderStarPanel(data) {
         var star = data.star || { series: [], delta7: null, delta30: null };
         var series = Array.isArray(star.series) ? star.series : [];
@@ -237,7 +307,8 @@
 
         var body;
         if (valid.length >= 2) {
-            body = renderChart(series);
+            // 空壳容器：图表要量宿主宽度才能定 X 轴刻度，必须等它进文档后再画
+            body = '<div class="star-panel-chart"></div>';
             // 点数不足时明确提示，避免 2 个点被误读成「持续增长」
             if (valid.length < 7) {
                 body +=
@@ -509,6 +580,10 @@
 
         root.innerHTML = html;
         document.title = data.name + " · 开源集市";
+
+        // 图表刻度是按面板像素宽算的，等 DOM 进文档后再画，之后跟随窗口重画
+        paintChart(data);
+        bindChartResize(data);
 
         // 顶部锚点
         var sentinel = document.createElement("div");
