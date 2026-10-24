@@ -17,7 +17,7 @@
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-22T15:59:33Z",
+  "updated_at": "2026-10-23T16:29:27Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/rtk-ai/rtk/zip/refs/heads/develop",

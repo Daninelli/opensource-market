@@ -18,7 +18,7 @@
   ],
   "deploy_type": "Docker 部署 / 传统部署",
   "platform": "github",
-  "updated_at": "2026-10-22T22:31:10Z",
+  "updated_at": "2026-10-23T17:57:46Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "v4.0.x-develop",
   "download_url": "https://codeload.github.com/BigBlueButton/bigbluebutton/zip/refs/heads/v4.0.x-develop",

@@ -17,7 +17,7 @@
   ],
   "deploy_type": "源码 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-23T08:31:28Z",
+  "updated_at": "2026-10-24T08:07:56Z",
   "added_at": "2026-10-18T09:50:47.976Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/openclaw/openclaw/zip/refs/heads/main",

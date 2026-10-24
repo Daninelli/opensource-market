@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-23T02:57:52Z",
+  "updated_at": "2026-10-23T09:05:43Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/eosphoros-ai/DB-GPT/zip/refs/heads/main",

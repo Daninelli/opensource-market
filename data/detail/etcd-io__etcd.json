@@ -17,7 +17,7 @@
   ],
   "deploy_type": "二进制 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-23T05:17:56Z",
+  "updated_at": "2026-10-23T20:28:27Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/etcd-io/etcd/zip/refs/heads/main",

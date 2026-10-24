@@ -15,7 +15,7 @@
   ],
   "deploy_type": "传统部署 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-21T19:27:19Z",
+  "updated_at": "2026-10-23T15:54:38Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/openhab/openhab-core/zip/refs/heads/main",

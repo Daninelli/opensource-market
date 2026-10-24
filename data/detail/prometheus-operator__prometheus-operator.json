@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-22T14:20:14Z",
+  "updated_at": "2026-10-23T10:05:48Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/prometheus-operator/prometheus-operator/zip/refs/heads/main",

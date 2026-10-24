@@ -15,7 +15,7 @@
   ],
   "deploy_type": "前端源码 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-23T08:00:34Z",
+  "updated_at": "2026-10-24T07:21:51Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/genspark-ai/genoffice/zip/refs/heads/main",

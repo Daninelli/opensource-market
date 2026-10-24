@@ -15,7 +15,7 @@
   ],
   "deploy_type": "源码 / 镜像",
   "platform": "github",
-  "updated_at": "2026-10-17T00:10:44Z",
+  "updated_at": "2026-10-23T10:55:45Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Atlas-OS/Atlas/zip/refs/heads/main",

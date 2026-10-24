@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-10-23T08:11:47Z",
+  "updated_at": "2026-10-23T21:31:02Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/goauthentik/authentik/zip/refs/heads/main",

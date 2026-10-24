@@ -17,7 +17,7 @@
   ],
   "deploy_type": "二进制 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-21T09:55:30Z",
+  "updated_at": "2026-10-23T12:25:02Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/projectdiscovery/cloudlist/zip/refs/heads/dev",

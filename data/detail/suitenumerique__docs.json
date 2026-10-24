@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-22T20:01:11Z",
+  "updated_at": "2026-10-24T08:07:33Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/suitenumerique/docs/zip/refs/heads/main",

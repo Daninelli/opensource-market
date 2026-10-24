@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-22T12:45:32Z",
+  "updated_at": "2026-10-23T15:23:10Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/liangliangyy/DjangoBlog/zip/refs/heads/master",

@@ -16,7 +16,7 @@
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-21T21:01:20Z",
+  "updated_at": "2026-10-23T21:46:48Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/instaloader/instaloader/zip/refs/heads/master",

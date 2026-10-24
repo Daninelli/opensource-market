@@ -15,7 +15,7 @@
   ],
   "deploy_type": "二进制",
   "platform": "github",
-  "updated_at": "2026-10-23T08:32:12Z",
+  "updated_at": "2026-10-24T07:45:14Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/seaweedfs/seaweedfs/zip/refs/heads/master",

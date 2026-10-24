@@ -16,7 +16,7 @@
   ],
   "deploy_type": "命令行 / 依赖库",
   "platform": "github",
-  "updated_at": "2026-10-23T08:15:53Z",
+  "updated_at": "2026-10-24T05:40:41Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/dbt-labs/dbt/zip/refs/heads/main",

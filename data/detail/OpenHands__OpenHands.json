@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-23T08:11:10Z",
+  "updated_at": "2026-10-24T08:05:00Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/OpenHands/OpenHands/zip/refs/heads/main",

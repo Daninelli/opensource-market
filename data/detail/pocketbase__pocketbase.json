@@ -15,7 +15,7 @@
   ],
   "deploy_type": "二进制",
   "platform": "github",
-  "updated_at": "2026-10-22T17:46:10Z",
+  "updated_at": "2026-10-23T12:26:56Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/pocketbase/pocketbase/zip/refs/heads/master",

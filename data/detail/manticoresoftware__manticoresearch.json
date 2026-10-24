@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-23T07:52:22Z",
+  "updated_at": "2026-10-24T05:36:15Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/manticoresoftware/manticoresearch/zip/refs/heads/main",

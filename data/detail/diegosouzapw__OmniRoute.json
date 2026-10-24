@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-23T04:09:16Z",
+  "updated_at": "2026-10-24T00:40:22Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "release/v3.8.53",
   "download_url": "https://codeload.github.com/diegosouzapw/OmniRoute/zip/refs/heads/release%2Fv3.8.53",

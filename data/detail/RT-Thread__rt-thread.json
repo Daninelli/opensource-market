@@ -18,7 +18,7 @@
   ],
   "deploy_type": "源码 / 依赖库",
   "platform": "github",
-  "updated_at": "2026-10-22T10:00:03Z",
+  "updated_at": "2026-10-23T09:09:35Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/RT-Thread/rt-thread/zip/refs/heads/master",

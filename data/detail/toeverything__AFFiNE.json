@@ -15,7 +15,7 @@
   ],
   "deploy_type": "客户端 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-23T00:20:48Z",
+  "updated_at": "2026-10-23T09:36:13Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "canary",
   "download_url": "https://codeload.github.com/toeverything/AFFiNE/zip/refs/heads/canary",

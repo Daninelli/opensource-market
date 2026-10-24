@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-23T01:37:37Z",
+  "updated_at": "2026-10-23T20:16:55Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/fosrl/pangolin/zip/refs/heads/main",
