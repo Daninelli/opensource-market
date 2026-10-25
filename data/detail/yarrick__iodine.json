@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-11T21:40:11Z",
+  "updated_at": "2026-10-25T08:23:08Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/yarrick/iodine/zip/refs/heads/master",

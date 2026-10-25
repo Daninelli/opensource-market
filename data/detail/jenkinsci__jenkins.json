@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 传统部署",
   "platform": "github",
-  "updated_at": "2026-10-24T03:38:59Z",
+  "updated_at": "2026-10-25T02:28:57Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/jenkinsci/jenkins/zip/refs/heads/master",

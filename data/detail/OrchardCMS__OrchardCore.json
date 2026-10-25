@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-24T01:36:55Z",
+  "updated_at": "2026-10-25T04:57:14Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/OrchardCMS/OrchardCore/zip/refs/heads/main",

@@ -1,7 +1,26 @@
 {
   "note": "由 tools/track-changes.mjs 自动维护；只追加变动记录，不重新计算历史",
-  "updated_at": "2026-10-23T08:34:07.716Z",
+  "updated_at": "2026-10-25T08:26:16.458Z",
   "events": [
+    {
+      "date": "2026-10-25",
+      "repo": "tt-a1i/archify",
+      "type": "license",
+      "from": "MIT",
+      "to": "Apache-2.0"
+    },
+    {
+      "date": "2026-10-25",
+      "repo": "nezhahq/nezha",
+      "type": "license",
+      "from": "Apache-2.0",
+      "to": "WTFPL"
+    },
+    {
+      "date": "2026-10-25",
+      "repo": "bepass-org/oblivion-desktop",
+      "type": "archived"
+    },
     {
       "date": "2026-10-22",
       "repo": "cBioPortal/cbioportal",
@@ -1976,7 +1995,7 @@
       "archived": false
     },
     "tt-a1i/archify": {
-      "license": "MIT",
+      "license": "Apache-2.0",
       "pinned": false,
       "pin_label": null,
       "archived": false
@@ -8588,7 +8607,7 @@
       "archived": false
     },
     "nezhahq/nezha": {
-      "license": "Apache-2.0",
+      "license": "WTFPL",
       "pinned": false,
       "pin_label": null,
       "archived": false
@@ -9581,7 +9600,7 @@
       "license": "NOASSERTION",
       "pinned": false,
       "pin_label": null,
-      "archived": false
+      "archived": true
     },
     "tinyauthapp/tinyauth": {
       "license": "AGPL-3.0",

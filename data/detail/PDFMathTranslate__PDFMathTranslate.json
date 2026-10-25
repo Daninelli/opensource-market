@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-24T07:54:00Z",
+  "updated_at": "2026-10-25T08:00:56Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/PDFMathTranslate/PDFMathTranslate/zip/refs/heads/main",

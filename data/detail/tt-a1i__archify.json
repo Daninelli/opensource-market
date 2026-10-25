@@ -7,7 +7,7 @@
   "category_slug": "tool",
   "subcategory": "开发工具",
   "subcategory_slug": "devtools",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "license_category": "open",
   "archived": false,
   "tech_stack": [
@@ -17,7 +17,7 @@
   ],
   "deploy_type": "源码",
   "platform": "github",
-  "updated_at": "2026-10-24T03:55:12Z",
+  "updated_at": "2026-10-25T08:24:48Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/tt-a1i/archify/zip/refs/heads/main",
@@ -39,5 +39,13 @@
   "pin_note": null,
   "submitted_by": null,
   "gitee": null,
-  "changes": []
+  "changes": [
+    {
+      "date": "2026-10-25",
+      "repo": "tt-a1i/archify",
+      "type": "license",
+      "from": "MIT",
+      "to": "Apache-2.0"
+    }
+  ]
 }

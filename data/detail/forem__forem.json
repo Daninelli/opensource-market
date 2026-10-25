@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-24T04:58:36Z",
+  "updated_at": "2026-10-25T07:42:01Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/forem/forem/zip/refs/heads/main",

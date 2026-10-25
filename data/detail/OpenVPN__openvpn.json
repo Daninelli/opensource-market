@@ -15,7 +15,7 @@
   ],
   "deploy_type": "二进制 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-24T04:58:53Z",
+  "updated_at": "2026-10-25T05:12:40Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/OpenVPN/openvpn/zip/refs/heads/master",

@@ -15,7 +15,7 @@
   ],
   "deploy_type": "依赖库 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-24T03:28:25Z",
+  "updated_at": "2026-10-25T06:03:07Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/google/adk-python/zip/refs/heads/main",

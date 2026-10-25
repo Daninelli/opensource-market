@@ -16,7 +16,7 @@
   ],
   "deploy_type": "二进制 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-22T17:50:35Z",
+  "updated_at": "2026-10-24T16:21:52Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Genymobile/scrcpy/zip/refs/heads/master",

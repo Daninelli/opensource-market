@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-23T18:22:03Z",
+  "updated_at": "2026-10-24T08:48:05Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/photoprism/photoprism/zip/refs/heads/develop",

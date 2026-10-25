@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-24T03:16:13Z",
+  "updated_at": "2026-10-25T05:16:06Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/DIYgod/RSSHub/zip/refs/heads/master",

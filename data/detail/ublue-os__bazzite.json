@@ -16,7 +16,7 @@
   ],
   "deploy_type": "镜像 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-23T20:15:32Z",
+  "updated_at": "2026-10-25T01:49:53Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ublue-os/bazzite/zip/refs/heads/main",

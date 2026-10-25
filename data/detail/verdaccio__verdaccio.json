@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-24T08:06:47Z",
+  "updated_at": "2026-10-25T08:08:40Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/verdaccio/verdaccio/zip/refs/heads/master",

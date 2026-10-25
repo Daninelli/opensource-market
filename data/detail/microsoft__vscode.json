@@ -17,7 +17,7 @@
   ],
   "deploy_type": "桌面应用 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-24T07:34:38Z",
+  "updated_at": "2026-10-25T08:16:55Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/microsoft/vscode/zip/refs/heads/main",

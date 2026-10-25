@@ -17,7 +17,7 @@
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-23T20:46:34Z",
+  "updated_at": "2026-10-25T00:33:07Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/jgm/pandoc/zip/refs/heads/main",

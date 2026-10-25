@@ -17,7 +17,7 @@
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-24T02:25:24Z",
+  "updated_at": "2026-10-25T08:21:41Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/hexojs/hexo/zip/refs/heads/master",

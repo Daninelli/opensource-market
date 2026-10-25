@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-21T18:46:52Z",
+  "updated_at": "2026-10-25T01:04:52Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/feder-cr/invisible_dots/zip/refs/heads/main",

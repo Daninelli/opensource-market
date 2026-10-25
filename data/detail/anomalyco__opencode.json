@@ -17,7 +17,7 @@
   ],
   "deploy_type": "桌面应用 / CLI",
   "platform": "github",
-  "updated_at": "2026-10-24T06:15:30Z",
+  "updated_at": "2026-10-25T07:41:12Z",
   "added_at": "2026-10-18T09:50:47.976Z",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/anomalyco/opencode/zip/refs/heads/dev",

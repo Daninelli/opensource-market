@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 传统部署",
   "platform": "github",
-  "updated_at": "2026-10-24T06:28:39Z",
+  "updated_at": "2026-10-25T08:01:59Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Kozea/Radicale/zip/refs/heads/master",

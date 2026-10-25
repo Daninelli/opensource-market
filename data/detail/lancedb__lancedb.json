@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-24T06:47:41Z",
+  "updated_at": "2026-10-25T08:20:15Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/lancedb/lancedb/zip/refs/heads/main",

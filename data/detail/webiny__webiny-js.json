@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-23T15:48:36Z",
+  "updated_at": "2026-10-25T08:16:05Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "next",
   "download_url": "https://codeload.github.com/webiny/webiny-js/zip/refs/heads/next",

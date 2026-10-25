@@ -9,7 +9,7 @@
   "subcategory_slug": "security",
   "license": "NOASSERTION",
   "license_category": "unknown",
-  "archived": false,
+  "archived": true,
   "tech_stack": [
     "TypeScript",
     "Tauri"
@@ -63,5 +63,11 @@
   "pin_note": null,
   "submitted_by": null,
   "gitee": null,
-  "changes": []
+  "changes": [
+    {
+      "date": "2026-10-25",
+      "repo": "bepass-org/oblivion-desktop",
+      "type": "archived"
+    }
+  ]
 }

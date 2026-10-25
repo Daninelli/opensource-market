@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 传统部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-24T03:30:45Z",
+  "updated_at": "2026-10-24T10:39:16Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/kimai/kimai/zip/refs/heads/main",

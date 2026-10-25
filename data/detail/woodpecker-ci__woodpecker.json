@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-24T06:36:06Z",
+  "updated_at": "2026-10-25T01:14:40Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/woodpecker-ci/woodpecker/zip/refs/heads/main",

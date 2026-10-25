@@ -15,7 +15,7 @@
   ],
   "deploy_type": "二进制 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-18T22:32:11Z",
+  "updated_at": "2026-10-24T11:28:16Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/gitbucket/gitbucket/zip/refs/heads/master",
