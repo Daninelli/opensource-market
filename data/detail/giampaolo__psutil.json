@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-22T23:01:37Z",
+  "updated_at": "2026-10-25T11:32:48Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/giampaolo/psutil/zip/refs/heads/master",

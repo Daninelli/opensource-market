@@ -16,7 +16,7 @@
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-25T06:39:24Z",
+  "updated_at": "2026-10-26T06:36:48Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ruvnet/ruflo/zip/refs/heads/main",

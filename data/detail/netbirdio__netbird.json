@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 客户端",
   "platform": "github",
-  "updated_at": "2026-10-25T05:21:43Z",
+  "updated_at": "2026-10-26T08:36:00Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/netbirdio/netbird/zip/refs/heads/main",

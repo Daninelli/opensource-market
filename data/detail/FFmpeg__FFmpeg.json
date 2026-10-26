@@ -16,7 +16,7 @@
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-25T02:49:20Z",
+  "updated_at": "2026-10-25T13:20:11Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/FFmpeg/FFmpeg/zip/refs/heads/master",

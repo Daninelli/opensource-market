@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-23T16:26:02Z",
+  "updated_at": "2026-10-26T00:52:59Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/juice-shop/juice-shop/zip/refs/heads/master",

@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-24T11:48:48Z",
+  "updated_at": "2026-10-26T00:40:28Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/usememos/memos/zip/refs/heads/main",

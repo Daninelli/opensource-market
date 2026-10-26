@@ -17,7 +17,7 @@
   ],
   "deploy_type": "源码 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-24T00:15:33Z",
+  "updated_at": "2026-10-25T11:11:41Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/harry0703/MoneyPrinterTurbo/zip/refs/heads/main",

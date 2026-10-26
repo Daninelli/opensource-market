@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-24T09:25:27Z",
+  "updated_at": "2026-10-25T17:43:17Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/holaboss-ai/holaOS/zip/refs/heads/main",

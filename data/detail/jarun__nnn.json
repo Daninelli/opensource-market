@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-24T06:13:51Z",
+  "updated_at": "2026-10-25T14:25:34Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/jarun/nnn/zip/refs/heads/master",

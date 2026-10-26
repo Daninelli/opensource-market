@@ -15,7 +15,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-20T15:24:08Z",
+  "updated_at": "2026-10-26T07:23:59Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/microsoft/graphrag/zip/refs/heads/main",

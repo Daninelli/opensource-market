@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-24T21:24:29Z",
+  "updated_at": "2026-10-25T17:15:49Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/azerothcore/azerothcore-wotlk/zip/refs/heads/master",

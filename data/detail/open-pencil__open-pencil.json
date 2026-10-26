@@ -15,7 +15,7 @@
   ],
   "deploy_type": "前端源码 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-25T08:23:41Z",
+  "updated_at": "2026-10-25T21:08:38Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/open-pencil/open-pencil/zip/refs/heads/master",

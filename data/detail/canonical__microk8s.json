@@ -17,7 +17,7 @@
   ],
   "deploy_type": "二进制 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-24T10:11:31Z",
+  "updated_at": "2026-10-25T10:11:23Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/canonical/microk8s/zip/refs/heads/master",

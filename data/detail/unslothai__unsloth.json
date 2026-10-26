@@ -16,7 +16,7 @@
   ],
   "deploy_type": "源码 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-25T08:22:49Z",
+  "updated_at": "2026-10-26T08:52:37Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/unslothai/unsloth/zip/refs/heads/main",

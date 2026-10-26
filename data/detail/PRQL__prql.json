@@ -15,7 +15,7 @@
   ],
   "deploy_type": "依赖库 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-25T07:02:13Z",
+  "updated_at": "2026-10-26T08:07:26Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/PRQL/prql/zip/refs/heads/main",

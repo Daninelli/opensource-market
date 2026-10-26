@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-23T22:15:54Z",
+  "updated_at": "2026-10-26T08:51:53Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/milvus-io/milvus/zip/refs/heads/master",

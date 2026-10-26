@@ -17,7 +17,7 @@
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-24T09:07:37Z",
+  "updated_at": "2026-10-25T14:39:33Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/ohmyzsh/ohmyzsh/zip/refs/heads/master",

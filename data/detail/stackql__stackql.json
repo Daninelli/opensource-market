@@ -17,7 +17,7 @@
   ],
   "deploy_type": "二进制 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-24T13:06:12Z",
+  "updated_at": "2026-10-26T08:16:11Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/stackql/stackql/zip/refs/heads/main",

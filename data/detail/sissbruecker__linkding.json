@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-10-25T03:31:22Z",
+  "updated_at": "2026-10-26T04:13:35Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/sissbruecker/linkding/zip/refs/heads/master",

@@ -17,7 +17,7 @@
   ],
   "deploy_type": "源码 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-25T07:44:43Z",
+  "updated_at": "2026-10-25T21:00:05Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/thedotmack/claude-mem/zip/refs/heads/main",
