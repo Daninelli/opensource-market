@@ -17,7 +17,7 @@
   ],
   "deploy_type": "传统部署",
   "platform": "github",
-  "updated_at": "2026-10-24T04:52:41Z",
+  "updated_at": "2026-10-27T02:26:51Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/openedx/openedx-platform/zip/refs/heads/master",

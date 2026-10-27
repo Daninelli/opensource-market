@@ -1,7 +1,29 @@
 {
   "note": "由 tools/track-changes.mjs 自动维护；只追加变动记录，不重新计算历史",
-  "updated_at": "2026-10-25T08:26:16.458Z",
+  "updated_at": "2026-10-27T09:00:31.449Z",
   "events": [
+    {
+      "date": "2026-10-27",
+      "repo": "ai-shifu/ChatALL",
+      "type": "archived"
+    },
+    {
+      "date": "2026-10-27",
+      "repo": "pocketbase/pocketbase",
+      "type": "archived"
+    },
+    {
+      "date": "2026-10-27",
+      "repo": "GetDKAN/dkan",
+      "type": "archived"
+    },
+    {
+      "date": "2026-10-27",
+      "repo": "jason5ng32/MyIP",
+      "type": "license",
+      "from": "MIT",
+      "to": "AGPL-3.0"
+    },
     {
       "date": "2026-10-25",
       "repo": "tt-a1i/archify",
@@ -1326,7 +1348,7 @@
       "license": "MIT",
       "pinned": false,
       "pin_label": null,
-      "archived": false
+      "archived": true
     },
     "hasura/graphql-engine": {
       "license": "Apache-2.0",
@@ -1434,7 +1456,7 @@
       "license": "GPL-2.0",
       "pinned": false,
       "pin_label": null,
-      "archived": false
+      "archived": true
     },
     "openhab/openhab-core": {
       "license": "EPL-2.0",
@@ -3504,7 +3526,7 @@
       "license": "Apache-2.0",
       "pinned": false,
       "pin_label": null,
-      "archived": false
+      "archived": true
     },
     "GaiZhenbiao/ChuanhuChatGPT": {
       "license": "GPL-3.0",
@@ -3639,7 +3661,7 @@
       "archived": false
     },
     "team-spotube/spotube": {
-      "license": "NOASSERTION",
+      "license": "AGPL-3.0",
       "pinned": false,
       "pin_label": null,
       "archived": false
@@ -7989,7 +8011,7 @@
       "archived": false
     },
     "jason5ng32/MyIP": {
-      "license": "MIT",
+      "license": "AGPL-3.0",
       "pinned": false,
       "pin_label": null,
       "archived": false

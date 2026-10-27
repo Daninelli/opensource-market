@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-26T05:12:16Z",
+  "updated_at": "2026-10-27T05:09:44Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/trufflesecurity/trufflehog/zip/refs/heads/main",

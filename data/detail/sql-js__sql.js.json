@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-19T08:51:38Z",
+  "updated_at": "2026-10-26T11:54:45Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/sql-js/sql.js/zip/refs/heads/master",

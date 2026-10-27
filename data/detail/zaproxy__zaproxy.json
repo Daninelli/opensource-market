@@ -15,7 +15,7 @@
   ],
   "deploy_type": "客户端 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-23T10:15:49Z",
+  "updated_at": "2026-10-26T13:55:57Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/zaproxy/zaproxy/zip/refs/heads/main",

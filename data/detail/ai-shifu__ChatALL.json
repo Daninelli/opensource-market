@@ -9,7 +9,7 @@
   "subcategory_slug": "im",
   "license": "Apache-2.0",
   "license_category": "open",
-  "archived": false,
+  "archived": true,
   "tech_stack": [
     "JavaScript",
     "Electron",
@@ -64,5 +64,11 @@
   "pin_note": null,
   "submitted_by": null,
   "gitee": null,
-  "changes": []
+  "changes": [
+    {
+      "date": "2026-10-27",
+      "repo": "ai-shifu/ChatALL",
+      "type": "archived"
+    }
+  ]
 }

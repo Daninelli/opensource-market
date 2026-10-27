@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker / 云服务",
   "platform": "github",
-  "updated_at": "2026-10-26T08:54:48Z",
+  "updated_at": "2026-10-27T08:55:58Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/supabase/supabase/zip/refs/heads/master",

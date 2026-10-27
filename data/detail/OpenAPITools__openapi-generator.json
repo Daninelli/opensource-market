@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 依赖库",
   "platform": "github",
-  "updated_at": "2026-10-26T08:07:42Z",
+  "updated_at": "2026-10-27T08:34:04Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/OpenAPITools/openapi-generator/zip/refs/heads/master",

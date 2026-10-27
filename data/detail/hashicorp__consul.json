@@ -15,7 +15,7 @@
   ],
   "deploy_type": "二进制 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-26T06:09:35Z",
+  "updated_at": "2026-10-27T06:45:31Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/hashicorp/consul/zip/refs/heads/main",

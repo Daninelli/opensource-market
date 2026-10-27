@@ -15,7 +15,7 @@
   ],
   "deploy_type": "源码",
   "platform": "github",
-  "updated_at": "2026-10-26T05:16:35Z",
+  "updated_at": "2026-10-27T07:18:25Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/bevyengine/bevy/zip/refs/heads/main",

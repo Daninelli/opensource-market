@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-23T15:21:37Z",
+  "updated_at": "2026-10-26T21:53:48Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/influxdata/influxdb/zip/refs/heads/main",

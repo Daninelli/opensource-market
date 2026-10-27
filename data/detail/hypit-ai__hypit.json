@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-24T21:08:40Z",
+  "updated_at": "2026-10-26T13:12:33Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/hypit-ai/hypit/zip/refs/heads/main",

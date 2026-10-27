@@ -16,7 +16,7 @@
   ],
   "deploy_type": "客户端 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-25T16:24:26Z",
+  "updated_at": "2026-10-26T09:54:16Z",
   "added_at": "2026-10-19T14:45:00.000Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/qbittorrent/qBittorrent/zip/refs/heads/master",

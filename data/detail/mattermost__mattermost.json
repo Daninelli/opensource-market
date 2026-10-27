@@ -18,7 +18,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-26T08:47:50Z",
+  "updated_at": "2026-10-27T08:59:02Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mattermost/mattermost/zip/refs/heads/master",

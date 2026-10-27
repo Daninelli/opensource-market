@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-26T08:44:21Z",
+  "updated_at": "2026-10-27T08:29:40Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/FalkorDB/FalkorDB/zip/refs/heads/main",

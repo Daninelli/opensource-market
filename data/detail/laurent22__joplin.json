@@ -17,7 +17,7 @@
   ],
   "deploy_type": "客户端 + 服务端",
   "platform": "github",
-  "updated_at": "2026-10-25T22:43:43Z",
+  "updated_at": "2026-10-27T00:06:08Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/laurent22/joplin/zip/refs/heads/dev",

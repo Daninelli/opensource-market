@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-23T15:18:53Z",
+  "updated_at": "2026-10-26T22:25:00Z",
   "added_at": "2026-10-19T14:45:00.000Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/yt-dlp/yt-dlp/zip/refs/heads/master",

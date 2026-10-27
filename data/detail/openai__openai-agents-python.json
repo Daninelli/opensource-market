@@ -15,7 +15,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-22T22:05:38Z",
+  "updated_at": "2026-10-27T05:46:03Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/openai/openai-agents-python/zip/refs/heads/main",

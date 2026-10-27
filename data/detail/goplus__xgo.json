@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 依赖库",
   "platform": "github",
-  "updated_at": "2026-10-21T01:13:12Z",
+  "updated_at": "2026-10-26T17:33:04Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/goplus/xgo/zip/refs/heads/main",

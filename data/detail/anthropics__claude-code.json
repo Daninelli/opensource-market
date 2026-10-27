@@ -16,7 +16,7 @@
   ],
   "deploy_type": "命令行",
   "platform": "github",
-  "updated_at": "2026-10-25T20:11:26Z",
+  "updated_at": "2026-10-26T23:13:01Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/anthropics/claude-code/zip/refs/heads/main",
