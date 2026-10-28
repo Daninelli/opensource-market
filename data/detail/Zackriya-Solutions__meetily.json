@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 客户端",
   "platform": "github",
-  "updated_at": "2026-10-24T10:35:27Z",
+  "updated_at": "2026-10-28T09:03:02Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Zackriya-Solutions/meetily/zip/refs/heads/main",

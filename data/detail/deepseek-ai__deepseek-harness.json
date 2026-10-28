@@ -17,7 +17,7 @@
   ],
   "deploy_type": "源码",
   "platform": "github",
-  "updated_at": "2026-10-23T15:25:40Z",
+  "updated_at": "2026-10-28T02:48:17Z",
   "added_at": "2026-10-18T10:17:41.839Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/deepseek-ai/deepseek-harness/zip/refs/heads/master",

@@ -18,7 +18,7 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-27T08:58:58Z",
+  "updated_at": "2026-10-28T09:38:40Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/getsentry/sentry/zip/refs/heads/master",

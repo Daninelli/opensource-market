@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-27T08:19:34Z",
+  "updated_at": "2026-10-28T09:29:27Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/wazuh/wazuh/zip/refs/heads/main",

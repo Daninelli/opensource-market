@@ -16,7 +16,7 @@
   ],
   "deploy_type": "客户端 + Docker",
   "platform": "github",
-  "updated_at": "2026-10-26T00:59:22Z",
+  "updated_at": "2026-10-28T06:07:27Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/AppFlowy-IO/AppFlowy/zip/refs/heads/main",

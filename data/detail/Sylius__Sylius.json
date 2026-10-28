@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-27T02:14:54Z",
+  "updated_at": "2026-10-28T02:08:46Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "2.3",
   "download_url": "https://codeload.github.com/Sylius/Sylius/zip/refs/heads/2.3",

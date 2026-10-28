@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 前端源码",
   "platform": "github",
-  "updated_at": "2026-10-24T09:02:40Z",
+  "updated_at": "2026-10-27T19:43:59Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/drawdb-io/drawdb/zip/refs/heads/main",

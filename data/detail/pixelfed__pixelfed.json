@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-10-27T06:55:45Z",
+  "updated_at": "2026-10-27T15:29:32Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/pixelfed/pixelfed/zip/refs/heads/dev",
