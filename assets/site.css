@@ -964,7 +964,17 @@
         }
         .hot-title .icon { font-size: 17px; color: #ea580c; }
         .hot-sub { font-size: 12px; color: var(--faint); font-weight: 400; }
-        .hot-more { font-size: 12.5px; color: var(--brand); text-decoration: none; white-space: nowrap; }
+        .hot-more {
+            display: inline-flex;
+            align-items: center;
+            gap: 1px;
+            font-size: 12.5px;
+            color: var(--brand);
+            text-decoration: none;
+            white-space: nowrap;
+        }
+        /* 复用 caret 的折角，转成指向右侧表示「去另一个页面」 */
+        .hot-more .icon { font-size: 14px; transform: rotate(-90deg); }
         .hot-more:hover { text-decoration: underline; }
 
         /* minmax(0, 1fr) 而不是 1fr：网格项默认 min-width:auto，
