@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-28T08:38:15Z",
+  "updated_at": "2026-10-28T11:43:41Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "v1.x",
   "download_url": "https://codeload.github.com/axios/axios/zip/refs/heads/v1.x",

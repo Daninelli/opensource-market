@@ -17,7 +17,7 @@
   ],
   "deploy_type": "命令行 / 二进制 / 传统部署",
   "platform": "github",
-  "updated_at": "2026-10-28T04:03:21Z",
+  "updated_at": "2026-10-28T15:49:17Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/podman-container-tools/podman/zip/refs/heads/main",

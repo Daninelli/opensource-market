@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-28T09:00:36Z",
+  "updated_at": "2026-10-28T12:48:34Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/django-cms/django-cms/zip/refs/heads/main",

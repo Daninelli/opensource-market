@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 传统部署",
   "platform": "github",
-  "updated_at": "2026-10-28T08:08:48Z",
+  "updated_at": "2026-10-28T12:38:59Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/apache/dolphinscheduler/zip/refs/heads/dev",

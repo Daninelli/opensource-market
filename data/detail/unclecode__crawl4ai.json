@@ -17,7 +17,7 @@
   ],
   "deploy_type": "依赖库 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-26T13:15:13Z",
+  "updated_at": "2026-10-28T13:26:20Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/unclecode/crawl4ai/zip/refs/heads/main",
