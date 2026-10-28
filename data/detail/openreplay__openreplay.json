@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-28T09:34:41Z",
+  "updated_at": "2026-10-28T16:15:53Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/openreplay/openreplay/zip/refs/heads/main",

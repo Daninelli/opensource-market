@@ -18,7 +18,7 @@
   ],
   "deploy_type": "源码 / 依赖库",
   "platform": "github",
-  "updated_at": "2026-10-28T09:08:10Z",
+  "updated_at": "2026-10-28T19:13:47Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/project-chip/connectedhomeip/zip/refs/heads/master",

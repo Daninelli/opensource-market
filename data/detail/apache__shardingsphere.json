@@ -15,7 +15,7 @@
   ],
   "deploy_type": "依赖库 / 传统部署",
   "platform": "github",
-  "updated_at": "2026-10-28T08:23:32Z",
+  "updated_at": "2026-10-28T16:06:33Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/apache/shardingsphere/zip/refs/heads/master",

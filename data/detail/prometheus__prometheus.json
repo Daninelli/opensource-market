@@ -15,7 +15,7 @@
   ],
   "deploy_type": "二进制 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-28T08:29:37Z",
+  "updated_at": "2026-10-28T17:56:12Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/prometheus/prometheus/zip/refs/heads/main",

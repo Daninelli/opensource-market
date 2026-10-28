@@ -17,7 +17,7 @@
   ],
   "deploy_type": "源码",
   "platform": "github",
-  "updated_at": "2026-10-28T08:59:35Z",
+  "updated_at": "2026-10-28T15:27:10Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "2.x",
   "download_url": "https://codeload.github.com/flarum/framework/zip/refs/heads/2.x",

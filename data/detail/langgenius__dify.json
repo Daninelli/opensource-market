@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-10-28T09:38:13Z",
+  "updated_at": "2026-10-28T17:33:00Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/langgenius/dify/zip/refs/heads/main",

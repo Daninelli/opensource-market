@@ -15,7 +15,7 @@
   ],
   "deploy_type": "依赖库 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-27T15:20:11Z",
+  "updated_at": "2026-10-28T16:08:10Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/deepset-ai/haystack/zip/refs/heads/main",

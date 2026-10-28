@@ -17,7 +17,7 @@
   ],
   "deploy_type": "依赖库 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-23T17:04:06Z",
+  "updated_at": "2026-10-28T15:33:14Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/microsoft/markitdown/zip/refs/heads/main",

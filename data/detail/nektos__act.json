@@ -17,10 +17,10 @@
   ],
   "deploy_type": "二进制 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-28T07:03:02Z",
+  "updated_at": "2026-10-28T19:17:16Z",
   "added_at": "2026-10-19T12:18:42.273Z",
-  "default_branch": "master",
-  "download_url": "https://codeload.github.com/nektos/act/zip/refs/heads/master",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/nektos/act/zip/refs/heads/main",
   "release": {
     "tag": "v0.2.89",
     "name": "v0.2.89",

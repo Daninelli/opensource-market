@@ -17,7 +17,7 @@
   ],
   "deploy_type": "前端源码 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-27T13:31:57Z",
+  "updated_at": "2026-10-28T12:04:20Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/datopian/portaljs/zip/refs/heads/main",
