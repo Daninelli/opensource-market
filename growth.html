@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="开源集市涨星榜：按近 7 天 star 增量排序的全部开源项目，支持分类筛选与搜索，每天自动更新。">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <title>涨星榜 · 开源集市</title>
+    <link rel="stylesheet" href="assets/site.css?v=20261029a">
+</head>
+<body>
+    <svg class="icon-sprite" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+        <symbol id="icon-market" viewBox="0 0 24 24">
+            <path d="M3.2 9 4.75 4.2a1 1 0 0 1 .95-.7h12.6a1 1 0 0 1 .95.7L20.8 9"/>
+            <path d="M3.2 9a2.93 2.93 0 0 0 5.87 0 2.93 2.93 0 0 0 5.86 0 2.93 2.93 0 0 0 5.87 0"/>
+            <path d="M5.2 12.2V18M18.8 12.2V18M3.2 18h17.6"/>
+            <path d="M9.6 18v-3.2a.8.8 0 0 1 .8-.8h3.2a.8.8 0 0 1 .8.8V18"/>
+        </symbol>
+        <symbol id="icon-github" viewBox="0 0 24 24">
+            <path d="M9.2 20.4c-4.2 1.2-4.2-2.1-5.9-2.6m11.8 5v-3.4c0-1 .1-1.4-.5-2 2.4-.3 4.9-1.2 4.9-5.4a4.2 4.2 0 0 0-1.2-2.9 3.9 3.9 0 0 0-.1-2.9s-.9-.3-3 1.2a10.3 10.3 0 0 0-5.4 0C7.7 6 6.8 6.3 6.8 6.3a3.9 3.9 0 0 0-.1 2.9 4.2 4.2 0 0 0-1.2 2.9c0 4.2 2.5 5.1 4.9 5.4-.6.6-.6 1.2-.5 2v3.4"/>
+        </symbol>
+        <symbol id="icon-star" viewBox="0 0 24 24">
+            <path d="m12 4 2.4 5 5.6.8-4 3.9.95 5.5L12 16.6 7.05 19.2 8 13.7 4 9.8 9.6 9Z"/>
+        </symbol>
+        <symbol id="icon-search" viewBox="0 0 24 24">
+            <circle cx="11" cy="11" r="6.4"/>
+            <path d="m15.8 15.8 4.4 4.4"/>
+        </symbol>
+        <symbol id="icon-info" viewBox="0 0 24 24">
+            <circle cx="12" cy="12" r="8.4"/>
+            <path d="M12 11v5.2"/>
+            <path d="M12 7.9h.01"/>
+        </symbol>
+    </svg>
+
+    <nav class="topnav">
+        <div class="topnav-inner">
+            <a class="topnav-brand" href="index.html">
+                <span class="topnav-mark" aria-hidden="true">
+                    <svg class="icon"><use href="#icon-market"></use></svg>
+                </span>
+                <span class="topnav-name">开源集市</span>
+            </a>
+            <div class="topnav-links">
+                <a href="recent.html">最近收录</a>
+                <a href="growth.html" style="color:var(--ink);background:#f3f4f6">涨星榜</a>
+                <a href="changes.html">更新日志</a>
+                <a href="licenses.html">协议说明</a>
+                <a href="disclaimer.html">免责声明</a>
+                <a href="https://github.com/Daninelli/opensource-market/issues/new" target="_blank" rel="noopener noreferrer">提交项目</a>
+                <a class="topnav-github" href="https://github.com/Daninelli/opensource-market" target="_blank" rel="noopener noreferrer">
+                    <svg class="icon" aria-hidden="true"><use href="#icon-github"></use></svg>
+                    <span>GitHub</span>
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="growth-wrap">
+        <a class="doc-back" href="index.html">← 返回开源集市</a>
+
+        <div class="growth-head">
+            <h1>涨星榜</h1>
+            <p id="growth-sub">按近 7 天 star 增量排序 · 加载中…</p>
+        </div>
+
+        <div class="growth-bar">
+            <div class="growth-chips" id="growth-chips" role="group" aria-label="按分类筛选"></div>
+            <label class="growth-search">
+                <svg class="icon" aria-hidden="true"><use href="#icon-search"></use></svg>
+                <input id="growth-search" type="search" placeholder="搜索项目名或仓库名" autocomplete="off" aria-label="搜索项目">
+            </label>
+        </div>
+
+        <div class="growth-table" role="table" aria-label="涨星榜项目列表">
+            <div class="g-row g-row-head" role="row">
+                <span role="columnheader">#</span>
+                <span role="columnheader">项目</span>
+                <span role="columnheader">分类</span>
+                <span role="columnheader">近 7 天</span>
+                <span class="g-star" role="columnheader">总 Star</span>
+            </div>
+            <div id="growth-body"></div>
+        </div>
+
+        <p class="growth-empty" id="growth-empty" hidden>没有匹配的项目</p>
+        <p class="growth-foot" id="growth-foot"></p>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-links">
+            <a href="index.html">开源集市</a>
+            <a href="recent.html">最近收录</a>
+            <a href="growth.html">涨星榜</a>
+            <a href="changes.html">更新日志</a>
+            <a href="licenses.html">开源协议说明</a>
+            <a href="disclaimer.html">免责声明</a>
+            <a href="https://github.com/Daninelli/opensource-market" target="_blank" rel="noopener noreferrer">GitHub 仓库</a>
+        </div>
+        <div class="footer-notice">
+            <svg class="icon" aria-hidden="true"><use href="#icon-info"></use></svg>
+            <span><b>信息可能已过期。</b>本页 star 数与增量为脚本定时抓取，并非实时；
+            项目可能已停止维护、变更协议、迁移或删除仓库。<b>一切以项目官方仓库的实际内容与 LICENSE 文件为准</b>，
+            本站信息不构成授权或法律意见。详见 <a href="disclaimer.html">免责声明</a>。</span>
+        </div>
+        <p>收录项目的代码、商标与文档均归原作者所有。数据由脚本自动抓取，<strong>可能滞后或有误差，请以项目仓库的实际内容与许可协议为准</strong>。部分项目采用非开源协议，商用前务必查阅原文。</p>
+        <p class="footer-license">
+            本站页面与数据以 <strong>MIT 协议</strong>开源 ·
+            <a href="https://github.com/Daninelli/opensource-market/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">查看协议</a> ·
+            欢迎 <a href="https://github.com/Daninelli/opensource-market/pulls" target="_blank" rel="noopener noreferrer">Pull Request</a>
+        </p>
+    </footer>
+
+    <script src="assets/growth.js?v=20261029a"></script>
+</body>
+</html>
