@@ -38124,10 +38124,6 @@
     "gitee_url": "https://gitee.com/macrozheng/mall",
     "gitee_stars": 27300,
     "gitee_updated_at": "2026-09-15T10:33:00+08:00",
-    "pinned": true,
-    "pin_label": "置顶",
-    "pin_note": "国内最知名的开源电商实战项目，覆盖商品、订单、支付、营销完整链路",
-    "pin_until": "2026-12-31",
     "license_category": "open",
     "archived": false,
     "kind": "app"
@@ -39234,10 +39230,6 @@
     "default_branch": "develop",
     "download_url": "https://codeload.github.com/nocodb/nocodb/zip/refs/heads/develop",
     "platform": "github",
-    "pinned": true,
-    "pin_label": "推荐",
-    "pin_note": "开源版 Airtable，搭建内部工具最快的一档",
-    "pin_until": "2026-11-30",
     "license_category": "open",
     "archived": false,
     "kind": "app"
@@ -40148,10 +40140,6 @@
     "default_branch": "master",
     "download_url": "https://codeload.github.com/louislam/uptime-kuma/zip/refs/heads/master",
     "platform": "github",
-    "pinned": true,
-    "pin_label": "推荐",
-    "pin_note": "自托管监控的轻量首选，部署简单、界面清爽",
-    "pin_until": "2026-11-30",
     "license_category": "open",
     "archived": false,
     "kind": "app"

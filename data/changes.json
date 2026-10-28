@@ -1,7 +1,22 @@
 {
   "note": "由 tools/track-changes.mjs 自动维护；只追加变动记录，不重新计算历史",
-  "updated_at": "2026-10-23T08:34:07.716Z",
+  "updated_at": "2026-10-28T19:06:42.429Z",
   "events": [
+    {
+      "date": "2026-10-28",
+      "repo": "macrozheng/mall",
+      "type": "unpinned"
+    },
+    {
+      "date": "2026-10-28",
+      "repo": "nocodb/nocodb",
+      "type": "unpinned"
+    },
+    {
+      "date": "2026-10-28",
+      "repo": "louislam/uptime-kuma",
+      "type": "unpinned"
+    },
     {
       "date": "2026-10-22",
       "repo": "cBioPortal/cbioportal",
@@ -633,8 +648,8 @@
     },
     "macrozheng/mall": {
       "license": "Apache-2.0",
-      "pinned": true,
-      "pin_label": "置顶",
+      "pinned": false,
+      "pin_label": null,
       "archived": false
     },
     "dromara/Sa-Token": {
@@ -807,8 +822,8 @@
     },
     "nocodb/nocodb": {
       "license": "AGPL-3.0",
-      "pinned": true,
-      "pin_label": "推荐",
+      "pinned": false,
+      "pin_label": null,
       "archived": false
     },
     "metabase/metabase": {
@@ -939,8 +954,8 @@
     },
     "louislam/uptime-kuma": {
       "license": "MIT",
-      "pinned": true,
-      "pin_label": "推荐",
+      "pinned": false,
+      "pin_label": null,
       "archived": false
     },
     "CorentinTh/it-tools": {

@@ -29,9 +29,9 @@
     "url": "https://github.com/macrozheng/mall/releases/tag/v1.0.3"
   },
   "assets": [],
-  "pinned": true,
-  "pin_label": "置顶",
-  "pin_note": "国内最知名的开源电商实战项目，覆盖商品、订单、支付、营销完整链路",
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
   "submitted_by": null,
   "gitee": {
     "repo": "macrozheng/mall",

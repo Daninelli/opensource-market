@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T08:34:07.444Z",
+  "generated_at": "2026-10-28T19:05:24.370Z",
   "window_days": 6,
   "target_window_days": 7,
   "history_days": 7,
@@ -23,52 +23,12 @@
       "updated_at": "2026-09-15T02:34:44Z",
       "download_url": "https://codeload.github.com/macrozheng/mall/zip/refs/heads/master",
       "platform": "both",
-      "pinned": true,
+      "pinned": false,
       "pin_label": "置顶",
-      "pin_note": "国内最知名的开源电商实战项目，覆盖商品、订单、支付、营销完整链路"
+      "pin_note": ""
     },
     {
       "rank": 2,
-      "repo": "louislam/uptime-kuma",
-      "name": "Uptime Kuma",
-      "category": "工具",
-      "category_slug": "tool",
-      "subcategory": "运维监控",
-      "note_zh": "自托管监控工具，支持 HTTP/TCP/Ping 监控和多种告警通知。",
-      "license": "MIT",
-      "stars": 92781,
-      "delta7": null,
-      "delta30": null,
-      "window_days": 6,
-      "updated_at": "2026-10-23T06:38:03Z",
-      "download_url": "https://codeload.github.com/louislam/uptime-kuma/zip/refs/heads/master",
-      "platform": "github",
-      "pinned": true,
-      "pin_label": "推荐",
-      "pin_note": "自托管监控的轻量首选，部署简单、界面清爽"
-    },
-    {
-      "rank": 3,
-      "repo": "nocodb/nocodb",
-      "name": "NocoDB",
-      "category": "企业服务",
-      "category_slug": "enterprise",
-      "subcategory": "低代码平台",
-      "note_zh": "开源的 Airtable 替代品，能把任何数据库变成智能表格，适合团队协作和低代码数据管理。",
-      "license": "AGPL-3.0",
-      "stars": 65330,
-      "delta7": null,
-      "delta30": null,
-      "window_days": 6,
-      "updated_at": "2026-10-23T04:36:16Z",
-      "download_url": "https://codeload.github.com/nocodb/nocodb/zip/refs/heads/develop",
-      "platform": "github",
-      "pinned": true,
-      "pin_label": "推荐",
-      "pin_note": "开源版 Airtable，搭建内部工具最快的一档"
-    },
-    {
-      "rank": 4,
       "repo": "freeCodeCamp/freeCodeCamp",
       "name": "freeCodeCamp",
       "category": "教育",
@@ -88,7 +48,7 @@
       "pin_note": ""
     },
     {
-      "rank": 5,
+      "rank": 3,
       "repo": "EbookFoundation/free-programming-books",
       "name": "Free-programming-books",
       "category": "教育",
@@ -108,7 +68,7 @@
       "pin_note": ""
     },
     {
-      "rank": 6,
+      "rank": 4,
       "repo": "openclaw/openclaw",
       "name": "OpenClaw",
       "category": "工具",
@@ -128,7 +88,7 @@
       "pin_note": ""
     },
     {
-      "rank": 7,
+      "rank": 5,
       "repo": "donnemartin/system-design-primer",
       "name": "System-design-primer",
       "category": "工具",
@@ -148,7 +108,7 @@
       "pin_note": ""
     },
     {
-      "rank": 8,
+      "rank": 6,
       "repo": "morluto/rea",
       "name": "Rea",
       "category": "工具",
@@ -168,7 +128,7 @@
       "pin_note": ""
     },
     {
-      "rank": 9,
+      "rank": 7,
       "repo": "obra/superpowers",
       "name": "Superpowers",
       "category": "工具",
@@ -188,7 +148,7 @@
       "pin_note": ""
     },
     {
-      "rank": 10,
+      "rank": 8,
       "repo": "mattpocock/skills",
       "name": "Skills",
       "category": "工具",
@@ -208,7 +168,7 @@
       "pin_note": ""
     },
     {
-      "rank": 11,
+      "rank": 9,
       "repo": "affaan-m/ECC",
       "name": "ECC",
       "category": "工具",
@@ -228,7 +188,7 @@
       "pin_note": ""
     },
     {
-      "rank": 12,
+      "rank": 10,
       "repo": "deepseek-ai/deepseek-harness",
       "name": "DeepSeek Harness",
       "category": "工具",
@@ -248,7 +208,7 @@
       "pin_note": ""
     },
     {
-      "rank": 13,
+      "rank": 11,
       "repo": "NousResearch/hermes-agent",
       "name": "Hermes Agent",
       "category": "工具",
@@ -268,7 +228,7 @@
       "pin_note": ""
     },
     {
-      "rank": 14,
+      "rank": 12,
       "repo": "torvalds/linux",
       "name": "Linux",
       "category": "其他",
@@ -288,7 +248,7 @@
       "pin_note": ""
     },
     {
-      "rank": 15,
+      "rank": 13,
       "repo": "react/react",
       "name": "React",
       "category": "工具",
@@ -308,7 +268,7 @@
       "pin_note": ""
     },
     {
-      "rank": 16,
+      "rank": 14,
       "repo": "TheAlgorithms/Python",
       "name": "Python",
       "category": "教育",
@@ -328,7 +288,7 @@
       "pin_note": ""
     },
     {
-      "rank": 17,
+      "rank": 15,
       "repo": "anomalyco/opencode",
       "name": "opencode",
       "category": "工具",
@@ -348,7 +308,7 @@
       "pin_note": ""
     },
     {
-      "rank": 18,
+      "rank": 16,
       "repo": "n8n-io/n8n",
       "name": "n8n",
       "category": "工具",
@@ -368,7 +328,7 @@
       "pin_note": ""
     },
     {
-      "rank": 19,
+      "rank": 17,
       "repo": "DigitalPlatDev/FreeDomain",
       "name": "FreeDomain",
       "category": "教育",
@@ -388,7 +348,7 @@
       "pin_note": ""
     },
     {
-      "rank": 20,
+      "rank": 18,
       "repo": "tensorflow/tensorflow",
       "name": "Tensorflow",
       "category": "工具",
@@ -402,6 +362,46 @@
       "window_days": 6,
       "updated_at": "2026-10-23T08:26:33Z",
       "download_url": "https://codeload.github.com/tensorflow/tensorflow/zip/refs/heads/master",
+      "platform": "github",
+      "pinned": false,
+      "pin_label": "置顶",
+      "pin_note": ""
+    },
+    {
+      "rank": 19,
+      "repo": "yt-dlp/yt-dlp",
+      "name": "yt-dlp",
+      "category": "工具",
+      "category_slug": "tool",
+      "subcategory": "下载工具",
+      "note_zh": "youtube-dl 的强力续作，命令行下载上千平台音视频，支持字幕与 SponsorBlock。",
+      "license": "Unlicense",
+      "stars": 200578,
+      "delta7": null,
+      "delta30": null,
+      "window_days": 6,
+      "updated_at": "2026-10-23T03:56:16Z",
+      "download_url": "https://codeload.github.com/yt-dlp/yt-dlp/zip/refs/heads/master",
+      "platform": "github",
+      "pinned": false,
+      "pin_label": "置顶",
+      "pin_note": ""
+    },
+    {
+      "rank": 20,
+      "repo": "massgravel/Microsoft-Activation-Scripts",
+      "name": "Microsoft-Activation-Scripts",
+      "category": "其他",
+      "category_slug": "other",
+      "subcategory": "系统工具",
+      "note_zh": "Windows 与 Office 激活脚本合集，支持 HWID、KMS 等方式，仅供学习研究。",
+      "license": "GPL-3.0",
+      "stars": 195646,
+      "delta7": null,
+      "delta30": null,
+      "window_days": 6,
+      "updated_at": "2026-10-17T01:33:16Z",
+      "download_url": "https://codeload.github.com/massgravel/Microsoft-Activation-Scripts/zip/refs/heads/master",
       "platform": "github",
       "pinned": false,
       "pin_label": "置顶",

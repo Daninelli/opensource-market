@@ -28,9 +28,9 @@
     "url": "https://github.com/nocodb/nocodb/releases/tag/2026.09.1"
   },
   "assets": [],
-  "pinned": true,
-  "pin_label": "推荐",
-  "pin_note": "开源版 Airtable，搭建内部工具最快的一档",
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
   "submitted_by": null,
   "gitee": null,
   "changes": []

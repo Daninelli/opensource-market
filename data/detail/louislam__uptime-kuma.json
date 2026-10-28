@@ -34,9 +34,9 @@
       "url": "https://github.com/louislam/uptime-kuma/releases/download/2.5.6/dist.tar.gz"
     }
   ],
-  "pinned": true,
-  "pin_label": "推荐",
-  "pin_note": "自托管监控的轻量首选，部署简单、界面清爽",
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
   "submitted_by": null,
   "gitee": null,
   "changes": []
