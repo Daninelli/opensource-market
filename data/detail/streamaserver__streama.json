@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-08-09T20:24:33Z",
+  "updated_at": "2026-10-26T11:19:32Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/streamaserver/streama/zip/refs/heads/master",

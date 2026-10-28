@@ -17,7 +17,7 @@
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-19T01:41:47Z",
+  "updated_at": "2026-10-24T22:01:42Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "v2.5",
   "download_url": "https://codeload.github.com/NvChad/NvChad/zip/refs/heads/v2.5",

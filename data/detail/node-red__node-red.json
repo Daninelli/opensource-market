@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 客户端",
   "platform": "github",
-  "updated_at": "2026-10-21T12:16:00Z",
+  "updated_at": "2026-10-26T10:16:22Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/node-red/node-red/zip/refs/heads/main",

@@ -17,7 +17,7 @@
   ],
   "deploy_type": "前端源码 / 自托管服务 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-21T10:36:50Z",
+  "updated_at": "2026-10-27T12:09:28Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/lissy93/web-check/zip/refs/heads/master",

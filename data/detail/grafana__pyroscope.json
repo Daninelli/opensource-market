@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-23T08:21:01Z",
+  "updated_at": "2026-10-28T08:17:17Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/grafana/pyroscope/zip/refs/heads/main",

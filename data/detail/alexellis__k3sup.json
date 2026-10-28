@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-09-03T06:39:49Z",
+  "updated_at": "2026-10-23T13:44:33Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/alexellis/k3sup/zip/refs/heads/master",

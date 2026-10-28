@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-21T16:23:41Z",
+  "updated_at": "2026-10-27T14:34:42Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/johnkerl/miller/zip/refs/heads/main",

@@ -7,7 +7,7 @@
   "category_slug": "tool",
   "subcategory": "效率工具",
   "subcategory_slug": "utility",
-  "license": "MIT",
+  "license": "AGPL-3.0",
   "license_category": "open",
   "archived": false,
   "tech_stack": [
@@ -16,7 +16,7 @@
   ],
   "deploy_type": "前端源码 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-23T03:29:15Z",
+  "updated_at": "2026-10-27T16:52:32Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/jason5ng32/MyIP/zip/refs/heads/main",
@@ -32,5 +32,13 @@
   "pin_note": null,
   "submitted_by": null,
   "gitee": null,
-  "changes": []
+  "changes": [
+    {
+      "date": "2026-10-27",
+      "repo": "jason5ng32/MyIP",
+      "type": "license",
+      "from": "MIT",
+      "to": "AGPL-3.0"
+    }
+  ]
 }

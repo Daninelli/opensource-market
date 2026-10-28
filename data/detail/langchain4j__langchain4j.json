@@ -15,7 +15,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-23T07:38:35Z",
+  "updated_at": "2026-10-28T09:24:43Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/langchain4j/langchain4j/zip/refs/heads/main",

@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 桌面应用",
   "platform": "github",
-  "updated_at": "2026-10-23T01:14:47Z",
+  "updated_at": "2026-10-27T23:04:10Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Mintplex-Labs/anything-llm/zip/refs/heads/master",

@@ -15,7 +15,7 @@
   ],
   "deploy_type": "依赖库 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-22T06:37:39Z",
+  "updated_at": "2026-10-28T09:27:40Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/gogf/gf/zip/refs/heads/master",

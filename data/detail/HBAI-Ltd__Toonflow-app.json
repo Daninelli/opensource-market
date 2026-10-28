@@ -15,7 +15,7 @@
   ],
   "deploy_type": "客户端 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-20T16:19:49Z",
+  "updated_at": "2026-10-27T10:29:17Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/HBAI-Ltd/Toonflow-app/zip/refs/heads/master",

@@ -1,6 +1,6 @@
 {
   "note": "由 tools/track-changes.mjs 自动维护；只追加变动记录，不重新计算历史",
-  "updated_at": "2026-10-28T19:06:42.429Z",
+  "updated_at": "2026-10-28T19:07:39.600Z",
   "events": [
     {
       "date": "2026-10-28",
@@ -16,6 +16,47 @@
       "date": "2026-10-28",
       "repo": "louislam/uptime-kuma",
       "type": "unpinned"
+    },
+    {
+      "date": "2026-10-27",
+      "repo": "ai-shifu/ChatALL",
+      "type": "archived"
+    },
+    {
+      "date": "2026-10-27",
+      "repo": "pocketbase/pocketbase",
+      "type": "archived"
+    },
+    {
+      "date": "2026-10-27",
+      "repo": "GetDKAN/dkan",
+      "type": "archived"
+    },
+    {
+      "date": "2026-10-27",
+      "repo": "jason5ng32/MyIP",
+      "type": "license",
+      "from": "MIT",
+      "to": "AGPL-3.0"
+    },
+    {
+      "date": "2026-10-25",
+      "repo": "tt-a1i/archify",
+      "type": "license",
+      "from": "MIT",
+      "to": "Apache-2.0"
+    },
+    {
+      "date": "2026-10-25",
+      "repo": "nezhahq/nezha",
+      "type": "license",
+      "from": "Apache-2.0",
+      "to": "WTFPL"
+    },
+    {
+      "date": "2026-10-25",
+      "repo": "bepass-org/oblivion-desktop",
+      "type": "archived"
     },
     {
       "date": "2026-10-22",
@@ -1322,7 +1363,7 @@
       "license": "MIT",
       "pinned": false,
       "pin_label": null,
-      "archived": false
+      "archived": true
     },
     "hasura/graphql-engine": {
       "license": "Apache-2.0",
@@ -1430,7 +1471,7 @@
       "license": "GPL-2.0",
       "pinned": false,
       "pin_label": null,
-      "archived": false
+      "archived": true
     },
     "openhab/openhab-core": {
       "license": "EPL-2.0",
@@ -1991,7 +2032,7 @@
       "archived": false
     },
     "tt-a1i/archify": {
-      "license": "MIT",
+      "license": "Apache-2.0",
       "pinned": false,
       "pin_label": null,
       "archived": false
@@ -3500,7 +3541,7 @@
       "license": "Apache-2.0",
       "pinned": false,
       "pin_label": null,
-      "archived": false
+      "archived": true
     },
     "GaiZhenbiao/ChuanhuChatGPT": {
       "license": "GPL-3.0",
@@ -3635,7 +3676,7 @@
       "archived": false
     },
     "team-spotube/spotube": {
-      "license": "NOASSERTION",
+      "license": "AGPL-3.0",
       "pinned": false,
       "pin_label": null,
       "archived": false
@@ -7985,7 +8026,7 @@
       "archived": false
     },
     "jason5ng32/MyIP": {
-      "license": "MIT",
+      "license": "AGPL-3.0",
       "pinned": false,
       "pin_label": null,
       "archived": false
@@ -8603,7 +8644,7 @@
       "archived": false
     },
     "nezhahq/nezha": {
-      "license": "Apache-2.0",
+      "license": "WTFPL",
       "pinned": false,
       "pin_label": null,
       "archived": false
@@ -9596,7 +9637,7 @@
       "license": "NOASSERTION",
       "pinned": false,
       "pin_label": null,
-      "archived": false
+      "archived": true
     },
     "tinyauthapp/tinyauth": {
       "license": "AGPL-3.0",

@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-23T08:26:44Z",
+  "updated_at": "2026-10-27T18:11:26Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/umami-software/umami/zip/refs/heads/master",

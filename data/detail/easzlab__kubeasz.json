@@ -16,7 +16,7 @@
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-15T11:02:27Z",
+  "updated_at": "2026-10-26T07:18:54Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/easzlab/kubeasz/zip/refs/heads/master",

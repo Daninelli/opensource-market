@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-22T15:11:21Z",
+  "updated_at": "2026-10-25T07:56:41Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/tubearchivist/tubearchivist/zip/refs/heads/develop",

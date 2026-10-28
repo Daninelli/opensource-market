@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-22T20:29:21Z",
+  "updated_at": "2026-10-28T02:07:12Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/agent0ai/agent-zero/zip/refs/heads/main",

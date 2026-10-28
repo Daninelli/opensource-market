@@ -1,9 +1,9 @@
 {
   "note": "由 tools/build-changes-feed.mjs 自动生成；只含变动事件，不含状态快照",
-  "generated_at": "2026-10-28T19:06:42.510Z",
+  "generated_at": "2026-10-28T19:07:39.702Z",
   "monitored": 1699,
   "since": "2026-10-28",
-  "total": 8,
+  "total": 15,
   "items": [
     {
       "date": "2026-10-28",
@@ -32,6 +32,76 @@
       "category": "工具",
       "category_slug": "tool",
       "type": "unpinned",
+      "from": null,
+      "to": null
+    },
+    {
+      "date": "2026-10-27",
+      "repo": "ai-shifu/ChatALL",
+      "name": "ChatALL",
+      "category": "社交",
+      "category_slug": "social",
+      "type": "archived",
+      "from": null,
+      "to": null
+    },
+    {
+      "date": "2026-10-27",
+      "repo": "pocketbase/pocketbase",
+      "name": "PocketBase",
+      "category": "工具",
+      "category_slug": "tool",
+      "type": "archived",
+      "from": null,
+      "to": null
+    },
+    {
+      "date": "2026-10-27",
+      "repo": "GetDKAN/dkan",
+      "name": "DKAN",
+      "category": "政务",
+      "category_slug": "government",
+      "type": "archived",
+      "from": null,
+      "to": null
+    },
+    {
+      "date": "2026-10-27",
+      "repo": "jason5ng32/MyIP",
+      "name": "MyIP",
+      "category": "工具",
+      "category_slug": "tool",
+      "type": "license",
+      "from": "MIT",
+      "to": "AGPL-3.0"
+    },
+    {
+      "date": "2026-10-25",
+      "repo": "tt-a1i/archify",
+      "name": "Archify",
+      "category": "工具",
+      "category_slug": "tool",
+      "type": "license",
+      "from": "MIT",
+      "to": "Apache-2.0"
+    },
+    {
+      "date": "2026-10-25",
+      "repo": "nezhahq/nezha",
+      "name": "nezha",
+      "category": "工具",
+      "category_slug": "tool",
+      "type": "license",
+      "from": "Apache-2.0",
+      "to": "WTFPL"
+    },
+    {
+      "date": "2026-10-25",
+      "repo": "bepass-org/oblivion-desktop",
+      "name": "oblivion-desktop",
+      "category": "工具",
+      "category_slug": "tool",
+      "type": "archived",
       "from": null,
       "to": null
     },

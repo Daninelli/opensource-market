@@ -16,7 +16,7 @@
   ],
   "deploy_type": "源码 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-23T08:22:35Z",
+  "updated_at": "2026-10-28T09:25:22Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/frappe/frappe/zip/refs/heads/develop",

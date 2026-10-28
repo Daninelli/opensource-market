@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 前端源码",
   "platform": "github",
-  "updated_at": "2026-10-22T08:49:45Z",
+  "updated_at": "2026-10-28T06:41:04Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/linshenkx/prompt-optimizer/zip/refs/heads/develop",

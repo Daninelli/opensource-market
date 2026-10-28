@@ -9,7 +9,7 @@
   "subcategory_slug": "im",
   "license": "Apache-2.0",
   "license_category": "open",
-  "archived": false,
+  "archived": true,
   "tech_stack": [
     "JavaScript",
     "Electron",
@@ -17,7 +17,7 @@
   ],
   "deploy_type": "客户端 / 桌面应用",
   "platform": "github",
-  "updated_at": "2026-10-20T21:41:01Z",
+  "updated_at": "2026-10-25T21:38:28Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ai-shifu/ChatALL/zip/refs/heads/main",
@@ -64,5 +64,11 @@
   "pin_note": null,
   "submitted_by": null,
   "gitee": null,
-  "changes": []
+  "changes": [
+    {
+      "date": "2026-10-27",
+      "repo": "ai-shifu/ChatALL",
+      "type": "archived"
+    }
+  ]
 }

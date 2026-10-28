@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-23T07:23:11Z",
+  "updated_at": "2026-10-28T07:35:57Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/apache/beam/zip/refs/heads/master",

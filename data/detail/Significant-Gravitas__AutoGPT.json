@@ -15,7 +15,7 @@
   ],
   "deploy_type": "源码 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-23T08:00:11Z",
+  "updated_at": "2026-10-28T08:56:31Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Significant-Gravitas/AutoGPT/zip/refs/heads/master",

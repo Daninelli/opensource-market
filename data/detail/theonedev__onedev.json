@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-23T06:38:45Z",
+  "updated_at": "2026-10-28T04:38:12Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/theonedev/onedev/zip/refs/heads/main",

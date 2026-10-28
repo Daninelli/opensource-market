@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-22T22:17:00Z",
+  "updated_at": "2026-10-27T22:33:26Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "trunk",
   "download_url": "https://codeload.github.com/git-bug/git-bug/zip/refs/heads/trunk",

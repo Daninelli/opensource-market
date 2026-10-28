@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-22T16:19:11Z",
+  "updated_at": "2026-10-28T09:28:00Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/meilisearch/meilisearch/zip/refs/heads/main",

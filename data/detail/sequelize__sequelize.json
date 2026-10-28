@@ -17,7 +17,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-23T04:47:36Z",
+  "updated_at": "2026-10-28T08:14:53Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/sequelize/sequelize/zip/refs/heads/main",

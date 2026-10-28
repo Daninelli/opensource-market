@@ -18,7 +18,7 @@
   ],
   "deploy_type": "二进制 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-23T07:19:34Z",
+  "updated_at": "2026-10-28T09:02:24Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/kubernetes/kubernetes/zip/refs/heads/master",

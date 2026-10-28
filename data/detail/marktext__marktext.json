@@ -17,7 +17,7 @@
   ],
   "deploy_type": "桌面应用 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-23T08:32:01Z",
+  "updated_at": "2026-10-28T08:38:33Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/marktext/marktext/zip/refs/heads/develop",

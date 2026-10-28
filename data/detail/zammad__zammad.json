@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-23T07:27:31Z",
+  "updated_at": "2026-10-27T15:12:06Z",
   "added_at": "2026-10-19T14:45:00.000Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/zammad/zammad/zip/refs/heads/develop",

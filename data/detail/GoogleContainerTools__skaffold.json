@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-21T14:36:37Z",
+  "updated_at": "2026-10-26T12:44:23Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/GoogleContainerTools/skaffold/zip/refs/heads/main",

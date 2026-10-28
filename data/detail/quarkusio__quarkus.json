@@ -15,7 +15,7 @@
   ],
   "deploy_type": "依赖库 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-23T06:28:25Z",
+  "updated_at": "2026-10-27T21:57:48Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/quarkusio/quarkus/zip/refs/heads/main",

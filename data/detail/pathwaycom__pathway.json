@@ -17,7 +17,7 @@
   ],
   "deploy_type": "依赖库 / 源码 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-23T05:36:16Z",
+  "updated_at": "2026-10-28T07:05:02Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/pathwaycom/pathway/zip/refs/heads/main",
