@@ -1243,6 +1243,117 @@
         .recent-foot { margin-top: 14px; color: var(--faint); font-size: 12px; }
         .recent-empty { padding: 60px 18px; text-align: center; color: var(--muted); }
 
+        /* ------------------------------ 涨星榜页 ------------------------------ */
+        .growth-wrap {
+            max-width: var(--max-width);
+            margin: 0 auto;
+            padding: 34px 20px 64px;
+        }
+        .growth-head { margin-bottom: 16px; }
+        .growth-head h1 { margin: 0 0 6px; font-size: 1.6rem; letter-spacing: -.02em; }
+        .growth-head p { margin: 0; color: var(--muted); font-size: 13px; }
+
+        .growth-bar { display: flex; flex-direction: column; gap: 10px; margin-bottom: 14px; }
+        .growth-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+        .g-chip {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            border: 1px solid var(--border);
+            background: var(--surface);
+            color: var(--ink-soft);
+            border-radius: 6px;
+            padding: 4px 9px;
+            font-size: 12.5px;
+            font-family: inherit;
+            cursor: pointer;
+            transition: background .12s, border-color .12s, color .12s;
+        }
+        .g-chip:hover { background: #f7f8fa; border-color: var(--border-strong); }
+        .g-chip.is-on { background: var(--brand); border-color: var(--brand); color: #fff; }
+        .g-chip-n { font-size: 11px; opacity: .62; font-variant-numeric: tabular-nums; }
+        .g-chip.is-on .g-chip-n { opacity: .82; }
+
+        .growth-search {
+            display: flex;
+            align-items: center;
+            gap: 7px;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            background: var(--surface);
+            padding: 0 11px;
+            height: 34px;
+            max-width: 320px;
+        }
+        .growth-search .icon { font-size: 14px; color: var(--faint); flex: none; }
+        .growth-search input {
+            border: 0;
+            outline: 0;
+            background: none;
+            flex: 1;
+            min-width: 0;
+            font-size: 13px;
+            font-family: inherit;
+            color: var(--ink);
+        }
+        .growth-search input::placeholder { color: var(--faint); }
+
+        .growth-table {
+            border: 1px solid var(--border);
+            border-radius: 14px;
+            background: var(--surface);
+            overflow: hidden;
+        }
+        .g-row {
+            display: grid;
+            grid-template-columns: 44px minmax(0, 1fr) 96px 104px 92px;
+            align-items: center;
+            gap: 10px;
+            padding: 11px 18px;
+            font-size: 13px;
+            color: inherit;
+            text-decoration: none;
+        }
+        .g-row + .g-row { border-top: 1px solid #f4f5f7; }
+        .g-row:not(.g-row-head):hover { background: #fafbfc; }
+        .g-row-head {
+            font-size: 12px;
+            color: var(--faint);
+            background: #fafbfc;
+            font-weight: 500;
+        }
+        .g-row-head:hover { background: #fafbfc; }
+
+        .g-rank { font-variant-numeric: tabular-nums; font-weight: 600; color: var(--faint); }
+        .g-rank.r1 { color: #dc2626; }
+        .g-rank.r2 { color: #ea580c; }
+        .g-rank.r3 { color: #d97706; }
+
+        .g-name { min-width: 0; display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+        .g-name b { font-weight: 600; color: var(--ink); }
+        .g-name em { font-style: normal; font-size: 11.5px; color: var(--faint); }
+
+        .g-cat { color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+        .g-delta { font-variant-numeric: tabular-nums; font-weight: 600; color: #15803d; white-space: nowrap; }
+        .g-delta.is-flat { color: var(--faint); font-weight: 500; }
+        .g-delta.is-down { color: #dc2626; }
+        .g-delta.is-null { color: var(--faint); font-weight: 500; }
+
+        .g-star {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            color: var(--muted);
+            font-variant-numeric: tabular-nums;
+            justify-self: end;
+            white-space: nowrap;
+        }
+        .g-star .icon { font-size: 12px; color: #d97706; }
+
+        .growth-empty { padding: 40px 20px; text-align: center; color: var(--muted); font-size: 13px; }
+        .growth-foot { margin-top: 14px; color: var(--faint); font-size: 12px; }
+
         /* ------------------------------ 热门榜单 ------------------------------ */
         .trend {
             max-width: var(--max-width);
@@ -1440,6 +1551,29 @@
             .c-lic { display: none; }
             .c-act { grid-area: dl; justify-self: end; margin-top: 2px; }
             .recent-dl { min-width: 96px; }
+            /* 涨星榜：窄屏改成两行卡片 */
+            .growth-wrap { padding: 24px 14px 48px; }
+            .growth-table { border: 0; background: none; border-radius: 0; overflow: visible; }
+            .g-row-head { display: none; }
+            .g-row {
+                grid-template-columns: 26px minmax(0, 1fr) auto;
+                grid-template-areas:
+                    "rank name  star"
+                    ".    cat   delta";
+                gap: 3px 10px;
+                background: var(--surface);
+                border: 1px solid var(--border);
+                border-radius: 12px;
+                margin-bottom: 8px;
+                padding: 11px 13px;
+            }
+            .g-row + .g-row { border-top: 1px solid var(--border); }
+            .g-rank { grid-area: rank; align-self: start; }
+            .g-name { grid-area: name; }
+            .g-star { grid-area: star; justify-self: end; }
+            .g-cat { grid-area: cat; font-size: 12px; }
+            .g-delta { grid-area: delta; justify-self: end; }
+            .growth-search { max-width: none; }
             /* 顶部导航：窄屏收紧，GitHub 只留图标 */
             .topnav-inner { padding: 8px 14px; gap: 10px; }
             .topnav-name { font-size: 14px; }
