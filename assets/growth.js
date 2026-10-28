@@ -43,6 +43,15 @@
             " " + pad(d.getHours()) + ":" + pad(d.getMinutes());
     }
 
+    /**
+     * 增量数值：上千用 k 简写（如 +47.7k），千以下显示实际值（如 +832）。
+     * 与总 star 列共用同一套 k 口径，避免同一行出现两种量级写法。
+     */
+    function formatDelta(value) {
+        if (Math.abs(value) >= 1000) return (value / 1000).toFixed(1) + "k";
+        return String(value);
+    }
+
     /** 增量：正绿 / 零灰 / 负红 / 算不出显示「—」，绝不把 null 当 0 */
     function deltaHtml(value) {
         if (typeof value !== "number") {
@@ -50,7 +59,12 @@
         }
         var cls = value > 0 ? "" : value === 0 ? " is-flat" : " is-down";
         var sign = value > 0 ? "+" : "";
-        return '<span class="g-delta' + cls + '">' + sign + value.toLocaleString("en-US") + "</span>";
+        // 简写会丢精度，精确值放 title，悬停可看
+        var exact = sign + value.toLocaleString("en-US");
+        return (
+            '<span class="g-delta' + cls + '" title="' + exact + '">' +
+            sign + formatDelta(value) + "</span>"
+        );
     }
 
     function chipHtml(key, label, count) {
