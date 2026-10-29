@@ -69997,5 +69997,30 @@
     "url": "https://github.com/Zipstack/unstract",
     "archived": false,
     "license_category": "open"
+  },
+  {
+    "name": "security-audit",
+    "repo": "cloudflare/security-audit-skill",
+    "category": "工具",
+    "category_slug": "tool",
+    "subcategory": "安全与密码",
+    "subcategory_slug": "security",
+    "tech_stack": [
+      "Markdown",
+      "JavaScript"
+    ],
+    "deploy_type": "源码",
+    "note_zh": "Cloudflare 的编码 Agent 安全审计技能，六阶段审计输出可独立验证的漏洞报告",
+    "license": "MIT",
+    "added_at": "2026-10-30T00:31:09+08:00",
+    "stars": 52505,
+    "updated_at": "2026-09-14T19:29:02Z",
+    "default_branch": "main",
+    "download_url": "https://codeload.github.com/cloudflare/security-audit-skill/zip/refs/heads/main",
+    "platform": "github",
+    "kind": "skill",
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "license_category": "open",
+    "archived": false
   }
 ]
