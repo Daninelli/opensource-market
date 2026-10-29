@@ -16,7 +16,7 @@
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-28T19:04:09Z",
+  "updated_at": "2026-10-29T09:53:15Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/trailhq/Trail-Code/zip/refs/heads/main",

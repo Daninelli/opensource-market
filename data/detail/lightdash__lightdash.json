@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-28T19:13:15Z",
+  "updated_at": "2026-10-29T09:50:39Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/lightdash/lightdash/zip/refs/heads/main",

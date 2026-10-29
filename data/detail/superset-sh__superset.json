@@ -15,7 +15,7 @@
   ],
   "deploy_type": "客户端 / 桌面应用",
   "platform": "github",
-  "updated_at": "2026-10-28T19:45:12Z",
+  "updated_at": "2026-10-29T09:45:23Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/superset-sh/superset/zip/refs/heads/main",

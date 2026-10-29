@@ -16,7 +16,7 @@
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-28T19:24:28Z",
+  "updated_at": "2026-10-29T09:44:54Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/jhipster/generator-jhipster/zip/refs/heads/main",

@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-28T19:44:19Z",
+  "updated_at": "2026-10-29T01:37:08Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/prestodb/presto/zip/refs/heads/master",

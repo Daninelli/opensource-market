@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker / 源码安装",
   "platform": "github",
-  "updated_at": "2026-10-28T19:26:39Z",
+  "updated_at": "2026-10-29T09:38:45Z",
   "added_at": "2026-10-18T00:20:44+08:00",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/home-assistant/core/zip/refs/heads/dev",

@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-28T19:00:54Z",
+  "updated_at": "2026-10-28T22:11:05Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/bluewave-labs/Checkmate/zip/refs/heads/develop",

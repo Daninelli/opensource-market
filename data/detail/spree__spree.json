@@ -18,7 +18,7 @@
   ],
   "deploy_type": "Docker 部署 / 传统部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-28T19:39:19Z",
+  "updated_at": "2026-10-29T08:08:34Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/spree/spree/zip/refs/heads/main",

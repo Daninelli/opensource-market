@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-26T06:41:24Z",
+  "updated_at": "2026-10-29T06:23:05Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/TwiN/gatus/zip/refs/heads/master",
