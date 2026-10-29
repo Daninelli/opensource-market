@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 二进制 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-28T19:41:09Z",
+  "updated_at": "2026-10-29T09:50:25Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/ClickHouse/ClickHouse/zip/refs/heads/master",

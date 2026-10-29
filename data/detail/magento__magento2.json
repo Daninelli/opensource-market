@@ -18,7 +18,7 @@
   ],
   "deploy_type": "Docker 部署 / 传统部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-28T10:31:20Z",
+  "updated_at": "2026-10-29T04:11:26Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "2.4-develop",
   "download_url": "https://codeload.github.com/magento/magento2/zip/refs/heads/2.4-develop",

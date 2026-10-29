@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-13T20:24:07Z",
+  "updated_at": "2026-10-29T05:06:58Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/addyosmani/agent-skills/zip/refs/heads/main",

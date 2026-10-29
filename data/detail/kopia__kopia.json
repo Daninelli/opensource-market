@@ -15,7 +15,7 @@
   ],
   "deploy_type": "客户端 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-28T04:11:33Z",
+  "updated_at": "2026-10-29T04:58:06Z",
   "added_at": "2026-10-19T14:45:00.000Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/kopia/kopia/zip/refs/heads/master",

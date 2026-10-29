@@ -17,7 +17,7 @@
   ],
   "deploy_type": "二进制 / 传统部署 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-28T09:57:13Z",
+  "updated_at": "2026-10-29T09:22:51Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/caddyserver/caddy/zip/refs/heads/master",

@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-28T04:34:52Z",
+  "updated_at": "2026-10-29T01:13:32Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/kanboard/kanboard/zip/refs/heads/main",

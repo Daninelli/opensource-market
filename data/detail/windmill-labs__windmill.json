@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-28T19:35:54Z",
+  "updated_at": "2026-10-29T09:57:12Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/windmill-labs/windmill/zip/refs/heads/main",
