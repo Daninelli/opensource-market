@@ -16,7 +16,7 @@
   ],
   "deploy_type": "命令行 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-29T09:25:27Z",
+  "updated_at": "2026-10-30T07:24:50Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/flyteorg/flyte/zip/refs/heads/main",

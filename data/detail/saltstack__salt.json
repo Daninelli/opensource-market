@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 传统部署",
   "platform": "github",
-  "updated_at": "2026-10-29T02:29:01Z",
+  "updated_at": "2026-10-30T09:53:01Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/saltstack/salt/zip/refs/heads/master",

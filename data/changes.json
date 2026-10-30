@@ -1,6 +1,6 @@
 {
   "note": "由 tools/track-changes.mjs 自动维护；只追加变动记录，不重新计算历史",
-  "updated_at": "2026-10-28T19:07:39.600Z",
+  "updated_at": "2026-10-30T10:01:31.906Z",
   "events": [
     {
       "date": "2026-10-28",
@@ -10277,6 +10277,12 @@
     },
     "Zipstack/unstract": {
       "license": "AGPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "cloudflare/security-audit-skill": {
+      "license": "MIT",
       "pinned": false,
       "pin_label": null,
       "archived": false

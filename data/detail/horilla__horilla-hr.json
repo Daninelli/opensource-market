@@ -17,7 +17,7 @@
   ],
   "deploy_type": "源码 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-29T08:38:53Z",
+  "updated_at": "2026-10-30T09:32:50Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "2.0",
   "download_url": "https://codeload.github.com/horilla/horilla-hr/zip/refs/heads/2.0",

@@ -17,7 +17,7 @@
   ],
   "deploy_type": "命令行 / 二进制 / 桌面应用",
   "platform": "github",
-  "updated_at": "2026-10-29T07:25:51Z",
+  "updated_at": "2026-10-30T03:31:22Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mpv-player/mpv/zip/refs/heads/master",

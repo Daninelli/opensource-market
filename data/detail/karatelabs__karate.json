@@ -15,7 +15,7 @@
   ],
   "deploy_type": "依赖库 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-28T14:15:45Z",
+  "updated_at": "2026-10-30T09:02:06Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/karatelabs/karate/zip/refs/heads/main",

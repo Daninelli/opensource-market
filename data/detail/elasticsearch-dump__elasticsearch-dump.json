@@ -18,7 +18,7 @@
   ],
   "deploy_type": "命令行 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-18T21:28:48Z",
+  "updated_at": "2026-10-30T07:58:42Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/elasticsearch-dump/elasticsearch-dump/zip/refs/heads/master",

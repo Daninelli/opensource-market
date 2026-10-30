@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-09-07T23:49:00Z",
+  "updated_at": "2026-10-29T15:32:17Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/yagop/node-telegram-bot-api/zip/refs/heads/master",

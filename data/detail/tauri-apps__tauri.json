@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-28T12:45:59Z",
+  "updated_at": "2026-10-29T17:10:26Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/tauri-apps/tauri/zip/refs/heads/dev",

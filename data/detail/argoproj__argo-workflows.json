@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-29T08:58:23Z",
+  "updated_at": "2026-10-30T09:20:55Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/argoproj/argo-workflows/zip/refs/heads/main",

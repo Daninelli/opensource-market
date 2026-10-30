@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-28T20:25:38Z",
+  "updated_at": "2026-10-29T23:33:31Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/pymupdf/PyMuPDF/zip/refs/heads/main",

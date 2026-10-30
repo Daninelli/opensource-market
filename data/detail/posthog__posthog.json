@@ -18,7 +18,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-29T09:57:19Z",
+  "updated_at": "2026-10-30T10:00:33Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/posthog/posthog/zip/refs/heads/master",

@@ -15,7 +15,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-23T12:57:27Z",
+  "updated_at": "2026-10-30T03:44:03Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/aws-amplify/amplify-js/zip/refs/heads/main",

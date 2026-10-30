@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-29T08:30:35Z",
+  "updated_at": "2026-10-30T09:38:05Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/trycua/cua/zip/refs/heads/main",

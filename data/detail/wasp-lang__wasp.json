@@ -16,7 +16,7 @@
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-29T09:49:24Z",
+  "updated_at": "2026-10-30T09:47:39Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/wasp-lang/wasp/zip/refs/heads/main",

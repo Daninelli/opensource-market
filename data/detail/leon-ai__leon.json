@@ -16,7 +16,7 @@
   ],
   "deploy_type": "源码 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-29T09:27:08Z",
+  "updated_at": "2026-10-29T16:54:40Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/leon-ai/leon/zip/refs/heads/develop",

@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-28T10:01:05Z",
+  "updated_at": "2026-10-29T15:01:11Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/wallabag/wallabag/zip/refs/heads/master",

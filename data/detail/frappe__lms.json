@@ -18,7 +18,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-28T17:42:25Z",
+  "updated_at": "2026-10-30T07:18:35Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/frappe/lms/zip/refs/heads/develop",

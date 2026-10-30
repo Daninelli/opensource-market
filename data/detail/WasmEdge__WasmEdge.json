@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-28T06:14:11Z",
+  "updated_at": "2026-10-29T14:49:55Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/WasmEdge/WasmEdge/zip/refs/heads/master",

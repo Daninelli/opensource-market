@@ -16,7 +16,7 @@
   ],
   "deploy_type": "源码 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-29T04:17:05Z",
+  "updated_at": "2026-10-29T23:37:00Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/payloadcms/payload/zip/refs/heads/main",

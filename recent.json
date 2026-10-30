@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T16:34:56.192Z",
-  "refreshed_at": "2026-10-29T09:59:29.628Z",
+  "generated_at": "2026-10-30T10:01:31.739Z",
+  "refreshed_at": "2026-10-30T10:01:31.637Z",
   "days": 7,
   "total_projects": 1700,
   "count": 1,
@@ -14,7 +14,7 @@
       "subcategory": "安全与密码",
       "note_zh": "Cloudflare 的编码 Agent 安全审计技能，六阶段审计输出可独立验证的漏洞报告",
       "license": "MIT",
-      "stars": 52505,
+      "stars": 53295,
       "updated_at": "2026-09-14T19:29:02Z",
       "download_url": "https://codeload.github.com/cloudflare/security-audit-skill/zip/refs/heads/main",
       "platform": "github",

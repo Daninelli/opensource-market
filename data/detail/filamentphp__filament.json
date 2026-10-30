@@ -18,7 +18,7 @@
   ],
   "deploy_type": "依赖库 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-28T21:16:24Z",
+  "updated_at": "2026-10-30T09:32:06Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "4.x",
   "download_url": "https://codeload.github.com/filamentphp/filament/zip/refs/heads/4.x",

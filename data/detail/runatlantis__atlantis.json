@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-28T20:05:44Z",
+  "updated_at": "2026-10-29T14:10:41Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/runatlantis/atlantis/zip/refs/heads/main",

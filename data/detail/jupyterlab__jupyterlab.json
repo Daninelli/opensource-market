@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker / 客户端",
   "platform": "github",
-  "updated_at": "2026-10-29T09:14:18Z",
+  "updated_at": "2026-10-30T08:38:49Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/jupyterlab/jupyterlab/zip/refs/heads/main",

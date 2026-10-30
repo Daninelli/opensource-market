@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-10-29T09:46:51Z",
+  "updated_at": "2026-10-30T08:57:17Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/vendurehq/vendure/zip/refs/heads/master",

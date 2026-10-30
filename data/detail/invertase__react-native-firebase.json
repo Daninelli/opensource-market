@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-29T06:51:05Z",
+  "updated_at": "2026-10-30T08:46:07Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/invertase/react-native-firebase/zip/refs/heads/main",

@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-27T12:25:44Z",
+  "updated_at": "2026-10-29T18:25:18Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "trunk",
   "download_url": "https://codeload.github.com/SeleniumHQ/docker-selenium/zip/refs/heads/trunk",

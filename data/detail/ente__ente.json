@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker / 客户端",
   "platform": "github",
-  "updated_at": "2026-10-29T09:56:24Z",
+  "updated_at": "2026-10-30T09:41:55Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ente/ente/zip/refs/heads/main",

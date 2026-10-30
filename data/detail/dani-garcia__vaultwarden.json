@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-28T22:14:30Z",
+  "updated_at": "2026-10-29T22:16:14Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/dani-garcia/vaultwarden/zip/refs/heads/main",
