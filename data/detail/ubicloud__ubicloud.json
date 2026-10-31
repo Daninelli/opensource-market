@@ -16,7 +16,7 @@
   ],
   "deploy_type": "自托管服务 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-30T05:35:06Z",
+  "updated_at": "2026-10-31T07:28:59Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ubicloud/ubicloud/zip/refs/heads/main",

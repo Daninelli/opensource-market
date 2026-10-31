@@ -17,7 +17,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-30T00:01:40Z",
+  "updated_at": "2026-10-31T01:26:09Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/microsoft/playwright/zip/refs/heads/main",

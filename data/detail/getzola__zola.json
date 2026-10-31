@@ -15,7 +15,7 @@
   ],
   "deploy_type": "二进制 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-28T23:31:04Z",
+  "updated_at": "2026-10-30T12:27:05Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/getzola/zola/zip/refs/heads/master",

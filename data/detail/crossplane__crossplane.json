@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-30T08:22:43Z",
+  "updated_at": "2026-10-31T08:19:13Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/crossplane/crossplane/zip/refs/heads/main",

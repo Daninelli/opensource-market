@@ -18,7 +18,7 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-10-30T09:15:33Z",
+  "updated_at": "2026-10-30T10:04:59Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/1Panel-dev/CordysCRM/zip/refs/heads/main",

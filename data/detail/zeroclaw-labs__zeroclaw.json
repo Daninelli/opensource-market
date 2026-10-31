@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-30T07:28:18Z",
+  "updated_at": "2026-10-31T07:37:09Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/zeroclaw-labs/zeroclaw/zip/refs/heads/master",

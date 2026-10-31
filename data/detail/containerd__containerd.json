@@ -15,7 +15,7 @@
   ],
   "deploy_type": "二进制 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-30T01:56:37Z",
+  "updated_at": "2026-10-31T07:56:13Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/containerd/containerd/zip/refs/heads/main",

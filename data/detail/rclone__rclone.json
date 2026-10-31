@@ -15,7 +15,7 @@
   ],
   "deploy_type": "二进制",
   "platform": "github",
-  "updated_at": "2026-10-29T18:51:31Z",
+  "updated_at": "2026-10-30T17:11:30Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/rclone/rclone/zip/refs/heads/master",

@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 前端源码",
   "platform": "github",
-  "updated_at": "2026-10-30T08:50:03Z",
+  "updated_at": "2026-10-31T09:27:05Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/nesquena/hermes-webui/zip/refs/heads/master",

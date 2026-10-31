@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-10-30T06:03:38Z",
+  "updated_at": "2026-10-31T00:30:00Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/go-vikunja/vikunja/zip/refs/heads/main",

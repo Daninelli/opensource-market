@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-30T09:55:38Z",
+  "updated_at": "2026-10-31T09:36:11Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/BerriAI/litellm/zip/refs/heads/main",

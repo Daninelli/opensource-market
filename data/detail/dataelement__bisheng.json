@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-30T09:54:38Z",
+  "updated_at": "2026-10-31T06:35:34Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/dataelement/bisheng/zip/refs/heads/main",

@@ -16,7 +16,7 @@
   ],
   "deploy_type": "传统部署 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-30T07:04:40Z",
+  "updated_at": "2026-10-31T06:24:35Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/openemr/openemr/zip/refs/heads/master",

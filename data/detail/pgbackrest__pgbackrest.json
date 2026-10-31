@@ -17,7 +17,7 @@
   ],
   "deploy_type": "二进制 / 命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-29T08:25:21Z",
+  "updated_at": "2026-10-30T17:57:08Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/pgbackrest/pgbackrest/zip/refs/heads/main",

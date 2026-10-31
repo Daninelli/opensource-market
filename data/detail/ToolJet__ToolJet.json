@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-30T09:59:36Z",
+  "updated_at": "2026-10-31T06:35:25Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ToolJet/ToolJet/zip/refs/heads/main",

@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-30T09:03:34Z",
+  "updated_at": "2026-10-30T20:30:13Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/prowler-cloud/prowler/zip/refs/heads/master",

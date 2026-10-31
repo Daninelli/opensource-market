@@ -17,7 +17,7 @@
   ],
   "deploy_type": "依赖库 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-30T08:46:35Z",
+  "updated_at": "2026-10-31T06:31:14Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/flutter/flutter/zip/refs/heads/master",

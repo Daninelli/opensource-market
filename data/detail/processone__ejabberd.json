@@ -17,7 +17,7 @@
   ],
   "deploy_type": "自托管服务 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-28T23:37:55Z",
+  "updated_at": "2026-10-30T12:34:26Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/processone/ejabberd/zip/refs/heads/master",

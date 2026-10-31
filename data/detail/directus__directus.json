@@ -18,7 +18,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-29T15:35:57Z",
+  "updated_at": "2026-10-30T16:49:43Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/directus/directus/zip/refs/heads/main",

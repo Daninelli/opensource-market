@@ -15,7 +15,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-30T08:57:37Z",
+  "updated_at": "2026-10-31T09:06:02Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/go-git/go-git/zip/refs/heads/main",

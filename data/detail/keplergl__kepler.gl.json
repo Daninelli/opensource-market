@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库 / 前端源码",
   "platform": "github",
-  "updated_at": "2026-10-30T09:53:47Z",
+  "updated_at": "2026-10-31T09:06:07Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/keplergl/kepler.gl/zip/refs/heads/master",

@@ -15,7 +15,7 @@
   ],
   "deploy_type": "二进制 / Docker",
   "platform": "github",
-  "updated_at": "2026-10-27T13:03:14Z",
+  "updated_at": "2026-10-30T11:42:55Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/AdguardTeam/AdGuardHome/zip/refs/heads/master",

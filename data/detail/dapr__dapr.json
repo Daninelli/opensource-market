@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-30T01:21:32Z",
+  "updated_at": "2026-10-31T01:21:07Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/dapr/dapr/zip/refs/heads/master",

@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-29T22:51:36Z",
+  "updated_at": "2026-10-31T07:51:30Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/evcc-io/evcc/zip/refs/heads/master",

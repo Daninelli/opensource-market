@@ -17,7 +17,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-10-29T20:52:50Z",
+  "updated_at": "2026-10-30T19:25:30Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/roboflow/supervision/zip/refs/heads/develop",
