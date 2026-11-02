@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-10-31T17:58:38Z",
+  "updated_at": "2026-11-01T22:00:25Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Leantime/leantime/zip/refs/heads/master",

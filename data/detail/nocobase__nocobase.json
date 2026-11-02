@@ -15,10 +15,10 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-11-01T10:12:08Z",
+  "updated_at": "2026-11-02T10:51:19Z",
   "added_at": "2026-10-18T12:28:58.583Z",
-  "default_branch": "main",
-  "download_url": "https://codeload.github.com/nocobase/nocobase/zip/refs/heads/main",
+  "default_branch": "v3-develop",
+  "download_url": "https://codeload.github.com/nocobase/nocobase/zip/refs/heads/v3-develop",
   "release": {
     "tag": "v2.2.28",
     "name": "v2.2.28",

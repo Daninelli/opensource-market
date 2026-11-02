@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-09-29T11:57:56Z",
+  "updated_at": "2026-11-01T20:08:09Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/groue/GRDB.swift/zip/refs/heads/master",
