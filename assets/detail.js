@@ -120,8 +120,13 @@
     /* ------------------------------ Star 曲线 ------------------------------ */
 
     /**
-     * 用原生 SVG 画折线 + 面积，不引任何图表库。
-     * 点数不足 2 个时调用方不会走这里。
+     * 用原生 SVG 画「累计折线 + 每日新增柱」，不引任何图表库。
+     *
+     * 为什么拆成上下两块：
+     *   star 是单调累积值，全站 91.5% 的项目近 7 天变化不足 1%（中位数 0.16%），
+     *   只画累计线在视觉上就是一条平线，连 Y 轴上下界都会被 k 简写舍成同一个数。
+     *   所以上块保留累计（看总盘子），下块用独立刻度画每日新增（看趋势），
+     *   两块共用同一套 X 坐标。
      *
      * 画布宽度取宿主容器的实际像素宽，viewBox 与像素 1:1，
      * 这样日期刻度才是「按屏幕宽度」算的，也不会被 preserveAspectRatio 拉扁。
@@ -130,11 +135,14 @@
      * @param {HTMLElement} host 承载 SVG 的容器（必须已在文档中）
      */
     function renderChart(series, host) {
-        var H = 168;
-        var PAD_L = 46;
+        var PAD_L = 60; // 要放得下「253,756」这种精确刻度
         var PAD_R = 14;
-        var PAD_T = 14;
-        var PAD_B = 26;
+        var REGION_LABEL_Y = 12; // 「累计」小标题基线
+        var LINE_TOP = 20;
+        var LINE_H = 92;
+        var GAP = 32; // 要容下折线的下界刻度 + 「每日新增」标题，太窄会挤在一起
+        var BARS_H = 58;
+        var X_LABEL_H = 24;
 
         var W = Math.round(host.clientWidth || 720);
         W = Math.max(240, Math.min(1100, W)); // 别让极端宽度把布局撑坏
@@ -144,6 +152,18 @@
         });
         if (points.length < 2) return "";
 
+        var lineBottom = LINE_TOP + LINE_H;
+        var barsTop = lineBottom + GAP;
+        var barsBottom = barsTop + BARS_H;
+        var H = barsBottom + X_LABEL_H;
+
+        var innerW = W - PAD_L - PAD_R;
+
+        function x(i) {
+            return PAD_L + (innerW * i) / (points.length - 1);
+        }
+
+        /* ---- 上块：累计曲线 ---- */
         var values = points.map(function (p) {
             return p.stars;
         });
@@ -154,48 +174,137 @@
             max = min + 1;
         }
         var span = max - min;
-        var innerW = W - PAD_L - PAD_R;
-        var innerH = H - PAD_T - PAD_B;
 
-        function x(i) {
-            return PAD_L + (innerW * i) / (points.length - 1);
-        }
-        function y(v) {
-            return PAD_T + innerH * (1 - (v - min) / span);
+        function yLine(v) {
+            return LINE_TOP + LINE_H * (1 - (v - min) / span);
         }
 
         var line = points
             .map(function (p, i) {
-                return (i === 0 ? "M" : "L") + x(i).toFixed(1) + "," + y(p.stars).toFixed(1);
+                return (i === 0 ? "M" : "L") + x(i).toFixed(1) + "," + yLine(p.stars).toFixed(1);
             })
             .join(" ");
 
         var area =
             line +
-            " L" + x(points.length - 1).toFixed(1) + "," + (PAD_T + innerH) +
-            " L" + PAD_L + "," + (PAD_T + innerH) + " Z";
+            " L" + x(points.length - 1).toFixed(1) + "," + lineBottom +
+            " L" + PAD_L + "," + lineBottom + " Z";
 
-        // Y 轴只标最大、最小，避免拥挤
-        var yLabels =
-            '<text class="chart-axis" x="' + (PAD_L - 8) + '" y="' + (PAD_T + 6) + '" text-anchor="end">' +
-            formatCount(max) + "</text>" +
-            '<text class="chart-axis" x="' + (PAD_L - 8) + '" y="' + (PAD_T + innerH) + '" text-anchor="end">' +
-            formatCount(min) + "</text>";
+        /* ---- 下块：每日新增 ---- */
+        // 第 i 根柱 = points[i].stars - points[i-1].stars，柱子对齐到当天刻度
+        var dailies = [];
+        for (var d = 1; d < points.length; d += 1) {
+            dailies.push({
+                date: points[d].date,
+                delta: points[d].stars - points[d - 1].stars,
+                index: d
+            });
+        }
+
+        var maxPos = 0;
+        var maxNeg = 0;
+        dailies.forEach(function (item) {
+            if (item.delta > maxPos) maxPos = item.delta;
+            if (-item.delta > maxNeg) maxNeg = -item.delta;
+        });
+        // 全平时给个最小刻度，避免除零；此时柱子都贴基线
+        if (maxPos === 0 && maxNeg === 0) maxPos = 1;
+
+        // 有跌的日期时把 0 线抬高，给负值留出向下空间
+        var posH = BARS_H * (maxPos / (maxPos + maxNeg));
+        var negH = BARS_H - posH;
+        var zeroY = barsTop + posH;
+        var scalePos = maxPos > 0 ? posH / maxPos : 0;
+        var scaleNeg = maxNeg > 0 ? negH / maxNeg : 0;
+
+        var slot = innerW / (points.length - 1);
+        var barW = Math.max(3, Math.min(26, slot * 0.55));
+
+        var bars = dailies
+            .map(function (item) {
+                var bx = Math.min(
+                    Math.max(x(item.index) - barW / 2, PAD_L),
+                    W - PAD_R - barW
+                );
+                var h = item.delta >= 0 ? item.delta * scalePos : -item.delta * scaleNeg;
+                // 增量为 0 也要看得见：画 2px 灰条，
+                // 否则「当天没涨」会被误读成「当天没数据」
+                if (h < 2) h = 2;
+                var by = item.delta >= 0 ? zeroY - h : zeroY;
+                var cls =
+                    item.delta > 0 ? "chart-bar-pos" :
+                    item.delta < 0 ? "chart-bar-neg" : "chart-bar-flat";
+                return (
+                    '<rect class="' + cls + '" x="' + bx.toFixed(1) + '" y="' + by.toFixed(1) +
+                    '" width="' + barW.toFixed(1) + '" height="' + h.toFixed(1) + '" rx="1.5">' +
+                    "<title>" + escapeHtml(item.date) + " 新增 " +
+                    (item.delta > 0 ? "+" : "") + item.delta + " star</title></rect>"
+                );
+            })
+            .join("");
 
         /**
-         * X 轴日期标签：按可用宽度决定标几个 —— 宽屏最多 7 个，窄屏收到 3 个。
+         * 轴刻度数值。
+         * 累计值用 k 简写时，「39,579」和「39,596」都会变成「39.6k」，
+         * 上下界一模一样，读者以为没变化 —— 所以这里优先给精确值，
+         * 只有大到放不下（≥1000 万）才退回简写。
+         */
+        function axisValue(v) {
+            if (Math.abs(v) < 10000000) return v.toLocaleString("en-US");
+            return formatCount(v);
+        }
+
+        // 累计块：只标最大、最小，避免拥挤
+        var lineYLabels =
+            '<text class="chart-axis" x="' + (PAD_L - 8) + '" y="' + (LINE_TOP + 6) +
+            '" text-anchor="end">' + axisValue(max) + "</text>" +
+            '<text class="chart-axis" x="' + (PAD_L - 8) + '" y="' + lineBottom +
+            '" text-anchor="end">' + axisValue(min) + "</text>";
+
+        // 新增块：标峰值与 0 线；有下跌且留得出位置时才标负峰
+        // （跌幅很小时 0 线贴近底边，两个刻度会叠在一起，此时只留 0）
+        var barYLabels = "";
+        if (maxPos > 0) {
+            barYLabels +=
+                '<text class="chart-axis" x="' + (PAD_L - 8) + '" y="' + (barsTop + 6) +
+                '" text-anchor="end">+' + axisValue(maxPos) + "</text>";
+        }
+        if (maxNeg > 0 && barsBottom - zeroY >= 14) {
+            barYLabels +=
+                '<text class="chart-axis" x="' + (PAD_L - 8) + '" y="' + barsBottom +
+                '" text-anchor="end">-' + axisValue(maxNeg) + "</text>";
+        }
+        barYLabels +=
+            '<text class="chart-axis" x="' + (PAD_L - 8) + '" y="' + (zeroY + 3) +
+            '" text-anchor="end">0</text>';
+
+        // 两块各自的说明文字，放在左侧轴标签列的右边
+        var regionLabels =
+            '<text class="chart-region" x="' + PAD_L + '" y="' + REGION_LABEL_Y + '">累计</text>' +
+            '<text class="chart-region" x="' + PAD_L + '" y="' + (barsTop - 7) + '">每日新增</text>';
+
+        // 0 基线：让读者一眼看出柱子是涨还是跌
+        var baseline =
+            '<line class="chart-baseline" x1="' + PAD_L + '" y1="' + zeroY.toFixed(1) +
+            '" x2="' + (W - PAD_R) + '" y2="' + zeroY.toFixed(1) + '"/>';
+
+        /**
+         * X 轴日期标签：按可用宽度决定标几个 —— 宽屏全部标出，窄屏收到 3 个。
          *
          * 之前写死首/中/尾 3 个，桌面宽屏上整条曲线只有 3 个刻度，
          * 中间几天是哪天只能靠悬停。现在按可用宽度反推：
          * 每 88px 一个刻度（「10-17」约 34px 宽 + 54px 呼吸间距）。
-         *   · 宽屏约 840px 可用 → 9 → 封顶 7 个
+         *   · 宽屏约 1360px 可用 → 15 → 够标满全部 8 个点
          *   · 约 350px 可用      → 3 个
          *   · 约 300px 可用      → 3 个（保底）
+         *
+         * 上限取 8 而不是 7：窗口是 8 个日点，若只标 7 个，
+         * 均匀取样会跳过中间某一天（如 10-30），日轴上出现看不懂的空洞。
          */
         function xTickIndices(count) {
             var tickW = 88;
             var usable = W - PAD_L - PAD_R;
-            var ticks = Math.min(7, Math.max(3, Math.floor(usable / tickW)));
+            var ticks = Math.min(8, Math.max(3, Math.floor(usable / tickW)));
             ticks = Math.min(ticks, count); // 数据点比 3 个还少时不能硬凑
             if (ticks <= 1) return [count - 1];
 
@@ -223,11 +332,11 @@
             })
             .join("");
 
-        // 悬停提示：每个点一个热区
+        // 悬停提示：累计曲线每个点一个热区
         var hotspots = points
             .map(function (p, i) {
                 var cx = x(i).toFixed(1);
-                var cy = y(p.stars).toFixed(1);
+                var cy = yLine(p.stars).toFixed(1);
                 return '<g class="chart-hit">' +
                     '<circle cx="' + cx + '" cy="' + cy + '" r="10" fill="transparent"></circle>' +
                     '<circle class="chart-dot" cx="' + cx + '" cy="' + cy + '" r="3"></circle>' +
@@ -238,15 +347,17 @@
 
         return (
             '<svg class="chart" viewBox="0 0 ' + W + " " + H + '" width="' + W + '" height="' + H +
-            '" role="img" aria-label="Star 变化曲线">' +
+            '" role="img" aria-label="Star 累计曲线与每日新增柱状图">' +
             '<defs><linearGradient id="chart-fill" x1="0" y1="0" x2="0" y2="1">' +
             '<stop offset="0%" stop-color="#16a34a" stop-opacity=".18"/>' +
             '<stop offset="100%" stop-color="#16a34a" stop-opacity="0"/>' +
             "</linearGradient></defs>" +
+            regionLabels +
             '<path d="' + area + '" fill="url(#chart-fill)"/>' +
             '<path d="' + line + '" fill="none" stroke="#16a34a" stroke-width="2" ' +
             'stroke-linejoin="round" stroke-linecap="round"/>' +
-            yLabels + xLabels + hotspots +
+            lineYLabels + barYLabels + baseline + bars +
+            xLabels + hotspots +
             "</svg>"
         );
     }
@@ -310,7 +421,8 @@
             // 空壳容器：图表要量宿主宽度才能定 X 轴刻度，必须等它进文档后再画
             body = '<div class="star-panel-chart"></div>';
             // 点数不足时明确提示，避免 2 个点被误读成「持续增长」
-            if (valid.length < 7) {
+            // 8 个日点 = 7 个区间，才够画满 7 根「每日新增」柱
+            if (valid.length < 8) {
                 body +=
                     '<p class="chart-note">' + icon("clock") +
                     "数据积累中（已记录 " + valid.length + " 天），满 7 天后曲线才完整</p>";
@@ -651,7 +763,8 @@
         .then(function (results) {
             var data = results[0];
             var history = results[1];
-            data.star = buildStarData(history, repo, 7);
+            // 取 8 个日点：累计线跨 7 天，且正好够算 7 个「每日新增」
+            data.star = buildStarData(history, repo, 8);
             render(data);
         })
         .catch(function (error) {

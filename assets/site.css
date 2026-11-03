@@ -1792,6 +1792,19 @@
         .chart-dot { fill: #16a34a; opacity: 0; transition: opacity .12s; }
         .chart-hit:hover .chart-dot { opacity: 1; }
 
+        /* 每日新增柱：涨绿跌红，0 用灰；半透明避免盖住基线 */
+        .chart-bar-pos { fill: #16a34a; fill-opacity: .55; }
+        .chart-bar-neg { fill: #dc2626; fill-opacity: .55; }
+        .chart-bar-flat { fill: var(--faint); fill-opacity: .4; }
+        .chart-baseline { stroke: var(--border-strong); stroke-width: 1; stroke-dasharray: 3 3; }
+        /* 「累计」「每日新增」两个分区的小标题 */
+        .chart-region {
+            font-size: 10px;
+            fill: var(--muted);
+            font-family: inherit;
+            font-weight: 500;
+        }
+
         .chart-empty {
             display: flex;
             align-items: center;
