@@ -70022,5 +70022,31 @@
     "url": "https://github.com/cloudflare/security-audit-skill",
     "license_category": "open",
     "archived": false
+  },
+  {
+    "name": "dsh-superagent",
+    "repo": "deepseek-ai/dsh-superagent-prototype",
+    "category": "工具",
+    "category_slug": "tool",
+    "subcategory": "智能体",
+    "subcategory_slug": "agent",
+    "tech_stack": [
+      "TypeScript",
+      "Node.js",
+      "React"
+    ],
+    "deploy_type": "源码 / WorkBuddy 插件",
+    "note_zh": "DeepSeek 的主动式编码 Agent：监听 GitHub 与飞书，按需开工作项并提 PR",
+    "license": "MIT",
+    "added_at": "2026-11-04T02:01:24+08:00",
+    "stars": 16276,
+    "updated_at": "2026-11-03T09:29:14Z",
+    "default_branch": "main",
+    "download_url": "https://codeload.github.com/deepseek-ai/dsh-superagent-prototype/zip/refs/heads/main",
+    "platform": "github",
+    "kind": "framework",
+    "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+    "license_category": "open",
+    "archived": false
   }
 ]

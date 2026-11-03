@@ -1,0 +1,32 @@
+{
+  "repo": "deepseek-ai/dsh-superagent-prototype",
+  "slug": "deepseek-ai__dsh-superagent-prototype",
+  "name": "dsh-superagent",
+  "note_zh": "DeepSeek 的主动式编码 Agent：监听 GitHub 与飞书，按需开工作项并提 PR",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Node.js",
+    "React"
+  ],
+  "deploy_type": "源码 / WorkBuddy 插件",
+  "platform": "github",
+  "updated_at": "2026-11-03T09:29:14Z",
+  "added_at": "2026-11-04T02:01:24+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/deepseek-ai/dsh-superagent-prototype/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}
