@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-11-02T09:10:44Z",
+  "updated_at": "2026-11-03T10:33:30Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/xerrors/Yuxi/zip/refs/heads/main",

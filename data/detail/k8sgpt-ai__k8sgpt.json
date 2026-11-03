@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-11-01T10:05:36Z",
+  "updated_at": "2026-11-03T10:22:20Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/k8sgpt-ai/k8sgpt/zip/refs/heads/main",
