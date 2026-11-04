@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-11-03T09:41:32Z",
+  "updated_at": "2026-11-04T10:31:24Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/iflytek/astron-agent/zip/refs/heads/main",

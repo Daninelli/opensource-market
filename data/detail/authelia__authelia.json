@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-11-03T05:27:31Z",
+  "updated_at": "2026-11-04T10:06:09Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/authelia/authelia/zip/refs/heads/master",

@@ -16,7 +16,7 @@
   ],
   "deploy_type": "镜像 / 源码",
   "platform": "github",
-  "updated_at": "2026-11-02T20:20:47Z",
+  "updated_at": "2026-11-04T09:45:44Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/home-assistant/operating-system/zip/refs/heads/dev",
