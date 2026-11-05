@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库 / 命令行",
   "platform": "github",
-  "updated_at": "2026-11-03T16:33:05Z",
+  "updated_at": "2026-11-04T12:11:42Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/webdriverio/webdriverio/zip/refs/heads/main",

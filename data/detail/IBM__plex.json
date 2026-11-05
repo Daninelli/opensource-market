@@ -15,7 +15,7 @@
   ],
   "deploy_type": "源码 / 二进制",
   "platform": "github",
-  "updated_at": "2026-11-03T12:20:44Z",
+  "updated_at": "2026-11-04T12:28:25Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/IBM/plex/zip/refs/heads/master",

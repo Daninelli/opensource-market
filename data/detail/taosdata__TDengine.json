@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 二进制",
   "platform": "github",
-  "updated_at": "2026-11-04T07:18:42Z",
+  "updated_at": "2026-11-05T03:32:37Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/taosdata/TDengine/zip/refs/heads/main",

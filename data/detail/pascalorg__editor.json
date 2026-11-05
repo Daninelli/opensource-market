@@ -16,7 +16,7 @@
   ],
   "deploy_type": "前端源码 / 命令行",
   "platform": "github",
-  "updated_at": "2026-11-03T20:36:23Z",
+  "updated_at": "2026-11-05T06:43:20Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/pascalorg/editor/zip/refs/heads/main",

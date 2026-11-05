@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-11-04T10:53:18Z",
+  "updated_at": "2026-11-05T10:54:11Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/activepieces/activepieces/zip/refs/heads/main",

@@ -17,7 +17,7 @@
   ],
   "deploy_type": "客户端 / 二进制",
   "platform": "github",
-  "updated_at": "2026-11-04T10:21:21Z",
+  "updated_at": "2026-11-05T08:35:20Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/tailscale/tailscale/zip/refs/heads/main",

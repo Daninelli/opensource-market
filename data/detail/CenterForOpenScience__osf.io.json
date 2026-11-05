@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-11-03T15:22:12Z",
+  "updated_at": "2026-11-05T10:11:58Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/CenterForOpenScience/osf.io/zip/refs/heads/develop",
