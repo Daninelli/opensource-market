@@ -16,10 +16,10 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-11-05T10:51:36Z",
+  "updated_at": "2026-11-06T07:21:00Z",
   "added_at": "2026-10-19T23:57:19+08:00",
-  "default_branch": "release/v3.8.53",
-  "download_url": "https://codeload.github.com/diegosouzapw/OmniRoute/zip/refs/heads/release%2Fv3.8.53",
+  "default_branch": "release/v3.8.54",
+  "download_url": "https://codeload.github.com/diegosouzapw/OmniRoute/zip/refs/heads/release%2Fv3.8.54",
   "release": {
     "tag": "v3.8.52",
     "name": "v3.8.52",

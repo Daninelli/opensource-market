@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 二进制",
   "platform": "github",
-  "updated_at": "2026-11-05T07:30:40Z",
+  "updated_at": "2026-11-06T03:05:13Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/apache/seatunnel/zip/refs/heads/dev",
