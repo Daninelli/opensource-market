@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-11-06T07:45:20Z",
+  "updated_at": "2026-11-07T08:37:26Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/open-webui/open-webui/zip/refs/heads/main",

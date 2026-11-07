@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-11-06T06:18:18Z",
+  "updated_at": "2026-11-06T18:23:12Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/voxel51/fiftyone/zip/refs/heads/main",

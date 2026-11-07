@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 传统部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-11-04T12:10:10Z",
+  "updated_at": "2026-11-07T02:00:15Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "4.0",
   "download_url": "https://codeload.github.com/openspug/spug/zip/refs/heads/4.0",

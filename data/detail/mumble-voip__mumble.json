@@ -16,7 +16,7 @@
   ],
   "deploy_type": "客户端 / 二进制",
   "platform": "github",
-  "updated_at": "2026-11-04T18:32:00Z",
+  "updated_at": "2026-11-07T04:20:54Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mumble-voip/mumble/zip/refs/heads/master",

@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-11-06T10:24:32Z",
+  "updated_at": "2026-11-07T09:04:04Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/livekit/livekit/zip/refs/heads/master",

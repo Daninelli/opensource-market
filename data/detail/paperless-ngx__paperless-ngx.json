@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-11-06T03:09:06Z",
+  "updated_at": "2026-11-07T02:47:39Z",
   "added_at": "2026-10-18T00:20:44+08:00",
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/paperless-ngx/paperless-ngx/zip/refs/heads/dev",

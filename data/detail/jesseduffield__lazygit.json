@@ -17,7 +17,7 @@
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-11-04T12:42:41Z",
+  "updated_at": "2026-11-06T20:45:48Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/jesseduffield/lazygit/zip/refs/heads/master",

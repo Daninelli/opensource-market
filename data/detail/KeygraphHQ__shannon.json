@@ -17,7 +17,7 @@
   ],
   "deploy_type": "命令行 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-11-04T15:15:03Z",
+  "updated_at": "2026-11-06T16:44:55Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/KeygraphHQ/shannon/zip/refs/heads/main",

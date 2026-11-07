@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库 / 命令行",
   "platform": "github",
-  "updated_at": "2026-11-05T18:38:45Z",
+  "updated_at": "2026-11-06T22:49:45Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/microsoft/playwright-mcp/zip/refs/heads/main",
