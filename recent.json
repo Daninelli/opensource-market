@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T10:07:54.604Z",
-  "refreshed_at": "2026-11-07T10:07:54.478Z",
+  "generated_at": "2026-11-08T10:22:57.956Z",
+  "refreshed_at": "2026-11-08T10:22:57.824Z",
   "days": 7,
   "total_projects": 1701,
   "count": 1,
@@ -14,7 +14,7 @@
       "subcategory": "智能体",
       "note_zh": "DeepSeek 的主动式编码 Agent：监听 GitHub 与飞书，按需开工作项并提 PR",
       "license": "MIT",
-      "stars": 20525,
+      "stars": 21003,
       "updated_at": "2026-11-03T09:29:14Z",
       "download_url": "https://codeload.github.com/deepseek-ai/dsh-superagent-prototype/zip/refs/heads/main",
       "platform": "github",
