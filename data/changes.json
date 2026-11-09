@@ -1,7 +1,12 @@
 {
   "note": "由 tools/track-changes.mjs 自动维护；只追加变动记录，不重新计算历史",
-  "updated_at": "2026-11-08T10:22:58.172Z",
+  "updated_at": "2026-11-09T11:31:33.088Z",
   "events": [
+    {
+      "date": "2026-11-09",
+      "repo": "bytedance/UI-TARS-desktop",
+      "type": "archived"
+    },
     {
       "date": "2026-10-28",
       "repo": "macrozheng/mall",
@@ -6073,7 +6078,7 @@
       "license": "Apache-2.0",
       "pinned": false,
       "pin_label": null,
-      "archived": false
+      "archived": true
     },
     "VectifyAI/PageIndex": {
       "license": "MIT",
@@ -10289,6 +10294,12 @@
     },
     "deepseek-ai/dsh-superagent-prototype": {
       "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "chadyi/StudyOnTV": {
+      "license": "Source Available (non-commercial)",
       "pinned": false,
       "pin_label": null,
       "archived": false

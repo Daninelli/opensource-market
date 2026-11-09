@@ -17,7 +17,7 @@
   ],
   "deploy_type": "源码 / 依赖库",
   "platform": "github",
-  "updated_at": "2026-11-05T08:00:22Z",
+  "updated_at": "2026-11-09T07:36:59Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/OpenBMB/VoxCPM/zip/refs/heads/main",

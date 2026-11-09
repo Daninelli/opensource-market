@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-09-28T10:37:14Z",
+  "updated_at": "2026-11-09T09:38:55Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/IceWhaleTech/CasaOS/zip/refs/heads/main",
