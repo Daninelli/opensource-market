@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/thedotmack/claude-mem/zip/refs/heads/main",
   "release": {
-    "tag": "v15.12.1",
-    "name": "v15.12.1",
-    "published": "2026-11-08T22:09:47Z",
-    "url": "https://github.com/thedotmack/claude-mem/releases/tag/v15.12.1"
+    "tag": "v15.13.0",
+    "name": "v15.13.0",
+    "published": "2026-11-09T10:06:27Z",
+    "url": "https://github.com/thedotmack/claude-mem/releases/tag/v15.13.0"
   },
   "assets": [],
   "pinned": false,

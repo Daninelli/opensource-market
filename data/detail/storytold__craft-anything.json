@@ -1,0 +1,57 @@
+{
+  "repo": "storytold/craft-anything",
+  "slug": "storytold__craft-anything",
+  "name": "Craft Anything",
+  "note_zh": "研究任意网站/应用/游戏如何运作，再由 AI 复刻出你自己的版本，纯 Rust 引擎",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "egui"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-11-09T12:57:37Z",
+  "added_at": "2026-11-09T20:59:08+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/storytold/craft-anything/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.6.0",
+    "name": "Craft Anything v0.6.0",
+    "published": "2026-11-09T12:57:38Z",
+    "url": "https://github.com/storytold/craft-anything/releases/tag/v0.6.0"
+  },
+  "assets": [
+    {
+      "name": "craft-anything-0.6.0-linux-aarch64.flatpak",
+      "size": 47501840,
+      "url": "https://github.com/storytold/craft-anything/releases/download/v0.6.0/craft-anything-0.6.0-linux-aarch64.flatpak"
+    },
+    {
+      "name": "craft-anything-0.6.0-linux-x86_64.flatpak",
+      "size": 50985048,
+      "url": "https://github.com/storytold/craft-anything/releases/download/v0.6.0/craft-anything-0.6.0-linux-x86_64.flatpak"
+    },
+    {
+      "name": "craft-anything-0.6.0-freebsd-aarch64.tar.gz",
+      "size": 63405780,
+      "url": "https://github.com/storytold/craft-anything/releases/download/v0.6.0/craft-anything-0.6.0-freebsd-aarch64.tar.gz"
+    },
+    {
+      "name": "craft-anything-0.6.0-freebsd-x86_64.tar.gz",
+      "size": 66916189,
+      "url": "https://github.com/storytold/craft-anything/releases/download/v0.6.0/craft-anything-0.6.0-freebsd-x86_64.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

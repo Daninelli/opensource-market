@@ -27,7 +27,18 @@
     "published": "2026-11-09T06:24:42Z",
     "url": "https://github.com/qybaihe/bla/releases/tag/bla-agents-3.2.1"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "bla-agents-3.2.1.tgz",
+      "size": 695187,
+      "url": "https://github.com/qybaihe/bla/releases/download/bla-agents-3.2.1/bla-agents-3.2.1.tgz"
+    },
+    {
+      "name": "bla-shield-3.2.1.tgz",
+      "size": 695205,
+      "url": "https://github.com/qybaihe/bla/releases/download/bla-agents-3.2.1/bla-shield-3.2.1.tgz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

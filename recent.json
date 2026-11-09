@@ -1,10 +1,40 @@
 {
-  "generated_at": "2026-11-09T12:33:18.545Z",
+  "generated_at": "2026-11-09T13:03:26.518Z",
   "refreshed_at": "2026-11-09T11:31:32.693Z",
   "days": 7,
-  "total_projects": 1703,
-  "count": 3,
+  "total_projects": 1705,
+  "count": 5,
   "items": [
+    {
+      "name": "T3 Code",
+      "repo": "pingdotgg/t3code",
+      "added_at": "2026-11-09T20:59:08+08:00",
+      "category": "工具",
+      "category_slug": "tool",
+      "subcategory": "智能体",
+      "note_zh": "统一控制本机各类编码 Agent 的桌面/移动控制台，兼容 Claude Code、Codex 等",
+      "license": "MIT",
+      "stars": 53317,
+      "updated_at": "2026-11-09T12:52:47Z",
+      "download_url": "https://codeload.github.com/pingdotgg/t3code/zip/refs/heads/main",
+      "platform": "github",
+      "submitted_by": null
+    },
+    {
+      "name": "Craft Anything",
+      "repo": "storytold/craft-anything",
+      "added_at": "2026-11-09T20:59:08+08:00",
+      "category": "工具",
+      "category_slug": "tool",
+      "subcategory": "智能体",
+      "note_zh": "研究任意网站/应用/游戏如何运作，再由 AI 复刻出你自己的版本，纯 Rust 引擎",
+      "license": "Apache-2.0",
+      "stars": 23788,
+      "updated_at": "2026-11-09T12:57:37Z",
+      "download_url": "https://codeload.github.com/storytold/craft-anything/zip/refs/heads/main",
+      "platform": "github",
+      "submitted_by": null
+    },
     {
       "name": "BLA（Blind LLM Agents）",
       "repo": "qybaihe/bla",

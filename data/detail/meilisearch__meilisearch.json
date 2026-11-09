@@ -20,41 +20,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/meilisearch/meilisearch/zip/refs/heads/main",
   "release": {
-    "tag": "v1.56.1",
-    "name": "v1.56.1 🐫 ",
-    "published": "2026-11-02T09:38:53Z",
-    "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.56.1"
+    "tag": "v1.56.2",
+    "name": "v1.56.2 🐫",
+    "published": "2026-11-09T12:48:04Z",
+    "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.56.2"
   },
   "assets": [
     {
-      "name": "meilisearch-macos-apple-silicon",
-      "size": 348419472,
-      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.1/meilisearch-macos-apple-silicon"
+      "name": "meilisearch-linux-aarch64",
+      "size": 350940256,
+      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.2/meilisearch-linux-aarch64"
     },
     {
-      "name": "meilisearch-macos-amd64",
-      "size": 351344024,
-      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.1/meilisearch-macos-amd64"
-    },
-    {
-      "name": "meilisearch-windows-amd64.exe",
-      "size": 353019904,
-      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.1/meilisearch-windows-amd64.exe"
-    },
-    {
-      "name": "meilisearch.deb",
-      "size": 59599432,
-      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.1/meilisearch.deb"
-    },
-    {
-      "name": "meilisearch-linux-riscv64",
-      "size": 350051728,
-      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.1/meilisearch-linux-riscv64"
-    },
-    {
-      "name": "meilisearch-enterprise-windows-amd64.exe",
-      "size": 354613760,
-      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.1/meilisearch-enterprise-windows-amd64.exe"
+      "name": "meilisearch-linux-amd64",
+      "size": 357300152,
+      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.2/meilisearch-linux-amd64"
     }
   ],
   "pinned": false,

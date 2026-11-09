@@ -22,16 +22,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/lightdash/lightdash/zip/refs/heads/main",
   "release": {
-    "tag": "3.179.1",
-    "name": "3.179.1",
-    "published": "2026-11-09T07:31:14Z",
-    "url": "https://github.com/lightdash/lightdash/releases/tag/3.179.1"
+    "tag": "3.184.0",
+    "name": "3.184.0",
+    "published": "2026-11-09T12:43:37Z",
+    "url": "https://github.com/lightdash/lightdash/releases/tag/3.184.0"
   },
   "assets": [
     {
-      "name": "lightdash-cli-3.179.1-linux-x64.tar.gz",
-      "size": 54529606,
-      "url": "https://github.com/lightdash/lightdash/releases/download/3.179.1/lightdash-cli-3.179.1-linux-x64.tar.gz"
+      "name": "lightdash-cli-3.184.0-linux-x64.tar.gz",
+      "size": 54537927,
+      "url": "https://github.com/lightdash/lightdash/releases/download/3.184.0/lightdash-cli-3.184.0-linux-x64.tar.gz"
     }
   ],
   "pinned": false,

@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/langfuse/langfuse/zip/refs/heads/main",
   "release": {
-    "tag": "v4.76.0",
-    "name": "v4.76.0",
-    "published": "2026-11-05T18:08:03Z",
-    "url": "https://github.com/langfuse/langfuse/releases/tag/v4.76.0"
+    "tag": "v4.77.0",
+    "name": "v4.77.0",
+    "published": "2026-11-09T12:21:23Z",
+    "url": "https://github.com/langfuse/langfuse/releases/tag/v4.77.0"
   },
   "assets": [],
   "pinned": false,

@@ -20,10 +20,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/NangoHQ/nango/zip/refs/heads/master",
   "release": {
-    "tag": "v0.72.3",
-    "name": "v0.72.3",
-    "published": "2026-11-06T17:19:32Z",
-    "url": "https://github.com/NangoHQ/nango/releases/tag/v0.72.3"
+    "tag": "v0.72.4",
+    "name": "v0.72.4",
+    "published": "2026-11-09T09:46:40Z",
+    "url": "https://github.com/NangoHQ/nango/releases/tag/v0.72.4"
   },
   "assets": [],
   "pinned": false,

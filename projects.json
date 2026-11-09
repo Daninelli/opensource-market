@@ -959,33 +959,11 @@
   },
   {
     "release": {
-      "tag": "v3.33.0",
-      "name": "v3.33.0",
-      "published": "2026-10-15T11:46:29Z",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/tag/v3.33.0"
+      "tag": "v3.34.0",
+      "name": "v3.34.0",
+      "published": "2026-11-09T12:39:03Z",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/tag/v3.34.0"
     },
-    "best_assets": [
-      {
-        "name": "daily-stock-analysis-windows-installer-v3.33.0.exe",
-        "size": 241443590,
-        "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/download/v3.33.0/daily-stock-analysis-windows-installer-v3.33.0.exe"
-      },
-      {
-        "name": "daily-stock-analysis-macos-arm64-v3.33.0.dmg",
-        "size": 280960511,
-        "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/download/v3.33.0/daily-stock-analysis-macos-arm64-v3.33.0.dmg"
-      },
-      {
-        "name": "daily-stock-analysis-macos-x64-v3.33.0.dmg",
-        "size": 293686128,
-        "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/download/v3.33.0/daily-stock-analysis-macos-x64-v3.33.0.dmg"
-      },
-      {
-        "name": "daily-stock-analysis-windows-noinstall-v3.33.0.zip",
-        "size": 313097590,
-        "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/download/v3.33.0/daily-stock-analysis-windows-noinstall-v3.33.0.zip"
-      }
-    ],
     "name": "daily_stock_analysis",
     "repo": "ZhuLinsen/daily_stock_analysis",
     "category": "金融",
@@ -1529,10 +1507,10 @@
   },
   {
     "release": {
-      "tag": "v0.5.3",
-      "name": "v0.5.3",
-      "published": "2026-11-02T06:33:38Z",
-      "url": "https://github.com/volcengine/OpenViking/releases/tag/v0.5.3"
+      "tag": "v0.5.4",
+      "name": "v0.5.4",
+      "published": "2026-11-09T10:08:45Z",
+      "url": "https://github.com/volcengine/OpenViking/releases/tag/v0.5.4"
     },
     "name": "OpenViking",
     "repo": "volcengine/OpenViking",
@@ -1678,10 +1656,10 @@
   },
   {
     "release": {
-      "tag": "v5.8.1",
-      "name": "Release v5.8.1",
-      "published": "2026-11-08T23:26:54Z",
-      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/releases/tag/v5.8.1"
+      "tag": "v5.8.2",
+      "name": "v5.8.2",
+      "published": "2026-11-09T11:42:35Z",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/releases/tag/v5.8.2"
     },
     "name": "oh-my-claudecode",
     "repo": "Yeachan-Heo/oh-my-claudecode",
@@ -3073,16 +3051,21 @@
   },
   {
     "release": {
-      "tag": "v2.14.6",
-      "name": "v2.14.6",
-      "published": "2026-10-23T07:04:43Z",
-      "url": "https://github.com/goharbor/harbor/releases/tag/v2.14.6"
+      "tag": "v2.16.0",
+      "name": "v2.16.0",
+      "published": "2026-11-09T07:47:39Z",
+      "url": "https://github.com/goharbor/harbor/releases/tag/v2.16.0"
     },
     "best_assets": [
       {
-        "name": "harbor-offline-installer-v2.14.6.tgz",
-        "size": 783725093,
-        "url": "https://github.com/goharbor/harbor/releases/download/v2.14.6/harbor-offline-installer-v2.14.6.tgz"
+        "name": "harbor-offline-installer-v2.16.0-arm64.tgz",
+        "size": 676753212,
+        "url": "https://github.com/goharbor/harbor/releases/download/v2.16.0/harbor-offline-installer-v2.16.0-arm64.tgz"
+      },
+      {
+        "name": "harbor-offline-installer-v2.16.0-amd64.tgz",
+        "size": 768471195,
+        "url": "https://github.com/goharbor/harbor/releases/download/v2.16.0/harbor-offline-installer-v2.16.0-amd64.tgz"
       }
     ],
     "name": "harbor",
@@ -13527,10 +13510,10 @@
   },
   {
     "release": {
-      "tag": "v15.12.1",
-      "name": "v15.12.1",
-      "published": "2026-11-08T22:09:47Z",
-      "url": "https://github.com/thedotmack/claude-mem/releases/tag/v15.12.1"
+      "tag": "v15.13.0",
+      "name": "v15.13.0",
+      "published": "2026-11-09T10:06:27Z",
+      "url": "https://github.com/thedotmack/claude-mem/releases/tag/v15.13.0"
     },
     "name": "Claude-mem",
     "repo": "thedotmack/claude-mem",
@@ -13606,46 +13589,46 @@
   },
   {
     "release": {
-      "tag": "v1.4.254",
-      "name": "1.4.254",
-      "published": "2026-11-08T23:25:31Z",
-      "url": "https://github.com/stablyai/orca/releases/tag/v1.4.254"
+      "tag": "v1.4.255",
+      "name": "1.4.255",
+      "published": "2026-11-09T12:24:14Z",
+      "url": "https://github.com/stablyai/orca/releases/tag/v1.4.255"
     },
     "best_assets": [
       {
         "name": "orca-windows-setup.exe",
-        "size": 211410944,
-        "url": "https://github.com/stablyai/orca/releases/download/v1.4.254/orca-windows-setup.exe"
+        "size": 212788824,
+        "url": "https://github.com/stablyai/orca/releases/download/v1.4.255/orca-windows-setup.exe"
       },
       {
         "name": "orca-macos-arm64.dmg",
-        "size": 280283249,
-        "url": "https://github.com/stablyai/orca/releases/download/v1.4.254/orca-macos-arm64.dmg"
+        "size": 282275362,
+        "url": "https://github.com/stablyai/orca/releases/download/v1.4.255/orca-macos-arm64.dmg"
       },
       {
         "name": "orca-macos-x64.dmg",
-        "size": 290198600,
-        "url": "https://github.com/stablyai/orca/releases/download/v1.4.254/orca-macos-x64.dmg"
+        "size": 292047245,
+        "url": "https://github.com/stablyai/orca/releases/download/v1.4.255/orca-macos-x64.dmg"
       },
       {
-        "name": "orca-ide-1.4.254.aarch64.rpm",
-        "size": 158184885,
-        "url": "https://github.com/stablyai/orca/releases/download/v1.4.254/orca-ide-1.4.254.aarch64.rpm"
+        "name": "orca-ide-1.4.255.aarch64.rpm",
+        "size": 159138469,
+        "url": "https://github.com/stablyai/orca/releases/download/v1.4.255/orca-ide-1.4.255.aarch64.rpm"
       },
       {
-        "name": "orca-ide-1.4.254.x86_64.rpm",
-        "size": 160935089,
-        "url": "https://github.com/stablyai/orca/releases/download/v1.4.254/orca-ide-1.4.254.x86_64.rpm"
+        "name": "orca-ide-1.4.255.x86_64.rpm",
+        "size": 162975213,
+        "url": "https://github.com/stablyai/orca/releases/download/v1.4.255/orca-ide-1.4.255.x86_64.rpm"
       },
       {
-        "name": "orca-sourcemaps-v1.4.254.zip",
-        "size": 17932370,
-        "url": "https://github.com/stablyai/orca/releases/download/v1.4.254/orca-sourcemaps-v1.4.254.zip"
+        "name": "orca-sourcemaps-v1.4.255.zip",
+        "size": 18249903,
+        "url": "https://github.com/stablyai/orca/releases/download/v1.4.255/orca-sourcemaps-v1.4.255.zip"
       },
       {
-        "name": "Orca-1.4.254-arm64-mac.zip",
-        "size": 281602848,
-        "url": "https://github.com/stablyai/orca/releases/download/v1.4.254/Orca-1.4.254-arm64-mac.zip"
+        "name": "Orca-1.4.255-arm64-mac.zip",
+        "size": 283537513,
+        "url": "https://github.com/stablyai/orca/releases/download/v1.4.255/Orca-1.4.255-arm64-mac.zip"
       }
     ],
     "name": "Orca",
@@ -17485,31 +17468,31 @@
   },
   {
     "release": {
-      "tag": "v0.19.0",
-      "name": "PdfCraft v0.19.0",
-      "published": "2026-11-06T20:21:58Z",
-      "url": "https://github.com/storytold/pdfcraft/releases/tag/v0.19.0"
+      "tag": "v0.20.0",
+      "name": "PdfCraft v0.20.0",
+      "published": "2026-11-09T12:10:51Z",
+      "url": "https://github.com/storytold/pdfcraft/releases/tag/v0.20.0"
     },
     "best_assets": [
       {
-        "name": "pdfcraft-0.19.0-linux-aarch64.flatpak",
-        "size": 81689072,
-        "url": "https://github.com/storytold/pdfcraft/releases/download/v0.19.0/pdfcraft-0.19.0-linux-aarch64.flatpak"
+        "name": "pdfcraft-0.20.0-linux-aarch64.flatpak",
+        "size": 84278880,
+        "url": "https://github.com/storytold/pdfcraft/releases/download/v0.20.0/pdfcraft-0.20.0-linux-aarch64.flatpak"
       },
       {
-        "name": "pdfcraft-0.19.0-linux-x86_64.flatpak",
-        "size": 86134888,
-        "url": "https://github.com/storytold/pdfcraft/releases/download/v0.19.0/pdfcraft-0.19.0-linux-x86_64.flatpak"
+        "name": "pdfcraft-0.20.0-linux-x86_64.flatpak",
+        "size": 88602568,
+        "url": "https://github.com/storytold/pdfcraft/releases/download/v0.20.0/pdfcraft-0.20.0-linux-x86_64.flatpak"
       },
       {
-        "name": "pdfcraft-0.19.0-freebsd-aarch64.tar.gz",
-        "size": 109466855,
-        "url": "https://github.com/storytold/pdfcraft/releases/download/v0.19.0/pdfcraft-0.19.0-freebsd-aarch64.tar.gz"
+        "name": "pdfcraft-0.20.0-freebsd-aarch64.tar.gz",
+        "size": 113536014,
+        "url": "https://github.com/storytold/pdfcraft/releases/download/v0.20.0/pdfcraft-0.20.0-freebsd-aarch64.tar.gz"
       },
       {
-        "name": "pdfcraft-0.19.0-freebsd-x86_64.tar.gz",
-        "size": 114293770,
-        "url": "https://github.com/storytold/pdfcraft/releases/download/v0.19.0/pdfcraft-0.19.0-freebsd-x86_64.tar.gz"
+        "name": "pdfcraft-0.20.0-freebsd-x86_64.tar.gz",
+        "size": 118624390,
+        "url": "https://github.com/storytold/pdfcraft/releases/download/v0.20.0/pdfcraft-0.20.0-freebsd-x86_64.tar.gz"
       }
     ],
     "name": "Pdfcraft",
@@ -17932,10 +17915,10 @@
   },
   {
     "release": {
-      "tag": "v4.76.0",
-      "name": "v4.76.0",
-      "published": "2026-11-05T18:08:03Z",
-      "url": "https://github.com/langfuse/langfuse/releases/tag/v4.76.0"
+      "tag": "v4.77.0",
+      "name": "v4.77.0",
+      "published": "2026-11-09T12:21:23Z",
+      "url": "https://github.com/langfuse/langfuse/releases/tag/v4.77.0"
     },
     "name": "Langfuse",
     "repo": "langfuse/langfuse",
@@ -18539,10 +18522,10 @@
   },
   {
     "release": {
-      "tag": "v17.9.6",
-      "name": "OpenProject 17.9.6",
-      "published": "2026-10-30T13:32:00Z",
-      "url": "https://github.com/opf/openproject/releases/tag/v17.9.6"
+      "tag": "v17.9.7",
+      "name": "OpenProject 17.9.7",
+      "published": "2026-11-09T08:19:46Z",
+      "url": "https://github.com/opf/openproject/releases/tag/v17.9.7"
     },
     "name": "Openproject",
     "repo": "opf/openproject",
@@ -22448,10 +22431,10 @@
   },
   {
     "release": {
-      "tag": "@assistant-ui/tap@0.9.25",
-      "name": "@assistant-ui/tap@0.9.25",
-      "published": "2026-11-08T04:14:04Z",
-      "url": "https://github.com/assistant-ui/assistant-ui/releases/tag/%40assistant-ui/tap%400.9.25"
+      "tag": "@assistant-ui/ai-sdk@0.0.17",
+      "name": "@assistant-ui/ai-sdk@0.0.17",
+      "published": "2026-11-09T12:41:18Z",
+      "url": "https://github.com/assistant-ui/assistant-ui/releases/tag/%40assistant-ui/ai-sdk%400.0.17"
     },
     "name": "Assistant-ui",
     "repo": "assistant-ui/assistant-ui",
@@ -26401,10 +26384,10 @@
   },
   {
     "release": {
-      "tag": "v1.19.3",
-      "name": "1.19.3",
-      "published": "2026-10-27T16:55:01Z",
-      "url": "https://github.com/humhub/humhub/releases/tag/v1.19.3"
+      "tag": "v1.19.4",
+      "name": "1.19.4",
+      "published": "2026-11-09T09:24:24Z",
+      "url": "https://github.com/humhub/humhub/releases/tag/v1.19.4"
     },
     "name": "Humhub",
     "repo": "humhub/humhub",
@@ -27366,21 +27349,21 @@
   },
   {
     "release": {
-      "tag": "v2.6.0",
-      "name": "Release v2.6.0 (build 68)",
-      "published": "2026-10-30T20:32:44Z",
-      "url": "https://github.com/simonoppowa/OpenNutriTracker/releases/tag/v2.6.0"
+      "tag": "v2.7.0",
+      "name": "Release v2.7.0 (build 69)",
+      "published": "2026-11-09T09:36:26Z",
+      "url": "https://github.com/simonoppowa/OpenNutriTracker/releases/tag/v2.7.0"
     },
     "best_assets": [
       {
         "name": "opennutritracker.ipa",
-        "size": 32794585,
-        "url": "https://github.com/simonoppowa/OpenNutriTracker/releases/download/v2.6.0/opennutritracker.ipa"
+        "size": 33314067,
+        "url": "https://github.com/simonoppowa/OpenNutriTracker/releases/download/v2.7.0/opennutritracker.ipa"
       },
       {
         "name": "app-release.apk",
-        "size": 107115073,
-        "url": "https://github.com/simonoppowa/OpenNutriTracker/releases/download/v2.6.0/app-release.apk"
+        "size": 108289584,
+        "url": "https://github.com/simonoppowa/OpenNutriTracker/releases/download/v2.7.0/app-release.apk"
       }
     ],
     "name": "OpenNutriTracker",
@@ -28127,31 +28110,31 @@
   },
   {
     "release": {
-      "tag": "release-5.00.0",
-      "name": "release-5.00.0",
-      "published": "2026-10-27T08:12:55Z",
-      "url": "https://github.com/nopSolutions/nopCommerce/releases/tag/release-5.00.0"
+      "tag": "release-5.00.1",
+      "name": "release-5.00.1",
+      "published": "2026-11-09T09:23:13Z",
+      "url": "https://github.com/nopSolutions/nopCommerce/releases/tag/release-5.00.1"
     },
     "best_assets": [
       {
-        "name": "nopCommerce_5.00.0_NoSource_win_x86.zip",
-        "size": 151189985,
-        "url": "https://github.com/nopSolutions/nopCommerce/releases/download/release-5.00.0/nopCommerce_5.00.0_NoSource_win_x86.zip"
+        "name": "nopCommerce_5.00.1_NoSource_win_x86.zip",
+        "size": 151302692,
+        "url": "https://github.com/nopSolutions/nopCommerce/releases/download/release-5.00.1/nopCommerce_5.00.1_NoSource_win_x86.zip"
       },
       {
-        "name": "nopCommerce_5.00.0_NoSource_win_x64.zip",
-        "size": 155127687,
-        "url": "https://github.com/nopSolutions/nopCommerce/releases/download/release-5.00.0/nopCommerce_5.00.0_NoSource_win_x64.zip"
+        "name": "nopCommerce_5.00.1_NoSource_win_x64.zip",
+        "size": 155240449,
+        "url": "https://github.com/nopSolutions/nopCommerce/releases/download/release-5.00.1/nopCommerce_5.00.1_NoSource_win_x64.zip"
       },
       {
-        "name": "nopCommerce_5.00.0_NoSource_linux_x64.zip",
-        "size": 154314690,
-        "url": "https://github.com/nopSolutions/nopCommerce/releases/download/release-5.00.0/nopCommerce_5.00.0_NoSource_linux_x64.zip"
+        "name": "nopCommerce_5.00.1_NoSource_linux_x64.zip",
+        "size": 154427413,
+        "url": "https://github.com/nopSolutions/nopCommerce/releases/download/release-5.00.1/nopCommerce_5.00.1_NoSource_linux_x64.zip"
       },
       {
-        "name": "nopCommerce_5.00.0_Source.zip",
-        "size": 50994531,
-        "url": "https://github.com/nopSolutions/nopCommerce/releases/download/release-5.00.0/nopCommerce_5.00.0_Source.zip"
+        "name": "nopCommerce_5.00.1_Source.zip",
+        "size": 50516621,
+        "url": "https://github.com/nopSolutions/nopCommerce/releases/download/release-5.00.1/nopCommerce_5.00.1_Source.zip"
       }
     ],
     "name": "NopCommerce",
@@ -28571,10 +28554,10 @@
   },
   {
     "release": {
-      "tag": "v14.4.3",
-      "name": "v14.4.3",
-      "published": "2026-10-29T15:26:45Z",
-      "url": "https://github.com/nextcloud/all-in-one/releases/tag/v14.4.3"
+      "tag": "v15.0.2",
+      "name": "v15.0.2",
+      "published": "2026-11-03T11:02:16Z",
+      "url": "https://github.com/nextcloud/all-in-one/releases/tag/v15.0.2"
     },
     "name": "All-in-one",
     "repo": "nextcloud/all-in-one",
@@ -29906,10 +29889,10 @@
   },
   {
     "release": {
-      "tag": "shelf@2.4.0",
-      "name": "shelf@2.4.0",
-      "published": "2026-10-23T14:40:27Z",
-      "url": "https://github.com/Shelf-nu/shelf.nu/releases/tag/shelf%402.4.0"
+      "tag": "shelf@2.5.0",
+      "name": "shelf@2.5.0",
+      "published": "2026-11-09T09:46:04Z",
+      "url": "https://github.com/Shelf-nu/shelf.nu/releases/tag/shelf%402.5.0"
     },
     "name": "Shelf.nu",
     "repo": "Shelf-nu/shelf.nu",
@@ -30680,10 +30663,10 @@
   },
   {
     "release": {
-      "tag": "v9.20250118",
-      "name": "ASP.NET Core 9.0",
-      "published": "2025-01-18T11:42:52Z",
-      "url": "https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System/releases/tag/v9.20250118"
+      "tag": "v10.20261109",
+      "name": "ASP.NET Core 10.0",
+      "published": "2026-11-09T11:00:26Z",
+      "url": "https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System/releases/tag/v10.20261109"
     },
     "name": "Asp.Net-Core-Inventory-Order-Management-System",
     "repo": "go2ismail/Asp.Net-Core-Inventory-Order-Management-System",
@@ -30742,10 +30725,10 @@
   },
   {
     "release": {
-      "tag": "9.2.0",
-      "name": "PrestaShop 9.2.0",
-      "published": "2026-09-30T09:56:24Z",
-      "url": "https://github.com/PrestaShop/PrestaShop/releases/tag/9.2.0"
+      "tag": "9.2.1",
+      "name": "PrestaShop 9.2.1",
+      "published": "2026-11-09T12:00:11Z",
+      "url": "https://github.com/PrestaShop/PrestaShop/releases/tag/9.2.1"
     },
     "name": "PrestaShop",
     "repo": "PrestaShop/PrestaShop",
@@ -31773,16 +31756,16 @@
   },
   {
     "release": {
-      "tag": "3.2.0",
-      "name": "3.2.0",
-      "published": "2026-11-08T04:21:51Z",
-      "url": "https://github.com/requarks/wiki/releases/tag/3.2.0"
+      "tag": "3.3.0",
+      "name": "3.3.0",
+      "published": "2026-11-09T10:22:04Z",
+      "url": "https://github.com/requarks/wiki/releases/tag/3.3.0"
     },
     "best_assets": [
       {
         "name": "wiki-js.tar.gz",
-        "size": 65078766,
-        "url": "https://github.com/requarks/wiki/releases/download/3.2.0/wiki-js.tar.gz"
+        "size": 65124053,
+        "url": "https://github.com/requarks/wiki/releases/download/3.3.0/wiki-js.tar.gz"
       }
     ],
     "name": "Wiki.js",
@@ -32592,51 +32575,51 @@
   },
   {
     "release": {
-      "tag": "v1.155.0",
-      "name": "v1.155.0",
-      "published": "2026-10-26T13:40:31Z",
-      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/tag/v1.155.0"
+      "tag": "v1.156.0",
+      "name": "v1.156.0",
+      "published": "2026-11-09T10:02:46Z",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/tag/v1.156.0"
     },
     "best_assets": [
       {
-        "name": "victoria-metrics-windows-amd64-v1.155.0.zip",
-        "size": 7497166,
-        "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.155.0/victoria-metrics-windows-amd64-v1.155.0.zip"
+        "name": "victoria-metrics-windows-amd64-v1.156.0.zip",
+        "size": 7508026,
+        "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.156.0/victoria-metrics-windows-amd64-v1.156.0.zip"
       },
       {
-        "name": "victoria-metrics-darwin-arm64-v1.155.0.tar.gz",
-        "size": 13480035,
-        "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.155.0/victoria-metrics-darwin-arm64-v1.155.0.tar.gz"
+        "name": "victoria-metrics-darwin-arm64-v1.156.0.tar.gz",
+        "size": 13494178,
+        "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.156.0/victoria-metrics-darwin-arm64-v1.156.0.tar.gz"
       },
       {
-        "name": "victoria-metrics-darwin-amd64-v1.155.0.tar.gz",
-        "size": 14387891,
-        "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.155.0/victoria-metrics-darwin-amd64-v1.155.0.tar.gz"
+        "name": "victoria-metrics-darwin-amd64-v1.156.0.tar.gz",
+        "size": 14402565,
+        "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.156.0/victoria-metrics-darwin-amd64-v1.156.0.tar.gz"
       },
       {
-        "name": "victoria-metrics-windows-amd64-v1.155.0-cluster.zip",
-        "size": 15991470,
-        "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.155.0/victoria-metrics-windows-amd64-v1.155.0-cluster.zip"
+        "name": "victoria-metrics-windows-amd64-v1.156.0-cluster.zip",
+        "size": 16008343,
+        "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.156.0/victoria-metrics-windows-amd64-v1.156.0-cluster.zip"
       },
       {
-        "name": "victoria-metrics-linux-arm64-v1.155.0.tar.gz",
-        "size": 13450171,
-        "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.155.0/victoria-metrics-linux-arm64-v1.155.0.tar.gz"
+        "name": "victoria-metrics-linux-arm64-v1.156.0.tar.gz",
+        "size": 13465277,
+        "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.156.0/victoria-metrics-linux-arm64-v1.156.0.tar.gz"
       },
       {
-        "name": "victoria-metrics-linux-arm-v1.155.0.tar.gz",
-        "size": 13541459,
-        "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.155.0/victoria-metrics-linux-arm-v1.155.0.tar.gz"
+        "name": "victoria-metrics-linux-arm-v1.156.0.tar.gz",
+        "size": 13555444,
+        "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.156.0/victoria-metrics-linux-arm-v1.156.0.tar.gz"
       },
       {
-        "name": "victoria-metrics-openbsd-amd64-v1.155.0.tar.gz",
-        "size": 13998638,
-        "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.155.0/victoria-metrics-openbsd-amd64-v1.155.0.tar.gz"
+        "name": "victoria-metrics-openbsd-amd64-v1.156.0.tar.gz",
+        "size": 14020606,
+        "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.156.0/victoria-metrics-openbsd-amd64-v1.156.0.tar.gz"
       },
       {
-        "name": "victoria-metrics-freebsd-amd64-v1.155.0.tar.gz",
-        "size": 14024389,
-        "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.155.0/victoria-metrics-freebsd-amd64-v1.155.0.tar.gz"
+        "name": "victoria-metrics-freebsd-amd64-v1.156.0.tar.gz",
+        "size": 14046338,
+        "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.156.0/victoria-metrics-freebsd-amd64-v1.156.0.tar.gz"
       }
     ],
     "name": "VictoriaMetrics",
@@ -32997,16 +32980,16 @@
   },
   {
     "release": {
-      "tag": "photos-v1.3.69",
-      "name": "photos-v1.3.69",
-      "published": "2026-11-05T07:17:41Z",
-      "url": "https://github.com/ente/ente/releases/tag/photos-v1.3.69"
+      "tag": "locker-v1.0.12",
+      "name": "locker-v1.0.12",
+      "published": "2026-11-09T08:15:10Z",
+      "url": "https://github.com/ente/ente/releases/tag/locker-v1.0.12"
     },
     "best_assets": [
       {
-        "name": "ente-photos-v1.3.69.apk",
-        "size": 307331258,
-        "url": "https://github.com/ente/ente/releases/download/photos-v1.3.69/ente-photos-v1.3.69.apk"
+        "name": "ente-locker-v1.0.12.apk",
+        "size": 221820220,
+        "url": "https://github.com/ente/ente/releases/download/locker-v1.0.12/ente-locker-v1.0.12.apk"
       }
     ],
     "name": "Ente",
@@ -35480,16 +35463,16 @@
   },
   {
     "release": {
-      "tag": "3.179.1",
-      "name": "3.179.1",
-      "published": "2026-11-09T07:31:14Z",
-      "url": "https://github.com/lightdash/lightdash/releases/tag/3.179.1"
+      "tag": "3.184.0",
+      "name": "3.184.0",
+      "published": "2026-11-09T12:43:37Z",
+      "url": "https://github.com/lightdash/lightdash/releases/tag/3.184.0"
     },
     "best_assets": [
       {
-        "name": "lightdash-cli-3.179.1-linux-x64.tar.gz",
-        "size": 54529606,
-        "url": "https://github.com/lightdash/lightdash/releases/download/3.179.1/lightdash-cli-3.179.1-linux-x64.tar.gz"
+        "name": "lightdash-cli-3.184.0-linux-x64.tar.gz",
+        "size": 54537927,
+        "url": "https://github.com/lightdash/lightdash/releases/download/3.184.0/lightdash-cli-3.184.0-linux-x64.tar.gz"
       }
     ],
     "name": "Lightdash",
@@ -39536,51 +39519,51 @@
   },
   {
     "release": {
-      "tag": "v13.02",
-      "name": "v13.02",
-      "published": "2026-11-09T02:19:40Z",
-      "url": "https://github.com/wekan/wekan/releases/tag/v13.02"
+      "tag": "v13.03",
+      "name": "v13.03",
+      "published": "2026-11-09T07:56:10Z",
+      "url": "https://github.com/wekan/wekan/releases/tag/v13.03"
     },
     "best_assets": [
       {
-        "name": "wekan-13.02-win32.zip",
-        "size": 240239884,
-        "url": "https://github.com/wekan/wekan/releases/download/v13.02/wekan-13.02-win32.zip"
+        "name": "wekan-13.03-win-arm64.zip",
+        "size": 247251331,
+        "url": "https://github.com/wekan/wekan/releases/download/v13.03/wekan-13.03-win-arm64.zip"
       },
       {
-        "name": "wekan-13.02-win-arm64.zip",
-        "size": 247250999,
-        "url": "https://github.com/wekan/wekan/releases/download/v13.02/wekan-13.02-win-arm64.zip"
+        "name": "wekan-13.03-win64.zip",
+        "size": 254846624,
+        "url": "https://github.com/wekan/wekan/releases/download/v13.03/wekan-13.03-win64.zip"
       },
       {
-        "name": "wekan-13.02-mac-x64.zip",
-        "size": 259479777,
-        "url": "https://github.com/wekan/wekan/releases/download/v13.02/wekan-13.02-mac-x64.zip"
+        "name": "wekan-13.03-mac-x64.zip",
+        "size": 259454183,
+        "url": "https://github.com/wekan/wekan/releases/download/v13.03/wekan-13.03-mac-x64.zip"
       },
       {
-        "name": "wekan-13.02-mac-arm64.zip",
-        "size": 260561024,
-        "url": "https://github.com/wekan/wekan/releases/download/v13.02/wekan-13.02-mac-arm64.zip"
+        "name": "wekan-13.03-mac-arm64.zip",
+        "size": 260561380,
+        "url": "https://github.com/wekan/wekan/releases/download/v13.03/wekan-13.03-mac-arm64.zip"
       },
       {
-        "name": "wekan-13.02-linux-x64-musl.zip",
-        "size": 274741028,
-        "url": "https://github.com/wekan/wekan/releases/download/v13.02/wekan-13.02-linux-x64-musl.zip"
+        "name": "WeKan-13.03-x86_64-musl.AppImage",
+        "size": 226134520,
+        "url": "https://github.com/wekan/wekan/releases/download/v13.03/WeKan-13.03-x86_64-musl.AppImage"
       },
       {
-        "name": "wekan-13.02-linux-arm64-musl.zip",
-        "size": 275832501,
-        "url": "https://github.com/wekan/wekan/releases/download/v13.02/wekan-13.02-linux-arm64-musl.zip"
+        "name": "WeKan-13.03-aarch64-musl.AppImage",
+        "size": 226466312,
+        "url": "https://github.com/wekan/wekan/releases/download/v13.03/WeKan-13.03-aarch64-musl.AppImage"
       },
       {
-        "name": "wekan-13.02-armhf.zip",
-        "size": 238773395,
-        "url": "https://github.com/wekan/wekan/releases/download/v13.02/wekan-13.02-armhf.zip"
+        "name": "wekan-13.03-armhf.zip",
+        "size": 238773751,
+        "url": "https://github.com/wekan/wekan/releases/download/v13.03/wekan-13.03-armhf.zip"
       },
       {
-        "name": "wekan-13.02-armv7.zip",
-        "size": 238803138,
-        "url": "https://github.com/wekan/wekan/releases/download/v13.02/wekan-13.02-armv7.zip"
+        "name": "wekan-13.03-armv7.zip",
+        "size": 238803494,
+        "url": "https://github.com/wekan/wekan/releases/download/v13.03/wekan-13.03-armv7.zip"
       }
     ],
     "name": "Wekan",
@@ -39763,10 +39746,10 @@
   },
   {
     "release": {
-      "tag": "2.18.6",
-      "name": "2.18.6",
-      "published": "2026-11-04T17:11:15Z",
-      "url": "https://github.com/penpot/penpot/releases/tag/2.18.6"
+      "tag": "2.18.7",
+      "name": "2.18.7",
+      "published": "2026-11-09T09:45:43Z",
+      "url": "https://github.com/penpot/penpot/releases/tag/2.18.7"
     },
     "name": "Penpot",
     "repo": "penpot/penpot",
@@ -40206,10 +40189,10 @@
   },
   {
     "release": {
-      "tag": "n8n@2.46.6",
-      "name": "n8n@2.46.6",
-      "published": "2026-11-04T13:10:07Z",
-      "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.46.6"
+      "tag": "n8n@2.46.7",
+      "name": "n8n@2.46.7",
+      "published": "2026-11-09T08:25:28Z",
+      "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.46.7"
     },
     "name": "n8n",
     "repo": "n8n-io/n8n",
@@ -40435,41 +40418,21 @@
   },
   {
     "release": {
-      "tag": "v1.56.1",
-      "name": "v1.56.1 🐫 ",
-      "published": "2026-11-02T09:38:53Z",
-      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.56.1"
+      "tag": "v1.56.2",
+      "name": "v1.56.2 🐫",
+      "published": "2026-11-09T12:48:04Z",
+      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.56.2"
     },
     "best_assets": [
       {
-        "name": "meilisearch-macos-apple-silicon",
-        "size": 348419472,
-        "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.1/meilisearch-macos-apple-silicon"
+        "name": "meilisearch-linux-aarch64",
+        "size": 350940256,
+        "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.2/meilisearch-linux-aarch64"
       },
       {
-        "name": "meilisearch-macos-amd64",
-        "size": 351344024,
-        "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.1/meilisearch-macos-amd64"
-      },
-      {
-        "name": "meilisearch-windows-amd64.exe",
-        "size": 353019904,
-        "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.1/meilisearch-windows-amd64.exe"
-      },
-      {
-        "name": "meilisearch.deb",
-        "size": 59599432,
-        "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.1/meilisearch.deb"
-      },
-      {
-        "name": "meilisearch-linux-riscv64",
-        "size": 350051728,
-        "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.1/meilisearch-linux-riscv64"
-      },
-      {
-        "name": "meilisearch-enterprise-windows-amd64.exe",
-        "size": 354613760,
-        "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.1/meilisearch-enterprise-windows-amd64.exe"
+        "name": "meilisearch-linux-amd64",
+        "size": 357300152,
+        "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.2/meilisearch-linux-amd64"
       }
     ],
     "name": "Meilisearch",
@@ -40777,10 +40740,10 @@
   },
   {
     "release": {
-      "tag": "v1.21.0",
-      "name": "v1.21.0",
-      "published": "2026-10-26T07:10:45Z",
-      "url": "https://github.com/axios/axios/releases/tag/v1.21.0"
+      "tag": "v1.21.1",
+      "name": "v1.21.1",
+      "published": "2026-11-09T11:08:55Z",
+      "url": "https://github.com/axios/axios/releases/tag/v1.21.1"
     },
     "name": "axios",
     "repo": "axios/axios",
@@ -41108,46 +41071,46 @@
   },
   {
     "release": {
-      "tag": "v2.15.1",
-      "name": "v2.15.1",
-      "published": "2026-11-03T14:46:27Z",
-      "url": "https://github.com/linshenkx/prompt-optimizer/releases/tag/v2.15.1"
+      "tag": "v2.15.2",
+      "name": "v2.15.2",
+      "published": "2026-11-09T12:56:59Z",
+      "url": "https://github.com/linshenkx/prompt-optimizer/releases/tag/v2.15.2"
     },
     "best_assets": [
       {
-        "name": "PromptOptimizer-2.15.1-win-x64.exe",
-        "size": 132985962,
-        "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.1/PromptOptimizer-2.15.1-win-x64.exe"
+        "name": "PromptOptimizer-2.15.2-win-x64.exe",
+        "size": 132993794,
+        "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.2/PromptOptimizer-2.15.2-win-x64.exe"
       },
       {
-        "name": "PromptOptimizer-2.15.1-mac-arm64.zip",
-        "size": 144629311,
-        "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.1/PromptOptimizer-2.15.1-mac-arm64.zip"
+        "name": "PromptOptimizer-2.15.2-mac-arm64.zip",
+        "size": 144633868,
+        "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.2/PromptOptimizer-2.15.2-mac-arm64.zip"
       },
       {
-        "name": "PromptOptimizer-2.15.1-mac-x64.zip",
-        "size": 148418531,
-        "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.1/PromptOptimizer-2.15.1-mac-x64.zip"
+        "name": "PromptOptimizer-2.15.2-mac-x64.zip",
+        "size": 148423088,
+        "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.2/PromptOptimizer-2.15.2-mac-x64.zip"
       },
       {
-        "name": "PromptOptimizer-2.15.1-win-x64.zip",
-        "size": 170813310,
-        "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.1/PromptOptimizer-2.15.1-win-x64.zip"
+        "name": "PromptOptimizer-2.15.2-win-x64.zip",
+        "size": 170818157,
+        "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.2/PromptOptimizer-2.15.2-win-x64.zip"
       },
       {
-        "name": "PromptOptimizer-2.15.1-linux-x64.zip",
-        "size": 136826035,
-        "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.1/PromptOptimizer-2.15.1-linux-x64.zip"
+        "name": "PromptOptimizer-2.15.2-linux-x64.zip",
+        "size": 136830589,
+        "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.2/PromptOptimizer-2.15.2-linux-x64.zip"
       },
       {
-        "name": "PromptOptimizer-2.15.1-linux-x86_64.AppImage",
-        "size": 144683245,
-        "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.1/PromptOptimizer-2.15.1-linux-x86_64.AppImage"
+        "name": "PromptOptimizer-2.15.2-linux-x86_64.AppImage",
+        "size": 144695594,
+        "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.2/PromptOptimizer-2.15.2-linux-x86_64.AppImage"
       },
       {
-        "name": "PromptOptimizer-chrome-extension-v2.15.1.zip",
-        "size": 1919356,
-        "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.1/PromptOptimizer-chrome-extension-v2.15.1.zip"
+        "name": "PromptOptimizer-chrome-extension-v2.15.2.zip",
+        "size": 1924649,
+        "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.2/PromptOptimizer-chrome-extension-v2.15.2.zip"
       }
     ],
     "name": "prompt-optimizer",
@@ -43119,10 +43082,10 @@
   },
   {
     "release": {
-      "tag": "v3.4.1",
-      "name": "v3.4.1",
-      "published": "2026-10-21T19:10:58Z",
-      "url": "https://github.com/deepset-ai/haystack/releases/tag/v3.4.1"
+      "tag": "v2.31.1",
+      "name": "v2.31.1",
+      "published": "2026-11-03T09:27:48Z",
+      "url": "https://github.com/deepset-ai/haystack/releases/tag/v2.31.1"
     },
     "name": "haystack",
     "repo": "deepset-ai/haystack",
@@ -43811,10 +43774,10 @@
   },
   {
     "release": {
-      "tag": "v2.101.4",
-      "name": "Release v2.101.4",
-      "published": "2026-11-07T18:39:39Z",
-      "url": "https://github.com/czlonkowski/n8n-mcp/releases/tag/v2.101.4"
+      "tag": "v2.102.0",
+      "name": "Release v2.102.0",
+      "published": "2026-11-09T11:03:00Z",
+      "url": "https://github.com/czlonkowski/n8n-mcp/releases/tag/v2.102.0"
     },
     "name": "n8n-mcp",
     "repo": "czlonkowski/n8n-mcp",
@@ -47124,10 +47087,10 @@
   },
   {
     "release": {
-      "tag": "v4.14.9",
-      "name": "Wazuh v4.14.9",
-      "published": "2026-10-15T17:40:40Z",
-      "url": "https://github.com/wazuh/wazuh/releases/tag/v4.14.9"
+      "tag": "v4.14.10",
+      "name": "Wazuh v4.14.10",
+      "published": "2026-11-09T10:33:53Z",
+      "url": "https://github.com/wazuh/wazuh/releases/tag/v4.14.10"
     },
     "name": "wazuh",
     "repo": "wazuh/wazuh",
@@ -50238,31 +50201,31 @@
   },
   {
     "release": {
-      "tag": "v0.18.0",
-      "name": "FilmCraft v0.18.0",
-      "published": "2026-11-06T20:21:40Z",
-      "url": "https://github.com/storytold/filmcraft/releases/tag/v0.18.0"
+      "tag": "v0.19.0",
+      "name": "FilmCraft v0.19.0",
+      "published": "2026-11-09T11:54:14Z",
+      "url": "https://github.com/storytold/filmcraft/releases/tag/v0.19.0"
     },
     "best_assets": [
       {
-        "name": "filmcraft-0.18.0-linux-aarch64.flatpak",
-        "size": 75925256,
-        "url": "https://github.com/storytold/filmcraft/releases/download/v0.18.0/filmcraft-0.18.0-linux-aarch64.flatpak"
+        "name": "filmcraft-0.19.0-linux-aarch64.flatpak",
+        "size": 76194848,
+        "url": "https://github.com/storytold/filmcraft/releases/download/v0.19.0/filmcraft-0.19.0-linux-aarch64.flatpak"
       },
       {
-        "name": "filmcraft-0.18.0-linux-x86_64.flatpak",
-        "size": 79612808,
-        "url": "https://github.com/storytold/filmcraft/releases/download/v0.18.0/filmcraft-0.18.0-linux-x86_64.flatpak"
+        "name": "filmcraft-0.19.0-linux-x86_64.flatpak",
+        "size": 79933936,
+        "url": "https://github.com/storytold/filmcraft/releases/download/v0.19.0/filmcraft-0.19.0-linux-x86_64.flatpak"
       },
       {
-        "name": "filmcraft-0.18.0-freebsd-aarch64.tar.gz",
-        "size": 103288141,
-        "url": "https://github.com/storytold/filmcraft/releases/download/v0.18.0/filmcraft-0.18.0-freebsd-aarch64.tar.gz"
+        "name": "filmcraft-0.19.0-freebsd-aarch64.tar.gz",
+        "size": 103670119,
+        "url": "https://github.com/storytold/filmcraft/releases/download/v0.19.0/filmcraft-0.19.0-freebsd-aarch64.tar.gz"
       },
       {
-        "name": "filmcraft-0.18.0-freebsd-x86_64.tar.gz",
-        "size": 107579523,
-        "url": "https://github.com/storytold/filmcraft/releases/download/v0.18.0/filmcraft-0.18.0-freebsd-x86_64.tar.gz"
+        "name": "filmcraft-0.19.0-freebsd-x86_64.tar.gz",
+        "size": 108034424,
+        "url": "https://github.com/storytold/filmcraft/releases/download/v0.19.0/filmcraft-0.19.0-freebsd-x86_64.tar.gz"
       }
     ],
     "name": "filmcraft",
@@ -53555,10 +53518,10 @@
   },
   {
     "release": {
-      "tag": "v0.72.3",
-      "name": "v0.72.3",
-      "published": "2026-11-06T17:19:32Z",
-      "url": "https://github.com/NangoHQ/nango/releases/tag/v0.72.3"
+      "tag": "v0.72.4",
+      "name": "v0.72.4",
+      "published": "2026-11-09T09:46:40Z",
+      "url": "https://github.com/NangoHQ/nango/releases/tag/v0.72.4"
     },
     "name": "nango",
     "repo": "NangoHQ/nango",
@@ -54549,16 +54512,16 @@
   },
   {
     "release": {
-      "tag": "sigma@4.0.4",
-      "name": "sigma@4.0.4",
-      "published": "2026-10-27T14:45:28Z",
-      "url": "https://github.com/jacomyal/sigma.js/releases/tag/sigma%404.0.4"
+      "tag": "sigma@4.0.5",
+      "name": "sigma@4.0.5",
+      "published": "2026-11-09T10:39:53Z",
+      "url": "https://github.com/jacomyal/sigma.js/releases/tag/sigma%404.0.5"
     },
     "best_assets": [
       {
         "name": "sigma.min.js",
-        "size": 393053,
-        "url": "https://github.com/jacomyal/sigma.js/releases/download/sigma%404.0.4/sigma.min.js"
+        "size": 393746,
+        "url": "https://github.com/jacomyal/sigma.js/releases/download/sigma%404.0.5/sigma.min.js"
       }
     ],
     "name": "sigma.js",
@@ -55278,10 +55241,10 @@
   },
   {
     "release": {
-      "tag": "v2.0.34",
-      "name": "v2.0.34",
-      "published": "2026-09-23T05:24:20Z",
-      "url": "https://github.com/MemTensor/MemOS/releases/tag/v2.0.34"
+      "tag": "v2.0.36",
+      "name": "Release v2.0.36",
+      "published": "2026-11-09T12:35:22Z",
+      "url": "https://github.com/MemTensor/MemOS/releases/tag/v2.0.36"
     },
     "name": "MemOS",
     "repo": "MemTensor/MemOS",
@@ -56791,46 +56754,46 @@
   },
   {
     "release": {
-      "tag": "v5.8.0",
-      "name": "v5.8.0",
-      "published": "2026-11-06T21:20:41Z",
-      "url": "https://github.com/perspective-dev/perspective/releases/tag/v5.8.0"
+      "tag": "v5.9.0",
+      "name": "v5.9.0",
+      "published": "2026-11-09T12:12:42Z",
+      "url": "https://github.com/perspective-dev/perspective/releases/tag/v5.9.0"
     },
     "best_assets": [
       {
-        "name": "perspective_python-5.8.0-cp311-abi3-macosx_14_0_arm64.whl",
-        "size": 14499675,
-        "url": "https://github.com/perspective-dev/perspective/releases/download/v5.8.0/perspective_python-5.8.0-cp311-abi3-macosx_14_0_arm64.whl"
+        "name": "perspective_python-5.9.0-cp311-abi3-macosx_14_0_arm64.whl",
+        "size": 14632582,
+        "url": "https://github.com/perspective-dev/perspective/releases/download/v5.9.0/perspective_python-5.9.0-cp311-abi3-macosx_14_0_arm64.whl"
       },
       {
-        "name": "perspective_python-5.8.0-cp311-abi3-win_amd64.whl",
-        "size": 14728753,
-        "url": "https://github.com/perspective-dev/perspective/releases/download/v5.8.0/perspective_python-5.8.0-cp311-abi3-win_amd64.whl"
+        "name": "perspective_python-5.9.0-cp311-abi3-win_amd64.whl",
+        "size": 14865906,
+        "url": "https://github.com/perspective-dev/perspective/releases/download/v5.9.0/perspective_python-5.9.0-cp311-abi3-win_amd64.whl"
       },
       {
-        "name": "perspective_python-5.8.0-cp311-abi3-manylinux_2_28_aarch64.whl",
-        "size": 15675455,
-        "url": "https://github.com/perspective-dev/perspective/releases/download/v5.8.0/perspective_python-5.8.0-cp311-abi3-manylinux_2_28_aarch64.whl"
+        "name": "perspective_python-5.9.0-cp311-abi3-manylinux_2_28_aarch64.whl",
+        "size": 15819196,
+        "url": "https://github.com/perspective-dev/perspective/releases/download/v5.9.0/perspective_python-5.9.0-cp311-abi3-manylinux_2_28_aarch64.whl"
       },
       {
-        "name": "perspective_python-5.8.0-cp311-abi3-manylinux_2_28_x86_64.whl",
-        "size": 16135016,
-        "url": "https://github.com/perspective-dev/perspective/releases/download/v5.8.0/perspective_python-5.8.0-cp311-abi3-manylinux_2_28_x86_64.whl"
+        "name": "perspective_python-5.9.0-cp311-abi3-manylinux_2_28_x86_64.whl",
+        "size": 16284605,
+        "url": "https://github.com/perspective-dev/perspective/releases/download/v5.9.0/perspective_python-5.9.0-cp311-abi3-manylinux_2_28_x86_64.whl"
       },
       {
-        "name": "perspective-client-5.8.0.crate",
-        "size": 117426,
-        "url": "https://github.com/perspective-dev/perspective/releases/download/v5.8.0/perspective-client-5.8.0.crate"
+        "name": "perspective-client-5.9.0.crate",
+        "size": 131448,
+        "url": "https://github.com/perspective-dev/perspective/releases/download/v5.9.0/perspective-client-5.9.0.crate"
       },
       {
-        "name": "perspective-dev-viewer-datagrid-5.8.0.tgz",
-        "size": 320028,
-        "url": "https://github.com/perspective-dev/perspective/releases/download/v5.8.0/perspective-dev-viewer-datagrid-5.8.0.tgz"
+        "name": "perspective-dev-viewer-datagrid-5.9.0.tgz",
+        "size": 320027,
+        "url": "https://github.com/perspective-dev/perspective/releases/download/v5.9.0/perspective-dev-viewer-datagrid-5.9.0.tgz"
       },
       {
-        "name": "perspective_python-5.8.0.tar.gz",
-        "size": 9323109,
-        "url": "https://github.com/perspective-dev/perspective/releases/download/v5.8.0/perspective_python-5.8.0.tar.gz"
+        "name": "perspective_python-5.9.0.tar.gz",
+        "size": 9344956,
+        "url": "https://github.com/perspective-dev/perspective/releases/download/v5.9.0/perspective_python-5.9.0.tar.gz"
       }
     ],
     "name": "perspective",
@@ -59653,46 +59616,46 @@
   },
   {
     "release": {
-      "tag": "v4.5.0",
-      "name": "v4.5.0",
-      "published": "2026-11-06T17:37:57Z",
-      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/tag/v4.5.0"
+      "tag": "v4.5.1",
+      "name": "v4.5.1",
+      "published": "2026-11-09T10:42:34Z",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/tag/v4.5.1"
     },
     "best_assets": [
       {
-        "name": "patch-Windows-arm64-4.4.7-to-4.5.0.hdiff",
-        "size": 5548285,
-        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.0/patch-Windows-arm64-4.4.7-to-4.5.0.hdiff"
+        "name": "patch-Windows-arm64-4.5.0-to-4.5.1.hdiff",
+        "size": 3736017,
+        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.1/patch-Windows-arm64-4.5.0-to-4.5.1.hdiff"
       },
       {
-        "name": "patch-Windows-x86_64-4.4.7-to-4.5.0.hdiff",
-        "size": 6065501,
-        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.0/patch-Windows-x86_64-4.4.7-to-4.5.0.hdiff"
+        "name": "patch-Windows-x86_64-4.5.0-to-4.5.1.hdiff",
+        "size": 4798228,
+        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.1/patch-Windows-x86_64-4.5.0-to-4.5.1.hdiff"
       },
       {
-        "name": "patch-macOS-x86_64-4.4.7-to-4.5.0.hdiff",
-        "size": 8085722,
-        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.0/patch-macOS-x86_64-4.4.7-to-4.5.0.hdiff"
+        "name": "patch-macOS-arm64-4.5.0-to-4.5.1.hdiff",
+        "size": 6534612,
+        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.1/patch-macOS-arm64-4.5.0-to-4.5.1.hdiff"
       },
       {
-        "name": "patch-macOS-arm64-4.4.7-to-4.5.0.hdiff",
-        "size": 29667425,
-        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.0/patch-macOS-arm64-4.4.7-to-4.5.0.hdiff"
+        "name": "patch-macOS-x86_64-4.5.0-to-4.5.1.hdiff",
+        "size": 7418683,
+        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.1/patch-macOS-x86_64-4.5.0-to-4.5.1.hdiff"
       },
       {
-        "name": "Ghost-Downloader-v4.5.0-Linux-arm64.tar.xz",
-        "size": 63241888,
-        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.0/Ghost-Downloader-v4.5.0-Linux-arm64.tar.xz"
+        "name": "Ghost-Downloader-v4.5.1-Linux-arm64.tar.xz",
+        "size": 61125596,
+        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.1/Ghost-Downloader-v4.5.1-Linux-arm64.tar.xz"
       },
       {
-        "name": "Ghost-Downloader-v4.5.0-Linux-x86_64.tar.xz",
-        "size": 68741128,
-        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.0/Ghost-Downloader-v4.5.0-Linux-x86_64.tar.xz"
+        "name": "Ghost-Downloader-v4.5.1-Linux-x86_64.tar.xz",
+        "size": 66479660,
+        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.1/Ghost-Downloader-v4.5.1-Linux-x86_64.tar.xz"
       },
       {
-        "name": "Ghost-Downloader-v4.5.0-Android-arm64-v8a.apk",
-        "size": 46769957,
-        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.0/Ghost-Downloader-v4.5.0-Android-arm64-v8a.apk"
+        "name": "Ghost-Downloader-v4.5.1-Android-arm64-v8a.apk",
+        "size": 46770537,
+        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.1/Ghost-Downloader-v4.5.1-Android-arm64-v8a.apk"
       }
     ],
     "name": "Ghost-Downloader-3",
@@ -66007,10 +65970,10 @@
   },
   {
     "release": {
-      "tag": "v1.44.11",
-      "name": "v1.44.11",
-      "published": "2026-11-05T13:04:28Z",
-      "url": "https://github.com/isomorphic-git/isomorphic-git/releases/tag/v1.44.11"
+      "tag": "v1.44.12",
+      "name": "v1.44.12",
+      "published": "2026-11-09T10:54:25Z",
+      "url": "https://github.com/isomorphic-git/isomorphic-git/releases/tag/v1.44.12"
     },
     "name": "isomorphic-git",
     "repo": "isomorphic-git/isomorphic-git",
@@ -68579,24 +68542,24 @@
     },
     "best_assets": [
       {
-        "name": "haos_khadas-vim3-18.5.raucb",
-        "size": 165833119,
-        "url": "https://github.com/home-assistant/operating-system/releases/download/18.5/haos_khadas-vim3-18.5.raucb"
+        "name": "haos_rpi3-64-18.5.raucb",
+        "size": 181627160,
+        "url": "https://github.com/home-assistant/operating-system/releases/download/18.5/haos_rpi3-64-18.5.raucb"
       },
       {
-        "name": "haos_odroid-c2-18.5.raucb",
-        "size": 166234523,
-        "url": "https://github.com/home-assistant/operating-system/releases/download/18.5/haos_odroid-c2-18.5.raucb"
+        "name": "haos_yellow-18.5.raucb",
+        "size": 191039767,
+        "url": "https://github.com/home-assistant/operating-system/releases/download/18.5/haos_yellow-18.5.raucb"
       },
       {
-        "name": "haos_khadas-vim3-18.5.img.xz",
-        "size": 306574648,
-        "url": "https://github.com/home-assistant/operating-system/releases/download/18.5/haos_khadas-vim3-18.5.img.xz"
+        "name": "haos_rpi3-64-18.5.img.xz",
+        "size": 320656368,
+        "url": "https://github.com/home-assistant/operating-system/releases/download/18.5/haos_rpi3-64-18.5.img.xz"
       },
       {
-        "name": "haos_odroid-c2-18.5.img.xz",
-        "size": 306869612,
-        "url": "https://github.com/home-assistant/operating-system/releases/download/18.5/haos_odroid-c2-18.5.img.xz"
+        "name": "haos_yellow-18.5.img.xz",
+        "size": 331331980,
+        "url": "https://github.com/home-assistant/operating-system/releases/download/18.5/haos_yellow-18.5.img.xz"
       }
     ],
     "name": "operating-system",
@@ -69939,41 +69902,41 @@
   },
   {
     "release": {
-      "tag": "v2.32.3",
-      "name": "v2.32.3",
-      "published": "2026-10-21T16:47:44Z",
-      "url": "https://github.com/telepresenceio/telepresence/releases/tag/v2.32.3"
+      "tag": "v2.33.0",
+      "name": "v2.33.0",
+      "published": "2026-11-09T10:03:23Z",
+      "url": "https://github.com/telepresenceio/telepresence/releases/tag/v2.33.0"
     },
     "best_assets": [
       {
         "name": "telepresence-windows-arm64.msi",
-        "size": 20791296,
-        "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.32.3/telepresence-windows-arm64.msi"
+        "size": 20795392,
+        "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.0/telepresence-windows-arm64.msi"
       },
       {
         "name": "telepresence-windows-amd64.msi",
-        "size": 22990848,
-        "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.32.3/telepresence-windows-amd64.msi"
+        "size": 22999040,
+        "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.0/telepresence-windows-amd64.msi"
       },
       {
         "name": "telepresence-darwin-arm64.pkg",
-        "size": 28085486,
-        "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.32.3/telepresence-darwin-arm64.pkg"
+        "size": 28097740,
+        "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.0/telepresence-darwin-arm64.pkg"
       },
       {
         "name": "telepresence-darwin-amd64.pkg",
-        "size": 31931275,
-        "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.32.3/telepresence-darwin-amd64.pkg"
-      },
-      {
-        "name": "telepresence-2.32.3-linux-arm64.deb",
-        "size": 36616296,
-        "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.32.3/telepresence-2.32.3-linux-arm64.deb"
+        "size": 31940568,
+        "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.0/telepresence-darwin-amd64.pkg"
       },
       {
         "name": "telepresence-linux-arm64.deb",
-        "size": 36616296,
-        "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.32.3/telepresence-linux-arm64.deb"
+        "size": 36630458,
+        "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.0/telepresence-linux-arm64.deb"
+      },
+      {
+        "name": "telepresence-linux-arm64.rpm",
+        "size": 38222454,
+        "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.0/telepresence-linux-arm64.rpm"
       }
     ],
     "name": "telepresence",
@@ -70355,6 +70318,18 @@
       "published": "2026-11-09T06:24:42Z",
       "url": "https://github.com/qybaihe/bla/releases/tag/bla-agents-3.2.1"
     },
+    "best_assets": [
+      {
+        "name": "bla-agents-3.2.1.tgz",
+        "size": 695187,
+        "url": "https://github.com/qybaihe/bla/releases/download/bla-agents-3.2.1/bla-agents-3.2.1.tgz"
+      },
+      {
+        "name": "bla-shield-3.2.1.tgz",
+        "size": 695205,
+        "url": "https://github.com/qybaihe/bla/releases/download/bla-agents-3.2.1/bla-shield-3.2.1.tgz"
+      }
+    ],
     "name": "BLA（Blind LLM Agents）",
     "repo": "qybaihe/bla",
     "category": "工具",
@@ -70377,6 +70352,132 @@
     "platform": "github",
     "kind": "cli",
     "url": "https://github.com/qybaihe/bla",
+    "license_category": "open",
+    "archived": false
+  },
+  {
+    "release": {
+      "tag": "v0.1.7",
+      "name": "T3 Code v0.1.7",
+      "published": "2026-11-04T06:39:38Z",
+      "url": "https://github.com/pingdotgg/t3code/releases/tag/v0.1.7"
+    },
+    "best_assets": [
+      {
+        "name": "t3-0.1.7-win32-arm64.zip",
+        "size": 102282518,
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.7/t3-0.1.7-win32-arm64.zip"
+      },
+      {
+        "name": "t3-0.1.7-darwin-arm64.tar.gz",
+        "size": 110020388,
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.7/t3-0.1.7-darwin-arm64.tar.gz"
+      },
+      {
+        "name": "t3-0.1.7-win32-x64.zip",
+        "size": 113322741,
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.7/t3-0.1.7-win32-x64.zip"
+      },
+      {
+        "name": "T3-Code-0.1.7-arm64.dmg",
+        "size": 188335050,
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.7/T3-Code-0.1.7-arm64.dmg"
+      },
+      {
+        "name": "t3-0.1.7-linux-arm64.tar.gz",
+        "size": 119171914,
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.7/t3-0.1.7-linux-arm64.tar.gz"
+      },
+      {
+        "name": "t3-0.1.7-linux-x64.tar.gz",
+        "size": 123710035,
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.7/t3-0.1.7-linux-x64.tar.gz"
+      },
+      {
+        "name": "T3-Code-0.1.7-arm64.zip",
+        "size": 181176168,
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.7/T3-Code-0.1.7-arm64.zip"
+      },
+      {
+        "name": "T3-Code-0.1.7-x64.zip",
+        "size": 190160938,
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.7/T3-Code-0.1.7-x64.zip"
+      }
+    ],
+    "name": "T3 Code",
+    "repo": "pingdotgg/t3code",
+    "category": "工具",
+    "category_slug": "tool",
+    "subcategory": "智能体",
+    "subcategory_slug": "agent",
+    "tech_stack": [
+      "TypeScript",
+      "Electron"
+    ],
+    "deploy_type": "客户端 / 桌面应用",
+    "note_zh": "统一控制本机各类编码 Agent 的桌面/移动控制台，兼容 Claude Code、Codex 等",
+    "license": "MIT",
+    "added_at": "2026-11-09T20:59:08+08:00",
+    "stars": 53317,
+    "updated_at": "2026-11-09T12:52:47Z",
+    "default_branch": "main",
+    "download_url": "https://codeload.github.com/pingdotgg/t3code/zip/refs/heads/main",
+    "platform": "github",
+    "kind": "client",
+    "url": "https://github.com/pingdotgg/t3code",
+    "license_category": "open",
+    "archived": false
+  },
+  {
+    "release": {
+      "tag": "v0.6.0",
+      "name": "Craft Anything v0.6.0",
+      "published": "2026-11-09T12:57:38Z",
+      "url": "https://github.com/storytold/craft-anything/releases/tag/v0.6.0"
+    },
+    "best_assets": [
+      {
+        "name": "craft-anything-0.6.0-linux-aarch64.flatpak",
+        "size": 47501840,
+        "url": "https://github.com/storytold/craft-anything/releases/download/v0.6.0/craft-anything-0.6.0-linux-aarch64.flatpak"
+      },
+      {
+        "name": "craft-anything-0.6.0-linux-x86_64.flatpak",
+        "size": 50985048,
+        "url": "https://github.com/storytold/craft-anything/releases/download/v0.6.0/craft-anything-0.6.0-linux-x86_64.flatpak"
+      },
+      {
+        "name": "craft-anything-0.6.0-freebsd-aarch64.tar.gz",
+        "size": 63405780,
+        "url": "https://github.com/storytold/craft-anything/releases/download/v0.6.0/craft-anything-0.6.0-freebsd-aarch64.tar.gz"
+      },
+      {
+        "name": "craft-anything-0.6.0-freebsd-x86_64.tar.gz",
+        "size": 66916189,
+        "url": "https://github.com/storytold/craft-anything/releases/download/v0.6.0/craft-anything-0.6.0-freebsd-x86_64.tar.gz"
+      }
+    ],
+    "name": "Craft Anything",
+    "repo": "storytold/craft-anything",
+    "category": "工具",
+    "category_slug": "tool",
+    "subcategory": "智能体",
+    "subcategory_slug": "agent",
+    "tech_stack": [
+      "Rust",
+      "egui"
+    ],
+    "deploy_type": "客户端 / 桌面应用",
+    "note_zh": "研究任意网站/应用/游戏如何运作，再由 AI 复刻出你自己的版本，纯 Rust 引擎",
+    "license": "Apache-2.0",
+    "added_at": "2026-11-09T20:59:08+08:00",
+    "stars": 23788,
+    "updated_at": "2026-11-09T12:57:37Z",
+    "default_branch": "main",
+    "download_url": "https://codeload.github.com/storytold/craft-anything/zip/refs/heads/main",
+    "platform": "github",
+    "kind": "client",
+    "url": "https://github.com/storytold/craft-anything",
     "license_category": "open",
     "archived": false
   }

@@ -21,46 +21,46 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/XiaoYouChR/Ghost-Downloader-3/zip/refs/heads/main",
   "release": {
-    "tag": "v4.5.0",
-    "name": "v4.5.0",
-    "published": "2026-11-06T17:37:57Z",
-    "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/tag/v4.5.0"
+    "tag": "v4.5.1",
+    "name": "v4.5.1",
+    "published": "2026-11-09T10:42:34Z",
+    "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/tag/v4.5.1"
   },
   "assets": [
     {
-      "name": "patch-Windows-arm64-4.4.7-to-4.5.0.hdiff",
-      "size": 5548285,
-      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.0/patch-Windows-arm64-4.4.7-to-4.5.0.hdiff"
+      "name": "patch-Windows-arm64-4.5.0-to-4.5.1.hdiff",
+      "size": 3736017,
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.1/patch-Windows-arm64-4.5.0-to-4.5.1.hdiff"
     },
     {
-      "name": "patch-Windows-x86_64-4.4.7-to-4.5.0.hdiff",
-      "size": 6065501,
-      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.0/patch-Windows-x86_64-4.4.7-to-4.5.0.hdiff"
+      "name": "patch-Windows-x86_64-4.5.0-to-4.5.1.hdiff",
+      "size": 4798228,
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.1/patch-Windows-x86_64-4.5.0-to-4.5.1.hdiff"
     },
     {
-      "name": "patch-macOS-x86_64-4.4.7-to-4.5.0.hdiff",
-      "size": 8085722,
-      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.0/patch-macOS-x86_64-4.4.7-to-4.5.0.hdiff"
+      "name": "patch-macOS-arm64-4.5.0-to-4.5.1.hdiff",
+      "size": 6534612,
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.1/patch-macOS-arm64-4.5.0-to-4.5.1.hdiff"
     },
     {
-      "name": "patch-macOS-arm64-4.4.7-to-4.5.0.hdiff",
-      "size": 29667425,
-      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.0/patch-macOS-arm64-4.4.7-to-4.5.0.hdiff"
+      "name": "patch-macOS-x86_64-4.5.0-to-4.5.1.hdiff",
+      "size": 7418683,
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.1/patch-macOS-x86_64-4.5.0-to-4.5.1.hdiff"
     },
     {
-      "name": "Ghost-Downloader-v4.5.0-Linux-arm64.tar.xz",
-      "size": 63241888,
-      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.0/Ghost-Downloader-v4.5.0-Linux-arm64.tar.xz"
+      "name": "Ghost-Downloader-v4.5.1-Linux-arm64.tar.xz",
+      "size": 61125596,
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.1/Ghost-Downloader-v4.5.1-Linux-arm64.tar.xz"
     },
     {
-      "name": "Ghost-Downloader-v4.5.0-Linux-x86_64.tar.xz",
-      "size": 68741128,
-      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.0/Ghost-Downloader-v4.5.0-Linux-x86_64.tar.xz"
+      "name": "Ghost-Downloader-v4.5.1-Linux-x86_64.tar.xz",
+      "size": 66479660,
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.1/Ghost-Downloader-v4.5.1-Linux-x86_64.tar.xz"
     },
     {
-      "name": "Ghost-Downloader-v4.5.0-Android-arm64-v8a.apk",
-      "size": 46769957,
-      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.0/Ghost-Downloader-v4.5.0-Android-arm64-v8a.apk"
+      "name": "Ghost-Downloader-v4.5.1-Android-arm64-v8a.apk",
+      "size": 46770537,
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.1/Ghost-Downloader-v4.5.1-Android-arm64-v8a.apk"
     }
   ],
   "pinned": false,

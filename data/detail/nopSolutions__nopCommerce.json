@@ -23,31 +23,31 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/nopSolutions/nopCommerce/zip/refs/heads/develop",
   "release": {
-    "tag": "release-5.00.0",
-    "name": "release-5.00.0",
-    "published": "2026-10-27T08:12:55Z",
-    "url": "https://github.com/nopSolutions/nopCommerce/releases/tag/release-5.00.0"
+    "tag": "release-5.00.1",
+    "name": "release-5.00.1",
+    "published": "2026-11-09T09:23:13Z",
+    "url": "https://github.com/nopSolutions/nopCommerce/releases/tag/release-5.00.1"
   },
   "assets": [
     {
-      "name": "nopCommerce_5.00.0_NoSource_win_x86.zip",
-      "size": 151189985,
-      "url": "https://github.com/nopSolutions/nopCommerce/releases/download/release-5.00.0/nopCommerce_5.00.0_NoSource_win_x86.zip"
+      "name": "nopCommerce_5.00.1_NoSource_win_x86.zip",
+      "size": 151302692,
+      "url": "https://github.com/nopSolutions/nopCommerce/releases/download/release-5.00.1/nopCommerce_5.00.1_NoSource_win_x86.zip"
     },
     {
-      "name": "nopCommerce_5.00.0_NoSource_win_x64.zip",
-      "size": 155127687,
-      "url": "https://github.com/nopSolutions/nopCommerce/releases/download/release-5.00.0/nopCommerce_5.00.0_NoSource_win_x64.zip"
+      "name": "nopCommerce_5.00.1_NoSource_win_x64.zip",
+      "size": 155240449,
+      "url": "https://github.com/nopSolutions/nopCommerce/releases/download/release-5.00.1/nopCommerce_5.00.1_NoSource_win_x64.zip"
     },
     {
-      "name": "nopCommerce_5.00.0_NoSource_linux_x64.zip",
-      "size": 154314690,
-      "url": "https://github.com/nopSolutions/nopCommerce/releases/download/release-5.00.0/nopCommerce_5.00.0_NoSource_linux_x64.zip"
+      "name": "nopCommerce_5.00.1_NoSource_linux_x64.zip",
+      "size": 154427413,
+      "url": "https://github.com/nopSolutions/nopCommerce/releases/download/release-5.00.1/nopCommerce_5.00.1_NoSource_linux_x64.zip"
     },
     {
-      "name": "nopCommerce_5.00.0_Source.zip",
-      "size": 50994531,
-      "url": "https://github.com/nopSolutions/nopCommerce/releases/download/release-5.00.0/nopCommerce_5.00.0_Source.zip"
+      "name": "nopCommerce_5.00.1_Source.zip",
+      "size": 50516621,
+      "url": "https://github.com/nopSolutions/nopCommerce/releases/download/release-5.00.1/nopCommerce_5.00.1_Source.zip"
     }
   ],
   "pinned": false,

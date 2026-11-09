@@ -20,31 +20,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/storytold/filmcraft/zip/refs/heads/main",
   "release": {
-    "tag": "v0.18.0",
-    "name": "FilmCraft v0.18.0",
-    "published": "2026-11-06T20:21:40Z",
-    "url": "https://github.com/storytold/filmcraft/releases/tag/v0.18.0"
+    "tag": "v0.19.0",
+    "name": "FilmCraft v0.19.0",
+    "published": "2026-11-09T11:54:14Z",
+    "url": "https://github.com/storytold/filmcraft/releases/tag/v0.19.0"
   },
   "assets": [
     {
-      "name": "filmcraft-0.18.0-linux-aarch64.flatpak",
-      "size": 75925256,
-      "url": "https://github.com/storytold/filmcraft/releases/download/v0.18.0/filmcraft-0.18.0-linux-aarch64.flatpak"
+      "name": "filmcraft-0.19.0-linux-aarch64.flatpak",
+      "size": 76194848,
+      "url": "https://github.com/storytold/filmcraft/releases/download/v0.19.0/filmcraft-0.19.0-linux-aarch64.flatpak"
     },
     {
-      "name": "filmcraft-0.18.0-linux-x86_64.flatpak",
-      "size": 79612808,
-      "url": "https://github.com/storytold/filmcraft/releases/download/v0.18.0/filmcraft-0.18.0-linux-x86_64.flatpak"
+      "name": "filmcraft-0.19.0-linux-x86_64.flatpak",
+      "size": 79933936,
+      "url": "https://github.com/storytold/filmcraft/releases/download/v0.19.0/filmcraft-0.19.0-linux-x86_64.flatpak"
     },
     {
-      "name": "filmcraft-0.18.0-freebsd-aarch64.tar.gz",
-      "size": 103288141,
-      "url": "https://github.com/storytold/filmcraft/releases/download/v0.18.0/filmcraft-0.18.0-freebsd-aarch64.tar.gz"
+      "name": "filmcraft-0.19.0-freebsd-aarch64.tar.gz",
+      "size": 103670119,
+      "url": "https://github.com/storytold/filmcraft/releases/download/v0.19.0/filmcraft-0.19.0-freebsd-aarch64.tar.gz"
     },
     {
-      "name": "filmcraft-0.18.0-freebsd-x86_64.tar.gz",
-      "size": 107579523,
-      "url": "https://github.com/storytold/filmcraft/releases/download/v0.18.0/filmcraft-0.18.0-freebsd-x86_64.tar.gz"
+      "name": "filmcraft-0.19.0-freebsd-x86_64.tar.gz",
+      "size": 108034424,
+      "url": "https://github.com/storytold/filmcraft/releases/download/v0.19.0/filmcraft-0.19.0-freebsd-x86_64.tar.gz"
     }
   ],
   "pinned": false,

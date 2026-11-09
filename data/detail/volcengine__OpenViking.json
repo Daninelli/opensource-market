@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/volcengine/OpenViking/zip/refs/heads/main",
   "release": {
-    "tag": "v0.5.3",
-    "name": "v0.5.3",
-    "published": "2026-11-02T06:33:38Z",
-    "url": "https://github.com/volcengine/OpenViking/releases/tag/v0.5.3"
+    "tag": "v0.5.4",
+    "name": "v0.5.4",
+    "published": "2026-11-09T10:08:45Z",
+    "url": "https://github.com/volcengine/OpenViking/releases/tag/v0.5.4"
   },
   "assets": [],
   "pinned": false,

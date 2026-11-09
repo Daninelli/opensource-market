@@ -21,46 +21,46 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/linshenkx/prompt-optimizer/zip/refs/heads/develop",
   "release": {
-    "tag": "v2.15.1",
-    "name": "v2.15.1",
-    "published": "2026-11-03T14:46:27Z",
-    "url": "https://github.com/linshenkx/prompt-optimizer/releases/tag/v2.15.1"
+    "tag": "v2.15.2",
+    "name": "v2.15.2",
+    "published": "2026-11-09T12:56:59Z",
+    "url": "https://github.com/linshenkx/prompt-optimizer/releases/tag/v2.15.2"
   },
   "assets": [
     {
-      "name": "PromptOptimizer-2.15.1-win-x64.exe",
-      "size": 132985962,
-      "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.1/PromptOptimizer-2.15.1-win-x64.exe"
+      "name": "PromptOptimizer-2.15.2-win-x64.exe",
+      "size": 132993794,
+      "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.2/PromptOptimizer-2.15.2-win-x64.exe"
     },
     {
-      "name": "PromptOptimizer-2.15.1-mac-arm64.zip",
-      "size": 144629311,
-      "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.1/PromptOptimizer-2.15.1-mac-arm64.zip"
+      "name": "PromptOptimizer-2.15.2-mac-arm64.zip",
+      "size": 144633868,
+      "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.2/PromptOptimizer-2.15.2-mac-arm64.zip"
     },
     {
-      "name": "PromptOptimizer-2.15.1-mac-x64.zip",
-      "size": 148418531,
-      "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.1/PromptOptimizer-2.15.1-mac-x64.zip"
+      "name": "PromptOptimizer-2.15.2-mac-x64.zip",
+      "size": 148423088,
+      "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.2/PromptOptimizer-2.15.2-mac-x64.zip"
     },
     {
-      "name": "PromptOptimizer-2.15.1-win-x64.zip",
-      "size": 170813310,
-      "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.1/PromptOptimizer-2.15.1-win-x64.zip"
+      "name": "PromptOptimizer-2.15.2-win-x64.zip",
+      "size": 170818157,
+      "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.2/PromptOptimizer-2.15.2-win-x64.zip"
     },
     {
-      "name": "PromptOptimizer-2.15.1-linux-x64.zip",
-      "size": 136826035,
-      "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.1/PromptOptimizer-2.15.1-linux-x64.zip"
+      "name": "PromptOptimizer-2.15.2-linux-x64.zip",
+      "size": 136830589,
+      "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.2/PromptOptimizer-2.15.2-linux-x64.zip"
     },
     {
-      "name": "PromptOptimizer-2.15.1-linux-x86_64.AppImage",
-      "size": 144683245,
-      "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.1/PromptOptimizer-2.15.1-linux-x86_64.AppImage"
+      "name": "PromptOptimizer-2.15.2-linux-x86_64.AppImage",
+      "size": 144695594,
+      "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.2/PromptOptimizer-2.15.2-linux-x86_64.AppImage"
     },
     {
-      "name": "PromptOptimizer-chrome-extension-v2.15.1.zip",
-      "size": 1919356,
-      "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.1/PromptOptimizer-chrome-extension-v2.15.1.zip"
+      "name": "PromptOptimizer-chrome-extension-v2.15.2.zip",
+      "size": 1924649,
+      "url": "https://github.com/linshenkx/prompt-optimizer/releases/download/v2.15.2/PromptOptimizer-chrome-extension-v2.15.2.zip"
     }
   ],
   "pinned": false,

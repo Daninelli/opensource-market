@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/wazuh/wazuh/zip/refs/heads/main",
   "release": {
-    "tag": "v4.14.9",
-    "name": "Wazuh v4.14.9",
-    "published": "2026-10-15T17:40:40Z",
-    "url": "https://github.com/wazuh/wazuh/releases/tag/v4.14.9"
+    "tag": "v4.14.10",
+    "name": "Wazuh v4.14.10",
+    "published": "2026-11-09T10:33:53Z",
+    "url": "https://github.com/wazuh/wazuh/releases/tag/v4.14.10"
   },
   "assets": [],
   "pinned": false,

@@ -1,0 +1,77 @@
+{
+  "repo": "pingdotgg/t3code",
+  "slug": "pingdotgg__t3code",
+  "name": "T3 Code",
+  "note_zh": "统一控制本机各类编码 Agent 的桌面/移动控制台，兼容 Claude Code、Codex 等",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-11-09T12:52:47Z",
+  "added_at": "2026-11-09T20:59:08+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/pingdotgg/t3code/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.1.7",
+    "name": "T3 Code v0.1.7",
+    "published": "2026-11-04T06:39:38Z",
+    "url": "https://github.com/pingdotgg/t3code/releases/tag/v0.1.7"
+  },
+  "assets": [
+    {
+      "name": "t3-0.1.7-win32-arm64.zip",
+      "size": 102282518,
+      "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.7/t3-0.1.7-win32-arm64.zip"
+    },
+    {
+      "name": "t3-0.1.7-darwin-arm64.tar.gz",
+      "size": 110020388,
+      "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.7/t3-0.1.7-darwin-arm64.tar.gz"
+    },
+    {
+      "name": "t3-0.1.7-win32-x64.zip",
+      "size": 113322741,
+      "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.7/t3-0.1.7-win32-x64.zip"
+    },
+    {
+      "name": "T3-Code-0.1.7-arm64.dmg",
+      "size": 188335050,
+      "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.7/T3-Code-0.1.7-arm64.dmg"
+    },
+    {
+      "name": "t3-0.1.7-linux-arm64.tar.gz",
+      "size": 119171914,
+      "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.7/t3-0.1.7-linux-arm64.tar.gz"
+    },
+    {
+      "name": "t3-0.1.7-linux-x64.tar.gz",
+      "size": 123710035,
+      "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.7/t3-0.1.7-linux-x64.tar.gz"
+    },
+    {
+      "name": "T3-Code-0.1.7-arm64.zip",
+      "size": 181176168,
+      "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.7/T3-Code-0.1.7-arm64.zip"
+    },
+    {
+      "name": "T3-Code-0.1.7-x64.zip",
+      "size": 190160938,
+      "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.7/T3-Code-0.1.7-x64.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -28,24 +28,24 @@
   },
   "assets": [
     {
-      "name": "haos_khadas-vim3-18.5.raucb",
-      "size": 165833119,
-      "url": "https://github.com/home-assistant/operating-system/releases/download/18.5/haos_khadas-vim3-18.5.raucb"
+      "name": "haos_rpi3-64-18.5.raucb",
+      "size": 181627160,
+      "url": "https://github.com/home-assistant/operating-system/releases/download/18.5/haos_rpi3-64-18.5.raucb"
     },
     {
-      "name": "haos_odroid-c2-18.5.raucb",
-      "size": 166234523,
-      "url": "https://github.com/home-assistant/operating-system/releases/download/18.5/haos_odroid-c2-18.5.raucb"
+      "name": "haos_yellow-18.5.raucb",
+      "size": 191039767,
+      "url": "https://github.com/home-assistant/operating-system/releases/download/18.5/haos_yellow-18.5.raucb"
     },
     {
-      "name": "haos_khadas-vim3-18.5.img.xz",
-      "size": 306574648,
-      "url": "https://github.com/home-assistant/operating-system/releases/download/18.5/haos_khadas-vim3-18.5.img.xz"
+      "name": "haos_rpi3-64-18.5.img.xz",
+      "size": 320656368,
+      "url": "https://github.com/home-assistant/operating-system/releases/download/18.5/haos_rpi3-64-18.5.img.xz"
     },
     {
-      "name": "haos_odroid-c2-18.5.img.xz",
-      "size": 306869612,
-      "url": "https://github.com/home-assistant/operating-system/releases/download/18.5/haos_odroid-c2-18.5.img.xz"
+      "name": "haos_yellow-18.5.img.xz",
+      "size": 331331980,
+      "url": "https://github.com/home-assistant/operating-system/releases/download/18.5/haos_yellow-18.5.img.xz"
     }
   ],
   "pinned": false,

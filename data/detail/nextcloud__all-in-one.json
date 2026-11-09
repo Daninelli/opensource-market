@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/nextcloud/all-in-one/zip/refs/heads/main",
   "release": {
-    "tag": "v14.4.3",
-    "name": "v14.4.3",
-    "published": "2026-10-29T15:26:45Z",
-    "url": "https://github.com/nextcloud/all-in-one/releases/tag/v14.4.3"
+    "tag": "v15.0.2",
+    "name": "v15.0.2",
+    "published": "2026-11-03T11:02:16Z",
+    "url": "https://github.com/nextcloud/all-in-one/releases/tag/v15.0.2"
   },
   "assets": [],
   "pinned": false,
