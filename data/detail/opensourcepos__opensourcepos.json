@@ -22,16 +22,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/opensourcepos/opensourcepos/zip/refs/heads/master",
   "release": {
-    "tag": "3.4.2",
-    "name": "OpensourcePos 3.4.2",
-    "published": "2026-10-02T06:04:45Z",
-    "url": "https://github.com/opensourcepos/opensourcepos/releases/tag/3.4.2"
+    "tag": "3.4.3",
+    "name": "OpenSourcePOS 3.4.3",
+    "published": "2026-10-22T05:45:14Z",
+    "url": "https://github.com/opensourcepos/opensourcepos/releases/tag/3.4.3"
   },
   "assets": [
     {
-      "name": "opensourcepos.3.4.2.cb5e2a.zip",
-      "size": 13144299,
-      "url": "https://github.com/opensourcepos/opensourcepos/releases/download/3.4.2/opensourcepos.3.4.2.cb5e2a.zip"
+      "name": "opensourcepos.3.4.3.f81695.zip",
+      "size": 12732280,
+      "url": "https://github.com/opensourcepos/opensourcepos/releases/download/3.4.3/opensourcepos.3.4.3.f81695.zip"
     }
   ],
   "pinned": false,

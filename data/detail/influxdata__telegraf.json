@@ -20,10 +20,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/influxdata/telegraf/zip/refs/heads/master",
   "release": {
-    "tag": "v1.40.2",
-    "name": "v1.40.2",
-    "published": "2026-10-12T14:52:08Z",
-    "url": "https://github.com/influxdata/telegraf/releases/tag/v1.40.2"
+    "tag": "v1.40.3",
+    "name": "v1.40.3",
+    "published": "2026-11-02T19:21:49Z",
+    "url": "https://github.com/influxdata/telegraf/releases/tag/v1.40.3"
   },
   "assets": [],
   "pinned": false,

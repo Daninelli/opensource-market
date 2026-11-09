@@ -20,31 +20,31 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/endless-sky/endless-sky/zip/refs/heads/master",
   "release": {
-    "tag": "v0.11.2",
-    "name": "v0.11.2 Stable Release",
-    "published": "2026-06-27T20:37:33Z",
-    "url": "https://github.com/endless-sky/endless-sky/releases/tag/v0.11.2"
+    "tag": "v0.11.4",
+    "name": "v0.11.4 Stable Release",
+    "published": "2026-10-31T18:13:21Z",
+    "url": "https://github.com/endless-sky/endless-sky/releases/tag/v0.11.4"
   },
   "assets": [
     {
-      "name": "EndlessSky-v0.11.2-win32-setup.exe",
-      "size": 362376195,
-      "url": "https://github.com/endless-sky/endless-sky/releases/download/v0.11.2/EndlessSky-v0.11.2-win32-setup.exe"
+      "name": "EndlessSky-v0.11.4-win32-setup.exe",
+      "size": 363535063,
+      "url": "https://github.com/endless-sky/endless-sky/releases/download/v0.11.4/EndlessSky-v0.11.4-win32-setup.exe"
     },
     {
-      "name": "EndlessSky-v0.11.2-win64-setup.exe",
-      "size": 362480233,
-      "url": "https://github.com/endless-sky/endless-sky/releases/download/v0.11.2/EndlessSky-v0.11.2-win64-setup.exe"
+      "name": "EndlessSky-v0.11.4-win64-setup.exe",
+      "size": 363641033,
+      "url": "https://github.com/endless-sky/endless-sky/releases/download/v0.11.4/EndlessSky-v0.11.4-win64-setup.exe"
     },
     {
-      "name": "Endless-Sky-v0.11.2.dmg",
-      "size": 377346725,
-      "url": "https://github.com/endless-sky/endless-sky/releases/download/v0.11.2/Endless-Sky-v0.11.2.dmg"
+      "name": "Endless-Sky-v0.11.4.dmg",
+      "size": 379445670,
+      "url": "https://github.com/endless-sky/endless-sky/releases/download/v0.11.4/Endless-Sky-v0.11.4.dmg"
     },
     {
-      "name": "Endless_Sky-v0.11.2-x86_64.AppImage",
-      "size": 363155768,
-      "url": "https://github.com/endless-sky/endless-sky/releases/download/v0.11.2/Endless_Sky-v0.11.2-x86_64.AppImage"
+      "name": "Endless_Sky-v0.11.4-x86_64.AppImage",
+      "size": 364425528,
+      "url": "https://github.com/endless-sky/endless-sky/releases/download/v0.11.4/Endless_Sky-v0.11.4-x86_64.AppImage"
     }
   ],
   "pinned": false,

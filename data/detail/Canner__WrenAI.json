@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Canner/WrenAI/zip/refs/heads/main",
   "release": {
-    "tag": "wren-pydantic-v0.3.1",
-    "name": "wren-pydantic: v0.3.1",
-    "published": "2026-10-20T02:26:19Z",
-    "url": "https://github.com/Canner/WrenAI/releases/tag/wren-pydantic-v0.3.1"
+    "tag": "wren-v0.17.1",
+    "name": "wren: v0.17.1",
+    "published": "2026-10-30T02:01:05Z",
+    "url": "https://github.com/Canner/WrenAI/releases/tag/wren-v0.17.1"
   },
   "assets": [],
   "pinned": false,

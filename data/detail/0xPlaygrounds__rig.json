@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/0xPlaygrounds/rig/zip/refs/heads/main",
   "release": {
-    "tag": "v0.45.0",
-    "name": "rig-v0.45.0",
-    "published": "2026-10-19T18:07:57Z",
-    "url": "https://github.com/0xPlaygrounds/rig/releases/tag/v0.45.0"
+    "tag": "v0.46.0",
+    "name": "rig-v0.46.0",
+    "published": "2026-10-31T07:09:38Z",
+    "url": "https://github.com/0xPlaygrounds/rig/releases/tag/v0.46.0"
   },
   "assets": [],
   "pinned": false,

@@ -22,31 +22,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/quickwit-oss/quickwit/zip/refs/heads/main",
   "release": {
-    "tag": "v0.9.2",
-    "name": "v0.9.2",
-    "published": "2026-10-16T16:56:19Z",
-    "url": "https://github.com/quickwit-oss/quickwit/releases/tag/v0.9.2"
+    "tag": "v0.9.3",
+    "name": "v0.9.3",
+    "published": "2026-10-22T19:13:39Z",
+    "url": "https://github.com/quickwit-oss/quickwit/releases/tag/v0.9.3"
   },
   "assets": [
     {
-      "name": "quickwit-v0.9.2-aarch64-apple-darwin.tar.gz",
-      "size": 73975126,
-      "url": "https://github.com/quickwit-oss/quickwit/releases/download/v0.9.2/quickwit-v0.9.2-aarch64-apple-darwin.tar.gz"
+      "name": "quickwit-v0.9.3-aarch64-apple-darwin.tar.gz",
+      "size": 74076798,
+      "url": "https://github.com/quickwit-oss/quickwit/releases/download/v0.9.3/quickwit-v0.9.3-aarch64-apple-darwin.tar.gz"
     },
     {
-      "name": "quickwit-v0.9.2-x86_64-apple-darwin.tar.gz",
-      "size": 76992677,
-      "url": "https://github.com/quickwit-oss/quickwit/releases/download/v0.9.2/quickwit-v0.9.2-x86_64-apple-darwin.tar.gz"
+      "name": "quickwit-v0.9.3-x86_64-apple-darwin.tar.gz",
+      "size": 77065750,
+      "url": "https://github.com/quickwit-oss/quickwit/releases/download/v0.9.3/quickwit-v0.9.3-x86_64-apple-darwin.tar.gz"
     },
     {
-      "name": "quickwit-v0.9.2-aarch64-unknown-linux-gnu.tar.gz",
-      "size": 78325980,
-      "url": "https://github.com/quickwit-oss/quickwit/releases/download/v0.9.2/quickwit-v0.9.2-aarch64-unknown-linux-gnu.tar.gz"
+      "name": "quickwit-v0.9.3-aarch64-unknown-linux-gnu.tar.gz",
+      "size": 78390027,
+      "url": "https://github.com/quickwit-oss/quickwit/releases/download/v0.9.3/quickwit-v0.9.3-aarch64-unknown-linux-gnu.tar.gz"
     },
     {
-      "name": "quickwit-v0.9.2-x86_64-unknown-linux-gnu.tar.gz",
-      "size": 81709565,
-      "url": "https://github.com/quickwit-oss/quickwit/releases/download/v0.9.2/quickwit-v0.9.2-x86_64-unknown-linux-gnu.tar.gz"
+      "name": "quickwit-v0.9.3-x86_64-unknown-linux-gnu.tar.gz",
+      "size": 81793081,
+      "url": "https://github.com/quickwit-oss/quickwit/releases/download/v0.9.3/quickwit-v0.9.3-x86_64-unknown-linux-gnu.tar.gz"
     }
   ],
   "pinned": false,

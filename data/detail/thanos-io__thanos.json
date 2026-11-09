@@ -20,46 +20,46 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/thanos-io/thanos/zip/refs/heads/main",
   "release": {
-    "tag": "v0.42.4",
-    "name": "v0.42.4",
-    "published": "2026-07-30T14:33:20Z",
-    "url": "https://github.com/thanos-io/thanos/releases/tag/v0.42.4"
+    "tag": "v0.42.5",
+    "name": "v0.42.5",
+    "published": "2026-10-27T10:58:35Z",
+    "url": "https://github.com/thanos-io/thanos/releases/tag/v0.42.5"
   },
   "assets": [
     {
-      "name": "thanos-0.42.4.darwin-arm64.tar.gz",
-      "size": 55353032,
-      "url": "https://github.com/thanos-io/thanos/releases/download/v0.42.4/thanos-0.42.4.darwin-arm64.tar.gz"
+      "name": "thanos-0.42.5.darwin-arm64.tar.gz",
+      "size": 55377361,
+      "url": "https://github.com/thanos-io/thanos/releases/download/v0.42.5/thanos-0.42.5.darwin-arm64.tar.gz"
     },
     {
-      "name": "thanos-0.42.4.windows-amd64.tar.gz",
-      "size": 56168310,
-      "url": "https://github.com/thanos-io/thanos/releases/download/v0.42.4/thanos-0.42.4.windows-amd64.tar.gz"
+      "name": "thanos-0.42.5.windows-amd64.tar.gz",
+      "size": 56192508,
+      "url": "https://github.com/thanos-io/thanos/releases/download/v0.42.5/thanos-0.42.5.windows-amd64.tar.gz"
     },
     {
-      "name": "thanos-0.42.4.windows-amd64.zip",
-      "size": 57231834,
-      "url": "https://github.com/thanos-io/thanos/releases/download/v0.42.4/thanos-0.42.4.windows-amd64.zip"
+      "name": "thanos-0.42.5.windows-amd64.zip",
+      "size": 57257678,
+      "url": "https://github.com/thanos-io/thanos/releases/download/v0.42.5/thanos-0.42.5.windows-amd64.zip"
     },
     {
-      "name": "thanos-0.42.4.darwin-amd64.tar.gz",
-      "size": 58362506,
-      "url": "https://github.com/thanos-io/thanos/releases/download/v0.42.4/thanos-0.42.4.darwin-amd64.tar.gz"
+      "name": "thanos-0.42.5.darwin-amd64.tar.gz",
+      "size": 58383031,
+      "url": "https://github.com/thanos-io/thanos/releases/download/v0.42.5/thanos-0.42.5.darwin-amd64.tar.gz"
     },
     {
-      "name": "thanos-0.42.4.linux-arm64.tar.gz",
-      "size": 51943007,
-      "url": "https://github.com/thanos-io/thanos/releases/download/v0.42.4/thanos-0.42.4.linux-arm64.tar.gz"
+      "name": "thanos-0.42.5.linux-arm64.tar.gz",
+      "size": 51974760,
+      "url": "https://github.com/thanos-io/thanos/releases/download/v0.42.5/thanos-0.42.5.linux-arm64.tar.gz"
     },
     {
-      "name": "thanos-0.42.4.linux-ppc64le.tar.gz",
-      "size": 52568173,
-      "url": "https://github.com/thanos-io/thanos/releases/download/v0.42.4/thanos-0.42.4.linux-ppc64le.tar.gz"
+      "name": "thanos-0.42.5.linux-ppc64le.tar.gz",
+      "size": 52594172,
+      "url": "https://github.com/thanos-io/thanos/releases/download/v0.42.5/thanos-0.42.5.linux-ppc64le.tar.gz"
     },
     {
-      "name": "thanos-0.42.4.freebsd-amd64.tar.gz",
-      "size": 55511088,
-      "url": "https://github.com/thanos-io/thanos/releases/download/v0.42.4/thanos-0.42.4.freebsd-amd64.tar.gz"
+      "name": "thanos-0.42.5.freebsd-amd64.tar.gz",
+      "size": 55534752,
+      "url": "https://github.com/thanos-io/thanos/releases/download/v0.42.5/thanos-0.42.5.freebsd-amd64.tar.gz"
     }
   ],
   "pinned": false,

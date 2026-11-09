@@ -22,21 +22,21 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/deckerst/aves/zip/refs/heads/develop",
   "release": {
-    "tag": "v1.15.7",
-    "name": "v1.15.7",
-    "published": "2026-10-19T10:50:28Z",
-    "url": "https://github.com/deckerst/aves/releases/tag/v1.15.7"
+    "tag": "v1.15.9",
+    "name": "v1.15.9",
+    "published": "2026-11-05T12:56:25Z",
+    "url": "https://github.com/deckerst/aves/releases/tag/v1.15.9"
   },
   "assets": [
     {
-      "name": "app-izzy-arm64-v8a-release.apk",
-      "size": 25286126,
-      "url": "https://github.com/deckerst/aves/releases/download/v1.15.7/app-izzy-arm64-v8a-release.apk"
+      "name": "app-izzy-armeabi-v7a-release.apk",
+      "size": 38479202,
+      "url": "https://github.com/deckerst/aves/releases/download/v1.15.9/app-izzy-armeabi-v7a-release.apk"
     },
     {
-      "name": "app-izzy-armeabi-v7a-release.apk",
-      "size": 25374126,
-      "url": "https://github.com/deckerst/aves/releases/download/v1.15.7/app-izzy-armeabi-v7a-release.apk"
+      "name": "app-izzy-arm64-v8a-release.apk",
+      "size": 39354064,
+      "url": "https://github.com/deckerst/aves/releases/download/v1.15.9/app-izzy-arm64-v8a-release.apk"
     }
   ],
   "pinned": false,

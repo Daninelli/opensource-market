@@ -22,21 +22,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/simonoppowa/OpenNutriTracker/zip/refs/heads/main",
   "release": {
-    "tag": "v2.4.0",
-    "name": "Release v2.4.0 (build 66)",
-    "published": "2026-09-26T21:58:39Z",
-    "url": "https://github.com/simonoppowa/OpenNutriTracker/releases/tag/v2.4.0"
+    "tag": "v2.6.0",
+    "name": "Release v2.6.0 (build 68)",
+    "published": "2026-10-30T20:32:44Z",
+    "url": "https://github.com/simonoppowa/OpenNutriTracker/releases/tag/v2.6.0"
   },
   "assets": [
     {
       "name": "opennutritracker.ipa",
-      "size": 32376572,
-      "url": "https://github.com/simonoppowa/OpenNutriTracker/releases/download/v2.4.0/opennutritracker.ipa"
+      "size": 32794585,
+      "url": "https://github.com/simonoppowa/OpenNutriTracker/releases/download/v2.6.0/opennutritracker.ipa"
     },
     {
       "name": "app-release.apk",
-      "size": 104738899,
-      "url": "https://github.com/simonoppowa/OpenNutriTracker/releases/download/v2.4.0/app-release.apk"
+      "size": 107115073,
+      "url": "https://github.com/simonoppowa/OpenNutriTracker/releases/download/v2.6.0/app-release.apk"
     }
   ],
   "pinned": false,

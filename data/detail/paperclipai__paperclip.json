@@ -22,10 +22,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/paperclipai/paperclip/zip/refs/heads/master",
   "release": {
-    "tag": "v2026.1012.0",
-    "name": "v2026.1012.0",
-    "published": "2026-10-12T21:06:53Z",
-    "url": "https://github.com/paperclipai/paperclip/releases/tag/v2026.1012.0"
+    "tag": "v2026.1106.0",
+    "name": "v2026.1106.0",
+    "published": "2026-11-06T22:31:53Z",
+    "url": "https://github.com/paperclipai/paperclip/releases/tag/v2026.1106.0"
   },
   "assets": [],
   "pinned": false,

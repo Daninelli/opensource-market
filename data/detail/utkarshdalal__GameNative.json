@@ -21,21 +21,21 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/utkarshdalal/GameNative/zip/refs/heads/master",
   "release": {
-    "tag": "v1.3.0",
-    "name": "v1.3.0",
-    "published": "2026-10-14T09:36:19Z",
-    "url": "https://github.com/utkarshdalal/GameNative/releases/tag/v1.3.0"
+    "tag": "v1.4.0",
+    "name": "v1.4.0",
+    "published": "2026-11-05T13:59:50Z",
+    "url": "https://github.com/utkarshdalal/GameNative/releases/tag/v1.4.0"
   },
   "assets": [
     {
-      "name": "gamenative-v1.3.0.apk",
-      "size": 574151860,
-      "url": "https://github.com/utkarshdalal/GameNative/releases/download/v1.3.0/gamenative-v1.3.0.apk"
+      "name": "gamenative-v1.4.0.apk",
+      "size": 571251660,
+      "url": "https://github.com/utkarshdalal/GameNative/releases/download/v1.4.0/gamenative-v1.4.0.apk"
     },
     {
-      "name": "gamenative-v1.3.0-legacy-xr.apk",
-      "size": 576442318,
-      "url": "https://github.com/utkarshdalal/GameNative/releases/download/v1.3.0/gamenative-v1.3.0-legacy-xr.apk"
+      "name": "gamenative-v1.4.0-legacy-xr.apk",
+      "size": 573542118,
+      "url": "https://github.com/utkarshdalal/GameNative/releases/download/v1.4.0/gamenative-v1.4.0-legacy-xr.apk"
     }
   ],
   "pinned": false,

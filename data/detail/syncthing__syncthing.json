@@ -20,51 +20,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/syncthing/syncthing/zip/refs/heads/main",
   "release": {
-    "tag": "v2.1.6",
-    "name": "v2.1.6",
-    "published": "2026-10-06T06:08:27Z",
-    "url": "https://github.com/syncthing/syncthing/releases/tag/v2.1.6"
+    "tag": "v2.1.7",
+    "name": "v2.1.7",
+    "published": "2026-10-21T06:09:14Z",
+    "url": "https://github.com/syncthing/syncthing/releases/tag/v2.1.7"
   },
   "assets": [
     {
-      "name": "syncthing-windows-arm64-v2.1.6.zip",
-      "size": 10896902,
-      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-windows-arm64-v2.1.6.zip"
+      "name": "syncthing-windows-arm64-v2.1.7.zip",
+      "size": 12924843,
+      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-windows-arm64-v2.1.7.zip"
     },
     {
-      "name": "syncthing-macos-arm64-v2.1.6.zip",
-      "size": 11192122,
-      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-macos-arm64-v2.1.6.zip"
+      "name": "syncthing-macos-arm64-v2.1.7.zip",
+      "size": 13372993,
+      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-macos-arm64-v2.1.7.zip"
     },
     {
-      "name": "syncthing-windows-386-v2.1.6.zip",
-      "size": 11718143,
-      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-windows-386-v2.1.6.zip"
+      "name": "syncthing-windows-386-v2.1.7.zip",
+      "size": 13919162,
+      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-windows-386-v2.1.7.zip"
     },
     {
-      "name": "syncthing-macos-amd64-v2.1.6.zip",
-      "size": 12420300,
-      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-macos-amd64-v2.1.6.zip"
+      "name": "syncthing-macos-amd64-v2.1.7.zip",
+      "size": 14889765,
+      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-macos-amd64-v2.1.7.zip"
     },
     {
-      "name": "syncthing-linux-arm64-v2.1.6.tar.gz",
-      "size": 10844382,
-      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-arm64-v2.1.6.tar.gz"
+      "name": "syncthing-linux-arm64-v2.1.7.tar.gz",
+      "size": 12866755,
+      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-arm64-v2.1.7.tar.gz"
     },
     {
-      "name": "syncthing_2.1.6_arm64.deb",
-      "size": 10892992,
-      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing_2.1.6_arm64.deb"
+      "name": "syncthing_2.1.7_arm64.deb",
+      "size": 12901050,
+      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing_2.1.7_arm64.deb"
     },
     {
-      "name": "syncthing-openbsd-arm64-v2.1.6.tar.gz",
-      "size": 12058554,
-      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-openbsd-arm64-v2.1.6.tar.gz"
+      "name": "syncthing-openbsd-arm64-v2.1.7.tar.gz",
+      "size": 14226361,
+      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-openbsd-arm64-v2.1.7.tar.gz"
     },
     {
-      "name": "syncthing-freebsd-arm64-v2.1.6.tar.gz",
-      "size": 12105886,
-      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-freebsd-arm64-v2.1.6.tar.gz"
+      "name": "syncthing-freebsd-arm64-v2.1.7.tar.gz",
+      "size": 14273155,
+      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-freebsd-arm64-v2.1.7.tar.gz"
     }
   ],
   "pinned": false,

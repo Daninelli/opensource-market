@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/open-telemetry/opentelemetry-collector/zip/refs/heads/main",
   "release": {
-    "tag": "v0.163.0",
-    "name": "v1.69.0/v0.163.0",
-    "published": "2026-10-14T02:03:50Z",
-    "url": "https://github.com/open-telemetry/opentelemetry-collector/releases/tag/v0.163.0"
+    "tag": "v0.165.0",
+    "name": "v1.71.0/v0.165.0",
+    "published": "2026-11-06T23:42:20Z",
+    "url": "https://github.com/open-telemetry/opentelemetry-collector/releases/tag/v0.165.0"
   },
   "assets": [],
   "pinned": false,

@@ -21,21 +21,21 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Kunzisoft/KeePassDX/zip/refs/heads/master",
   "release": {
-    "tag": "4.5.6",
-    "name": "🦋 Beautiful Butterfly",
-    "published": "2026-10-17T20:53:59Z",
-    "url": "https://github.com/Kunzisoft/KeePassDX/releases/tag/4.5.6"
+    "tag": "4.5.8",
+    "name": "🎃 Plump Pumpkin",
+    "published": "2026-10-31T20:06:43Z",
+    "url": "https://github.com/Kunzisoft/KeePassDX/releases/tag/4.5.8"
   },
   "assets": [
     {
-      "name": "KeePassDX-4.5.6-libre.apk",
-      "size": 16771674,
-      "url": "https://github.com/Kunzisoft/KeePassDX/releases/download/4.5.6/KeePassDX-4.5.6-libre.apk"
+      "name": "KeePassDX-4.5.8-libre.apk",
+      "size": 16786874,
+      "url": "https://github.com/Kunzisoft/KeePassDX/releases/download/4.5.8/KeePassDX-4.5.8-libre.apk"
     },
     {
-      "name": "KeePassDX-4.5.6-free.apk",
-      "size": 16777534,
-      "url": "https://github.com/Kunzisoft/KeePassDX/releases/download/4.5.6/KeePassDX-4.5.6-free.apk"
+      "name": "KeePassDX-4.5.8-free.apk",
+      "size": 16793177,
+      "url": "https://github.com/Kunzisoft/KeePassDX/releases/download/4.5.8/KeePassDX-4.5.8-free.apk"
     }
   ],
   "pinned": false,

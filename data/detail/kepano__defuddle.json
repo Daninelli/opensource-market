@@ -20,16 +20,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/kepano/defuddle/zip/refs/heads/main",
   "release": {
-    "tag": "0.19.5",
-    "name": "0.19.5",
-    "published": "2026-10-10T15:34:53Z",
-    "url": "https://github.com/kepano/defuddle/releases/tag/0.19.5"
+    "tag": "0.19.6",
+    "name": "0.19.6",
+    "published": "2026-10-24T15:56:41Z",
+    "url": "https://github.com/kepano/defuddle/releases/tag/0.19.6"
   },
   "assets": [
     {
-      "name": "defuddle-0.19.5.tgz",
-      "size": 659138,
-      "url": "https://github.com/kepano/defuddle/releases/download/0.19.5/defuddle-0.19.5.tgz"
+      "name": "defuddle-0.19.6.tgz",
+      "size": 661010,
+      "url": "https://github.com/kepano/defuddle/releases/download/0.19.6/defuddle-0.19.6.tgz"
     }
   ],
   "pinned": false,

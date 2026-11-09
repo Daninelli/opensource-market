@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/CopilotKit/CopilotKit/zip/refs/heads/main",
   "release": {
-    "tag": "channels/v0.11.1",
-    "name": "channels/v0.11.1",
-    "published": "2026-10-16T01:44:14Z",
-    "url": "https://github.com/CopilotKit/CopilotKit/releases/tag/channels/v0.11.1"
+    "tag": "v1.85.0",
+    "name": "v1.85.0",
+    "published": "2026-11-06T15:47:49Z",
+    "url": "https://github.com/CopilotKit/CopilotKit/releases/tag/v1.85.0"
   },
   "assets": [],
   "pinned": false,

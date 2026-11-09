@@ -21,51 +21,51 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/semaphoreui/semaphore/zip/refs/heads/develop",
   "release": {
-    "tag": "v2.19.16",
-    "name": "v2.19.16",
-    "published": "2026-10-07T10:01:55Z",
-    "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.19.16"
+    "tag": "v2.19.18",
+    "name": "v2.19.18",
+    "published": "2026-11-02T20:50:30Z",
+    "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.19.18"
   },
   "assets": [
     {
-      "name": "semaphore_community_2.19.16_windows_arm64.zip",
-      "size": 17125386,
-      "url": "https://github.com/semaphoreui/semaphore/releases/download/v2.19.16/semaphore_community_2.19.16_windows_arm64.zip"
+      "name": "semaphore_2.19.18_windows_arm64.zip",
+      "size": 28756182,
+      "url": "https://github.com/semaphoreui/semaphore/releases/download/v2.19.18/semaphore_2.19.18_windows_arm64.zip"
     },
     {
-      "name": "semaphore_community_2.19.16_darwin_arm64.tar.gz",
-      "size": 17553617,
-      "url": "https://github.com/semaphoreui/semaphore/releases/download/v2.19.16/semaphore_community_2.19.16_darwin_arm64.tar.gz"
+      "name": "semaphore_2.19.18_darwin_arm64.tar.gz",
+      "size": 29822867,
+      "url": "https://github.com/semaphoreui/semaphore/releases/download/v2.19.18/semaphore_2.19.18_darwin_arm64.tar.gz"
     },
     {
-      "name": "semaphore_community_2.19.16_windows_386.zip",
-      "size": 17630291,
-      "url": "https://github.com/semaphoreui/semaphore/releases/download/v2.19.16/semaphore_community_2.19.16_windows_386.zip"
+      "name": "semaphore_2.19.18_windows_386.zip",
+      "size": 30255714,
+      "url": "https://github.com/semaphoreui/semaphore/releases/download/v2.19.18/semaphore_2.19.18_windows_386.zip"
     },
     {
-      "name": "semaphore_community_2.19.16_darwin_amd64.tar.gz",
-      "size": 17919832,
-      "url": "https://github.com/semaphoreui/semaphore/releases/download/v2.19.16/semaphore_community_2.19.16_darwin_amd64.tar.gz"
+      "name": "semaphore_2.19.18_darwin_amd64.tar.gz",
+      "size": 31430754,
+      "url": "https://github.com/semaphoreui/semaphore/releases/download/v2.19.18/semaphore_2.19.18_darwin_amd64.tar.gz"
     },
     {
-      "name": "semaphore_community_2.19.16_linux_arm64.tar.gz",
-      "size": 17051281,
-      "url": "https://github.com/semaphoreui/semaphore/releases/download/v2.19.16/semaphore_community_2.19.16_linux_arm64.tar.gz"
+      "name": "semaphore_2.19.18_linux_ppc64le.tar.gz",
+      "size": 28469820,
+      "url": "https://github.com/semaphoreui/semaphore/releases/download/v2.19.18/semaphore_2.19.18_linux_ppc64le.tar.gz"
     },
     {
-      "name": "semaphore_community_2.19.16_linux_ppc64le.tar.gz",
-      "size": 17077905,
-      "url": "https://github.com/semaphoreui/semaphore/releases/download/v2.19.16/semaphore_community_2.19.16_linux_ppc64le.tar.gz"
+      "name": "semaphore_2.19.18_linux_ppc64le.deb",
+      "size": 28598566,
+      "url": "https://github.com/semaphoreui/semaphore/releases/download/v2.19.18/semaphore_2.19.18_linux_ppc64le.deb"
     },
     {
-      "name": "semaphore_community_2.19.16_freebsd_arm64.tar.gz",
-      "size": 17000737,
-      "url": "https://github.com/semaphoreui/semaphore/releases/download/v2.19.16/semaphore_community_2.19.16_freebsd_arm64.tar.gz"
+      "name": "semaphore_2.19.18_freebsd_arm64.tar.gz",
+      "size": 28591578,
+      "url": "https://github.com/semaphoreui/semaphore/releases/download/v2.19.18/semaphore_2.19.18_freebsd_arm64.tar.gz"
     },
     {
-      "name": "semaphore_community_2.19.16_freebsd_amd64.tar.gz",
-      "size": 17757762,
-      "url": "https://github.com/semaphoreui/semaphore/releases/download/v2.19.16/semaphore_community_2.19.16_freebsd_amd64.tar.gz"
+      "name": "semaphore_2.19.18_freebsd_amd64.tar.gz",
+      "size": 30967473,
+      "url": "https://github.com/semaphoreui/semaphore/releases/download/v2.19.18/semaphore_2.19.18_freebsd_amd64.tar.gz"
     }
   ],
   "pinned": false,

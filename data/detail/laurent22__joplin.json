@@ -22,51 +22,51 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/laurent22/joplin/zip/refs/heads/dev",
   "release": {
-    "tag": "v3.7.21",
-    "name": "v3.7.21",
-    "published": "2026-09-25T21:31:12Z",
-    "url": "https://github.com/laurent22/joplin/releases/tag/v3.7.21"
+    "tag": "v3.7.22",
+    "name": "v3.7.22",
+    "published": "2026-10-28T22:32:59Z",
+    "url": "https://github.com/laurent22/joplin/releases/tag/v3.7.22"
   },
   "assets": [
     {
-      "name": "Joplin-3.7.21.pkg",
-      "size": 206477574,
-      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.pkg"
+      "name": "Joplin-3.7.22.pkg",
+      "size": 208861777,
+      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.22/Joplin-3.7.22.pkg"
     },
     {
-      "name": "Joplin-3.7.21.dmg",
-      "size": 206702267,
-      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.dmg"
+      "name": "Joplin-3.7.22.dmg",
+      "size": 209038405,
+      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.22/Joplin-3.7.22.dmg"
     },
     {
       "name": "JoplinPortable.exe",
-      "size": 360779352,
-      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/JoplinPortable.exe"
+      "size": 368591720,
+      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.22/JoplinPortable.exe"
     },
     {
-      "name": "Joplin-Setup-3.7.21.exe",
-      "size": 361008040,
-      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-Setup-3.7.21.exe"
+      "name": "Joplin-Setup-3.7.22.exe",
+      "size": 368820432,
+      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.22/Joplin-Setup-3.7.22.exe"
     },
     {
-      "name": "Joplin-3.7.21.deb",
-      "size": 162700892,
-      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.deb"
+      "name": "Joplin-3.7.22.deb",
+      "size": 168656104,
+      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.22/Joplin-3.7.22.deb"
     },
     {
-      "name": "Joplin-3.7.21.AppImage",
-      "size": 201462481,
-      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.AppImage"
+      "name": "Joplin-3.7.22.AppImage",
+      "size": 207329204,
+      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.22/Joplin-3.7.22.AppImage"
     },
     {
-      "name": "Joplin-3.7.21-mac.zip",
-      "size": 198453324,
-      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21-mac.zip"
+      "name": "Joplin-3.7.22-mac.zip",
+      "size": 200754957,
+      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.22/Joplin-3.7.22-mac.zip"
     },
     {
-      "name": "Joplin-3.7.21-arm64.zip",
-      "size": 200073544,
-      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21-arm64.zip"
+      "name": "Joplin-3.7.22-arm64.zip",
+      "size": 203508269,
+      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.22/Joplin-3.7.22-arm64.zip"
     }
   ],
   "pinned": false,

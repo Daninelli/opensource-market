@@ -22,16 +22,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/espocrm/espocrm/zip/refs/heads/master",
   "release": {
-    "tag": "10.0.10",
-    "name": "10.0.10",
-    "published": "2026-10-14T15:47:37Z",
-    "url": "https://github.com/espocrm/espocrm/releases/tag/10.0.10"
+    "tag": "10.0.12",
+    "name": "10.0.12",
+    "published": "2026-11-09T07:32:10Z",
+    "url": "https://github.com/espocrm/espocrm/releases/tag/10.0.12"
   },
   "assets": [
     {
-      "name": "EspoCRM-10.0.10.zip",
-      "size": 42515745,
-      "url": "https://github.com/espocrm/espocrm/releases/download/10.0.10/EspoCRM-10.0.10.zip"
+      "name": "EspoCRM-10.0.12.zip",
+      "size": 42517918,
+      "url": "https://github.com/espocrm/espocrm/releases/download/10.0.12/EspoCRM-10.0.12.zip"
     }
   ],
   "pinned": false,

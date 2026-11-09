@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/czlonkowski/n8n-mcp/zip/refs/heads/main",
   "release": {
-    "tag": "v2.94.3",
-    "name": "Release v2.94.3",
-    "published": "2026-10-19T06:18:26Z",
-    "url": "https://github.com/czlonkowski/n8n-mcp/releases/tag/v2.94.3"
+    "tag": "v2.101.4",
+    "name": "Release v2.101.4",
+    "published": "2026-11-07T18:39:39Z",
+    "url": "https://github.com/czlonkowski/n8n-mcp/releases/tag/v2.101.4"
   },
   "assets": [],
   "pinned": false,

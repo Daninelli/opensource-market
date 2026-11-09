@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Gsync/jobsync/zip/refs/heads/main",
   "release": {
-    "tag": "v1.1.22",
-    "name": "v1.1.22",
-    "published": "2026-10-11T06:05:49Z",
-    "url": "https://github.com/Gsync/jobsync/releases/tag/v1.1.22"
+    "tag": "v1.2.0",
+    "name": "v1.2.0",
+    "published": "2026-10-30T21:49:01Z",
+    "url": "https://github.com/Gsync/jobsync/releases/tag/v1.2.0"
   },
   "assets": [],
   "pinned": false,

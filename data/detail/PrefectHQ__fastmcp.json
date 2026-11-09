@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/PrefectHQ/fastmcp/zip/refs/heads/main",
   "release": {
-    "tag": "v4.1.1",
-    "name": "v4.1.1: Regex Marks the Spot",
-    "published": "2026-10-18T02:12:20Z",
-    "url": "https://github.com/PrefectHQ/fastmcp/releases/tag/v4.1.1"
+    "tag": "v4.1.6",
+    "name": "v4.1.6: Group Therapy",
+    "published": "2026-11-03T02:52:59Z",
+    "url": "https://github.com/PrefectHQ/fastmcp/releases/tag/v4.1.6"
   },
   "assets": [],
   "pinned": false,

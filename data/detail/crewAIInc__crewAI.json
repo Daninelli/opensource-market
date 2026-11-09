@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/crewAIInc/crewAI/zip/refs/heads/main",
   "release": {
-    "tag": "1.15.28",
-    "name": "1.15.28",
-    "published": "2026-10-14T04:47:00Z",
-    "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.28"
+    "tag": "1.15.39",
+    "name": "1.15.39",
+    "published": "2026-11-09T01:07:14Z",
+    "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.39"
   },
   "assets": [],
   "pinned": false,

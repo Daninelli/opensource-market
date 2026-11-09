@@ -22,41 +22,41 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/marktext/marktext/zip/refs/heads/develop",
   "release": {
-    "tag": "v0.22.0",
-    "name": "v0.22.0",
-    "published": "2026-10-18T11:02:35Z",
-    "url": "https://github.com/marktext/marktext/releases/tag/v0.22.0"
+    "tag": "v0.23.0",
+    "name": "v0.23.0",
+    "published": "2026-10-21T05:02:06Z",
+    "url": "https://github.com/marktext/marktext/releases/tag/v0.23.0"
   },
   "assets": [
     {
-      "name": "marktext-win-arm64-0.22.0-setup.exe",
-      "size": 126022673,
-      "url": "https://github.com/marktext/marktext/releases/download/v0.22.0/marktext-win-arm64-0.22.0-setup.exe"
+      "name": "marktext-win-arm64-0.23.0-setup.exe",
+      "size": 126033364,
+      "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-arm64-0.23.0-setup.exe"
     },
     {
-      "name": "marktext-win-x64-0.22.0-setup.exe",
-      "size": 132425869,
-      "url": "https://github.com/marktext/marktext/releases/download/v0.22.0/marktext-win-x64-0.22.0-setup.exe"
+      "name": "marktext-win-x64-0.23.0-setup.exe",
+      "size": 132435617,
+      "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-x64-0.23.0-setup.exe"
     },
     {
-      "name": "marktext-mac-arm64-0.22.0.zip",
-      "size": 157711485,
-      "url": "https://github.com/marktext/marktext/releases/download/v0.22.0/marktext-mac-arm64-0.22.0.zip"
+      "name": "marktext-mac-arm64-0.23.0.zip",
+      "size": 157696460,
+      "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-arm64-0.23.0.zip"
     },
     {
-      "name": "marktext-mac-arm64-0.22.0.dmg",
-      "size": 157813397,
-      "url": "https://github.com/marktext/marktext/releases/download/v0.22.0/marktext-mac-arm64-0.22.0.dmg"
+      "name": "marktext-mac-arm64-0.23.0.dmg",
+      "size": 157789853,
+      "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-arm64-0.23.0.dmg"
     },
     {
-      "name": "marktext-linux-0.22.0.rpm",
-      "size": 111004689,
-      "url": "https://github.com/marktext/marktext/releases/download/v0.22.0/marktext-linux-0.22.0.rpm"
+      "name": "marktext-linux-arm64-0.23.0.rpm",
+      "size": 105619233,
+      "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-arm64-0.23.0.rpm"
     },
     {
-      "name": "marktext-linux-0.22.0.deb",
-      "size": 126675616,
-      "url": "https://github.com/marktext/marktext/releases/download/v0.22.0/marktext-linux-0.22.0.deb"
+      "name": "marktext-linux-0.23.0.rpm",
+      "size": 110981749,
+      "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.rpm"
     }
   ],
   "pinned": false,

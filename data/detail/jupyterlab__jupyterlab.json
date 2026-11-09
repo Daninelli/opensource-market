@@ -21,21 +21,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/jupyterlab/jupyterlab/zip/refs/heads/main",
   "release": {
-    "tag": "v4.6.4",
-    "name": "v4.6.4",
-    "published": "2026-09-21T15:39:48Z",
-    "url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.6.4"
+    "tag": "v4.6.6",
+    "name": "v4.6.6",
+    "published": "2026-11-06T14:18:02Z",
+    "url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.6.6"
   },
   "assets": [
     {
-      "name": "jupyterlab-codemirror-4.6.4.tgz",
-      "size": 106894,
-      "url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-codemirror-4.6.4.tgz"
+      "name": "jupyterlab-lsp-4.6.6.tgz",
+      "size": 103537,
+      "url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-lsp-4.6.6.tgz"
     },
     {
-      "name": "jupyterlab-application-4.6.4.tgz",
-      "size": 114353,
-      "url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-application-4.6.4.tgz"
+      "name": "jupyterlab-completer-4.6.6.tgz",
+      "size": 116298,
+      "url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-completer-4.6.6.tgz"
     }
   ],
   "pinned": false,

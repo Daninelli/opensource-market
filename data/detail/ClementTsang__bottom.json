@@ -20,51 +20,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ClementTsang/bottom/zip/refs/heads/main",
   "release": {
-    "tag": "0.14.9",
-    "name": "0.14.9 Release",
-    "published": "2026-08-27T08:24:00Z",
-    "url": "https://github.com/ClementTsang/bottom/releases/tag/0.14.9"
+    "tag": "0.15.0",
+    "name": "0.15.0 Release",
+    "published": "2026-11-01T01:51:14Z",
+    "url": "https://github.com/ClementTsang/bottom/releases/tag/0.15.0"
   },
   "assets": [
     {
-      "name": "bottom_aarch64-pc-windows-msvc.zip",
-      "size": 1720657,
-      "url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_aarch64-pc-windows-msvc.zip"
+      "name": "bottom_aarch64-pc-windows-gnullvm.zip",
+      "size": 1665463,
+      "url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_aarch64-pc-windows-gnullvm.zip"
+    },
+    {
+      "name": "bottom_aarch64_gnullvm_installer.msi",
+      "size": 1691648,
+      "url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_aarch64_gnullvm_installer.msi"
     },
     {
       "name": "bottom_aarch64-apple-darwin.tar.gz",
-      "size": 1755361,
-      "url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_aarch64-apple-darwin.tar.gz"
-    },
-    {
-      "name": "bottom_i686-pc-windows-msvc.zip",
-      "size": 1774635,
-      "url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_i686-pc-windows-msvc.zip"
+      "size": 1750181,
+      "url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_aarch64-apple-darwin.tar.gz"
     },
     {
       "name": "bottom_x86_64-apple-darwin.tar.gz",
-      "size": 1901583,
-      "url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64-apple-darwin.tar.gz"
+      "size": 1896126,
+      "url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_x86_64-apple-darwin.tar.gz"
     },
     {
-      "name": "bottom_0.14.9-1_arm64.deb",
-      "size": 1293500,
-      "url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_0.14.9-1_arm64.deb"
+      "name": "bottom_0.15.0-1_arm64.deb",
+      "size": 1296112,
+      "url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_0.15.0-1_arm64.deb"
     },
     {
-      "name": "bottom-musl_0.14.9-1_arm64.deb",
-      "size": 1321404,
-      "url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom-musl_0.14.9-1_arm64.deb"
+      "name": "bottom-musl_0.15.0-1_arm64.deb",
+      "size": 1323372,
+      "url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom-musl_0.15.0-1_arm64.deb"
     },
     {
       "name": "bottom_aarch64-linux-android.tar.gz",
-      "size": 1736275,
-      "url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_aarch64-linux-android.tar.gz"
+      "size": 1724760,
+      "url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_aarch64-linux-android.tar.gz"
     },
     {
       "name": "bottom_x86_64-unknown-netbsd.tar.gz",
-      "size": 1989420,
-      "url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64-unknown-netbsd.tar.gz"
+      "size": 1986671,
+      "url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_x86_64-unknown-netbsd.tar.gz"
     }
   ],
   "pinned": false,

@@ -22,46 +22,46 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/amir1376/ab-download-manager/zip/refs/heads/master",
   "release": {
-    "tag": "v1.11.1",
-    "name": "v1.11.1",
-    "published": "2026-10-14T02:16:01Z",
-    "url": "https://github.com/amir1376/ab-download-manager/releases/tag/v1.11.1"
+    "tag": "v1.11.4",
+    "name": "v1.11.4",
+    "published": "2026-11-03T02:26:17Z",
+    "url": "https://github.com/amir1376/ab-download-manager/releases/tag/v1.11.4"
   },
   "assets": [
     {
-      "name": "ABDownloadManager_1.11.1_windows_arm64.exe",
-      "size": 75623364,
-      "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.11.1/ABDownloadManager_1.11.1_windows_arm64.exe"
+      "name": "ABDownloadManager_1.11.4_windows_arm64.exe",
+      "size": 76011775,
+      "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.11.4/ABDownloadManager_1.11.4_windows_arm64.exe"
     },
     {
-      "name": "ABDownloadManager_1.11.1_windows_x64.exe",
-      "size": 78228065,
-      "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.11.1/ABDownloadManager_1.11.1_windows_x64.exe"
+      "name": "ABDownloadManager_1.11.4_windows_x64.exe",
+      "size": 78610559,
+      "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.11.4/ABDownloadManager_1.11.4_windows_x64.exe"
     },
     {
-      "name": "ABDownloadManager_1.11.1_mac_arm64.tar.gz",
-      "size": 90210676,
-      "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.11.1/ABDownloadManager_1.11.1_mac_arm64.tar.gz"
+      "name": "ABDownloadManager_1.11.4_mac_arm64.tar.gz",
+      "size": 90594812,
+      "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.11.4/ABDownloadManager_1.11.4_mac_arm64.tar.gz"
     },
     {
-      "name": "ABDownloadManager_1.11.1_mac_x64.tar.gz",
-      "size": 91609246,
-      "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.11.1/ABDownloadManager_1.11.1_mac_x64.tar.gz"
+      "name": "ABDownloadManager_1.11.4_mac_x64.tar.gz",
+      "size": 91996150,
+      "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.11.4/ABDownloadManager_1.11.4_mac_x64.tar.gz"
     },
     {
-      "name": "ABDownloadManager_1.11.1_linux_arm64.tar.gz",
-      "size": 99410498,
-      "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.11.1/ABDownloadManager_1.11.1_linux_arm64.tar.gz"
+      "name": "ABDownloadManager_1.11.4_linux_arm64.tar.gz",
+      "size": 99781538,
+      "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.11.4/ABDownloadManager_1.11.4_linux_arm64.tar.gz"
     },
     {
-      "name": "ABDownloadManager_1.11.1_linux_x64.tar.gz",
-      "size": 100558279,
-      "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.11.1/ABDownloadManager_1.11.1_linux_x64.tar.gz"
+      "name": "ABDownloadManager_1.11.4_linux_x64.tar.gz",
+      "size": 100939001,
+      "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.11.4/ABDownloadManager_1.11.4_linux_x64.tar.gz"
     },
     {
-      "name": "ABDownloadManager_1.11.1_android_universal.apk",
-      "size": 11320479,
-      "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.11.1/ABDownloadManager_1.11.1_android_universal.apk"
+      "name": "ABDownloadManager_1.11.4_android_universal.apk",
+      "size": 13231140,
+      "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.11.4/ABDownloadManager_1.11.4_android_universal.apk"
     }
   ],
   "pinned": false,

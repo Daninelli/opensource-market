@@ -22,10 +22,10 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/plotly/dash/zip/refs/heads/dev",
   "release": {
-    "tag": "v4.4.1",
-    "name": "v4.4.1",
-    "published": "2026-07-21T19:01:01Z",
-    "url": "https://github.com/plotly/dash/releases/tag/v4.4.1"
+    "tag": "v4.5.0",
+    "name": "Dash Version 4.5.0",
+    "published": "2026-10-29T20:23:20Z",
+    "url": "https://github.com/plotly/dash/releases/tag/v4.5.0"
   },
   "assets": [],
   "pinned": false,

@@ -20,41 +20,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/superset-sh/superset/zip/refs/heads/main",
   "release": {
-    "tag": "desktop-v1.39.0",
-    "name": "Superset Desktop desktop-v1.39.0",
-    "published": "2026-10-19T15:45:39Z",
-    "url": "https://github.com/superset-sh/superset/releases/tag/desktop-v1.39.0"
+    "tag": "desktop-v2.0.6",
+    "name": "Paradev Desktop desktop-v2.0.6",
+    "published": "2026-11-08T06:22:21Z",
+    "url": "https://github.com/ParadevAI/Paradev/releases/tag/desktop-v2.0.6"
   },
   "assets": [
     {
-      "name": "Superset-1.39.0-arm64.dmg",
-      "size": 431273432,
-      "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.39.0/Superset-1.39.0-arm64.dmg"
+      "name": "Superset-2.0.6-arm64.dmg",
+      "size": 249011691,
+      "url": "https://github.com/ParadevAI/Paradev/releases/download/desktop-v2.0.6/Superset-2.0.6-arm64.dmg"
     },
     {
       "name": "Superset-arm64.dmg",
-      "size": 431273432,
-      "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.39.0/Superset-arm64.dmg"
+      "size": 249011691,
+      "url": "https://github.com/ParadevAI/Paradev/releases/download/desktop-v2.0.6/Superset-arm64.dmg"
     },
     {
-      "name": "superset-1.39.0-amd64.deb",
-      "size": 457823142,
-      "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.39.0/superset-1.39.0-amd64.deb"
+      "name": "superset-2.0.6-amd64.deb",
+      "size": 273880310,
+      "url": "https://github.com/ParadevAI/Paradev/releases/download/desktop-v2.0.6/superset-2.0.6-amd64.deb"
     },
     {
       "name": "Superset-x86_64.AppImage",
-      "size": 465233497,
-      "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.39.0/Superset-x86_64.AppImage"
+      "size": 276406851,
+      "url": "https://github.com/ParadevAI/Paradev/releases/download/desktop-v2.0.6/Superset-x86_64.AppImage"
     },
     {
-      "name": "Superset-1.39.0-arm64-mac.zip",
-      "size": 411871864,
-      "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.39.0/Superset-1.39.0-arm64-mac.zip"
+      "name": "Superset-2.0.6-arm64-mac.zip",
+      "size": 239682518,
+      "url": "https://github.com/ParadevAI/Paradev/releases/download/desktop-v2.0.6/Superset-2.0.6-arm64-mac.zip"
     },
     {
       "name": "Superset-arm64-mac.zip",
-      "size": 411871864,
-      "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.39.0/Superset-arm64-mac.zip"
+      "size": 239682518,
+      "url": "https://github.com/ParadevAI/Paradev/releases/download/desktop-v2.0.6/Superset-arm64-mac.zip"
     }
   ],
   "pinned": false,

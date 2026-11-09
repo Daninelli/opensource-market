@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Agents365-ai/drawio-skill/zip/refs/heads/main",
   "release": {
-    "tag": "v3.4.2",
-    "name": "v3.4.2",
-    "published": "2026-10-11T10:08:11Z",
-    "url": "https://github.com/Agents365-ai/drawio-skill/releases/tag/v3.4.2"
+    "tag": "v3.4.4",
+    "name": "v3.4.4",
+    "published": "2026-11-06T03:55:46Z",
+    "url": "https://github.com/Agents365-ai/drawio-skill/releases/tag/v3.4.4"
   },
   "assets": [],
   "pinned": false,

@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ublue-os/bazzite/zip/refs/heads/main",
   "release": {
-    "tag": "44.20261012.1",
-    "name": "44.20261012.1: Stable (F44.20261012)",
-    "published": "2026-10-13T01:37:49Z",
-    "url": "https://github.com/ublue-os/bazzite/releases/tag/44.20261012.1"
+    "tag": "45.20261105",
+    "name": "45.20261105: Stable (F45.20261105)",
+    "published": "2026-11-05T23:49:28Z",
+    "url": "https://github.com/ublue-os/bazzite/releases/tag/45.20261105"
   },
   "assets": [],
   "pinned": false,

@@ -21,16 +21,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/opendataloader-project/opendataloader-pdf/zip/refs/heads/main",
   "release": {
-    "tag": "v2.5.13",
-    "name": "Release v2.5.13",
-    "published": "2026-10-13T03:48:22Z",
-    "url": "https://github.com/opendataloader-project/opendataloader-pdf/releases/tag/v2.5.13"
+    "tag": "v2.5.20",
+    "name": "Release v2.5.20",
+    "published": "2026-11-06T02:03:46Z",
+    "url": "https://github.com/opendataloader-project/opendataloader-pdf/releases/tag/v2.5.20"
   },
   "assets": [
     {
-      "name": "opendataloader-pdf-cli-2.5.13.zip",
-      "size": 22586355,
-      "url": "https://github.com/opendataloader-project/opendataloader-pdf/releases/download/v2.5.13/opendataloader-pdf-cli-2.5.13.zip"
+      "name": "opendataloader-pdf-cli-2.5.20.zip",
+      "size": 22674412,
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf/releases/download/v2.5.20/opendataloader-pdf-cli-2.5.20.zip"
     }
   ],
   "pinned": false,

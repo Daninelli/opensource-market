@@ -21,21 +21,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/microsoft/PowerToys/zip/refs/heads/main",
   "release": {
-    "tag": "v0.101.2362.0",
-    "name": "Release v0.101.2362.0",
-    "published": "2026-08-25T08:34:52Z",
-    "url": "https://github.com/microsoft/PowerToys/releases/tag/v0.101.2362.0"
+    "tag": "v0.102.3101",
+    "name": "Release v0.102.3101.0",
+    "published": "2026-11-06T09:54:30Z",
+    "url": "https://github.com/microsoft/PowerToys/releases/tag/v0.102.3101"
   },
   "assets": [
     {
-      "name": "PowerToysUserSetup-0.101.2362.0-arm64.exe",
-      "size": 287815872,
-      "url": "https://github.com/microsoft/PowerToys/releases/download/v0.101.2362.0/PowerToysUserSetup-0.101.2362.0-arm64.exe"
+      "name": "PowerToysUserSetup-0.102.3101.0-arm64.exe",
+      "size": 311804080,
+      "url": "https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysUserSetup-0.102.3101.0-arm64.exe"
     },
     {
-      "name": "PowerToysSetup-0.101.2362.0-arm64.exe",
-      "size": 287842320,
-      "url": "https://github.com/microsoft/PowerToys/releases/download/v0.101.2362.0/PowerToysSetup-0.101.2362.0-arm64.exe"
+      "name": "PowerToysSetup-0.102.3101.0-arm64.exe",
+      "size": 311830736,
+      "url": "https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysSetup-0.102.3101.0-arm64.exe"
     }
   ],
   "pinned": false,

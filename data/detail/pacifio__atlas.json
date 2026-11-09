@@ -20,41 +20,26 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/pacifio/atlas/zip/refs/heads/main",
   "release": {
-    "tag": "alpha-0.3.4",
-    "name": "Atlas Teams Early",
-    "published": "2026-09-27T11:35:12Z",
-    "url": "https://github.com/pacifio/atlas/releases/tag/alpha-0.3.4"
+    "tag": "alpha-0.4.1-org-agent",
+    "name": "alpha-0.4.1-org-agent",
+    "published": "2026-11-03T07:19:50Z",
+    "url": "https://github.com/tryatlas/atlas/releases/tag/alpha-0.4.1-org-agent"
   },
   "assets": [
     {
-      "name": "Atlas_0.3.4_aarch64.dmg",
-      "size": 84193480,
-      "url": "https://github.com/pacifio/atlas/releases/download/alpha-0.3.4/Atlas_0.3.4_aarch64.dmg"
+      "name": "Atlas_0.4.1_aarch64.dmg",
+      "size": 88543980,
+      "url": "https://github.com/tryatlas/atlas/releases/download/alpha-0.4.1-org-agent/Atlas_0.4.1_aarch64.dmg"
     },
     {
-      "name": "Atlas_0.3.4_x64_en-US.msi",
-      "size": 85762048,
-      "url": "https://github.com/pacifio/atlas/releases/download/alpha-0.3.4/Atlas_0.3.4_x64_en-US.msi"
+      "name": "Atlas_0.4.1_x64_en-US.msi",
+      "size": 92643328,
+      "url": "https://github.com/tryatlas/atlas/releases/download/alpha-0.4.1-org-agent/Atlas_0.4.1_x64_en-US.msi"
     },
     {
-      "name": "Atlas_0.3.4_x86_64.dmg",
-      "size": 93139521,
-      "url": "https://github.com/pacifio/atlas/releases/download/alpha-0.3.4/Atlas_0.3.4_x86_64.dmg"
-    },
-    {
-      "name": "tryatlas_0.3.3_amd64.deb",
-      "size": 60018456,
-      "url": "https://github.com/pacifio/atlas/releases/download/alpha-0.3.4/tryatlas_0.3.3_amd64.deb"
-    },
-    {
-      "name": "tryatlas-0.3.3-1.x86_64.rpm",
-      "size": 81861413,
-      "url": "https://github.com/pacifio/atlas/releases/download/alpha-0.3.4/tryatlas-0.3.3-1.x86_64.rpm"
-    },
-    {
-      "name": "tryatlas-bin-0.3.3-1-x86_64.pkg.tar.zst",
-      "size": 77839423,
-      "url": "https://github.com/pacifio/atlas/releases/download/alpha-0.3.4/tryatlas-bin-0.3.3-1-x86_64.pkg.tar.zst"
+      "name": "Atlas_0.4.1_x86_64.dmg",
+      "size": 98284339,
+      "url": "https://github.com/tryatlas/atlas/releases/download/alpha-0.4.1-org-agent/Atlas_0.4.1_x86_64.dmg"
     }
   ],
   "pinned": false,

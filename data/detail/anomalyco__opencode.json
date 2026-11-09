@@ -22,41 +22,41 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/anomalyco/opencode/zip/refs/heads/dev",
   "release": {
-    "tag": "v1.19.3",
-    "name": "v1.19.3",
-    "published": "2026-10-16T12:31:52Z",
-    "url": "https://github.com/anomalyco/opencode/releases/tag/v1.19.3"
+    "tag": "v1.19.5",
+    "name": "v1.19.5",
+    "published": "2026-10-28T06:17:49Z",
+    "url": "https://github.com/anomalyco/opencode/releases/tag/v1.19.5"
   },
   "assets": [
     {
       "name": "opencode-darwin-arm64.zip",
-      "size": 45587801,
-      "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.3/opencode-darwin-arm64.zip"
+      "size": 64278924,
+      "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.5/opencode-darwin-arm64.zip"
     },
     {
-      "name": "opencode-darwin-x64-baseline.zip",
-      "size": 49218661,
-      "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.3/opencode-darwin-x64-baseline.zip"
+      "name": "opencode-darwin-x64.zip",
+      "size": 69100888,
+      "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.5/opencode-darwin-x64.zip"
     },
     {
       "name": "opencode-windows-arm64.zip",
-      "size": 60695316,
-      "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.3/opencode-windows-arm64.zip"
+      "size": 75773358,
+      "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.5/opencode-windows-arm64.zip"
     },
     {
       "name": "opencode-windows-x64-baseline.zip",
-      "size": 62204138,
-      "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.3/opencode-windows-x64-baseline.zip"
+      "size": 81738223,
+      "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.5/opencode-windows-x64-baseline.zip"
+    },
+    {
+      "name": "opencode-linux-arm64-musl.tar.gz",
+      "size": 78255927,
+      "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.5/opencode-linux-arm64-musl.tar.gz"
     },
     {
       "name": "opencode-linux-arm64.tar.gz",
-      "size": 60519745,
-      "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.3/opencode-linux-arm64.tar.gz"
-    },
-    {
-      "name": "opencode-linux-x64.tar.gz",
-      "size": 60716380,
-      "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.3/opencode-linux-x64.tar.gz"
+      "size": 78513091,
+      "url": "https://github.com/anomalyco/opencode/releases/download/v1.19.5/opencode-linux-arm64.tar.gz"
     }
   ],
   "pinned": false,

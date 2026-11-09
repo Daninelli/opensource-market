@@ -22,10 +22,10 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/frappe/hrms/zip/refs/heads/develop",
   "release": {
-    "tag": "v15.64.5",
-    "name": "v15.64.5",
-    "published": "2026-10-15T08:45:29Z",
-    "url": "https://github.com/frappe/hrms/releases/tag/v15.64.5"
+    "tag": "v15.64.8",
+    "name": "v15.64.8",
+    "published": "2026-11-04T06:24:34Z",
+    "url": "https://github.com/frappe/hrms/releases/tag/v15.64.8"
   },
   "assets": [],
   "pinned": false,

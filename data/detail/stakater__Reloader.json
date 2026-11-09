@@ -20,10 +20,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/stakater/Reloader/zip/refs/heads/master",
   "release": {
-    "tag": "chart-v2.2.18",
-    "name": "Helm chart refs/tags/chart-v2.2.18",
-    "published": "2026-09-30T06:17:34Z",
-    "url": "https://github.com/stakater/Reloader/releases/tag/chart-v2.2.18"
+    "tag": "chart-v2.2.19",
+    "name": "Helm chart refs/tags/chart-v2.2.19",
+    "published": "2026-10-27T15:54:14Z",
+    "url": "https://github.com/stakater/Reloader/releases/tag/chart-v2.2.19"
   },
   "assets": [],
   "pinned": false,

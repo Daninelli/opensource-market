@@ -20,41 +20,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/github/github-mcp-server/zip/refs/heads/main",
   "release": {
-    "tag": "v2.0.2",
-    "name": "GitHub MCP Server 2.0.2",
-    "published": "2026-10-08T11:33:15Z",
-    "url": "https://github.com/github/github-mcp-server/releases/tag/v2.0.2"
+    "tag": "v2.1.0",
+    "name": "GitHub MCP Server 2.1.0",
+    "published": "2026-11-03T11:11:41Z",
+    "url": "https://github.com/github/github-mcp-server/releases/tag/v2.1.0"
   },
   "assets": [
     {
       "name": "github-mcp-server_Windows_arm64.zip",
-      "size": 8504898,
-      "url": "https://github.com/github/github-mcp-server/releases/download/v2.0.2/github-mcp-server_Windows_arm64.zip"
+      "size": 8658646,
+      "url": "https://github.com/github/github-mcp-server/releases/download/v2.1.0/github-mcp-server_Windows_arm64.zip"
     },
     {
       "name": "github-mcp-server_Darwin_arm64.tar.gz",
-      "size": 8848361,
-      "url": "https://github.com/github/github-mcp-server/releases/download/v2.0.2/github-mcp-server_Darwin_arm64.tar.gz"
+      "size": 8999486,
+      "url": "https://github.com/github/github-mcp-server/releases/download/v2.1.0/github-mcp-server_Darwin_arm64.tar.gz"
     },
     {
       "name": "github-mcp-server_Windows_i386.zip",
-      "size": 9121909,
-      "url": "https://github.com/github/github-mcp-server/releases/download/v2.0.2/github-mcp-server_Windows_i386.zip"
+      "size": 9325301,
+      "url": "https://github.com/github/github-mcp-server/releases/download/v2.1.0/github-mcp-server_Windows_i386.zip"
     },
     {
       "name": "github-mcp-server_Darwin_x86_64.tar.gz",
-      "size": 9427411,
-      "url": "https://github.com/github/github-mcp-server/releases/download/v2.0.2/github-mcp-server_Darwin_x86_64.tar.gz"
+      "size": 9603429,
+      "url": "https://github.com/github/github-mcp-server/releases/download/v2.1.0/github-mcp-server_Darwin_x86_64.tar.gz"
     },
     {
       "name": "github-mcp-server_Linux_arm64.tar.gz",
-      "size": 8417035,
-      "url": "https://github.com/github/github-mcp-server/releases/download/v2.0.2/github-mcp-server_Linux_arm64.tar.gz"
+      "size": 8548050,
+      "url": "https://github.com/github/github-mcp-server/releases/download/v2.1.0/github-mcp-server_Linux_arm64.tar.gz"
     },
     {
       "name": "github-mcp-server_Linux_i386.tar.gz",
-      "size": 8742842,
-      "url": "https://github.com/github/github-mcp-server/releases/download/v2.0.2/github-mcp-server_Linux_i386.tar.gz"
+      "size": 8920870,
+      "url": "https://github.com/github/github-mcp-server/releases/download/v2.1.0/github-mcp-server_Linux_i386.tar.gz"
     }
   ],
   "pinned": false,

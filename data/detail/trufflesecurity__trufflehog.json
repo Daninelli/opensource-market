@@ -20,41 +20,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/trufflesecurity/trufflehog/zip/refs/heads/main",
   "release": {
-    "tag": "v3.99.3",
-    "name": "v3.99.3",
-    "published": "2026-10-19T18:21:40Z",
-    "url": "https://github.com/trufflesecurity/trufflehog/releases/tag/v3.99.3"
+    "tag": "v3.99.8",
+    "name": "v3.99.8",
+    "published": "2026-11-02T18:38:05Z",
+    "url": "https://github.com/trufflesecurity/trufflehog/releases/tag/v3.99.8"
   },
   "assets": [
     {
-      "name": "trufflehog_3.99.3_windows_arm64.tar.gz",
-      "size": 70247538,
-      "url": "https://github.com/trufflesecurity/trufflehog/releases/download/v3.99.3/trufflehog_3.99.3_windows_arm64.tar.gz"
+      "name": "trufflehog_3.99.8_windows_arm64.tar.gz",
+      "size": 70510131,
+      "url": "https://github.com/trufflesecurity/trufflehog/releases/download/v3.99.8/trufflehog_3.99.8_windows_arm64.tar.gz"
     },
     {
-      "name": "trufflehog_3.99.3_darwin_arm64.tar.gz",
-      "size": 75193479,
-      "url": "https://github.com/trufflesecurity/trufflehog/releases/download/v3.99.3/trufflehog_3.99.3_darwin_arm64.tar.gz"
+      "name": "trufflehog_3.99.8_darwin_arm64.tar.gz",
+      "size": 75456660,
+      "url": "https://github.com/trufflesecurity/trufflehog/releases/download/v3.99.8/trufflehog_3.99.8_darwin_arm64.tar.gz"
     },
     {
-      "name": "trufflehog_3.99.3_windows_amd64.tar.gz",
-      "size": 76806505,
-      "url": "https://github.com/trufflesecurity/trufflehog/releases/download/v3.99.3/trufflehog_3.99.3_windows_amd64.tar.gz"
+      "name": "trufflehog_3.99.8_windows_amd64.tar.gz",
+      "size": 77065695,
+      "url": "https://github.com/trufflesecurity/trufflehog/releases/download/v3.99.8/trufflehog_3.99.8_windows_amd64.tar.gz"
     },
     {
-      "name": "trufflehog_3.99.3_darwin_amd64.tar.gz",
-      "size": 79378918,
-      "url": "https://github.com/trufflesecurity/trufflehog/releases/download/v3.99.3/trufflehog_3.99.3_darwin_amd64.tar.gz"
+      "name": "trufflehog_3.99.8_darwin_amd64.tar.gz",
+      "size": 79613498,
+      "url": "https://github.com/trufflesecurity/trufflehog/releases/download/v3.99.8/trufflehog_3.99.8_darwin_amd64.tar.gz"
     },
     {
-      "name": "trufflehog_3.99.3_linux_arm64.tar.gz",
-      "size": 30142158,
-      "url": "https://github.com/trufflesecurity/trufflehog/releases/download/v3.99.3/trufflehog_3.99.3_linux_arm64.tar.gz"
+      "name": "trufflehog_3.99.8_linux_arm64.tar.gz",
+      "size": 30281585,
+      "url": "https://github.com/trufflesecurity/trufflehog/releases/download/v3.99.8/trufflehog_3.99.8_linux_arm64.tar.gz"
     },
     {
-      "name": "trufflehog_3.99.3_linux_amd64.tar.gz",
-      "size": 35906556,
-      "url": "https://github.com/trufflesecurity/trufflehog/releases/download/v3.99.3/trufflehog_3.99.3_linux_amd64.tar.gz"
+      "name": "trufflehog_3.99.8_linux_amd64.tar.gz",
+      "size": 36051943,
+      "url": "https://github.com/trufflesecurity/trufflehog/releases/download/v3.99.8/trufflehog_3.99.8_linux_amd64.tar.gz"
     }
   ],
   "pinned": false,

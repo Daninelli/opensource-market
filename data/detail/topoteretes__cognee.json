@@ -20,21 +20,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/topoteretes/cognee/zip/refs/heads/main",
   "release": {
-    "tag": "v1.6.5",
-    "name": "v1.6.5 — Faster trace processing & richer code-graph docs",
-    "published": "2026-10-16T20:10:50Z",
-    "url": "https://github.com/topoteretes/cognee/releases/tag/v1.6.5"
+    "tag": "v1.6.7",
+    "name": "v1.6.7",
+    "published": "2026-11-06T17:15:07Z",
+    "url": "https://github.com/topoteretes/cognee/releases/tag/v1.6.7"
   },
   "assets": [
     {
-      "name": "cognee-1.6.5-py3-none-any.whl",
-      "size": 22235030,
-      "url": "https://github.com/topoteretes/cognee/releases/download/v1.6.5/cognee-1.6.5-py3-none-any.whl"
+      "name": "cognee-1.6.7-py3-none-any.whl",
+      "size": 23315255,
+      "url": "https://github.com/topoteretes/cognee/releases/download/v1.6.7/cognee-1.6.7-py3-none-any.whl"
     },
     {
-      "name": "cognee-1.6.5.tar.gz",
-      "size": 40864032,
-      "url": "https://github.com/topoteretes/cognee/releases/download/v1.6.5/cognee-1.6.5.tar.gz"
+      "name": "cognee-1.6.7.tar.gz",
+      "size": 41794602,
+      "url": "https://github.com/topoteretes/cognee/releases/download/v1.6.7/cognee-1.6.7.tar.gz"
     }
   ],
   "pinned": false,

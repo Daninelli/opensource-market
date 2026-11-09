@@ -20,10 +20,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/PrivateBin/PrivateBin/zip/refs/heads/master",
   "release": {
-    "tag": "2.1.0",
-    "name": "Release v2.1.0 - Removed jQuery and bootstrap 3 template",
-    "published": "2026-10-18T08:38:01Z",
-    "url": "https://github.com/PrivateBin/PrivateBin/releases/tag/2.1.0"
+    "tag": "2.1.1",
+    "name": "Release v2.1.1 - Fix SVG attachment preview, sizelimit circumvention & Markdown attribute vulnerabilities",
+    "published": "2026-11-04T23:20:26Z",
+    "url": "https://github.com/PrivateBin/PrivateBin/releases/tag/2.1.1"
   },
   "assets": [],
   "pinned": false,

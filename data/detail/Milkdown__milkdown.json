@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Milkdown/milkdown/zip/refs/heads/main",
   "release": {
-    "tag": "v7.22.3",
-    "name": "v7.22.3",
-    "published": "2026-10-10T14:27:15Z",
-    "url": "https://github.com/Milkdown/milkdown/releases/tag/v7.22.3"
+    "tag": "v7.23.0",
+    "name": "v7.23.0",
+    "published": "2026-10-27T09:41:59Z",
+    "url": "https://github.com/Milkdown/milkdown/releases/tag/v7.23.0"
   },
   "assets": [],
   "pinned": false,

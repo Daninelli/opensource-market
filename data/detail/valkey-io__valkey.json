@@ -22,10 +22,10 @@
   "default_branch": "unstable",
   "download_url": "https://codeload.github.com/valkey-io/valkey/zip/refs/heads/unstable",
   "release": {
-    "tag": "9.1.2",
-    "name": "9.1.2",
-    "published": "2026-09-01T00:01:31Z",
-    "url": "https://github.com/valkey-io/valkey/releases/tag/9.1.2"
+    "tag": "9.1.3",
+    "name": "9.1.3",
+    "published": "2026-10-26T23:21:45Z",
+    "url": "https://github.com/valkey-io/valkey/releases/tag/9.1.3"
   },
   "assets": [],
   "pinned": false,

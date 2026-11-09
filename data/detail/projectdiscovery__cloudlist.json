@@ -22,41 +22,41 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/projectdiscovery/cloudlist/zip/refs/heads/dev",
   "release": {
-    "tag": "v1.5.0",
-    "name": "v1.5.0",
-    "published": "2026-10-14T06:01:10Z",
-    "url": "https://github.com/projectdiscovery/cloudlist/releases/tag/v1.5.0"
+    "tag": "v1.5.1",
+    "name": "v1.5.1",
+    "published": "2026-10-27T06:41:00Z",
+    "url": "https://github.com/projectdiscovery/cloudlist/releases/tag/v1.5.1"
   },
   "assets": [
     {
-      "name": "cloudlist_1.5.0_windows_386.zip",
-      "size": 38473057,
-      "url": "https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.0/cloudlist_1.5.0_windows_386.zip"
+      "name": "cloudlist_1.5.1_windows_386.zip",
+      "size": 38470352,
+      "url": "https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.1/cloudlist_1.5.1_windows_386.zip"
     },
     {
-      "name": "cloudlist_1.5.0_macOS_arm64.zip",
-      "size": 39059203,
-      "url": "https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.0/cloudlist_1.5.0_macOS_arm64.zip"
+      "name": "cloudlist_1.5.1_macOS_arm64.zip",
+      "size": 39071874,
+      "url": "https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.1/cloudlist_1.5.1_macOS_arm64.zip"
     },
     {
-      "name": "cloudlist_1.5.0_macOS_amd64.zip",
-      "size": 41185176,
-      "url": "https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.0/cloudlist_1.5.0_macOS_amd64.zip"
+      "name": "cloudlist_1.5.1_windows_amd64.zip",
+      "size": 41182487,
+      "url": "https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.1/cloudlist_1.5.1_windows_amd64.zip"
     },
     {
-      "name": "cloudlist_1.5.0_windows_amd64.zip",
-      "size": 41185225,
-      "url": "https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.0/cloudlist_1.5.0_windows_amd64.zip"
+      "name": "cloudlist_1.5.1_macOS_amd64.zip",
+      "size": 41198914,
+      "url": "https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.1/cloudlist_1.5.1_macOS_amd64.zip"
     },
     {
-      "name": "cloudlist_1.5.0_linux_arm64.zip",
-      "size": 36442572,
-      "url": "https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.0/cloudlist_1.5.0_linux_arm64.zip"
+      "name": "cloudlist_1.5.1_linux_arm64.zip",
+      "size": 36443581,
+      "url": "https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.1/cloudlist_1.5.1_linux_arm64.zip"
     },
     {
-      "name": "cloudlist_1.5.0_linux_386.zip",
-      "size": 36593661,
-      "url": "https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.0/cloudlist_1.5.0_linux_386.zip"
+      "name": "cloudlist_1.5.1_linux_386.zip",
+      "size": 36600573,
+      "url": "https://github.com/projectdiscovery/cloudlist/releases/download/v1.5.1/cloudlist_1.5.1_linux_386.zip"
     }
   ],
   "pinned": false,

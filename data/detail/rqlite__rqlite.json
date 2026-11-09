@@ -20,26 +20,26 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/rqlite/rqlite/zip/refs/heads/master",
   "release": {
-    "tag": "v10.6.2",
-    "name": "v10.6.2",
-    "published": "2026-10-18T16:51:29Z",
-    "url": "https://github.com/rqlite/rqlite/releases/tag/v10.6.2"
+    "tag": "v10.6.6",
+    "name": "v10.6.6",
+    "published": "2026-10-28T12:41:46Z",
+    "url": "https://github.com/rqlite/rqlite/releases/tag/v10.6.6"
   },
   "assets": [
     {
-      "name": "rqlite-v10.6.2-win64.zip",
-      "size": 15553582,
-      "url": "https://github.com/rqlite/rqlite/releases/download/v10.6.2/rqlite-v10.6.2-win64.zip"
+      "name": "rqlite-v10.6.6-win64.zip",
+      "size": 15731093,
+      "url": "https://github.com/rqlite/rqlite/releases/download/v10.6.6/rqlite-v10.6.6-win64.zip"
     },
     {
-      "name": "rqlite_10.6.2_arm64.deb",
-      "size": 11498338,
-      "url": "https://github.com/rqlite/rqlite/releases/download/v10.6.2/rqlite_10.6.2_arm64.deb"
+      "name": "rqlite_10.6.6_arm64.deb",
+      "size": 11627806,
+      "url": "https://github.com/rqlite/rqlite/releases/download/v10.6.6/rqlite_10.6.6_arm64.deb"
     },
     {
-      "name": "rqlite_10.6.2_amd64.deb",
-      "size": 13091872,
-      "url": "https://github.com/rqlite/rqlite/releases/download/v10.6.2/rqlite_10.6.2_amd64.deb"
+      "name": "rqlite_10.6.6_amd64.deb",
+      "size": 13234326,
+      "url": "https://github.com/rqlite/rqlite/releases/download/v10.6.6/rqlite_10.6.6_amd64.deb"
     }
   ],
   "pinned": false,

@@ -21,16 +21,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/firezone/firezone/zip/refs/heads/main",
   "release": {
-    "tag": "android-client-1.5.16",
-    "name": "android-client-1.5.16",
-    "published": "2026-10-19T00:30:53Z",
-    "url": "https://github.com/firezone/firezone/releases/tag/android-client-1.5.16"
+    "tag": "android-client-1.5.18",
+    "name": "android-client-1.5.18",
+    "published": "2026-11-04T21:36:21Z",
+    "url": "https://github.com/firezone/firezone/releases/tag/android-client-1.5.18"
   },
   "assets": [
     {
-      "name": "firezone-android-client-1.5.16.apk",
-      "size": 74983853,
-      "url": "https://github.com/firezone/firezone/releases/download/android-client-1.5.16/firezone-android-client-1.5.16.apk"
+      "name": "firezone-android-client-1.5.18.apk",
+      "size": 73105966,
+      "url": "https://github.com/firezone/firezone/releases/download/android-client-1.5.18/firezone-android-client-1.5.18.apk"
     }
   ],
   "pinned": false,

@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/img2threejs/img2threejs/zip/refs/heads/main",
   "release": {
-    "tag": "v2.0.0",
-    "name": "2.0.0: The Plugin Update",
-    "published": "2026-09-06T02:33:15Z",
-    "url": "https://github.com/img2threejs/img2threejs/releases/tag/v2.0.0"
+    "tag": "v2.0.1",
+    "name": "v2.0.1",
+    "published": "2026-11-05T05:57:36Z",
+    "url": "https://github.com/img2threejs/img2threejs/releases/tag/v2.0.1"
   },
   "assets": [],
   "pinned": false,

@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/sqlfluff/sqlfluff/zip/refs/heads/main",
   "release": {
-    "tag": "4.4.0",
-    "name": "[4.4.0] - 2026-10-02",
-    "published": "2026-10-02T18:54:08Z",
-    "url": "https://github.com/sqlfluff/sqlfluff/releases/tag/4.4.0"
+    "tag": "4.5.0",
+    "name": "[4.5.0] - 2026-10-30",
+    "published": "2026-10-30T20:28:09Z",
+    "url": "https://github.com/sqlfluff/sqlfluff/releases/tag/4.5.0"
   },
   "assets": [],
   "pinned": false,

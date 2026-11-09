@@ -22,10 +22,10 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/bigcapitalhq/bigcapital/zip/refs/heads/develop",
   "release": {
-    "tag": "v0.25.44",
-    "name": "v0.25.44",
-    "published": "2026-10-15T22:51:14Z",
-    "url": "https://github.com/bigcapitalhq/bigcapital/releases/tag/v0.25.44"
+    "tag": "v0.25.45",
+    "name": "v0.25.45",
+    "published": "2026-10-23T08:25:30Z",
+    "url": "https://github.com/bigcapitalhq/bigcapital/releases/tag/v0.25.45"
   },
   "assets": [],
   "pinned": false,

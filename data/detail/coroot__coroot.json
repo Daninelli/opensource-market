@@ -21,21 +21,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/coroot/coroot/zip/refs/heads/main",
   "release": {
-    "tag": "v1.27.4",
-    "name": "1.27.4",
-    "published": "2026-10-15T21:00:44Z",
-    "url": "https://github.com/coroot/coroot/releases/tag/v1.27.4"
+    "tag": "v1.29.2",
+    "name": "1.29.2",
+    "published": "2026-11-04T21:53:29Z",
+    "url": "https://github.com/coroot/coroot/releases/tag/v1.29.2"
   },
   "assets": [
     {
       "name": "coroot-arm64",
-      "size": 73254864,
-      "url": "https://github.com/coroot/coroot/releases/download/v1.27.4/coroot-arm64"
+      "size": 73342408,
+      "url": "https://github.com/coroot/coroot/releases/download/v1.29.2/coroot-arm64"
     },
     {
       "name": "coroot-amd64",
-      "size": 77148176,
-      "url": "https://github.com/coroot/coroot/releases/download/v1.27.4/coroot-amd64"
+      "size": 77258152,
+      "url": "https://github.com/coroot/coroot/releases/download/v1.29.2/coroot-amd64"
     }
   ],
   "pinned": false,

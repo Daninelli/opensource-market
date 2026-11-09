@@ -20,10 +20,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Significant-Gravitas/AutoGPT/zip/refs/heads/master",
   "release": {
-    "tag": "autogpt-platform-beta-v0.8.4",
-    "name": "autogpt-platform-beta-v0.8.4",
-    "published": "2026-10-14T16:22:16Z",
-    "url": "https://github.com/Significant-Gravitas/AutoGPT/releases/tag/autogpt-platform-beta-v0.8.4"
+    "tag": "autogpt-platform-beta-v0.11.1",
+    "name": "🚀 AutoGPT Platform v0.11.1",
+    "published": "2026-11-06T03:36:16Z",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/releases/tag/autogpt-platform-beta-v0.11.1"
   },
   "assets": [],
   "pinned": false,

@@ -27,11 +27,6 @@
   },
   "assets": [
     {
-      "name": "brook_windows_arm64.exe",
-      "size": 30010880,
-      "url": "https://github.com/txthinking/brook/releases/download/v20270101/brook_windows_arm64.exe"
-    },
-    {
       "name": "ipio_darwin_arm64",
       "size": 30333634,
       "url": "https://github.com/txthinking/brook/releases/download/v20270101/ipio_darwin_arm64"
@@ -42,8 +37,13 @@
       "url": "https://github.com/txthinking/brook/releases/download/v20270101/ipio_windows_arm64.exe"
     },
     {
+      "name": "brook_windows_arm64.exe",
+      "size": 30385664,
+      "url": "https://github.com/txthinking/brook/releases/download/v20270101/brook_windows_arm64.exe"
+    },
+    {
       "name": "brook_darwin_arm64",
-      "size": 30656610,
+      "size": 31094402,
       "url": "https://github.com/txthinking/brook/releases/download/v20270101/brook_darwin_arm64"
     },
     {

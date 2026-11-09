@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/verdaccio/verdaccio/zip/refs/heads/master",
   "release": {
-    "tag": "v6.10.6",
-    "name": "v6.10.6",
-    "published": "2026-10-18T15:09:05Z",
-    "url": "https://github.com/verdaccio/verdaccio/releases/tag/v6.10.6"
+    "tag": "v7.1.0",
+    "name": "v7.1.0",
+    "published": "2026-11-08T15:04:48Z",
+    "url": "https://github.com/verdaccio/verdaccio/releases/tag/v7.1.0"
   },
   "assets": [],
   "pinned": false,

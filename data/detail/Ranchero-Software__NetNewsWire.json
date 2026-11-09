@@ -22,12 +22,18 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Ranchero-Software/NetNewsWire/zip/refs/heads/main",
   "release": {
-    "tag": "iOS-7.2-7221",
-    "name": "NetNewsWire 7.2 (7221) for iOS",
-    "published": "2026-10-11T17:27:20Z",
-    "url": "https://github.com/Ranchero-Software/NetNewsWire/releases/tag/iOS-7.2-7221"
+    "tag": "mac-7.2.1",
+    "name": "NetNewsWire 7.2.1 for Mac",
+    "published": "2026-10-20T16:59:23Z",
+    "url": "https://github.com/Ranchero-Software/NetNewsWire/releases/tag/mac-7.2.1"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "NetNewsWire7.2.1.zip",
+      "size": 10002485,
+      "url": "https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-7.2.1/NetNewsWire7.2.1.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

@@ -23,10 +23,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/1Panel-dev/CordysCRM/zip/refs/heads/main",
   "release": {
-    "tag": "v1.9.4",
-    "name": "v1.9.4",
-    "published": "2026-10-19T08:46:31Z",
-    "url": "https://github.com/1Panel-dev/CordysCRM/releases/tag/v1.9.4"
+    "tag": "v1.9.7",
+    "name": "v1.9.7",
+    "published": "2026-11-09T02:34:58Z",
+    "url": "https://github.com/1Panel-dev/CordysCRM/releases/tag/v1.9.7"
   },
   "assets": [],
   "pinned": false,

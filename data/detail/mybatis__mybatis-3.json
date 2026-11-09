@@ -20,10 +20,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mybatis/mybatis-3/zip/refs/heads/master",
   "release": {
-    "tag": "mybatis-3.5.19",
-    "name": "Mybatis 3.5.19",
-    "published": "2025-01-02T20:39:24Z",
-    "url": "https://github.com/mybatis/mybatis-3/releases/tag/mybatis-3.5.19"
+    "tag": "mybatis-3.6.0",
+    "name": "Mybatis 3.6.0",
+    "published": "2026-10-23T04:15:29Z",
+    "url": "https://github.com/mybatis/mybatis-3/releases/tag/mybatis-3.6.0"
   },
   "assets": [],
   "pinned": false,

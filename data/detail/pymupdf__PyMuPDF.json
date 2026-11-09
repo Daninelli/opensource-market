@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/pymupdf/PyMuPDF/zip/refs/heads/main",
   "release": {
-    "tag": "2.0",
-    "name": "PyMuPDF-2.0 released",
-    "published": "2026-10-19T10:03:48Z",
-    "url": "https://github.com/pymupdf/PyMuPDF/releases/tag/2.0"
+    "tag": "2.1",
+    "name": "PyMuPDF-2.1 released",
+    "published": "2026-11-02T17:37:18Z",
+    "url": "https://github.com/pymupdf/PyMuPDF/releases/tag/2.1"
   },
   "assets": [],
   "pinned": false,

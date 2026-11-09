@@ -20,51 +20,51 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/AlexxIT/go2rtc/zip/refs/heads/master",
   "release": {
-    "tag": "v1.9.14",
-    "name": "v1.9.14 - 2026-01-19",
-    "published": "2026-01-19T09:16:56Z",
-    "url": "https://github.com/AlexxIT/go2rtc/releases/tag/v1.9.14"
+    "tag": "v1.9.15",
+    "name": "v1.9.15 - 2026-10-25",
+    "published": "2026-10-25T12:30:52Z",
+    "url": "https://github.com/AlexxIT/go2rtc/releases/tag/v1.9.15"
   },
   "assets": [
     {
       "name": "go2rtc_win_arm64.zip",
-      "size": 6542346,
-      "url": "https://github.com/AlexxIT/go2rtc/releases/download/v1.9.14/go2rtc_win_arm64.zip"
+      "size": 7184317,
+      "url": "https://github.com/AlexxIT/go2rtc/releases/download/v1.9.15/go2rtc_win_arm64.zip"
     },
     {
       "name": "go2rtc_mac_arm64.zip",
-      "size": 6757845,
-      "url": "https://github.com/AlexxIT/go2rtc/releases/download/v1.9.14/go2rtc_mac_arm64.zip"
+      "size": 7427699,
+      "url": "https://github.com/AlexxIT/go2rtc/releases/download/v1.9.15/go2rtc_mac_arm64.zip"
     },
     {
       "name": "go2rtc_win32.zip",
-      "size": 7076325,
-      "url": "https://github.com/AlexxIT/go2rtc/releases/download/v1.9.14/go2rtc_win32.zip"
+      "size": 7851888,
+      "url": "https://github.com/AlexxIT/go2rtc/releases/download/v1.9.15/go2rtc_win32.zip"
     },
     {
       "name": "go2rtc_mac_amd64.zip",
-      "size": 7353383,
-      "url": "https://github.com/AlexxIT/go2rtc/releases/download/v1.9.14/go2rtc_mac_amd64.zip"
+      "size": 8116920,
+      "url": "https://github.com/AlexxIT/go2rtc/releases/download/v1.9.15/go2rtc_mac_amd64.zip"
     },
     {
       "name": "go2rtc_linux_mipsel",
-      "size": 4532292,
-      "url": "https://github.com/AlexxIT/go2rtc/releases/download/v1.9.14/go2rtc_linux_mipsel"
+      "size": 5062580,
+      "url": "https://github.com/AlexxIT/go2rtc/releases/download/v1.9.15/go2rtc_linux_mipsel"
     },
     {
       "name": "go2rtc_linux_arm",
-      "size": 4588084,
-      "url": "https://github.com/AlexxIT/go2rtc/releases/download/v1.9.14/go2rtc_linux_arm"
+      "size": 5092480,
+      "url": "https://github.com/AlexxIT/go2rtc/releases/download/v1.9.15/go2rtc_linux_arm"
     },
     {
       "name": "go2rtc_freebsd_arm64.zip",
-      "size": 6446331,
-      "url": "https://github.com/AlexxIT/go2rtc/releases/download/v1.9.14/go2rtc_freebsd_arm64.zip"
+      "size": 7074680,
+      "url": "https://github.com/AlexxIT/go2rtc/releases/download/v1.9.15/go2rtc_freebsd_arm64.zip"
     },
     {
       "name": "go2rtc_freebsd_amd64.zip",
-      "size": 7186447,
-      "url": "https://github.com/AlexxIT/go2rtc/releases/download/v1.9.14/go2rtc_freebsd_amd64.zip"
+      "size": 7915730,
+      "url": "https://github.com/AlexxIT/go2rtc/releases/download/v1.9.15/go2rtc_freebsd_amd64.zip"
     }
   ],
   "pinned": false,

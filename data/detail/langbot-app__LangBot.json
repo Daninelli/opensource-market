@@ -20,26 +20,21 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/langbot-app/LangBot/zip/refs/heads/master",
   "release": {
-    "tag": "v4.11.0",
-    "name": "LangBot v4.11.0",
-    "published": "2026-10-14T07:57:40Z",
-    "url": "https://github.com/langbot-app/LangBot/releases/tag/v4.11.0"
+    "tag": "v4.11.4",
+    "name": "LangBot v4.11.4",
+    "published": "2026-10-29T13:44:00Z",
+    "url": "https://github.com/langbot-app/LangBot/releases/tag/v4.11.4"
   },
   "assets": [
     {
-      "name": "runner-plugins-marketplace.png",
-      "size": 140348,
-      "url": "https://github.com/langbot-app/LangBot/releases/download/v4.11.0/runner-plugins-marketplace.png"
+      "name": "langbot-4.11.4-fnos.fpk",
+      "size": 48944177,
+      "url": "https://github.com/langbot-app/LangBot/releases/download/v4.11.4/langbot-4.11.4-fnos.fpk"
     },
     {
-      "name": "langbot-v4.11.0-all.zip",
-      "size": 21080065,
-      "url": "https://github.com/langbot-app/LangBot/releases/download/v4.11.0/langbot-v4.11.0-all.zip"
-    },
-    {
-      "name": "langbot-4.11.0-fnos.fpk",
-      "size": 48036732,
-      "url": "https://github.com/langbot-app/LangBot/releases/download/v4.11.0/langbot-4.11.0-fnos.fpk"
+      "name": "langbot-v4.11.4-all.zip",
+      "size": 73727144,
+      "url": "https://github.com/langbot-app/LangBot/releases/download/v4.11.4/langbot-v4.11.4-all.zip"
     }
   ],
   "pinned": false,

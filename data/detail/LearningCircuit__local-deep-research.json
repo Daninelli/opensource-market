@@ -20,12 +20,18 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/LearningCircuit/local-deep-research/zip/refs/heads/main",
   "release": {
-    "tag": "v1.10.7",
-    "name": "Release 1.10.7",
-    "published": "2026-08-28T21:43:07Z",
-    "url": "https://github.com/LearningCircuit/local-deep-research/releases/tag/v1.10.7"
+    "tag": "v2.0.0",
+    "name": "Release 2.0.0",
+    "published": "2026-11-07T20:10:39Z",
+    "url": "https://github.com/LearningCircuit/local-deep-research/releases/tag/v2.0.0"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "release-notes-full.md",
+      "size": 707959,
+      "url": "https://github.com/LearningCircuit/local-deep-research/releases/download/v2.0.0/release-notes-full.md"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

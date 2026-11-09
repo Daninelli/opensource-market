@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/emdash-cms/emdash/zip/refs/heads/main",
   "release": {
-    "tag": "@emdash-cms/plugin-test@0.2.10",
-    "name": "@emdash-cms/plugin-test@0.2.10",
-    "published": "2026-10-18T19:16:30Z",
-    "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/plugin-test%400.2.10"
+    "tag": "@emdash-cms/plugin-test@0.2.11",
+    "name": "@emdash-cms/plugin-test@0.2.11",
+    "published": "2026-10-29T13:03:21Z",
+    "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/plugin-test%400.2.11"
   },
   "assets": [],
   "pinned": false,

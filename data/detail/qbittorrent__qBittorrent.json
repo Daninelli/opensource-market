@@ -21,36 +21,36 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/qbittorrent/qBittorrent/zip/refs/heads/master",
   "release": {
-    "tag": "release-5.2.4",
-    "name": "qBittorrent v5.2.4",
-    "published": "2026-09-28T19:02:55Z",
-    "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.2.4"
+    "tag": "release-5.3.0",
+    "name": "qBittorrent v5.3.0",
+    "published": "2026-10-20T12:57:33Z",
+    "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.3.0"
   },
   "assets": [
     {
-      "name": "qbittorrent_5.2.4_x64_setup.exe",
-      "size": 41407004,
-      "url": "https://github.com/qbittorrent/qBittorrent/releases/download/release-5.2.4/qbittorrent_5.2.4_x64_setup.exe"
+      "name": "qbittorrent_5.3.0_lt12_x64_setup.exe",
+      "size": 43366812,
+      "url": "https://github.com/qbittorrent/qBittorrent/releases/download/release-5.3.0/qbittorrent_5.3.0_lt12_x64_setup.exe"
     },
     {
-      "name": "qbittorrent_5.2.4_lt20_x64_setup.exe",
-      "size": 43797703,
-      "url": "https://github.com/qbittorrent/qBittorrent/releases/download/release-5.2.4/qbittorrent_5.2.4_lt20_x64_setup.exe"
+      "name": "qbittorrent_5.3.0_x64_setup.exe",
+      "size": 50030660,
+      "url": "https://github.com/qbittorrent/qBittorrent/releases/download/release-5.3.0/qbittorrent_5.3.0_x64_setup.exe"
     },
     {
-      "name": "qbittorrent-5.2.4_x86_64.AppImage",
-      "size": 101419512,
-      "url": "https://github.com/qbittorrent/qBittorrent/releases/download/release-5.2.4/qbittorrent-5.2.4_x86_64.AppImage"
+      "name": "qbittorrent-5.3.0_lt12_x86_64.AppImage",
+      "size": 108505592,
+      "url": "https://github.com/qbittorrent/qBittorrent/releases/download/release-5.3.0/qbittorrent-5.3.0_lt12_x86_64.AppImage"
     },
     {
-      "name": "qbittorrent-5.2.4_lt20_x86_64.AppImage",
-      "size": 101542392,
-      "url": "https://github.com/qbittorrent/qBittorrent/releases/download/release-5.2.4/qbittorrent-5.2.4_lt20_x86_64.AppImage"
+      "name": "qbittorrent-5.3.0_x86_64.AppImage",
+      "size": 109939192,
+      "url": "https://github.com/qbittorrent/qBittorrent/releases/download/release-5.3.0/qbittorrent-5.3.0_x86_64.AppImage"
     },
     {
-      "name": "qbittorrent-5.2.4.tar.xz",
-      "size": 5311620,
-      "url": "https://github.com/qbittorrent/qBittorrent/releases/download/release-5.2.4/qbittorrent-5.2.4.tar.xz"
+      "name": "qbittorrent-5.3.0.tar.xz",
+      "size": 5695256,
+      "url": "https://github.com/qbittorrent/qBittorrent/releases/download/release-5.3.0/qbittorrent-5.3.0.tar.xz"
     }
   ],
   "pinned": false,

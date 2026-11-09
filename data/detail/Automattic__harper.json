@@ -20,51 +20,51 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Automattic/harper/zip/refs/heads/master",
   "release": {
-    "tag": "v2.13.0",
-    "name": "v2.13.0",
-    "published": "2026-10-16T14:54:14Z",
-    "url": "https://github.com/Automattic/harper/releases/tag/v2.13.0"
+    "tag": "v3.1.0",
+    "name": "v3.1.0",
+    "published": "2026-11-06T22:24:06Z",
+    "url": "https://github.com/Automattic/harper/releases/tag/v3.1.0"
   },
   "assets": [
     {
       "name": "harper-cli-x86_64-pc-windows-msvc.zip",
-      "size": 12413975,
-      "url": "https://github.com/Automattic/harper/releases/download/v2.13.0/harper-cli-x86_64-pc-windows-msvc.zip"
+      "size": 12550320,
+      "url": "https://github.com/Automattic/harper/releases/download/v3.1.0/harper-cli-x86_64-pc-windows-msvc.zip"
     },
     {
       "name": "harper-cli-aarch64-apple-darwin.tar.gz",
-      "size": 12707641,
-      "url": "https://github.com/Automattic/harper/releases/download/v2.13.0/harper-cli-aarch64-apple-darwin.tar.gz"
+      "size": 12845401,
+      "url": "https://github.com/Automattic/harper/releases/download/v3.1.0/harper-cli-aarch64-apple-darwin.tar.gz"
     },
     {
       "name": "harper-cli-x86_64-apple-darwin.tar.gz",
-      "size": 12781171,
-      "url": "https://github.com/Automattic/harper/releases/download/v2.13.0/harper-cli-x86_64-apple-darwin.tar.gz"
+      "size": 12913446,
+      "url": "https://github.com/Automattic/harper/releases/download/v3.1.0/harper-cli-x86_64-apple-darwin.tar.gz"
     },
     {
       "name": "harper-ls-x86_64-pc-windows-msvc.zip",
-      "size": 13540257,
-      "url": "https://github.com/Automattic/harper/releases/download/v2.13.0/harper-ls-x86_64-pc-windows-msvc.zip"
+      "size": 13689619,
+      "url": "https://github.com/Automattic/harper/releases/download/v3.1.0/harper-ls-x86_64-pc-windows-msvc.zip"
     },
     {
       "name": "harper-cli-aarch64-unknown-linux-gnu.tar.gz",
-      "size": 12918678,
-      "url": "https://github.com/Automattic/harper/releases/download/v2.13.0/harper-cli-aarch64-unknown-linux-gnu.tar.gz"
+      "size": 13038447,
+      "url": "https://github.com/Automattic/harper/releases/download/v3.1.0/harper-cli-aarch64-unknown-linux-gnu.tar.gz"
     },
     {
       "name": "harper-cli-aarch64-unknown-linux-musl.tar.gz",
-      "size": 12927465,
-      "url": "https://github.com/Automattic/harper/releases/download/v2.13.0/harper-cli-aarch64-unknown-linux-musl.tar.gz"
+      "size": 13042642,
+      "url": "https://github.com/Automattic/harper/releases/download/v3.1.0/harper-cli-aarch64-unknown-linux-musl.tar.gz"
     },
     {
       "name": "harper-firefox-plugin.zip",
-      "size": 8470569,
-      "url": "https://github.com/Automattic/harper/releases/download/v2.13.0/harper-firefox-plugin.zip"
+      "size": 8533233,
+      "url": "https://github.com/Automattic/harper/releases/download/v3.1.0/harper-firefox-plugin.zip"
     },
     {
       "name": "harper-chrome-plugin.zip",
-      "size": 8470587,
-      "url": "https://github.com/Automattic/harper/releases/download/v2.13.0/harper-chrome-plugin.zip"
+      "size": 8533251,
+      "url": "https://github.com/Automattic/harper/releases/download/v3.1.0/harper-chrome-plugin.zip"
     }
   ],
   "pinned": false,

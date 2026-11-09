@@ -20,10 +20,10 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/docsifyjs/docsify/zip/refs/heads/develop",
   "release": {
-    "tag": "v5.0.0",
-    "name": "v5.0.0",
-    "published": "2026-07-23T04:03:07Z",
-    "url": "https://github.com/docsifyjs/docsify/releases/tag/v5.0.0"
+    "tag": "v5.1.0",
+    "name": "v5.1.0",
+    "published": "2026-10-30T04:17:06Z",
+    "url": "https://github.com/docsifyjs/docsify/releases/tag/v5.1.0"
   },
   "assets": [],
   "pinned": false,

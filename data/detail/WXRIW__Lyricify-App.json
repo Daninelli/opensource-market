@@ -21,41 +21,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/WXRIW/Lyricify-App/zip/refs/heads/main",
   "release": {
-    "tag": "v4.4.1",
-    "name": "v4.4.1-release",
-    "published": "2026-10-15T07:46:48Z",
-    "url": "https://github.com/WXRIW/Lyricify-App/releases/tag/v4.4.1"
+    "tag": "v4.4.2",
+    "name": "v4.4.2-release",
+    "published": "2026-10-20T06:25:58Z",
+    "url": "https://github.com/WXRIW/Lyricify-App/releases/tag/v4.4.2"
   },
   "assets": [
     {
-      "name": "Lyricify.Setup.Ver.4.4.1.261015-release.x86.exe",
-      "size": 61014198,
-      "url": "https://github.com/WXRIW/Lyricify-App/releases/download/v4.4.1/Lyricify.Setup.Ver.4.4.1.261015-release.x86.exe"
+      "name": "Lyricify.Setup.Ver.4.4.2.261020-release.x86.exe",
+      "size": 61260354,
+      "url": "https://github.com/WXRIW/Lyricify-App/releases/download/v4.4.2/Lyricify.Setup.Ver.4.4.2.261020-release.x86.exe"
     },
     {
-      "name": "Lyricify.Setup.Ver.4.4.1.261015-release.Arm64.exe",
-      "size": 61073706,
-      "url": "https://github.com/WXRIW/Lyricify-App/releases/download/v4.4.1/Lyricify.Setup.Ver.4.4.1.261015-release.Arm64.exe"
+      "name": "Lyricify.Setup.Ver.4.4.2.261020-release.Arm64.exe",
+      "size": 61329418,
+      "url": "https://github.com/WXRIW/Lyricify-App/releases/download/v4.4.2/Lyricify.Setup.Ver.4.4.2.261020-release.Arm64.exe"
     },
     {
-      "name": "pack-update-4.4.1.261015-release.x86.zip",
-      "size": 7266772,
-      "url": "https://github.com/WXRIW/Lyricify-App/releases/download/v4.4.1/pack-update-4.4.1.261015-release.x86.zip"
+      "name": "pack-update-4.4.2.261020-release.x86.zip",
+      "size": 7845351,
+      "url": "https://github.com/WXRIW/Lyricify-App/releases/download/v4.4.2/pack-update-4.4.2.261020-release.x86.zip"
     },
     {
-      "name": "pack-update-4.4.1.261015-release.arm64.zip",
-      "size": 7270674,
-      "url": "https://github.com/WXRIW/Lyricify-App/releases/download/v4.4.1/pack-update-4.4.1.261015-release.arm64.zip"
+      "name": "pack-update-4.4.2.261020-release.arm64.zip",
+      "size": 7849253,
+      "url": "https://github.com/WXRIW/Lyricify-App/releases/download/v4.4.2/pack-update-4.4.2.261020-release.arm64.zip"
     },
     {
-      "name": "Lyricify.for.Spotify.Ver.4.4.1.261015-release.x86.7z",
-      "size": 40136277,
-      "url": "https://github.com/WXRIW/Lyricify-App/releases/download/v4.4.1/Lyricify.for.Spotify.Ver.4.4.1.261015-release.x86.7z"
+      "name": "Lyricify.for.Spotify.Ver.4.4.2.261020-release.x64.7z",
+      "size": 39447893,
+      "url": "https://github.com/WXRIW/Lyricify-App/releases/download/v4.4.2/Lyricify.for.Spotify.Ver.4.4.2.261020-release.x64.7z"
     },
     {
-      "name": "Lyricify.for.Spotify.Ver.4.4.1.261015-release.Arm64.7z",
-      "size": 40137256,
-      "url": "https://github.com/WXRIW/Lyricify-App/releases/download/v4.4.1/Lyricify.for.Spotify.Ver.4.4.1.261015-release.Arm64.7z"
+      "name": "Lyricify.for.Spotify.Ver.4.4.2.261020-release.x86.7z",
+      "size": 39624976,
+      "url": "https://github.com/WXRIW/Lyricify-App/releases/download/v4.4.2/Lyricify.for.Spotify.Ver.4.4.2.261020-release.x86.7z"
     }
   ],
   "pinned": false,

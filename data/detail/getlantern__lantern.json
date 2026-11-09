@@ -21,51 +21,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/getlantern/lantern/zip/refs/heads/main",
   "release": {
-    "tag": "v10.0.0",
-    "name": "Lantern 10.0.0",
-    "published": "2026-09-18T19:20:52Z",
-    "url": "https://github.com/getlantern/lantern/releases/tag/v10.0.0"
+    "tag": "v10.0.5",
+    "name": "Lantern 10.0.5",
+    "published": "2026-11-02T20:19:12Z",
+    "url": "https://github.com/getlantern/lantern/releases/tag/v10.0.5"
   },
   "assets": [
     {
       "name": "lantern-installer.exe",
-      "size": 100916632,
-      "url": "https://github.com/getlantern/lantern/releases/download/v10.0.0/lantern-installer.exe"
+      "size": 121475856,
+      "url": "https://github.com/getlantern/lantern/releases/download/v10.0.5/lantern-installer.exe"
     },
     {
       "name": "lantern-installer.dmg",
-      "size": 130377373,
-      "url": "https://github.com/getlantern/lantern/releases/download/v10.0.0/lantern-installer.dmg"
+      "size": 131938920,
+      "url": "https://github.com/getlantern/lantern/releases/download/v10.0.5/lantern-installer.dmg"
     },
     {
       "name": "lantern-installer-arm64.deb",
-      "size": 88789658,
-      "url": "https://github.com/getlantern/lantern/releases/download/v10.0.0/lantern-installer-arm64.deb"
+      "size": 90794344,
+      "url": "https://github.com/getlantern/lantern/releases/download/v10.0.5/lantern-installer-arm64.deb"
     },
     {
       "name": "lantern-installer-arm64.rpm",
-      "size": 91740212,
-      "url": "https://github.com/getlantern/lantern/releases/download/v10.0.0/lantern-installer-arm64.rpm"
+      "size": 93735299,
+      "url": "https://github.com/getlantern/lantern/releases/download/v10.0.5/lantern-installer-arm64.rpm"
     },
     {
       "name": "lantern-installer.ipa",
-      "size": 90357983,
-      "url": "https://github.com/getlantern/lantern/releases/download/v10.0.0/lantern-installer.ipa"
+      "size": 92004200,
+      "url": "https://github.com/getlantern/lantern/releases/download/v10.0.5/lantern-installer.ipa"
+    },
+    {
+      "name": "lantern-installer-armv7.apk",
+      "size": 49208065,
+      "url": "https://github.com/getlantern/lantern/releases/download/v10.0.5/lantern-installer-armv7.apk"
     },
     {
       "name": "lantern-installer.apk",
-      "size": 48673586,
-      "url": "https://github.com/getlantern/lantern/releases/download/v10.0.0/lantern-installer.apk"
+      "size": 49278029,
+      "url": "https://github.com/getlantern/lantern/releases/download/v10.0.5/lantern-installer.apk"
     },
     {
       "name": "lantern-installer-arm64.pkg.tar.zst",
-      "size": 85949014,
-      "url": "https://github.com/getlantern/lantern/releases/download/v10.0.0/lantern-installer-arm64.pkg.tar.zst"
-    },
-    {
-      "name": "lantern-installer.pkg.tar.zst",
-      "size": 92712435,
-      "url": "https://github.com/getlantern/lantern/releases/download/v10.0.0/lantern-installer.pkg.tar.zst"
+      "size": 87883897,
+      "url": "https://github.com/getlantern/lantern/releases/download/v10.0.5/lantern-installer-arm64.pkg.tar.zst"
     }
   ],
   "pinned": false,

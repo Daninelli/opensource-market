@@ -22,51 +22,51 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/clash-verge-rev/clash-verge-rev/zip/refs/heads/dev",
   "release": {
-    "tag": "v2.5.8",
-    "name": "Clash Verge Rev v2.5.8",
-    "published": "2026-10-09T02:43:45Z",
-    "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.8"
+    "tag": "v2.5.10",
+    "name": "Clash Verge Rev v2.5.10",
+    "published": "2026-11-03T10:04:21Z",
+    "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.10"
   },
   "assets": [
     {
-      "name": "Clash.Verge_2.5.8_arm64-setup.exe",
-      "size": 53952182,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_arm64-setup.exe"
+      "name": "Clash.Verge_2.5.10_arm64-setup.exe",
+      "size": 53759493,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge_2.5.10_arm64-setup.exe"
     },
     {
-      "name": "Clash.Verge_2.5.8_x64-setup.exe",
-      "size": 60230483,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_x64-setup.exe"
+      "name": "Clash.Verge_2.5.10_x64-setup.exe",
+      "size": 60045702,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge_2.5.10_x64-setup.exe"
     },
     {
-      "name": "Clash.Verge_2.5.8_aarch64.dmg",
-      "size": 81825361,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_aarch64.dmg"
+      "name": "Clash.Verge_2.5.10_aarch64.dmg",
+      "size": 80769307,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge_2.5.10_aarch64.dmg"
     },
     {
-      "name": "Clash.Verge_2.5.8_x64.dmg",
-      "size": 87523387,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_x64.dmg"
+      "name": "Clash.Verge_2.5.10_x64.dmg",
+      "size": 86532364,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge_2.5.10_x64.dmg"
     },
     {
-      "name": "Clash.Verge-2.5.8-1.aarch64.rpm",
-      "size": 100298341,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge-2.5.8-1.aarch64.rpm"
+      "name": "Clash.Verge-2.5.10-1.aarch64.rpm",
+      "size": 99578034,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge-2.5.10-1.aarch64.rpm"
     },
     {
-      "name": "Clash.Verge_2.5.8_arm64.deb",
-      "size": 100300512,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_arm64.deb"
+      "name": "Clash.Verge_2.5.10_arm64.deb",
+      "size": 99580912,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge_2.5.10_arm64.deb"
     },
     {
-      "name": "Clash.Verge_2.5.8_aarch64.app.tar.gz",
-      "size": 83642657,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_aarch64.app.tar.gz"
+      "name": "Clash.Verge_2.5.10_aarch64.app.tar.gz",
+      "size": 82623790,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge_2.5.10_aarch64.app.tar.gz"
     },
     {
-      "name": "Clash.Verge_2.5.8_x64.app.tar.gz",
-      "size": 89108423,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_x64.app.tar.gz"
+      "name": "Clash.Verge_2.5.10_x64.app.tar.gz",
+      "size": 88095155,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge_2.5.10_x64.app.tar.gz"
     }
   ],
   "pinned": false,

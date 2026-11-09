@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/HeyPuter/puter/zip/refs/heads/main",
   "release": {
-    "tag": "26.10",
-    "name": "26.10",
-    "published": "2026-10-05T00:18:24Z",
-    "url": "https://github.com/HeyPuter/puter/releases/tag/26.10"
+    "tag": "26.11",
+    "name": "26.11",
+    "published": "2026-11-02T06:53:31Z",
+    "url": "https://github.com/HeyPuter/puter/releases/tag/26.11"
   },
   "assets": [],
   "pinned": false,

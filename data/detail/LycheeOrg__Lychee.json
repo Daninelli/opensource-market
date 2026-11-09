@@ -22,16 +22,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/LycheeOrg/Lychee/zip/refs/heads/master",
   "release": {
-    "tag": "v7.11.1",
-    "name": "v7.11.1",
-    "published": "2026-10-13T16:10:40Z",
-    "url": "https://github.com/LycheeOrg/Lychee/releases/tag/v7.11.1"
+    "tag": "v7.13.0",
+    "name": "v7.13.0",
+    "published": "2026-11-09T01:16:04Z",
+    "url": "https://github.com/LycheeOrg/Lychee/releases/tag/v7.13.0"
   },
   "assets": [
     {
       "name": "Lychee.zip",
-      "size": 42283746,
-      "url": "https://github.com/LycheeOrg/Lychee/releases/download/v7.11.1/Lychee.zip"
+      "size": 44444618,
+      "url": "https://github.com/LycheeOrg/Lychee/releases/download/v7.13.0/Lychee.zip"
     }
   ],
   "pinned": false,

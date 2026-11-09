@@ -22,36 +22,36 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/heroiclabs/nakama/zip/refs/heads/master",
   "release": {
-    "tag": "v3.41.0",
-    "name": "v3.41.0",
-    "published": "2026-09-18T19:51:36Z",
-    "url": "https://github.com/heroiclabs/nakama/releases/tag/v3.41.0"
+    "tag": "v3.42.0",
+    "name": "v3.42.0",
+    "published": "2026-11-03T14:40:04Z",
+    "url": "https://github.com/heroiclabs/nakama/releases/tag/v3.42.0"
   },
   "assets": [
     {
-      "name": "nakama-3.41.0-windows-amd64.tar.gz",
-      "size": 19709346,
-      "url": "https://github.com/heroiclabs/nakama/releases/download/v3.41.0/nakama-3.41.0-windows-amd64.tar.gz"
+      "name": "nakama-3.42.0-windows-amd64.tar.gz",
+      "size": 20004082,
+      "url": "https://github.com/heroiclabs/nakama/releases/download/v3.42.0/nakama-3.42.0-windows-amd64.tar.gz"
     },
     {
-      "name": "nakama-3.41.0-darwin-arm64.tar.gz",
-      "size": 20150199,
-      "url": "https://github.com/heroiclabs/nakama/releases/download/v3.41.0/nakama-3.41.0-darwin-arm64.tar.gz"
+      "name": "nakama-3.42.0-darwin-arm64.tar.gz",
+      "size": 20453453,
+      "url": "https://github.com/heroiclabs/nakama/releases/download/v3.42.0/nakama-3.42.0-darwin-arm64.tar.gz"
     },
     {
-      "name": "nakama-3.41.0-darwin-amd64.tar.gz",
-      "size": 21372622,
-      "url": "https://github.com/heroiclabs/nakama/releases/download/v3.41.0/nakama-3.41.0-darwin-amd64.tar.gz"
+      "name": "nakama-3.42.0-darwin-amd64.tar.gz",
+      "size": 21701693,
+      "url": "https://github.com/heroiclabs/nakama/releases/download/v3.42.0/nakama-3.42.0-darwin-amd64.tar.gz"
     },
     {
-      "name": "nakama-3.41.0-linux-arm64.tar.gz",
-      "size": 22272139,
-      "url": "https://github.com/heroiclabs/nakama/releases/download/v3.41.0/nakama-3.41.0-linux-arm64.tar.gz"
+      "name": "nakama-3.42.0-linux-arm64.tar.gz",
+      "size": 22609386,
+      "url": "https://github.com/heroiclabs/nakama/releases/download/v3.42.0/nakama-3.42.0-linux-arm64.tar.gz"
     },
     {
-      "name": "nakama-3.41.0-linux-amd64.tar.gz",
-      "size": 24001480,
-      "url": "https://github.com/heroiclabs/nakama/releases/download/v3.41.0/nakama-3.41.0-linux-amd64.tar.gz"
+      "name": "nakama-3.42.0-linux-amd64.tar.gz",
+      "size": 24380628,
+      "url": "https://github.com/heroiclabs/nakama/releases/download/v3.42.0/nakama-3.42.0-linux-amd64.tar.gz"
     }
   ],
   "pinned": false,

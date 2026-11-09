@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/dataelement/bisheng/zip/refs/heads/main",
   "release": {
-    "tag": "v2.6.0-fix2",
-    "name": "v2.6.0-fix2",
-    "published": "2026-08-11T09:18:35Z",
-    "url": "https://github.com/dataelement/bisheng/releases/tag/v2.6.0-fix2"
+    "tag": "v3.0.0",
+    "name": "v3.0.0：Vibe App Hosting & Integration with DeepSeek Harness",
+    "published": "2026-11-04T02:53:06Z",
+    "url": "https://github.com/dataelement/bisheng/releases/tag/v3.0.0"
   },
   "assets": [],
   "pinned": false,

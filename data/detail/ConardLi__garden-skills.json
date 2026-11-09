@@ -20,16 +20,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ConardLi/garden-skills/zip/refs/heads/main",
   "release": {
-    "tag": "motion-showreel-v0.1.0",
-    "name": "motion-showreel v0.1.0",
-    "published": "2026-10-11T02:28:11Z",
-    "url": "https://github.com/ConardLi/garden-skills/releases/tag/motion-showreel-v0.1.0"
+    "tag": "motion-showreel-v0.2.0",
+    "name": "motion-showreel v0.2.0",
+    "published": "2026-11-08T14:13:01Z",
+    "url": "https://github.com/ConardLi/garden-skills/releases/tag/motion-showreel-v0.2.0"
   },
   "assets": [
     {
-      "name": "motion-showreel-0.1.0.zip",
-      "size": 278598,
-      "url": "https://github.com/ConardLi/garden-skills/releases/download/motion-showreel-v0.1.0/motion-showreel-0.1.0.zip"
+      "name": "motion-showreel-0.2.0.zip",
+      "size": 495005,
+      "url": "https://github.com/ConardLi/garden-skills/releases/download/motion-showreel-v0.2.0/motion-showreel-0.2.0.zip"
     }
   ],
   "pinned": false,

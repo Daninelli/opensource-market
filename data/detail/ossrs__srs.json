@@ -22,21 +22,21 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/ossrs/srs/zip/refs/heads/develop",
   "release": {
-    "tag": "v6.0-r2",
-    "name": "Release v6.0-r2",
-    "published": "2026-09-24T20:43:27Z",
-    "url": "https://github.com/ossrs/srs/releases/tag/v6.0-r2"
+    "tag": "v6.0-r3",
+    "name": "Release v6.0-r3",
+    "published": "2026-10-31T01:13:17Z",
+    "url": "https://github.com/ossrs/srs/releases/tag/v6.0-r3"
   },
   "assets": [
     {
-      "name": "SRS-CentOS7-x86_64-6.0-r2.zip",
-      "size": 14045194,
-      "url": "https://github.com/ossrs/srs/releases/download/v6.0-r2/SRS-CentOS7-x86_64-6.0-r2.zip"
+      "name": "SRS-CentOS7-x86_64-6.0-r3.zip",
+      "size": 14052032,
+      "url": "https://github.com/ossrs/srs/releases/download/v6.0-r3/SRS-CentOS7-x86_64-6.0-r3.zip"
     },
     {
-      "name": "srs-server-6.0-r2.tar.gz",
-      "size": 20499033,
-      "url": "https://github.com/ossrs/srs/releases/download/v6.0-r2/srs-server-6.0-r2.tar.gz"
+      "name": "srs-server-6.0-r3.tar.gz",
+      "size": 20499437,
+      "url": "https://github.com/ossrs/srs/releases/download/v6.0-r3/srs-server-6.0-r3.tar.gz"
     }
   ],
   "pinned": false,

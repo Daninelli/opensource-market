@@ -20,18 +20,12 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/coreyhaines31/marketingskills/zip/refs/heads/main",
   "release": {
-    "tag": "v2.13.0",
-    "name": "v2.13.0 — Added the conversion-tracking skill (1.0.0). Setting up, auditing, verifying and fixing t…",
-    "published": "2026-10-19T21:30:05Z",
-    "url": "https://github.com/coreyhaines31/marketingskills/releases/tag/v2.13.0"
+    "tag": "v2.14.2",
+    "name": "v2.14.2 — Organic short-form growth for apps and products: earn posting volume with views, and pick…",
+    "published": "2026-11-06T17:52:58Z",
+    "url": "https://github.com/coreyhaines31/marketingskills/releases/tag/v2.14.2"
   },
-  "assets": [
-    {
-      "name": "conversion-tracking-claude-web.zip",
-      "size": 236726,
-      "url": "https://github.com/coreyhaines31/marketingskills/releases/download/v2.13.0/conversion-tracking-claude-web.zip"
-    }
-  ],
+  "assets": [],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

@@ -30,7 +30,7 @@
   "assets": [
     {
       "name": "template.tar.gz",
-      "size": 3347559,
+      "size": 3347962,
       "url": "https://github.com/wasp-lang/open-saas/releases/download/wasp-v0.26-template/template.tar.gz"
     }
   ],

@@ -23,16 +23,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/plankanban/planka/zip/refs/heads/master",
   "release": {
-    "tag": "v2.2.1",
-    "name": "v2.2.1",
-    "published": "2026-08-10T16:30:06Z",
-    "url": "https://github.com/plankanban/planka/releases/tag/v2.2.1"
+    "tag": "v2.3.1",
+    "name": "v2.3.1",
+    "published": "2026-11-05T12:18:32Z",
+    "url": "https://github.com/plankanban/planka/releases/tag/v2.3.1"
   },
   "assets": [
     {
       "name": "planka-prebuild.zip",
-      "size": 5204358,
-      "url": "https://github.com/plankanban/planka/releases/download/v2.2.1/planka-prebuild.zip"
+      "size": 5341037,
+      "url": "https://github.com/plankanban/planka/releases/download/v2.3.1/planka-prebuild.zip"
     }
   ],
   "pinned": false,

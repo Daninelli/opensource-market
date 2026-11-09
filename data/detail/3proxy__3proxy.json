@@ -22,41 +22,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/3proxy/3proxy/zip/refs/heads/master",
   "release": {
-    "tag": "1.0.1",
-    "name": "3proxy-1.0.1",
-    "published": "2026-10-10T16:44:31Z",
-    "url": "https://github.com/3proxy/3proxy/releases/tag/1.0.1"
+    "tag": "1.0.3",
+    "name": "3proxy-1.0.3",
+    "published": "2026-11-07T09:01:22Z",
+    "url": "https://github.com/3proxy/3proxy/releases/tag/1.0.3"
   },
   "assets": [
     {
-      "name": "3proxy-1.0.1.arm.deb",
-      "size": 210420,
-      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.1/3proxy-1.0.1.arm.deb"
+      "name": "3proxy-1.0.3.arm.deb",
+      "size": 218436,
+      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.3/3proxy-1.0.3.arm.deb"
     },
     {
-      "name": "3proxy-1.0.1.arm64.deb",
-      "size": 241122,
-      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.1/3proxy-1.0.1.arm64.deb"
+      "name": "3proxy-1.0.3.arm64.deb",
+      "size": 248792,
+      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.3/3proxy-1.0.3.arm64.deb"
     },
     {
-      "name": "3proxy_1.0.1-r1_mips_24kc.ipk",
-      "size": 104810,
-      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.1/3proxy_1.0.1-r1_mips_24kc.ipk"
+      "name": "3proxy_1.0.3-r1_mipsel_24kc.ipk",
+      "size": 111293,
+      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.3/3proxy_1.0.3-r1_mipsel_24kc.ipk"
     },
     {
-      "name": "3proxy_1.0.1-r1_arm_cortex-a7_neon-vfpv4.ipk",
-      "size": 116376,
-      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.1/3proxy_1.0.1-r1_arm_cortex-a7_neon-vfpv4.ipk"
+      "name": "3proxy_1.0.3-r1_aarch64_cortex-a53.ipk",
+      "size": 128154,
+      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.3/3proxy_1.0.3-r1_aarch64_cortex-a53.ipk"
     },
     {
-      "name": "3proxy-1.0.1.tar.gz",
-      "size": 569079,
-      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.1/3proxy-1.0.1.tar.gz"
+      "name": "3proxy-1.0.3-lite.zip",
+      "size": 511405,
+      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.3/3proxy-1.0.3-lite.zip"
     },
     {
-      "name": "3proxy-1.0.1-x86.zip",
-      "size": 1680112,
-      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.1/3proxy-1.0.1-x86.zip"
+      "name": "3proxy-1.0.3.tar.gz",
+      "size": 591781,
+      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.3/3proxy-1.0.3.tar.gz"
     }
   ],
   "pinned": false,

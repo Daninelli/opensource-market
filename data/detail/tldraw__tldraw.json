@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/tldraw/tldraw/zip/refs/heads/main",
   "release": {
-    "tag": "v5.5.2",
-    "name": "v5.5.2",
-    "published": "2026-10-02T13:35:52Z",
-    "url": "https://github.com/tldraw/tldraw/releases/tag/v5.5.2"
+    "tag": "v5.6.0",
+    "name": "v5.6.0",
+    "published": "2026-10-28T15:01:24Z",
+    "url": "https://github.com/tldraw/tldraw/releases/tag/v5.6.0"
   },
   "assets": [],
   "pinned": false,

@@ -21,12 +21,28 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/FalkorDB/FalkorDB/zip/refs/heads/main",
   "release": {
-    "tag": "v6.0.2",
-    "name": "v6.0.2",
-    "published": "2026-10-08T14:49:34Z",
-    "url": "https://github.com/FalkorDB/FalkorDB/releases/tag/v6.0.2"
+    "tag": "v6.0.4",
+    "name": "v6.0.4",
+    "published": "2026-11-05T17:39:12Z",
+    "url": "https://github.com/FalkorDB/FalkorDB/releases/tag/v6.0.4"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "falkordb-amazonlinux2023-x64.so",
+      "size": 64242504,
+      "url": "https://github.com/FalkorDB/FalkorDB/releases/download/v6.0.4/falkordb-amazonlinux2023-x64.so"
+    },
+    {
+      "name": "falkordb-arm64v8.so",
+      "size": 57509560,
+      "url": "https://github.com/FalkorDB/FalkorDB/releases/download/v6.0.4/falkordb-arm64v8.so"
+    },
+    {
+      "name": "falkordb-x64.so",
+      "size": 62112664,
+      "url": "https://github.com/FalkorDB/FalkorDB/releases/download/v6.0.4/falkordb-x64.so"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

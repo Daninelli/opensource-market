@@ -22,51 +22,51 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/caddyserver/caddy/zip/refs/heads/master",
   "release": {
-    "tag": "v2.11.7",
-    "name": "v2.11.7",
-    "published": "2026-10-03T05:58:33Z",
-    "url": "https://github.com/caddyserver/caddy/releases/tag/v2.11.7"
+    "tag": "v2.11.9",
+    "name": "v2.11.9",
+    "published": "2026-11-05T01:30:24Z",
+    "url": "https://github.com/caddyserver/caddy/releases/tag/v2.11.9"
   },
   "assets": [
     {
-      "name": "caddy_2.11.7_windows_arm64.zip",
-      "size": 16545448,
-      "url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_windows_arm64.zip"
+      "name": "caddy_2.11.9_windows_arm64.zip",
+      "size": 16424551,
+      "url": "https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_windows_arm64.zip"
     },
     {
-      "name": "caddy_2.11.7_mac_arm64.tar.gz",
-      "size": 17297953,
-      "url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_mac_arm64.tar.gz"
+      "name": "caddy_2.11.9_mac_arm64.tar.gz",
+      "size": 17162425,
+      "url": "https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_mac_arm64.tar.gz"
     },
     {
-      "name": "caddy_2.11.7_windows_amd64.zip",
-      "size": 18479498,
-      "url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_windows_amd64.zip"
+      "name": "caddy_2.11.9_windows_amd64.zip",
+      "size": 18384117,
+      "url": "https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_windows_amd64.zip"
     },
     {
-      "name": "caddy_2.11.7_mac_amd64.tar.gz",
-      "size": 18551994,
-      "url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_mac_amd64.tar.gz"
+      "name": "caddy_2.11.9_mac_amd64.tar.gz",
+      "size": 18468908,
+      "url": "https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_mac_amd64.tar.gz"
     },
     {
-      "name": "caddy_2.11.7_linux_ppc64le.tar.gz",
-      "size": 16480936,
-      "url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_ppc64le.tar.gz"
+      "name": "caddy_2.11.9_linux_arm64.tar.gz",
+      "size": 16342262,
+      "url": "https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_arm64.tar.gz"
     },
     {
-      "name": "caddy_2.11.7_linux_arm64.tar.gz",
-      "size": 16485181,
-      "url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_arm64.tar.gz"
+      "name": "caddy_2.11.9_linux_arm64.deb",
+      "size": 16370090,
+      "url": "https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_arm64.deb"
     },
     {
-      "name": "caddy_2.11.7_buildable-artifact.tar.gz",
-      "size": 11549989,
-      "url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_buildable-artifact.tar.gz"
+      "name": "caddy_2.11.9_buildable-artifact.tar.gz",
+      "size": 11576069,
+      "url": "https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_buildable-artifact.tar.gz"
     },
     {
-      "name": "caddy_2.11.7_src.tar.gz",
-      "size": 12019661,
-      "url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_src.tar.gz"
+      "name": "caddy_2.11.9_src.tar.gz",
+      "size": 12392560,
+      "url": "https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_src.tar.gz"
     }
   ],
   "pinned": false,

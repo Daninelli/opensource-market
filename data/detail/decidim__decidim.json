@@ -21,10 +21,10 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/decidim/decidim/zip/refs/heads/develop",
   "release": {
-    "tag": "v0.32.1",
-    "name": "v0.32.1",
-    "published": "2026-07-30T08:20:38Z",
-    "url": "https://github.com/decidim/decidim/releases/tag/v0.32.1"
+    "tag": "v0.32.2",
+    "name": "v0.32.2",
+    "published": "2026-10-27T06:42:04Z",
+    "url": "https://github.com/decidim/decidim/releases/tag/v0.32.2"
   },
   "assets": [],
   "pinned": false,

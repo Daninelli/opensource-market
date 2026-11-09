@@ -20,21 +20,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/warp-tech/warpgate/zip/refs/heads/main",
   "release": {
-    "tag": "v0.30.0",
-    "name": "v0.30.0",
-    "published": "2026-10-19T10:56:29Z",
-    "url": "https://github.com/warp-tech/warpgate/releases/tag/v0.30.0"
+    "tag": "v0.30.4",
+    "name": "v0.30.4",
+    "published": "2026-11-03T07:22:59Z",
+    "url": "https://github.com/warp-tech/warpgate/releases/tag/v0.30.4"
   },
   "assets": [
     {
-      "name": "warpgate-v0.30.0-arm64-linux",
-      "size": 102056808,
-      "url": "https://github.com/warp-tech/warpgate/releases/download/v0.30.0/warpgate-v0.30.0-arm64-linux"
+      "name": "warpgate-v0.30.4-arm64-linux",
+      "size": 102560504,
+      "url": "https://github.com/warp-tech/warpgate/releases/download/v0.30.4/warpgate-v0.30.4-arm64-linux"
     },
     {
-      "name": "warpgate-v0.30.0-x86_64-linux",
-      "size": 108740288,
-      "url": "https://github.com/warp-tech/warpgate/releases/download/v0.30.0/warpgate-v0.30.0-x86_64-linux"
+      "name": "warpgate-v0.30.4-x86_64-linux",
+      "size": 109329832,
+      "url": "https://github.com/warp-tech/warpgate/releases/download/v0.30.4/warpgate-v0.30.4-x86_64-linux"
     }
   ],
   "pinned": false,

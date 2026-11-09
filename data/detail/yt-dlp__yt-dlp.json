@@ -20,51 +20,51 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/yt-dlp/yt-dlp/zip/refs/heads/master",
   "release": {
-    "tag": "2026.08.19",
-    "name": "yt-dlp 2026.08.19",
-    "published": "2026-08-19T23:48:43Z",
-    "url": "https://github.com/yt-dlp/yt-dlp/releases/tag/2026.08.19"
+    "tag": "2026.10.26",
+    "name": "yt-dlp 2026.10.26",
+    "published": "2026-10-26T22:25:26Z",
+    "url": "https://github.com/yt-dlp/yt-dlp/releases/tag/2026.10.26"
   },
   "assets": [
     {
       "name": "yt-dlp_x86.exe",
-      "size": 13199160,
-      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_x86.exe"
+      "size": 18618344,
+      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp_x86.exe"
     },
     {
       "name": "yt-dlp_win_x86.zip",
-      "size": 13272140,
-      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_win_x86.zip"
+      "size": 18729496,
+      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp_win_x86.zip"
     },
     {
       "name": "yt-dlp_macos",
-      "size": 37146048,
-      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_macos"
+      "size": 37466304,
+      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp_macos"
     },
     {
       "name": "yt-dlp_macos.zip",
-      "size": 53923637,
-      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_macos.zip"
+      "size": 54165284,
+      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp_macos.zip"
     },
     {
       "name": "yt-dlp_linux_armv7l.zip",
-      "size": 38661544,
-      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_linux_armv7l.zip"
+      "size": 39362808,
+      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp_linux_armv7l.zip"
     },
     {
       "name": "yt-dlp_musllinux_aarch64",
-      "size": 39806408,
-      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_musllinux_aarch64"
+      "size": 40524824,
+      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp_musllinux_aarch64"
     },
     {
       "name": "yt-dlp",
-      "size": 3072469,
-      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp"
+      "size": 3073072,
+      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp"
     },
     {
       "name": "yt-dlp.tar.gz",
-      "size": 6020567,
-      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp.tar.gz"
+      "size": 6019106,
+      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp.tar.gz"
     }
   ],
   "pinned": false,

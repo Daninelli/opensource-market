@@ -21,41 +21,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/actualbudget/actual/zip/refs/heads/master",
   "release": {
-    "tag": "v26.10.0",
-    "name": "v26.10.0",
-    "published": "2026-10-02T15:32:36Z",
-    "url": "https://github.com/actualbudget/actual/releases/tag/v26.10.0"
+    "tag": "v26.11.0",
+    "name": "v26.11.0",
+    "published": "2026-11-02T01:54:02Z",
+    "url": "https://github.com/actualbudget/actual/releases/tag/v26.11.0"
   },
   "assets": [
     {
       "name": "Actual-windows-ia32.exe",
-      "size": 111813535,
-      "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-windows-ia32.exe"
+      "size": 114479819,
+      "url": "https://github.com/actualbudget/actual/releases/download/v26.11.0/Actual-windows-ia32.exe"
     },
     {
       "name": "Actual-windows-x64.exe",
-      "size": 122844362,
-      "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-windows-x64.exe"
+      "size": 128140481,
+      "url": "https://github.com/actualbudget/actual/releases/download/v26.11.0/Actual-windows-x64.exe"
     },
     {
       "name": "Actual-mac-arm64.dmg",
-      "size": 143479378,
-      "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-mac-arm64.dmg"
+      "size": 145818730,
+      "url": "https://github.com/actualbudget/actual/releases/download/v26.11.0/Actual-mac-arm64.dmg"
     },
     {
       "name": "Actual-mac-x64.dmg",
-      "size": 148589723,
-      "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-mac-x64.dmg"
+      "size": 152732866,
+      "url": "https://github.com/actualbudget/actual/releases/download/v26.11.0/Actual-mac-x64.dmg"
     },
     {
-      "name": "Actual-linux-x86_64.flatpak",
-      "size": 101660064,
-      "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-linux-x86_64.flatpak"
+      "name": "Actual-linux-x86_64.AppImage",
+      "size": 152393085,
+      "url": "https://github.com/actualbudget/actual/releases/download/v26.11.0/Actual-linux-x86_64.AppImage"
     },
     {
       "name": "Actual-linux-arm64.AppImage",
-      "size": 148674369,
-      "url": "https://github.com/actualbudget/actual/releases/download/v26.10.0/Actual-linux-arm64.AppImage"
+      "size": 153573034,
+      "url": "https://github.com/actualbudget/actual/releases/download/v26.11.0/Actual-linux-arm64.AppImage"
     }
   ],
   "pinned": false,

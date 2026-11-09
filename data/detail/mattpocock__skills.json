@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/mattpocock/skills/zip/refs/heads/main",
   "release": {
-    "tag": "v1.3.1",
-    "name": "v1.3.1",
-    "published": "2026-10-04T12:48:18Z",
-    "url": "https://github.com/mattpocock/skills/releases/tag/v1.3.1"
+    "tag": "v1.3.2",
+    "name": "v1.3.2",
+    "published": "2026-10-29T10:27:41Z",
+    "url": "https://github.com/mattpocock/skills/releases/tag/v1.3.2"
   },
   "assets": [],
   "pinned": false,

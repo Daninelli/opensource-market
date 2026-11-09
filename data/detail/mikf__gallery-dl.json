@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mikf/gallery-dl/zip/refs/heads/master",
   "release": {
-    "tag": "v1.32.17",
-    "name": "v1.32.17",
-    "published": "2026-10-17T14:26:38Z",
-    "url": "https://github.com/mikf/gallery-dl/releases/tag/v1.32.17"
+    "tag": "v1.32.19",
+    "name": "v1.32.19",
+    "published": "2026-10-31T11:35:41Z",
+    "url": "https://github.com/mikf/gallery-dl/releases/tag/v1.32.19"
   },
   "assets": [],
   "pinned": false,

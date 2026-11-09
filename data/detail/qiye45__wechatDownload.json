@@ -21,18 +21,12 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/qiye45/wechatDownload/zip/refs/heads/main",
   "release": {
-    "tag": "4.7",
-    "name": "微信公众号批量下载工具4.7(已失效)",
-    "published": "2026-08-16T14:04:55Z",
-    "url": "https://github.com/qiye45/wechatDownload/releases/tag/4.7"
+    "tag": "5.0",
+    "name": "微信公众号批量下载工具5.0",
+    "published": "2026-11-01T16:40:20Z",
+    "url": "https://github.com/qiye45/wechatDownload/releases/tag/5.0"
   },
-  "assets": [
-    {
-      "name": "wechatDownload4.7.zip",
-      "size": 87710472,
-      "url": "https://github.com/qiye45/wechatDownload/releases/download/4.7/wechatDownload4.7.zip"
-    }
-  ],
+  "assets": [],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

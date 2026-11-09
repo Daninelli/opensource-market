@@ -21,31 +21,31 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/home-assistant/operating-system/zip/refs/heads/dev",
   "release": {
-    "tag": "18.3",
-    "name": "Home Assistant OS 18.3",
-    "published": "2026-09-17T15:52:18Z",
-    "url": "https://github.com/home-assistant/operating-system/releases/tag/18.3"
+    "tag": "18.5",
+    "name": "Home Assistant OS 18.5",
+    "published": "2026-11-06T13:45:43Z",
+    "url": "https://github.com/home-assistant/operating-system/releases/tag/18.5"
   },
   "assets": [
     {
-      "name": "haos_khadas-vim3-18.3.raucb",
-      "size": 162453918,
-      "url": "https://github.com/home-assistant/operating-system/releases/download/18.3/haos_khadas-vim3-18.3.raucb"
+      "name": "haos_khadas-vim3-18.5.raucb",
+      "size": 165833119,
+      "url": "https://github.com/home-assistant/operating-system/releases/download/18.5/haos_khadas-vim3-18.5.raucb"
     },
     {
-      "name": "haos_odroid-c2-18.3.raucb",
-      "size": 162855325,
-      "url": "https://github.com/home-assistant/operating-system/releases/download/18.3/haos_odroid-c2-18.3.raucb"
+      "name": "haos_odroid-c2-18.5.raucb",
+      "size": 166234523,
+      "url": "https://github.com/home-assistant/operating-system/releases/download/18.5/haos_odroid-c2-18.5.raucb"
     },
     {
-      "name": "haos_khadas-vim3-18.3.img.xz",
-      "size": 294648012,
-      "url": "https://github.com/home-assistant/operating-system/releases/download/18.3/haos_khadas-vim3-18.3.img.xz"
+      "name": "haos_khadas-vim3-18.5.img.xz",
+      "size": 306574648,
+      "url": "https://github.com/home-assistant/operating-system/releases/download/18.5/haos_khadas-vim3-18.5.img.xz"
     },
     {
-      "name": "haos_odroid-c2-18.3.img.xz",
-      "size": 295225168,
-      "url": "https://github.com/home-assistant/operating-system/releases/download/18.3/haos_odroid-c2-18.3.img.xz"
+      "name": "haos_odroid-c2-18.5.img.xz",
+      "size": 306869612,
+      "url": "https://github.com/home-assistant/operating-system/releases/download/18.5/haos_odroid-c2-18.5.img.xz"
     }
   ],
   "pinned": false,

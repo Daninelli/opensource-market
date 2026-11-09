@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/bevyengine/bevy/zip/refs/heads/main",
   "release": {
-    "tag": "v0.20.0",
-    "name": "v0.20.0",
-    "published": "2026-10-08T21:41:02Z",
-    "url": "https://github.com/bevyengine/bevy/releases/tag/v0.20.0"
+    "tag": "v0.20.1",
+    "name": "v0.20.1",
+    "published": "2026-10-28T22:05:06Z",
+    "url": "https://github.com/bevyengine/bevy/releases/tag/v0.20.1"
   },
   "assets": [],
   "pinned": false,

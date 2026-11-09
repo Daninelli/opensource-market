@@ -20,41 +20,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/langchain-ai/open-swe/zip/refs/heads/main",
   "release": {
-    "tag": "desktop-v0.3.8",
-    "name": "Open SWE Desktop v0.3.8",
-    "published": "2026-10-15T23:06:45Z",
-    "url": "https://github.com/langchain-ai/open-swe/releases/tag/desktop-v0.3.8"
+    "tag": "desktop-v0.3.16",
+    "name": "Robin Desktop v0.3.16",
+    "published": "2026-11-09T00:12:34Z",
+    "url": "https://github.com/langchain-ai/open-swe/releases/tag/desktop-v0.3.16"
   },
   "assets": [
     {
       "name": "oswe-darwin-arm64.tar.gz",
-      "size": 25412082,
-      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.8/oswe-darwin-arm64.tar.gz"
+      "size": 25413342,
+      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.16/oswe-darwin-arm64.tar.gz"
     },
     {
       "name": "oswe-darwin-x64.tar.gz",
-      "size": 28476289,
-      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.8/oswe-darwin-x64.tar.gz"
+      "size": 28477210,
+      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.16/oswe-darwin-x64.tar.gz"
     },
     {
       "name": "oswe-linux-arm64.tar.gz",
-      "size": 36640898,
-      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.8/oswe-linux-arm64.tar.gz"
+      "size": 36641732,
+      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.16/oswe-linux-arm64.tar.gz"
     },
     {
       "name": "oswe-linux-x64.tar.gz",
-      "size": 36685149,
-      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.8/oswe-linux-x64.tar.gz"
+      "size": 36686011,
+      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.16/oswe-linux-x64.tar.gz"
     },
     {
-      "name": "Open-SWE-0.3.8-arm64-mac.zip",
-      "size": 162269846,
-      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.8/Open-SWE-0.3.8-arm64-mac.zip"
+      "name": "Open-SWE-0.3.16-arm64-mac.zip",
+      "size": 179444172,
+      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.16/Open-SWE-0.3.16-arm64-mac.zip"
     },
     {
-      "name": "Open-SWE-0.3.8.app.zip",
-      "size": 162350614,
-      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.8/Open-SWE-0.3.8.app.zip"
+      "name": "Robin-0.3.16-arm64-mac.zip",
+      "size": 179444172,
+      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.16/Robin-0.3.16-arm64-mac.zip"
     }
   ],
   "pinned": false,

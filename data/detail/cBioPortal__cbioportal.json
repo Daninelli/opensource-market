@@ -23,10 +23,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/cBioPortal/cbioportal/zip/refs/heads/master",
   "release": {
-    "tag": "v7.1.1",
-    "name": "v7.1.1",
-    "published": "2026-09-01T22:32:00Z",
-    "url": "https://github.com/cBioPortal/cbioportal/releases/tag/v7.1.1"
+    "tag": "v7.1.2",
+    "name": "v7.1.2",
+    "published": "2026-09-17T01:03:30Z",
+    "url": "https://github.com/cBioPortal/cbioportal/releases/tag/v7.1.2"
   },
   "assets": [],
   "pinned": false,

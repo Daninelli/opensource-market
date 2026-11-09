@@ -20,51 +20,51 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/AdguardTeam/AdGuardHome/zip/refs/heads/master",
   "release": {
-    "tag": "v0.107.79",
-    "name": "AdGuard Home v0.107.79",
-    "published": "2026-08-18T15:45:27Z",
-    "url": "https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.107.79"
+    "tag": "v0.107.80",
+    "name": "AdGuard Home v0.107.80",
+    "published": "2026-11-03T13:10:22Z",
+    "url": "https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.107.80"
   },
   "assets": [
     {
       "name": "AdGuardHome_windows_arm64.zip",
-      "size": 10429450,
-      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.79/AdGuardHome_windows_arm64.zip"
+      "size": 10588231,
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.80/AdGuardHome_windows_arm64.zip"
     },
     {
       "name": "AdGuardHome_windows_386.zip",
-      "size": 11299935,
-      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.79/AdGuardHome_windows_386.zip"
+      "size": 11483504,
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.80/AdGuardHome_windows_386.zip"
     },
     {
       "name": "AdGuardHome_darwin_arm64.zip",
-      "size": 11642819,
-      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.79/AdGuardHome_darwin_arm64.zip"
+      "size": 11776917,
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.80/AdGuardHome_darwin_arm64.zip"
     },
     {
       "name": "AdGuardHome_darwin_amd64.zip",
-      "size": 12415027,
-      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.79/AdGuardHome_darwin_amd64.zip"
+      "size": 12590995,
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.80/AdGuardHome_darwin_amd64.zip"
     },
     {
       "name": "AdGuardHome_linux_mips64le_softfloat.tar.gz",
-      "size": 11067392,
-      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.79/AdGuardHome_linux_mips64le_softfloat.tar.gz"
+      "size": 11231385,
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.80/AdGuardHome_linux_mips64le_softfloat.tar.gz"
     },
     {
       "name": "AdGuardHome_linux_mips64_softfloat.tar.gz",
-      "size": 11156037,
-      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.79/AdGuardHome_linux_mips64_softfloat.tar.gz"
+      "size": 11312342,
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.80/AdGuardHome_linux_mips64_softfloat.tar.gz"
     },
     {
       "name": "AdGuardHome_frontend.tar.gz",
-      "size": 2580109,
-      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.79/AdGuardHome_frontend.tar.gz"
+      "size": 2579420,
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.80/AdGuardHome_frontend.tar.gz"
     },
     {
       "name": "AdGuardHome_openbsd_arm64.tar.gz",
-      "size": 11108188,
-      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.79/AdGuardHome_openbsd_arm64.tar.gz"
+      "size": 11233147,
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.80/AdGuardHome_openbsd_arm64.tar.gz"
     }
   ],
   "pinned": false,

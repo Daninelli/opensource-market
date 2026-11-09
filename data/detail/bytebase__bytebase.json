@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/bytebase/bytebase/zip/refs/heads/main",
   "release": {
-    "tag": "3.23.1",
-    "name": "Release 3.23.1",
-    "published": "2026-10-08T12:58:39Z",
-    "url": "https://github.com/bytebase/bytebase/releases/tag/3.23.1"
+    "tag": "3.24.1",
+    "name": "Release 3.24.1",
+    "published": "2026-11-05T14:38:33Z",
+    "url": "https://github.com/bytebase/bytebase/releases/tag/3.24.1"
   },
   "assets": [],
   "pinned": false,

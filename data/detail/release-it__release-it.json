@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/release-it/release-it/zip/refs/heads/main",
   "release": {
-    "tag": "21.1.1",
-    "name": "Release 21.1.1",
-    "published": "2026-10-07T14:53:03Z",
-    "url": "https://github.com/release-it/release-it/releases/tag/21.1.1"
+    "tag": "21.1.2",
+    "name": "Release 21.1.2",
+    "published": "2026-10-30T18:53:19Z",
+    "url": "https://github.com/release-it/release-it/releases/tag/21.1.2"
   },
   "assets": [],
   "pinned": false,

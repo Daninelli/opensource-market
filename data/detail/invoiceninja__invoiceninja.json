@@ -22,21 +22,21 @@
   "default_branch": "v5-stable",
   "download_url": "https://codeload.github.com/invoiceninja/invoiceninja/zip/refs/heads/v5-stable",
   "release": {
-    "tag": "v5.13.49",
-    "name": "v5.13.49",
-    "published": "2026-10-18T03:44:48Z",
-    "url": "https://github.com/invoiceninja/invoiceninja/releases/tag/v5.13.49"
+    "tag": "v5.13.53",
+    "name": "v5.13.53",
+    "published": "2026-11-02T02:31:29Z",
+    "url": "https://github.com/invoiceninja/invoiceninja/releases/tag/v5.13.53"
   },
   "assets": [
     {
       "name": "invoiceninja.tar",
-      "size": 196972682,
-      "url": "https://github.com/invoiceninja/invoiceninja/releases/download/v5.13.49/invoiceninja.tar"
+      "size": 198646788,
+      "url": "https://github.com/invoiceninja/invoiceninja/releases/download/v5.13.53/invoiceninja.tar"
     },
     {
       "name": "invoiceninja.tar.gz",
-      "size": 196972682,
-      "url": "https://github.com/invoiceninja/invoiceninja/releases/download/v5.13.49/invoiceninja.tar.gz"
+      "size": 198646788,
+      "url": "https://github.com/invoiceninja/invoiceninja/releases/download/v5.13.53/invoiceninja.tar.gz"
     }
   ],
   "pinned": false,

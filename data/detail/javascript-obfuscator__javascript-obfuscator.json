@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/javascript-obfuscator/javascript-obfuscator/zip/refs/heads/master",
   "release": {
-    "tag": "5.9.0",
-    "name": "5.9.0 version",
-    "published": "2026-10-04T02:33:31Z",
-    "url": "https://github.com/javascript-obfuscator/javascript-obfuscator/releases/tag/5.9.0"
+    "tag": "5.10.0",
+    "name": "5.10.0 version",
+    "published": "2026-11-04T06:07:13Z",
+    "url": "https://github.com/javascript-obfuscator/javascript-obfuscator/releases/tag/5.10.0"
   },
   "assets": [],
   "pinned": false,

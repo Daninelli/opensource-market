@@ -20,41 +20,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/meilisearch/meilisearch/zip/refs/heads/main",
   "release": {
-    "tag": "v1.55.0",
-    "name": "v1.55.0 🔭",
-    "published": "2026-10-12T09:21:50Z",
-    "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.55.0"
+    "tag": "v1.56.1",
+    "name": "v1.56.1 🐫 ",
+    "published": "2026-11-02T09:38:53Z",
+    "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.56.1"
   },
   "assets": [
     {
       "name": "meilisearch-macos-apple-silicon",
-      "size": 348295984,
-      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-macos-apple-silicon"
+      "size": 348419472,
+      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.1/meilisearch-macos-apple-silicon"
     },
     {
       "name": "meilisearch-macos-amd64",
-      "size": 351225696,
-      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-macos-amd64"
+      "size": 351344024,
+      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.1/meilisearch-macos-amd64"
     },
     {
       "name": "meilisearch-windows-amd64.exe",
-      "size": 352880640,
-      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-windows-amd64.exe"
+      "size": 353019904,
+      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.1/meilisearch-windows-amd64.exe"
+    },
+    {
+      "name": "meilisearch.deb",
+      "size": 59599432,
+      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.1/meilisearch.deb"
     },
     {
       "name": "meilisearch-linux-riscv64",
-      "size": 349925584,
-      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-linux-riscv64"
-    },
-    {
-      "name": "meilisearch-linux-aarch64",
-      "size": 350825800,
-      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-linux-aarch64"
+      "size": 350051728,
+      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.1/meilisearch-linux-riscv64"
     },
     {
       "name": "meilisearch-enterprise-windows-amd64.exe",
-      "size": 354473984,
-      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.55.0/meilisearch-enterprise-windows-amd64.exe"
+      "size": 354613760,
+      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.1/meilisearch-enterprise-windows-amd64.exe"
     }
   ],
   "pinned": false,

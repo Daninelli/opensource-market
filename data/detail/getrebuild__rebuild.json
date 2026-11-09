@@ -22,23 +22,12 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/getrebuild/rebuild/zip/refs/heads/master",
   "release": {
-    "tag": "4.5.0",
-    "name": "4.5.0-release",
-    "published": "2026-10-08T14:15:38Z",
-    "url": "https://github.com/getrebuild/rebuild/releases/tag/4.5.0"
+    "tag": "4.5.4",
+    "name": "4.5.4-release",
+    "published": "2026-11-03T09:38:10Z",
+    "url": "https://github.com/getrebuild/rebuild/releases/tag/4.5.4"
   },
-  "assets": [
-    {
-      "name": "rebuild-boot-4.5.0.jar",
-      "size": 204183523,
-      "url": "https://github.com/getrebuild/rebuild/releases/download/4.5.0/rebuild-boot-4.5.0.jar"
-    },
-    {
-      "name": "rebuild-standalone-4.5.0.zip",
-      "size": 342716703,
-      "url": "https://github.com/getrebuild/rebuild/releases/download/4.5.0/rebuild-standalone-4.5.0.zip"
-    }
-  ],
+  "assets": [],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

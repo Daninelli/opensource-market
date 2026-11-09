@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ChromeDevTools/chrome-devtools-mcp/zip/refs/heads/main",
   "release": {
-    "tag": "chrome-devtools-mcp-v1.11.0",
-    "name": "chrome-devtools-mcp: v1.11.0",
-    "published": "2026-10-15T14:01:41Z",
-    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.11.0"
+    "tag": "chrome-devtools-mcp-v1.12.0",
+    "name": "chrome-devtools-mcp: v1.12.0",
+    "published": "2026-10-22T13:47:54Z",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.12.0"
   },
   "assets": [],
   "pinned": false,

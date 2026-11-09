@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/MarSeventh/CloudFlare-ImgBed/zip/refs/heads/main",
   "release": {
-    "tag": "v2.7.7",
-    "name": "Release v2.7.7 - 2026-09-28",
-    "published": "2026-09-28T02:02:39Z",
-    "url": "https://github.com/MarSeventh/CloudFlare-ImgBed/releases/tag/v2.7.7"
+    "tag": "v2.7.8",
+    "name": "Release v2.7.8 - 2026-10-25",
+    "published": "2026-10-25T14:07:54Z",
+    "url": "https://github.com/MarSeventh/CloudFlare-ImgBed/releases/tag/v2.7.8"
   },
   "assets": [],
   "pinned": false,

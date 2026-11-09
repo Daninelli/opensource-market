@@ -20,31 +20,36 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/iamgio/quarkdown/zip/refs/heads/main",
   "release": {
-    "tag": "v2.6.4",
-    "name": "v2.6.4",
-    "published": "2026-10-09T01:43:19Z",
-    "url": "https://github.com/iamgio/quarkdown/releases/tag/v2.6.4"
+    "tag": "v2.7.0",
+    "name": "v2.7.0",
+    "published": "2026-10-29T06:47:29Z",
+    "url": "https://github.com/iamgio/quarkdown/releases/tag/v2.7.0"
   },
   "assets": [
     {
       "name": "quarkdown-macos-aarch64.zip",
-      "size": 63463006,
-      "url": "https://github.com/iamgio/quarkdown/releases/download/v2.6.4/quarkdown-macos-aarch64.zip"
+      "size": 64130952,
+      "url": "https://github.com/iamgio/quarkdown/releases/download/v2.7.0/quarkdown-macos-aarch64.zip"
     },
     {
       "name": "quarkdown-windows-x64.zip",
-      "size": 63830308,
-      "url": "https://github.com/iamgio/quarkdown/releases/download/v2.6.4/quarkdown-windows-x64.zip"
+      "size": 64498253,
+      "url": "https://github.com/iamgio/quarkdown/releases/download/v2.7.0/quarkdown-windows-x64.zip"
     },
     {
       "name": "quarkdown-macos-x64.zip",
-      "size": 64515312,
-      "url": "https://github.com/iamgio/quarkdown/releases/download/v2.6.4/quarkdown-macos-x64.zip"
+      "size": 65183258,
+      "url": "https://github.com/iamgio/quarkdown/releases/download/v2.7.0/quarkdown-macos-x64.zip"
+    },
+    {
+      "name": "quarkdown-linux-aarch64.zip",
+      "size": 68028675,
+      "url": "https://github.com/iamgio/quarkdown/releases/download/v2.7.0/quarkdown-linux-aarch64.zip"
     },
     {
       "name": "quarkdown-linux-x64.zip",
-      "size": 67678639,
-      "url": "https://github.com/iamgio/quarkdown/releases/download/v2.6.4/quarkdown-linux-x64.zip"
+      "size": 68346585,
+      "url": "https://github.com/iamgio/quarkdown/releases/download/v2.7.0/quarkdown-linux-x64.zip"
     }
   ],
   "pinned": false,

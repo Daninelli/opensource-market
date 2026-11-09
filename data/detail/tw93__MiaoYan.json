@@ -21,21 +21,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/tw93/MiaoYan/zip/refs/heads/main",
   "release": {
-    "tag": "V4.5.0",
-    "name": "V4.5.0 Nargacuga 🌙",
-    "published": "2026-09-25T03:41:05Z",
-    "url": "https://github.com/tw93/MiaoYan/releases/tag/V4.5.0"
+    "tag": "V4.8.0",
+    "name": "V4.8.0 Brachydios 💥",
+    "published": "2026-11-06T13:18:27Z",
+    "url": "https://github.com/tw93/MiaoYan/releases/tag/V4.8.0"
   },
   "assets": [
     {
       "name": "MiaoYan.dmg",
-      "size": 10248599,
-      "url": "https://github.com/tw93/MiaoYan/releases/download/V4.5.0/MiaoYan.dmg"
+      "size": 11822205,
+      "url": "https://github.com/tw93/MiaoYan/releases/download/V4.8.0/MiaoYan.dmg"
     },
     {
-      "name": "MiaoYan_V4.5.0.zip",
-      "size": 10711467,
-      "url": "https://github.com/tw93/MiaoYan/releases/download/V4.5.0/MiaoYan_V4.5.0.zip"
+      "name": "MiaoYan_V4.8.0.zip",
+      "size": 12327355,
+      "url": "https://github.com/tw93/MiaoYan/releases/download/V4.8.0/MiaoYan_V4.8.0.zip"
     }
   ],
   "pinned": false,

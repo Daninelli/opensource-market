@@ -23,10 +23,10 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/strapi/strapi/zip/refs/heads/develop",
   "release": {
-    "tag": "v5.58.0",
-    "name": "v5.58.0",
-    "published": "2026-10-14T10:20:42Z",
-    "url": "https://github.com/strapi/strapi/releases/tag/v5.58.0"
+    "tag": "v5.61.0",
+    "name": "v5.61.0",
+    "published": "2026-11-04T13:07:59Z",
+    "url": "https://github.com/strapi/strapi/releases/tag/v5.61.0"
   },
   "assets": [],
   "pinned": false,

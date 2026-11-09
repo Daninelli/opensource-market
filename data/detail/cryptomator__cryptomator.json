@@ -20,41 +20,41 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/cryptomator/cryptomator/zip/refs/heads/develop",
   "release": {
-    "tag": "1.19.3",
-    "name": "1.19.3",
-    "published": "2026-06-29T12:24:45Z",
-    "url": "https://github.com/cryptomator/cryptomator/releases/tag/1.19.3"
+    "tag": "1.19.6",
+    "name": "1.19.6",
+    "published": "2026-10-30T10:40:14Z",
+    "url": "https://github.com/cryptomator/cryptomator/releases/tag/1.19.6"
   },
   "assets": [
     {
-      "name": "Cryptomator-1.19.3-x64.msi",
-      "size": 56815616,
-      "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.3/Cryptomator-1.19.3-x64.msi"
+      "name": "Cryptomator-1.19.6-x64.msi",
+      "size": 53243904,
+      "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.6/Cryptomator-1.19.6-x64.msi"
     },
     {
-      "name": "Cryptomator-1.19.3-x64.exe",
-      "size": 57605976,
-      "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.3/Cryptomator-1.19.3-x64.exe"
+      "name": "Cryptomator-1.19.6-x64.exe",
+      "size": 54034176,
+      "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.6/Cryptomator-1.19.6-x64.exe"
     },
     {
-      "name": "Cryptomator-1.19.3-arm64.dmg",
-      "size": 62393246,
-      "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.3/Cryptomator-1.19.3-arm64.dmg"
+      "name": "Cryptomator-1.19.6-arm64.dmg",
+      "size": 58714109,
+      "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.6/Cryptomator-1.19.6-arm64.dmg"
     },
     {
-      "name": "Cryptomator-1.19.3-x64.dmg",
-      "size": 63801297,
-      "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.3/Cryptomator-1.19.3-x64.dmg"
+      "name": "Cryptomator-1.19.6-x64.dmg",
+      "size": 60164482,
+      "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.6/Cryptomator-1.19.6-x64.dmg"
     },
     {
-      "name": "cryptomator_1.19.3-0ppa1_amd64.deb",
-      "size": 52309774,
-      "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.3/cryptomator_1.19.3-0ppa1_amd64.deb"
+      "name": "cryptomator_1.19.6-0ppa1_amd64.deb",
+      "size": 48793750,
+      "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.6/cryptomator_1.19.6-0ppa1_amd64.deb"
     },
     {
-      "name": "cryptomator-1.19.3-aarch64.AppImage",
-      "size": 61753864,
-      "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.3/cryptomator-1.19.3-aarch64.AppImage"
+      "name": "cryptomator-1.19.6-aarch64.AppImage",
+      "size": 58137096,
+      "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.6/cryptomator-1.19.6-aarch64.AppImage"
     }
   ],
   "pinned": false,

@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/shadcn-ui/ui/zip/refs/heads/main",
   "release": {
-    "tag": "shadcn@4.22.1",
-    "name": "shadcn@4.22.1",
-    "published": "2026-10-18T18:11:04Z",
-    "url": "https://github.com/shadcn-ui/ui/releases/tag/shadcn%404.22.1"
+    "tag": "shadcn@4.23.0",
+    "name": "shadcn@4.23.0",
+    "published": "2026-10-27T12:31:47Z",
+    "url": "https://github.com/shadcn-ui/ui/releases/tag/shadcn%404.23.0"
   },
   "assets": [],
   "pinned": false,

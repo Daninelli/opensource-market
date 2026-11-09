@@ -22,31 +22,31 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/portainer/portainer/zip/refs/heads/develop",
   "release": {
-    "tag": "2.45.2",
-    "name": "Release 2.45.2 LTS",
-    "published": "2026-10-08T00:23:15Z",
-    "url": "https://github.com/portainer/portainer/releases/tag/2.45.2"
+    "tag": "2.45.3",
+    "name": "Release 2.45.3 LTS",
+    "published": "2026-10-21T23:20:29Z",
+    "url": "https://github.com/portainer/portainer/releases/tag/2.45.3"
   },
   "assets": [
     {
-      "name": "portainer-2.45.2-windows1809-amd64.tar.gz",
-      "size": 44894231,
-      "url": "https://github.com/portainer/portainer/releases/download/2.45.2/portainer-2.45.2-windows1809-amd64.tar.gz"
+      "name": "portainer-2.45.3-windowsltsc2022-amd64.tar.gz",
+      "size": 44927329,
+      "url": "https://github.com/portainer/portainer/releases/download/2.45.3/portainer-2.45.3-windowsltsc2022-amd64.tar.gz"
     },
     {
-      "name": "portainer-2.45.2-windowsltsc2022-amd64.tar.gz",
-      "size": 44894543,
-      "url": "https://github.com/portainer/portainer/releases/download/2.45.2/portainer-2.45.2-windowsltsc2022-amd64.tar.gz"
+      "name": "portainer-2.45.3-windowsltsc2025-amd64.tar.gz",
+      "size": 44927428,
+      "url": "https://github.com/portainer/portainer/releases/download/2.45.3/portainer-2.45.3-windowsltsc2025-amd64.tar.gz"
     },
     {
-      "name": "portainer-2.45.2-linux-ppc64le.tar.gz",
-      "size": 40085208,
-      "url": "https://github.com/portainer/portainer/releases/download/2.45.2/portainer-2.45.2-linux-ppc64le.tar.gz"
+      "name": "portainer-2.45.3-linux-ppc64le.tar.gz",
+      "size": 40116764,
+      "url": "https://github.com/portainer/portainer/releases/download/2.45.3/portainer-2.45.3-linux-ppc64le.tar.gz"
     },
     {
-      "name": "portainer-2.45.2-linux-arm64.tar.gz",
-      "size": 40398884,
-      "url": "https://github.com/portainer/portainer/releases/download/2.45.2/portainer-2.45.2-linux-arm64.tar.gz"
+      "name": "portainer-2.45.3-linux-arm64.tar.gz",
+      "size": 40410984,
+      "url": "https://github.com/portainer/portainer/releases/download/2.45.3/portainer-2.45.3-linux-arm64.tar.gz"
     }
   ],
   "pinned": false,

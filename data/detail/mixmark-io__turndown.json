@@ -20,10 +20,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mixmark-io/turndown/zip/refs/heads/master",
   "release": {
-    "tag": "v7.2.4",
-    "name": "v7.2.4",
-    "published": "2026-04-03T14:59:50Z",
-    "url": "https://github.com/mixmark-io/turndown/releases/tag/v7.2.4"
+    "tag": "v7.2.5",
+    "name": "v7.2.5",
+    "published": "2026-11-04T11:57:44Z",
+    "url": "https://github.com/mixmark-io/turndown/releases/tag/v7.2.5"
   },
   "assets": [],
   "pinned": false,

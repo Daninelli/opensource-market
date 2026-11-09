@@ -22,21 +22,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/immich-app/immich/zip/refs/heads/main",
   "release": {
-    "tag": "v3.3.3",
-    "name": "v3.3.3",
-    "published": "2026-10-14T16:56:21Z",
-    "url": "https://github.com/immich-app/immich/releases/tag/v3.3.3"
+    "tag": "v3.3.6",
+    "name": "v3.3.6",
+    "published": "2026-11-04T17:24:55Z",
+    "url": "https://github.com/immich-app/immich/releases/tag/v3.3.6"
   },
   "assets": [
     {
       "name": "app-armeabi-v7a-release.apk",
-      "size": 63974801,
-      "url": "https://github.com/immich-app/immich/releases/download/v3.3.3/app-armeabi-v7a-release.apk"
+      "size": 63974805,
+      "url": "https://github.com/immich-app/immich/releases/download/v3.3.6/app-armeabi-v7a-release.apk"
     },
     {
       "name": "app-arm64-v8a-release.apk",
-      "size": 69260129,
-      "url": "https://github.com/immich-app/immich/releases/download/v3.3.3/app-arm64-v8a-release.apk"
+      "size": 69260133,
+      "url": "https://github.com/immich-app/immich/releases/download/v3.3.6/app-arm64-v8a-release.apk"
     }
   ],
   "pinned": false,

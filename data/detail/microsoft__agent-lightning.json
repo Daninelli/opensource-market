@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/microsoft/agent-lightning/zip/refs/heads/main",
   "release": {
-    "tag": "v1.0.2",
-    "name": "Agent Lightning v1.0.2",
-    "published": "2026-09-29T08:28:15Z",
-    "url": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.2"
+    "tag": "v1.0.3",
+    "name": "Agent Lightning v1.0.3",
+    "published": "2026-11-03T08:47:17Z",
+    "url": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.3"
   },
   "assets": [],
   "pinned": false,

@@ -21,16 +21,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/chamilo/chamilo-lms/zip/refs/heads/master",
   "release": {
-    "tag": "v3.0.1",
-    "name": "v3.0.1",
-    "published": "2026-09-19T00:40:14Z",
-    "url": "https://github.com/chamilo/chamilo-lms/releases/tag/v3.0.1"
+    "tag": "v3.0.2",
+    "name": "v3.0.2",
+    "published": "2026-11-03T22:44:03Z",
+    "url": "https://github.com/chamilo/chamilo-lms/releases/tag/v3.0.2"
   },
   "assets": [
     {
-      "name": "chamilo-3.0.1.zip",
-      "size": 247485093,
-      "url": "https://github.com/chamilo/chamilo-lms/releases/download/v3.0.1/chamilo-3.0.1.zip"
+      "name": "chamilo-3.0.2.zip",
+      "size": 247489943,
+      "url": "https://github.com/chamilo/chamilo-lms/releases/download/v3.0.2/chamilo-3.0.2.zip"
     }
   ],
   "pinned": false,

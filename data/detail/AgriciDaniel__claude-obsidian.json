@@ -21,16 +21,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/AgriciDaniel/claude-obsidian/zip/refs/heads/main",
   "release": {
-    "tag": "v2.2.0",
-    "name": "Claude Obsidian v2.2.0 - Backlog Triage",
-    "published": "2026-09-10T14:49:12Z",
-    "url": "https://github.com/AgriciDaniel/claude-obsidian/releases/tag/v2.2.0"
+    "tag": "v3.0.1",
+    "name": "Claude Obsidian v3.0.1 - Original Plugin Name Restored",
+    "published": "2026-10-21T18:06:25Z",
+    "url": "https://github.com/AgriciDaniel/claude-obsidian/releases/tag/v3.0.1"
   },
   "assets": [
     {
-      "name": "claude-obsidian-v2.2.0.zip",
-      "size": 3145865,
-      "url": "https://github.com/AgriciDaniel/claude-obsidian/releases/download/v2.2.0/claude-obsidian-v2.2.0.zip"
+      "name": "claude-obsidian-v3.0.1.zip",
+      "size": 3947350,
+      "url": "https://github.com/AgriciDaniel/claude-obsidian/releases/download/v3.0.1/claude-obsidian-v3.0.1.zip"
     }
   ],
   "pinned": false,

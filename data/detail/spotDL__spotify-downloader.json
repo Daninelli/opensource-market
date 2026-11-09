@@ -22,31 +22,31 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/spotDL/spotify-downloader/zip/refs/heads/master",
   "release": {
-    "tag": "v4.5.2",
-    "name": "v4.5.2 - hotfix",
-    "published": "2026-07-20T10:07:30Z",
-    "url": "https://github.com/spotDL/spotify-downloader/releases/tag/v4.5.2"
+    "tag": "v4.6.0",
+    "name": "v4.6.0",
+    "published": "2026-10-26T03:47:47Z",
+    "url": "https://github.com/spotDL/spotify-downloader/releases/tag/v4.6.0"
   },
   "assets": [
     {
-      "name": "spotdl-4.5.2-darwin",
-      "size": 42453152,
-      "url": "https://github.com/spotDL/spotify-downloader/releases/download/v4.5.2/spotdl-4.5.2-darwin"
+      "name": "spotdl-4.6.0-darwin",
+      "size": 44141136,
+      "url": "https://github.com/spotDL/spotify-downloader/releases/download/v4.6.0/spotdl-4.6.0-darwin"
     },
     {
-      "name": "spotdl-4.5.2-win32.exe",
-      "size": 45970977,
-      "url": "https://github.com/spotDL/spotify-downloader/releases/download/v4.5.2/spotdl-4.5.2-win32.exe"
+      "name": "spotdl-4.6.0-win32.exe",
+      "size": 46939120,
+      "url": "https://github.com/spotDL/spotify-downloader/releases/download/v4.6.0/spotdl-4.6.0-win32.exe"
     },
     {
-      "name": "spotdl-4.5.2-linux",
-      "size": 75407960,
-      "url": "https://github.com/spotDL/spotify-downloader/releases/download/v4.5.2/spotdl-4.5.2-linux"
+      "name": "spotdl-4.6.0-linux",
+      "size": 80516912,
+      "url": "https://github.com/spotDL/spotify-downloader/releases/download/v4.6.0/spotdl-4.6.0-linux"
     },
     {
       "name": "spotDL",
-      "size": 116207,
-      "url": "https://github.com/spotDL/spotify-downloader/releases/download/v4.5.2/spotDL"
+      "size": 119542,
+      "url": "https://github.com/spotDL/spotify-downloader/releases/download/v4.6.0/spotDL"
     }
   ],
   "pinned": false,

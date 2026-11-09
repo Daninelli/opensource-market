@@ -20,51 +20,46 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/saltstack/salt/zip/refs/heads/master",
   "release": {
-    "tag": "v3008.3",
-    "name": "v3008.3",
-    "published": "2026-09-30T21:19:42Z",
-    "url": "https://github.com/saltstack/salt/releases/tag/v3008.3"
+    "tag": "v3007.17",
+    "name": "v3007.17",
+    "published": "2026-10-27T00:26:30Z",
+    "url": "https://github.com/saltstack/salt/releases/tag/v3007.17"
   },
   "assets": [
     {
-      "name": "salt-3008.3-py3-x86_64.pkg",
-      "size": 35012598,
-      "url": "https://github.com/saltstack/salt/releases/download/v3008.3/salt-3008.3-py3-x86_64.pkg"
+      "name": "salt-3007.17-onedir-macos-x86_64.tar.xz",
+      "size": 23843736,
+      "url": "https://github.com/saltstack/salt/releases/download/v3007.17/salt-3007.17-onedir-macos-x86_64.tar.xz"
     },
     {
-      "name": "salt-3008.3-py3-arm64.pkg",
-      "size": 35064998,
-      "url": "https://github.com/saltstack/salt/releases/download/v3008.3/salt-3008.3-py3-arm64.pkg"
+      "name": "salt-3007.17-onedir-macos-arm64.tar.xz",
+      "size": 23984348,
+      "url": "https://github.com/saltstack/salt/releases/download/v3007.17/salt-3007.17-onedir-macos-arm64.tar.xz"
     },
     {
-      "name": "Salt-Minion-3008.3-Py3-AMD64.msi",
-      "size": 45318144,
-      "url": "https://github.com/saltstack/salt/releases/download/v3008.3/Salt-Minion-3008.3-Py3-AMD64.msi"
+      "name": "salt-3007.17-onedir-windows-x86.zip",
+      "size": 46830882,
+      "url": "https://github.com/saltstack/salt/releases/download/v3007.17/salt-3007.17-onedir-windows-x86.zip"
     },
     {
-      "name": "salt-3008.3-onedir-windows-amd64.zip",
-      "size": 51378351,
-      "url": "https://github.com/saltstack/salt/releases/download/v3008.3/salt-3008.3-onedir-windows-amd64.zip"
+      "name": "salt-ssh-3007.17-0.x86_64.rpm",
+      "size": 156656,
+      "url": "https://github.com/saltstack/salt/releases/download/v3007.17/salt-ssh-3007.17-0.x86_64.rpm"
     },
     {
-      "name": "salt-ssh-3008.3-0.aarch64.rpm",
-      "size": 195025,
-      "url": "https://github.com/saltstack/salt/releases/download/v3008.3/salt-ssh-3008.3-0.aarch64.rpm"
+      "name": "salt-api-3007.17-0.x86_64.rpm",
+      "size": 158012,
+      "url": "https://github.com/saltstack/salt/releases/download/v3007.17/salt-api-3007.17-0.x86_64.rpm"
     },
     {
-      "name": "salt-ssh-3008.3-0.x86_64.rpm",
-      "size": 195061,
-      "url": "https://github.com/saltstack/salt/releases/download/v3008.3/salt-ssh-3008.3-0.x86_64.rpm"
+      "name": "salt-3007.17-docs-html.tar.xz",
+      "size": 8893312,
+      "url": "https://github.com/saltstack/salt/releases/download/v3007.17/salt-3007.17-docs-html.tar.xz"
     },
     {
-      "name": "salt-3008.3.patch",
-      "size": 589967,
-      "url": "https://github.com/saltstack/salt/releases/download/v3008.3/salt-3008.3.patch"
-    },
-    {
-      "name": "salt-3008.3-docs-html.tar.xz",
-      "size": 7695532,
-      "url": "https://github.com/saltstack/salt/releases/download/v3008.3/salt-3008.3-docs-html.tar.xz"
+      "name": "salt-3007.17.tar.gz",
+      "size": 17072067,
+      "url": "https://github.com/saltstack/salt/releases/download/v3007.17/salt-3007.17.tar.gz"
     }
   ],
   "pinned": false,

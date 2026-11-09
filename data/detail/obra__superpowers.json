@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/obra/superpowers/zip/refs/heads/main",
   "release": {
-    "tag": "v7.0.0",
-    "name": "v7.0.0",
-    "published": "2026-10-10T00:28:58Z",
-    "url": "https://github.com/obra/superpowers/releases/tag/v7.0.0"
+    "tag": "v7.0.2",
+    "name": "v7.0.2",
+    "published": "2026-11-03T22:17:54Z",
+    "url": "https://github.com/obra/superpowers/releases/tag/v7.0.2"
   },
   "assets": [],
   "pinned": false,

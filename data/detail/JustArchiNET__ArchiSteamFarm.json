@@ -22,41 +22,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/JustArchiNET/ArchiSteamFarm/zip/refs/heads/main",
   "release": {
-    "tag": "6.3.10.6",
-    "name": "ArchiSteamFarm V6.3.10.6",
-    "published": "2026-10-14T08:17:26Z",
-    "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/tag/6.3.10.6"
+    "tag": "6.3.11.7",
+    "name": "ArchiSteamFarm V6.3.11.7",
+    "published": "2026-10-25T22:40:45Z",
+    "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/tag/6.3.11.7"
   },
   "assets": [
     {
       "name": "ASF-win-arm64.zip",
-      "size": 19922920,
-      "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.10.6/ASF-win-arm64.zip"
+      "size": 20285415,
+      "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.11.7/ASF-win-arm64.zip"
     },
     {
       "name": "ASF-win-x64.zip",
-      "size": 20144356,
-      "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.10.6/ASF-win-x64.zip"
+      "size": 20510469,
+      "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.11.7/ASF-win-x64.zip"
     },
     {
       "name": "ASF-linux-arm.zip",
-      "size": 18978755,
-      "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.10.6/ASF-linux-arm.zip"
+      "size": 19348383,
+      "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.11.7/ASF-linux-arm.zip"
     },
     {
       "name": "ASF-linux-arm64.zip",
-      "size": 19759797,
-      "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.10.6/ASF-linux-arm64.zip"
+      "size": 20130515,
+      "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.11.7/ASF-linux-arm64.zip"
     },
     {
       "name": "ArchiSteamFarm.OfficialPlugins.Monitoring.zip",
-      "size": 335133,
-      "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.10.6/ArchiSteamFarm.OfficialPlugins.Monitoring.zip"
+      "size": 364879,
+      "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.11.7/ArchiSteamFarm.OfficialPlugins.Monitoring.zip"
     },
     {
       "name": "ASF-generic.zip",
-      "size": 8855195,
-      "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.10.6/ASF-generic.zip"
+      "size": 9308220,
+      "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.11.7/ASF-generic.zip"
     }
   ],
   "pinned": false,

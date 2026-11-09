@@ -20,16 +20,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/tw93/Waza/zip/refs/heads/main",
   "release": {
-    "tag": "v3.40.0",
-    "name": "V3.40.0 Compass 🧭",
-    "published": "2026-10-15T12:55:00Z",
-    "url": "https://github.com/tw93/Waza/releases/tag/v3.40.0"
+    "tag": "v3.41.0",
+    "name": "V3.41.0 Lens 🔍",
+    "published": "2026-10-30T23:47:44Z",
+    "url": "https://github.com/tw93/Waza/releases/tag/v3.41.0"
   },
   "assets": [
     {
       "name": "waza.zip",
-      "size": 343652,
-      "url": "https://github.com/tw93/Waza/releases/download/v3.40.0/waza.zip"
+      "size": 357504,
+      "url": "https://github.com/tw93/Waza/releases/download/v3.41.0/waza.zip"
     }
   ],
   "pinned": false,

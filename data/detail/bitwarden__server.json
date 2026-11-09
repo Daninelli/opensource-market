@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/bitwarden/server/zip/refs/heads/main",
   "release": {
-    "tag": "v2026.10.0",
-    "name": "Version 2026.10.0",
-    "published": "2026-10-14T00:26:48Z",
-    "url": "https://github.com/bitwarden/server/releases/tag/v2026.10.0"
+    "tag": "v2026.10.1",
+    "name": "Version 2026.10.1",
+    "published": "2026-10-28T00:45:02Z",
+    "url": "https://github.com/bitwarden/server/releases/tag/v2026.10.1"
   },
   "assets": [],
   "pinned": false,

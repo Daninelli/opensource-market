@@ -23,10 +23,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/twentyhq/twenty/zip/refs/heads/main",
   "release": {
-    "tag": "sdk/v2.49.0",
-    "name": "sdk/v2.49.0",
-    "published": "2026-10-19T14:53:16Z",
-    "url": "https://github.com/twentyhq/twenty/releases/tag/sdk/v2.49.0"
+    "tag": "twenty/v2.56.1",
+    "name": "twenty/v2.56.1",
+    "published": "2026-11-05T22:36:57Z",
+    "url": "https://github.com/twentyhq/twenty/releases/tag/twenty/v2.56.1"
   },
   "assets": [],
   "pinned": false,

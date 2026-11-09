@@ -20,21 +20,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/dgraph-io/dgraph/zip/refs/heads/main",
   "release": {
-    "tag": "v25.5.0",
-    "name": "v25.5.0",
-    "published": "2026-10-13T19:37:37Z",
-    "url": "https://github.com/dgraph-io/dgraph/releases/tag/v25.5.0"
+    "tag": "v25.5.1",
+    "name": "v25.5.1",
+    "published": "2026-10-22T15:56:09Z",
+    "url": "https://github.com/dgraph-io/dgraph/releases/tag/v25.5.1"
   },
   "assets": [
     {
       "name": "dgraph-linux-arm64.tar.gz",
-      "size": 35918510,
-      "url": "https://github.com/dgraph-io/dgraph/releases/download/v25.5.0/dgraph-linux-arm64.tar.gz"
+      "size": 35934238,
+      "url": "https://github.com/dgraph-io/dgraph/releases/download/v25.5.1/dgraph-linux-arm64.tar.gz"
     },
     {
       "name": "dgraph-linux-amd64.tar.gz",
-      "size": 38937325,
-      "url": "https://github.com/dgraph-io/dgraph/releases/download/v25.5.0/dgraph-linux-amd64.tar.gz"
+      "size": 38949993,
+      "url": "https://github.com/dgraph-io/dgraph/releases/download/v25.5.1/dgraph-linux-amd64.tar.gz"
     }
   ],
   "pinned": false,

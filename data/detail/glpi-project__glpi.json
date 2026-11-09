@@ -21,16 +21,16 @@
   "default_branch": "12.0/bugfixes",
   "download_url": "https://codeload.github.com/glpi-project/glpi/zip/refs/heads/12.0%2Fbugfixes",
   "release": {
-    "tag": "12.0.0",
-    "name": "12.0.0",
-    "published": "2026-10-07T12:12:42Z",
-    "url": "https://github.com/glpi-project/glpi/releases/tag/12.0.0"
+    "tag": "12.0.1",
+    "name": "12.0.1",
+    "published": "2026-10-28T11:08:24Z",
+    "url": "https://github.com/glpi-project/glpi/releases/tag/12.0.1"
   },
   "assets": [
     {
-      "name": "glpi-12.0.0.tgz",
-      "size": 113180140,
-      "url": "https://github.com/glpi-project/glpi/releases/download/12.0.0/glpi-12.0.0.tgz"
+      "name": "glpi-12.0.1.tgz",
+      "size": 113412425,
+      "url": "https://github.com/glpi-project/glpi/releases/download/12.0.1/glpi-12.0.1.tgz"
     }
   ],
   "pinned": false,

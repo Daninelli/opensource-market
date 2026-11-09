@@ -20,12 +20,18 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/every-app/open-seo/zip/refs/heads/main",
   "release": {
-    "tag": "v0.1.14",
-    "name": "v0.1.14",
-    "published": "2026-10-19T20:16:37Z",
-    "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.14"
+    "tag": "v0.1.26",
+    "name": "v0.1.26",
+    "published": "2026-11-07T00:46:08Z",
+    "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.26"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "everyapp-release.tar.gz",
+      "size": 10608387,
+      "url": "https://github.com/every-app/open-seo/releases/download/v0.1.26/everyapp-release.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

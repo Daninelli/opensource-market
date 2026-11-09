@@ -21,41 +21,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/xushengfeng/eSearch/zip/refs/heads/master",
   "release": {
-    "tag": "15.6.0",
-    "name": "15.6.0",
-    "published": "2026-10-03T05:37:45Z",
-    "url": "https://github.com/xushengfeng/eSearch/releases/tag/15.6.0"
+    "tag": "15.7.1",
+    "name": "15.7.1",
+    "published": "2026-11-04T08:30:55Z",
+    "url": "https://github.com/xushengfeng/eSearch/releases/tag/15.7.1"
   },
   "assets": [
     {
-      "name": "eSearch-15.6.0-win32-arm64.exe",
-      "size": 155335086,
-      "url": "https://github.com/xushengfeng/eSearch/releases/download/15.6.0/eSearch-15.6.0-win32-arm64.exe"
+      "name": "eSearch-15.7.1-win32-arm64.exe",
+      "size": 155767244,
+      "url": "https://github.com/xushengfeng/eSearch/releases/download/15.7.1/eSearch-15.7.1-win32-arm64.exe"
     },
     {
-      "name": "eSearch-15.6.0-darwin-x64.zip",
-      "size": 176035509,
-      "url": "https://github.com/xushengfeng/eSearch/releases/download/15.6.0/eSearch-15.6.0-darwin-x64.zip"
+      "name": "eSearch-15.7.1-win32-x64.exe",
+      "size": 159466912,
+      "url": "https://github.com/xushengfeng/eSearch/releases/download/15.7.1/eSearch-15.7.1-win32-x64.exe"
     },
     {
-      "name": "eSearch-15.6.0-darwin-x64.dmg",
-      "size": 180086008,
-      "url": "https://github.com/xushengfeng/eSearch/releases/download/15.6.0/eSearch-15.6.0-darwin-x64.dmg"
+      "name": "eSearch-15.7.1-darwin-x64.zip",
+      "size": 159700533,
+      "url": "https://github.com/xushengfeng/eSearch/releases/download/15.7.1/eSearch-15.7.1-darwin-x64.zip"
     },
     {
-      "name": "eSearch-15.6.0-win32-x64.exe",
-      "size": 191962215,
-      "url": "https://github.com/xushengfeng/eSearch/releases/download/15.6.0/eSearch-15.6.0-win32-x64.exe"
+      "name": "eSearch-15.7.1-darwin-x64.dmg",
+      "size": 163299931,
+      "url": "https://github.com/xushengfeng/eSearch/releases/download/15.7.1/eSearch-15.7.1-darwin-x64.dmg"
     },
     {
-      "name": "eSearch-15.6.0-linux-arm64.rpm",
-      "size": 125374389,
-      "url": "https://github.com/xushengfeng/eSearch/releases/download/15.6.0/eSearch-15.6.0-linux-arm64.rpm"
+      "name": "eSearch-15.7.1-linux-arm64.rpm",
+      "size": 125751093,
+      "url": "https://github.com/xushengfeng/eSearch/releases/download/15.7.1/eSearch-15.7.1-linux-arm64.rpm"
     },
     {
-      "name": "eSearch-15.6.0-linux-arm64.deb",
-      "size": 137079928,
-      "url": "https://github.com/xushengfeng/eSearch/releases/download/15.6.0/eSearch-15.6.0-linux-arm64.deb"
+      "name": "eSearch-15.7.1-linux-arm64.deb",
+      "size": 137126096,
+      "url": "https://github.com/xushengfeng/eSearch/releases/download/15.7.1/eSearch-15.7.1-linux-arm64.deb"
     }
   ],
   "pinned": false,

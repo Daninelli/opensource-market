@@ -22,31 +22,31 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/thingsboard/thingsboard/zip/refs/heads/master",
   "release": {
-    "tag": "v4.4",
-    "name": "ThingsBoard 4.4 Release",
-    "published": "2026-09-29T08:55:38Z",
-    "url": "https://github.com/thingsboard/thingsboard/releases/tag/v4.4"
+    "tag": "v4.4.0.2",
+    "name": "ThingsBoard 4.4.0.2 Release",
+    "published": "2026-10-30T14:15:12Z",
+    "url": "https://github.com/thingsboard/thingsboard/releases/tag/v4.4.0.2"
   },
   "assets": [
     {
-      "name": "tb-web-report-windows-4.4.zip",
-      "size": 181299644,
-      "url": "https://github.com/thingsboard/thingsboard/releases/download/v4.4/tb-web-report-windows-4.4.zip"
+      "name": "tb-web-report-windows-4.4.0.2.zip",
+      "size": 181299661,
+      "url": "https://github.com/thingsboard/thingsboard/releases/download/v4.4.0.2/tb-web-report-windows-4.4.0.2.zip"
     },
     {
-      "name": "thingsboard-windows-4.4.zip",
-      "size": 591648415,
-      "url": "https://github.com/thingsboard/thingsboard/releases/download/v4.4/thingsboard-windows-4.4.zip"
+      "name": "thingsboard-windows-4.4.0.2.zip",
+      "size": 591655786,
+      "url": "https://github.com/thingsboard/thingsboard/releases/download/v4.4.0.2/thingsboard-windows-4.4.0.2.zip"
     },
     {
-      "name": "tb-pubsub-integration-4.4.deb",
-      "size": 146803876,
-      "url": "https://github.com/thingsboard/thingsboard/releases/download/v4.4/tb-pubsub-integration-4.4.deb"
+      "name": "tb-pubsub-integration-4.4.0.2.deb",
+      "size": 146804208,
+      "url": "https://github.com/thingsboard/thingsboard/releases/download/v4.4.0.2/tb-pubsub-integration-4.4.0.2.deb"
     },
     {
-      "name": "tb-pubsub-integration-4.4.rpm",
-      "size": 146806920,
-      "url": "https://github.com/thingsboard/thingsboard/releases/download/v4.4/tb-pubsub-integration-4.4.rpm"
+      "name": "tb-pubsub-integration-4.4.0.2.rpm",
+      "size": 146807117,
+      "url": "https://github.com/thingsboard/thingsboard/releases/download/v4.4.0.2/tb-pubsub-integration-4.4.0.2.rpm"
     }
   ],
   "pinned": false,

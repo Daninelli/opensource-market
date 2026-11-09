@@ -21,10 +21,10 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/home-assistant/core/zip/refs/heads/dev",
   "release": {
-    "tag": "2026.10.2",
-    "name": "2026.10.2",
-    "published": "2026-10-16T20:04:09Z",
-    "url": "https://github.com/home-assistant/core/releases/tag/2026.10.2"
+    "tag": "2026.11.0",
+    "name": "2026.11.0",
+    "published": "2026-11-04T17:32:55Z",
+    "url": "https://github.com/home-assistant/core/releases/tag/2026.11.0"
   },
   "assets": [],
   "pinned": false,

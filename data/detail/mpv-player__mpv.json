@@ -22,41 +22,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mpv-player/mpv/zip/refs/heads/master",
   "release": {
-    "tag": "v0.41.0",
-    "name": "v0.41.0",
-    "published": "2025-12-21T19:17:10Z",
-    "url": "https://github.com/mpv-player/mpv/releases/tag/v0.41.0"
+    "tag": "v0.42.0",
+    "name": "v0.42.0",
+    "published": "2026-11-05T00:56:42Z",
+    "url": "https://github.com/mpv-player/mpv/releases/tag/v0.42.0"
   },
   "assets": [
     {
-      "name": "mpv-v0.41.0-macos-14-arm.zip",
-      "size": 43693888,
-      "url": "https://github.com/mpv-player/mpv/releases/download/v0.41.0/mpv-v0.41.0-macos-14-arm.zip"
+      "name": "mpv-v0.42.0-aarch64-pc-windows-msvc.zip",
+      "size": 26137532,
+      "url": "https://github.com/mpv-player/mpv/releases/download/v0.42.0/mpv-v0.42.0-aarch64-pc-windows-msvc.zip"
     },
     {
-      "name": "mpv-v0.41.0-macos-26-arm.zip",
-      "size": 43704958,
-      "url": "https://github.com/mpv-player/mpv/releases/download/v0.41.0/mpv-v0.41.0-macos-26-arm.zip"
+      "name": "mpv-v0.42.0-x86_64-pc-windows-msvc.zip",
+      "size": 28696222,
+      "url": "https://github.com/mpv-player/mpv/releases/download/v0.42.0/mpv-v0.42.0-x86_64-pc-windows-msvc.zip"
     },
     {
-      "name": "mpv-v0.41.0-aarch64-pc-windows-msvc.zip",
-      "size": 71498137,
-      "url": "https://github.com/mpv-player/mpv/releases/download/v0.41.0/mpv-v0.41.0-aarch64-pc-windows-msvc.zip"
+      "name": "mpv-v0.42.0-macos-27-arm.zip",
+      "size": 47876256,
+      "url": "https://github.com/mpv-player/mpv/releases/download/v0.42.0/mpv-v0.42.0-macos-27-arm.zip"
     },
     {
-      "name": "mpv-v0.41.0-x86_64-pc-windows-msvc.zip",
-      "size": 77205127,
-      "url": "https://github.com/mpv-player/mpv/releases/download/v0.41.0/mpv-v0.41.0-x86_64-pc-windows-msvc.zip"
+      "name": "mpv-v0.42.0-macos-26-arm.zip",
+      "size": 48315731,
+      "url": "https://github.com/mpv-player/mpv/releases/download/v0.42.0/mpv-v0.42.0-macos-26-arm.zip"
     },
     {
-      "name": "mpv-v0.41.0-i686-w64-mingw32.zip",
-      "size": 35194752,
-      "url": "https://github.com/mpv-player/mpv/releases/download/v0.41.0/mpv-v0.41.0-i686-w64-mingw32.zip"
+      "name": "libmpv-v0.42.0-aarch64-w64-mingw32-lgpl.zip",
+      "size": 40252796,
+      "url": "https://github.com/mpv-player/mpv/releases/download/v0.42.0/libmpv-v0.42.0-aarch64-w64-mingw32-lgpl.zip"
     },
     {
-      "name": "mpv-v0.41.0-x86_64-w64-mingw32.zip",
-      "size": 39002683,
-      "url": "https://github.com/mpv-player/mpv/releases/download/v0.41.0/mpv-v0.41.0-x86_64-w64-mingw32.zip"
+      "name": "mpv-v0.42.0-i686-w64-mingw32.zip",
+      "size": 40830016,
+      "url": "https://github.com/mpv-player/mpv/releases/download/v0.42.0/mpv-v0.42.0-i686-w64-mingw32.zip"
     }
   ],
   "pinned": false,

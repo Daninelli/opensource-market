@@ -22,51 +22,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/XTLS/Xray-core/zip/refs/heads/main",
   "release": {
-    "tag": "v26.3.27",
-    "name": "Xray-core v26.3.27",
-    "published": "2026-03-27T17:51:11Z",
-    "url": "https://github.com/XTLS/Xray-core/releases/tag/v26.3.27"
+    "tag": "v26.11.9",
+    "name": "Xray-core v26.11.9",
+    "published": "2026-11-09T05:31:16Z",
+    "url": "https://github.com/XTLS/Xray-core/releases/tag/v26.11.9"
   },
   "assets": [
     {
       "name": "Xray-windows-arm64-v8a.zip",
-      "size": 19316452,
-      "url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-windows-arm64-v8a.zip"
+      "size": 15008516,
+      "url": "https://github.com/XTLS/Xray-core/releases/download/v26.11.9/Xray-windows-arm64-v8a.zip"
     },
     {
-      "name": "Xray-win7-32.zip",
-      "size": 20471928,
-      "url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-win7-32.zip"
+      "name": "Xray-macos-arm64-v8a.zip",
+      "size": 15319055,
+      "url": "https://github.com/XTLS/Xray-core/releases/download/v26.11.9/Xray-macos-arm64-v8a.zip"
+    },
+    {
+      "name": "Xray-windows-32.zip",
+      "size": 16380276,
+      "url": "https://github.com/XTLS/Xray-core/releases/download/v26.11.9/Xray-windows-32.zip"
     },
     {
       "name": "Xray-macos-64.zip",
-      "size": 20755142,
-      "url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-macos-64.zip"
+      "size": 16509590,
+      "url": "https://github.com/XTLS/Xray-core/releases/download/v26.11.9/Xray-macos-64.zip"
     },
     {
-      "name": "Xray-linux-mips64.zip",
-      "size": 19149355,
-      "url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-mips64.zip"
+      "name": "Xray-linux-ppc64le.zip",
+      "size": 15330651,
+      "url": "https://github.com/XTLS/Xray-core/releases/download/v26.11.9/Xray-linux-ppc64le.zip"
     },
     {
-      "name": "Xray-linux-ppc64.zip",
-      "size": 19746199,
-      "url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-ppc64.zip"
-    },
-    {
-      "name": "Xray-android-arm64-v8a.zip",
-      "size": 19883196,
-      "url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-android-arm64-v8a.zip"
+      "name": "Xray-linux-loong64.zip",
+      "size": 15850075,
+      "url": "https://github.com/XTLS/Xray-core/releases/download/v26.11.9/Xray-linux-loong64.zip"
     },
     {
       "name": "Xray-android-amd64.zip",
-      "size": 20991909,
-      "url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-android-amd64.zip"
+      "size": 16900215,
+      "url": "https://github.com/XTLS/Xray-core/releases/download/v26.11.9/Xray-android-amd64.zip"
     },
     {
-      "name": "Xray-freebsd-arm64-v8a.zip",
-      "size": 19082741,
-      "url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-freebsd-arm64-v8a.zip"
+      "name": "Xray-openbsd-arm64-v8a.zip",
+      "size": 14654316,
+      "url": "https://github.com/XTLS/Xray-core/releases/download/v26.11.9/Xray-openbsd-arm64-v8a.zip"
     }
   ],
   "pinned": false,

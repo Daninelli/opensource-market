@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/LemmyNet/lemmy/zip/refs/heads/main",
   "release": {
-    "tag": "0.19.20",
-    "name": "0.19.20",
-    "published": "2026-07-21T12:17:34Z",
-    "url": "https://github.com/LemmyNet/lemmy/releases/tag/0.19.20"
+    "tag": "0.19.21",
+    "name": "0.19.21",
+    "published": "2026-10-26T13:48:58Z",
+    "url": "https://github.com/LemmyNet/lemmy/releases/tag/0.19.21"
   },
   "assets": [],
   "pinned": false,

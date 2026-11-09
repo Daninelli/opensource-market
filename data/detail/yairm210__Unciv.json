@@ -21,41 +21,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/yairm210/Unciv/zip/refs/heads/master",
   "release": {
-    "tag": "4.22.12",
-    "name": "4.22.12",
-    "published": "2026-10-18T14:39:16Z",
-    "url": "https://github.com/yairm210/Unciv/releases/tag/4.22.12"
+    "tag": "4.22.18-patch1",
+    "name": "4.22.18-patch1",
+    "published": "2026-11-09T03:59:23Z",
+    "url": "https://github.com/yairm210/Unciv/releases/tag/4.22.18-patch1"
   },
   "assets": [
     {
       "name": "Unciv.msi",
-      "size": 90038491,
-      "url": "https://github.com/yairm210/Unciv/releases/download/4.22.12/Unciv.msi"
+      "size": 90231003,
+      "url": "https://github.com/yairm210/Unciv/releases/download/4.22.18-patch1/Unciv.msi"
     },
     {
       "name": "Unciv-Windows64.zip",
-      "size": 104808662,
-      "url": "https://github.com/yairm210/Unciv/releases/download/4.22.12/Unciv-Windows64.zip"
+      "size": 105051287,
+      "url": "https://github.com/yairm210/Unciv/releases/download/4.22.18-patch1/Unciv-Windows64.zip"
     },
     {
       "name": "Unciv-Linux64.zip",
-      "size": 108683517,
-      "url": "https://github.com/yairm210/Unciv/releases/download/4.22.12/Unciv-Linux64.zip"
+      "size": 108934696,
+      "url": "https://github.com/yairm210/Unciv/releases/download/4.22.18-patch1/Unciv-Linux64.zip"
     },
     {
       "name": "Unciv-signed.apk",
-      "size": 27539745,
-      "url": "https://github.com/yairm210/Unciv/releases/download/4.22.12/Unciv-signed.apk"
+      "size": 27601185,
+      "url": "https://github.com/yairm210/Unciv/releases/download/4.22.18-patch1/Unciv-signed.apk"
     },
     {
       "name": "UncivServer.jar",
-      "size": 22840481,
-      "url": "https://github.com/yairm210/Unciv/releases/download/4.22.12/UncivServer.jar"
+      "size": 22840487,
+      "url": "https://github.com/yairm210/Unciv/releases/download/4.22.18-patch1/UncivServer.jar"
     },
     {
       "name": "Unciv.jar",
-      "size": 57831917,
-      "url": "https://github.com/yairm210/Unciv/releases/download/4.22.12/Unciv.jar"
+      "size": 57974847,
+      "url": "https://github.com/yairm210/Unciv/releases/download/4.22.18-patch1/Unciv.jar"
     }
   ],
   "pinned": false,

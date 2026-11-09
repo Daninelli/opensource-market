@@ -21,31 +21,31 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/evcc-io/evcc/zip/refs/heads/master",
   "release": {
-    "tag": "0.317.2",
-    "name": "0.317.2",
-    "published": "2026-10-17T10:05:06Z",
-    "url": "https://github.com/evcc-io/evcc/releases/tag/0.317.2"
+    "tag": "0.319.0",
+    "name": "0.319.0",
+    "published": "2026-11-08T10:30:44Z",
+    "url": "https://github.com/evcc-io/evcc/releases/tag/0.319.0"
   },
   "assets": [
     {
-      "name": "evcc_0.317.2_windows-amd64.zip",
-      "size": 30924718,
-      "url": "https://github.com/evcc-io/evcc/releases/download/0.317.2/evcc_0.317.2_windows-amd64.zip"
+      "name": "evcc_0.319.0_windows-amd64.zip",
+      "size": 30388631,
+      "url": "https://github.com/evcc-io/evcc/releases/download/0.319.0/evcc_0.319.0_windows-amd64.zip"
     },
     {
-      "name": "evcc_0.317.2_macOS-all.tar.gz",
-      "size": 60881952,
-      "url": "https://github.com/evcc-io/evcc/releases/download/0.317.2/evcc_0.317.2_macOS-all.tar.gz"
+      "name": "evcc_0.319.0_macOS-all.tar.gz",
+      "size": 59844003,
+      "url": "https://github.com/evcc-io/evcc/releases/download/0.319.0/evcc_0.319.0_macOS-all.tar.gz"
     },
     {
-      "name": "evcc_0.317.2_arm64.deb",
-      "size": 28152096,
-      "url": "https://github.com/evcc-io/evcc/releases/download/0.317.2/evcc_0.317.2_arm64.deb"
+      "name": "evcc_0.319.0_arm64.deb",
+      "size": 27740362,
+      "url": "https://github.com/evcc-io/evcc/releases/download/0.319.0/evcc_0.319.0_arm64.deb"
     },
     {
-      "name": "evcc_0.317.2_linux-arm64.tar.gz",
-      "size": 28155160,
-      "url": "https://github.com/evcc-io/evcc/releases/download/0.317.2/evcc_0.317.2_linux-arm64.tar.gz"
+      "name": "evcc_0.319.0_linux-arm64.tar.gz",
+      "size": 27741312,
+      "url": "https://github.com/evcc-io/evcc/releases/download/0.319.0/evcc_0.319.0_linux-arm64.tar.gz"
     }
   ],
   "pinned": false,

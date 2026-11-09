@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/withastro/astro/zip/refs/heads/main",
   "release": {
-    "tag": "@astrojs/vue@7.1.1",
-    "name": "@astrojs/vue@7.1.1",
-    "published": "2026-10-19T14:11:20Z",
-    "url": "https://github.com/withastro/astro/releases/tag/%40astrojs/vue%407.1.1"
+    "tag": "@astrojs/vercel@11.0.20",
+    "name": "@astrojs/vercel@11.0.20",
+    "published": "2026-11-05T19:58:13Z",
+    "url": "https://github.com/withastro/astro/releases/tag/%40astrojs/vercel%4011.0.20"
   },
   "assets": [],
   "pinned": false,

@@ -21,51 +21,51 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/radareorg/radare2/zip/refs/heads/master",
   "release": {
-    "tag": "6.2.4",
-    "name": "6.2.4",
-    "published": "2026-10-05T19:52:50Z",
-    "url": "https://github.com/radareorg/radare2/releases/tag/6.2.4"
+    "tag": "6.2.6",
+    "name": "6.2.6",
+    "published": "2026-11-05T18:32:14Z",
+    "url": "https://github.com/radareorg/radare2/releases/tag/6.2.6"
   },
   "assets": [
     {
-      "name": "radare2-arm64-6.2.4.pkg",
-      "size": 11514888,
-      "url": "https://github.com/radareorg/radare2/releases/download/6.2.4/radare2-arm64-6.2.4.pkg"
+      "name": "radare2-arm64-6.2.6.pkg",
+      "size": 11806329,
+      "url": "https://github.com/radareorg/radare2/releases/download/6.2.6/radare2-arm64-6.2.6.pkg"
     },
     {
-      "name": "radare2-x64-6.2.4.pkg",
-      "size": 11795598,
-      "url": "https://github.com/radareorg/radare2/releases/download/6.2.4/radare2-x64-6.2.4.pkg"
+      "name": "radare2-x64-6.2.6.pkg",
+      "size": 12088755,
+      "url": "https://github.com/radareorg/radare2/releases/download/6.2.6/radare2-x64-6.2.6.pkg"
     },
     {
-      "name": "radare2-dev_6.2.4_i386.deb",
-      "size": 258432,
-      "url": "https://github.com/radareorg/radare2/releases/download/6.2.4/radare2-dev_6.2.4_i386.deb"
+      "name": "radare2-dev_6.2.6_arm64.deb",
+      "size": 261688,
+      "url": "https://github.com/radareorg/radare2/releases/download/6.2.6/radare2-dev_6.2.6_arm64.deb"
     },
     {
-      "name": "radare2-dev_6.2.4_amd64.deb",
-      "size": 258524,
-      "url": "https://github.com/radareorg/radare2/releases/download/6.2.4/radare2-dev_6.2.4_amd64.deb"
+      "name": "radare2-dev_6.2.6_i386.deb",
+      "size": 261976,
+      "url": "https://github.com/radareorg/radare2/releases/download/6.2.6/radare2-dev_6.2.6_i386.deb"
     },
     {
-      "name": "radare2-6.2.4-android-aarch64.tar.gz",
-      "size": 24523165,
-      "url": "https://github.com/radareorg/radare2/releases/download/6.2.4/radare2-6.2.4-android-aarch64.tar.gz"
+      "name": "radare2-6.2.6-android-aarch64.tar.gz",
+      "size": 25735224,
+      "url": "https://github.com/radareorg/radare2/releases/download/6.2.6/radare2-6.2.6-android-aarch64.tar.gz"
     },
     {
-      "name": "radare2-6.2.4-android-arm.tar.gz",
-      "size": 25149754,
-      "url": "https://github.com/radareorg/radare2/releases/download/6.2.4/radare2-6.2.4-android-arm.tar.gz"
+      "name": "radare2-6.2.6-android-arm.tar.gz",
+      "size": 26383690,
+      "url": "https://github.com/radareorg/radare2/releases/download/6.2.6/radare2-6.2.6-android-arm.tar.gz"
     },
     {
-      "name": "r2blob-6.2.4-w64.zip",
-      "size": 7358196,
-      "url": "https://github.com/radareorg/radare2/releases/download/6.2.4/r2blob-6.2.4-w64.zip"
+      "name": "r2blob-6.2.6-w64.zip",
+      "size": 7598201,
+      "url": "https://github.com/radareorg/radare2/releases/download/6.2.6/r2blob-6.2.6-w64.zip"
     },
     {
-      "name": "radare2-6.2.4-w32.zip",
-      "size": 12693533,
-      "url": "https://github.com/radareorg/radare2/releases/download/6.2.4/radare2-6.2.4-w32.zip"
+      "name": "radare2-6.2.6-w32.zip",
+      "size": 12993034,
+      "url": "https://github.com/radareorg/radare2/releases/download/6.2.6/radare2-6.2.6-w32.zip"
     }
   ],
   "pinned": false,

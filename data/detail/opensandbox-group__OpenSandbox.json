@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/opensandbox-group/OpenSandbox/zip/refs/heads/main",
   "release": {
-    "tag": "release-1.1.1",
-    "name": "OpenSandbox 1.1.1",
-    "published": "2026-10-09T15:09:23Z",
-    "url": "https://github.com/opensandbox-group/OpenSandbox/releases/tag/release-1.1.1"
+    "tag": "release-1.2.0",
+    "name": "OpenSandbox 1.2.0",
+    "published": "2026-10-27T12:50:49Z",
+    "url": "https://github.com/opensandbox-group/OpenSandbox/releases/tag/release-1.2.0"
   },
   "assets": [],
   "pinned": false,

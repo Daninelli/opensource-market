@@ -22,41 +22,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/4ian/GDevelop/zip/refs/heads/master",
   "release": {
-    "tag": "v5.6.284",
-    "name": "5.6.284",
-    "published": "2026-10-14T15:31:28Z",
-    "url": "https://github.com/4ian/GDevelop/releases/tag/v5.6.284"
+    "tag": "v5.6.287",
+    "name": "5.6.287",
+    "published": "2026-11-04T15:37:25Z",
+    "url": "https://github.com/4ian/GDevelop/releases/tag/v5.6.287"
   },
   "assets": [
     {
-      "name": "GDevelop-5-Setup-5.6.284.exe",
-      "size": 153481872,
-      "url": "https://github.com/4ian/GDevelop/releases/download/v5.6.284/GDevelop-5-Setup-5.6.284.exe"
+      "name": "GDevelop-5-Setup-5.6.287.exe",
+      "size": 155320784,
+      "url": "https://github.com/4ian/GDevelop/releases/download/v5.6.287/GDevelop-5-Setup-5.6.287.exe"
     },
     {
-      "name": "GDevelop-5-5.6.284-win.zip",
-      "size": 203924574,
-      "url": "https://github.com/4ian/GDevelop/releases/download/v5.6.284/GDevelop-5-5.6.284-win.zip"
+      "name": "GDevelop-5-5.6.287-win.zip",
+      "size": 205188043,
+      "url": "https://github.com/4ian/GDevelop/releases/download/v5.6.287/GDevelop-5-5.6.287-win.zip"
     },
     {
-      "name": "GDevelop-5-5.6.284-universal.dmg",
-      "size": 281612793,
-      "url": "https://github.com/4ian/GDevelop/releases/download/v5.6.284/GDevelop-5-5.6.284-universal.dmg"
+      "name": "GDevelop-5-5.6.287-universal.dmg",
+      "size": 283021742,
+      "url": "https://github.com/4ian/GDevelop/releases/download/v5.6.287/GDevelop-5-5.6.287-universal.dmg"
     },
     {
-      "name": "GDevelop-5-5.6.284-linux.zip",
-      "size": 200128609,
-      "url": "https://github.com/4ian/GDevelop/releases/download/v5.6.284/GDevelop-5-5.6.284-linux.zip"
+      "name": "GDevelop-5-5.6.287-linux.zip",
+      "size": 201502854,
+      "url": "https://github.com/4ian/GDevelop/releases/download/v5.6.287/GDevelop-5-5.6.287-linux.zip"
     },
     {
-      "name": "GDevelop-5-5.6.284.AppImage",
-      "size": 210094225,
-      "url": "https://github.com/4ian/GDevelop/releases/download/v5.6.284/GDevelop-5-5.6.284.AppImage"
+      "name": "GDevelop-5-5.6.287.AppImage",
+      "size": 211565221,
+      "url": "https://github.com/4ian/GDevelop/releases/download/v5.6.287/GDevelop-5-5.6.287.AppImage"
     },
     {
-      "name": "GDevelop-5-5.6.284-universal-mac.zip",
-      "size": 271439290,
-      "url": "https://github.com/4ian/GDevelop/releases/download/v5.6.284/GDevelop-5-5.6.284-universal-mac.zip"
+      "name": "GDevelop-5-5.6.287-universal-mac.zip",
+      "size": 272813446,
+      "url": "https://github.com/4ian/GDevelop/releases/download/v5.6.287/GDevelop-5-5.6.287-universal-mac.zip"
     }
   ],
   "pinned": false,

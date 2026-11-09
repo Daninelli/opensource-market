@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/aden-hive/hive/zip/refs/heads/main",
   "release": {
-    "tag": "v1.0.11",
-    "name": "v1.0.11",
-    "published": "2026-10-19T19:37:39Z",
-    "url": "https://github.com/aden-hive/hive/releases/tag/v1.0.11"
+    "tag": "v1.0.14",
+    "name": "v1.0.14",
+    "published": "2026-11-02T10:09:11Z",
+    "url": "https://github.com/aden-hive/hive/releases/tag/v1.0.14"
   },
   "assets": [],
   "pinned": false,

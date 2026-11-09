@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/caprover/caprover/zip/refs/heads/master",
   "release": {
-    "tag": "v1.15.4",
-    "name": "v1.15.4",
-    "published": "2026-08-30T22:41:34Z",
-    "url": "https://github.com/caprover/caprover/releases/tag/v1.15.4"
+    "tag": "v1.16.0",
+    "name": "v1.16.0",
+    "published": "2026-11-03T21:58:50Z",
+    "url": "https://github.com/caprover/caprover/releases/tag/v1.16.0"
   },
   "assets": [],
   "pinned": false,

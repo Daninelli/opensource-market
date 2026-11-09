@@ -20,21 +20,21 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Vinzent03/obsidian-git/zip/refs/heads/master",
   "release": {
-    "tag": "2.42.0",
-    "name": "2.42.0",
-    "published": "2026-10-18T15:40:36Z",
-    "url": "https://github.com/Vinzent03/obsidian-git/releases/tag/2.42.0"
+    "tag": "2.43.0",
+    "name": "2.43.0",
+    "published": "2026-11-05T02:04:20Z",
+    "url": "https://github.com/Vinzent03/obsidian-git/releases/tag/2.43.0"
   },
   "assets": [
     {
-      "name": "obsidian-git-2.42.0.zip",
-      "size": 259901,
-      "url": "https://github.com/Vinzent03/obsidian-git/releases/download/2.42.0/obsidian-git-2.42.0.zip"
+      "name": "obsidian-git-2.43.0.zip",
+      "size": 261522,
+      "url": "https://github.com/Vinzent03/obsidian-git/releases/download/2.43.0/obsidian-git-2.43.0.zip"
     },
     {
       "name": "main.js",
-      "size": 813552,
-      "url": "https://github.com/Vinzent03/obsidian-git/releases/download/2.42.0/main.js"
+      "size": 818811,
+      "url": "https://github.com/Vinzent03/obsidian-git/releases/download/2.43.0/main.js"
     }
   ],
   "pinned": false,

@@ -22,10 +22,10 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/gethomepage/homepage/zip/refs/heads/dev",
   "release": {
-    "tag": "v2.6.0",
-    "name": "v2.6.0",
-    "published": "2026-10-17T05:33:51Z",
-    "url": "https://github.com/gethomepage/homepage/releases/tag/v2.6.0"
+    "tag": "v2.7.0",
+    "name": "v2.7.0",
+    "published": "2026-10-23T15:10:35Z",
+    "url": "https://github.com/gethomepage/homepage/releases/tag/v2.7.0"
   },
   "assets": [],
   "pinned": false,

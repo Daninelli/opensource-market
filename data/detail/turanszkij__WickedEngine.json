@@ -20,16 +20,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/turanszkij/WickedEngine/zip/refs/heads/master",
   "release": {
-    "tag": "v0.72.120",
-    "name": "0.72.120",
-    "published": "2026-10-02T10:02:39Z",
-    "url": "https://github.com/turanszkij/WickedEngine/releases/tag/v0.72.120"
+    "tag": "v0.72.139",
+    "name": "0.72.139",
+    "published": "2026-11-03T06:13:43Z",
+    "url": "https://github.com/turanszkij/WickedEngine/releases/tag/v0.72.139"
   },
   "assets": [
     {
       "name": "Wicked.Engine.zip",
-      "size": 341386380,
-      "url": "https://github.com/turanszkij/WickedEngine/releases/download/v0.72.120/Wicked.Engine.zip"
+      "size": 341439123,
+      "url": "https://github.com/turanszkij/WickedEngine/releases/download/v0.72.139/Wicked.Engine.zip"
     }
   ],
   "pinned": false,

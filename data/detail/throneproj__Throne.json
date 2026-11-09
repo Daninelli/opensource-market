@@ -21,41 +21,41 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/throneproj/Throne/zip/refs/heads/dev",
   "release": {
-    "tag": "1.3.2",
-    "name": "1.3.2",
-    "published": "2026-09-29T20:49:34Z",
-    "url": "https://github.com/throneproj/Throne/releases/tag/1.3.2"
+    "tag": "1.4.1",
+    "name": "1.4.1",
+    "published": "2026-11-06T23:05:33Z",
+    "url": "https://github.com/throneproj/Throne/releases/tag/1.4.1"
   },
   "assets": [
     {
-      "name": "Throne-1.3.2-windows32.zip",
-      "size": 44557992,
-      "url": "https://github.com/throneproj/Throne/releases/download/1.3.2/Throne-1.3.2-windows32.zip"
+      "name": "Throne-1.4.1-windows32.zip",
+      "size": 46469118,
+      "url": "https://github.com/throneproj/Throne/releases/download/1.4.1/Throne-1.4.1-windows32.zip"
     },
     {
-      "name": "Throne-1.3.2-windowslegacy64.zip",
-      "size": 47189687,
-      "url": "https://github.com/throneproj/Throne/releases/download/1.3.2/Throne-1.3.2-windowslegacy64.zip"
+      "name": "Throne-1.4.1-windowslegacy64.zip",
+      "size": 49242504,
+      "url": "https://github.com/throneproj/Throne/releases/download/1.4.1/Throne-1.4.1-windowslegacy64.zip"
     },
     {
-      "name": "Throne-1.3.2-macos-arm64.zip",
-      "size": 64125334,
-      "url": "https://github.com/throneproj/Throne/releases/download/1.3.2/Throne-1.3.2-macos-arm64.zip"
+      "name": "Throne-1.4.1-macos-arm64.zip",
+      "size": 67630267,
+      "url": "https://github.com/throneproj/Throne/releases/download/1.4.1/Throne-1.4.1-macos-arm64.zip"
     },
     {
-      "name": "Throne-1.3.2-macoslegacy-amd64.zip",
-      "size": 66439777,
-      "url": "https://github.com/throneproj/Throne/releases/download/1.3.2/Throne-1.3.2-macoslegacy-amd64.zip"
+      "name": "Throne-1.4.1-macoslegacy-amd64.zip",
+      "size": 69709808,
+      "url": "https://github.com/throneproj/Throne/releases/download/1.4.1/Throne-1.4.1-macoslegacy-amd64.zip"
     },
     {
-      "name": "Throne-1.3.2-fedora-arm64-system-qt.rpm",
-      "size": 34125369,
-      "url": "https://github.com/throneproj/Throne/releases/download/1.3.2/Throne-1.3.2-fedora-arm64-system-qt.rpm"
+      "name": "Throne-1.4.1-debian-arm64-system-qt.deb",
+      "size": 35040796,
+      "url": "https://github.com/throneproj/Throne/releases/download/1.4.1/Throne-1.4.1-debian-arm64-system-qt.deb"
     },
     {
-      "name": "Throne-1.3.2-debian-arm64-system-qt.deb",
-      "size": 34130102,
-      "url": "https://github.com/throneproj/Throne/releases/download/1.3.2/Throne-1.3.2-debian-arm64-system-qt.deb"
+      "name": "Throne-1.4.1-fedora-arm64-system-qt.rpm",
+      "size": 38704367,
+      "url": "https://github.com/throneproj/Throne/releases/download/1.4.1/Throne-1.4.1-fedora-arm64-system-qt.rpm"
     }
   ],
   "pinned": false,

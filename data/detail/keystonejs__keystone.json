@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/keystonejs/keystone/zip/refs/heads/main",
   "release": {
-    "tag": "2026-08-31",
-    "name": "31 August 2026",
-    "published": "2026-08-31T04:57:56Z",
-    "url": "https://github.com/keystonejs/keystone/releases/tag/2026-08-31"
+    "tag": "2026-11-03",
+    "name": "03 November 2026",
+    "published": "2026-11-03T00:13:03Z",
+    "url": "https://github.com/keystonejs/keystone/releases/tag/2026-11-03"
   },
   "assets": [],
   "pinned": false,

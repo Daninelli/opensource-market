@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/QwenLM/qwen-code/zip/refs/heads/main",
   "release": {
-    "tag": "sdk-typescript-v0.1.21",
-    "name": "SDK TypeScript Release v0.1.21",
-    "published": "2026-10-19T07:47:40Z",
-    "url": "https://github.com/QwenLM/qwen-code/releases/tag/sdk-typescript-v0.1.21"
+    "tag": "sdk-typescript-v0.1.30",
+    "name": "SDK TypeScript Release v0.1.30",
+    "published": "2026-11-08T00:55:56Z",
+    "url": "https://github.com/QwenLM/qwen-code/releases/tag/sdk-typescript-v0.1.30"
   },
   "assets": [],
   "pinned": false,

@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/comet-ml/opik/zip/refs/heads/main",
   "release": {
-    "tag": "2.2.105",
-    "name": "2.2.105",
-    "published": "2026-10-19T14:30:39Z",
-    "url": "https://github.com/comet-ml/opik/releases/tag/2.2.105"
+    "tag": "2.2.143",
+    "name": "2.2.143",
+    "published": "2026-11-06T08:48:18Z",
+    "url": "https://github.com/comet-ml/opik/releases/tag/2.2.143"
   },
   "assets": [],
   "pinned": false,

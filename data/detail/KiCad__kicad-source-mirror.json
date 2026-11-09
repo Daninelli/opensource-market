@@ -21,26 +21,26 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/KiCad/kicad-source-mirror/zip/refs/heads/master",
   "release": {
-    "tag": "10.0.7",
-    "name": "10.0.7",
-    "published": "2026-10-16T12:03:25Z",
-    "url": "https://github.com/KiCad/kicad-source-mirror/releases/tag/10.0.7"
+    "tag": "10.0.8",
+    "name": "10.0.8",
+    "published": "2026-11-06T06:10:48Z",
+    "url": "https://github.com/KiCad/kicad-source-mirror/releases/tag/10.0.8"
   },
   "assets": [
     {
-      "name": "kicad-10.0.7-arm64.exe",
-      "size": 944454792,
-      "url": "https://github.com/KiCad/kicad-source-mirror/releases/download/10.0.7/kicad-10.0.7-arm64.exe"
+      "name": "kicad-10.0.8-arm64.exe",
+      "size": 944526952,
+      "url": "https://github.com/KiCad/kicad-source-mirror/releases/download/10.0.8/kicad-10.0.8-arm64.exe"
     },
     {
-      "name": "kicad-10.0.7-x86_64.exe",
-      "size": 968953784,
-      "url": "https://github.com/KiCad/kicad-source-mirror/releases/download/10.0.7/kicad-10.0.7-x86_64.exe"
+      "name": "kicad-10.0.8-x86_64.exe",
+      "size": 969079176,
+      "url": "https://github.com/KiCad/kicad-source-mirror/releases/download/10.0.8/kicad-10.0.8-x86_64.exe"
     },
     {
-      "name": "kicad-unified-universal-10.0.7.dmg",
-      "size": 1404855631,
-      "url": "https://github.com/KiCad/kicad-source-mirror/releases/download/10.0.7/kicad-unified-universal-10.0.7.dmg"
+      "name": "kicad-unified-universal-10.0.8.dmg",
+      "size": 1405602755,
+      "url": "https://github.com/KiCad/kicad-source-mirror/releases/download/10.0.8/kicad-unified-universal-10.0.8.dmg"
     }
   ],
   "pinned": false,

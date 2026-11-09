@@ -20,16 +20,21 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Syllo/nvtop/zip/refs/heads/master",
   "release": {
-    "tag": "3.3.2",
-    "name": "Release 3.3.2",
-    "published": "2026-02-08T17:57:16Z",
-    "url": "https://github.com/Syllo/nvtop/releases/tag/3.3.2"
+    "tag": "3.4.0",
+    "name": "Release 3.4.0",
+    "published": "2026-11-08T16:20:15Z",
+    "url": "https://github.com/Syllo/nvtop/releases/tag/3.4.0"
   },
   "assets": [
     {
-      "name": "nvtop-3.3.2-x86_64.AppImage",
-      "size": 2763256,
-      "url": "https://github.com/Syllo/nvtop/releases/download/3.3.2/nvtop-3.3.2-x86_64.AppImage"
+      "name": "nvtop-3.4.0-aarch64.AppImage",
+      "size": 1358344,
+      "url": "https://github.com/Syllo/nvtop/releases/download/3.4.0/nvtop-3.4.0-aarch64.AppImage"
+    },
+    {
+      "name": "nvtop-3.4.0-x86_64.AppImage",
+      "size": 1374712,
+      "url": "https://github.com/Syllo/nvtop/releases/download/3.4.0/nvtop-3.4.0-x86_64.AppImage"
     }
   ],
   "pinned": false,

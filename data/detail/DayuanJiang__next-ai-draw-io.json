@@ -21,51 +21,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/DayuanJiang/next-ai-draw-io/zip/refs/heads/main",
   "release": {
-    "tag": "v0.5.0",
-    "name": "v0.5.0",
-    "published": "2026-10-10T03:06:27Z",
-    "url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/tag/v0.5.0"
+    "tag": "v0.5.1",
+    "name": "v0.5.1",
+    "published": "2026-10-31T02:25:35Z",
+    "url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/tag/v0.5.1"
   },
   "assets": [
     {
-      "name": "Next-AI-Draw.io-0.5.0-arm64.dmg",
-      "size": 318951171,
-      "url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next-AI-Draw.io-0.5.0-arm64.dmg"
+      "name": "Next-AI-Draw.io-0.5.1-arm64.dmg",
+      "size": 293900048,
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/Next-AI-Draw.io-0.5.1-arm64.dmg"
     },
     {
-      "name": "Next-AI-Draw.io-0.5.0.dmg",
-      "size": 326354974,
-      "url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next-AI-Draw.io-0.5.0.dmg"
+      "name": "Next-AI-Draw.io-0.5.1.dmg",
+      "size": 300726930,
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/Next-AI-Draw.io-0.5.1.dmg"
     },
     {
-      "name": "Next.AI.Draw.io.0.5.0.exe",
-      "size": 487000280,
-      "url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next.AI.Draw.io.0.5.0.exe"
+      "name": "Next.AI.Draw.io.0.5.1.exe",
+      "size": 460792936,
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/Next.AI.Draw.io.0.5.1.exe"
     },
     {
-      "name": "Next.AI.Draw.io.Setup.0.5.0.exe",
-      "size": 487234528,
-      "url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next.AI.Draw.io.Setup.0.5.0.exe"
+      "name": "Next.AI.Draw.io.Setup.0.5.1.exe",
+      "size": 462982392,
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/Next.AI.Draw.io.Setup.0.5.1.exe"
     },
     {
-      "name": "next-ai-draw-io-0.5.0.aarch64.rpm",
-      "size": 186278441,
-      "url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/next-ai-draw-io-0.5.0.aarch64.rpm"
+      "name": "next-ai-draw-io-0.5.1.aarch64.rpm",
+      "size": 174221101,
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/next-ai-draw-io-0.5.1.aarch64.rpm"
     },
     {
-      "name": "next-ai-draw-io-0.5.0.x86_64.rpm",
-      "size": 192038809,
-      "url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/next-ai-draw-io-0.5.0.x86_64.rpm"
+      "name": "next-ai-draw-io-0.5.1.x86_64.rpm",
+      "size": 179070669,
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/next-ai-draw-io-0.5.1.x86_64.rpm"
     },
     {
-      "name": "Next-AI-Draw.io-0.5.0-arm64-mac.zip",
-      "size": 322070969,
-      "url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next-AI-Draw.io-0.5.0-arm64-mac.zip"
+      "name": "Next-AI-Draw.io-0.5.1-arm64-mac.zip",
+      "size": 297578236,
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/Next-AI-Draw.io-0.5.1-arm64-mac.zip"
     },
     {
-      "name": "Next-AI-Draw.io-0.5.0-mac.zip",
-      "size": 329495815,
-      "url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next-AI-Draw.io-0.5.0-mac.zip"
+      "name": "Next-AI-Draw.io-0.5.1-mac.zip",
+      "size": 304464779,
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/Next-AI-Draw.io-0.5.1-mac.zip"
     }
   ],
   "pinned": false,

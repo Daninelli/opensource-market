@@ -22,21 +22,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/timescale/timescaledb/zip/refs/heads/main",
   "release": {
-    "tag": "2.30.2",
-    "name": "2.30.2 (2026-09-29)",
-    "published": "2026-09-29T15:20:31Z",
-    "url": "https://github.com/timescale/timescaledb/releases/tag/2.30.2"
+    "tag": "2.31.0",
+    "name": "2.31.0 (2026-10-20)",
+    "published": "2026-10-20T16:06:02Z",
+    "url": "https://github.com/timescale/timescaledb/releases/tag/2.31.0"
   },
   "assets": [
     {
-      "name": "timescaledb-postgresql-16-windows-amd64.zip",
-      "size": 8630280,
-      "url": "https://github.com/timescale/timescaledb/releases/download/2.30.2/timescaledb-postgresql-16-windows-amd64.zip"
+      "name": "timescaledb-postgresql-17-windows-amd64.zip",
+      "size": 9537297,
+      "url": "https://github.com/timescale/timescaledb/releases/download/2.31.0/timescaledb-postgresql-17-windows-amd64.zip"
     },
     {
-      "name": "timescaledb-postgresql-17-windows-amd64.zip",
-      "size": 8630482,
-      "url": "https://github.com/timescale/timescaledb/releases/download/2.30.2/timescaledb-postgresql-17-windows-amd64.zip"
+      "name": "timescaledb-postgresql-16-windows-amd64.zip",
+      "size": 9537404,
+      "url": "https://github.com/timescale/timescaledb/releases/download/2.31.0/timescaledb-postgresql-16-windows-amd64.zip"
     }
   ],
   "pinned": false,

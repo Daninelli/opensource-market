@@ -21,12 +21,18 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/payloadcms/payload/zip/refs/heads/main",
   "release": {
-    "tag": "v3.91.0",
-    "name": "v3.91.0",
-    "published": "2026-10-15T20:23:15Z",
-    "url": "https://github.com/payloadcms/payload/releases/tag/v3.91.0"
+    "tag": "v3.93.0",
+    "name": "v3.93.0",
+    "published": "2026-11-04T15:09:39Z",
+    "url": "https://github.com/payloadcms/payload/releases/tag/v3.93.0"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "payload-sboms-3.93.0.zip",
+      "size": 1687092,
+      "url": "https://github.com/payloadcms/payload/releases/download/v3.93.0/payload-sboms-3.93.0.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

@@ -22,10 +22,10 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/streamlit/streamlit/zip/refs/heads/develop",
   "release": {
-    "tag": "1.66.0",
-    "name": "1.66.0",
-    "published": "2026-10-14T16:08:00Z",
-    "url": "https://github.com/streamlit/streamlit/releases/tag/1.66.0"
+    "tag": "1.67.0",
+    "name": "1.67.0",
+    "published": "2026-11-05T19:54:01Z",
+    "url": "https://github.com/streamlit/streamlit/releases/tag/1.67.0"
   },
   "assets": [],
   "pinned": false,

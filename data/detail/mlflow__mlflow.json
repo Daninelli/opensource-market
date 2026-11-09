@@ -22,10 +22,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mlflow/mlflow/zip/refs/heads/master",
   "release": {
-    "tag": "v3.17.1",
-    "name": "MLflow 3.17.1",
-    "published": "2026-10-13T09:33:43Z",
-    "url": "https://github.com/mlflow/mlflow/releases/tag/v3.17.1"
+    "tag": "v3.18.0",
+    "name": "MLflow 3.18.0",
+    "published": "2026-11-04T06:51:02Z",
+    "url": "https://github.com/mlflow/mlflow/releases/tag/v3.18.0"
   },
   "assets": [],
   "pinned": false,

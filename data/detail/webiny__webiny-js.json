@@ -21,10 +21,10 @@
   "default_branch": "next",
   "download_url": "https://codeload.github.com/webiny/webiny-js/zip/refs/heads/next",
   "release": {
-    "tag": "v6.4.11",
-    "name": "v6.4.11",
-    "published": "2026-09-11T11:25:17Z",
-    "url": "https://github.com/webiny/webiny-js/releases/tag/v6.4.11"
+    "tag": "v6.5.1",
+    "name": "v6.5.1",
+    "published": "2026-10-28T10:41:36Z",
+    "url": "https://github.com/webiny/webiny-js/releases/tag/v6.5.1"
   },
   "assets": [],
   "pinned": false,

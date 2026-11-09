@@ -20,36 +20,46 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/HKUDS/nanobot/zip/refs/heads/main",
   "release": {
-    "tag": "v0.3.5",
-    "name": "v0.3.5",
-    "published": "2026-09-15T19:05:37Z",
-    "url": "https://github.com/HKUDS/nanobot/releases/tag/v0.3.5"
+    "tag": "v0.4.1",
+    "name": "v0.4.1",
+    "published": "2026-11-06T15:55:22Z",
+    "url": "https://github.com/HKUDS/nanobot/releases/tag/v0.4.1"
   },
   "assets": [
     {
       "name": "nanobot-tui-darwin-arm64.zip",
-      "size": 25277146,
-      "url": "https://github.com/HKUDS/nanobot/releases/download/v0.3.5/nanobot-tui-darwin-arm64.zip"
+      "size": 27993951,
+      "url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot-tui-darwin-arm64.zip"
     },
     {
       "name": "nanobot-tui-darwin-x64.zip",
-      "size": 28089184,
-      "url": "https://github.com/HKUDS/nanobot/releases/download/v0.3.5/nanobot-tui-darwin-x64.zip"
+      "size": 30534980,
+      "url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot-tui-darwin-x64.zip"
     },
     {
       "name": "nanobot-tui-win32-x64.exe.zip",
-      "size": 44401915,
-      "url": "https://github.com/HKUDS/nanobot/releases/download/v0.3.5/nanobot-tui-win32-x64.exe.zip"
+      "size": 46927590,
+      "url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot-tui-win32-x64.exe.zip"
+    },
+    {
+      "name": "nanobot_ai-0.4.1-py3-none-win_amd64.whl",
+      "size": 63251352,
+      "url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot_ai-0.4.1-py3-none-win_amd64.whl"
     },
     {
       "name": "nanobot-tui-linux-arm64.zip",
-      "size": 43137257,
-      "url": "https://github.com/HKUDS/nanobot/releases/download/v0.3.5/nanobot-tui-linux-arm64.zip"
+      "size": 47440359,
+      "url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot-tui-linux-arm64.zip"
     },
     {
       "name": "nanobot-tui-linux-x64.zip",
-      "size": 43320003,
-      "url": "https://github.com/HKUDS/nanobot/releases/download/v0.3.5/nanobot-tui-linux-x64.zip"
+      "size": 47851474,
+      "url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot-tui-linux-x64.zip"
+    },
+    {
+      "name": "nanobot_ai-0.4.1.tar.gz",
+      "size": 15239320,
+      "url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot_ai-0.4.1.tar.gz"
     }
   ],
   "pinned": false,

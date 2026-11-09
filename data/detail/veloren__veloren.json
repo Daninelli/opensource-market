@@ -21,41 +21,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/veloren/veloren/zip/refs/heads/master",
   "release": {
-    "tag": "nightly",
-    "name": "nightly",
-    "published": "2022-04-28T12:07:38Z",
-    "url": "https://github.com/veloren/veloren/releases/tag/nightly"
+    "tag": "weekly",
+    "name": "weekly",
+    "published": "2022-03-06T09:37:01Z",
+    "url": "https://github.com/veloren/veloren/releases/tag/weekly"
   },
   "assets": [
     {
-      "name": "nightly-macos-aarch64-2024-09-10T17_36.zip",
+      "name": "weekly-macos-aarch64-2024-09-10T17_36.zip",
       "size": 348020216,
-      "url": "https://github.com/veloren/veloren/releases/download/nightly/nightly-macos-aarch64-2024-09-10T17_36.zip"
+      "url": "https://github.com/veloren/veloren/releases/download/weekly/weekly-macos-aarch64-2024-09-10T17_36.zip"
     },
     {
-      "name": "nightly-macos-aarch64-2024-09-09T18_54.zip",
-      "size": 348034583,
-      "url": "https://github.com/veloren/veloren/releases/download/nightly/nightly-macos-aarch64-2024-09-09T18_54.zip"
+      "name": "weekly-macos-aarch64-2024-08-28T16_47.zip",
+      "size": 348047302,
+      "url": "https://github.com/veloren/veloren/releases/download/weekly/weekly-macos-aarch64-2024-08-28T16_47.zip"
     },
     {
-      "name": "nightly-windows-x86_64-2024-09-10T17_36.zip",
-      "size": 418176649,
-      "url": "https://github.com/veloren/veloren/releases/download/nightly/nightly-windows-x86_64-2024-09-10T17_36.zip"
+      "name": "weekly-windows-x86_64-2024-09-10T17_36.zip",
+      "size": 418180714,
+      "url": "https://github.com/veloren/veloren/releases/download/weekly/weekly-windows-x86_64-2024-09-10T17_36.zip"
     },
     {
-      "name": "nightly-windows-x86_64-2024-09-09T18_54.zip",
-      "size": 418189831,
-      "url": "https://github.com/veloren/veloren/releases/download/nightly/nightly-windows-x86_64-2024-09-09T18_54.zip"
+      "name": "weekly-windows-x86_64-2024-08-21T17_04.zip",
+      "size": 418682476,
+      "url": "https://github.com/veloren/veloren/releases/download/weekly/weekly-windows-x86_64-2024-08-21T17_04.zip"
     },
     {
-      "name": "nightly-linux-aarch64-2024-09-10T17_36.zip",
-      "size": 403655987,
-      "url": "https://github.com/veloren/veloren/releases/download/nightly/nightly-linux-aarch64-2024-09-10T17_36.zip"
+      "name": "weekly-linux-aarch64-2024-09-10T17_36.zip",
+      "size": 403660564,
+      "url": "https://github.com/veloren/veloren/releases/download/weekly/weekly-linux-aarch64-2024-09-10T17_36.zip"
     },
     {
-      "name": "nightly-linux-aarch64-2024-08-27T22_34.zip",
-      "size": 403661069,
-      "url": "https://github.com/veloren/veloren/releases/download/nightly/nightly-linux-aarch64-2024-08-27T22_34.zip"
+      "name": "weekly-linux-aarch64-2024-08-21T17_04.zip",
+      "size": 403744206,
+      "url": "https://github.com/veloren/veloren/releases/download/weekly/weekly-linux-aarch64-2024-08-21T17_04.zip"
     }
   ],
   "pinned": false,

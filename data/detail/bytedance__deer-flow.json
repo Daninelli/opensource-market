@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/bytedance/deer-flow/zip/refs/heads/main",
   "release": {
-    "tag": "v2.1.0",
-    "name": "v2.1.0 Release",
-    "published": "2026-09-24T10:40:44Z",
-    "url": "https://github.com/bytedance/deer-flow/releases/tag/v2.1.0"
+    "tag": "v2.2.0",
+    "name": "DeerFlow 2.2.0",
+    "published": "2026-11-04T12:56:57Z",
+    "url": "https://github.com/bytedance/deer-flow/releases/tag/v2.2.0"
   },
   "assets": [],
   "pinned": false,

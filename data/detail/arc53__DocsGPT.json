@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/arc53/DocsGPT/zip/refs/heads/main",
   "release": {
-    "tag": "1.0.0",
-    "name": "v1.0.0",
-    "published": "2026-10-08T12:45:28Z",
-    "url": "https://github.com/arc53/DocsGPT/releases/tag/1.0.0"
+    "tag": "1.1.0",
+    "name": "v1.1.0",
+    "published": "2026-10-25T16:50:59Z",
+    "url": "https://github.com/arc53/DocsGPT/releases/tag/1.1.0"
   },
   "assets": [],
   "pinned": false,

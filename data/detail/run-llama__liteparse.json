@@ -21,12 +21,33 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/run-llama/liteparse/zip/refs/heads/main",
   "release": {
-    "tag": "docker-v2.16.0",
-    "name": "Docker v2.16.0",
-    "published": "2026-10-12T22:09:55Z",
-    "url": "https://github.com/run-llama/liteparse/releases/tag/docker-v2.16.0"
+    "tag": "node-v2.18.0",
+    "name": "Node.js v2.18.0",
+    "published": "2026-11-04T04:24:52Z",
+    "url": "https://github.com/run-llama/liteparse/releases/tag/node-v2.18.0"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "lit-darwin-arm64.tar.gz",
+      "size": 8667412,
+      "url": "https://github.com/run-llama/liteparse/releases/download/node-v2.18.0/lit-darwin-arm64.tar.gz"
+    },
+    {
+      "name": "lit-darwin-x64.tar.gz",
+      "size": 9227198,
+      "url": "https://github.com/run-llama/liteparse/releases/download/node-v2.18.0/lit-darwin-x64.tar.gz"
+    },
+    {
+      "name": "lit-linux-arm64.tar.gz",
+      "size": 9433773,
+      "url": "https://github.com/run-llama/liteparse/releases/download/node-v2.18.0/lit-linux-arm64.tar.gz"
+    },
+    {
+      "name": "lit-linux-x64.tar.gz",
+      "size": 9836600,
+      "url": "https://github.com/run-llama/liteparse/releases/download/node-v2.18.0/lit-linux-x64.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

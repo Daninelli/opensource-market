@@ -21,10 +21,10 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/esphome/esphome/zip/refs/heads/dev",
   "release": {
-    "tag": "2026.9.1",
-    "name": "2026.9.1",
-    "published": "2026-09-29T19:12:08Z",
-    "url": "https://github.com/esphome/esphome/releases/tag/2026.9.1"
+    "tag": "2026.10.2",
+    "name": "2026.10.2",
+    "published": "2026-11-02T21:30:29Z",
+    "url": "https://github.com/esphome/esphome/releases/tag/2026.10.2"
   },
   "assets": [],
   "pinned": false,

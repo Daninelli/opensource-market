@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/vuejs/vitepress/zip/refs/heads/main",
   "release": {
-    "tag": "v2.0.0-alpha.20",
-    "name": "v2.0.0-alpha.20",
-    "published": "2026-09-04T10:59:16Z",
-    "url": "https://github.com/vuejs/vitepress/releases/tag/v2.0.0-alpha.20"
+    "tag": "v2.0.0-alpha.21",
+    "name": "v2.0.0-alpha.21",
+    "published": "2026-10-25T12:58:44Z",
+    "url": "https://github.com/vuejs/vitepress/releases/tag/v2.0.0-alpha.21"
   },
   "assets": [],
   "pinned": false,

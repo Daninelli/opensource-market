@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/karakeep-app/karakeep/zip/refs/heads/main",
   "release": {
-    "tag": "v0.34.0",
-    "name": "0.34.0",
-    "published": "2026-10-17T21:44:13Z",
-    "url": "https://github.com/karakeep-app/karakeep/releases/tag/v0.34.0"
+    "tag": "v0.34.1",
+    "name": "0.34.1",
+    "published": "2026-10-22T06:42:02Z",
+    "url": "https://github.com/karakeep-app/karakeep/releases/tag/v0.34.1"
   },
   "assets": [],
   "pinned": false,

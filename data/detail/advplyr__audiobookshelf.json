@@ -20,10 +20,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/advplyr/audiobookshelf/zip/refs/heads/master",
   "release": {
-    "tag": "v2.37.1",
-    "name": "v2.37.1",
-    "published": "2026-09-29T23:13:50Z",
-    "url": "https://github.com/advplyr/audiobookshelf/releases/tag/v2.37.1"
+    "tag": "v2.37.2",
+    "name": "v2.37.2",
+    "published": "2026-10-23T20:18:17Z",
+    "url": "https://github.com/advplyr/audiobookshelf/releases/tag/v2.37.2"
   },
   "assets": [],
   "pinned": false,

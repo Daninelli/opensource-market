@@ -22,31 +22,31 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/livekit/livekit/zip/refs/heads/master",
   "release": {
-    "tag": "v1.13.10",
-    "name": "v1.13.10",
-    "published": "2026-10-14T07:18:58Z",
-    "url": "https://github.com/livekit/livekit/releases/tag/v1.13.10"
+    "tag": "v1.13.11",
+    "name": "v1.13.11",
+    "published": "2026-10-25T09:45:31Z",
+    "url": "https://github.com/livekit/livekit/releases/tag/v1.13.11"
   },
   "assets": [
     {
-      "name": "livekit_1.13.10_windows_arm64.zip",
-      "size": 17384394,
-      "url": "https://github.com/livekit/livekit/releases/download/v1.13.10/livekit_1.13.10_windows_arm64.zip"
+      "name": "livekit_1.13.11_windows_arm64.zip",
+      "size": 17455517,
+      "url": "https://github.com/livekit/livekit/releases/download/v1.13.11/livekit_1.13.11_windows_arm64.zip"
     },
     {
-      "name": "livekit_1.13.10_windows_amd64.zip",
-      "size": 19616198,
-      "url": "https://github.com/livekit/livekit/releases/download/v1.13.10/livekit_1.13.10_windows_amd64.zip"
+      "name": "livekit_1.13.11_windows_amd64.zip",
+      "size": 19691002,
+      "url": "https://github.com/livekit/livekit/releases/download/v1.13.11/livekit_1.13.11_windows_amd64.zip"
     },
     {
-      "name": "livekit_1.13.10_linux_arm64.tar.gz",
-      "size": 17493087,
-      "url": "https://github.com/livekit/livekit/releases/download/v1.13.10/livekit_1.13.10_linux_arm64.tar.gz"
+      "name": "livekit_1.13.11_linux_arm64.tar.gz",
+      "size": 17559890,
+      "url": "https://github.com/livekit/livekit/releases/download/v1.13.11/livekit_1.13.11_linux_arm64.tar.gz"
     },
     {
-      "name": "livekit_1.13.10_linux_armv7.tar.gz",
-      "size": 18035972,
-      "url": "https://github.com/livekit/livekit/releases/download/v1.13.10/livekit_1.13.10_linux_armv7.tar.gz"
+      "name": "livekit_1.13.11_linux_armv7.tar.gz",
+      "size": 18101628,
+      "url": "https://github.com/livekit/livekit/releases/download/v1.13.11/livekit_1.13.11_linux_armv7.tar.gz"
     }
   ],
   "pinned": false,

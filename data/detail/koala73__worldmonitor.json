@@ -22,51 +22,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/koala73/worldmonitor/zip/refs/heads/main",
   "release": {
-    "tag": "v2.11.2",
-    "name": "World Monitor v2.11.2",
-    "published": "2026-10-20T06:29:24Z",
-    "url": "https://github.com/koala73/worldmonitor/releases/tag/v2.11.2"
+    "tag": "v2.11.8",
+    "name": "World Monitor v2.11.8",
+    "published": "2026-11-04T19:23:59Z",
+    "url": "https://github.com/koala73/worldmonitor/releases/tag/v2.11.8"
   },
   "assets": [
     {
-      "name": "World.Monitor_2.11.2_x64-setup.exe",
-      "size": 40181704,
-      "url": "https://github.com/koala73/worldmonitor/releases/download/v2.11.2/World.Monitor_2.11.2_x64-setup.exe"
+      "name": "World.Monitor_2.11.8_x64-setup.exe",
+      "size": 46732457,
+      "url": "https://github.com/koala73/worldmonitor/releases/download/v2.11.8/World.Monitor_2.11.8_x64-setup.exe"
     },
     {
-      "name": "World.Monitor_2.11.2_x64_en-US.msi",
-      "size": 57308120,
-      "url": "https://github.com/koala73/worldmonitor/releases/download/v2.11.2/World.Monitor_2.11.2_x64_en-US.msi"
+      "name": "World.Monitor_2.11.8_x64_en-US.msi",
+      "size": 64847837,
+      "url": "https://github.com/koala73/worldmonitor/releases/download/v2.11.8/World.Monitor_2.11.8_x64_en-US.msi"
     },
     {
-      "name": "World.Monitor_2.11.2_aarch64.dmg",
-      "size": 60965830,
-      "url": "https://github.com/koala73/worldmonitor/releases/download/v2.11.2/World.Monitor_2.11.2_aarch64.dmg"
+      "name": "World.Monitor_2.11.8_aarch64.dmg",
+      "size": 69214270,
+      "url": "https://github.com/koala73/worldmonitor/releases/download/v2.11.8/World.Monitor_2.11.8_aarch64.dmg"
     },
     {
-      "name": "World.Monitor_2.11.2_x64.dmg",
-      "size": 62742005,
-      "url": "https://github.com/koala73/worldmonitor/releases/download/v2.11.2/World.Monitor_2.11.2_x64.dmg"
+      "name": "World.Monitor_2.11.8_x64.dmg",
+      "size": 70561403,
+      "url": "https://github.com/koala73/worldmonitor/releases/download/v2.11.8/World.Monitor_2.11.8_x64.dmg"
     },
     {
-      "name": "World.Monitor_2.11.2_aarch64.AppImage",
-      "size": 215632392,
-      "url": "https://github.com/koala73/worldmonitor/releases/download/v2.11.2/World.Monitor_2.11.2_aarch64.AppImage"
+      "name": "World.Monitor_2.11.8_aarch64.AppImage",
+      "size": 223746568,
+      "url": "https://github.com/koala73/worldmonitor/releases/download/v2.11.8/World.Monitor_2.11.8_aarch64.AppImage"
     },
     {
-      "name": "World.Monitor_2.11.2_amd64.AppImage",
-      "size": 224766456,
-      "url": "https://github.com/koala73/worldmonitor/releases/download/v2.11.2/World.Monitor_2.11.2_amd64.AppImage"
+      "name": "World.Monitor_2.11.8_amd64.AppImage",
+      "size": 232438264,
+      "url": "https://github.com/koala73/worldmonitor/releases/download/v2.11.8/World.Monitor_2.11.8_amd64.AppImage"
     },
     {
-      "name": "World.Monitor_2.11.2_aarch64.app.tar.gz",
-      "size": 60564394,
-      "url": "https://github.com/koala73/worldmonitor/releases/download/v2.11.2/World.Monitor_2.11.2_aarch64.app.tar.gz"
+      "name": "World.Monitor_2.11.8_aarch64.app.tar.gz",
+      "size": 68819705,
+      "url": "https://github.com/koala73/worldmonitor/releases/download/v2.11.8/World.Monitor_2.11.8_aarch64.app.tar.gz"
     },
     {
-      "name": "World.Monitor_2.11.2_x64.app.tar.gz",
-      "size": 62365811,
-      "url": "https://github.com/koala73/worldmonitor/releases/download/v2.11.2/World.Monitor_2.11.2_x64.app.tar.gz"
+      "name": "World.Monitor_2.11.8_x64.app.tar.gz",
+      "size": 70175817,
+      "url": "https://github.com/koala73/worldmonitor/releases/download/v2.11.8/World.Monitor_2.11.8_x64.app.tar.gz"
     }
   ],
   "pinned": false,

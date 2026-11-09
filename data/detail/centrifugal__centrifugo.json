@@ -20,41 +20,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/centrifugal/centrifugo/zip/refs/heads/master",
   "release": {
-    "tag": "v6.10.0",
-    "name": "v6.10.0",
-    "published": "2026-10-19T17:40:57Z",
-    "url": "https://github.com/centrifugal/centrifugo/releases/tag/v6.10.0"
+    "tag": "v6.10.3",
+    "name": "v6.10.3",
+    "published": "2026-11-08T20:10:03Z",
+    "url": "https://github.com/centrifugal/centrifugo/releases/tag/v6.10.3"
   },
   "assets": [
     {
-      "name": "centrifugo_6.10.0_darwin_arm64.tar.gz",
-      "size": 22823286,
-      "url": "https://github.com/centrifugal/centrifugo/releases/download/v6.10.0/centrifugo_6.10.0_darwin_arm64.tar.gz"
+      "name": "centrifugo_6.10.3_darwin_arm64.tar.gz",
+      "size": 22923145,
+      "url": "https://github.com/centrifugal/centrifugo/releases/download/v6.10.3/centrifugo_6.10.3_darwin_arm64.tar.gz"
     },
     {
-      "name": "centrifugo_6.10.0_windows_amd64.zip",
-      "size": 24190804,
-      "url": "https://github.com/centrifugal/centrifugo/releases/download/v6.10.0/centrifugo_6.10.0_windows_amd64.zip"
+      "name": "centrifugo_6.10.3_windows_amd64.zip",
+      "size": 24294138,
+      "url": "https://github.com/centrifugal/centrifugo/releases/download/v6.10.3/centrifugo_6.10.3_windows_amd64.zip"
     },
     {
-      "name": "centrifugo_6.10.0_darwin_amd64.tar.gz",
-      "size": 24223874,
-      "url": "https://github.com/centrifugal/centrifugo/releases/download/v6.10.0/centrifugo_6.10.0_darwin_amd64.tar.gz"
+      "name": "centrifugo_6.10.3_darwin_amd64.tar.gz",
+      "size": 24322088,
+      "url": "https://github.com/centrifugal/centrifugo/releases/download/v6.10.3/centrifugo_6.10.3_darwin_amd64.tar.gz"
     },
     {
-      "name": "centrifugo_6.10.0_linux_arm64.tar.gz",
-      "size": 21806735,
-      "url": "https://github.com/centrifugal/centrifugo/releases/download/v6.10.0/centrifugo_6.10.0_linux_arm64.tar.gz"
+      "name": "centrifugo_6.10.3_linux_arm64.tar.gz",
+      "size": 21910737,
+      "url": "https://github.com/centrifugal/centrifugo/releases/download/v6.10.3/centrifugo_6.10.3_linux_arm64.tar.gz"
     },
     {
-      "name": "centrifugo_6.10.0_linux_armv6.tar.gz",
-      "size": 22453217,
-      "url": "https://github.com/centrifugal/centrifugo/releases/download/v6.10.0/centrifugo_6.10.0_linux_armv6.tar.gz"
+      "name": "centrifugo_6.10.3_linux_armv6.tar.gz",
+      "size": 22548248,
+      "url": "https://github.com/centrifugal/centrifugo/releases/download/v6.10.3/centrifugo_6.10.3_linux_armv6.tar.gz"
     },
     {
-      "name": "centrifugo_6.10.0_freebsd_amd64.tar.gz",
-      "size": 23647195,
-      "url": "https://github.com/centrifugal/centrifugo/releases/download/v6.10.0/centrifugo_6.10.0_freebsd_amd64.tar.gz"
+      "name": "centrifugo_6.10.3_freebsd_amd64.tar.gz",
+      "size": 23744660,
+      "url": "https://github.com/centrifugal/centrifugo/releases/download/v6.10.3/centrifugo_6.10.3_freebsd_amd64.tar.gz"
     }
   ],
   "pinned": false,

@@ -21,26 +21,26 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/SoftEtherVPN/SoftEtherVPN/zip/refs/heads/master",
   "release": {
-    "tag": "5.2.5188",
-    "name": "5.2.5188",
-    "published": "2025-07-18T12:28:02Z",
-    "url": "https://github.com/SoftEtherVPN/SoftEtherVPN/releases/tag/5.2.5188"
+    "tag": "5.2.5189",
+    "name": "5.2.5189",
+    "published": "2026-11-05T08:54:33Z",
+    "url": "https://github.com/SoftEtherVPN/SoftEtherVPN/releases/tag/5.2.5189"
   },
   "assets": [
     {
       "name": "softether-vpnclient-5.02.5187.x86.exe",
-      "size": 46536192,
-      "url": "https://github.com/SoftEtherVPN/SoftEtherVPN/releases/download/5.2.5188/softether-vpnclient-5.02.5187.x86.exe"
+      "size": 37822464,
+      "url": "https://github.com/SoftEtherVPN/SoftEtherVPN/releases/download/5.2.5189/softether-vpnclient-5.02.5187.x86.exe"
     },
     {
       "name": "softether-vpnserver_vpnbridge-5.02.5187.x86.exe",
-      "size": 51257344,
-      "url": "https://github.com/SoftEtherVPN/SoftEtherVPN/releases/download/5.2.5188/softether-vpnserver_vpnbridge-5.02.5187.x86.exe"
+      "size": 41285120,
+      "url": "https://github.com/SoftEtherVPN/SoftEtherVPN/releases/download/5.2.5189/softether-vpnserver_vpnbridge-5.02.5187.x86.exe"
     },
     {
-      "name": "SoftEtherVPN-5.2.5188.tar.xz",
-      "size": 12305536,
-      "url": "https://github.com/SoftEtherVPN/SoftEtherVPN/releases/download/5.2.5188/SoftEtherVPN-5.2.5188.tar.xz"
+      "name": "SoftEtherVPN-5.2.5189.tar.xz",
+      "size": 19297164,
+      "url": "https://github.com/SoftEtherVPN/SoftEtherVPN/releases/download/5.2.5189/SoftEtherVPN-5.2.5189.tar.xz"
     }
   ],
   "pinned": false,

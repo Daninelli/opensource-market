@@ -19,8 +19,24 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/yarrick/iodine/zip/refs/heads/master",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v0.9.0",
+    "name": "iodine 0.9.0 \"20 years\"",
+    "published": "2026-10-25T19:07:10Z",
+    "url": "https://github.com/yarrick/iodine/releases/tag/v0.9.0"
+  },
+  "assets": [
+    {
+      "name": "iodine-0.9.0-windows.zip",
+      "size": 624267,
+      "url": "https://github.com/yarrick/iodine/releases/download/v0.9.0/iodine-0.9.0-windows.zip"
+    },
+    {
+      "name": "iodine-0.9.0.tar.gz",
+      "size": 419142,
+      "url": "https://github.com/yarrick/iodine/releases/download/v0.9.0/iodine-0.9.0.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

@@ -22,18 +22,12 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/tesseract-ocr/tesseract/zip/refs/heads/main",
   "release": {
-    "tag": "5.5.3",
-    "name": "5.5.3",
-    "published": "2026-07-24T18:33:22Z",
-    "url": "https://github.com/tesseract-ocr/tesseract/releases/tag/5.5.3"
+    "tag": "5.5.4",
+    "name": "5.5.4",
+    "published": "2026-10-28T11:19:43Z",
+    "url": "https://github.com/tesseract-ocr/tesseract/releases/tag/5.5.4"
   },
-  "assets": [
-    {
-      "name": "tesseract-ocr-w64-setup-5.5.3.20260724.exe",
-      "size": 26573224,
-      "url": "https://github.com/tesseract-ocr/tesseract/releases/download/5.5.3/tesseract-ocr-w64-setup-5.5.3.20260724.exe"
-    }
-  ],
+  "assets": [],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

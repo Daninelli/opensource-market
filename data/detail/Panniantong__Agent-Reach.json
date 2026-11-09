@@ -22,12 +22,28 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Panniantong/Agent-Reach/zip/refs/heads/main",
   "release": {
-    "tag": "v1.5.0",
-    "name": "v1.5.0 — 能力层:多后端路由 + 真体检 + OpenCLI",
-    "published": "2026-06-11T12:29:59Z",
-    "url": "https://github.com/Panniantong/Agent-Reach/releases/tag/v1.5.0"
+    "tag": "v1.6.1",
+    "name": "v1.6.1",
+    "published": "2026-11-01T07:24:15Z",
+    "url": "https://github.com/Panniantong/Agent-Reach/releases/tag/v1.6.1"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "agent_reach-1.6.1-py3-none-any.whl",
+      "size": 164630,
+      "url": "https://github.com/Panniantong/Agent-Reach/releases/download/v1.6.1/agent_reach-1.6.1-py3-none-any.whl"
+    },
+    {
+      "name": "agent_reach-1.6.1.tar.gz",
+      "size": 628630,
+      "url": "https://github.com/Panniantong/Agent-Reach/releases/download/v1.6.1/agent_reach-1.6.1.tar.gz"
+    },
+    {
+      "name": "agent-reach.zip",
+      "size": 687490,
+      "url": "https://github.com/Panniantong/Agent-Reach/releases/download/v1.6.1/agent-reach.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

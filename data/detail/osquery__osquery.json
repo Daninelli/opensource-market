@@ -21,46 +21,46 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/osquery/osquery/zip/refs/heads/master",
   "release": {
-    "tag": "5.23.1",
-    "name": "5.23.1",
-    "published": "2026-06-24T14:57:05Z",
-    "url": "https://github.com/osquery/osquery/releases/tag/5.23.1"
+    "tag": "5.24.1",
+    "name": "5.24.1",
+    "published": "2026-10-29T01:21:49Z",
+    "url": "https://github.com/osquery/osquery/releases/tag/5.24.1"
   },
   "assets": [
     {
-      "name": "osquery-5.23.1.windows_arm64.zip",
-      "size": 13634280,
-      "url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery-5.23.1.windows_arm64.zip"
+      "name": "osquery-5.24.1.windows_arm64.zip",
+      "size": 14412882,
+      "url": "https://github.com/osquery/osquery/releases/download/5.24.1/osquery-5.24.1.windows_arm64.zip"
     },
     {
-      "name": "osquery-5.23.1.windows_x86_64.zip",
-      "size": 18950597,
-      "url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery-5.23.1.windows_x86_64.zip"
+      "name": "osqueryd-macos-bare-5.24.1.tar.gz",
+      "size": 16535500,
+      "url": "https://github.com/osquery/osquery/releases/download/5.24.1/osqueryd-macos-bare-5.24.1.tar.gz"
     },
     {
-      "name": "osqueryd-macos-bare-5.23.1.tar.gz",
-      "size": 25571024,
-      "url": "https://github.com/osquery/osquery/releases/download/5.23.1/osqueryd-macos-bare-5.23.1.tar.gz"
+      "name": "osquery-5.24.1_1.macos_arm64.tar.gz",
+      "size": 16845141,
+      "url": "https://github.com/osquery/osquery/releases/download/5.24.1/osquery-5.24.1_1.macos_arm64.tar.gz"
     },
     {
-      "name": "osquery-5.23.1_1.macos_arm64.tar.gz",
-      "size": 25893999,
-      "url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery-5.23.1_1.macos_arm64.tar.gz"
+      "name": "osquery-5.24.1.windows_x86_64.zip",
+      "size": 19799491,
+      "url": "https://github.com/osquery/osquery/releases/download/5.24.1/osquery-5.24.1.windows_x86_64.zip"
     },
     {
-      "name": "osquery-5.23.1-1.linux.aarch64.rpm",
-      "size": 30945997,
-      "url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery-5.23.1-1.linux.aarch64.rpm"
+      "name": "osquery-5.24.1-1.linux.aarch64.rpm",
+      "size": 27723013,
+      "url": "https://github.com/osquery/osquery/releases/download/5.24.1/osquery-5.24.1-1.linux.aarch64.rpm"
     },
     {
-      "name": "osquery_5.23.1-1.linux_arm64.deb",
-      "size": 30999764,
-      "url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery_5.23.1-1.linux_arm64.deb"
+      "name": "osquery_5.24.1-1.linux_arm64.deb",
+      "size": 27773414,
+      "url": "https://github.com/osquery/osquery/releases/download/5.24.1/osquery_5.24.1-1.linux_arm64.deb"
     },
     {
-      "name": "osquery.5.23.1.nupkg",
-      "size": 19469296,
-      "url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery.5.23.1.nupkg"
+      "name": "osquery.5.24.1.nupkg",
+      "size": 20333901,
+      "url": "https://github.com/osquery/osquery/releases/download/5.24.1/osquery.5.24.1.nupkg"
     }
   ],
   "pinned": false,

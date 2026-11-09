@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/yugabyte/yugabyte-db/zip/refs/heads/master",
   "release": {
-    "tag": "v2026.1.2.0",
-    "name": "v2026.1.2.0 (Released September 22, 2026)",
-    "published": "2026-09-22T20:30:38Z",
-    "url": "https://github.com/yugabyte/yugabyte-db/releases/tag/v2026.1.2.0"
+    "tag": "v2026.1.3.0",
+    "name": "v2026.1.3.0 (Released November 05, 2026)",
+    "published": "2026-11-06T02:24:49Z",
+    "url": "https://github.com/yugabyte/yugabyte-db/releases/tag/v2026.1.3.0"
   },
   "assets": [],
   "pinned": false,

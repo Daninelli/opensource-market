@@ -1,0 +1,47 @@
+{
+  "repo": "chadyi/StudyOnTV",
+  "slug": "chadyi__StudyOnTV",
+  "name": "题了个题（StudyOnTV）",
+  "note_zh": "孩子答对题才解锁设备使用时间的学习应用，支持平板/手机/电视，题库全本地无需服务端",
+  "category": "教育",
+  "category_slug": "education",
+  "subcategory": "在线学习",
+  "subcategory_slug": "lms",
+  "license": "Source Available (non-commercial)",
+  "license_category": "restricted",
+  "archived": false,
+  "tech_stack": [
+    "Kotlin",
+    "Android"
+  ],
+  "deploy_type": "客户端 / 二进制",
+  "platform": "github",
+  "updated_at": "2026-11-08T08:16:57Z",
+  "added_at": "2026-11-09T15:46:44+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/chadyi/StudyOnTV/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.3.21",
+    "name": "v0.3.21",
+    "published": "2026-11-07T13:37:03Z",
+    "url": "https://github.com/chadyi/StudyOnTV/releases/tag/v0.3.21"
+  },
+  "assets": [
+    {
+      "name": "StudyOnTV-Android-TV-v0.3.21.apk",
+      "size": 2321818,
+      "url": "https://github.com/chadyi/StudyOnTV/releases/download/v0.3.21/StudyOnTV-Android-TV-v0.3.21.apk"
+    },
+    {
+      "name": "StudyOnTV-Mobile-v0.3.21.apk",
+      "size": 2323740,
+      "url": "https://github.com/chadyi/StudyOnTV/releases/download/v0.3.21/StudyOnTV-Mobile-v0.3.21.apk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/floci-io/floci/zip/refs/heads/main",
   "release": {
-    "tag": "2.3.0",
-    "name": "2.3.0",
-    "published": "2026-10-15T05:39:06Z",
-    "url": "https://github.com/floci-io/floci/releases/tag/2.3.0"
+    "tag": "2.4.0",
+    "name": "2.4.0",
+    "published": "2026-10-31T22:10:55Z",
+    "url": "https://github.com/floci-io/floci/releases/tag/2.4.0"
   },
   "assets": [],
   "pinned": false,

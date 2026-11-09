@@ -22,36 +22,36 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/freeok/so-novel/zip/refs/heads/main",
   "release": {
-    "tag": "v1.11.0",
-    "name": "v1.11.0",
-    "published": "2026-06-30T21:54:25Z",
-    "url": "https://github.com/freeok/so-novel/releases/tag/v1.11.0"
+    "tag": "v1.12.0",
+    "name": "v1.12.0",
+    "published": "2026-10-26T15:33:23Z",
+    "url": "https://github.com/freeok/so-novel/releases/tag/v1.12.0"
   },
   "assets": [
     {
       "name": "sonovel-macos_x64.tar.gz",
-      "size": 83090220,
-      "url": "https://github.com/freeok/so-novel/releases/download/v1.11.0/sonovel-macos_x64.tar.gz"
+      "size": 83103927,
+      "url": "https://github.com/freeok/so-novel/releases/download/v1.12.0/sonovel-macos_x64.tar.gz"
     },
     {
       "name": "sonovel-windows.tar.gz",
-      "size": 84944652,
-      "url": "https://github.com/freeok/so-novel/releases/download/v1.11.0/sonovel-windows.tar.gz"
+      "size": 84961414,
+      "url": "https://github.com/freeok/so-novel/releases/download/v1.12.0/sonovel-windows.tar.gz"
     },
     {
       "name": "sonovel-macos_arm64.tar.gz",
-      "size": 88237798,
-      "url": "https://github.com/freeok/so-novel/releases/download/v1.11.0/sonovel-macos_arm64.tar.gz"
+      "size": 88245382,
+      "url": "https://github.com/freeok/so-novel/releases/download/v1.12.0/sonovel-macos_arm64.tar.gz"
     },
     {
       "name": "sonovel-linux_arm64.tar.gz",
-      "size": 90735981,
-      "url": "https://github.com/freeok/so-novel/releases/download/v1.11.0/sonovel-linux_arm64.tar.gz"
+      "size": 90752999,
+      "url": "https://github.com/freeok/so-novel/releases/download/v1.12.0/sonovel-linux_arm64.tar.gz"
     },
     {
       "name": "sonovel-linux_x64.tar.gz",
-      "size": 92436121,
-      "url": "https://github.com/freeok/so-novel/releases/download/v1.11.0/sonovel-linux_x64.tar.gz"
+      "size": 92446819,
+      "url": "https://github.com/freeok/so-novel/releases/download/v1.12.0/sonovel-linux_x64.tar.gz"
     }
   ],
   "pinned": false,

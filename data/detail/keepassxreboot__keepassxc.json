@@ -21,41 +21,51 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/keepassxreboot/keepassxc/zip/refs/heads/develop",
   "release": {
-    "tag": "2.7.12",
-    "name": "Release 2.7.12",
-    "published": "2026-03-10T01:16:42Z",
-    "url": "https://github.com/keepassxreboot/keepassxc/releases/tag/2.7.12"
+    "tag": "2.8.0",
+    "name": "Release 2.8.0",
+    "published": "2026-10-21T21:57:23Z",
+    "url": "https://github.com/keepassxreboot/keepassxc/releases/tag/2.8.0"
   },
   "assets": [
     {
-      "name": "KeePassXC-2.7.12-arm64.dmg",
-      "size": 34360675,
-      "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.12/KeePassXC-2.7.12-arm64.dmg"
+      "name": "KeePassXC-2.8.0-arm64.dmg",
+      "size": 47298038,
+      "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-arm64.dmg"
     },
     {
-      "name": "KeePassXC-2.7.12-Win64.zip",
-      "size": 35395629,
-      "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.12/KeePassXC-2.7.12-Win64.zip"
+      "name": "KeePassXC-2.8.0-1-arm64.dmg",
+      "size": 47786914,
+      "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-arm64.dmg"
     },
     {
-      "name": "KeePassXC-2.7.12-x86_64.dmg",
-      "size": 35590140,
-      "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.12/KeePassXC-2.7.12-x86_64.dmg"
+      "name": "KeePassXC-2.8.0-ARM64.msi",
+      "size": 58859520,
+      "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-ARM64.msi"
     },
     {
-      "name": "KeePassXC-2.7.12-Win64.msi",
-      "size": 35901440,
-      "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.12/KeePassXC-2.7.12-Win64.msi"
+      "name": "KeePassXC-2.8.0-x64.msi",
+      "size": 69419008,
+      "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-x64.msi"
     },
     {
-      "name": "KeePassXC-2.7.12-x86_64.AppImage",
-      "size": 49247424,
-      "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.12/KeePassXC-2.7.12-x86_64.AppImage"
+      "name": "KeePassXC-2.8.0-aarch64.AppImage",
+      "size": 51268104,
+      "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-aarch64.AppImage"
     },
     {
-      "name": "keepassxc-2.7.12-src.tar.xz",
-      "size": 10618652,
-      "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.12/keepassxc-2.7.12-src.tar.xz"
+      "name": "KeePassXC-2.8.0-1-aarch64.AppImage",
+      "size": 51272200,
+      "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-aarch64.AppImage"
+    },
+    {
+      "name": "keepassxc-2.8.0-src.tar.xz",
+      "size": 10867052,
+      "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/keepassxc-2.8.0-src.tar.xz"
+    },
+    {
+      "name": "KeePassXC-2.8.0-ARM64.zip",
+      "size": 59703797,
+      "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-ARM64.zip"
     }
   ],
   "pinned": false,

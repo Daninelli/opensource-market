@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/hoppscotch/hoppscotch/zip/refs/heads/main",
   "release": {
-    "tag": "2026.9.0",
-    "name": "2026.9.0",
-    "published": "2026-09-30T11:50:32Z",
-    "url": "https://github.com/hoppscotch/hoppscotch/releases/tag/2026.9.0"
+    "tag": "2026.10.1",
+    "name": "2026.10.1",
+    "published": "2026-11-05T08:15:08Z",
+    "url": "https://github.com/hoppscotch/hoppscotch/releases/tag/2026.10.1"
   },
   "assets": [],
   "pinned": false,

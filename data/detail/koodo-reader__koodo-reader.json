@@ -21,51 +21,51 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/koodo-reader/koodo-reader/zip/refs/heads/dev",
   "release": {
-    "tag": "v2.4.6",
-    "name": "2.4.6",
-    "published": "2026-10-07T00:29:56Z",
-    "url": "https://github.com/koodo-reader/koodo-reader/releases/tag/v2.4.6"
+    "tag": "v2.4.7",
+    "name": "2.4.7",
+    "published": "2026-11-08T06:44:36Z",
+    "url": "https://github.com/koodo-reader/koodo-reader/releases/tag/v2.4.7"
   },
   "assets": [
     {
-      "name": "Koodo-Reader-2.4.6-ia32.exe",
-      "size": 107888307,
-      "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.6/Koodo-Reader-2.4.6-ia32.exe"
+      "name": "Koodo-Reader-2.4.7-ia32.exe",
+      "size": 112795575,
+      "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.7/Koodo-Reader-2.4.7-ia32.exe"
     },
     {
-      "name": "Koodo-Reader-2.4.6-x64-Portable.exe",
-      "size": 113074912,
-      "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.6/Koodo-Reader-2.4.6-x64-Portable.exe"
+      "name": "Koodo-Reader-2.4.7-arm64.exe",
+      "size": 114713910,
+      "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.7/Koodo-Reader-2.4.7-arm64.exe"
     },
     {
-      "name": "Koodo-Reader-2.4.6-arm64.dmg",
-      "size": 135444632,
-      "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.6/Koodo-Reader-2.4.6-arm64.dmg"
+      "name": "Koodo-Reader-2.4.7-arm64.dmg",
+      "size": 151369539,
+      "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.7/Koodo-Reader-2.4.7-arm64.dmg"
     },
     {
-      "name": "Koodo-Reader-2.4.6-x64.dmg",
-      "size": 143056180,
-      "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.6/Koodo-Reader-2.4.6-x64.dmg"
+      "name": "Koodo-Reader-2.4.7-x64.dmg",
+      "size": 158500150,
+      "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.7/Koodo-Reader-2.4.7-x64.dmg"
     },
     {
-      "name": "Koodo-Reader-2.4.6-x86_64.rpm",
-      "size": 89322545,
-      "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.6/Koodo-Reader-2.4.6-x86_64.rpm"
+      "name": "Koodo-Reader-2.4.7-x86_64.rpm",
+      "size": 100157341,
+      "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.7/Koodo-Reader-2.4.7-x86_64.rpm"
     },
     {
-      "name": "Koodo-Reader-2.4.6-arm64.deb",
-      "size": 103329952,
-      "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.6/Koodo-Reader-2.4.6-arm64.deb"
+      "name": "Koodo-Reader-2.4.7-arm64.deb",
+      "size": 109121700,
+      "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.7/Koodo-Reader-2.4.7-arm64.deb"
     },
     {
-      "name": "Koodo-Reader-2.4.6-arm64.apk",
-      "size": 64334135,
-      "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.6/Koodo-Reader-2.4.6-arm64.apk"
+      "name": "Koodo-Reader-2.4.7-signed.apk",
+      "size": 94556287,
+      "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.7/Koodo-Reader-2.4.7-signed.apk"
     },
     {
-      "name": "Koodo-Reader-2.4.6-universal.apk",
-      "size": 64334135,
-      "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.6/Koodo-Reader-2.4.6-universal.apk"
+      "name": "Koodo-Reader-2.4.7-arm64.apk",
+      "size": 94556307,
+      "url": "https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.7/Koodo-Reader-2.4.7-arm64.apk"
     }
   ],
   "pinned": false,

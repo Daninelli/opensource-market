@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/iib0011/omni-tools/zip/refs/heads/main",
   "release": {
-    "tag": "v0.6.0",
-    "name": "v0.6.0",
-    "published": "2025-10-02T23:08:44Z",
-    "url": "https://github.com/iib0011/omni-tools/releases/tag/v0.6.0"
+    "tag": "v0.7.0",
+    "name": "v0.7.0",
+    "published": "2026-10-20T13:37:22Z",
+    "url": "https://github.com/iib0011/omni-tools/releases/tag/v0.7.0"
   },
   "assets": [],
   "pinned": false,

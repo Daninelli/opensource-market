@@ -22,10 +22,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/grokability/snipe-it/zip/refs/heads/master",
   "release": {
-    "tag": "v8.8.1",
-    "name": "v8.8.1",
-    "published": "2026-10-20T01:42:22Z",
-    "url": "https://github.com/grokability/snipe-it/releases/tag/v8.8.1"
+    "tag": "v8.8.3",
+    "name": "v8.8.3 - Docker Alpine PHP2SHELL security patch",
+    "published": "2026-10-22T01:27:23Z",
+    "url": "https://github.com/grokability/snipe-it/releases/tag/v8.8.3"
   },
   "assets": [],
   "pinned": false,

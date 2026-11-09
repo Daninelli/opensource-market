@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/pathwaycom/serviette/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v0.1.8",
+    "name": "serviette 0.1.8 — llm-app is now serviette",
+    "published": "2026-11-02T13:15:54Z",
+    "url": "https://github.com/pathwaycom/serviette/releases/tag/v0.1.8"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

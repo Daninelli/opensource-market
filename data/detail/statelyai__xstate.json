@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/statelyai/xstate/zip/refs/heads/main",
   "release": {
-    "tag": "@xstate/vue@5.0.2",
-    "name": "@xstate/vue@5.0.2",
-    "published": "2026-10-19T19:49:12Z",
-    "url": "https://github.com/statelyai/xstate/releases/tag/%40xstate/vue%405.0.2"
+    "tag": "xstate@5.33.4",
+    "name": "xstate@5.33.4",
+    "published": "2026-11-07T19:08:14Z",
+    "url": "https://github.com/statelyai/xstate/releases/tag/xstate%405.33.4"
   },
   "assets": [],
   "pinned": false,

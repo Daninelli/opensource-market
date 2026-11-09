@@ -22,31 +22,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/vllm-project/vllm/zip/refs/heads/main",
   "release": {
-    "tag": "v0.32.0",
-    "name": "v0.32.0",
-    "published": "2026-10-18T06:50:48Z",
-    "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0"
+    "tag": "v0.33.0rc3",
+    "name": "v0.33.0",
+    "published": "2026-11-02T10:10:05Z",
+    "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3"
   },
   "assets": [
     {
-      "name": "vllm-0.32.0+cpu-cp38-abi3-macosx_11_0_arm64.whl",
-      "size": 29930964,
-      "url": "https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0%2Bcpu-cp38-abi3-macosx_11_0_arm64.whl"
+      "name": "vllm-0.33.0+cpu-cp38-abi3-macosx_11_0_arm64.whl",
+      "size": 31750134,
+      "url": "https://github.com/vllm-project/vllm/releases/download/v0.33.0rc3/vllm-0.33.0%2Bcpu-cp38-abi3-macosx_11_0_arm64.whl"
     },
     {
-      "name": "vllm-0.32.0+xpu-cp38-abi3-manylinux_2_34_x86_64.whl",
-      "size": 33527187,
-      "url": "https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0%2Bxpu-cp38-abi3-manylinux_2_34_x86_64.whl"
+      "name": "vllm-0.33.0+xpu-cp38-abi3-manylinux_2_34_x86_64.whl",
+      "size": 35375818,
+      "url": "https://github.com/vllm-project/vllm/releases/download/v0.33.0rc3/vllm-0.33.0%2Bxpu-cp38-abi3-manylinux_2_34_x86_64.whl"
     },
     {
-      "name": "vllm-0.32.0+cpu-cp38-abi3-manylinux_2_39_aarch64.whl",
-      "size": 70887725,
-      "url": "https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0%2Bcpu-cp38-abi3-manylinux_2_39_aarch64.whl"
+      "name": "vllm-0.33.0+cpu-cp38-abi3-manylinux_2_39_aarch64.whl",
+      "size": 73667810,
+      "url": "https://github.com/vllm-project/vllm/releases/download/v0.33.0rc3/vllm-0.33.0%2Bcpu-cp38-abi3-manylinux_2_39_aarch64.whl"
     },
     {
-      "name": "vllm-0.32.0.tar.gz",
-      "size": 44549956,
-      "url": "https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0.tar.gz"
+      "name": "vllm-0.33.0.tar.gz",
+      "size": 47101396,
+      "url": "https://github.com/vllm-project/vllm/releases/download/v0.33.0rc3/vllm-0.33.0.tar.gz"
     }
   ],
   "pinned": false,

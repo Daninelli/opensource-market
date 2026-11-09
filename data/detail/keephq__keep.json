@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/keephq/keep/zip/refs/heads/main",
   "release": {
-    "tag": "v0.54.3",
-    "name": "Release v0.54.3",
-    "published": "2026-09-09T07:44:58Z",
-    "url": "https://github.com/keephq/keep/releases/tag/v0.54.3"
+    "tag": "v0.55.0",
+    "name": "Release v0.55.0",
+    "published": "2026-11-03T12:45:11Z",
+    "url": "https://github.com/keephq/keep/releases/tag/v0.55.0"
   },
   "assets": [],
   "pinned": false,

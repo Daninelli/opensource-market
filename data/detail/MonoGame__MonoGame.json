@@ -22,12 +22,23 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/MonoGame/MonoGame/zip/refs/heads/develop",
   "release": {
-    "tag": "v3.8.6",
-    "name": "MonoGame v3.8.6",
-    "published": "2026-10-07T14:16:03Z",
-    "url": "https://github.com/MonoGame/MonoGame/releases/tag/v3.8.6"
+    "tag": "v3.8.6.1",
+    "name": "MonoGame v3.8.6.1",
+    "published": "2026-11-04T00:58:16Z",
+    "url": "https://github.com/MonoGame/MonoGame/releases/tag/v3.8.6.1"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "MonoGame.Templates.VSExtension.3.8.6.1.vsix.zip",
+      "size": 28903677,
+      "url": "https://github.com/MonoGame/MonoGame/releases/download/v3.8.6.1/MonoGame.Templates.VSExtension.3.8.6.1.vsix.zip"
+    },
+    {
+      "name": "MonoGame.3.8.6.1.zip",
+      "size": 275163620,
+      "url": "https://github.com/MonoGame/MonoGame/releases/download/v3.8.6.1/MonoGame.3.8.6.1.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

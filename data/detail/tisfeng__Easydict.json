@@ -21,21 +21,21 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/tisfeng/Easydict/zip/refs/heads/dev",
   "release": {
-    "tag": "2.24.0",
-    "name": "2.24.0",
-    "published": "2026-09-27T17:51:06Z",
-    "url": "https://github.com/tisfeng/Easydict/releases/tag/2.24.0"
+    "tag": "2.26.0",
+    "name": "2.26.0",
+    "published": "2026-10-27T14:49:23Z",
+    "url": "https://github.com/tisfeng/Easydict/releases/tag/2.26.0"
   },
   "assets": [
     {
       "name": "Easydict.dmg",
-      "size": 35757709,
-      "url": "https://github.com/tisfeng/Easydict/releases/download/2.24.0/Easydict.dmg"
+      "size": 35761660,
+      "url": "https://github.com/tisfeng/Easydict/releases/download/2.26.0/Easydict.dmg"
     },
     {
       "name": "Easydict.zip",
-      "size": 36093094,
-      "url": "https://github.com/tisfeng/Easydict/releases/download/2.24.0/Easydict.zip"
+      "size": 36102341,
+      "url": "https://github.com/tisfeng/Easydict/releases/download/2.26.0/Easydict.zip"
     }
   ],
   "pinned": false,

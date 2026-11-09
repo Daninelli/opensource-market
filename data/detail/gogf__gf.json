@@ -20,51 +20,51 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/gogf/gf/zip/refs/heads/master",
   "release": {
-    "tag": "v2.10.3",
-    "name": "GoFrame Release v2.10.3",
-    "published": "2026-08-26T02:30:02Z",
-    "url": "https://github.com/gogf/gf/releases/tag/v2.10.3"
+    "tag": "v2.10.4",
+    "name": "GoFrame Release v2.10.4",
+    "published": "2026-10-28T02:41:41Z",
+    "url": "https://github.com/gogf/gf/releases/tag/v2.10.4"
   },
   "assets": [
     {
       "name": "gf_windows_arm64.exe",
-      "size": 45972480,
-      "url": "https://github.com/gogf/gf/releases/download/v2.10.3/gf_windows_arm64.exe"
+      "size": 62423040,
+      "url": "https://github.com/gogf/gf/releases/download/v2.10.4/gf_windows_arm64.exe"
     },
     {
       "name": "gf_darwin_arm64",
-      "size": 47243730,
-      "url": "https://github.com/gogf/gf/releases/download/v2.10.3/gf_darwin_arm64"
+      "size": 64070642,
+      "url": "https://github.com/gogf/gf/releases/download/v2.10.4/gf_darwin_arm64"
     },
     {
       "name": "gf_windows_amd64.exe",
-      "size": 49253376,
-      "url": "https://github.com/gogf/gf/releases/download/v2.10.3/gf_windows_amd64.exe"
+      "size": 66339328,
+      "url": "https://github.com/gogf/gf/releases/download/v2.10.4/gf_windows_amd64.exe"
     },
     {
       "name": "gf_darwin_amd64",
-      "size": 49692112,
-      "url": "https://github.com/gogf/gf/releases/download/v2.10.3/gf_darwin_amd64"
+      "size": 66938496,
+      "url": "https://github.com/gogf/gf/releases/download/v2.10.4/gf_darwin_amd64"
     },
     {
       "name": "gf_linux_arm",
-      "size": 43280838,
-      "url": "https://github.com/gogf/gf/releases/download/v2.10.3/gf_linux_arm"
+      "size": 54956358,
+      "url": "https://github.com/gogf/gf/releases/download/v2.10.4/gf_linux_arm"
     },
     {
       "name": "gf_linux_386",
-      "size": 43755135,
-      "url": "https://github.com/gogf/gf/releases/download/v2.10.3/gf_linux_386"
+      "size": 55805645,
+      "url": "https://github.com/gogf/gf/releases/download/v2.10.4/gf_linux_386"
     },
     {
       "name": "gf_freebsd_arm",
-      "size": 43036922,
-      "url": "https://github.com/gogf/gf/releases/download/v2.10.3/gf_freebsd_arm"
+      "size": 54774658,
+      "url": "https://github.com/gogf/gf/releases/download/v2.10.4/gf_freebsd_arm"
     },
     {
       "name": "gf_freebsd_386",
-      "size": 43354364,
-      "url": "https://github.com/gogf/gf/releases/download/v2.10.3/gf_freebsd_386"
+      "size": 55364876,
+      "url": "https://github.com/gogf/gf/releases/download/v2.10.4/gf_freebsd_386"
     }
   ],
   "pinned": false,

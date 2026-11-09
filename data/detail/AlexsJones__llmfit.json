@@ -20,41 +20,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/AlexsJones/llmfit/zip/refs/heads/main",
   "release": {
-    "tag": "v1.1.17",
-    "name": "v1.1.17",
-    "published": "2026-10-08T18:04:05Z",
-    "url": "https://github.com/AlexsJones/llmfit/releases/tag/v1.1.17"
+    "tag": "v1.1.20",
+    "name": "v1.1.20",
+    "published": "2026-11-03T17:39:35Z",
+    "url": "https://github.com/AlexsJones/llmfit/releases/tag/v1.1.20"
   },
   "assets": [
     {
-      "name": "llmfit-v1.1.17-aarch64-pc-windows-msvc.zip",
-      "size": 5884558,
-      "url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.17/llmfit-v1.1.17-aarch64-pc-windows-msvc.zip"
+      "name": "llmfit-v1.1.20-aarch64-pc-windows-msvc.zip",
+      "size": 6516604,
+      "url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.20/llmfit-v1.1.20-aarch64-pc-windows-msvc.zip"
     },
     {
-      "name": "llmfit-v1.1.17-x86_64-pc-windows-msvc.zip",
-      "size": 6222681,
-      "url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.17/llmfit-v1.1.17-x86_64-pc-windows-msvc.zip"
+      "name": "llmfit-v1.1.20-x86_64-pc-windows-msvc.zip",
+      "size": 6878103,
+      "url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.20/llmfit-v1.1.20-x86_64-pc-windows-msvc.zip"
     },
     {
-      "name": "llmfit-v1.1.17-aarch64-apple-darwin.tar.gz",
-      "size": 6579395,
-      "url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.17/llmfit-v1.1.17-aarch64-apple-darwin.tar.gz"
+      "name": "llmfit-v1.1.20-aarch64-apple-darwin.tar.gz",
+      "size": 7308879,
+      "url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.20/llmfit-v1.1.20-aarch64-apple-darwin.tar.gz"
     },
     {
-      "name": "llmfit-v1.1.17-x86_64-apple-darwin.tar.gz",
-      "size": 6685409,
-      "url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.17/llmfit-v1.1.17-x86_64-apple-darwin.tar.gz"
+      "name": "llmfit-v1.1.20-x86_64-apple-darwin.tar.gz",
+      "size": 7383739,
+      "url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.20/llmfit-v1.1.20-x86_64-apple-darwin.tar.gz"
     },
     {
-      "name": "llmfit-v1.1.17-aarch64-unknown-linux-gnu.tar.gz",
-      "size": 7082255,
-      "url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.17/llmfit-v1.1.17-aarch64-unknown-linux-gnu.tar.gz"
+      "name": "llmfit-v1.1.20-aarch64-unknown-linux-gnu.tar.gz",
+      "size": 7808771,
+      "url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.20/llmfit-v1.1.20-aarch64-unknown-linux-gnu.tar.gz"
     },
     {
-      "name": "llmfit-v1.1.17-riscv64gc-unknown-linux-gnu.tar.gz",
-      "size": 7144701,
-      "url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.17/llmfit-v1.1.17-riscv64gc-unknown-linux-gnu.tar.gz"
+      "name": "llmfit-v1.1.20-riscv64gc-unknown-linux-gnu.tar.gz",
+      "size": 7860569,
+      "url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.20/llmfit-v1.1.20-riscv64gc-unknown-linux-gnu.tar.gz"
     }
   ],
   "pinned": false,

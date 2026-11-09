@@ -20,10 +20,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/prowler-cloud/prowler/zip/refs/heads/master",
   "release": {
-    "tag": "5.45.0",
-    "name": "Prowler 5.45.0",
-    "published": "2026-10-15T10:43:19Z",
-    "url": "https://github.com/prowler-cloud/prowler/releases/tag/5.45.0"
+    "tag": "5.48.0",
+    "name": "Prowler 5.48.0",
+    "published": "2026-11-06T11:27:58Z",
+    "url": "https://github.com/prowler-cloud/prowler/releases/tag/5.48.0"
   },
   "assets": [],
   "pinned": false,

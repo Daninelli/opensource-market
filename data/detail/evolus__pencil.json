@@ -21,12 +21,43 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/evolus/pencil/zip/refs/heads/master",
   "release": {
-    "tag": "v3.1.1",
-    "name": "3.1.1",
-    "published": "2023-01-01T03:03:19Z",
-    "url": "https://github.com/evolus/pencil/releases/tag/v3.1.1"
+    "tag": "v4.0.0",
+    "name": "4.0.0",
+    "published": "2026-10-24T03:37:20Z",
+    "url": "https://github.com/evolus/pencil/releases/tag/v4.0.0"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "Pencil-4.0.0-x64.dmg",
+      "size": 107099434,
+      "url": "https://github.com/evolus/pencil/releases/download/v4.0.0/Pencil-4.0.0-x64.dmg"
+    },
+    {
+      "name": "Pencil-4.0.0-arm64.dmg",
+      "size": 111858603,
+      "url": "https://github.com/evolus/pencil/releases/download/v4.0.0/Pencil-4.0.0-arm64.dmg"
+    },
+    {
+      "name": "Pencil-4.0.0.ga.exe",
+      "size": 156439710,
+      "url": "https://github.com/evolus/pencil/releases/download/v4.0.0/Pencil-4.0.0.ga.exe"
+    },
+    {
+      "name": "Pencil-4.0.0.ga.x86_64.rpm",
+      "size": 82116529,
+      "url": "https://github.com/evolus/pencil/releases/download/v4.0.0/Pencil-4.0.0.ga.x86_64.rpm"
+    },
+    {
+      "name": "Pencil_4.0.0.ga_amd64.deb",
+      "size": 84930480,
+      "url": "https://github.com/evolus/pencil/releases/download/v4.0.0/Pencil_4.0.0.ga_amd64.deb"
+    },
+    {
+      "name": "Pencil-4.0.0.ga.tar.gz",
+      "size": 118925108,
+      "url": "https://github.com/evolus/pencil/releases/download/v4.0.0/Pencil-4.0.0.ga.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

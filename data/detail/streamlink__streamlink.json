@@ -20,16 +20,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/streamlink/streamlink/zip/refs/heads/master",
   "release": {
-    "tag": "8.6.2",
-    "name": "Streamlink 8.6.2",
-    "published": "2026-10-07T19:50:24Z",
-    "url": "https://github.com/streamlink/streamlink/releases/tag/8.6.2"
+    "tag": "8.6.3",
+    "name": "Streamlink 8.6.3",
+    "published": "2026-10-29T18:58:33Z",
+    "url": "https://github.com/streamlink/streamlink/releases/tag/8.6.3"
   },
   "assets": [
     {
-      "name": "streamlink-8.6.2.tar.gz",
-      "size": 878213,
-      "url": "https://github.com/streamlink/streamlink/releases/download/8.6.2/streamlink-8.6.2.tar.gz"
+      "name": "streamlink-8.6.3.tar.gz",
+      "size": 878771,
+      "url": "https://github.com/streamlink/streamlink/releases/download/8.6.3/streamlink-8.6.3.tar.gz"
     }
   ],
   "pinned": false,

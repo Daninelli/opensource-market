@@ -21,26 +21,26 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/dataelement/dsh-desktop/zip/refs/heads/main",
   "release": {
-    "tag": "v0.12.0",
-    "name": "DSH Desktop v0.12.0",
-    "published": "2026-10-16T10:58:51Z",
-    "url": "https://github.com/dataelement/dsh-desktop/releases/tag/v0.12.0"
+    "tag": "v0.13.2",
+    "name": "DSH Desktop v0.13.2",
+    "published": "2026-11-03T12:48:07Z",
+    "url": "https://github.com/dataelement/dsh-desktop/releases/tag/v0.13.2"
   },
   "assets": [
     {
       "name": "dsh-desktop-windows-x64-setup.exe",
-      "size": 282009896,
-      "url": "https://github.com/dataelement/dsh-desktop/releases/download/v0.12.0/dsh-desktop-windows-x64-setup.exe"
+      "size": 280634760,
+      "url": "https://github.com/dataelement/dsh-desktop/releases/download/v0.13.2/dsh-desktop-windows-x64-setup.exe"
     },
     {
       "name": "dsh-desktop-mac-arm64.dmg",
-      "size": 321087402,
-      "url": "https://github.com/dataelement/dsh-desktop/releases/download/v0.12.0/dsh-desktop-mac-arm64.dmg"
+      "size": 362491906,
+      "url": "https://github.com/dataelement/dsh-desktop/releases/download/v0.13.2/dsh-desktop-mac-arm64.dmg"
     },
     {
-      "name": "dsh-desktop-mac-x64.dmg",
-      "size": 328712083,
-      "url": "https://github.com/dataelement/dsh-desktop/releases/download/v0.12.0/dsh-desktop-mac-x64.dmg"
+      "name": "dsh-desktop-mac-arm64.zip",
+      "size": 363393130,
+      "url": "https://github.com/dataelement/dsh-desktop/releases/download/v0.13.2/dsh-desktop-mac-arm64.zip"
     }
   ],
   "pinned": false,

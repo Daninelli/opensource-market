@@ -20,51 +20,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/storytold/filmcraft/zip/refs/heads/main",
   "release": {
-    "tag": "v0.9.0",
-    "name": "FilmCraft v0.9.0",
-    "published": "2026-10-18T03:55:32Z",
-    "url": "https://github.com/storytold/filmcraft/releases/tag/v0.9.0"
+    "tag": "v0.18.0",
+    "name": "FilmCraft v0.18.0",
+    "published": "2026-11-06T20:21:40Z",
+    "url": "https://github.com/storytold/filmcraft/releases/tag/v0.18.0"
   },
   "assets": [
     {
-      "name": "filmcraft-0.9.0-windows-arm64.msi",
-      "size": 53723136,
-      "url": "https://github.com/storytold/filmcraft/releases/download/v0.9.0/filmcraft-0.9.0-windows-arm64.msi"
+      "name": "filmcraft-0.18.0-linux-aarch64.flatpak",
+      "size": 75925256,
+      "url": "https://github.com/storytold/filmcraft/releases/download/v0.18.0/filmcraft-0.18.0-linux-aarch64.flatpak"
     },
     {
-      "name": "filmcraft-0.9.0-windows-x64.msi",
-      "size": 57266176,
-      "url": "https://github.com/storytold/filmcraft/releases/download/v0.9.0/filmcraft-0.9.0-windows-x64.msi"
+      "name": "filmcraft-0.18.0-linux-x86_64.flatpak",
+      "size": 79612808,
+      "url": "https://github.com/storytold/filmcraft/releases/download/v0.18.0/filmcraft-0.18.0-linux-x86_64.flatpak"
     },
     {
-      "name": "filmcraft-cli-0.9.0-macos-universal.zip",
-      "size": 60831940,
-      "url": "https://github.com/storytold/filmcraft/releases/download/v0.9.0/filmcraft-cli-0.9.0-macos-universal.zip"
+      "name": "filmcraft-0.18.0-freebsd-aarch64.tar.gz",
+      "size": 103288141,
+      "url": "https://github.com/storytold/filmcraft/releases/download/v0.18.0/filmcraft-0.18.0-freebsd-aarch64.tar.gz"
     },
     {
-      "name": "filmcraft-0.9.0-macos-universal.dmg",
-      "size": 73762573,
-      "url": "https://github.com/storytold/filmcraft/releases/download/v0.9.0/filmcraft-0.9.0-macos-universal.dmg"
-    },
-    {
-      "name": "filmcraft-0.9.0-linux-aarch64.flatpak",
-      "size": 47635184,
-      "url": "https://github.com/storytold/filmcraft/releases/download/v0.9.0/filmcraft-0.9.0-linux-aarch64.flatpak"
-    },
-    {
-      "name": "filmcraft-0.9.0-linux-x86_64.flatpak",
-      "size": 50906464,
-      "url": "https://github.com/storytold/filmcraft/releases/download/v0.9.0/filmcraft-0.9.0-linux-x86_64.flatpak"
-    },
-    {
-      "name": "filmcraft-web-0.9.0.zip",
-      "size": 13346780,
-      "url": "https://github.com/storytold/filmcraft/releases/download/v0.9.0/filmcraft-web-0.9.0.zip"
-    },
-    {
-      "name": "filmcraft-0.9.0-freebsd-x86_64.tar.gz",
-      "size": 69099722,
-      "url": "https://github.com/storytold/filmcraft/releases/download/v0.9.0/filmcraft-0.9.0-freebsd-x86_64.tar.gz"
+      "name": "filmcraft-0.18.0-freebsd-x86_64.tar.gz",
+      "size": 107579523,
+      "url": "https://github.com/storytold/filmcraft/releases/download/v0.18.0/filmcraft-0.18.0-freebsd-x86_64.tar.gz"
     }
   ],
   "pinned": false,

@@ -21,16 +21,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/bunkerity/bunkerweb/zip/refs/heads/master",
   "release": {
-    "tag": "v1.6.16",
-    "name": "v1.6.16",
-    "published": "2026-10-14T10:15:47Z",
-    "url": "https://github.com/bunkerity/bunkerweb/releases/tag/v1.6.16"
+    "tag": "v1.6.17",
+    "name": "v1.6.17",
+    "published": "2026-10-21T16:03:27Z",
+    "url": "https://github.com/bunkerity/bunkerweb/releases/tag/v1.6.17"
   },
   "assets": [
     {
       "name": "install-bunkerweb.sh",
-      "size": 429653,
-      "url": "https://github.com/bunkerity/bunkerweb/releases/download/v1.6.16/install-bunkerweb.sh"
+      "size": 429782,
+      "url": "https://github.com/bunkerity/bunkerweb/releases/download/v1.6.17/install-bunkerweb.sh"
     }
   ],
   "pinned": false,

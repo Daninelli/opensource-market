@@ -20,46 +20,46 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/kubeshark/kubeshark/zip/refs/heads/master",
   "release": {
-    "tag": "v53.5.0",
-    "name": "v53.5.0",
-    "published": "2026-10-07T15:24:24Z",
-    "url": "https://github.com/kubeshark/kubeshark/releases/tag/v53.5.0"
+    "tag": "v53.6.0",
+    "name": "v53.6.0",
+    "published": "2026-10-21T08:18:25Z",
+    "url": "https://github.com/kubeshark/kubeshark/releases/tag/v53.6.0"
   },
   "assets": [
     {
       "name": "kubeshark-mcp_darwin_arm64.mcpb",
-      "size": 60320498,
-      "url": "https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark-mcp_darwin_arm64.mcpb"
+      "size": 60320514,
+      "url": "https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark-mcp_darwin_arm64.mcpb"
     },
     {
       "name": "kubeshark_darwin_arm64",
-      "size": 60320498,
-      "url": "https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark_darwin_arm64"
+      "size": 60320514,
+      "url": "https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark_darwin_arm64"
     },
     {
       "name": "kubeshark-mcp_windows_amd64.mcpb",
       "size": 63671808,
-      "url": "https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark-mcp_windows_amd64.mcpb"
+      "url": "https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark-mcp_windows_amd64.mcpb"
     },
     {
       "name": "kubeshark.exe",
       "size": 63671808,
-      "url": "https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark.exe"
+      "url": "https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark.exe"
     },
     {
       "name": "kubeshark-mcp_linux_arm64.mcpb",
       "size": 58458296,
-      "url": "https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark-mcp_linux_arm64.mcpb"
+      "url": "https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark-mcp_linux_arm64.mcpb"
     },
     {
       "name": "kubeshark_linux_arm64",
       "size": 58458296,
-      "url": "https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark_linux_arm64"
+      "url": "https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark_linux_arm64"
     },
     {
-      "name": "validation-evidence-v53.5.0.zip",
-      "size": 761387,
-      "url": "https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/validation-evidence-v53.5.0.zip"
+      "name": "validation-evidence-v53.6.0.zip",
+      "size": 524654,
+      "url": "https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/validation-evidence-v53.6.0.zip"
     }
   ],
   "pinned": false,

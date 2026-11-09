@@ -20,41 +20,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/zed-industries/zed/zip/refs/heads/main",
   "release": {
-    "tag": "v1.24.3",
-    "name": "v1.24.3",
-    "published": "2026-10-19T12:43:19Z",
-    "url": "https://github.com/zed-industries/zed/releases/tag/v1.24.3"
+    "tag": "v1.27.0",
+    "name": "v1.27.0",
+    "published": "2026-11-04T17:04:23Z",
+    "url": "https://github.com/zed-industries/zed/releases/tag/v1.27.0"
   },
   "assets": [
     {
       "name": "zed-remote-server-macos-aarch64.gz",
-      "size": 34051562,
-      "url": "https://github.com/zed-industries/zed/releases/download/v1.24.3/zed-remote-server-macos-aarch64.gz"
+      "size": 33899907,
+      "url": "https://github.com/zed-industries/zed/releases/download/v1.27.0/zed-remote-server-macos-aarch64.gz"
     },
     {
       "name": "zed-remote-server-windows-aarch64.zip",
-      "size": 35769934,
-      "url": "https://github.com/zed-industries/zed/releases/download/v1.24.3/zed-remote-server-windows-aarch64.zip"
-    },
-    {
-      "name": "zed-remote-server-macos-x86_64.gz",
-      "size": 37730807,
-      "url": "https://github.com/zed-industries/zed/releases/download/v1.24.3/zed-remote-server-macos-x86_64.gz"
+      "size": 34553938,
+      "url": "https://github.com/zed-industries/zed/releases/download/v1.27.0/zed-remote-server-windows-aarch64.zip"
     },
     {
       "name": "zed-remote-server-windows-x86_64.zip",
-      "size": 39878873,
-      "url": "https://github.com/zed-industries/zed/releases/download/v1.24.3/zed-remote-server-windows-x86_64.zip"
+      "size": 36377623,
+      "url": "https://github.com/zed-industries/zed/releases/download/v1.27.0/zed-remote-server-windows-x86_64.zip"
+    },
+    {
+      "name": "zed-remote-server-macos-x86_64.gz",
+      "size": 36873194,
+      "url": "https://github.com/zed-industries/zed/releases/download/v1.27.0/zed-remote-server-macos-x86_64.gz"
     },
     {
       "name": "bwrap-linux-x86_64.gz",
-      "size": 102557,
-      "url": "https://github.com/zed-industries/zed/releases/download/v1.24.3/bwrap-linux-x86_64.gz"
+      "size": 125749,
+      "url": "https://github.com/zed-industries/zed/releases/download/v1.27.0/bwrap-linux-x86_64.gz"
     },
     {
       "name": "bwrap-linux-aarch64.gz",
-      "size": 116673,
-      "url": "https://github.com/zed-industries/zed/releases/download/v1.24.3/bwrap-linux-aarch64.gz"
+      "size": 138260,
+      "url": "https://github.com/zed-industries/zed/releases/download/v1.27.0/bwrap-linux-aarch64.gz"
     }
   ],
   "pinned": false,

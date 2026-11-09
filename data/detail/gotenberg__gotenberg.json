@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/gotenberg/gotenberg/zip/refs/heads/main",
   "release": {
-    "tag": "v8.38.1",
-    "name": "8.38.1",
-    "published": "2026-10-15T15:03:56Z",
-    "url": "https://github.com/gotenberg/gotenberg/releases/tag/v8.38.1"
+    "tag": "v9.2.0",
+    "name": "9.2.0",
+    "published": "2026-11-08T09:41:13Z",
+    "url": "https://github.com/gotenberg/gotenberg/releases/tag/v9.2.0"
   },
   "assets": [],
   "pinned": false,

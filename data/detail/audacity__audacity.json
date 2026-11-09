@@ -21,46 +21,46 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/audacity/audacity/zip/refs/heads/master",
   "release": {
-    "tag": "Audacity-4.0.1",
-    "name": "Audacity-4.0.1",
-    "published": "2026-09-30T11:59:48Z",
-    "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.1"
+    "tag": "Audacity-4.0.2",
+    "name": "Audacity 4.0.2",
+    "published": "2026-11-02T10:01:34Z",
+    "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.2"
   },
   "assets": [
     {
-      "name": "audacity-win-4.0.1-arm64.7z",
-      "size": 32798863,
-      "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-win-4.0.1-arm64.7z"
+      "name": "audacity-win-4.0.2-arm64.7z",
+      "size": 32843241,
+      "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.2/audacity-win-4.0.2-arm64.7z"
     },
     {
-      "name": "audacity-win-4.0.1-arm64.msi",
-      "size": 38264832,
-      "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-win-4.0.1-arm64.msi"
+      "name": "audacity-win-4.0.2-arm64.msi",
+      "size": 38240256,
+      "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.2/audacity-win-4.0.2-arm64.msi"
     },
     {
-      "name": "audacity-macOS-4.0.1-arm64.dmg",
-      "size": 50034126,
-      "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-macOS-4.0.1-arm64.dmg"
+      "name": "audacity-macOS-4.0.2-arm64.dmg",
+      "size": 50030766,
+      "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.2/audacity-macOS-4.0.2-arm64.dmg"
     },
     {
-      "name": "audacity-macOS-4.0.1-x86_64.dmg",
-      "size": 54321871,
-      "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-macOS-4.0.1-x86_64.dmg"
+      "name": "audacity-macOS-4.0.2-x86_64.dmg",
+      "size": 54394541,
+      "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.2/audacity-macOS-4.0.2-x86_64.dmg"
     },
     {
-      "name": "audacity-linux-4.0.1-aarch64.AppImage",
-      "size": 70666760,
-      "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-linux-4.0.1-aarch64.AppImage"
+      "name": "audacity-linux-4.0.2-aarch64.AppImage",
+      "size": 70670856,
+      "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.2/audacity-linux-4.0.2-aarch64.AppImage"
     },
     {
-      "name": "audacity-linux-4.0.1-x86_64.AppImage",
-      "size": 73755128,
-      "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-linux-4.0.1-x86_64.AppImage"
+      "name": "audacity-linux-4.0.2-x86_64.AppImage",
+      "size": 73726456,
+      "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.2/audacity-linux-4.0.2-x86_64.AppImage"
     },
     {
-      "name": "audacity-sources-4.0.1.tar.xz",
-      "size": 190348052,
-      "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-sources-4.0.1.tar.xz"
+      "name": "audacity-sources-4.0.2.tar.xz",
+      "size": 190743760,
+      "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.2/audacity-sources-4.0.2.tar.xz"
     }
   ],
   "pinned": false,

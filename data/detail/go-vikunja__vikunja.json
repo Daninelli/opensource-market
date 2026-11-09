@@ -20,51 +20,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/go-vikunja/vikunja/zip/refs/heads/main",
   "release": {
-    "tag": "v2.7.0",
-    "name": "v2.7.0",
-    "published": "2026-10-02T21:18:37Z",
-    "url": "https://github.com/go-vikunja/vikunja/releases/tag/v2.7.0"
+    "tag": "v2.8.0",
+    "name": "v2.8.0",
+    "published": "2026-11-05T20:44:21Z",
+    "url": "https://github.com/go-vikunja/vikunja/releases/tag/v2.8.0"
   },
   "assets": [
     {
-      "name": "veans-v2.7.0-windows-4.0-386.exe-full.zip",
-      "size": 7766175,
-      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/veans-v2.7.0-windows-4.0-386.exe-full.zip"
+      "name": "veans-v2.8.0-windows-4.0-amd64.exe-full.zip",
+      "size": 8165704,
+      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.8.0/veans-v2.8.0-windows-4.0-amd64.exe-full.zip"
     },
     {
-      "name": "veans-v2.7.0-windows-4.0-amd64.exe-full.zip",
-      "size": 8240156,
-      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/veans-v2.7.0-windows-4.0-amd64.exe-full.zip"
+      "name": "veans-v2.8.0-darwin-10.15-arm64-full.zip",
+      "size": 9194636,
+      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.8.0/veans-v2.8.0-darwin-10.15-arm64-full.zip"
     },
     {
-      "name": "veans-v2.7.0-darwin-10.15-arm64-full.zip",
-      "size": 9083637,
-      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/veans-v2.7.0-darwin-10.15-arm64-full.zip"
+      "name": "veans-v2.8.0-darwin-10.15-amd64-full.zip",
+      "size": 9865948,
+      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.8.0/veans-v2.8.0-darwin-10.15-amd64-full.zip"
     },
     {
-      "name": "vikunja-v2.7.0-darwin-10.15-arm64-full.zip",
-      "size": 54138373,
-      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/vikunja-v2.7.0-darwin-10.15-arm64-full.zip"
+      "name": "vikunja-v2.8.0-windows-4.0-386.exe-full.zip",
+      "size": 35415053,
+      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.8.0/vikunja-v2.8.0-windows-4.0-386.exe-full.zip"
     },
     {
-      "name": "veans-v2.7.0-linux-arm64-full.zip",
-      "size": 8115803,
-      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/veans-v2.7.0-linux-arm64-full.zip"
+      "name": "veans-v2.8.0-linux-arm64-full.zip",
+      "size": 8202461,
+      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.8.0/veans-v2.8.0-linux-arm64-full.zip"
     },
     {
-      "name": "veans-v2.7.0-linux-arm-7-full.zip",
-      "size": 8151450,
-      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/veans-v2.7.0-linux-arm-7-full.zip"
+      "name": "veans-v2.8.0-linux-arm-6-full.zip",
+      "size": 8245981,
+      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.8.0/veans-v2.8.0-linux-arm-6-full.zip"
     },
     {
-      "name": "vikunja-v2.7.0-aarch64.apk",
-      "size": 45838325,
-      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/vikunja-v2.7.0-aarch64.apk"
+      "name": "vikunja-v2.8.0-aarch64.apk",
+      "size": 45650647,
+      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.8.0/vikunja-v2.8.0-aarch64.apk"
     },
     {
-      "name": "vikunja-v2.7.0-x86_64.apk",
-      "size": 49565248,
-      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.7.0/vikunja-v2.7.0-x86_64.apk"
+      "name": "vikunja-v2.8.0-x86_64.apk",
+      "size": 49437202,
+      "url": "https://github.com/go-vikunja/vikunja/releases/download/v2.8.0/vikunja-v2.8.0-x86_64.apk"
     }
   ],
   "pinned": false,

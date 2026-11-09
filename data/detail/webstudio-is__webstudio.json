@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/webstudio-is/webstudio/zip/refs/heads/main",
   "release": {
-    "tag": "0.306.0",
-    "name": "0.306.0",
-    "published": "2026-10-14T18:13:59Z",
-    "url": "https://github.com/webstudio-is/webstudio/releases/tag/0.306.0"
+    "tag": "0.310.0",
+    "name": "0.310.0",
+    "published": "2026-11-06T20:45:22Z",
+    "url": "https://github.com/webstudio-is/webstudio/releases/tag/0.310.0"
   },
   "assets": [],
   "pinned": false,

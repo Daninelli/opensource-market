@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/activepieces/activepieces/zip/refs/heads/main",
   "release": {
-    "tag": "0.92.3",
-    "name": "0.92.3",
-    "published": "2026-10-12T18:43:34Z",
-    "url": "https://github.com/activepieces/activepieces/releases/tag/0.92.3"
+    "tag": "0.93.0",
+    "name": "0.93.0",
+    "published": "2026-11-08T14:30:22Z",
+    "url": "https://github.com/activepieces/activepieces/releases/tag/0.93.0"
   },
   "assets": [],
   "pinned": false,

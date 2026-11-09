@@ -22,10 +22,10 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/ever-co/ever-gauzy/zip/refs/heads/develop",
   "release": {
-    "tag": "v111.48.2",
-    "name": "v111.48.2",
-    "published": "2026-10-03T02:12:08Z",
-    "url": "https://github.com/ever-co/ever-gauzy/releases/tag/v111.48.2"
+    "tag": "v111.142.11",
+    "name": "v111.142.11",
+    "published": "2026-10-29T04:06:35Z",
+    "url": "https://github.com/ever-co/ever-gauzy/releases/tag/v111.142.11"
   },
   "assets": [],
   "pinned": false,

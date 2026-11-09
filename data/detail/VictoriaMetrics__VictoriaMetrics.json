@@ -20,51 +20,51 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/VictoriaMetrics/VictoriaMetrics/zip/refs/heads/master",
   "release": {
-    "tag": "v1.154.0",
-    "name": "v1.154.0",
-    "published": "2026-10-12T11:48:06Z",
-    "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/tag/v1.154.0"
+    "tag": "v1.155.0",
+    "name": "v1.155.0",
+    "published": "2026-10-26T13:40:31Z",
+    "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/tag/v1.155.0"
   },
   "assets": [
     {
-      "name": "victoria-metrics-windows-amd64-v1.154.0.zip",
-      "size": 7488593,
-      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.154.0/victoria-metrics-windows-amd64-v1.154.0.zip"
+      "name": "victoria-metrics-windows-amd64-v1.155.0.zip",
+      "size": 7497166,
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.155.0/victoria-metrics-windows-amd64-v1.155.0.zip"
     },
     {
-      "name": "victoria-metrics-darwin-arm64-v1.154.0.tar.gz",
-      "size": 13463114,
-      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.154.0/victoria-metrics-darwin-arm64-v1.154.0.tar.gz"
+      "name": "victoria-metrics-darwin-arm64-v1.155.0.tar.gz",
+      "size": 13480035,
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.155.0/victoria-metrics-darwin-arm64-v1.155.0.tar.gz"
     },
     {
-      "name": "victoria-metrics-darwin-amd64-v1.154.0.tar.gz",
-      "size": 14373988,
-      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.154.0/victoria-metrics-darwin-amd64-v1.154.0.tar.gz"
+      "name": "victoria-metrics-darwin-amd64-v1.155.0.tar.gz",
+      "size": 14387891,
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.155.0/victoria-metrics-darwin-amd64-v1.155.0.tar.gz"
     },
     {
-      "name": "victoria-metrics-windows-amd64-v1.154.0-cluster.zip",
-      "size": 15980463,
-      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.154.0/victoria-metrics-windows-amd64-v1.154.0-cluster.zip"
+      "name": "victoria-metrics-windows-amd64-v1.155.0-cluster.zip",
+      "size": 15991470,
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.155.0/victoria-metrics-windows-amd64-v1.155.0-cluster.zip"
     },
     {
-      "name": "victoria-metrics-linux-arm64-v1.154.0.tar.gz",
-      "size": 13436411,
-      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.154.0/victoria-metrics-linux-arm64-v1.154.0.tar.gz"
+      "name": "victoria-metrics-linux-arm64-v1.155.0.tar.gz",
+      "size": 13450171,
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.155.0/victoria-metrics-linux-arm64-v1.155.0.tar.gz"
     },
     {
-      "name": "victoria-metrics-linux-arm-v1.154.0.tar.gz",
-      "size": 13524788,
-      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.154.0/victoria-metrics-linux-arm-v1.154.0.tar.gz"
+      "name": "victoria-metrics-linux-arm-v1.155.0.tar.gz",
+      "size": 13541459,
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.155.0/victoria-metrics-linux-arm-v1.155.0.tar.gz"
     },
     {
-      "name": "victoria-metrics-openbsd-amd64-v1.154.0.tar.gz",
-      "size": 13987645,
-      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.154.0/victoria-metrics-openbsd-amd64-v1.154.0.tar.gz"
+      "name": "victoria-metrics-openbsd-amd64-v1.155.0.tar.gz",
+      "size": 13998638,
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.155.0/victoria-metrics-openbsd-amd64-v1.155.0.tar.gz"
     },
     {
-      "name": "victoria-metrics-freebsd-amd64-v1.154.0.tar.gz",
-      "size": 14010326,
-      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.154.0/victoria-metrics-freebsd-amd64-v1.154.0.tar.gz"
+      "name": "victoria-metrics-freebsd-amd64-v1.155.0.tar.gz",
+      "size": 14024389,
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.155.0/victoria-metrics-freebsd-amd64-v1.155.0.tar.gz"
     }
   ],
   "pinned": false,

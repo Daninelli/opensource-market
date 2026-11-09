@@ -21,31 +21,31 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mudler/LocalAI/zip/refs/heads/master",
   "release": {
-    "tag": "v4.11.0",
-    "name": "v4.11.0",
-    "published": "2026-10-02T21:56:09Z",
-    "url": "https://github.com/mudler/LocalAI/releases/tag/v4.11.0"
+    "tag": "v4.12.1",
+    "name": "v4.12.1",
+    "published": "2026-10-23T10:27:00Z",
+    "url": "https://github.com/mudler/LocalAI/releases/tag/v4.12.1"
   },
   "assets": [
     {
       "name": "LocalAI.dmg",
-      "size": 20473484,
-      "url": "https://github.com/mudler/LocalAI/releases/download/v4.11.0/LocalAI.dmg"
+      "size": 20568993,
+      "url": "https://github.com/mudler/LocalAI/releases/download/v4.12.1/LocalAI.dmg"
     },
     {
-      "name": "local-ai-v4.11.0-darwin-arm64",
-      "size": 190847445,
-      "url": "https://github.com/mudler/LocalAI/releases/download/v4.11.0/local-ai-v4.11.0-darwin-arm64"
+      "name": "local-ai-v4.12.1-darwin-arm64",
+      "size": 192233395,
+      "url": "https://github.com/mudler/LocalAI/releases/download/v4.12.1/local-ai-v4.12.1-darwin-arm64"
+    },
+    {
+      "name": "LocalAI-Launcher-x86_64.AppImage",
+      "size": 11958776,
+      "url": "https://github.com/mudler/LocalAI/releases/download/v4.12.1/LocalAI-Launcher-x86_64.AppImage"
     },
     {
       "name": "local-ai-launcher-linux.tar.xz",
-      "size": 16627268,
-      "url": "https://github.com/mudler/LocalAI/releases/download/v4.11.0/local-ai-launcher-linux.tar.xz"
-    },
-    {
-      "name": "local-ai-v4.11.0-linux-arm64",
-      "size": 183697570,
-      "url": "https://github.com/mudler/LocalAI/releases/download/v4.11.0/local-ai-v4.11.0-linux-arm64"
+      "size": 16699884,
+      "url": "https://github.com/mudler/LocalAI/releases/download/v4.12.1/local-ai-launcher-linux.tar.xz"
     }
   ],
   "pinned": false,

@@ -22,16 +22,16 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/openboxes/openboxes/zip/refs/heads/develop",
   "release": {
-    "tag": "v0.9.8-hotfix1",
-    "name": "Release v0.9.8-hotfix1",
-    "published": "2026-08-14T21:34:19Z",
-    "url": "https://github.com/openboxes/openboxes/releases/tag/v0.9.8-hotfix1"
+    "tag": "v0.9.9",
+    "name": "Release v0.9.9",
+    "published": "2026-10-23T21:41:57Z",
+    "url": "https://github.com/openboxes/openboxes/releases/tag/v0.9.9"
   },
   "assets": [
     {
       "name": "openboxes.war",
-      "size": 190501578,
-      "url": "https://github.com/openboxes/openboxes/releases/download/v0.9.8-hotfix1/openboxes.war"
+      "size": 192257929,
+      "url": "https://github.com/openboxes/openboxes/releases/download/v0.9.9/openboxes.war"
     }
   ],
   "pinned": false,

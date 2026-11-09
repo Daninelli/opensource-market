@@ -20,16 +20,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/OpenVPN/openvpn/zip/refs/heads/master",
   "release": {
-    "tag": "v2.7.8",
-    "name": "v2.7.8",
-    "published": "2026-10-07T14:18:17Z",
-    "url": "https://github.com/OpenVPN/openvpn/releases/tag/v2.7.8"
+    "tag": "v2.7.9",
+    "name": "v2.7.9",
+    "published": "2026-11-05T15:14:51Z",
+    "url": "https://github.com/OpenVPN/openvpn/releases/tag/v2.7.9"
   },
   "assets": [
     {
-      "name": "openvpn-2.7.8.tar.gz",
-      "size": 2123466,
-      "url": "https://github.com/OpenVPN/openvpn/releases/download/v2.7.8/openvpn-2.7.8.tar.gz"
+      "name": "openvpn-2.7.9.tar.gz",
+      "size": 2128894,
+      "url": "https://github.com/OpenVPN/openvpn/releases/download/v2.7.9/openvpn-2.7.9.tar.gz"
     }
   ],
   "pinned": false,

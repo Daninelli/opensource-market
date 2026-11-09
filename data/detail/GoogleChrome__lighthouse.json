@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/GoogleChrome/lighthouse/zip/refs/heads/main",
   "release": {
-    "tag": "v13.5.0",
-    "name": "v13.5.0",
-    "published": "2026-09-18T16:18:20Z",
-    "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v13.5.0"
+    "tag": "v13.6.0",
+    "name": "v13.6.0",
+    "published": "2026-10-27T21:32:12Z",
+    "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v13.6.0"
   },
   "assets": [],
   "pinned": false,

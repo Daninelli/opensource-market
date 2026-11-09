@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/yamadashy/repomix/zip/refs/heads/main",
   "release": {
-    "tag": "v1.18.1",
-    "name": "v1.18.1",
-    "published": "2026-09-21T08:34:49Z",
-    "url": "https://github.com/yamadashy/repomix/releases/tag/v1.18.1"
+    "tag": "v1.19.0",
+    "name": "v1.19.0",
+    "published": "2026-11-08T03:04:45Z",
+    "url": "https://github.com/yamadashy/repomix/releases/tag/v1.19.0"
   },
   "assets": [],
   "pinned": false,

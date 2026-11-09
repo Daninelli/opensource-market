@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/jeecgboot/jimureport/zip/refs/heads/master",
   "release": {
-    "tag": "v2.5.0",
-    "name": "v2.5.0 AI助手全新版",
-    "published": "2026-06-26T05:49:39Z",
-    "url": "https://github.com/jeecgboot/jimureport/releases/tag/v2.5.0"
+    "tag": "v2.5.6.1",
+    "name": "v2.5.6.1",
+    "published": "2026-11-03T08:38:38Z",
+    "url": "https://github.com/jeecgboot/jimureport/releases/tag/v2.5.6.1"
   },
   "assets": [],
   "pinned": false,

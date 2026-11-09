@@ -22,16 +22,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/harry0703/MoneyPrinterTurbo/zip/refs/heads/main",
   "release": {
-    "tag": "v1.3.8",
-    "name": "v1.3.8",
-    "published": "2026-10-03T03:31:16Z",
-    "url": "https://github.com/harry0703/MoneyPrinterTurbo/releases/tag/v1.3.8"
+    "tag": "v1.3.10",
+    "name": "v1.3.10",
+    "published": "2026-11-07T00:43:54Z",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo/releases/tag/v1.3.10"
   },
   "assets": [
     {
-      "name": "MoneyPrinterTurbo-Portable-Windows-1.3.8.7z",
-      "size": 918153837,
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo/releases/download/v1.3.8/MoneyPrinterTurbo-Portable-Windows-1.3.8.7z"
+      "name": "MoneyPrinterTurbo-Portable-Windows-1.3.10.7z",
+      "size": 555234896,
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo/releases/download/v1.3.10/MoneyPrinterTurbo-Portable-Windows-1.3.10.7z"
     }
   ],
   "pinned": false,

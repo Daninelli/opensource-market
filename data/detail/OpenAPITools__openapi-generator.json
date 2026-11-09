@@ -20,16 +20,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/OpenAPITools/openapi-generator/zip/refs/heads/master",
   "release": {
-    "tag": "v7.26.0",
-    "name": "v7.26.0 released",
-    "published": "2026-10-06T09:33:32Z",
-    "url": "https://github.com/OpenAPITools/openapi-generator/releases/tag/v7.26.0"
+    "tag": "v7.27.0",
+    "name": "v7.27.0 released",
+    "published": "2026-11-02T05:17:40Z",
+    "url": "https://github.com/OpenAPITools/openapi-generator/releases/tag/v7.27.0"
   },
   "assets": [
     {
-      "name": "openapi-generator-cli-7.26.0.jar",
-      "size": 33737249,
-      "url": "https://github.com/OpenAPITools/openapi-generator/releases/download/v7.26.0/openapi-generator-cli-7.26.0.jar"
+      "name": "openapi-generator-cli-7.27.0.jar",
+      "size": 33068535,
+      "url": "https://github.com/OpenAPITools/openapi-generator/releases/download/v7.27.0/openapi-generator-cli-7.27.0.jar"
     }
   ],
   "pinned": false,

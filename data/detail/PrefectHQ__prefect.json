@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/PrefectHQ/prefect/zip/refs/heads/main",
   "release": {
-    "tag": "3.8.8",
-    "name": "3.8.8 - I take my wildcards literally",
-    "published": "2026-10-06T16:29:55Z",
-    "url": "https://github.com/PrefectHQ/prefect/releases/tag/3.8.8"
+    "tag": "3.9.2",
+    "name": "3.9.2 - It’s okay to let go of a lock that already let go of you",
+    "published": "2026-11-06T21:19:09Z",
+    "url": "https://github.com/PrefectHQ/prefect/releases/tag/3.9.2"
   },
   "assets": [],
   "pinned": false,

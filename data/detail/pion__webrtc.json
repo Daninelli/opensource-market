@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/pion/webrtc/zip/refs/heads/main",
   "release": {
-    "tag": "v4.2.24",
-    "name": "v4.2.24",
-    "published": "2026-10-16T09:28:08Z",
-    "url": "https://github.com/pion/webrtc/releases/tag/v4.2.24"
+    "tag": "v5.0.0-rc.2",
+    "name": "v5.0.0-rc.2",
+    "published": "2026-11-07T03:42:11Z",
+    "url": "https://github.com/pion/webrtc/releases/tag/v5.0.0-rc.2"
   },
   "assets": [],
   "pinned": false,

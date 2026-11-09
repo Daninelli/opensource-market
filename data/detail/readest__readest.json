@@ -22,51 +22,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/readest/readest/zip/refs/heads/main",
   "release": {
-    "tag": "v0.12.16",
-    "name": "Readest 0.12.16",
-    "published": "2026-10-13T22:34:40Z",
-    "url": "https://github.com/readest/readest/releases/tag/v0.12.16"
+    "tag": "v0.12.20",
+    "name": "Readest 0.12.20",
+    "published": "2026-11-05T22:40:01Z",
+    "url": "https://github.com/readest/readest/releases/tag/v0.12.20"
   },
   "assets": [
     {
-      "name": "Readest_0.12.16_arm64-setup.exe",
-      "size": 56751278,
-      "url": "https://github.com/readest/readest/releases/download/v0.12.16/Readest_0.12.16_arm64-setup.exe"
+      "name": "Readest_0.12.20_arm64-setup.exe",
+      "size": 60639609,
+      "url": "https://github.com/readest/readest/releases/download/v0.12.20/Readest_0.12.20_arm64-setup.exe"
     },
     {
-      "name": "Readest_0.12.16_x64-setup.exe",
-      "size": 58190733,
-      "url": "https://github.com/readest/readest/releases/download/v0.12.16/Readest_0.12.16_x64-setup.exe"
+      "name": "Readest_0.12.20_x64-setup.exe",
+      "size": 62213579,
+      "url": "https://github.com/readest/readest/releases/download/v0.12.20/Readest_0.12.20_x64-setup.exe"
     },
     {
-      "name": "Readest_0.12.16_universal.dmg",
-      "size": 70983929,
-      "url": "https://github.com/readest/readest/releases/download/v0.12.16/Readest_0.12.16_universal.dmg"
+      "name": "Readest_0.12.20_universal.dmg",
+      "size": 71442588,
+      "url": "https://github.com/readest/readest/releases/download/v0.12.20/Readest_0.12.20_universal.dmg"
     },
     {
-      "name": "Readest-0.12.16-1.aarch64.rpm",
-      "size": 140794914,
-      "url": "https://github.com/readest/readest/releases/download/v0.12.16/Readest-0.12.16-1.aarch64.rpm"
+      "name": "Readest-0.12.20-1.aarch64.rpm",
+      "size": 141540780,
+      "url": "https://github.com/readest/readest/releases/download/v0.12.20/Readest-0.12.20-1.aarch64.rpm"
     },
     {
-      "name": "Readest-0.12.16-1.x86_64.rpm",
-      "size": 142348901,
-      "url": "https://github.com/readest/readest/releases/download/v0.12.16/Readest-0.12.16-1.x86_64.rpm"
+      "name": "Readest-0.12.20-1.x86_64.rpm",
+      "size": 143094783,
+      "url": "https://github.com/readest/readest/releases/download/v0.12.20/Readest-0.12.20-1.x86_64.rpm"
     },
     {
-      "name": "Readest_0.12.16_armv7.apk",
-      "size": 46261934,
-      "url": "https://github.com/readest/readest/releases/download/v0.12.16/Readest_0.12.16_armv7.apk"
+      "name": "Readest_0.12.20_armv7.apk",
+      "size": 46704562,
+      "url": "https://github.com/readest/readest/releases/download/v0.12.20/Readest_0.12.20_armv7.apk"
     },
     {
-      "name": "Readest_0.12.16_arm64.apk",
-      "size": 57163864,
-      "url": "https://github.com/readest/readest/releases/download/v0.12.16/Readest_0.12.16_arm64.apk"
+      "name": "Readest_0.12.20_arm64.apk",
+      "size": 57688416,
+      "url": "https://github.com/readest/readest/releases/download/v0.12.20/Readest_0.12.20_arm64.apk"
     },
     {
       "name": "send-to-readest-0.2.1.zip",
-      "size": 478278,
-      "url": "https://github.com/readest/readest/releases/download/v0.12.16/send-to-readest-0.2.1.zip"
+      "size": 479638,
+      "url": "https://github.com/readest/readest/releases/download/v0.12.20/send-to-readest-0.2.1.zip"
     }
   ],
   "pinned": false,

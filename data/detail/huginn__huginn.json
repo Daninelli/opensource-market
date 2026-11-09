@@ -20,10 +20,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/huginn/huginn/zip/refs/heads/master",
   "release": {
-    "tag": "v2026.10.14",
-    "name": "v2026.10.14",
-    "published": "2026-10-13T20:53:47Z",
-    "url": "https://github.com/huginn/huginn/releases/tag/v2026.10.14"
+    "tag": "v2026.11.09",
+    "name": "v2026.11.09",
+    "published": "2026-11-09T01:48:50Z",
+    "url": "https://github.com/huginn/huginn/releases/tag/v2026.11.09"
   },
   "assets": [],
   "pinned": false,

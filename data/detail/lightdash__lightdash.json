@@ -22,26 +22,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/lightdash/lightdash/zip/refs/heads/main",
   "release": {
-    "tag": "2.616.2",
-    "name": "2.616.2",
-    "published": "2026-10-19T19:30:37Z",
-    "url": "https://github.com/lightdash/lightdash/releases/tag/2.616.2"
+    "tag": "3.179.1",
+    "name": "3.179.1",
+    "published": "2026-11-09T07:31:14Z",
+    "url": "https://github.com/lightdash/lightdash/releases/tag/3.179.1"
   },
   "assets": [
     {
-      "name": "lightdash-cli-2.616.2-macos-arm64.tar.gz",
-      "size": 81542966,
-      "url": "https://github.com/lightdash/lightdash/releases/download/2.616.2/lightdash-cli-2.616.2-macos-arm64.tar.gz"
-    },
-    {
-      "name": "lightdash-cli-2.616.2-macos-x64.tar.gz",
-      "size": 84066070,
-      "url": "https://github.com/lightdash/lightdash/releases/download/2.616.2/lightdash-cli-2.616.2-macos-x64.tar.gz"
-    },
-    {
-      "name": "lightdash-cli-2.616.2-linux-x64.tar.gz",
-      "size": 55232132,
-      "url": "https://github.com/lightdash/lightdash/releases/download/2.616.2/lightdash-cli-2.616.2-linux-x64.tar.gz"
+      "name": "lightdash-cli-3.179.1-linux-x64.tar.gz",
+      "size": 54529606,
+      "url": "https://github.com/lightdash/lightdash/releases/download/3.179.1/lightdash-cli-3.179.1-linux-x64.tar.gz"
     }
   ],
   "pinned": false,

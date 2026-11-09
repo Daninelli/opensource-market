@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/datopian/portaljs/zip/refs/heads/main",
   "release": {
-    "tag": "create-portaljs@0.6.0",
-    "name": "create-portaljs@0.6.0",
-    "published": "2026-06-18T09:52:53Z",
-    "url": "https://github.com/datopian/portaljs/releases/tag/create-portaljs%400.6.0"
+    "tag": "create-portaljs@0.7.1",
+    "name": "create-portaljs@0.7.1",
+    "published": "2026-10-21T05:27:18Z",
+    "url": "https://github.com/datopian/portaljs/releases/tag/create-portaljs%400.7.1"
   },
   "assets": [],
   "pinned": false,

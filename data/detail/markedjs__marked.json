@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/markedjs/marked/zip/refs/heads/master",
   "release": {
-    "tag": "v18.1.1",
-    "name": "v18.1.1",
-    "published": "2026-10-12T12:28:54Z",
-    "url": "https://github.com/markedjs/marked/releases/tag/v18.1.1"
+    "tag": "v18.1.3",
+    "name": "v18.1.3",
+    "published": "2026-11-02T17:59:38Z",
+    "url": "https://github.com/markedjs/marked/releases/tag/v18.1.3"
   },
   "assets": [],
   "pinned": false,

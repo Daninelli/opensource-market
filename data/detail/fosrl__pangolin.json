@@ -21,21 +21,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/fosrl/pangolin/zip/refs/heads/main",
   "release": {
-    "tag": "1.24.0",
-    "name": "1.24.0",
-    "published": "2026-09-30T20:23:59Z",
-    "url": "https://github.com/fosrl/pangolin/releases/tag/1.24.0"
+    "tag": "1.26.0",
+    "name": "1.26.0",
+    "published": "2026-11-04T15:47:21Z",
+    "url": "https://github.com/fosrl/pangolin/releases/tag/1.26.0"
   },
   "assets": [
     {
       "name": "installer_linux_arm64",
-      "size": 9030255,
-      "url": "https://github.com/fosrl/pangolin/releases/download/1.24.0/installer_linux_arm64"
+      "size": 9038934,
+      "url": "https://github.com/fosrl/pangolin/releases/download/1.26.0/installer_linux_arm64"
     },
     {
       "name": "installer_linux_amd64",
-      "size": 9484385,
-      "url": "https://github.com/fosrl/pangolin/releases/download/1.24.0/installer_linux_amd64"
+      "size": 9535368,
+      "url": "https://github.com/fosrl/pangolin/releases/download/1.26.0/installer_linux_amd64"
     }
   ],
   "pinned": false,

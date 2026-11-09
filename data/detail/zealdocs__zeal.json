@@ -21,36 +21,36 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/zealdocs/zeal/zip/refs/heads/main",
   "release": {
-    "tag": "v0.9.1",
-    "name": "v0.9.1",
-    "published": "2026-07-28T21:15:43Z",
-    "url": "https://github.com/zealdocs/zeal/releases/tag/v0.9.1"
+    "tag": "v0.9.2",
+    "name": "v0.9.2",
+    "published": "2026-10-31T03:43:44Z",
+    "url": "https://github.com/zealdocs/zeal/releases/tag/v0.9.2"
   },
   "assets": [
     {
-      "name": "zeal-0.9.1-portable-windows-arm64.7z",
-      "size": 75941981,
-      "url": "https://github.com/zealdocs/zeal/releases/download/v0.9.1/zeal-0.9.1-portable-windows-arm64.7z"
+      "name": "zeal-0.9.2-portable-windows-arm64.7z",
+      "size": 78132361,
+      "url": "https://github.com/zealdocs/zeal/releases/download/v0.9.2/zeal-0.9.2-portable-windows-arm64.7z"
     },
     {
-      "name": "zeal-0.9.1-windows-arm64.msi",
-      "size": 89567232,
-      "url": "https://github.com/zealdocs/zeal/releases/download/v0.9.1/zeal-0.9.1-windows-arm64.msi"
+      "name": "zeal-0.9.2-windows-arm64.msi",
+      "size": 92491776,
+      "url": "https://github.com/zealdocs/zeal/releases/download/v0.9.2/zeal-0.9.2-windows-arm64.msi"
     },
     {
-      "name": "Zeal-0.9.1-x86_64.AppImage",
-      "size": 135678456,
-      "url": "https://github.com/zealdocs/zeal/releases/download/v0.9.1/Zeal-0.9.1-x86_64.AppImage"
+      "name": "Zeal-0.9.2-x86_64.AppImage",
+      "size": 134593016,
+      "url": "https://github.com/zealdocs/zeal/releases/download/v0.9.2/Zeal-0.9.2-x86_64.AppImage"
     },
     {
-      "name": "zeal-0.9.1.tar.xz",
-      "size": 2076288,
-      "url": "https://github.com/zealdocs/zeal/releases/download/v0.9.1/zeal-0.9.1.tar.xz"
+      "name": "zeal-0.9.2.tar.xz",
+      "size": 2110696,
+      "url": "https://github.com/zealdocs/zeal/releases/download/v0.9.2/zeal-0.9.2.tar.xz"
     },
     {
-      "name": "zeal-0.9.1.tar.gz",
-      "size": 2225437,
-      "url": "https://github.com/zealdocs/zeal/releases/download/v0.9.1/zeal-0.9.1.tar.gz"
+      "name": "zeal-0.9.2.tar.gz",
+      "size": 2264767,
+      "url": "https://github.com/zealdocs/zeal/releases/download/v0.9.2/zeal-0.9.2.tar.gz"
     }
   ],
   "pinned": false,

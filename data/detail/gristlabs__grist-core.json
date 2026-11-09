@@ -23,10 +23,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/gristlabs/grist-core/zip/refs/heads/main",
   "release": {
-    "tag": "v1.7.21",
-    "name": "v1.7.21",
-    "published": "2026-10-09T20:08:10Z",
-    "url": "https://github.com/gristlabs/grist-core/releases/tag/v1.7.21"
+    "tag": "v1.7.22",
+    "name": "v1.7.22",
+    "published": "2026-10-29T15:57:26Z",
+    "url": "https://github.com/gristlabs/grist-core/releases/tag/v1.7.22"
   },
   "assets": [],
   "pinned": false,

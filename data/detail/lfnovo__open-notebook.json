@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/lfnovo/open-notebook/zip/refs/heads/main",
   "release": {
-    "tag": "v1.15.0",
-    "name": "v1.15.0 — Quiet Green, new providers and sturdier ingestion",
-    "published": "2026-10-04T23:45:47Z",
-    "url": "https://github.com/lfnovo/open-notebook/releases/tag/v1.15.0"
+    "tag": "v1.15.1",
+    "name": "v1.15.1 — security release",
+    "published": "2026-11-04T14:19:57Z",
+    "url": "https://github.com/lfnovo/open-notebook/releases/tag/v1.15.1"
   },
   "assets": [],
   "pinned": false,

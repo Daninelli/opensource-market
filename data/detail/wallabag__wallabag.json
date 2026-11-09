@@ -22,16 +22,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/wallabag/wallabag/zip/refs/heads/master",
   "release": {
-    "tag": "2.6.14",
-    "name": "2.6.14",
-    "published": "2025-10-07T08:06:17Z",
-    "url": "https://github.com/wallabag/wallabag/releases/tag/2.6.14"
+    "tag": "2.6.15",
+    "name": "2.6.15",
+    "published": "2026-10-28T10:01:06Z",
+    "url": "https://github.com/wallabag/wallabag/releases/tag/2.6.15"
   },
   "assets": [
     {
-      "name": "wallabag-2.6.14.tar.gz",
-      "size": 61432532,
-      "url": "https://github.com/wallabag/wallabag/releases/download/2.6.14/wallabag-2.6.14.tar.gz"
+      "name": "wallabag-2.6.15.tar.gz",
+      "size": 66463918,
+      "url": "https://github.com/wallabag/wallabag/releases/download/2.6.15/wallabag-2.6.15.tar.gz"
     }
   ],
   "pinned": false,

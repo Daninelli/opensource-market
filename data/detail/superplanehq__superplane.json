@@ -21,21 +21,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/superplanehq/superplane/zip/refs/heads/main",
   "release": {
-    "tag": "fleet-manager/v0.1.4",
-    "name": "Fleet Manager v0.1.4",
-    "published": "2026-10-15T23:08:32Z",
-    "url": "https://github.com/superplanehq/superplane/releases/tag/fleet-manager/v0.1.4"
+    "tag": "fleet-manager/v0.1.7",
+    "name": "Fleet Manager v0.1.7",
+    "published": "2026-10-28T17:14:39Z",
+    "url": "https://github.com/superplanehq/superplane/releases/tag/fleet-manager/v0.1.7"
   },
   "assets": [
     {
       "name": "fleet-manager-linux-arm64.tar.gz",
-      "size": 13227216,
-      "url": "https://github.com/superplanehq/superplane/releases/download/fleet-manager/v0.1.4/fleet-manager-linux-arm64.tar.gz"
+      "size": 13255088,
+      "url": "https://github.com/superplanehq/superplane/releases/download/fleet-manager/v0.1.7/fleet-manager-linux-arm64.tar.gz"
     },
     {
       "name": "fleet-manager-linux-amd64.tar.gz",
-      "size": 15077520,
-      "url": "https://github.com/superplanehq/superplane/releases/download/fleet-manager/v0.1.4/fleet-manager-linux-amd64.tar.gz"
+      "size": 15107893,
+      "url": "https://github.com/superplanehq/superplane/releases/download/fleet-manager/v0.1.7/fleet-manager-linux-amd64.tar.gz"
     }
   ],
   "pinned": false,

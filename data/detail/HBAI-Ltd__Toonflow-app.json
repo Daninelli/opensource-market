@@ -20,36 +20,46 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/HBAI-Ltd/Toonflow-app/zip/refs/heads/master",
   "release": {
-    "tag": "v2.0.6",
-    "name": "Toonflow 2.0.6",
-    "published": "2026-10-13T07:59:07Z",
-    "url": "https://github.com/HBAI-Ltd/Toonflow-app/releases/tag/v2.0.6"
+    "tag": "v2.0.10",
+    "name": "Toonflow 2.0.10",
+    "published": "2026-11-05T03:20:26Z",
+    "url": "https://github.com/HBAI-Ltd/Toonflow-app/releases/tag/v2.0.10"
   },
   "assets": [
     {
-      "name": "stable-macos-arm64-rmectz7msdat.patch",
-      "size": 5361600,
-      "url": "https://github.com/HBAI-Ltd/Toonflow-app/releases/download/v2.0.6/stable-macos-arm64-rmectz7msdat.patch"
+      "name": "toonflow-2.0.10-win-arm64-Setup.exe",
+      "size": 26823027,
+      "url": "https://github.com/HBAI-Ltd/Toonflow-app/releases/download/v2.0.10/toonflow-2.0.10-win-arm64-Setup.exe"
     },
     {
-      "name": "stable-macos-x64-2ha1hmftmr5l5.patch",
-      "size": 5681976,
-      "url": "https://github.com/HBAI-Ltd/Toonflow-app/releases/download/v2.0.6/stable-macos-x64-2ha1hmftmr5l5.patch"
+      "name": "toonflow-2.0.10-Setup.exe",
+      "size": 29481040,
+      "url": "https://github.com/HBAI-Ltd/Toonflow-app/releases/download/v2.0.10/toonflow-2.0.10-Setup.exe"
     },
     {
-      "name": "stable-win-x64-knlfps67z3wt.patch",
-      "size": 5789699,
-      "url": "https://github.com/HBAI-Ltd/Toonflow-app/releases/download/v2.0.6/stable-win-x64-knlfps67z3wt.patch"
+      "name": "stable-macos-arm64-21hfqqmzpdgte.patch",
+      "size": 36198417,
+      "url": "https://github.com/HBAI-Ltd/Toonflow-app/releases/download/v2.0.10/stable-macos-arm64-21hfqqmzpdgte.patch"
     },
     {
-      "name": "toonflow-2.0.6-Setup.exe",
-      "size": 47171645,
-      "url": "https://github.com/HBAI-Ltd/Toonflow-app/releases/download/v2.0.6/toonflow-2.0.6-Setup.exe"
+      "name": "stable-macos-arm64-toonflow.app.tar.zst",
+      "size": 62802838,
+      "url": "https://github.com/HBAI-Ltd/Toonflow-app/releases/download/v2.0.10/stable-macos-arm64-toonflow.app.tar.zst"
     },
     {
-      "name": "toonflow-2.0.6-android-arm64.apk",
-      "size": 147811319,
-      "url": "https://github.com/HBAI-Ltd/Toonflow-app/releases/download/v2.0.6/toonflow-2.0.6-android-arm64.apk"
+      "name": "toonflow-2.0.10-linux-arm64.deb",
+      "size": 37629352,
+      "url": "https://github.com/HBAI-Ltd/Toonflow-app/releases/download/v2.0.10/toonflow-2.0.10-linux-arm64.deb"
+    },
+    {
+      "name": "toonflow-2.0.10-linux-x64.deb",
+      "size": 38467496,
+      "url": "https://github.com/HBAI-Ltd/Toonflow-app/releases/download/v2.0.10/toonflow-2.0.10-linux-x64.deb"
+    },
+    {
+      "name": "toonflow-2.0.10-android-arm64.apk",
+      "size": 163180908,
+      "url": "https://github.com/HBAI-Ltd/Toonflow-app/releases/download/v2.0.10/toonflow-2.0.10-android-arm64.apk"
     }
   ],
   "pinned": false,

@@ -20,21 +20,21 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/oceanbase/oceanbase/zip/refs/heads/master",
   "release": {
-    "tag": "v4.4.2_CE_BP3",
-    "name": "v4.4.2_CE_BP3",
-    "published": "2026-09-15T02:39:26Z",
-    "url": "https://github.com/oceanbase/oceanbase/releases/tag/v4.4.2_CE_BP3"
+    "tag": "v4.6.0_CE_BP1",
+    "name": "v4.6.0_CE_BP1",
+    "published": "2026-10-30T13:22:04Z",
+    "url": "https://github.com/oceanbase/oceanbase/releases/tag/v4.6.0_CE_BP1"
   },
   "assets": [
     {
-      "name": "oceanbase-ce-sql-parser-4.4.2.3-103000052026090811.el7.aarch64.rpm",
-      "size": 1088292,
-      "url": "https://github.com/oceanbase/oceanbase/releases/download/v4.4.2_CE_BP3/oceanbase-ce-sql-parser-4.4.2.3-103000052026090811.el7.aarch64.rpm"
+      "name": "oceanbase-ce-sql-parser-4.6.0.1-101000012026072714.nonlse.el7.aarch64.rpm",
+      "size": 2342352,
+      "url": "https://github.com/oceanbase/oceanbase/releases/download/v4.6.0_CE_BP1/oceanbase-ce-sql-parser-4.6.0.1-101000012026072714.nonlse.el7.aarch64.rpm"
     },
     {
-      "name": "oceanbase-ce-sql-parser-4.4.2.3-103000052026090811.nonlse.el7.aarch64.rpm",
-      "size": 1088400,
-      "url": "https://github.com/oceanbase/oceanbase/releases/download/v4.4.2_CE_BP3/oceanbase-ce-sql-parser-4.4.2.3-103000052026090811.nonlse.el7.aarch64.rpm"
+      "name": "oceanbase-ce-sql-parser-4.6.0.1-101000012026072714.el7.aarch64.rpm",
+      "size": 2342656,
+      "url": "https://github.com/oceanbase/oceanbase/releases/download/v4.6.0_CE_BP1/oceanbase-ce-sql-parser-4.6.0.1-101000012026072714.el7.aarch64.rpm"
     }
   ],
   "pinned": false,

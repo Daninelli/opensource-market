@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/solidusio/solidus/zip/refs/heads/main",
   "release": {
-    "tag": "solidus_admin/v0.5.0",
-    "name": "solidus_admin/v0.5.0",
-    "published": "2026-10-14T02:48:33Z",
-    "url": "https://github.com/solidusio/solidus/releases/tag/solidus_admin/v0.5.0"
+    "tag": "solidus_admin/v0.5.1",
+    "name": "solidus_admin/v0.5.1",
+    "published": "2026-11-05T14:43:19Z",
+    "url": "https://github.com/solidusio/solidus/releases/tag/solidus_admin/v0.5.1"
   },
   "assets": [],
   "pinned": false,

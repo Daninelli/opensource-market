@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/docling-project/docling/zip/refs/heads/main",
   "release": {
-    "tag": "v2.140.0",
-    "name": "v2.140.0",
-    "published": "2026-10-16T09:00:49Z",
-    "url": "https://github.com/docling-project/docling/releases/tag/v2.140.0"
+    "tag": "v2.149.0",
+    "name": "v2.149.0",
+    "published": "2026-11-08T08:25:48Z",
+    "url": "https://github.com/docling-project/docling/releases/tag/v2.149.0"
   },
   "assets": [],
   "pinned": false,

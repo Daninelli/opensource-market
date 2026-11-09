@@ -20,16 +20,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/goharbor/harbor/zip/refs/heads/main",
   "release": {
-    "tag": "v2.15.4",
-    "name": "v2.15.4",
-    "published": "2026-10-09T03:28:27Z",
-    "url": "https://github.com/goharbor/harbor/releases/tag/v2.15.4"
+    "tag": "v2.14.6",
+    "name": "v2.14.6",
+    "published": "2026-10-23T07:04:43Z",
+    "url": "https://github.com/goharbor/harbor/releases/tag/v2.14.6"
   },
   "assets": [
     {
-      "name": "harbor-offline-installer-v2.15.4.tgz",
-      "size": 747317006,
-      "url": "https://github.com/goharbor/harbor/releases/download/v2.15.4/harbor-offline-installer-v2.15.4.tgz"
+      "name": "harbor-offline-installer-v2.14.6.tgz",
+      "size": 783725093,
+      "url": "https://github.com/goharbor/harbor/releases/download/v2.14.6/harbor-offline-installer-v2.14.6.tgz"
     }
   ],
   "pinned": false,

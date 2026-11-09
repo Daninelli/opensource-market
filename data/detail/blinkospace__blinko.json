@@ -21,46 +21,46 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/blinkospace/blinko/zip/refs/heads/main",
   "release": {
-    "tag": "1.8.8",
-    "name": "Blinko 1.8.8",
-    "published": "2026-06-20T08:30:09Z",
-    "url": "https://github.com/blinkospace/blinko/releases/tag/1.8.8"
+    "tag": "1.8.9",
+    "name": "Blinko 1.8.9",
+    "published": "2026-11-05T02:51:35Z",
+    "url": "https://github.com/blinkospace/blinko/releases/tag/1.8.9"
   },
   "assets": [
     {
-      "name": "Blinko_1.8.8_x64-setup.exe",
-      "size": 11477719,
-      "url": "https://github.com/blinkospace/blinko/releases/download/1.8.8/Blinko_1.8.8_x64-setup.exe"
+      "name": "Blinko_1.8.9_x64-setup.exe",
+      "size": 11437519,
+      "url": "https://github.com/blinkospace/blinko/releases/download/1.8.9/Blinko_1.8.9_x64-setup.exe"
     },
     {
-      "name": "Blinko_1.8.8_x64_en-US.msi",
-      "size": 13520896,
-      "url": "https://github.com/blinkospace/blinko/releases/download/1.8.8/Blinko_1.8.8_x64_en-US.msi"
+      "name": "Blinko_1.8.9_x64_en-US.msi",
+      "size": 13418496,
+      "url": "https://github.com/blinkospace/blinko/releases/download/1.8.9/Blinko_1.8.9_x64_en-US.msi"
     },
     {
-      "name": "Blinko_1.8.8_aarch64.dmg",
-      "size": 14524938,
-      "url": "https://github.com/blinkospace/blinko/releases/download/1.8.8/Blinko_1.8.8_aarch64.dmg"
+      "name": "Blinko_1.8.9_aarch64.dmg",
+      "size": 14244446,
+      "url": "https://github.com/blinkospace/blinko/releases/download/1.8.9/Blinko_1.8.9_aarch64.dmg"
     },
     {
-      "name": "Blinko-1.8.8-1.x86_64.rpm",
-      "size": 15221679,
-      "url": "https://github.com/blinkospace/blinko/releases/download/1.8.8/Blinko-1.8.8-1.x86_64.rpm"
+      "name": "Blinko_1.8.9_amd64.deb",
+      "size": 15039594,
+      "url": "https://github.com/blinkospace/blinko/releases/download/1.8.9/Blinko_1.8.9_amd64.deb"
     },
     {
-      "name": "Blinko_1.8.8_amd64.deb",
-      "size": 15223284,
-      "url": "https://github.com/blinkospace/blinko/releases/download/1.8.8/Blinko_1.8.8_amd64.deb"
+      "name": "Blinko-1.8.9-1.x86_64.rpm",
+      "size": 15042152,
+      "url": "https://github.com/blinkospace/blinko/releases/download/1.8.9/Blinko-1.8.9-1.x86_64.rpm"
     },
     {
-      "name": "Blinko_1.8.8_universal.apk",
-      "size": 93415314,
-      "url": "https://github.com/blinkospace/blinko/releases/download/1.8.8/Blinko_1.8.8_universal.apk"
+      "name": "Blinko_1.8.9_universal.apk",
+      "size": 97604698,
+      "url": "https://github.com/blinkospace/blinko/releases/download/1.8.9/Blinko_1.8.9_universal.apk"
     },
     {
       "name": "Blinko_aarch64.app.tar.gz",
-      "size": 14080471,
-      "url": "https://github.com/blinkospace/blinko/releases/download/1.8.8/Blinko_aarch64.app.tar.gz"
+      "size": 13794323,
+      "url": "https://github.com/blinkospace/blinko/releases/download/1.8.9/Blinko_aarch64.app.tar.gz"
     }
   ],
   "pinned": false,

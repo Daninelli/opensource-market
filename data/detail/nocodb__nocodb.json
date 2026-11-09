@@ -22,10 +22,10 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/nocodb/nocodb/zip/refs/heads/develop",
   "release": {
-    "tag": "2026.09.1",
-    "name": "2026.09.1 : MCP for Your Whole Account",
-    "published": "2026-09-29T14:39:07Z",
-    "url": "https://github.com/nocodb/nocodb/releases/tag/2026.09.1"
+    "tag": "2026.10.1",
+    "name": "2026.10.1 : Bug Fix Release",
+    "published": "2026-10-29T11:19:16Z",
+    "url": "https://github.com/nocodb/nocodb/releases/tag/2026.10.1"
   },
   "assets": [],
   "pinned": false,

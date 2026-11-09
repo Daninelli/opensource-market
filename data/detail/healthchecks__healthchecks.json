@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/healthchecks/healthchecks/zip/refs/heads/master",
   "release": {
-    "tag": "v4.4",
-    "name": "v4.4",
-    "published": "2026-08-31T08:32:16Z",
-    "url": "https://github.com/healthchecks/healthchecks/releases/tag/v4.4"
+    "tag": "v5.0.3",
+    "name": "v5.0.3",
+    "published": "2026-10-27T12:43:36Z",
+    "url": "https://github.com/healthchecks/healthchecks/releases/tag/v5.0.3"
   },
   "assets": [],
   "pinned": false,

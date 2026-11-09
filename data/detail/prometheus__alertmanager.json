@@ -20,51 +20,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/prometheus/alertmanager/zip/refs/heads/main",
   "release": {
-    "tag": "v0.34.1",
-    "name": "0.34.1 / 2026-09-17",
-    "published": "2026-09-17T08:12:07Z",
-    "url": "https://github.com/prometheus/alertmanager/releases/tag/v0.34.1"
+    "tag": "v0.34.2",
+    "name": "0.34.2 / 2026-10-29",
+    "published": "2026-10-29T10:04:06Z",
+    "url": "https://github.com/prometheus/alertmanager/releases/tag/v0.34.2"
   },
   "assets": [
     {
-      "name": "alertmanager-0.34.1.windows-arm64.tar.gz",
-      "size": 36117342,
-      "url": "https://github.com/prometheus/alertmanager/releases/download/v0.34.1/alertmanager-0.34.1.windows-arm64.tar.gz"
+      "name": "alertmanager-0.34.2.windows-arm64.tar.gz",
+      "size": 36210268,
+      "url": "https://github.com/prometheus/alertmanager/releases/download/v0.34.2/alertmanager-0.34.2.windows-arm64.tar.gz"
     },
     {
-      "name": "alertmanager-0.34.1.windows-arm64.zip",
-      "size": 36779775,
-      "url": "https://github.com/prometheus/alertmanager/releases/download/v0.34.1/alertmanager-0.34.1.windows-arm64.zip"
+      "name": "alertmanager-0.34.2.windows-arm64.zip",
+      "size": 36869253,
+      "url": "https://github.com/prometheus/alertmanager/releases/download/v0.34.2/alertmanager-0.34.2.windows-arm64.zip"
     },
     {
-      "name": "alertmanager-0.34.1.darwin-arm64.tar.gz",
-      "size": 38203929,
-      "url": "https://github.com/prometheus/alertmanager/releases/download/v0.34.1/alertmanager-0.34.1.darwin-arm64.tar.gz"
+      "name": "alertmanager-0.34.2.darwin-arm64.tar.gz",
+      "size": 38290146,
+      "url": "https://github.com/prometheus/alertmanager/releases/download/v0.34.2/alertmanager-0.34.2.darwin-arm64.tar.gz"
     },
     {
-      "name": "alertmanager-0.34.1.darwin-amd64.tar.gz",
-      "size": 40541015,
-      "url": "https://github.com/prometheus/alertmanager/releases/download/v0.34.1/alertmanager-0.34.1.darwin-amd64.tar.gz"
+      "name": "alertmanager-0.34.2.darwin-amd64.tar.gz",
+      "size": 40633621,
+      "url": "https://github.com/prometheus/alertmanager/releases/download/v0.34.2/alertmanager-0.34.2.darwin-amd64.tar.gz"
     },
     {
-      "name": "alertmanager-0.34.1.linux-mips64le.tar.gz",
-      "size": 35160080,
-      "url": "https://github.com/prometheus/alertmanager/releases/download/v0.34.1/alertmanager-0.34.1.linux-mips64le.tar.gz"
+      "name": "alertmanager-0.34.2.linux-mips64le.tar.gz",
+      "size": 35245728,
+      "url": "https://github.com/prometheus/alertmanager/releases/download/v0.34.2/alertmanager-0.34.2.linux-mips64le.tar.gz"
     },
     {
-      "name": "alertmanager-0.34.1.linux-mipsle.tar.gz",
-      "size": 35672626,
-      "url": "https://github.com/prometheus/alertmanager/releases/download/v0.34.1/alertmanager-0.34.1.linux-mipsle.tar.gz"
+      "name": "alertmanager-0.34.2.linux-mipsle.tar.gz",
+      "size": 35764365,
+      "url": "https://github.com/prometheus/alertmanager/releases/download/v0.34.2/alertmanager-0.34.2.linux-mipsle.tar.gz"
     },
     {
-      "name": "alertmanager-web-ui-0.34.1.tar.gz",
-      "size": 931784,
-      "url": "https://github.com/prometheus/alertmanager/releases/download/v0.34.1/alertmanager-web-ui-0.34.1.tar.gz"
+      "name": "alertmanager-web-ui-0.34.2.tar.gz",
+      "size": 931818,
+      "url": "https://github.com/prometheus/alertmanager/releases/download/v0.34.2/alertmanager-web-ui-0.34.2.tar.gz"
     },
     {
-      "name": "alertmanager-0.34.1.netbsd-arm64.tar.gz",
-      "size": 35689933,
-      "url": "https://github.com/prometheus/alertmanager/releases/download/v0.34.1/alertmanager-0.34.1.netbsd-arm64.tar.gz"
+      "name": "alertmanager-0.34.2.netbsd-arm64.tar.gz",
+      "size": 35778917,
+      "url": "https://github.com/prometheus/alertmanager/releases/download/v0.34.2/alertmanager-0.34.2.netbsd-arm64.tar.gz"
     }
   ],
   "pinned": false,

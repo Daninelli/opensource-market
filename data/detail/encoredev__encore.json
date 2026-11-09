@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/encoredev/encore/zip/refs/heads/main",
   "release": {
-    "tag": "v1.58.7",
-    "name": "v1.58.7 — Fixes and improvements",
-    "published": "2026-10-19T13:54:14Z",
-    "url": "https://github.com/encoredev/encore/releases/tag/v1.58.7"
+    "tag": "v1.58.8",
+    "name": "v1.58.8 — Fixes and improvements",
+    "published": "2026-10-20T19:18:07Z",
+    "url": "https://github.com/encoredev/encore/releases/tag/v1.58.8"
   },
   "assets": [],
   "pinned": false,

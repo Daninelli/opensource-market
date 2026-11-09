@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/hajimehoshi/ebiten/zip/refs/heads/main",
   "release": {
-    "tag": "v2.10.5",
-    "name": "v2.10.5",
-    "published": "2026-10-09T19:24:38Z",
-    "url": "https://github.com/hajimehoshi/ebiten/releases/tag/v2.10.5"
+    "tag": "v2.10.6",
+    "name": "v2.10.6",
+    "published": "2026-11-07T04:03:39Z",
+    "url": "https://github.com/hajimehoshi/ebiten/releases/tag/v2.10.6"
   },
   "assets": [],
   "pinned": false,

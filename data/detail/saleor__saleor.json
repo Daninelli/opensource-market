@@ -23,10 +23,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/saleor/saleor/zip/refs/heads/main",
   "release": {
-    "tag": "3.23.43",
-    "name": "3.23.43",
-    "published": "2026-10-19T14:34:39Z",
-    "url": "https://github.com/saleor/saleor/releases/tag/3.23.43"
+    "tag": "3.23.47",
+    "name": "3.23.47",
+    "published": "2026-11-03T17:32:53Z",
+    "url": "https://github.com/saleor/saleor/releases/tag/3.23.47"
   },
   "assets": [],
   "pinned": false,

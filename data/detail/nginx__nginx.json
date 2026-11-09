@@ -22,21 +22,21 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/nginx/nginx/zip/refs/heads/master",
   "release": {
-    "tag": "release-1.31.7",
-    "name": "release-1.31.7",
-    "published": "2026-10-14T15:18:00Z",
-    "url": "https://github.com/nginx/nginx/releases/tag/release-1.31.7"
+    "tag": "release-1.31.8",
+    "name": "release-1.31.8",
+    "published": "2026-10-21T15:27:35Z",
+    "url": "https://github.com/nginx/nginx/releases/tag/release-1.31.8"
   },
   "assets": [
     {
-      "name": "nginx-1.31.7.tar.gz",
-      "size": 1392370,
-      "url": "https://github.com/nginx/nginx/releases/download/release-1.31.7/nginx-1.31.7.tar.gz"
+      "name": "nginx-1.31.8.tar.gz",
+      "size": 1385338,
+      "url": "https://github.com/nginx/nginx/releases/download/release-1.31.8/nginx-1.31.8.tar.gz"
     },
     {
-      "name": "nginx-1.31.7.zip",
-      "size": 2795610,
-      "url": "https://github.com/nginx/nginx/releases/download/release-1.31.7/nginx-1.31.7.zip"
+      "name": "nginx-1.31.8.zip",
+      "size": 2794487,
+      "url": "https://github.com/nginx/nginx/releases/download/release-1.31.8/nginx-1.31.8.zip"
     }
   ],
   "pinned": false,

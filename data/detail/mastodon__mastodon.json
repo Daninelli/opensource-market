@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/mastodon/mastodon/zip/refs/heads/main",
   "release": {
-    "tag": "v4.7.3",
-    "name": "v4.7.3",
-    "published": "2026-10-01T14:09:40Z",
-    "url": "https://github.com/mastodon/mastodon/releases/tag/v4.7.3"
+    "tag": "v4.7.5",
+    "name": "v4.7.5",
+    "published": "2026-11-03T15:28:59Z",
+    "url": "https://github.com/mastodon/mastodon/releases/tag/v4.7.5"
   },
   "assets": [],
   "pinned": false,

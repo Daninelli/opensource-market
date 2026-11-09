@@ -20,41 +20,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/kubevela/kubevela/zip/refs/heads/master",
   "release": {
-    "tag": "v1.11.0",
-    "name": "v1.11.0",
-    "published": "2026-07-20T09:04:01Z",
-    "url": "https://github.com/kubevela/kubevela/releases/tag/v1.11.0"
+    "tag": "v1.11.1",
+    "name": "v1.11.1",
+    "published": "2026-11-06T15:27:35Z",
+    "url": "https://github.com/kubevela/kubevela/releases/tag/v1.11.1"
   },
   "assets": [
     {
-      "name": "vela-v1.11.0-windows-arm64.tar.gz",
-      "size": 31271799,
-      "url": "https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela-v1.11.0-windows-arm64.tar.gz"
+      "name": "vela-v1.11.1-windows-arm64.tar.gz",
+      "size": 31405225,
+      "url": "https://github.com/kubevela/kubevela/releases/download/v1.11.1/vela-v1.11.1-windows-arm64.tar.gz"
     },
     {
-      "name": "vela-v1.11.0-windows-arm64.zip",
-      "size": 31274737,
-      "url": "https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela-v1.11.0-windows-arm64.zip"
+      "name": "vela-v1.11.1-windows-arm64.zip",
+      "size": 31405709,
+      "url": "https://github.com/kubevela/kubevela/releases/download/v1.11.1/vela-v1.11.1-windows-arm64.zip"
     },
     {
-      "name": "vela-v1.11.0-darwin-arm64.zip",
-      "size": 32640751,
-      "url": "https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela-v1.11.0-darwin-arm64.zip"
+      "name": "vela-v1.11.1-darwin-arm64.zip",
+      "size": 32762008,
+      "url": "https://github.com/kubevela/kubevela/releases/download/v1.11.1/vela-v1.11.1-darwin-arm64.zip"
     },
     {
-      "name": "kubectl-vela-v1.11.0-darwin-arm64.zip",
-      "size": 32641560,
-      "url": "https://github.com/kubevela/kubevela/releases/download/v1.11.0/kubectl-vela-v1.11.0-darwin-arm64.zip"
+      "name": "kubectl-vela-v1.11.1-darwin-arm64.zip",
+      "size": 32769040,
+      "url": "https://github.com/kubevela/kubevela/releases/download/v1.11.1/kubectl-vela-v1.11.1-darwin-arm64.zip"
     },
     {
-      "name": "kubectl-vela-v1.11.0-linux-arm64.zip",
-      "size": 31127250,
-      "url": "https://github.com/kubevela/kubevela/releases/download/v1.11.0/kubectl-vela-v1.11.0-linux-arm64.zip"
+      "name": "kubectl-vela-v1.11.1-linux-arm64.zip",
+      "size": 31250475,
+      "url": "https://github.com/kubevela/kubevela/releases/download/v1.11.1/kubectl-vela-v1.11.1-linux-arm64.zip"
     },
     {
-      "name": "vela-v1.11.0-linux-arm64.zip",
-      "size": 31129029,
-      "url": "https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela-v1.11.0-linux-arm64.zip"
+      "name": "vela-v1.11.1-linux-arm64.tar.gz",
+      "size": 31252163,
+      "url": "https://github.com/kubevela/kubevela/releases/download/v1.11.1/vela-v1.11.1-linux-arm64.tar.gz"
     }
   ],
   "pinned": false,

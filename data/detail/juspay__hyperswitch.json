@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/juspay/hyperswitch/zip/refs/heads/main",
   "release": {
-    "tag": "v1.128.0",
-    "name": "Hyperswitch v1.128.0",
-    "published": "2026-10-16T06:11:09Z",
-    "url": "https://github.com/juspay/hyperswitch/releases/tag/v1.128.0"
+    "tag": "v1.129.0",
+    "name": "Hyperswitch v1.129.0",
+    "published": "2026-11-02T14:20:46Z",
+    "url": "https://github.com/juspay/hyperswitch/releases/tag/v1.129.0"
   },
   "assets": [],
   "pinned": false,

@@ -21,18 +21,12 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/p-e-w/heretic/zip/refs/heads/master",
   "release": {
-    "tag": "v1.4.0",
-    "name": "v1.4.0",
-    "published": "2026-06-14T12:55:57Z",
-    "url": "https://github.com/p-e-w/heretic/releases/tag/v1.4.0"
+    "tag": "v2.1.0",
+    "name": "v2.1.0",
+    "published": "2026-11-08T07:14:03Z",
+    "url": "https://github.com/p-e-w/heretic/releases/tag/v2.1.0"
   },
-  "assets": [
-    {
-      "name": "heretic-1.4.0.zip",
-      "size": 354369,
-      "url": "https://github.com/p-e-w/heretic/releases/download/v1.4.0/heretic-1.4.0.zip"
-    }
-  ],
+  "assets": [],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

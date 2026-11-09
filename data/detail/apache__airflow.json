@@ -22,21 +22,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/apache/airflow/zip/refs/heads/main",
   "release": {
-    "tag": "3.3.2",
-    "name": "Apache Airflow 3.3.2",
-    "published": "2026-09-17T11:10:15Z",
-    "url": "https://github.com/apache/airflow/releases/tag/3.3.2"
+    "tag": "3.4.0",
+    "name": "Apache Airflow 3.4.0",
+    "published": "2026-11-06T13:08:22Z",
+    "url": "https://github.com/apache/airflow/releases/tag/3.4.0"
   },
   "assets": [
     {
-      "name": "apache_airflow_core-3.3.2-py3-none-any.whl",
-      "size": 6921273,
-      "url": "https://github.com/apache/airflow/releases/download/3.3.2/apache_airflow_core-3.3.2-py3-none-any.whl"
+      "name": "apache_airflow_core-3.4.0-py3-none-any.whl",
+      "size": 9788318,
+      "url": "https://github.com/apache/airflow/releases/download/3.4.0/apache_airflow_core-3.4.0-py3-none-any.whl"
     },
     {
-      "name": "apache_airflow_core-3.3.2.tar.gz",
-      "size": 7442317,
-      "url": "https://github.com/apache/airflow/releases/download/3.3.2/apache_airflow_core-3.3.2.tar.gz"
+      "name": "apache_airflow_core-3.4.0.tar.gz",
+      "size": 10583463,
+      "url": "https://github.com/apache/airflow/releases/download/3.4.0/apache_airflow_core-3.4.0.tar.gz"
     }
   ],
   "pinned": false,

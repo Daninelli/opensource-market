@@ -22,51 +22,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/nexmoe/VidBee/zip/refs/heads/main",
   "release": {
-    "tag": "v2.2.3",
-    "name": "v2.2.3",
-    "published": "2026-10-11T13:28:35Z",
-    "url": "https://github.com/nexmoe/VidBee/releases/tag/v2.2.3"
+    "tag": "v2.3.0",
+    "name": "v2.3.0",
+    "published": "2026-10-25T13:41:46Z",
+    "url": "https://github.com/nexmoe/VidBee/releases/tag/v2.3.0"
   },
   "assets": [
     {
-      "name": "vidbee-2.2.3-x64.dmg",
-      "size": 251453336,
-      "url": "https://github.com/nexmoe/VidBee/releases/download/v2.2.3/vidbee-2.2.3-x64.dmg"
+      "name": "vidbee-2.3.0-arm64.dmg",
+      "size": 273990224,
+      "url": "https://github.com/nexmoe/VidBee/releases/download/v2.3.0/vidbee-2.3.0-arm64.dmg"
     },
     {
-      "name": "vidbee-2.2.3-arm64.dmg",
-      "size": 273387623,
-      "url": "https://github.com/nexmoe/VidBee/releases/download/v2.2.3/vidbee-2.2.3-arm64.dmg"
+      "name": "vidbee-2.3.0-x64.dmg",
+      "size": 288233202,
+      "url": "https://github.com/nexmoe/VidBee/releases/download/v2.3.0/vidbee-2.3.0-x64.dmg"
     },
     {
-      "name": "vidbee-2.2.3-portable.exe",
-      "size": 408298204,
-      "url": "https://github.com/nexmoe/VidBee/releases/download/v2.2.3/vidbee-2.2.3-portable.exe"
+      "name": "vidbee-2.3.0-portable.exe",
+      "size": 408685495,
+      "url": "https://github.com/nexmoe/VidBee/releases/download/v2.3.0/vidbee-2.3.0-portable.exe"
     },
     {
-      "name": "vidbee-2.2.3-setup.exe",
-      "size": 408453106,
-      "url": "https://github.com/nexmoe/VidBee/releases/download/v2.2.3/vidbee-2.2.3-setup.exe"
+      "name": "vidbee-2.3.0-setup.exe",
+      "size": 408840405,
+      "url": "https://github.com/nexmoe/VidBee/releases/download/v2.3.0/vidbee-2.3.0-setup.exe"
     },
     {
-      "name": "vidbee-2.2.3.AppImage",
-      "size": 312605282,
-      "url": "https://github.com/nexmoe/VidBee/releases/download/v2.2.3/vidbee-2.2.3.AppImage"
+      "name": "vidbee-2.3.0.AppImage",
+      "size": 313100952,
+      "url": "https://github.com/nexmoe/VidBee/releases/download/v2.3.0/vidbee-2.3.0.AppImage"
     },
     {
-      "name": "vidbee_2.2.3_amd64.deb",
-      "size": 316446388,
-      "url": "https://github.com/nexmoe/VidBee/releases/download/v2.2.3/vidbee_2.2.3_amd64.deb"
+      "name": "vidbee_2.3.0_amd64.deb",
+      "size": 316743684,
+      "url": "https://github.com/nexmoe/VidBee/releases/download/v2.3.0/vidbee_2.3.0_amd64.deb"
     },
     {
-      "name": "vidbee-2.2.3-x64.zip",
-      "size": 274360838,
-      "url": "https://github.com/nexmoe/VidBee/releases/download/v2.2.3/vidbee-2.2.3-x64.zip"
+      "name": "vidbee-2.3.0-arm64.zip",
+      "size": 293587463,
+      "url": "https://github.com/nexmoe/VidBee/releases/download/v2.3.0/vidbee-2.3.0-arm64.zip"
     },
     {
-      "name": "vidbee-2.2.3-arm64.zip",
-      "size": 293065379,
-      "url": "https://github.com/nexmoe/VidBee/releases/download/v2.2.3/vidbee-2.2.3-arm64.zip"
+      "name": "vidbee-2.3.0-x64.zip",
+      "size": 311326511,
+      "url": "https://github.com/nexmoe/VidBee/releases/download/v2.3.0/vidbee-2.3.0-x64.zip"
     }
   ],
   "pinned": false,

@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/thesysdev/openui/zip/refs/heads/main",
   "release": {
-    "tag": "@openuidev/cli@0.6.0",
-    "name": "@openuidev/cli@0.6.0",
-    "published": "2026-10-15T11:08:44Z",
-    "url": "https://github.com/thesysdev/openui/releases/tag/%40openuidev/cli%400.6.0"
+    "tag": "@openuidev/dashboard-library@0.0.2",
+    "name": "@openuidev/dashboard-library@0.0.2",
+    "published": "2026-11-06T16:33:33Z",
+    "url": "https://github.com/thesysdev/openui/releases/tag/%40openuidev/dashboard-library%400.0.2"
   },
   "assets": [],
   "pinned": false,

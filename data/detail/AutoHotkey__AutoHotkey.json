@@ -20,21 +20,21 @@
   "default_branch": "alpha",
   "download_url": "https://codeload.github.com/AutoHotkey/AutoHotkey/zip/refs/heads/alpha",
   "release": {
-    "tag": "v2.0.30",
-    "name": "v2.0.30",
-    "published": "2026-10-09T04:46:24Z",
-    "url": "https://github.com/AutoHotkey/AutoHotkey/releases/tag/v2.0.30"
+    "tag": "v2.0.31",
+    "name": "v2.0.31",
+    "published": "2026-10-25T06:45:13Z",
+    "url": "https://github.com/AutoHotkey/AutoHotkey/releases/tag/v2.0.31"
   },
   "assets": [
     {
-      "name": "AutoHotkey_2.0.30_setup.exe",
-      "size": 3040256,
-      "url": "https://github.com/AutoHotkey/AutoHotkey/releases/download/v2.0.30/AutoHotkey_2.0.30_setup.exe"
+      "name": "AutoHotkey_2.0.31_setup.exe",
+      "size": 3044864,
+      "url": "https://github.com/AutoHotkey/AutoHotkey/releases/download/v2.0.31/AutoHotkey_2.0.31_setup.exe"
     },
     {
-      "name": "AutoHotkey_2.0.30.zip",
-      "size": 3155998,
-      "url": "https://github.com/AutoHotkey/AutoHotkey/releases/download/v2.0.30/AutoHotkey_2.0.30.zip"
+      "name": "AutoHotkey_2.0.31.zip",
+      "size": 3160453,
+      "url": "https://github.com/AutoHotkey/AutoHotkey/releases/download/v2.0.31/AutoHotkey_2.0.31.zip"
     }
   ],
   "pinned": false,

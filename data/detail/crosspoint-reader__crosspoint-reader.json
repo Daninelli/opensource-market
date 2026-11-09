@@ -21,21 +21,21 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/crosspoint-reader/crosspoint-reader/zip/refs/heads/develop",
   "release": {
-    "tag": "1.6.5",
-    "name": "1.6.5",
-    "published": "2026-09-27T09:22:02Z",
-    "url": "https://github.com/crosspoint-reader/crosspoint-reader/releases/tag/1.6.5"
+    "tag": "2.0.0",
+    "name": "2.0.0",
+    "published": "2026-11-01T13:52:36Z",
+    "url": "https://github.com/crosspoint-reader/crosspoint-reader/releases/tag/2.0.0"
   },
   "assets": [
     {
-      "name": "crosspoint-1.6.5-sticky.bin",
-      "size": 5521184,
-      "url": "https://github.com/crosspoint-reader/crosspoint-reader/releases/download/1.6.5/crosspoint-1.6.5-sticky.bin"
+      "name": "crosspoint-2.0.0-sticky.bin",
+      "size": 5269760,
+      "url": "https://github.com/crosspoint-reader/crosspoint-reader/releases/download/2.0.0/crosspoint-2.0.0-sticky.bin"
     },
     {
       "name": "firmware-sticky.bin",
-      "size": 5521184,
-      "url": "https://github.com/crosspoint-reader/crosspoint-reader/releases/download/1.6.5/firmware-sticky.bin"
+      "size": 5269760,
+      "url": "https://github.com/crosspoint-reader/crosspoint-reader/releases/download/2.0.0/firmware-sticky.bin"
     }
   ],
   "pinned": false,

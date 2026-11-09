@@ -22,41 +22,41 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/RSSNext/Folo/zip/refs/heads/dev",
   "release": {
-    "tag": "desktop/v1.16.0",
-    "name": "Desktop v1.16.0",
-    "published": "2026-10-16T07:10:42Z",
-    "url": "https://github.com/RSSNext/Folo/releases/tag/desktop/v1.16.0"
+    "tag": "desktop/v1.17.0",
+    "name": "Desktop v1.17.0",
+    "published": "2026-11-02T06:51:19Z",
+    "url": "https://github.com/RSSNext/Folo/releases/tag/desktop/v1.17.0"
   },
   "assets": [
     {
-      "name": "Folo-1.16.0-macos-arm64.zip",
-      "size": 139033169,
-      "url": "https://github.com/RSSNext/Folo/releases/download/desktop/v1.16.0/Folo-1.16.0-macos-arm64.zip"
+      "name": "Folo-1.17.0-macos-arm64.zip",
+      "size": 139051624,
+      "url": "https://github.com/RSSNext/Folo/releases/download/desktop/v1.17.0/Folo-1.17.0-macos-arm64.zip"
     },
     {
-      "name": "Folo-1.16.0-macos-arm64.dmg",
-      "size": 140223564,
-      "url": "https://github.com/RSSNext/Folo/releases/download/desktop/v1.16.0/Folo-1.16.0-macos-arm64.dmg"
+      "name": "Folo-1.17.0-macos-arm64.dmg",
+      "size": 140249056,
+      "url": "https://github.com/RSSNext/Folo/releases/download/desktop/v1.17.0/Folo-1.17.0-macos-arm64.dmg"
     },
     {
-      "name": "Folo-1.16.0-windows-x64.exe",
-      "size": 165907760,
-      "url": "https://github.com/RSSNext/Folo/releases/download/desktop/v1.16.0/Folo-1.16.0-windows-x64.exe"
+      "name": "Folo-1.17.0-windows-x64.exe",
+      "size": 165933360,
+      "url": "https://github.com/RSSNext/Folo/releases/download/desktop/v1.17.0/Folo-1.17.0-windows-x64.exe"
     },
     {
-      "name": "Folo-1.16.0-linux-x64.deb",
-      "size": 113212268,
-      "url": "https://github.com/RSSNext/Folo/releases/download/desktop/v1.16.0/Folo-1.16.0-linux-x64.deb"
+      "name": "Folo-1.17.0-linux-x64.deb",
+      "size": 113354164,
+      "url": "https://github.com/RSSNext/Folo/releases/download/desktop/v1.17.0/Folo-1.17.0-linux-x64.deb"
     },
     {
-      "name": "Folo-1.16.0-linux-x64.AppImage",
-      "size": 150436366,
-      "url": "https://github.com/RSSNext/Folo/releases/download/desktop/v1.16.0/Folo-1.16.0-linux-x64.AppImage"
+      "name": "Folo-1.17.0-linux-x64.AppImage",
+      "size": 150465815,
+      "url": "https://github.com/RSSNext/Folo/releases/download/desktop/v1.17.0/Folo-1.17.0-linux-x64.AppImage"
     },
     {
       "name": "render-asset.tar.gz",
-      "size": 26751888,
-      "url": "https://github.com/RSSNext/Folo/releases/download/desktop/v1.16.0/render-asset.tar.gz"
+      "size": 26763537,
+      "url": "https://github.com/RSSNext/Folo/releases/download/desktop/v1.17.0/render-asset.tar.gz"
     }
   ],
   "pinned": false,

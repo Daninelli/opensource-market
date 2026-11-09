@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/visgl/deck.gl/zip/refs/heads/master",
   "release": {
-    "tag": "v9.4.0",
-    "name": "v9.4.0",
-    "published": "2026-09-05T21:54:36Z",
-    "url": "https://github.com/visgl/deck.gl/releases/tag/v9.4.0"
+    "tag": "v9.3.12",
+    "name": "v9.3.12",
+    "published": "2026-10-30T20:19:59Z",
+    "url": "https://github.com/visgl/deck.gl/releases/tag/v9.3.12"
   },
   "assets": [],
   "pinned": false,

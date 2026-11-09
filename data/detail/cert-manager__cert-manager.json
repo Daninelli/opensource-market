@@ -20,21 +20,21 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/cert-manager/cert-manager/zip/refs/heads/master",
   "release": {
-    "tag": "v1.21.2",
-    "name": "v1.21.2",
-    "published": "2026-09-11T07:51:11Z",
-    "url": "https://github.com/cert-manager/cert-manager/releases/tag/v1.21.2"
+    "tag": "v1.21.3",
+    "name": "v1.21.3",
+    "published": "2026-10-23T20:47:13Z",
+    "url": "https://github.com/cert-manager/cert-manager/releases/tag/v1.21.3"
   },
   "assets": [
     {
       "name": "cert-manager.crds.yaml",
-      "size": 997110,
-      "url": "https://github.com/cert-manager/cert-manager/releases/download/v1.21.2/cert-manager.crds.yaml"
+      "size": 997536,
+      "url": "https://github.com/cert-manager/cert-manager/releases/download/v1.21.3/cert-manager.crds.yaml"
     },
     {
       "name": "cert-manager.yaml",
-      "size": 1034400,
-      "url": "https://github.com/cert-manager/cert-manager/releases/download/v1.21.2/cert-manager.yaml"
+      "size": 1034826,
+      "url": "https://github.com/cert-manager/cert-manager/releases/download/v1.21.3/cert-manager.yaml"
     }
   ],
   "pinned": false,

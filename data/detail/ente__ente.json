@@ -21,16 +21,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ente/ente/zip/refs/heads/main",
   "release": {
-    "tag": "locker-v1.0.10",
-    "name": "locker-v1.0.10",
-    "published": "2026-10-12T07:48:40Z",
-    "url": "https://github.com/ente/ente/releases/tag/locker-v1.0.10"
+    "tag": "photos-v1.3.69",
+    "name": "photos-v1.3.69",
+    "published": "2026-11-05T07:17:41Z",
+    "url": "https://github.com/ente/ente/releases/tag/photos-v1.3.69"
   },
   "assets": [
     {
-      "name": "ente-locker-v1.0.10.apk",
-      "size": 212792290,
-      "url": "https://github.com/ente/ente/releases/download/locker-v1.0.10/ente-locker-v1.0.10.apk"
+      "name": "ente-photos-v1.3.69.apk",
+      "size": 307331258,
+      "url": "https://github.com/ente/ente/releases/download/photos-v1.3.69/ente-photos-v1.3.69.apk"
     }
   ],
   "pinned": false,

@@ -20,26 +20,26 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/juce-framework/JUCE/zip/refs/heads/master",
   "release": {
-    "tag": "9.0.4",
-    "name": "9.0.4",
-    "published": "2026-10-12T11:29:26Z",
-    "url": "https://github.com/juce-framework/JUCE/releases/tag/9.0.4"
+    "tag": "9.0.5",
+    "name": "9.0.5",
+    "published": "2026-11-02T13:21:46Z",
+    "url": "https://github.com/juce-framework/JUCE/releases/tag/9.0.5"
   },
   "assets": [
     {
-      "name": "juce-9.0.4-windows.zip",
-      "size": 42259208,
-      "url": "https://github.com/juce-framework/JUCE/releases/download/9.0.4/juce-9.0.4-windows.zip"
+      "name": "juce-9.0.5-windows.zip",
+      "size": 42294862,
+      "url": "https://github.com/juce-framework/JUCE/releases/download/9.0.5/juce-9.0.5-windows.zip"
     },
     {
-      "name": "juce-9.0.4-linux.zip",
-      "size": 45934080,
-      "url": "https://github.com/juce-framework/JUCE/releases/download/9.0.4/juce-9.0.4-linux.zip"
+      "name": "juce-9.0.5-linux.zip",
+      "size": 46074647,
+      "url": "https://github.com/juce-framework/JUCE/releases/download/9.0.5/juce-9.0.5-linux.zip"
     },
     {
-      "name": "juce-9.0.4-osx.zip",
-      "size": 58657831,
-      "url": "https://github.com/juce-framework/JUCE/releases/download/9.0.4/juce-9.0.4-osx.zip"
+      "name": "juce-9.0.5-osx.zip",
+      "size": 58871509,
+      "url": "https://github.com/juce-framework/JUCE/releases/download/9.0.5/juce-9.0.5-osx.zip"
     }
   ],
   "pinned": false,

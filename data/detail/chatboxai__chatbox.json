@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/chatboxai/chatbox/zip/refs/heads/main",
   "release": {
-    "tag": "v1.23.5",
-    "name": "v1.23.5",
-    "published": "2026-09-24T14:09:30Z",
-    "url": "https://github.com/chatboxai/chatbox/releases/tag/v1.23.5"
+    "tag": "v1.24.2",
+    "name": "v1.24.2",
+    "published": "2026-11-08T13:38:26Z",
+    "url": "https://github.com/chatboxai/chatbox/releases/tag/v1.24.2"
   },
   "assets": [],
   "pinned": false,

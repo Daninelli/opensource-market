@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/crossplane/crossplane/zip/refs/heads/main",
   "release": {
-    "tag": "v2.4.2",
-    "name": "v2.4.2",
-    "published": "2026-09-22T19:11:31Z",
-    "url": "https://github.com/crossplane/crossplane/releases/tag/v2.4.2"
+    "tag": "v2.4.3",
+    "name": "v2.4.3",
+    "published": "2026-10-22T15:50:21Z",
+    "url": "https://github.com/crossplane/crossplane/releases/tag/v2.4.3"
   },
   "assets": [],
   "pinned": false,

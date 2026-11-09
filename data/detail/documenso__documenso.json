@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/documenso/documenso/zip/refs/heads/main",
   "release": {
-    "tag": "v2.21.0",
-    "name": "v2.21.0",
-    "published": "2026-10-19T01:25:42Z",
-    "url": "https://github.com/documenso/documenso/releases/tag/v2.21.0"
+    "tag": "v2.21.1",
+    "name": "v2.21.1",
+    "published": "2026-10-22T08:28:23Z",
+    "url": "https://github.com/documenso/documenso/releases/tag/v2.21.1"
   },
   "assets": [],
   "pinned": false,

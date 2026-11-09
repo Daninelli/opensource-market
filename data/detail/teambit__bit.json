@@ -22,10 +22,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/teambit/bit/zip/refs/heads/master",
   "release": {
-    "tag": "v2.0.26",
-    "name": "v2.0.26",
-    "published": "2026-07-21T15:32:56Z",
-    "url": "https://github.com/teambit/bit/releases/tag/v2.0.26"
+    "tag": "v2.2.164",
+    "name": "v2.2.164",
+    "published": "2026-10-28T16:54:03Z",
+    "url": "https://github.com/teambit/bit/releases/tag/v2.2.164"
   },
   "assets": [],
   "pinned": false,

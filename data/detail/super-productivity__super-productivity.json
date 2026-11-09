@@ -21,46 +21,46 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/super-productivity/super-productivity/zip/refs/heads/master",
   "release": {
-    "tag": "v19.2.0",
-    "name": "v19.2.0",
-    "published": "2026-10-11T11:45:19Z",
-    "url": "https://github.com/super-productivity/super-productivity/releases/tag/v19.2.0"
+    "tag": "v20.0.0",
+    "name": "v20.0.0",
+    "published": "2026-11-06T21:02:15Z",
+    "url": "https://github.com/super-productivity/super-productivity/releases/tag/v20.0.0"
   },
   "assets": [
     {
       "name": "superProductivity-arm64.dmg",
-      "size": 140302516,
-      "url": "https://github.com/super-productivity/super-productivity/releases/download/v19.2.0/superProductivity-arm64.dmg"
+      "size": 148678260,
+      "url": "https://github.com/super-productivity/super-productivity/releases/download/v20.0.0/superProductivity-arm64.dmg"
     },
     {
       "name": "superProductivity-x64.dmg",
-      "size": 145957455,
-      "url": "https://github.com/super-productivity/super-productivity/releases/download/v19.2.0/superProductivity-x64.dmg"
+      "size": 153991347,
+      "url": "https://github.com/super-productivity/super-productivity/releases/download/v20.0.0/superProductivity-x64.dmg"
     },
     {
       "name": "superProductivity-arm64.exe",
-      "size": 244987456,
-      "url": "https://github.com/super-productivity/super-productivity/releases/download/v19.2.0/superProductivity-arm64.exe"
+      "size": 261182400,
+      "url": "https://github.com/super-productivity/super-productivity/releases/download/v20.0.0/superProductivity-arm64.exe"
     },
     {
       "name": "superProductivity-x64.exe",
-      "size": 244987456,
-      "url": "https://github.com/super-productivity/super-productivity/releases/download/v19.2.0/superProductivity-x64.exe"
+      "size": 261182400,
+      "url": "https://github.com/super-productivity/super-productivity/releases/download/v20.0.0/superProductivity-x64.exe"
     },
     {
       "name": "superProductivity-x86_64.rpm",
-      "size": 100350453,
-      "url": "https://github.com/super-productivity/super-productivity/releases/download/v19.2.0/superProductivity-x86_64.rpm"
+      "size": 100992180,
+      "url": "https://github.com/super-productivity/super-productivity/releases/download/v20.0.0/superProductivity-x86_64.rpm"
     },
     {
       "name": "superProductivity-amd64.deb",
-      "size": 114493852,
-      "url": "https://github.com/super-productivity/super-productivity/releases/download/v19.2.0/superProductivity-amd64.deb"
+      "size": 114914352,
+      "url": "https://github.com/super-productivity/super-productivity/releases/download/v20.0.0/superProductivity-amd64.deb"
     },
     {
       "name": "app-play-release.apk",
-      "size": 22872841,
-      "url": "https://github.com/super-productivity/super-productivity/releases/download/v19.2.0/app-play-release.apk"
+      "size": 23990566,
+      "url": "https://github.com/super-productivity/super-productivity/releases/download/v20.0.0/app-play-release.apk"
     }
   ],
   "pinned": false,

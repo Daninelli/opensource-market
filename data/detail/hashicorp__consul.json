@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/hashicorp/consul/zip/refs/heads/main",
   "release": {
-    "tag": "v2.0.4",
-    "name": "v2.0.4",
-    "published": "2026-09-10T06:12:16Z",
-    "url": "https://github.com/hashicorp/consul/releases/tag/v2.0.4"
+    "tag": "v2.1.0",
+    "name": "v2.1.0",
+    "published": "2026-10-22T15:36:13Z",
+    "url": "https://github.com/hashicorp/consul/releases/tag/v2.1.0"
   },
   "assets": [],
   "pinned": false,

@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/cocoindex-io/cocoindex/zip/refs/heads/main",
   "release": {
-    "tag": "v1.0.25",
-    "name": "v1.0.25",
-    "published": "2026-10-06T05:50:04Z",
-    "url": "https://github.com/cocoindex-io/cocoindex/releases/tag/v1.0.25"
+    "tag": "v1.1.1",
+    "name": "v1.1.1",
+    "published": "2026-11-05T07:00:47Z",
+    "url": "https://github.com/cocoindex-io/cocoindex/releases/tag/v1.1.1"
   },
   "assets": [],
   "pinned": false,

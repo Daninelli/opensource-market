@@ -21,10 +21,10 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/frappe/frappe/zip/refs/heads/develop",
   "release": {
-    "tag": "v15.123.1",
-    "name": "v15.123.1",
-    "published": "2026-10-14T19:47:22Z",
-    "url": "https://github.com/frappe/frappe/releases/tag/v15.123.1"
+    "tag": "v16.55.2",
+    "name": "v16.55.2",
+    "published": "2026-11-04T11:29:38Z",
+    "url": "https://github.com/frappe/frappe/releases/tag/v16.55.2"
   },
   "assets": [],
   "pinned": false,

@@ -20,31 +20,31 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/rclone/rclone/zip/refs/heads/master",
   "release": {
-    "tag": "v1.75.2",
-    "name": "rclone v1.75.2",
-    "published": "2026-10-09T11:03:19Z",
-    "url": "https://github.com/rclone/rclone/releases/tag/v1.75.2"
+    "tag": "v1.76.0",
+    "name": "rclone v1.76.0",
+    "published": "2026-11-06T16:29:59Z",
+    "url": "https://github.com/rclone/rclone/releases/tag/v1.76.0"
   },
   "assets": [
     {
-      "name": "rclone-v1.75.2-linux-mipsle.zip",
-      "size": 28015763,
-      "url": "https://github.com/rclone/rclone/releases/download/v1.75.2/rclone-v1.75.2-linux-mipsle.zip"
+      "name": "rclone-v1.76.0-linux-mipsle.zip",
+      "size": 28596987,
+      "url": "https://github.com/rclone/rclone/releases/download/v1.76.0/rclone-v1.76.0-linux-mipsle.zip"
     },
     {
-      "name": "rclone-v1.75.2-linux-mips.zip",
-      "size": 28334827,
-      "url": "https://github.com/rclone/rclone/releases/download/v1.75.2/rclone-v1.75.2-linux-mips.zip"
+      "name": "rclone-v1.76.0-linux-mips.zip",
+      "size": 28898276,
+      "url": "https://github.com/rclone/rclone/releases/download/v1.76.0/rclone-v1.76.0-linux-mips.zip"
     },
     {
-      "name": "rclone-v1.75.2-netbsd-arm-v7.zip",
-      "size": 29452214,
-      "url": "https://github.com/rclone/rclone/releases/download/v1.75.2/rclone-v1.75.2-netbsd-arm-v7.zip"
+      "name": "rclone-v1.76.0-netbsd-arm-v7.zip",
+      "size": 30012475,
+      "url": "https://github.com/rclone/rclone/releases/download/v1.76.0/rclone-v1.76.0-netbsd-arm-v7.zip"
     },
     {
-      "name": "rclone-v1.75.2-netbsd-arm-v6.zip",
-      "size": 29470736,
-      "url": "https://github.com/rclone/rclone/releases/download/v1.75.2/rclone-v1.75.2-netbsd-arm-v6.zip"
+      "name": "rclone-v1.76.0-freebsd-arm-v7.zip",
+      "size": 30033856,
+      "url": "https://github.com/rclone/rclone/releases/download/v1.76.0/rclone-v1.76.0-freebsd-arm-v7.zip"
     }
   ],
   "pinned": false,

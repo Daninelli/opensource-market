@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ruvnet/ruflo/zip/refs/heads/main",
   "release": {
-    "tag": "v3.58.0",
-    "name": "v3.58.0 — critical install fix + TUI mouse/menu fixes + memory peek",
-    "published": "2026-10-20T06:31:48Z",
-    "url": "https://github.com/ruvnet/ruflo/releases/tag/v3.58.0"
+    "tag": "v3.74.1",
+    "name": "v3.74.1 — @metaharness/darwin in-process (ADR-526), zod 4 security, PageRank",
+    "published": "2026-11-09T06:55:59Z",
+    "url": "https://github.com/ruvnet/ruflo/releases/tag/v3.74.1"
   },
   "assets": [],
   "pinned": false,

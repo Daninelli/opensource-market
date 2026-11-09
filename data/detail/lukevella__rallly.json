@@ -23,10 +23,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/lukevella/rallly/zip/refs/heads/main",
   "release": {
-    "tag": "v4.16.0",
-    "name": "v4.16.0",
-    "published": "2026-10-20T01:14:55Z",
-    "url": "https://github.com/lukevella/rallly/releases/tag/v4.16.0"
+    "tag": "untagged-6490d7892bf741592dba",
+    "name": "v4.16.4",
+    "published": "2026-11-01T06:11:16Z",
+    "url": "https://github.com/lukevella/rallly/releases/tag/untagged-6490d7892bf741592dba"
   },
   "assets": [],
   "pinned": false,

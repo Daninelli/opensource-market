@@ -21,16 +21,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/pascalorg/editor/zip/refs/heads/main",
   "release": {
-    "tag": "@pascal-app/cli@1.0.4",
-    "name": "@pascal-app/cli@1.0.4",
-    "published": "2026-10-13T12:11:49Z",
-    "url": "https://github.com/pascalorg/editor/releases/tag/%40pascal-app/cli%401.0.4"
+    "tag": "@pascal-app/cli@1.0.7",
+    "name": "@pascal-app/cli@1.0.7",
+    "published": "2026-11-08T03:26:39Z",
+    "url": "https://github.com/pascalorg/editor/releases/tag/%40pascal-app/cli%401.0.7"
   },
   "assets": [
     {
-      "name": "pascal-web-runtime-1.0.4.tar.gz",
-      "size": 62574935,
-      "url": "https://github.com/pascalorg/editor/releases/download/%40pascal-app/cli%401.0.4/pascal-web-runtime-1.0.4.tar.gz"
+      "name": "pascal-web-runtime-1.0.7.tar.gz",
+      "size": 133362595,
+      "url": "https://github.com/pascalorg/editor/releases/download/%40pascal-app/cli%401.0.7/pascal-web-runtime-1.0.7.tar.gz"
     }
   ],
   "pinned": false,

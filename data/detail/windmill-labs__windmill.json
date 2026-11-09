@@ -21,21 +21,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/windmill-labs/windmill/zip/refs/heads/main",
   "release": {
-    "tag": "v1.841.0",
-    "name": "v1.841.0",
-    "published": "2026-10-18T23:53:51Z",
-    "url": "https://github.com/windmill-labs/windmill/releases/tag/v1.841.0"
+    "tag": "v1.864.1",
+    "name": "v1.864.1",
+    "published": "2026-11-06T17:27:35Z",
+    "url": "https://github.com/windmill-labs/windmill/releases/tag/v1.864.1"
   },
   "assets": [
     {
-      "name": "windmill_duckdb_runner",
-      "size": 49213832,
-      "url": "https://github.com/windmill-labs/windmill/releases/download/v1.841.0/windmill_duckdb_runner"
+      "name": "windmill_duckdb_runner.exe",
+      "size": 40572416,
+      "url": "https://github.com/windmill-labs/windmill/releases/download/v1.864.1/windmill_duckdb_runner.exe"
     },
     {
-      "name": "windmill-amd64",
-      "size": 677092312,
-      "url": "https://github.com/windmill-labs/windmill/releases/download/v1.841.0/windmill-amd64"
+      "name": "windmill_duckdb_runner",
+      "size": 65834368,
+      "url": "https://github.com/windmill-labs/windmill/releases/download/v1.864.1/windmill_duckdb_runner"
     }
   ],
   "pinned": false,

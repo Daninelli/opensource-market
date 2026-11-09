@@ -21,10 +21,10 @@
   "default_branch": "v1.x",
   "download_url": "https://codeload.github.com/axios/axios/zip/refs/heads/v1.x",
   "release": {
-    "tag": "v1.20.0",
-    "name": "v1.20.0",
-    "published": "2026-08-24T13:40:40Z",
-    "url": "https://github.com/axios/axios/releases/tag/v1.20.0"
+    "tag": "v1.21.0",
+    "name": "v1.21.0",
+    "published": "2026-10-26T07:10:45Z",
+    "url": "https://github.com/axios/axios/releases/tag/v1.21.0"
   },
   "assets": [],
   "pinned": false,

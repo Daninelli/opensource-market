@@ -21,51 +21,51 @@
   "default_branch": "release/v3.8.53",
   "download_url": "https://codeload.github.com/diegosouzapw/OmniRoute/zip/refs/heads/release%2Fv3.8.53",
   "release": {
-    "tag": "v3.8.52",
-    "name": "v3.8.52",
-    "published": "2026-10-19T20:02:45Z",
-    "url": "https://github.com/diegosouzapw/OmniRoute/releases/tag/v3.8.52"
+    "tag": "v3.8.53",
+    "name": "v3.8.53",
+    "published": "2026-11-06T10:53:35Z",
+    "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/v3.8.53"
   },
   "assets": [
     {
-      "name": "OmniRoute.3.8.52.exe",
-      "size": 620123878,
-      "url": "https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.52/OmniRoute.3.8.52.exe"
+      "name": "OmniRoute.3.8.53.exe",
+      "size": 473403391,
+      "url": "https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/OmniRoute.3.8.53.exe"
     },
     {
       "name": "OmniRoute.exe",
-      "size": 620123878,
-      "url": "https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.52/OmniRoute.exe"
+      "size": 473403391,
+      "url": "https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/OmniRoute.exe"
     },
     {
-      "name": "OmniRoute-3.8.52-arm64.dmg",
-      "size": 711404023,
-      "url": "https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.52/OmniRoute-3.8.52-arm64.dmg"
+      "name": "OmniRoute-3.8.53-arm64.dmg",
+      "size": 543091388,
+      "url": "https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/OmniRoute-3.8.53-arm64.dmg"
     },
     {
-      "name": "OmniRoute-3.8.52.dmg",
-      "size": 717214005,
-      "url": "https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.52/OmniRoute-3.8.52.dmg"
+      "name": "OmniRoute-3.8.53.dmg",
+      "size": 549333259,
+      "url": "https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/OmniRoute-3.8.53.dmg"
     },
     {
-      "name": "omniroute-desktop_3.8.52_arm64.deb",
-      "size": 296176356,
-      "url": "https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.52/omniroute-desktop_3.8.52_arm64.deb"
+      "name": "omniroute-desktop_3.8.53_arm64.deb",
+      "size": 305553496,
+      "url": "https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/omniroute-desktop_3.8.53_arm64.deb"
     },
     {
-      "name": "omniroute-desktop_3.8.52_amd64.deb",
-      "size": 301051484,
-      "url": "https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.52/omniroute-desktop_3.8.52_amd64.deb"
+      "name": "omniroute-desktop_3.8.53_amd64.deb",
+      "size": 310635364,
+      "url": "https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/omniroute-desktop_3.8.53_amd64.deb"
     },
     {
-      "name": "OmniRoute-v3.8.52.source.tar.gz",
-      "size": 207822648,
-      "url": "https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.52/OmniRoute-v3.8.52.source.tar.gz"
+      "name": "optional-pack-browser-runtime-b58491d77a3a875ea70a2ce060b31cd82a8aa942b5a7ad589dcc05fcf1c727ee.tar.gz",
+      "size": 3091541,
+      "url": "https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/optional-pack-browser-runtime-b58491d77a3a875ea70a2ce060b31cd82a8aa942b5a7ad589dcc05fcf1c727ee.tar.gz"
     },
     {
-      "name": "OmniRoute-v3.8.52.source.zip",
-      "size": 227053722,
-      "url": "https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.52/OmniRoute-v3.8.52.source.zip"
+      "name": "optional-pack-browser-runtime-7d6acdbbede1a614707a6ccfe9d28a755b366d78264621d19e2f32cc0406ccac.tar.gz",
+      "size": 3093258,
+      "url": "https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/optional-pack-browser-runtime-7d6acdbbede1a614707a6ccfe9d28a755b366d78264621d19e2f32cc0406ccac.tar.gz"
     }
   ],
   "pinned": false,

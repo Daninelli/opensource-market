@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/webdriverio/webdriverio/zip/refs/heads/main",
   "release": {
-    "tag": "v10.1.0",
-    "name": "v10.1.0",
-    "published": "2026-10-18T21:12:59Z",
-    "url": "https://github.com/webdriverio/webdriverio/releases/tag/v10.1.0"
+    "tag": "v10.2.0",
+    "name": "v10.2.0",
+    "published": "2026-11-06T01:58:12Z",
+    "url": "https://github.com/webdriverio/webdriverio/releases/tag/v10.2.0"
   },
   "assets": [],
   "pinned": false,

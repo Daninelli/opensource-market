@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/microsoft/markitdown/zip/refs/heads/main",
   "release": {
-    "tag": "v0.1.8",
-    "name": "Version 0.1.8",
-    "published": "2026-09-21T21:22:51Z",
-    "url": "https://github.com/microsoft/markitdown/releases/tag/v0.1.8"
+    "tag": "v0.1.9",
+    "name": "Version 0.1.9",
+    "published": "2026-10-21T19:40:32Z",
+    "url": "https://github.com/microsoft/markitdown/releases/tag/v0.1.9"
   },
   "assets": [],
   "pinned": false,

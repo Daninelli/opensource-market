@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/jason5ng32/MyIP/zip/refs/heads/main",
   "release": {
-    "tag": "v7.7.0",
-    "name": "v7.7.0",
-    "published": "2026-10-05T06:22:16Z",
-    "url": "https://github.com/jason5ng32/MyIP/releases/tag/v7.7.0"
+    "tag": "v8.1.0",
+    "name": "v8.1.0",
+    "published": "2026-11-08T09:45:44Z",
+    "url": "https://github.com/jason5ng32/MyIP/releases/tag/v8.1.0"
   },
   "assets": [],
   "pinned": false,

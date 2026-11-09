@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/mvt-project/mvt/zip/refs/heads/main",
   "release": {
-    "tag": "v2026.10.12",
-    "name": "v2026.10.12",
-    "published": "2026-10-12T09:13:55Z",
-    "url": "https://github.com/mvt-project/mvt/releases/tag/v2026.10.12"
+    "tag": "v2026.11.2",
+    "name": "v2026.11.2",
+    "published": "2026-11-02T09:02:44Z",
+    "url": "https://github.com/mvt-project/mvt/releases/tag/v2026.11.2"
   },
   "assets": [],
   "pinned": false,

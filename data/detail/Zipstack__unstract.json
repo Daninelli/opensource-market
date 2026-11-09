@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Zipstack/unstract/zip/refs/heads/main",
   "release": {
-    "tag": "v0.193.1",
-    "name": "v0.193.1",
-    "published": "2026-10-19T04:29:31Z",
-    "url": "https://github.com/Zipstack/unstract/releases/tag/v0.193.1"
+    "tag": "v0.203.0",
+    "name": "v0.203.0",
+    "published": "2026-11-06T08:30:51Z",
+    "url": "https://github.com/Zipstack/unstract/releases/tag/v0.203.0"
   },
   "assets": [],
   "pinned": false,

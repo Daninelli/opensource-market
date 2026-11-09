@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/getlago/lago/zip/refs/heads/main",
   "release": {
-    "tag": "v1.55.0",
-    "name": "v1.55.0",
-    "published": "2026-10-07T16:25:42Z",
-    "url": "https://github.com/getlago/lago/releases/tag/v1.55.0"
+    "tag": "v1.57.0",
+    "name": "v1.57.0",
+    "published": "2026-11-05T14:46:30Z",
+    "url": "https://github.com/getlago/lago/releases/tag/v1.57.0"
   },
   "assets": [],
   "pinned": false,

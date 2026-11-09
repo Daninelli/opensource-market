@@ -21,10 +21,10 @@
   "default_branch": "v2",
   "download_url": "https://codeload.github.com/1Panel-dev/MaxKB/zip/refs/heads/v2",
   "release": {
-    "tag": "v2.10.7-lts",
-    "name": "v2.10.7-lts",
-    "published": "2026-10-15T08:10:35Z",
-    "url": "https://github.com/1Panel-dev/MaxKB/releases/tag/v2.10.7-lts"
+    "tag": "v2.10.8-lts",
+    "name": "v2.10.8-lts",
+    "published": "2026-10-22T02:58:15Z",
+    "url": "https://github.com/1Panel-dev/MaxKB/releases/tag/v2.10.8-lts"
   },
   "assets": [],
   "pinned": false,

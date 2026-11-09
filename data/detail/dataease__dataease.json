@@ -23,21 +23,21 @@
   "default_branch": "dev-v3",
   "download_url": "https://codeload.github.com/dataease/dataease/zip/refs/heads/dev-v3",
   "release": {
-    "tag": "v3.1.0",
-    "name": "v3.1.0",
-    "published": "2026-09-24T01:14:34Z",
-    "url": "https://github.com/dataease/dataease/releases/tag/v3.1.0"
+    "tag": "v3.2.1",
+    "name": "v3.2.1",
+    "published": "2026-10-22T13:53:27Z",
+    "url": "https://github.com/dataease/dataease/releases/tag/v3.2.1"
   },
   "assets": [
     {
-      "name": "dataease-online-installer-v3.1.0.tar.gz",
-      "size": 26447446,
-      "url": "https://github.com/dataease/dataease/releases/download/v3.1.0/dataease-online-installer-v3.1.0.tar.gz"
+      "name": "dataease-online-installer-v3.2.1.tar.gz",
+      "size": 26450110,
+      "url": "https://github.com/dataease/dataease/releases/download/v3.2.1/dataease-online-installer-v3.2.1.tar.gz"
     },
     {
-      "name": "dataease-online-installer-v3.1.0-ce.tar.gz",
-      "size": 26447489,
-      "url": "https://github.com/dataease/dataease/releases/download/v3.1.0/dataease-online-installer-v3.1.0-ce.tar.gz"
+      "name": "dataease-online-installer-v3.2.1-ce.tar.gz",
+      "size": 26450169,
+      "url": "https://github.com/dataease/dataease/releases/download/v3.2.1/dataease-online-installer-v3.2.1-ce.tar.gz"
     }
   ],
   "pinned": false,

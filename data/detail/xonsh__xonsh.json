@@ -20,16 +20,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/xonsh/xonsh/zip/refs/heads/main",
   "release": {
-    "tag": "0.24.2",
-    "name": "v0.24.2",
-    "published": "2026-08-23T15:39:49Z",
-    "url": "https://github.com/xonsh/xonsh/releases/tag/0.24.2"
+    "tag": "0.25.0",
+    "name": "v0.25.0",
+    "published": "2026-10-22T21:12:55Z",
+    "url": "https://github.com/xonsh/xonsh/releases/tag/0.25.0"
   },
   "assets": [
     {
       "name": "xonsh-x86_64.AppImage",
-      "size": 29108728,
-      "url": "https://github.com/xonsh/xonsh/releases/download/0.24.2/xonsh-x86_64.AppImage"
+      "size": 29899256,
+      "url": "https://github.com/xonsh/xonsh/releases/download/0.25.0/xonsh-x86_64.AppImage"
     }
   ],
   "pinned": false,

@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/decaporg/decap-cms/zip/refs/heads/main",
   "release": {
-    "tag": "decap-cms@3.17.1",
-    "name": "decap-cms@3.17.1",
-    "published": "2026-10-14T11:38:18Z",
-    "url": "https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.17.1"
+    "tag": "decap-cms@3.17.3",
+    "name": "decap-cms@3.17.3",
+    "published": "2026-10-26T10:51:45Z",
+    "url": "https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.17.3"
   },
   "assets": [],
   "pinned": false,

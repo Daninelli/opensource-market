@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/HKUDS/Vibe-Trading/zip/refs/heads/main",
   "release": {
-    "tag": "v0.1.16",
-    "name": "v0.1.16 — a number that can show where it came from",
-    "published": "2026-09-29T08:37:30Z",
-    "url": "https://github.com/HKUDS/Vibe-Trading/releases/tag/v0.1.16"
+    "tag": "v0.1.19",
+    "name": "v0.1.19 — research that outlives the chat",
+    "published": "2026-11-05T11:38:28Z",
+    "url": "https://github.com/HKUDS/Vibe-Trading/releases/tag/v0.1.19"
   },
   "assets": [],
   "pinned": false,

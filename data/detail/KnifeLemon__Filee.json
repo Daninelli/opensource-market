@@ -22,41 +22,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/KnifeLemon/Filee/zip/refs/heads/main",
   "release": {
-    "tag": "v1.12.0",
-    "name": "Filee 1.12.0",
-    "published": "2026-10-19T02:24:42Z",
-    "url": "https://github.com/KnifeLemon/Filee/releases/tag/v1.12.0"
+    "tag": "v2.3.0",
+    "name": "Filee 2.3.0",
+    "published": "2026-11-03T22:02:24Z",
+    "url": "https://github.com/KnifeLemon/Filee/releases/tag/v2.3.0"
   },
   "assets": [
     {
-      "name": "Filee-1.12.0-win-Setup.exe",
-      "size": 116912979,
-      "url": "https://github.com/KnifeLemon/Filee/releases/download/v1.12.0/Filee-1.12.0-win-Setup.exe"
+      "name": "Filee-2.3.0-osx-arm64.dmg",
+      "size": 136686496,
+      "url": "https://github.com/KnifeLemon/Filee/releases/download/v2.3.0/Filee-2.3.0-osx-arm64.dmg"
     },
     {
-      "name": "Filee-1.12.0-win-Portable.zip",
-      "size": 167221433,
-      "url": "https://github.com/KnifeLemon/Filee/releases/download/v1.12.0/Filee-1.12.0-win-Portable.zip"
+      "name": "Filee-2.3.0-win-Setup.exe",
+      "size": 136951560,
+      "url": "https://github.com/KnifeLemon/Filee/releases/download/v2.3.0/Filee-2.3.0-win-Setup.exe"
     },
     {
-      "name": "Filee-1.12.0-linux-arm64.tar.gz",
-      "size": 108242306,
-      "url": "https://github.com/KnifeLemon/Filee/releases/download/v1.12.0/Filee-1.12.0-linux-arm64.tar.gz"
+      "name": "Filee-2.3.0-osx-x64.dmg",
+      "size": 143837127,
+      "url": "https://github.com/KnifeLemon/Filee/releases/download/v2.3.0/Filee-2.3.0-osx-x64.dmg"
     },
     {
-      "name": "Filee-1.12.0-linux-x64.tar.gz",
-      "size": 114352262,
-      "url": "https://github.com/KnifeLemon/Filee/releases/download/v1.12.0/Filee-1.12.0-linux-x64.tar.gz"
+      "name": "Filee-2.3.0-win-Portable.zip",
+      "size": 160747482,
+      "url": "https://github.com/KnifeLemon/Filee/releases/download/v2.3.0/Filee-2.3.0-win-Portable.zip"
     },
     {
-      "name": "Filee-1.12.0-osx-arm64.tar.gz",
-      "size": 110904190,
-      "url": "https://github.com/KnifeLemon/Filee/releases/download/v1.12.0/Filee-1.12.0-osx-arm64.tar.gz"
+      "name": "Filee-2.3.0-linux-arm64.tar.gz",
+      "size": 126701625,
+      "url": "https://github.com/KnifeLemon/Filee/releases/download/v2.3.0/Filee-2.3.0-linux-arm64.tar.gz"
     },
     {
-      "name": "Filee-1.12.0-osx-x64.tar.gz",
-      "size": 117469159,
-      "url": "https://github.com/KnifeLemon/Filee/releases/download/v1.12.0/Filee-1.12.0-osx-x64.tar.gz"
+      "name": "Filee-2.3.0-linux-x64.tar.gz",
+      "size": 131059592,
+      "url": "https://github.com/KnifeLemon/Filee/releases/download/v2.3.0/Filee-2.3.0-linux-x64.tar.gz"
+    },
+    {
+      "name": "Filee-2.3.0-osx-arm64.tar.gz",
+      "size": 127679966,
+      "url": "https://github.com/KnifeLemon/Filee/releases/download/v2.3.0/Filee-2.3.0-osx-arm64.tar.gz"
+    },
+    {
+      "name": "Filee-2.3.0-osx-x64.tar.gz",
+      "size": 134266193,
+      "url": "https://github.com/KnifeLemon/Filee/releases/download/v2.3.0/Filee-2.3.0-osx-x64.tar.gz"
     }
   ],
   "pinned": false,

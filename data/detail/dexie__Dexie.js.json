@@ -20,10 +20,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/dexie/Dexie.js/zip/refs/heads/master",
   "release": {
-    "tag": "v4.4.6",
-    "name": "Dexie v4.4.6",
-    "published": "2026-09-10T13:45:16Z",
-    "url": "https://github.com/dexie/Dexie.js/releases/tag/v4.4.6"
+    "tag": "v4.4.7",
+    "name": "Dexie v4.4.7",
+    "published": "2026-10-19T11:22:04Z",
+    "url": "https://github.com/dexie/Dexie.js/releases/tag/v4.4.7"
   },
   "assets": [],
   "pinned": false,

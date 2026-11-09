@@ -20,7 +20,12 @@
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/drawdb-io/drawdb/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "v1.9.0",
+    "name": "v1.9.0 - Import from your database",
+    "published": "2026-11-01T17:54:52Z",
+    "url": "https://github.com/drawdb-io/drawdb/releases/tag/v1.9.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

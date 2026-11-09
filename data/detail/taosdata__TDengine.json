@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/taosdata/TDengine/zip/refs/heads/main",
   "release": {
-    "tag": "ver-3.4.3.3",
-    "name": "3.4.3.3",
-    "published": "2026-10-19T08:09:13Z",
-    "url": "https://github.com/taosdata/TDengine/releases/tag/ver-3.4.3.3"
+    "tag": "ver-3.4.3.9",
+    "name": "3.4.3.9",
+    "published": "2026-11-03T03:44:59Z",
+    "url": "https://github.com/taosdata/TDengine/releases/tag/ver-3.4.3.9"
   },
   "assets": [],
   "pinned": false,

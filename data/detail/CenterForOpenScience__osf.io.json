@@ -22,10 +22,10 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/CenterForOpenScience/osf.io/zip/refs/heads/develop",
   "release": {
-    "tag": "26.22.0",
-    "name": "osf.io 26.22",
-    "published": "2026-09-17T16:50:22Z",
-    "url": "https://github.com/CenterForOpenScience/osf.io/releases/tag/26.22.0"
+    "tag": "26.25.0",
+    "name": "osf.io 26.25 - PB&S",
+    "published": "2026-10-08T15:43:20Z",
+    "url": "https://github.com/CenterForOpenScience/osf.io/releases/tag/26.25.0"
   },
   "assets": [],
   "pinned": false,

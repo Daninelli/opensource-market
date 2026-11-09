@@ -22,16 +22,16 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/kestra-io/kestra/zip/refs/heads/develop",
   "release": {
-    "tag": "v2.0.6",
-    "name": "v2.0.6",
-    "published": "2026-10-13T14:25:11Z",
-    "url": "https://github.com/kestra-io/kestra/releases/tag/v2.0.6"
+    "tag": "v2.0.9",
+    "name": "v2.0.9",
+    "published": "2026-11-03T15:10:48Z",
+    "url": "https://github.com/kestra-io/kestra/releases/tag/v2.0.9"
   },
   "assets": [
     {
-      "name": "kestra-2.0.6",
-      "size": 130861812,
-      "url": "https://github.com/kestra-io/kestra/releases/download/v2.0.6/kestra-2.0.6"
+      "name": "kestra-2.0.9",
+      "size": 131265676,
+      "url": "https://github.com/kestra-io/kestra/releases/download/v2.0.9/kestra-2.0.9"
     }
   ],
   "pinned": false,

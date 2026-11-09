@@ -20,51 +20,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/git-lfs/git-lfs/zip/refs/heads/main",
   "release": {
-    "tag": "v3.8.0",
-    "name": "v3.8.0",
-    "published": "2026-08-28T00:23:08Z",
-    "url": "https://github.com/git-lfs/git-lfs/releases/tag/v3.8.0"
+    "tag": "v3.8.1",
+    "name": "v3.8.1",
+    "published": "2026-10-22T18:30:55Z",
+    "url": "https://github.com/git-lfs/git-lfs/releases/tag/v3.8.1"
   },
   "assets": [
     {
-      "name": "git-lfs-windows-arm64-v3.8.0.zip",
-      "size": 5260326,
-      "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-windows-arm64-v3.8.0.zip"
+      "name": "git-lfs-windows-arm64-v3.8.1.zip",
+      "size": 5270378,
+      "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-windows-arm64-v3.8.1.zip"
     },
     {
-      "name": "git-lfs-darwin-arm64-v3.8.0.zip",
-      "size": 5550634,
-      "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-darwin-arm64-v3.8.0.zip"
+      "name": "git-lfs-darwin-arm64-v3.8.1.zip",
+      "size": 5559976,
+      "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-darwin-arm64-v3.8.1.zip"
     },
     {
-      "name": "git-lfs-windows-386-v3.8.0.zip",
-      "size": 5770441,
-      "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-windows-386-v3.8.0.zip"
+      "name": "git-lfs-windows-386-v3.8.1.zip",
+      "size": 5779824,
+      "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-windows-386-v3.8.1.zip"
     },
     {
-      "name": "git-lfs-darwin-amd64-v3.8.0.zip",
-      "size": 6198060,
-      "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-darwin-amd64-v3.8.0.zip"
+      "name": "git-lfs-darwin-amd64-v3.8.1.zip",
+      "size": 6202683,
+      "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-darwin-amd64-v3.8.1.zip"
     },
     {
-      "name": "git-lfs-linux-arm64-v3.8.0.tar.gz",
-      "size": 5341074,
-      "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-linux-arm64-v3.8.0.tar.gz"
+      "name": "git-lfs-linux-arm64-v3.8.1.tar.gz",
+      "size": 5350198,
+      "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-linux-arm64-v3.8.1.tar.gz"
     },
     {
-      "name": "git-lfs-linux-ppc64le-v3.8.0.tar.gz",
-      "size": 5416905,
-      "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-linux-ppc64le-v3.8.0.tar.gz"
+      "name": "git-lfs-linux-ppc64le-v3.8.1.tar.gz",
+      "size": 5425022,
+      "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-linux-ppc64le-v3.8.1.tar.gz"
     },
     {
-      "name": "git-lfs-v3.8.0.tar.gz",
-      "size": 748916,
-      "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-v3.8.0.tar.gz"
+      "name": "git-lfs-v3.8.1.tar.gz",
+      "size": 763252,
+      "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-v3.8.1.tar.gz"
     },
     {
-      "name": "git-lfs-vendor-v3.8.0.tar.gz",
-      "size": 3598783,
-      "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-vendor-v3.8.0.tar.gz"
+      "name": "git-lfs-vendor-v3.8.1.tar.gz",
+      "size": 3629718,
+      "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-vendor-v3.8.1.tar.gz"
     }
   ],
   "pinned": false,

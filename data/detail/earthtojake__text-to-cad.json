@@ -21,26 +21,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/earthtojake/text-to-cad/zip/refs/heads/main",
   "release": {
-    "tag": "v0.7.24",
-    "name": "v0.7.24",
-    "published": "2026-10-18T20:34:40Z",
-    "url": "https://github.com/earthtojake/text-to-cad/releases/tag/v0.7.24"
+    "tag": "v0.11.3",
+    "name": "v0.11.3",
+    "published": "2026-11-08T19:38:23Z",
+    "url": "https://github.com/earthtojake/text-to-cad/releases/tag/v0.11.3"
   },
   "assets": [
     {
-      "name": "cad-openai-plugin-0.7.24.zip",
-      "size": 249956,
-      "url": "https://github.com/earthtojake/text-to-cad/releases/download/v0.7.24/cad-openai-plugin-0.7.24.zip"
+      "name": "cad-openai-plugin-0.11.3.zip",
+      "size": 262332,
+      "url": "https://github.com/earthtojake/text-to-cad/releases/download/v0.11.3/cad-openai-plugin-0.11.3.zip"
     },
     {
-      "name": "cadgen-0.7.24.tar.gz",
-      "size": 5299111,
-      "url": "https://github.com/earthtojake/text-to-cad/releases/download/v0.7.24/cadgen-0.7.24.tar.gz"
+      "name": "cad-0.11.3.tar.gz",
+      "size": 1081289,
+      "url": "https://github.com/earthtojake/text-to-cad/releases/download/v0.11.3/cad-0.11.3.tar.gz"
     },
     {
-      "name": "cadgen-0.7.24-py3-none-any.whl",
-      "size": 5423513,
-      "url": "https://github.com/earthtojake/text-to-cad/releases/download/v0.7.24/cadgen-0.7.24-py3-none-any.whl"
+      "name": "cad-0.11.3-py3-none-any.whl",
+      "size": 1124546,
+      "url": "https://github.com/earthtojake/text-to-cad/releases/download/v0.11.3/cad-0.11.3-py3-none-any.whl"
+    },
+    {
+      "name": "cad_server-0.11.3-py3-none-any.whl",
+      "size": 4778555,
+      "url": "https://github.com/earthtojake/text-to-cad/releases/download/v0.11.3/cad_server-0.11.3-py3-none-any.whl"
     }
   ],
   "pinned": false,

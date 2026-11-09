@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/mitmproxy/mitmproxy/zip/refs/heads/main",
   "release": {
-    "tag": "v12.2.3",
-    "name": "mitmproxy 12.2.3",
-    "published": "2026-05-12T13:02:17Z",
-    "url": "https://github.com/mitmproxy/mitmproxy/releases/tag/v12.2.3"
+    "tag": "v12.3.1",
+    "name": "mitmproxy 12.3.1",
+    "published": "2026-10-25T23:25:13Z",
+    "url": "https://github.com/mitmproxy/mitmproxy/releases/tag/v12.3.1"
   },
   "assets": [],
   "pinned": false,

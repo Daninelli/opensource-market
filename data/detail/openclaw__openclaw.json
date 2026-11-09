@@ -22,41 +22,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/openclaw/openclaw/zip/refs/heads/main",
   "release": {
-    "tag": "v2026.10.5",
-    "name": "openclaw 2026.10.5",
-    "published": "2026-10-18T21:47:25Z",
-    "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.5"
+    "tag": "v2026.11.2",
+    "name": "openclaw 2026.11.2",
+    "published": "2026-11-08T19:31:04Z",
+    "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.11.2"
   },
   "assets": [
     {
-      "name": "OpenClaw-2026.10.5-arm64.dmg",
-      "size": 238004440,
-      "url": "https://github.com/openclaw/openclaw/releases/download/v2026.10.5/OpenClaw-2026.10.5-arm64.dmg"
+      "name": "OpenClaw-2026.11.2-arm64.dmg",
+      "size": 247344041,
+      "url": "https://github.com/openclaw/openclaw/releases/download/v2026.11.2/OpenClaw-2026.11.2-arm64.dmg"
     },
     {
-      "name": "OpenClaw-2026.10.5-x86_64.dmg",
-      "size": 253902367,
-      "url": "https://github.com/openclaw/openclaw/releases/download/v2026.10.5/OpenClaw-2026.10.5-x86_64.dmg"
+      "name": "OpenClaw-2026.11.2-x86_64.dmg",
+      "size": 265478532,
+      "url": "https://github.com/openclaw/openclaw/releases/download/v2026.11.2/OpenClaw-2026.11.2-x86_64.dmg"
     },
     {
-      "name": "OpenClaw-2026.10.5-amd64.deb",
-      "size": 49843616,
-      "url": "https://github.com/openclaw/openclaw/releases/download/v2026.10.5/OpenClaw-2026.10.5-amd64.deb"
+      "name": "OpenClaw-2026.11.2-amd64.deb",
+      "size": 64103284,
+      "url": "https://github.com/openclaw/openclaw/releases/download/v2026.11.2/OpenClaw-2026.11.2-amd64.deb"
     },
     {
-      "name": "OpenClaw-2026.10.5-amd64.AppImage",
-      "size": 174905848,
-      "url": "https://github.com/openclaw/openclaw/releases/download/v2026.10.5/OpenClaw-2026.10.5-amd64.AppImage"
+      "name": "OpenClaw-2026.11.2-amd64.AppImage",
+      "size": 188054008,
+      "url": "https://github.com/openclaw/openclaw/releases/download/v2026.11.2/OpenClaw-2026.11.2-amd64.AppImage"
     },
     {
-      "name": "openclaw-2026.10.5-dependency-evidence.zip",
-      "size": 303964,
-      "url": "https://github.com/openclaw/openclaw/releases/download/v2026.10.5/openclaw-2026.10.5-dependency-evidence.zip"
+      "name": "openclaw-2026.11.2-dependency-evidence.zip",
+      "size": 321613,
+      "url": "https://github.com/openclaw/openclaw/releases/download/v2026.11.2/openclaw-2026.11.2-dependency-evidence.zip"
     },
     {
-      "name": "OpenClaw-2026.10.5-arm64.zip",
-      "size": 321272842,
-      "url": "https://github.com/openclaw/openclaw/releases/download/v2026.10.5/OpenClaw-2026.10.5-arm64.zip"
+      "name": "OpenClaw-2026.11.2-arm64.zip",
+      "size": 328437193,
+      "url": "https://github.com/openclaw/openclaw/releases/download/v2026.11.2/OpenClaw-2026.11.2-arm64.zip"
     }
   ],
   "pinned": false,

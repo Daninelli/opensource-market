@@ -23,10 +23,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/getsentry/sentry/zip/refs/heads/master",
   "release": {
-    "tag": "26.10.0",
-    "name": "26.10.0",
-    "published": "2026-10-16T00:55:43Z",
-    "url": "https://github.com/getsentry/sentry/releases/tag/26.10.0"
+    "tag": "26.10.1",
+    "name": "26.10.1",
+    "published": "2026-10-28T20:38:25Z",
+    "url": "https://github.com/getsentry/sentry/releases/tag/26.10.1"
   },
   "assets": [],
   "pinned": false,

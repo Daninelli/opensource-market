@@ -22,21 +22,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/TauricResearch/TradingAgents/zip/refs/heads/main",
   "release": {
-    "tag": "v0.7.0",
-    "name": "TradingAgents v0.7.0",
-    "published": "2026-10-16T21:38:46Z",
-    "url": "https://github.com/TauricResearch/TradingAgents/releases/tag/v0.7.0"
+    "tag": "v0.7.1",
+    "name": "TradingAgents v0.7.1",
+    "published": "2026-10-27T08:43:04Z",
+    "url": "https://github.com/TauricResearch/TradingAgents/releases/tag/v0.7.1"
   },
   "assets": [
     {
-      "name": "tradingagents-0.7.0-py3-none-any.whl",
-      "size": 242392,
-      "url": "https://github.com/TauricResearch/TradingAgents/releases/download/v0.7.0/tradingagents-0.7.0-py3-none-any.whl"
+      "name": "tradingagents-0.7.1-py3-none-any.whl",
+      "size": 244728,
+      "url": "https://github.com/TauricResearch/TradingAgents/releases/download/v0.7.1/tradingagents-0.7.1-py3-none-any.whl"
     },
     {
-      "name": "tradingagents-0.7.0.tar.gz",
-      "size": 365927,
-      "url": "https://github.com/TauricResearch/TradingAgents/releases/download/v0.7.0/tradingagents-0.7.0.tar.gz"
+      "name": "tradingagents-0.7.1.tar.gz",
+      "size": 372818,
+      "url": "https://github.com/TauricResearch/TradingAgents/releases/download/v0.7.1/tradingagents-0.7.1.tar.gz"
     }
   ],
   "pinned": false,

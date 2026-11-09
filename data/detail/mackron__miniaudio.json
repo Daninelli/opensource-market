@@ -20,10 +20,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mackron/miniaudio/zip/refs/heads/master",
   "release": {
-    "tag": "0.11.25",
-    "name": "Version 0.11.25",
-    "published": "2026-03-03T20:30:25Z",
-    "url": "https://github.com/mackron/miniaudio/releases/tag/0.11.25"
+    "tag": "0.11.26",
+    "name": "Version 0.11.26",
+    "published": "2026-10-31T03:43:51Z",
+    "url": "https://github.com/mackron/miniaudio/releases/tag/0.11.26"
   },
   "assets": [],
   "pinned": false,

@@ -22,21 +22,21 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/2dust/v2rayNG/zip/refs/heads/master",
   "release": {
-    "tag": "2.3.11",
-    "name": "2.3.11",
-    "published": "2026-10-11T07:07:53Z",
-    "url": "https://github.com/2dust/v2rayNG/releases/tag/2.3.11"
+    "tag": "2.3.15",
+    "name": "2.3.15",
+    "published": "2026-11-01T06:59:32Z",
+    "url": "https://github.com/2dust/v2rayNG/releases/tag/2.3.15"
   },
   "assets": [
     {
-      "name": "v2rayNG_2.3.11_arm64-v8a.apk",
-      "size": 33535156,
-      "url": "https://github.com/2dust/v2rayNG/releases/download/2.3.11/v2rayNG_2.3.11_arm64-v8a.apk"
+      "name": "v2rayNG_2.3.15-fdroid_arm64-v8a.apk",
+      "size": 32462388,
+      "url": "https://github.com/2dust/v2rayNG/releases/download/2.3.15/v2rayNG_2.3.15-fdroid_arm64-v8a.apk"
     },
     {
-      "name": "v2rayNG_2.3.11-fdroid_arm64-v8a.apk",
-      "size": 33535280,
-      "url": "https://github.com/2dust/v2rayNG/releases/download/2.3.11/v2rayNG_2.3.11-fdroid_arm64-v8a.apk"
+      "name": "v2rayNG_2.3.15_arm64-v8a.apk",
+      "size": 32462468,
+      "url": "https://github.com/2dust/v2rayNG/releases/download/2.3.15/v2rayNG_2.3.15_arm64-v8a.apk"
     }
   ],
   "pinned": false,

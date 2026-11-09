@@ -22,31 +22,31 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/ReagentX/imessage-exporter/zip/refs/heads/develop",
   "release": {
-    "tag": "4.3.0",
-    "name": "Shining Willow",
-    "published": "2026-09-15T01:27:24Z",
-    "url": "https://github.com/ReagentX/imessage-exporter/releases/tag/4.3.0"
+    "tag": "5.0.1",
+    "name": "Speckled Clarkia",
+    "published": "2026-10-29T04:46:51Z",
+    "url": "https://github.com/ReagentX/imessage-exporter/releases/tag/5.0.1"
   },
   "assets": [
     {
       "name": "imessage-exporter-aarch64-apple-darwin.tar.gz",
-      "size": 1793637,
-      "url": "https://github.com/ReagentX/imessage-exporter/releases/download/4.3.0/imessage-exporter-aarch64-apple-darwin.tar.gz"
+      "size": 1841814,
+      "url": "https://github.com/ReagentX/imessage-exporter/releases/download/5.0.1/imessage-exporter-aarch64-apple-darwin.tar.gz"
     },
     {
       "name": "imessage-exporter-x86_64-apple-darwin.tar.gz",
-      "size": 1935518,
-      "url": "https://github.com/ReagentX/imessage-exporter/releases/download/4.3.0/imessage-exporter-x86_64-apple-darwin.tar.gz"
+      "size": 2010867,
+      "url": "https://github.com/ReagentX/imessage-exporter/releases/download/5.0.1/imessage-exporter-x86_64-apple-darwin.tar.gz"
     },
     {
       "name": "imessage-exporter-x86_64-pc-windows-gnu.tar.gz",
-      "size": 2133291,
-      "url": "https://github.com/ReagentX/imessage-exporter/releases/download/4.3.0/imessage-exporter-x86_64-pc-windows-gnu.tar.gz"
+      "size": 2220186,
+      "url": "https://github.com/ReagentX/imessage-exporter/releases/download/5.0.1/imessage-exporter-x86_64-pc-windows-gnu.tar.gz"
     },
     {
       "name": "imessage-exporter-x86_64-pc-windows-gnu.exe",
-      "size": 4726623,
-      "url": "https://github.com/ReagentX/imessage-exporter/releases/download/4.3.0/imessage-exporter-x86_64-pc-windows-gnu.exe"
+      "size": 4918019,
+      "url": "https://github.com/ReagentX/imessage-exporter/releases/download/5.0.1/imessage-exporter-x86_64-pc-windows-gnu.exe"
     }
   ],
   "pinned": false,

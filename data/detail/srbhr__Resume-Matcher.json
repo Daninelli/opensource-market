@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/srbhr/Resume-Matcher/zip/refs/heads/main",
   "release": {
-    "tag": "v1.3.0",
-    "name": "1.3 Crescendolls",
-    "published": "2026-09-06T09:20:58Z",
-    "url": "https://github.com/srbhr/Resume-Matcher/releases/tag/v1.3.0"
+    "tag": "v1.4.0",
+    "name": "1.4 Short Circuit",
+    "published": "2026-10-21T20:38:33Z",
+    "url": "https://github.com/srbhr/Resume-Matcher/releases/tag/v1.4.0"
   },
   "assets": [],
   "pinned": false,

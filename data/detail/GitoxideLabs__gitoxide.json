@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/GitoxideLabs/gitoxide/zip/refs/heads/main",
   "release": {
-    "tag": "gix-utils-v0.5.1",
-    "name": "gix-utils v0.5.1",
-    "published": "2026-10-11T08:14:32Z",
-    "url": "https://github.com/GitoxideLabs/gitoxide/releases/tag/gix-utils-v0.5.1"
+    "tag": "gix-v0.90.0",
+    "name": "gix v0.90.0",
+    "published": "2026-10-22T14:01:21Z",
+    "url": "https://github.com/GitoxideLabs/gitoxide/releases/tag/gix-v0.90.0"
   },
   "assets": [],
   "pinned": false,

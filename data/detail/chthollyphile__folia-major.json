@@ -20,46 +20,46 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/chthollyphile/folia-major/zip/refs/heads/main",
   "release": {
-    "tag": "v0.7.21",
-    "name": "Realeco v0.7.21",
-    "published": "2026-10-18T07:05:19Z",
-    "url": "https://github.com/chthollyphile/folia-major/releases/tag/v0.7.21"
+    "tag": "v0.7.27",
+    "name": "Realeco v0.7.27",
+    "published": "2026-11-07T10:20:00Z",
+    "url": "https://github.com/chthollyphile/folia-major/releases/tag/v0.7.27"
   },
   "assets": [
     {
-      "name": "Folia-Setup-0.7.21.exe",
-      "size": 248768690,
-      "url": "https://github.com/chthollyphile/folia-major/releases/download/v0.7.21/Folia-Setup-0.7.21.exe"
+      "name": "Folia-Setup-0.7.27.exe",
+      "size": 250926881,
+      "url": "https://github.com/chthollyphile/folia-major/releases/download/v0.7.27/Folia-Setup-0.7.27.exe"
     },
     {
-      "name": "Folia-0.7.21-x64.dmg",
-      "size": 276789034,
-      "url": "https://github.com/chthollyphile/folia-major/releases/download/v0.7.21/Folia-0.7.21-x64.dmg"
+      "name": "Folia-0.7.27-x64.dmg",
+      "size": 279481067,
+      "url": "https://github.com/chthollyphile/folia-major/releases/download/v0.7.27/Folia-0.7.27-x64.dmg"
     },
     {
-      "name": "Folia-0.7.21-arm64.dmg",
-      "size": 277460876,
-      "url": "https://github.com/chthollyphile/folia-major/releases/download/v0.7.21/Folia-0.7.21-arm64.dmg"
+      "name": "Folia-0.7.27-arm64.dmg",
+      "size": 280157789,
+      "url": "https://github.com/chthollyphile/folia-major/releases/download/v0.7.27/Folia-0.7.27-arm64.dmg"
     },
     {
-      "name": "folia-major-0.7.21-linux-aarch64.rpm",
-      "size": 227128137,
-      "url": "https://github.com/chthollyphile/folia-major/releases/download/v0.7.21/folia-major-0.7.21-linux-aarch64.rpm"
+      "name": "folia-major-0.7.27-linux-aarch64.rpm",
+      "size": 229050157,
+      "url": "https://github.com/chthollyphile/folia-major/releases/download/v0.7.27/folia-major-0.7.27-linux-aarch64.rpm"
     },
     {
-      "name": "folia-major-0.7.21-linux-x86_64.rpm",
-      "size": 233120193,
-      "url": "https://github.com/chthollyphile/folia-major/releases/download/v0.7.21/folia-major-0.7.21-linux-x86_64.rpm"
+      "name": "folia-major-0.7.27-linux-x86_64.rpm",
+      "size": 235319509,
+      "url": "https://github.com/chthollyphile/folia-major/releases/download/v0.7.27/folia-major-0.7.27-linux-x86_64.rpm"
     },
     {
-      "name": "Folia-0.7.21-x64.zip",
-      "size": 276468697,
-      "url": "https://github.com/chthollyphile/folia-major/releases/download/v0.7.21/Folia-0.7.21-x64.zip"
+      "name": "Folia-0.7.27-x64.zip",
+      "size": 279171631,
+      "url": "https://github.com/chthollyphile/folia-major/releases/download/v0.7.27/Folia-0.7.27-x64.zip"
     },
     {
-      "name": "Folia-0.7.21-arm64.zip",
-      "size": 277092464,
-      "url": "https://github.com/chthollyphile/folia-major/releases/download/v0.7.21/Folia-0.7.21-arm64.zip"
+      "name": "Folia-0.7.27-arm64.zip",
+      "size": 279797135,
+      "url": "https://github.com/chthollyphile/folia-major/releases/download/v0.7.27/Folia-0.7.27-arm64.zip"
     }
   ],
   "pinned": false,

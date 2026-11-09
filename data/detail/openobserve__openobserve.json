@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/openobserve/openobserve/zip/refs/heads/main",
   "release": {
-    "tag": "v1.1.2",
-    "name": "Release v1.1.2",
-    "published": "2026-10-20T05:26:56Z",
-    "url": "https://github.com/openobserve/openobserve/releases/tag/v1.1.2"
+    "tag": "v1.2.0-rc1",
+    "name": "Release v1.2.0-rc1",
+    "published": "2026-11-04T12:34:57Z",
+    "url": "https://github.com/openobserve/openobserve/releases/tag/v1.2.0-rc1"
   },
   "assets": [],
   "pinned": false,

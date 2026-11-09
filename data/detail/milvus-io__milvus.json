@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/milvus-io/milvus/zip/refs/heads/master",
   "release": {
-    "tag": "v3.0.3",
-    "name": "milvus-3.0.3",
-    "published": "2026-10-14T07:58:49Z",
-    "url": "https://github.com/milvus-io/milvus/releases/tag/v3.0.3"
+    "tag": "v3.0.5",
+    "name": "milvus-3.0.5",
+    "published": "2026-10-30T10:43:28Z",
+    "url": "https://github.com/milvus-io/milvus/releases/tag/v3.0.5"
   },
   "assets": [],
   "pinned": false,

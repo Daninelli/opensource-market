@@ -21,51 +21,51 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/codexu/note-gen/zip/refs/heads/dev",
   "release": {
-    "tag": "note-gen-v0.38.3",
-    "name": "NoteGen v0.38.3",
-    "published": "2026-10-18T02:50:30Z",
-    "url": "https://github.com/codexu/note-gen/releases/tag/note-gen-v0.38.3"
+    "tag": "note-gen-v0.39.2",
+    "name": "NoteGen v0.39.2",
+    "published": "2026-11-01T09:20:45Z",
+    "url": "https://github.com/codexu/note-gen/releases/tag/note-gen-v0.39.2"
   },
   "assets": [
     {
-      "name": "NoteGen_0.38.3_aarch64.dmg",
-      "size": 19029887,
-      "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.38.3/NoteGen_0.38.3_aarch64.dmg"
+      "name": "NoteGen_0.39.2_x64-setup.exe",
+      "size": 17138496,
+      "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.39.2/NoteGen_0.39.2_x64-setup.exe"
     },
     {
-      "name": "NoteGen_0.38.3_x64_en-US.msi",
-      "size": 19595264,
-      "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.38.3/NoteGen_0.38.3_x64_en-US.msi"
+      "name": "NoteGen_0.39.2_aarch64.dmg",
+      "size": 19842256,
+      "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.39.2/NoteGen_0.39.2_aarch64.dmg"
     },
     {
-      "name": "NoteGen_0.38.3_x64.dmg",
-      "size": 19898091,
-      "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.38.3/NoteGen_0.38.3_x64.dmg"
+      "name": "NoteGen_0.39.2_x64_en-US.msi",
+      "size": 20410368,
+      "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.39.2/NoteGen_0.39.2_x64_en-US.msi"
     },
     {
-      "name": "NoteGen_0.38.3_amd64.deb",
-      "size": 20402938,
-      "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.38.3/NoteGen_0.38.3_amd64.deb"
+      "name": "NoteGen_0.39.2_x64.dmg",
+      "size": 20773497,
+      "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.39.2/NoteGen_0.39.2_x64.dmg"
     },
     {
-      "name": "NoteGen-0.38.3-1.x86_64.rpm",
-      "size": 20406980,
-      "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.38.3/NoteGen-0.38.3-1.x86_64.rpm"
+      "name": "NoteGen_0.39.2_amd64.deb",
+      "size": 21986062,
+      "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.39.2/NoteGen_0.39.2_amd64.deb"
     },
     {
-      "name": "NoteGen_0.38.3_android-arm64.apk",
-      "size": 51605075,
-      "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.38.3/NoteGen_0.38.3_android-arm64.apk"
+      "name": "NoteGen-0.39.2-1.x86_64.rpm",
+      "size": 21988866,
+      "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.39.2/NoteGen-0.39.2-1.x86_64.rpm"
+    },
+    {
+      "name": "NoteGen_0.39.2_android-arm64.apk",
+      "size": 52096595,
+      "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.39.2/NoteGen_0.39.2_android-arm64.apk"
     },
     {
       "name": "NoteGen_aarch64.app.tar.gz",
-      "size": 19301371,
-      "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.38.3/NoteGen_aarch64.app.tar.gz"
-    },
-    {
-      "name": "NoteGen_x64.app.tar.gz",
-      "size": 20055192,
-      "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.38.3/NoteGen_x64.app.tar.gz"
+      "size": 20126634,
+      "url": "https://github.com/codexu/note-gen/releases/download/note-gen-v0.39.2/NoteGen_aarch64.app.tar.gz"
     }
   ],
   "pinned": false,

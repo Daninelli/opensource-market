@@ -20,46 +20,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/sqlalchemy/sqlalchemy/zip/refs/heads/main",
   "release": {
-    "tag": "rel_2_1_5",
-    "name": "2.1.5",
-    "published": "2026-10-16T20:52:25Z",
-    "url": "https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_1_5"
+    "tag": "rel_2_1_8",
+    "name": "2.1.8",
+    "published": "2026-11-04T01:17:16Z",
+    "url": "https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_1_8"
   },
   "assets": [
     {
-      "name": "sqlalchemy-2.1.5-cp313-cp313-win32.whl",
-      "size": 2379136,
-      "url": "https://github.com/sqlalchemy/sqlalchemy/releases/download/rel_2_1_5/sqlalchemy-2.1.5-cp313-cp313-win32.whl"
+      "name": "sqlalchemy-2.1.8-cp313-cp313-win32.whl",
+      "size": 2386698,
+      "url": "https://github.com/sqlalchemy/sqlalchemy/releases/download/rel_2_1_8/sqlalchemy-2.1.8-cp313-cp313-win32.whl"
     },
     {
-      "name": "sqlalchemy-2.1.5-cp312-cp312-win32.whl",
-      "size": 2381924,
-      "url": "https://github.com/sqlalchemy/sqlalchemy/releases/download/rel_2_1_5/sqlalchemy-2.1.5-cp312-cp312-win32.whl"
+      "name": "sqlalchemy-2.1.8-cp312-cp312-win32.whl",
+      "size": 2389528,
+      "url": "https://github.com/sqlalchemy/sqlalchemy/releases/download/rel_2_1_8/sqlalchemy-2.1.8-cp312-cp312-win32.whl"
     },
     {
-      "name": "sqlalchemy-2.1.5-cp313-cp313-macosx_11_0_arm64.whl",
-      "size": 2465792,
-      "url": "https://github.com/sqlalchemy/sqlalchemy/releases/download/rel_2_1_5/sqlalchemy-2.1.5-cp313-cp313-macosx_11_0_arm64.whl"
+      "name": "sqlalchemy-2.1.8-cp313-cp313-macosx_11_0_arm64.whl",
+      "size": 2472959,
+      "url": "https://github.com/sqlalchemy/sqlalchemy/releases/download/rel_2_1_8/sqlalchemy-2.1.8-cp313-cp313-macosx_11_0_arm64.whl"
     },
     {
-      "name": "sqlalchemy-2.1.5-cp311-cp311-macosx_11_0_arm64.whl",
-      "size": 2468654,
-      "url": "https://github.com/sqlalchemy/sqlalchemy/releases/download/rel_2_1_5/sqlalchemy-2.1.5-cp311-cp311-macosx_11_0_arm64.whl"
+      "name": "sqlalchemy-2.1.8-cp311-cp311-macosx_11_0_arm64.whl",
+      "size": 2475845,
+      "url": "https://github.com/sqlalchemy/sqlalchemy/releases/download/rel_2_1_8/sqlalchemy-2.1.8-cp311-cp311-macosx_11_0_arm64.whl"
     },
     {
-      "name": "sqlalchemy-2.1.5-cp315-cp315-musllinux_1_2_aarch64.whl",
-      "size": 4525244,
-      "url": "https://github.com/sqlalchemy/sqlalchemy/releases/download/rel_2_1_5/sqlalchemy-2.1.5-cp315-cp315-musllinux_1_2_aarch64.whl"
+      "name": "sqlalchemy-2.1.8-cp314-cp314-musllinux_1_2_aarch64.whl",
+      "size": 4533326,
+      "url": "https://github.com/sqlalchemy/sqlalchemy/releases/download/rel_2_1_8/sqlalchemy-2.1.8-cp314-cp314-musllinux_1_2_aarch64.whl"
     },
     {
-      "name": "sqlalchemy-2.1.5-cp311-cp311-musllinux_1_2_aarch64.whl",
-      "size": 4571827,
-      "url": "https://github.com/sqlalchemy/sqlalchemy/releases/download/rel_2_1_5/sqlalchemy-2.1.5-cp311-cp311-musllinux_1_2_aarch64.whl"
+      "name": "sqlalchemy-2.1.8-cp313-cp313-musllinux_1_2_aarch64.whl",
+      "size": 4533812,
+      "url": "https://github.com/sqlalchemy/sqlalchemy/releases/download/rel_2_1_8/sqlalchemy-2.1.8-cp313-cp313-musllinux_1_2_aarch64.whl"
     },
     {
-      "name": "sqlalchemy-2.1.5-py3-none-any.whl",
-      "size": 2060214,
-      "url": "https://github.com/sqlalchemy/sqlalchemy/releases/download/rel_2_1_5/sqlalchemy-2.1.5-py3-none-any.whl"
+      "name": "sqlalchemy-2.1.8-py3-none-any.whl",
+      "size": 2067639,
+      "url": "https://github.com/sqlalchemy/sqlalchemy/releases/download/rel_2_1_8/sqlalchemy-2.1.8-py3-none-any.whl"
+    },
+    {
+      "name": "sqlalchemy-2.1.8.tar.gz",
+      "size": 10627538,
+      "url": "https://github.com/sqlalchemy/sqlalchemy/releases/download/rel_2_1_8/sqlalchemy-2.1.8.tar.gz"
     }
   ],
   "pinned": false,

@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/nuxt/nuxt/zip/refs/heads/main",
   "release": {
-    "tag": "v4.6.2",
-    "name": "v4.6.2",
-    "published": "2026-10-16T17:21:23Z",
-    "url": "https://github.com/nuxt/nuxt/releases/tag/v4.6.2"
+    "tag": "v4.6.4",
+    "name": "v4.6.4",
+    "published": "2026-11-02T20:39:24Z",
+    "url": "https://github.com/nuxt/nuxt/releases/tag/v4.6.4"
   },
   "assets": [],
   "pinned": false,

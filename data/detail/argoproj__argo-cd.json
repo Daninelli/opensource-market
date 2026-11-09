@@ -21,41 +21,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/argoproj/argo-cd/zip/refs/heads/master",
   "release": {
-    "tag": "v3.5.5",
-    "name": "v3.5.5",
-    "published": "2026-10-12T10:59:41Z",
-    "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.5.5"
+    "tag": "v3.6.1",
+    "name": "v3.6.1",
+    "published": "2026-11-04T14:20:31Z",
+    "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.6.1"
   },
   "assets": [
     {
       "name": "argocd-darwin-arm64",
-      "size": 246717218,
-      "url": "https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-darwin-arm64"
+      "size": 261595746,
+      "url": "https://github.com/argoproj/argo-cd/releases/download/v3.6.1/argocd-darwin-arm64"
     },
     {
       "name": "argocd-windows-amd64.exe",
-      "size": 252547072,
-      "url": "https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-windows-amd64.exe"
+      "size": 268698624,
+      "url": "https://github.com/argoproj/argo-cd/releases/download/v3.6.1/argocd-windows-amd64.exe"
     },
     {
       "name": "argocd-darwin-amd64",
-      "size": 257453888,
-      "url": "https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-darwin-amd64"
+      "size": 273505536,
+      "url": "https://github.com/argoproj/argo-cd/releases/download/v3.6.1/argocd-darwin-amd64"
     },
     {
       "name": "argocd-linux-arm64",
-      "size": 237457126,
-      "url": "https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-linux-arm64"
+      "size": 252337875,
+      "url": "https://github.com/argoproj/argo-cd/releases/download/v3.6.1/argocd-linux-arm64"
     },
     {
       "name": "argocd-linux-ppc64le",
-      "size": 246423004,
-      "url": "https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-linux-ppc64le"
+      "size": 261715067,
+      "url": "https://github.com/argoproj/argo-cd/releases/download/v3.6.1/argocd-linux-ppc64le"
     },
     {
       "name": "sbom.tar.gz",
-      "size": 135236,
-      "url": "https://github.com/argoproj/argo-cd/releases/download/v3.5.5/sbom.tar.gz"
+      "size": 125891,
+      "url": "https://github.com/argoproj/argo-cd/releases/download/v3.6.1/sbom.tar.gz"
     }
   ],
   "pinned": false,

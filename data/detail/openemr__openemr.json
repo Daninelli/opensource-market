@@ -21,21 +21,21 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/openemr/openemr/zip/refs/heads/master",
   "release": {
-    "tag": "v8_4_1",
-    "name": "OpenEMR 8.4.1",
-    "published": "2026-09-20T07:43:44Z",
-    "url": "https://github.com/openemr/openemr/releases/tag/v8_4_1"
+    "tag": "v8_5_0",
+    "name": "OpenEMR 8.5.0",
+    "published": "2026-10-27T18:44:31Z",
+    "url": "https://github.com/openemr/openemr/releases/tag/v8_5_0"
   },
   "assets": [
     {
-      "name": "openemr-8.4.1.tar.gz",
-      "size": 165895874,
-      "url": "https://github.com/openemr/openemr/releases/download/v8_4_1/openemr-8.4.1.tar.gz"
+      "name": "openemr-8.5.0.tar.gz",
+      "size": 228679896,
+      "url": "https://github.com/openemr/openemr/releases/download/v8_5_0/openemr-8.5.0.tar.gz"
     },
     {
-      "name": "openemr-8.4.1.zip",
-      "size": 214944047,
-      "url": "https://github.com/openemr/openemr/releases/download/v8_4_1/openemr-8.4.1.zip"
+      "name": "openemr-8.5.0.zip",
+      "size": 279710950,
+      "url": "https://github.com/openemr/openemr/releases/download/v8_5_0/openemr-8.5.0.zip"
     }
   ],
   "pinned": false,

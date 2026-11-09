@@ -22,21 +22,21 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/photoprism/photoprism/zip/refs/heads/develop",
   "release": {
-    "tag": "261007-65faaae5d",
-    "name": "October 7, 2026",
-    "published": "2026-10-07T09:20:36Z",
-    "url": "https://github.com/photoprism/photoprism/releases/tag/261007-65faaae5d"
+    "tag": "261029-963b58c50",
+    "name": "October 29, 2026",
+    "published": "2026-10-29T22:20:43Z",
+    "url": "https://github.com/photoprism/photoprism/releases/tag/261029-963b58c50"
   },
   "assets": [
     {
-      "name": "photoprism_261007-65faaae5d-linux-arm64.tar.gz",
-      "size": 396866292,
-      "url": "https://github.com/photoprism/photoprism/releases/download/261007-65faaae5d/photoprism_261007-65faaae5d-linux-arm64.tar.gz"
+      "name": "photoprism_261029-963b58c50-linux-arm64.tar.gz",
+      "size": 400952902,
+      "url": "https://github.com/photoprism/photoprism/releases/download/261029-963b58c50/photoprism_261029-963b58c50-linux-arm64.tar.gz"
     },
     {
-      "name": "photoprism_261007-65faaae5d-linux-amd64.tar.gz",
-      "size": 421508754,
-      "url": "https://github.com/photoprism/photoprism/releases/download/261007-65faaae5d/photoprism_261007-65faaae5d-linux-amd64.tar.gz"
+      "name": "photoprism_261029-963b58c50-linux-amd64.tar.gz",
+      "size": 425968191,
+      "url": "https://github.com/photoprism/photoprism/releases/download/261029-963b58c50/photoprism_261029-963b58c50-linux-amd64.tar.gz"
     }
   ],
   "pinned": false,

@@ -20,51 +20,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/prometheus/prometheus/zip/refs/heads/main",
   "release": {
-    "tag": "v3.15.0",
-    "name": "3.15.0 / 2026-09-24",
-    "published": "2026-09-25T08:56:22Z",
-    "url": "https://github.com/prometheus/prometheus/releases/tag/v3.15.0"
+    "tag": "v3.16.0",
+    "name": "3.16.0 / 2026-11-04",
+    "published": "2026-11-05T16:06:52Z",
+    "url": "https://github.com/prometheus/prometheus/releases/tag/v3.16.0"
   },
   "assets": [
     {
-      "name": "prometheus-3.15.0.windows-arm64.tar.gz",
-      "size": 102064632,
-      "url": "https://github.com/prometheus/prometheus/releases/download/v3.15.0/prometheus-3.15.0.windows-arm64.tar.gz"
+      "name": "prometheus-3.16.0.windows-arm64.tar.gz",
+      "size": 103900911,
+      "url": "https://github.com/prometheus/prometheus/releases/download/v3.16.0/prometheus-3.16.0.windows-arm64.tar.gz"
     },
     {
-      "name": "prometheus-3.15.0.windows-arm64.zip",
-      "size": 104239023,
-      "url": "https://github.com/prometheus/prometheus/releases/download/v3.15.0/prometheus-3.15.0.windows-arm64.zip"
+      "name": "prometheus-3.16.0.windows-arm64.zip",
+      "size": 106126864,
+      "url": "https://github.com/prometheus/prometheus/releases/download/v3.16.0/prometheus-3.16.0.windows-arm64.zip"
     },
     {
-      "name": "prometheus-3.15.0.darwin-arm64.tar.gz",
-      "size": 109656029,
-      "url": "https://github.com/prometheus/prometheus/releases/download/v3.15.0/prometheus-3.15.0.darwin-arm64.tar.gz"
+      "name": "prometheus-3.16.0.darwin-arm64.tar.gz",
+      "size": 111599006,
+      "url": "https://github.com/prometheus/prometheus/releases/download/v3.16.0/prometheus-3.16.0.darwin-arm64.tar.gz"
     },
     {
-      "name": "prometheus-3.15.0.darwin-amd64.tar.gz",
-      "size": 116889623,
-      "url": "https://github.com/prometheus/prometheus/releases/download/v3.15.0/prometheus-3.15.0.darwin-amd64.tar.gz"
+      "name": "prometheus-3.16.0.darwin-amd64.tar.gz",
+      "size": 118923504,
+      "url": "https://github.com/prometheus/prometheus/releases/download/v3.16.0/prometheus-3.16.0.darwin-amd64.tar.gz"
     },
     {
-      "name": "prometheus-3.15.0.linux-mips64le.tar.gz",
-      "size": 97760888,
-      "url": "https://github.com/prometheus/prometheus/releases/download/v3.15.0/prometheus-3.15.0.linux-mips64le.tar.gz"
+      "name": "prometheus-3.16.0.linux-mips64le.tar.gz",
+      "size": 99463648,
+      "url": "https://github.com/prometheus/prometheus/releases/download/v3.16.0/prometheus-3.16.0.linux-mips64le.tar.gz"
     },
     {
-      "name": "prometheus-3.15.0.linux-mips64.tar.gz",
-      "size": 99619233,
-      "url": "https://github.com/prometheus/prometheus/releases/download/v3.15.0/prometheus-3.15.0.linux-mips64.tar.gz"
+      "name": "prometheus-3.16.0.linux-mips64.tar.gz",
+      "size": 101418802,
+      "url": "https://github.com/prometheus/prometheus/releases/download/v3.16.0/prometheus-3.16.0.linux-mips64.tar.gz"
     },
     {
-      "name": "prometheus-web-ui-3.15.0.tar.gz",
-      "size": 3343738,
-      "url": "https://github.com/prometheus/prometheus/releases/download/v3.15.0/prometheus-web-ui-3.15.0.tar.gz"
+      "name": "prometheus-web-ui-3.16.0.tar.gz",
+      "size": 3380430,
+      "url": "https://github.com/prometheus/prometheus/releases/download/v3.16.0/prometheus-web-ui-3.16.0.tar.gz"
     },
     {
-      "name": "prometheus-3.15.0.netbsd-arm64.tar.gz",
-      "size": 101570884,
-      "url": "https://github.com/prometheus/prometheus/releases/download/v3.15.0/prometheus-3.15.0.netbsd-arm64.tar.gz"
+      "name": "prometheus-3.16.0.netbsd-arm64.tar.gz",
+      "size": 103416605,
+      "url": "https://github.com/prometheus/prometheus/releases/download/v3.16.0/prometheus-3.16.0.netbsd-arm64.tar.gz"
     }
   ],
   "pinned": false,

@@ -22,41 +22,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/aquasecurity/trivy/zip/refs/heads/main",
   "release": {
-    "tag": "v0.76.0",
-    "name": "v0.76.0",
-    "published": "2026-10-14T11:45:44Z",
-    "url": "https://github.com/aquasecurity/trivy/releases/tag/v0.76.0"
+    "tag": "v0.76.2",
+    "name": "v0.76.2",
+    "published": "2026-11-05T12:50:25Z",
+    "url": "https://github.com/aquasecurity/trivy/releases/tag/v0.76.2"
   },
   "assets": [
     {
-      "name": "trivy_0.76.0_macOS-ARM64.tar.gz",
-      "size": 49441470,
-      "url": "https://github.com/aquasecurity/trivy/releases/download/v0.76.0/trivy_0.76.0_macOS-ARM64.tar.gz"
+      "name": "trivy_0.76.2_macOS-ARM64.tar.gz",
+      "size": 49840394,
+      "url": "https://github.com/aquasecurity/trivy/releases/download/v0.76.2/trivy_0.76.2_macOS-ARM64.tar.gz"
     },
     {
-      "name": "trivy_0.76.0_macOS-64bit.tar.gz",
-      "size": 53344782,
-      "url": "https://github.com/aquasecurity/trivy/releases/download/v0.76.0/trivy_0.76.0_macOS-64bit.tar.gz"
+      "name": "trivy_0.76.2_macOS-64bit.tar.gz",
+      "size": 53795834,
+      "url": "https://github.com/aquasecurity/trivy/releases/download/v0.76.2/trivy_0.76.2_macOS-64bit.tar.gz"
     },
     {
-      "name": "trivy_0.76.0_windows-64bit.zip",
-      "size": 53449911,
-      "url": "https://github.com/aquasecurity/trivy/releases/download/v0.76.0/trivy_0.76.0_windows-64bit.zip"
+      "name": "trivy_0.76.2_windows-64bit.zip",
+      "size": 53905616,
+      "url": "https://github.com/aquasecurity/trivy/releases/download/v0.76.2/trivy_0.76.2_windows-64bit.zip"
     },
     {
-      "name": "trivy_0.76.0_Linux-PPC64LE.rpm",
-      "size": 46405214,
-      "url": "https://github.com/aquasecurity/trivy/releases/download/v0.76.0/trivy_0.76.0_Linux-PPC64LE.rpm"
+      "name": "trivy_0.76.2_Linux-PPC64LE.rpm",
+      "size": 46772110,
+      "url": "https://github.com/aquasecurity/trivy/releases/download/v0.76.2/trivy_0.76.2_Linux-PPC64LE.rpm"
     },
     {
-      "name": "trivy_0.76.0_Linux-PPC64LE.deb",
-      "size": 46534656,
-      "url": "https://github.com/aquasecurity/trivy/releases/download/v0.76.0/trivy_0.76.0_Linux-PPC64LE.deb"
+      "name": "trivy_0.76.2_Linux-PPC64LE.tar.gz",
+      "size": 46920651,
+      "url": "https://github.com/aquasecurity/trivy/releases/download/v0.76.2/trivy_0.76.2_Linux-PPC64LE.tar.gz"
     },
     {
-      "name": "trivy_0.76.0_FreeBSD-64bit.tar.gz",
-      "size": 52079908,
-      "url": "https://github.com/aquasecurity/trivy/releases/download/v0.76.0/trivy_0.76.0_FreeBSD-64bit.tar.gz"
+      "name": "trivy_0.76.2_FreeBSD-64bit.tar.gz",
+      "size": 52531455,
+      "url": "https://github.com/aquasecurity/trivy/releases/download/v0.76.2/trivy_0.76.2_FreeBSD-64bit.tar.gz"
     }
   ],
   "pinned": false,

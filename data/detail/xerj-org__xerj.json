@@ -20,41 +20,46 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/xerj-org/xerj/zip/refs/heads/main",
   "release": {
-    "tag": "v1.0.0-rc.97",
-    "name": "xerj v1.0.0-rc.97",
-    "published": "2026-10-19T14:16:06Z",
-    "url": "https://github.com/xerj-org/xerj/releases/tag/v1.0.0-rc.97"
+    "tag": "v1.0.0-rc.101",
+    "name": "xerj v1.0.0-rc.101",
+    "published": "2026-11-05T21:20:19Z",
+    "url": "https://github.com/xerj-org/xerj/releases/tag/v1.0.0-rc.101"
   },
   "assets": [
     {
-      "name": "xerj-1.0.0-rc.97-aarch64-apple-darwin.tar.gz",
-      "size": 28172337,
-      "url": "https://github.com/xerj-org/xerj/releases/download/v1.0.0-rc.97/xerj-1.0.0-rc.97-aarch64-apple-darwin.tar.gz"
+      "name": "xerj-1.0.0-rc.101-aarch64-apple-darwin.tar.gz",
+      "size": 31914453,
+      "url": "https://github.com/xerj-org/xerj/releases/download/v1.0.0-rc.101/xerj-1.0.0-rc.101-aarch64-apple-darwin.tar.gz"
     },
     {
-      "name": "xerj-1.0.0-rc.97-aarch64-pc-windows-msvc.zip",
-      "size": 28375405,
-      "url": "https://github.com/xerj-org/xerj/releases/download/v1.0.0-rc.97/xerj-1.0.0-rc.97-aarch64-pc-windows-msvc.zip"
+      "name": "xerj-1.0.0-rc.101-aarch64-pc-windows-msvc.zip",
+      "size": 31933851,
+      "url": "https://github.com/xerj-org/xerj/releases/download/v1.0.0-rc.101/xerj-1.0.0-rc.101-aarch64-pc-windows-msvc.zip"
     },
     {
-      "name": "xerj-1.0.0-rc.97-x86_64-apple-darwin.tar.gz",
-      "size": 30410876,
-      "url": "https://github.com/xerj-org/xerj/releases/download/v1.0.0-rc.97/xerj-1.0.0-rc.97-x86_64-apple-darwin.tar.gz"
+      "name": "xerj-1.0.0-rc.101-x86_64-apple-darwin.tar.gz",
+      "size": 34347280,
+      "url": "https://github.com/xerj-org/xerj/releases/download/v1.0.0-rc.101/xerj-1.0.0-rc.101-x86_64-apple-darwin.tar.gz"
     },
     {
-      "name": "xerj-1.0.0-rc.97-x86_64-pc-windows-msvc.zip",
-      "size": 30655703,
-      "url": "https://github.com/xerj-org/xerj/releases/download/v1.0.0-rc.97/xerj-1.0.0-rc.97-x86_64-pc-windows-msvc.zip"
+      "name": "xerj-1.0.0-rc.101-x86_64-pc-windows-msvc.zip",
+      "size": 34447342,
+      "url": "https://github.com/xerj-org/xerj/releases/download/v1.0.0-rc.101/xerj-1.0.0-rc.101-x86_64-pc-windows-msvc.zip"
     },
     {
-      "name": "xerj-1.0.0-rc.97-aarch64-unknown-linux-gnu.deb",
-      "size": 21928586,
-      "url": "https://github.com/xerj-org/xerj/releases/download/v1.0.0-rc.97/xerj-1.0.0-rc.97-aarch64-unknown-linux-gnu.deb"
+      "name": "xerj-1.0.0-rc.101-aarch64-unknown-linux-gnu.deb",
+      "size": 24805118,
+      "url": "https://github.com/xerj-org/xerj/releases/download/v1.0.0-rc.101/xerj-1.0.0-rc.101-aarch64-unknown-linux-gnu.deb"
     },
     {
-      "name": "xerj-1.0.0-rc.97-x86_64-unknown-linux-gnu.deb",
-      "size": 22866016,
-      "url": "https://github.com/xerj-org/xerj/releases/download/v1.0.0-rc.97/xerj-1.0.0-rc.97-x86_64-unknown-linux-gnu.deb"
+      "name": "xerj-1.0.0-rc.101-x86_64-unknown-linux-gnu.deb",
+      "size": 25754088,
+      "url": "https://github.com/xerj-org/xerj/releases/download/v1.0.0-rc.101/xerj-1.0.0-rc.101-x86_64-unknown-linux-gnu.deb"
+    },
+    {
+      "name": "xerj-model-bundle-v1-v1.0.0-rc.101.tar.gz",
+      "size": 408024623,
+      "url": "https://github.com/xerj-org/xerj/releases/download/v1.0.0-rc.101/xerj-model-bundle-v1-v1.0.0-rc.101.tar.gz"
     }
   ],
   "pinned": false,

@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/JetBrains/Exposed/zip/refs/heads/main",
   "release": {
-    "tag": "1.6.0",
-    "name": "1.6.0",
-    "published": "2026-10-16T14:39:19Z",
-    "url": "https://github.com/JetBrains/Exposed/releases/tag/1.6.0"
+    "tag": "1.6.1",
+    "name": "1.6.1",
+    "published": "2026-11-04T13:48:46Z",
+    "url": "https://github.com/JetBrains/Exposed/releases/tag/1.6.1"
   },
   "assets": [],
   "pinned": false,

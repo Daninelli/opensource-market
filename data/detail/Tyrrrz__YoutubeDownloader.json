@@ -22,41 +22,41 @@
   "default_branch": "prime",
   "download_url": "https://codeload.github.com/Tyrrrz/YoutubeDownloader/zip/refs/heads/prime",
   "release": {
-    "tag": "1.17",
-    "name": "1.17",
-    "published": "2026-09-11T17:28:18Z",
-    "url": "https://github.com/Tyrrrz/YoutubeDownloader/releases/tag/1.17"
+    "tag": "1.17.1",
+    "name": "1.17.1",
+    "published": "2026-10-25T14:26:35Z",
+    "url": "https://github.com/Tyrrrz/YoutubeDownloader/releases/tag/1.17.1"
   },
   "assets": [
     {
       "name": "YoutubeDownloader.win-x86.zip",
-      "size": 75635731,
-      "url": "https://github.com/Tyrrrz/YoutubeDownloader/releases/download/1.17/YoutubeDownloader.win-x86.zip"
+      "size": 75715710,
+      "url": "https://github.com/Tyrrrz/YoutubeDownloader/releases/download/1.17.1/YoutubeDownloader.win-x86.zip"
     },
     {
       "name": "YoutubeDownloader.win-arm64.zip",
-      "size": 76506317,
-      "url": "https://github.com/Tyrrrz/YoutubeDownloader/releases/download/1.17/YoutubeDownloader.win-arm64.zip"
+      "size": 76584578,
+      "url": "https://github.com/Tyrrrz/YoutubeDownloader/releases/download/1.17.1/YoutubeDownloader.win-arm64.zip"
     },
     {
       "name": "YoutubeDownloader.linux-arm64.zip",
-      "size": 48057283,
-      "url": "https://github.com/Tyrrrz/YoutubeDownloader/releases/download/1.17/YoutubeDownloader.linux-arm64.zip"
+      "size": 48140374,
+      "url": "https://github.com/Tyrrrz/YoutubeDownloader/releases/download/1.17.1/YoutubeDownloader.linux-arm64.zip"
     },
     {
       "name": "YoutubeDownloader.linux-x64.zip",
-      "size": 50478969,
-      "url": "https://github.com/Tyrrrz/YoutubeDownloader/releases/download/1.17/YoutubeDownloader.linux-x64.zip"
+      "size": 50565532,
+      "url": "https://github.com/Tyrrrz/YoutubeDownloader/releases/download/1.17.1/YoutubeDownloader.linux-x64.zip"
     },
     {
       "name": "YoutubeDownloader.osx-arm64.zip",
-      "size": 100400104,
-      "url": "https://github.com/Tyrrrz/YoutubeDownloader/releases/download/1.17/YoutubeDownloader.osx-arm64.zip"
+      "size": 100569671,
+      "url": "https://github.com/Tyrrrz/YoutubeDownloader/releases/download/1.17.1/YoutubeDownloader.osx-arm64.zip"
     },
     {
       "name": "YoutubeDownloader.osx-x64.zip",
-      "size": 104801788,
-      "url": "https://github.com/Tyrrrz/YoutubeDownloader/releases/download/1.17/YoutubeDownloader.osx-x64.zip"
+      "size": 104972959,
+      "url": "https://github.com/Tyrrrz/YoutubeDownloader/releases/download/1.17.1/YoutubeDownloader.osx-x64.zip"
     }
   ],
   "pinned": false,

@@ -23,36 +23,36 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/bluenviron/mediamtx/zip/refs/heads/main",
   "release": {
-    "tag": "v1.21.2",
-    "name": "v1.21.2",
-    "published": "2026-10-08T21:42:39Z",
-    "url": "https://github.com/bluenviron/mediamtx/releases/tag/v1.21.2"
+    "tag": "v1.21.3",
+    "name": "v1.21.3",
+    "published": "2026-10-25T11:06:09Z",
+    "url": "https://github.com/bluenviron/mediamtx/releases/tag/v1.21.3"
   },
   "assets": [
     {
-      "name": "mediamtx_v1.21.2_darwin_arm64.tar.gz",
-      "size": 27460441,
-      "url": "https://github.com/bluenviron/mediamtx/releases/download/v1.21.2/mediamtx_v1.21.2_darwin_arm64.tar.gz"
+      "name": "mediamtx_v1.21.3_darwin_arm64.tar.gz",
+      "size": 27617580,
+      "url": "https://github.com/bluenviron/mediamtx/releases/download/v1.21.3/mediamtx_v1.21.3_darwin_arm64.tar.gz"
     },
     {
-      "name": "mediamtx_v1.21.2_windows_amd64.zip",
-      "size": 28583662,
-      "url": "https://github.com/bluenviron/mediamtx/releases/download/v1.21.2/mediamtx_v1.21.2_windows_amd64.zip"
+      "name": "mediamtx_v1.21.3_windows_amd64.zip",
+      "size": 28734316,
+      "url": "https://github.com/bluenviron/mediamtx/releases/download/v1.21.3/mediamtx_v1.21.3_windows_amd64.zip"
     },
     {
-      "name": "mediamtx_v1.21.2_darwin_amd64.tar.gz",
-      "size": 29318862,
-      "url": "https://github.com/bluenviron/mediamtx/releases/download/v1.21.2/mediamtx_v1.21.2_darwin_amd64.tar.gz"
+      "name": "mediamtx_v1.21.3_darwin_amd64.tar.gz",
+      "size": 29487382,
+      "url": "https://github.com/bluenviron/mediamtx/releases/download/v1.21.3/mediamtx_v1.21.3_darwin_amd64.tar.gz"
     },
     {
-      "name": "mediamtx_v1.21.2_linux_amd64.tar.gz",
-      "size": 28345997,
-      "url": "https://github.com/bluenviron/mediamtx/releases/download/v1.21.2/mediamtx_v1.21.2_linux_amd64.tar.gz"
+      "name": "mediamtx_v1.21.3_linux_amd64.tar.gz",
+      "size": 28505612,
+      "url": "https://github.com/bluenviron/mediamtx/releases/download/v1.21.3/mediamtx_v1.21.3_linux_amd64.tar.gz"
     },
     {
-      "name": "mediamtx_v1.21.2_linux_arm64.tar.gz",
-      "size": 30503607,
-      "url": "https://github.com/bluenviron/mediamtx/releases/download/v1.21.2/mediamtx_v1.21.2_linux_arm64.tar.gz"
+      "name": "mediamtx_v1.21.3_linux_arm64.tar.gz",
+      "size": 30673177,
+      "url": "https://github.com/bluenviron/mediamtx/releases/download/v1.21.3/mediamtx_v1.21.3_linux_arm64.tar.gz"
     }
   ],
   "pinned": false,

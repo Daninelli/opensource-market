@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/assistant-ui/assistant-ui/zip/refs/heads/main",
   "release": {
-    "tag": "@assistant-ui/react-generative-ui@0.1.5",
-    "name": "@assistant-ui/react-generative-ui@0.1.5",
-    "published": "2026-10-19T21:47:54Z",
-    "url": "https://github.com/assistant-ui/assistant-ui/releases/tag/%40assistant-ui/react-generative-ui%400.1.5"
+    "tag": "@assistant-ui/tap@0.9.25",
+    "name": "@assistant-ui/tap@0.9.25",
+    "published": "2026-11-08T04:14:04Z",
+    "url": "https://github.com/assistant-ui/assistant-ui/releases/tag/%40assistant-ui/tap%400.9.25"
   },
   "assets": [],
   "pinned": false,

@@ -21,41 +21,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/browseros-ai/BrowserOS/zip/refs/heads/main",
   "release": {
-    "tag": "browserclaw/v0.51.1.2",
-    "name": "BrowserOS neo - v0.51.1.2",
-    "published": "2026-10-13T21:46:02Z",
-    "url": "https://github.com/browseros-ai/BrowserOS/releases/tag/browserclaw/v0.51.1.2"
+    "tag": "browserclaw/v0.52.0",
+    "name": "BrowserOS neo v0.52.0",
+    "published": "2026-10-31T05:30:20Z",
+    "url": "https://github.com/browseros-ai/BrowserOS/releases/tag/browserclaw/v0.52.0"
   },
   "assets": [
     {
-      "name": "BrowserOS_neo_v0.51.1.2_x64_installer.exe",
-      "size": 137344056,
-      "url": "https://github.com/browseros-ai/BrowserOS/releases/download/browserclaw/v0.51.1.2/BrowserOS_neo_v0.51.1.2_x64_installer.exe"
+      "name": "BrowserOS_neo_v0.52.1.1_x64_installer.exe",
+      "size": 140804064,
+      "url": "https://github.com/browseros-ai/BrowserOS/releases/download/browserclaw/v0.52.0/BrowserOS_neo_v0.52.1.1_x64_installer.exe"
     },
     {
-      "name": "BrowserOS_neo_v0.51.1.2_arm64.dmg",
-      "size": 163779141,
-      "url": "https://github.com/browseros-ai/BrowserOS/releases/download/browserclaw/v0.51.1.2/BrowserOS_neo_v0.51.1.2_arm64.dmg"
+      "name": "BrowserOS_neo_v0.52.1_x64_installer.exe",
+      "size": 140815328,
+      "url": "https://github.com/browseros-ai/BrowserOS/releases/download/browserclaw/v0.52.0/BrowserOS_neo_v0.52.1_x64_installer.exe"
     },
     {
-      "name": "BrowserOS_neo_v0.51.1.2_x64.dmg",
-      "size": 179177435,
-      "url": "https://github.com/browseros-ai/BrowserOS/releases/download/browserclaw/v0.51.1.2/BrowserOS_neo_v0.51.1.2_x64.dmg"
+      "name": "BrowserOS_neo_v0.52.1_arm64.dmg",
+      "size": 168338099,
+      "url": "https://github.com/browseros-ai/BrowserOS/releases/download/browserclaw/v0.52.0/BrowserOS_neo_v0.52.1_arm64.dmg"
     },
     {
-      "name": "BrowserOS_neo_v0.51.1.2_amd64.deb",
-      "size": 182210166,
-      "url": "https://github.com/browseros-ai/BrowserOS/releases/download/browserclaw/v0.51.1.2/BrowserOS_neo_v0.51.1.2_amd64.deb"
+      "name": "BrowserOS_neo_v0.52.1.1_arm64.dmg",
+      "size": 168338673,
+      "url": "https://github.com/browseros-ai/BrowserOS/releases/download/browserclaw/v0.52.0/BrowserOS_neo_v0.52.1.1_arm64.dmg"
     },
     {
-      "name": "BrowserOS_neo_v0.51.1.2_x64.AppImage",
-      "size": 218937848,
-      "url": "https://github.com/browseros-ai/BrowserOS/releases/download/browserclaw/v0.51.1.2/BrowserOS_neo_v0.51.1.2_x64.AppImage"
+      "name": "BrowserOS_neo_v0.52.1_arm64.deb",
+      "size": 176406294,
+      "url": "https://github.com/browseros-ai/BrowserOS/releases/download/browserclaw/v0.52.0/BrowserOS_neo_v0.52.1_arm64.deb"
     },
     {
-      "name": "BrowserOS_neo_v0.51.1.2_x64_installer.zip",
-      "size": 137355879,
-      "url": "https://github.com/browseros-ai/BrowserOS/releases/download/browserclaw/v0.51.1.2/BrowserOS_neo_v0.51.1.2_x64_installer.zip"
+      "name": "BrowserOS_neo_v0.52.1.1_arm64.deb",
+      "size": 176407860,
+      "url": "https://github.com/browseros-ai/BrowserOS/releases/download/browserclaw/v0.52.0/BrowserOS_neo_v0.52.1.1_arm64.deb"
+    },
+    {
+      "name": "BrowserOS_neo_v0.52.1.1_x64_installer.zip",
+      "size": 140816475,
+      "url": "https://github.com/browseros-ai/BrowserOS/releases/download/browserclaw/v0.52.0/BrowserOS_neo_v0.52.1.1_x64_installer.zip"
+    },
+    {
+      "name": "BrowserOS_neo_v0.52.1_x64_installer.zip",
+      "size": 140827937,
+      "url": "https://github.com/browseros-ai/BrowserOS/releases/download/browserclaw/v0.52.0/BrowserOS_neo_v0.52.1_x64_installer.zip"
     }
   ],
   "pinned": false,

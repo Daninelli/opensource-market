@@ -22,16 +22,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/GreaterWMS/GreaterWMS/zip/refs/heads/master",
   "release": {
-    "tag": "V2.1.52",
-    "name": "GreaterWMS V2.1.52",
-    "published": "2026-09-15T01:50:50Z",
-    "url": "https://github.com/GreaterWMS/GreaterWMS/releases/tag/V2.1.52"
+    "tag": "V2.1.54",
+    "name": "GreaterWMS V2.1.54",
+    "published": "2026-10-26T06:51:48Z",
+    "url": "https://github.com/GreaterWMS/GreaterWMS/releases/tag/V2.1.54"
   },
   "assets": [
     {
-      "name": "GreaterWMS.V2.1.52.zip",
-      "size": 300741220,
-      "url": "https://github.com/GreaterWMS/GreaterWMS/releases/download/V2.1.52/GreaterWMS.V2.1.52.zip"
+      "name": "GreaterWMS.V2.1.54.zip",
+      "size": 14695119,
+      "url": "https://github.com/GreaterWMS/GreaterWMS/releases/download/V2.1.54/GreaterWMS.V2.1.54.zip"
     }
   ],
   "pinned": false,

@@ -20,41 +20,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ScottSloan/Bili23-Downloader/zip/refs/heads/main",
   "release": {
-    "tag": "v2.20.0",
-    "name": "v2.20.0",
-    "published": "2026-09-27T07:23:51Z",
-    "url": "https://github.com/ScottSloan/Bili23-Downloader/releases/tag/v2.20.0"
+    "tag": "v2.21.0",
+    "name": "v2.21.0",
+    "published": "2026-10-22T12:44:10Z",
+    "url": "https://github.com/ScottSloan/Bili23-Downloader/releases/tag/v2.21.0"
   },
   "assets": [
     {
-      "name": "Bili23-Downloader_2.20.0_windows_x64.exe",
-      "size": 32997448,
-      "url": "https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.20.0/Bili23-Downloader_2.20.0_windows_x64.exe"
+      "name": "Bili23-Downloader_2.21.0_windows_x64.exe",
+      "size": 32805720,
+      "url": "https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.21.0/Bili23-Downloader_2.21.0_windows_x64.exe"
     },
     {
-      "name": "Bili23-Downloader_2.20.0_windows_x64_for_win7.exe",
-      "size": 33304544,
-      "url": "https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.20.0/Bili23-Downloader_2.20.0_windows_x64_for_win7.exe"
+      "name": "Bili23-Downloader_2.21.0_windows_x64_for_win7.exe",
+      "size": 33100824,
+      "url": "https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.21.0/Bili23-Downloader_2.21.0_windows_x64_for_win7.exe"
     },
     {
-      "name": "Bili23-Downloader_2.20.0_macos_x86_64.dmg",
-      "size": 60355833,
-      "url": "https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.20.0/Bili23-Downloader_2.20.0_macos_x86_64.dmg"
+      "name": "Bili23-Downloader_2.21.0_macos_x86_64.dmg",
+      "size": 60433966,
+      "url": "https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.21.0/Bili23-Downloader_2.21.0_macos_x86_64.dmg"
     },
     {
-      "name": "Bili23-Downloader_2.20.0_macos_aarch64.dmg",
-      "size": 60504905,
-      "url": "https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.20.0/Bili23-Downloader_2.20.0_macos_aarch64.dmg"
+      "name": "Bili23-Downloader_2.21.0_macos_aarch64.dmg",
+      "size": 60591740,
+      "url": "https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.21.0/Bili23-Downloader_2.21.0_macos_aarch64.dmg"
     },
     {
-      "name": "Bili23-Downloader_2.20.0_linux_arm64.deb",
-      "size": 47931850,
-      "url": "https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.20.0/Bili23-Downloader_2.20.0_linux_arm64.deb"
+      "name": "Bili23-Downloader_2.21.0_linux_arm64.deb",
+      "size": 47618988,
+      "url": "https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.21.0/Bili23-Downloader_2.21.0_linux_arm64.deb"
     },
     {
-      "name": "Bili23-Downloader_2.20.0_linux_amd64.deb",
-      "size": 50507244,
-      "url": "https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.20.0/Bili23-Downloader_2.20.0_linux_amd64.deb"
+      "name": "Bili23-Downloader_2.21.0_linux_amd64.deb",
+      "size": 50552738,
+      "url": "https://github.com/ScottSloan/Bili23-Downloader/releases/download/v2.21.0/Bili23-Downloader_2.21.0_linux_amd64.deb"
     }
   ],
   "pinned": false,

@@ -29,6 +29,11 @@
   },
   "assets": [
     {
+      "name": "GenericAgent-macOS-arm64.app.zip",
+      "size": 5320736,
+      "url": "https://github.com/lsdefine/GenericAgent/releases/download/v0.2.1/GenericAgent-macOS-arm64.app.zip"
+    },
+    {
       "name": "GenericAgent.exe",
       "size": 13451776,
       "url": "https://github.com/lsdefine/GenericAgent/releases/download/v0.2.1/GenericAgent.exe"
@@ -45,7 +50,7 @@
     },
     {
       "name": "GenericAgent-Linux-WithPython.tar.gz",
-      "size": 240455912,
+      "size": 242706201,
       "url": "https://github.com/lsdefine/GenericAgent/releases/download/v0.2.1/GenericAgent-Linux-WithPython.tar.gz"
     }
   ],

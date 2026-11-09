@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/foambubble/foam/zip/refs/heads/main",
   "release": {
-    "tag": "vscode@0.46.0",
-    "name": "vscode@0.46.0",
-    "published": "2026-09-30T20:14:25Z",
-    "url": "https://github.com/foambubble/foam/releases/tag/vscode%400.46.0"
+    "tag": "vscode@0.48.0",
+    "name": "vscode@0.48.0",
+    "published": "2026-11-06T15:52:20Z",
+    "url": "https://github.com/foambubble/foam/releases/tag/vscode%400.48.0"
   },
   "assets": [],
   "pinned": false,

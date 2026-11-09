@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/MadsLorentzen/ai-job-search/zip/refs/heads/master",
   "release": {
-    "tag": "v1.7.3",
-    "name": "v1.7.3 - Least privilege, postings checked before use, and fifty-eight fixes",
-    "published": "2026-10-19T16:42:35Z",
-    "url": "https://github.com/MadsLorentzen/ai-job-search/releases/tag/v1.7.3"
+    "tag": "v1.7.5",
+    "name": "v1.7.5",
+    "published": "2026-11-09T06:04:34Z",
+    "url": "https://github.com/ai-job-search-dev/ai-job-search/releases/tag/v1.7.5"
   },
   "assets": [],
   "pinned": false,

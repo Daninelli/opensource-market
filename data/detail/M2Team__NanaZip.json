@@ -22,31 +22,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/M2Team/NanaZip/zip/refs/heads/main",
   "release": {
-    "tag": "7.0.1843.0",
-    "name": "NanaZip 7.0, version 2609.2 (7.0.1843.0)",
-    "published": "2026-09-17T12:41:06Z",
-    "url": "https://github.com/M2Team/NanaZip/releases/tag/7.0.1843.0"
+    "tag": "7.0.1882.0",
+    "name": "NanaZip 7.0, version 2610.2 (7.0.1882.0)",
+    "published": "2026-10-26T16:06:17Z",
+    "url": "https://github.com/M2Team/NanaZip/releases/tag/7.0.1882.0"
   },
   "assets": [
     {
-      "name": "NanaZip_7.0.1843.0_Binaries.zip",
-      "size": 8092507,
-      "url": "https://github.com/M2Team/NanaZip/releases/download/7.0.1843.0/NanaZip_7.0.1843.0_Binaries.zip"
+      "name": "NanaZip_7.0.1882.0_Binaries.zip",
+      "size": 8458569,
+      "url": "https://github.com/M2Team/NanaZip/releases/download/7.0.1882.0/NanaZip_7.0.1882.0_Binaries.zip"
     },
     {
-      "name": "NanaZipPreview_7.0.1843.0_Binaries.zip",
-      "size": 8099064,
-      "url": "https://github.com/M2Team/NanaZip/releases/download/7.0.1843.0/NanaZipPreview_7.0.1843.0_Binaries.zip"
+      "name": "NanaZipPreview_7.0.1882.0_Binaries.zip",
+      "size": 8464690,
+      "url": "https://github.com/M2Team/NanaZip/releases/download/7.0.1882.0/NanaZipPreview_7.0.1882.0_Binaries.zip"
     },
     {
-      "name": "NanaZip_7.0.1843.0.msixbundle",
-      "size": 11931446,
-      "url": "https://github.com/M2Team/NanaZip/releases/download/7.0.1843.0/NanaZip_7.0.1843.0.msixbundle"
+      "name": "NanaZip_7.0.1882.0.msixbundle",
+      "size": 12293079,
+      "url": "https://github.com/M2Team/NanaZip/releases/download/7.0.1882.0/NanaZip_7.0.1882.0.msixbundle"
     },
     {
-      "name": "NanaZipPreview_7.0.1843.0.msixbundle",
-      "size": 12081897,
-      "url": "https://github.com/M2Team/NanaZip/releases/download/7.0.1843.0/NanaZipPreview_7.0.1843.0.msixbundle"
+      "name": "NanaZipPreview_7.0.1882.0.msixbundle",
+      "size": 12442763,
+      "url": "https://github.com/M2Team/NanaZip/releases/download/7.0.1882.0/NanaZipPreview_7.0.1882.0.msixbundle"
     }
   ],
   "pinned": false,

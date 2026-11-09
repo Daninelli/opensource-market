@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Yeachan-Heo/oh-my-claudecode/zip/refs/heads/main",
   "release": {
-    "tag": "v5.7.5",
-    "name": "v5.7.5",
-    "published": "2026-10-18T07:02:02Z",
-    "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/releases/tag/v5.7.5"
+    "tag": "v5.8.1",
+    "name": "Release v5.8.1",
+    "published": "2026-11-08T23:26:54Z",
+    "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/releases/tag/v5.8.1"
   },
   "assets": [],
   "pinned": false,

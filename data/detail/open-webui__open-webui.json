@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/open-webui/open-webui/zip/refs/heads/main",
   "release": {
-    "tag": "v0.12.3",
-    "name": "v0.12.3",
-    "published": "2026-10-16T11:46:21Z",
-    "url": "https://github.com/open-webui/open-webui/releases/tag/v0.12.3"
+    "tag": "v0.13.3",
+    "name": "v0.13.3",
+    "published": "2026-11-08T23:48:24Z",
+    "url": "https://github.com/open-webui/open-webui/releases/tag/v0.13.3"
   },
   "assets": [],
   "pinned": false,

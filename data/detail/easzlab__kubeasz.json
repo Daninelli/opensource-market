@@ -22,7 +22,7 @@
   "download_url": "https://codeload.github.com/easzlab/kubeasz/zip/refs/heads/master",
   "release": {
     "tag": "3.7.0",
-    "name": "3.7.0",
+    "name": "kubeasz 3.7.0",
     "published": "2026-08-09T08:53:09Z",
     "url": "https://github.com/easzlab/kubeasz/releases/tag/3.7.0"
   },

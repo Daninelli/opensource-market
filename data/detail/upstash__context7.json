@@ -20,10 +20,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/upstash/context7/zip/refs/heads/master",
   "release": {
-    "tag": "@upstash/context7-mcp@4.4.4",
-    "name": "@upstash/context7-mcp@4.4.4",
-    "published": "2026-10-19T13:47:20Z",
-    "url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-mcp%404.4.4"
+    "tag": "@upstash/context7-mcp@4.5.1",
+    "name": "@upstash/context7-mcp@4.5.1",
+    "published": "2026-11-06T12:16:19Z",
+    "url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-mcp%404.5.1"
   },
   "assets": [],
   "pinned": false,

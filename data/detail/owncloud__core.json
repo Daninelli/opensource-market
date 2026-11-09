@@ -21,31 +21,31 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/owncloud/core/zip/refs/heads/master",
   "release": {
-    "tag": "v10.16.6",
-    "name": "v10.16.6",
-    "published": "2026-10-06T13:23:03Z",
-    "url": "https://github.com/owncloud/core/releases/tag/v10.16.6"
+    "tag": "v11.1.0",
+    "name": "v11.1.0",
+    "published": "2026-11-03T09:51:47Z",
+    "url": "https://github.com/owncloud/core/releases/tag/v11.1.0"
   },
   "assets": [
     {
-      "name": "owncloud-10.16.6.tar.bz2",
-      "size": 57843056,
-      "url": "https://github.com/owncloud/core/releases/download/v10.16.6/owncloud-10.16.6.tar.bz2"
+      "name": "owncloud-11.1.0.tar.bz2",
+      "size": 54607361,
+      "url": "https://github.com/owncloud/core/releases/download/v11.1.0/owncloud-11.1.0.tar.bz2"
     },
     {
-      "name": "owncloud-10.16.6-qa.tar.bz2",
-      "size": 69129315,
-      "url": "https://github.com/owncloud/core/releases/download/v10.16.6/owncloud-10.16.6-qa.tar.bz2"
+      "name": "owncloud-11.1.0-qa.tar.bz2",
+      "size": 65450639,
+      "url": "https://github.com/owncloud/core/releases/download/v11.1.0/owncloud-11.1.0-qa.tar.bz2"
     },
     {
-      "name": "owncloud-10.16.6.zip",
-      "size": 72800332,
-      "url": "https://github.com/owncloud/core/releases/download/v10.16.6/owncloud-10.16.6.zip"
+      "name": "owncloud-11.1.0.zip",
+      "size": 69070361,
+      "url": "https://github.com/owncloud/core/releases/download/v11.1.0/owncloud-11.1.0.zip"
     },
     {
-      "name": "owncloud-10.16.6-qa.zip",
-      "size": 87347227,
-      "url": "https://github.com/owncloud/core/releases/download/v10.16.6/owncloud-10.16.6-qa.zip"
+      "name": "owncloud-11.1.0-qa.zip",
+      "size": 83718908,
+      "url": "https://github.com/owncloud/core/releases/download/v11.1.0/owncloud-11.1.0-qa.zip"
     }
   ],
   "pinned": false,

@@ -20,41 +20,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/netdata/netdata/zip/refs/heads/master",
   "release": {
-    "tag": "v2.12.1",
-    "name": "v2.12.1",
-    "published": "2026-10-08T16:52:35Z",
-    "url": "https://github.com/netdata/netdata/releases/tag/v2.12.1"
+    "tag": "v2.12.3",
+    "name": "v2.12.3",
+    "published": "2026-11-04T16:43:10Z",
+    "url": "https://github.com/netdata/netdata/releases/tag/v2.12.3"
   },
   "assets": [
     {
       "name": "netdata-latest-x64.msi",
-      "size": 181751808,
-      "url": "https://github.com/netdata/netdata/releases/download/v2.12.1/netdata-latest-x64.msi"
+      "size": 185024512,
+      "url": "https://github.com/netdata/netdata/releases/download/v2.12.3/netdata-latest-x64.msi"
     },
     {
-      "name": "netdata-v2.12.1-x64.msi",
-      "size": 181751808,
-      "url": "https://github.com/netdata/netdata/releases/download/v2.12.1/netdata-v2.12.1-x64.msi"
+      "name": "netdata-v2.12.3-x64.msi",
+      "size": 185024512,
+      "url": "https://github.com/netdata/netdata/releases/download/v2.12.3/netdata-v2.12.3-x64.msi"
     },
     {
       "name": "netdata-latest.tar.zst",
-      "size": 22582573,
-      "url": "https://github.com/netdata/netdata/releases/download/v2.12.1/netdata-latest.tar.zst"
+      "size": 22693749,
+      "url": "https://github.com/netdata/netdata/releases/download/v2.12.3/netdata-latest.tar.zst"
     },
     {
-      "name": "netdata-v2.12.1.tar.zst",
-      "size": 22582573,
-      "url": "https://github.com/netdata/netdata/releases/download/v2.12.1/netdata-v2.12.1.tar.zst"
+      "name": "netdata-v2.12.3.tar.zst",
+      "size": 22693749,
+      "url": "https://github.com/netdata/netdata/releases/download/v2.12.3/netdata-v2.12.3.tar.zst"
     },
     {
       "name": "netdata-latest.tar.gz",
-      "size": 32449867,
-      "url": "https://github.com/netdata/netdata/releases/download/v2.12.1/netdata-latest.tar.gz"
+      "size": 32595029,
+      "url": "https://github.com/netdata/netdata/releases/download/v2.12.3/netdata-latest.tar.gz"
     },
     {
-      "name": "netdata-v2.12.1.tar.gz",
-      "size": 32449867,
-      "url": "https://github.com/netdata/netdata/releases/download/v2.12.1/netdata-v2.12.1.tar.gz"
+      "name": "netdata-v2.12.3.tar.gz",
+      "size": 32595029,
+      "url": "https://github.com/netdata/netdata/releases/download/v2.12.3/netdata-v2.12.3.tar.gz"
     }
   ],
   "pinned": false,

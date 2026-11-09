@@ -22,16 +22,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/DuarteSantos8/openGym/zip/refs/heads/main",
   "release": {
-    "tag": "v1.4.1",
-    "name": "v1.4.1",
-    "published": "2026-10-10T16:23:14Z",
-    "url": "https://github.com/DuarteSantos8/openGym/releases/tag/v1.4.1"
+    "tag": "v1.4.4",
+    "name": "v1.4.4: a fresh look, Modules and Google Play",
+    "published": "2026-11-03T10:51:39Z",
+    "url": "https://github.com/DuarteSantos8/openGym/releases/tag/v1.4.4"
   },
   "assets": [
     {
-      "name": "openGym-1.4.1.apk",
-      "size": 304718274,
-      "url": "https://github.com/DuarteSantos8/openGym/releases/download/v1.4.1/openGym-1.4.1.apk"
+      "name": "openGym-1.4.4.apk",
+      "size": 316742385,
+      "url": "https://github.com/DuarteSantos8/openGym/releases/download/v1.4.4/openGym-1.4.4.apk"
+    },
+    {
+      "name": "openGym-Plus-1.4.4.apk",
+      "size": 426048241,
+      "url": "https://github.com/DuarteSantos8/openGym/releases/download/v1.4.4/openGym-Plus-1.4.4.apk"
     }
   ],
   "pinned": false,

@@ -20,51 +20,51 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/kubescape/kubescape/zip/refs/heads/master",
   "release": {
-    "tag": "v4.0.16",
-    "name": "v4.0.16",
-    "published": "2026-10-14T13:00:31Z",
-    "url": "https://github.com/kubescape/kubescape/releases/tag/v4.0.16"
+    "tag": "v4.0.20",
+    "name": "v4.0.20",
+    "published": "2026-11-06T12:59:38Z",
+    "url": "https://github.com/kubescape/kubescape/releases/tag/v4.0.20"
   },
   "assets": [
     {
-      "name": "kubescape_4.0.16_windows_arm64.tar.gz",
-      "size": 111901181,
-      "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.16/kubescape_4.0.16_windows_arm64.tar.gz"
+      "name": "kubescape_4.0.20_windows_arm64.tar.gz",
+      "size": 113855533,
+      "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.20/kubescape_4.0.20_windows_arm64.tar.gz"
     },
     {
-      "name": "kubescape_4.0.16_darwin_arm64.tar.gz",
-      "size": 121354888,
-      "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.16/kubescape_4.0.16_darwin_arm64.tar.gz"
+      "name": "kubescape_4.0.20_darwin_arm64.tar.gz",
+      "size": 122426560,
+      "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.20/kubescape_4.0.20_darwin_arm64.tar.gz"
     },
     {
-      "name": "kubescape_4.0.16_windows_amd64.tar.gz",
-      "size": 122028989,
-      "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.16/kubescape_4.0.16_windows_amd64.tar.gz"
+      "name": "kubescape_4.0.20_windows_amd64.tar.gz",
+      "size": 124324382,
+      "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.20/kubescape_4.0.20_windows_amd64.tar.gz"
     },
     {
-      "name": "kubescape_4.0.16_darwin_amd64.tar.gz",
-      "size": 127755207,
-      "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.16/kubescape_4.0.16_darwin_amd64.tar.gz"
+      "name": "kubescape_4.0.20_darwin_amd64.tar.gz",
+      "size": 129081810,
+      "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.20/kubescape_4.0.20_darwin_amd64.tar.gz"
     },
     {
-      "name": "kubescape_4.0.16_linux_arm64.deb",
-      "size": 111950888,
-      "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.16/kubescape_4.0.16_linux_arm64.deb"
+      "name": "kubescape_4.0.20_linux_arm64.deb",
+      "size": 113999996,
+      "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.20/kubescape_4.0.20_linux_arm64.deb"
     },
     {
-      "name": "kubescape_4.0.16_linux_arm64.rpm",
-      "size": 111966203,
-      "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.16/kubescape_4.0.16_linux_arm64.rpm"
+      "name": "kubescape_4.0.20_linux_arm64.tar.gz",
+      "size": 114010591,
+      "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.20/kubescape_4.0.20_linux_arm64.tar.gz"
     },
     {
-      "name": "kubescape_4.0.16_linux_arm64.apk",
-      "size": 114770800,
-      "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.16/kubescape_4.0.16_linux_arm64.apk"
+      "name": "kubescape_4.0.20_linux_arm64.apk",
+      "size": 116823393,
+      "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.20/kubescape_4.0.20_linux_arm64.apk"
     },
     {
-      "name": "kubescape_4.0.16_linux_amd64.apk",
-      "size": 124369098,
-      "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.16/kubescape_4.0.16_linux_amd64.apk"
+      "name": "kubescape_4.0.20_linux_amd64.apk",
+      "size": 126902646,
+      "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.20/kubescape_4.0.20_linux_amd64.apk"
     }
   ],
   "pinned": false,

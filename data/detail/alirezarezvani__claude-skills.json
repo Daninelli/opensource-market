@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/alirezarezvani/claude-skills/zip/refs/heads/main",
   "release": {
-    "tag": "v2.12.0",
-    "name": "v2.12.0 — consolidated release: 20 domains, 380 skills, full issue-triage sweep",
-    "published": "2026-08-25T06:14:47Z",
-    "url": "https://github.com/alirezarezvani/claude-skills/releases/tag/v2.12.0"
+    "tag": "v2.14.9",
+    "name": "v2.14.9 — a docs site that cannot drift, and CI that tests every harness",
+    "published": "2026-11-05T06:58:09Z",
+    "url": "https://github.com/alirezarezvani/claude-skills/releases/tag/v2.14.9"
   },
   "assets": [],
   "pinned": false,

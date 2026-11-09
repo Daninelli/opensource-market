@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/sirmalloc/ccstatusline/zip/refs/heads/main",
   "release": {
-    "tag": "v2.2.32",
-    "name": "v2.2.32",
-    "published": "2026-10-09T18:51:51Z",
-    "url": "https://github.com/sirmalloc/ccstatusline/releases/tag/v2.2.32"
+    "tag": "v2.2.34",
+    "name": "v2.2.34",
+    "published": "2026-11-06T15:34:05Z",
+    "url": "https://github.com/sirmalloc/ccstatusline/releases/tag/v2.2.34"
   },
   "assets": [],
   "pinned": false,

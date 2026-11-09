@@ -22,41 +22,41 @@
   "default_branch": "trunk",
   "download_url": "https://codeload.github.com/cli/cli/zip/refs/heads/trunk",
   "release": {
-    "tag": "v2.102.0",
-    "name": "GitHub CLI 2.102.0",
-    "published": "2026-09-30T02:40:02Z",
-    "url": "https://github.com/cli/cli/releases/tag/v2.102.0"
+    "tag": "v2.103.3",
+    "name": "GitHub CLI 2.103.3",
+    "published": "2026-10-26T19:20:08Z",
+    "url": "https://github.com/cli/cli/releases/tag/v2.103.3"
   },
   "assets": [
     {
-      "name": "gh_2.102.0_windows_arm64.zip",
-      "size": 13907525,
-      "url": "https://github.com/cli/cli/releases/download/v2.102.0/gh_2.102.0_windows_arm64.zip"
+      "name": "gh_2.103.3_windows_arm64.zip",
+      "size": 13637549,
+      "url": "https://github.com/cli/cli/releases/download/v2.103.3/gh_2.103.3_windows_arm64.zip"
     },
     {
-      "name": "gh_2.102.0_windows_arm64.msi",
-      "size": 14102528,
-      "url": "https://github.com/cli/cli/releases/download/v2.102.0/gh_2.102.0_windows_arm64.msi"
+      "name": "gh_2.103.3_windows_arm64.msi",
+      "size": 13840384,
+      "url": "https://github.com/cli/cli/releases/download/v2.103.3/gh_2.103.3_windows_arm64.msi"
     },
     {
-      "name": "gh_2.102.0_macOS_arm64.zip",
-      "size": 14359983,
-      "url": "https://github.com/cli/cli/releases/download/v2.102.0/gh_2.102.0_macOS_arm64.zip"
+      "name": "gh_2.103.3_macOS_arm64.zip",
+      "size": 14106091,
+      "url": "https://github.com/cli/cli/releases/download/v2.103.3/gh_2.103.3_macOS_arm64.zip"
     },
     {
-      "name": "gh_2.102.0_macOS_amd64.zip",
-      "size": 15995994,
-      "url": "https://github.com/cli/cli/releases/download/v2.102.0/gh_2.102.0_macOS_amd64.zip"
+      "name": "gh_2.103.3_macOS_amd64.zip",
+      "size": 15702601,
+      "url": "https://github.com/cli/cli/releases/download/v2.103.3/gh_2.103.3_macOS_amd64.zip"
     },
     {
-      "name": "gh_2.102.0_linux_arm64.tar.gz",
-      "size": 13917794,
-      "url": "https://github.com/cli/cli/releases/download/v2.102.0/gh_2.102.0_linux_arm64.tar.gz"
+      "name": "gh_2.103.3_linux_arm64.tar.gz",
+      "size": 13661485,
+      "url": "https://github.com/cli/cli/releases/download/v2.103.3/gh_2.103.3_linux_arm64.tar.gz"
     },
     {
-      "name": "gh_2.102.0_linux_arm64.deb",
-      "size": 13980770,
-      "url": "https://github.com/cli/cli/releases/download/v2.102.0/gh_2.102.0_linux_arm64.deb"
+      "name": "gh_2.103.3_linux_arm64.deb",
+      "size": 13724980,
+      "url": "https://github.com/cli/cli/releases/download/v2.103.3/gh_2.103.3_linux_arm64.deb"
     }
   ],
   "pinned": false,

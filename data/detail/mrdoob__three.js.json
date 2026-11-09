@@ -21,10 +21,10 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/mrdoob/three.js/zip/refs/heads/dev",
   "release": {
-    "tag": "r186",
-    "name": "r186",
-    "published": "2026-09-24T14:35:44Z",
-    "url": "https://github.com/mrdoob/three.js/releases/tag/r186"
+    "tag": "r187",
+    "name": "r187",
+    "published": "2026-10-30T08:03:18Z",
+    "url": "https://github.com/mrdoob/three.js/releases/tag/r187"
   },
   "assets": [],
   "pinned": false,

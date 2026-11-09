@@ -23,18 +23,12 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/zephyrproject-rtos/zephyr/zip/refs/heads/main",
   "release": {
-    "tag": "v4.4.2",
-    "name": "Zephyr 4.4.2",
-    "published": "2026-08-07T15:36:32Z",
-    "url": "https://github.com/zephyrproject-rtos/zephyr/releases/tag/v4.4.2"
+    "tag": "v4.5.0",
+    "name": "Zephyr 4.5.0",
+    "published": "2026-10-28T22:23:36Z",
+    "url": "https://github.com/zephyrproject-rtos/zephyr/releases/tag/v4.5.0"
   },
-  "assets": [
-    {
-      "name": "zephyr-v4.4.2.spdx",
-      "size": 22926645,
-      "url": "https://github.com/zephyrproject-rtos/zephyr/releases/download/v4.4.2/zephyr-v4.4.2.spdx"
-    }
-  ],
+  "assets": [],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

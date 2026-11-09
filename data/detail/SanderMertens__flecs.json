@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/SanderMertens/flecs/zip/refs/heads/master",
   "release": {
-    "tag": "v4.1.6",
-    "name": "Flecs v4.1.6",
-    "published": "2026-06-29T02:09:09Z",
-    "url": "https://github.com/SanderMertens/flecs/releases/tag/v4.1.6"
+    "tag": "v4.2.0",
+    "name": "Flecs v4.2.0",
+    "published": "2026-11-04T05:48:45Z",
+    "url": "https://github.com/SanderMertens/flecs/releases/tag/v4.2.0"
   },
   "assets": [],
   "pinned": false,

@@ -21,31 +21,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ImranR98/Obtainium/zip/refs/heads/main",
   "release": {
-    "tag": "v1.7.1",
-    "name": "v1.7.1",
-    "published": "2026-10-18T17:16:53Z",
-    "url": "https://github.com/ImranR98/Obtainium/releases/tag/v1.7.1"
+    "tag": "v1.7.4",
+    "name": "v1.7.4",
+    "published": "2026-11-01T06:51:24Z",
+    "url": "https://github.com/ImranR98/Obtainium/releases/tag/v1.7.4"
   },
   "assets": [
     {
       "name": "app-armeabi-v7a-fdroid-release.apk",
-      "size": 25425041,
-      "url": "https://github.com/ImranR98/Obtainium/releases/download/v1.7.1/app-armeabi-v7a-fdroid-release.apk"
+      "size": 30554808,
+      "url": "https://github.com/ImranR98/Obtainium/releases/download/v1.7.4/app-armeabi-v7a-fdroid-release.apk"
     },
     {
       "name": "app-armeabi-v7a-release.apk",
-      "size": 25425041,
-      "url": "https://github.com/ImranR98/Obtainium/releases/download/v1.7.1/app-armeabi-v7a-release.apk"
+      "size": 30571192,
+      "url": "https://github.com/ImranR98/Obtainium/releases/download/v1.7.4/app-armeabi-v7a-release.apk"
     },
     {
       "name": "app-armeabi-v7a-fdroid-release.apk.idsig",
-      "size": 206362,
-      "url": "https://github.com/ImranR98/Obtainium/releases/download/v1.7.1/app-armeabi-v7a-fdroid-release.apk.idsig"
+      "size": 247322,
+      "url": "https://github.com/ImranR98/Obtainium/releases/download/v1.7.4/app-armeabi-v7a-fdroid-release.apk.idsig"
     },
     {
       "name": "app-armeabi-v7a-release.apk.idsig",
-      "size": 206362,
-      "url": "https://github.com/ImranR98/Obtainium/releases/download/v1.7.1/app-armeabi-v7a-release.apk.idsig"
+      "size": 247322,
+      "url": "https://github.com/ImranR98/Obtainium/releases/download/v1.7.4/app-armeabi-v7a-release.apk.idsig"
     }
   ],
   "pinned": false,

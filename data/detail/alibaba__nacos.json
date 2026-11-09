@@ -22,21 +22,21 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/alibaba/nacos/zip/refs/heads/develop",
   "release": {
-    "tag": "3.2.4",
-    "name": "3.2.4 (Aug 27th, 2026)",
-    "published": "2026-08-27T05:28:53Z",
-    "url": "https://github.com/alibaba/nacos/releases/tag/3.2.4"
+    "tag": "3.3.0",
+    "name": "3.3.0(Oct 29th, 2026)",
+    "published": "2026-10-29T11:07:05Z",
+    "url": "https://github.com/alibaba/nacos/releases/tag/3.3.0"
   },
   "assets": [
     {
-      "name": "nacos-server-3.2.4.tar.gz",
-      "size": 221917502,
-      "url": "https://github.com/alibaba/nacos/releases/download/3.2.4/nacos-server-3.2.4.tar.gz"
+      "name": "nacos-server-3.3.0.tar.gz",
+      "size": 233718638,
+      "url": "https://github.com/alibaba/nacos/releases/download/3.3.0/nacos-server-3.3.0.tar.gz"
     },
     {
-      "name": "nacos-server-3.2.4.zip",
-      "size": 221927822,
-      "url": "https://github.com/alibaba/nacos/releases/download/3.2.4/nacos-server-3.2.4.zip"
+      "name": "nacos-server-3.3.0.zip",
+      "size": 233729509,
+      "url": "https://github.com/alibaba/nacos/releases/download/3.3.0/nacos-server-3.3.0.zip"
     }
   ],
   "pinned": false,

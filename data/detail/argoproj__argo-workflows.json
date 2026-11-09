@@ -20,51 +20,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/argoproj/argo-workflows/zip/refs/heads/main",
   "release": {
-    "tag": "v4.1.5",
-    "name": "v4.1.5",
-    "published": "2026-10-09T13:58:57Z",
-    "url": "https://github.com/argoproj/argo-workflows/releases/tag/v4.1.5"
+    "tag": "v4.1.6",
+    "name": "v4.1.6",
+    "published": "2026-10-22T08:10:54Z",
+    "url": "https://github.com/argoproj/argo-workflows/releases/tag/v4.1.6"
   },
   "assets": [
     {
       "name": "argo-darwin-arm64.gz",
-      "size": 75431722,
-      "url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/argo-darwin-arm64.gz"
+      "size": 75446019,
+      "url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.6/argo-darwin-arm64.gz"
     },
     {
       "name": "argo-windows-amd64.exe.gz",
-      "size": 75822929,
-      "url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/argo-windows-amd64.exe.gz"
+      "size": 75841530,
+      "url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.6/argo-windows-amd64.exe.gz"
     },
     {
       "name": "argo-darwin-amd64.gz",
-      "size": 79054023,
-      "url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/argo-darwin-amd64.gz"
+      "size": 79060752,
+      "url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.6/argo-darwin-amd64.gz"
     },
     {
       "name": "argo-linux-arm64.gz",
-      "size": 69633047,
-      "url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/argo-linux-arm64.gz"
+      "size": 69650685,
+      "url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.6/argo-linux-arm64.gz"
     },
     {
       "name": "argo-linux-ppc64le.gz",
-      "size": 70186020,
-      "url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/argo-linux-ppc64le.gz"
+      "size": 70204260,
+      "url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.6/argo-linux-ppc64le.gz"
     },
     {
       "name": "sbom.tar.gz",
-      "size": 283735,
-      "url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/sbom.tar.gz"
+      "size": 284776,
+      "url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.6/sbom.tar.gz"
     },
     {
       "name": "namespace-install.yaml",
       "size": 11984924,
-      "url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/namespace-install.yaml"
+      "url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.6/namespace-install.yaml"
     },
     {
       "name": "install.yaml",
       "size": 11987610,
-      "url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/install.yaml"
+      "url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.6/install.yaml"
     }
   ],
   "pinned": false,

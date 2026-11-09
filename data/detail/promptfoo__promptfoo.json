@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/promptfoo/promptfoo/zip/refs/heads/main",
   "release": {
-    "tag": "code-scan-action-0.2.2",
-    "name": "code-scan-action: 0.2.2",
-    "published": "2026-10-08T15:46:03Z",
-    "url": "https://github.com/promptfoo/promptfoo/releases/tag/code-scan-action-0.2.2"
+    "tag": "0.125.1",
+    "name": "0.125.1",
+    "published": "2026-10-25T01:53:11Z",
+    "url": "https://github.com/promptfoo/promptfoo/releases/tag/0.125.1"
   },
   "assets": [],
   "pinned": false,

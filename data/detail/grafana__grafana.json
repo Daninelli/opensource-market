@@ -22,21 +22,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/grafana/grafana/zip/refs/heads/main",
   "release": {
-    "tag": "v13.2.4",
-    "name": "13.2.4",
-    "published": "2026-10-13T11:41:03Z",
-    "url": "https://github.com/grafana/grafana/releases/tag/v13.2.4"
+    "tag": "v13.3.0",
+    "name": "13.3.0",
+    "published": "2026-10-27T11:08:50Z",
+    "url": "https://github.com/grafana/grafana/releases/tag/v13.3.0"
   },
   "assets": [
     {
-      "name": "grafana_13.2.4_38252365904_linux_arm64.rpm",
-      "size": 266309797,
-      "url": "https://github.com/grafana/grafana/releases/download/v13.2.4/grafana_13.2.4_38252365904_linux_arm64.rpm"
+      "name": "grafana_13.3.0_40412481033_linux_arm64.rpm",
+      "size": 279407553,
+      "url": "https://github.com/grafana/grafana/releases/download/v13.3.0/grafana_13.3.0_40412481033_linux_arm64.rpm"
     },
     {
-      "name": "grafana_13.2.4_38252365904_linux_amd64.rpm",
-      "size": 290420217,
-      "url": "https://github.com/grafana/grafana/releases/download/v13.2.4/grafana_13.2.4_38252365904_linux_amd64.rpm"
+      "name": "grafana_13.3.0_40412481033_linux_amd64.rpm",
+      "size": 311443297,
+      "url": "https://github.com/grafana/grafana/releases/download/v13.3.0/grafana_13.3.0_40412481033_linux_amd64.rpm"
     }
   ],
   "pinned": false,

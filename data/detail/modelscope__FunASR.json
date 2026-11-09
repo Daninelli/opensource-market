@@ -22,46 +22,46 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/modelscope/FunASR/zip/refs/heads/main",
   "release": {
-    "tag": "v1.4.16",
-    "name": "FunASR 1.4.16",
-    "published": "2026-09-18T05:42:45Z",
-    "url": "https://github.com/modelscope/FunASR/releases/tag/v1.4.16"
+    "tag": "v1.4.24",
+    "name": "v1.4.24",
+    "published": "2026-11-08T05:12:34Z",
+    "url": "https://github.com/modelscope/FunASR/releases/tag/v1.4.24"
   },
   "assets": [
     {
       "name": "funasr-llamacpp-windows-x64.zip",
       "size": 4967457,
-      "url": "https://github.com/modelscope/FunASR/releases/download/v1.4.16/funasr-llamacpp-windows-x64.zip"
+      "url": "https://github.com/modelscope/FunASR/releases/download/v1.4.24/funasr-llamacpp-windows-x64.zip"
     },
     {
       "name": "funasr-llamacpp-windows-x64-avx2.zip",
       "size": 5204372,
-      "url": "https://github.com/modelscope/FunASR/releases/download/v1.4.16/funasr-llamacpp-windows-x64-avx2.zip"
+      "url": "https://github.com/modelscope/FunASR/releases/download/v1.4.24/funasr-llamacpp-windows-x64-avx2.zip"
     },
     {
       "name": "funasr-llamacpp-macos-arm64.tar.gz",
       "size": 7357524,
-      "url": "https://github.com/modelscope/FunASR/releases/download/v1.4.16/funasr-llamacpp-macos-arm64.tar.gz"
+      "url": "https://github.com/modelscope/FunASR/releases/download/v1.4.24/funasr-llamacpp-macos-arm64.tar.gz"
     },
     {
       "name": "funasr-llamacpp-linux-arm64.tar.gz",
       "size": 7979504,
-      "url": "https://github.com/modelscope/FunASR/releases/download/v1.4.16/funasr-llamacpp-linux-arm64.tar.gz"
+      "url": "https://github.com/modelscope/FunASR/releases/download/v1.4.24/funasr-llamacpp-linux-arm64.tar.gz"
     },
     {
       "name": "funasr-llamacpp-linux-x64.tar.gz",
       "size": 8014474,
-      "url": "https://github.com/modelscope/FunASR/releases/download/v1.4.16/funasr-llamacpp-linux-x64.tar.gz"
+      "url": "https://github.com/modelscope/FunASR/releases/download/v1.4.24/funasr-llamacpp-linux-x64.tar.gz"
     },
     {
-      "name": "funasr-1.4.16.tar.gz",
-      "size": 995057,
-      "url": "https://github.com/modelscope/FunASR/releases/download/v1.4.16/funasr-1.4.16.tar.gz"
+      "name": "funasr-1.4.24-py3-none-any.whl",
+      "size": 1015161,
+      "url": "https://github.com/modelscope/FunASR/releases/download/v1.4.24/funasr-1.4.24-py3-none-any.whl"
     },
     {
-      "name": "funasr-1.4.16-py3-none-any.whl",
-      "size": 999588,
-      "url": "https://github.com/modelscope/FunASR/releases/download/v1.4.16/funasr-1.4.16-py3-none-any.whl"
+      "name": "funasr-1.4.24.tar.gz",
+      "size": 1081873,
+      "url": "https://github.com/modelscope/FunASR/releases/download/v1.4.24/funasr-1.4.24.tar.gz"
     }
   ],
   "pinned": false,

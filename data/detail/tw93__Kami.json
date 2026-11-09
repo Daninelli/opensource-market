@@ -21,16 +21,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/tw93/Kami/zip/refs/heads/main",
   "release": {
-    "tag": "V1.18.0",
-    "name": "V1.18.0 Charted Pages",
-    "published": "2026-10-15T13:07:15Z",
-    "url": "https://github.com/tw93/Kami/releases/tag/V1.18.0"
+    "tag": "V1.20.0",
+    "name": "V1.20.0 Cleaner Reports",
+    "published": "2026-10-29T23:39:19Z",
+    "url": "https://github.com/tw93/Kami/releases/tag/V1.20.0"
   },
   "assets": [
     {
       "name": "kami.zip",
-      "size": 519433,
-      "url": "https://github.com/tw93/Kami/releases/download/V1.18.0/kami.zip"
+      "size": 530189,
+      "url": "https://github.com/tw93/Kami/releases/download/V1.20.0/kami.zip"
     }
   ],
   "pinned": false,

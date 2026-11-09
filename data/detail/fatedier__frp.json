@@ -22,51 +22,51 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/fatedier/frp/zip/refs/heads/dev",
   "release": {
-    "tag": "v0.71.1",
-    "name": "v0.71.1",
-    "published": "2026-10-14T09:52:45Z",
-    "url": "https://github.com/fatedier/frp/releases/tag/v0.71.1"
+    "tag": "v0.72.0",
+    "name": "v0.72.0",
+    "published": "2026-11-04T17:19:02Z",
+    "url": "https://github.com/fatedier/frp/releases/tag/v0.72.0"
   },
   "assets": [
     {
-      "name": "frp_0.71.1_windows_arm64.zip",
-      "size": 12387794,
-      "url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_windows_arm64.zip"
+      "name": "frp_0.72.0_windows_arm64.zip",
+      "size": 12679477,
+      "url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_windows_arm64.zip"
     },
     {
-      "name": "frp_0.71.1_darwin_arm64.tar.gz",
-      "size": 12867210,
-      "url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_darwin_arm64.tar.gz"
+      "name": "frp_0.72.0_darwin_arm64.tar.gz",
+      "size": 13217943,
+      "url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_darwin_arm64.tar.gz"
     },
     {
-      "name": "frp_0.71.1_windows_amd64.zip",
-      "size": 14152383,
-      "url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_windows_amd64.zip"
+      "name": "frp_0.72.0_windows_amd64.zip",
+      "size": 14472216,
+      "url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_windows_amd64.zip"
     },
     {
-      "name": "frp_0.71.1_darwin_amd64.tar.gz",
-      "size": 14185816,
-      "url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_darwin_amd64.tar.gz"
+      "name": "frp_0.72.0_darwin_amd64.tar.gz",
+      "size": 14560907,
+      "url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_darwin_amd64.tar.gz"
     },
     {
-      "name": "frp_0.71.1_linux_mips64le.tar.gz",
-      "size": 12154037,
-      "url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_linux_mips64le.tar.gz"
+      "name": "frp_0.72.0_linux_mips64le.tar.gz",
+      "size": 12526601,
+      "url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_linux_mips64le.tar.gz"
     },
     {
-      "name": "frp_0.71.1_linux_mips64.tar.gz",
-      "size": 12396492,
-      "url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_linux_mips64.tar.gz"
+      "name": "frp_0.72.0_linux_mips64.tar.gz",
+      "size": 12776712,
+      "url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_linux_mips64.tar.gz"
     },
     {
-      "name": "frp_0.71.1_android_arm64.tar.gz",
-      "size": 13252573,
-      "url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_android_arm64.tar.gz"
+      "name": "frp_0.72.0_android_arm64.tar.gz",
+      "size": 13655047,
+      "url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_android_arm64.tar.gz"
     },
     {
-      "name": "frp_0.71.1_openbsd_amd64.tar.gz",
-      "size": 13782952,
-      "url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_openbsd_amd64.tar.gz"
+      "name": "frp_0.72.0_openbsd_amd64.tar.gz",
+      "size": 14074606,
+      "url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_openbsd_amd64.tar.gz"
     }
   ],
   "pinned": false,

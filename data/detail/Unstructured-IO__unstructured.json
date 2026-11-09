@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Unstructured-IO/unstructured/zip/refs/heads/main",
   "release": {
-    "tag": "0.27.30",
-    "name": "0.27.30",
-    "published": "2026-10-19T23:08:14Z",
-    "url": "https://github.com/Unstructured-IO/unstructured/releases/tag/0.27.30"
+    "tag": "0.27.37",
+    "name": "0.27.37",
+    "published": "2026-11-06T21:29:04Z",
+    "url": "https://github.com/Unstructured-IO/unstructured/releases/tag/0.27.37"
   },
   "assets": [],
   "pinned": false,

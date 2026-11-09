@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/py-pdf/pypdf/zip/refs/heads/main",
   "release": {
-    "tag": "6.21.1",
-    "name": "Version 6.21.1, 2026-10-17",
-    "published": "2026-10-17T10:29:30Z",
-    "url": "https://github.com/py-pdf/pypdf/releases/tag/6.21.1"
+    "tag": "7.0.0",
+    "name": "Version 7.0.0, 2026-11-06",
+    "published": "2026-11-06T12:09:49Z",
+    "url": "https://github.com/py-pdf/pypdf/releases/tag/7.0.0"
   },
   "assets": [],
   "pinned": false,

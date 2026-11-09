@@ -23,31 +23,31 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/traccar/traccar/zip/refs/heads/master",
   "release": {
-    "tag": "v6.16.0",
-    "name": "v6.16.0",
-    "published": "2026-09-27T00:20:15Z",
-    "url": "https://github.com/traccar/traccar/releases/tag/v6.16.0"
+    "tag": "v6.17.0",
+    "name": "v6.17.0",
+    "published": "2026-11-01T14:59:23Z",
+    "url": "https://github.com/traccar/traccar/releases/tag/v6.17.0"
   },
   "assets": [
     {
-      "name": "traccar-windows-64-6.16.0.zip",
-      "size": 187725152,
-      "url": "https://github.com/traccar/traccar/releases/download/v6.16.0/traccar-windows-64-6.16.0.zip"
+      "name": "traccar-windows-64-6.17.0.zip",
+      "size": 200159195,
+      "url": "https://github.com/traccar/traccar/releases/download/v6.17.0/traccar-windows-64-6.17.0.zip"
     },
     {
-      "name": "traccar-linux-arm-6.16.0.zip",
-      "size": 204691897,
-      "url": "https://github.com/traccar/traccar/releases/download/v6.16.0/traccar-linux-arm-6.16.0.zip"
+      "name": "traccar-linux-arm-6.17.0.zip",
+      "size": 217214943,
+      "url": "https://github.com/traccar/traccar/releases/download/v6.17.0/traccar-linux-arm-6.17.0.zip"
     },
     {
-      "name": "traccar-linux-64-6.16.0.zip",
-      "size": 205653023,
-      "url": "https://github.com/traccar/traccar/releases/download/v6.16.0/traccar-linux-64-6.16.0.zip"
+      "name": "traccar-linux-64-6.17.0.zip",
+      "size": 218142760,
+      "url": "https://github.com/traccar/traccar/releases/download/v6.17.0/traccar-linux-64-6.17.0.zip"
     },
     {
-      "name": "traccar-other-6.16.0.zip",
-      "size": 166413827,
-      "url": "https://github.com/traccar/traccar/releases/download/v6.16.0/traccar-other-6.16.0.zip"
+      "name": "traccar-other-6.17.0.zip",
+      "size": 178894901,
+      "url": "https://github.com/traccar/traccar/releases/download/v6.17.0/traccar-other-6.17.0.zip"
     }
   ],
   "pinned": false,

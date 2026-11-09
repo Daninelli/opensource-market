@@ -20,21 +20,21 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/pinpoint-apm/pinpoint/zip/refs/heads/master",
   "release": {
-    "tag": "v3.1.1",
-    "name": "3.1.1 release",
-    "published": "2026-10-02T06:04:27Z",
-    "url": "https://github.com/pinpoint-apm/pinpoint/releases/tag/v3.1.1"
+    "tag": "v4.0.1",
+    "name": "v4.0.1",
+    "published": "2026-11-09T06:39:47Z",
+    "url": "https://github.com/pinpoint-apm/pinpoint/releases/tag/v4.0.1"
   },
   "assets": [
     {
-      "name": "pinpoint-agent-3.1.1.tar.gz",
-      "size": 34083814,
-      "url": "https://github.com/pinpoint-apm/pinpoint/releases/download/v3.1.1/pinpoint-agent-3.1.1.tar.gz"
+      "name": "pinpoint-agent-4.0.1.tar.gz",
+      "size": 34462007,
+      "url": "https://github.com/pinpoint-apm/pinpoint/releases/download/v4.0.1/pinpoint-agent-4.0.1.tar.gz"
     },
     {
-      "name": "pinpoint-collector-3.1.1-exec.jar",
-      "size": 187400417,
-      "url": "https://github.com/pinpoint-apm/pinpoint/releases/download/v3.1.1/pinpoint-collector-3.1.1-exec.jar"
+      "name": "pinpoint-collector-4.0.1-exec.jar",
+      "size": 188384010,
+      "url": "https://github.com/pinpoint-apm/pinpoint/releases/download/v4.0.1/pinpoint-collector-4.0.1-exec.jar"
     }
   ],
   "pinned": false,

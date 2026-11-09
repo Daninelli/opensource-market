@@ -20,10 +20,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/swagger-api/swagger-codegen/zip/refs/heads/master",
   "release": {
-    "tag": "v3.0.82",
-    "name": "v3.0.82",
-    "published": "2026-08-04T06:16:28Z",
-    "url": "https://github.com/swagger-api/swagger-codegen/releases/tag/v3.0.82"
+    "tag": "v3.0.85",
+    "name": "v3.0.85",
+    "published": "2026-11-04T16:57:39Z",
+    "url": "https://github.com/swagger-api/swagger-codegen/releases/tag/v3.0.85"
   },
   "assets": [],
   "pinned": false,

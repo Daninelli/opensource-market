@@ -21,41 +21,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/juice-shop/juice-shop/zip/refs/heads/master",
   "release": {
-    "tag": "v20.3.0",
-    "name": "v20.3.0",
-    "published": "2026-10-11T22:48:38Z",
-    "url": "https://github.com/juice-shop/juice-shop/releases/tag/v20.3.0"
+    "tag": "v20.4.0",
+    "name": "v20.4.0",
+    "published": "2026-11-08T19:04:00Z",
+    "url": "https://github.com/juice-shop/juice-shop/releases/tag/v20.4.0"
   },
   "assets": [
     {
-      "name": "juice-shop-20.3.0_node26_win32_x64.zip",
-      "size": 128857660,
-      "url": "https://github.com/juice-shop/juice-shop/releases/download/v20.3.0/juice-shop-20.3.0_node26_win32_x64.zip"
+      "name": "juice-shop-20.4.0_node26_win32_x64.zip",
+      "size": 128098713,
+      "url": "https://github.com/juice-shop/juice-shop/releases/download/v20.4.0/juice-shop-20.4.0_node26_win32_x64.zip"
     },
     {
-      "name": "juice-shop-20.3.0_node26_darwin_arm64.zip",
-      "size": 132978790,
-      "url": "https://github.com/juice-shop/juice-shop/releases/download/v20.3.0/juice-shop-20.3.0_node26_darwin_arm64.zip"
+      "name": "juice-shop-20.4.0_node26_darwin_arm64.zip",
+      "size": 132315890,
+      "url": "https://github.com/juice-shop/juice-shop/releases/download/v20.4.0/juice-shop-20.4.0_node26_darwin_arm64.zip"
     },
     {
-      "name": "juice-shop-20.3.0_node22_win32_x64.zip",
-      "size": 133451346,
-      "url": "https://github.com/juice-shop/juice-shop/releases/download/v20.3.0/juice-shop-20.3.0_node22_win32_x64.zip"
+      "name": "juice-shop-20.4.0_node22_win32_x64.zip",
+      "size": 134942503,
+      "url": "https://github.com/juice-shop/juice-shop/releases/download/v20.4.0/juice-shop-20.4.0_node22_win32_x64.zip"
     },
     {
-      "name": "juice-shop-20.3.0_node22_darwin_arm64.zip",
-      "size": 137666497,
-      "url": "https://github.com/juice-shop/juice-shop/releases/download/v20.3.0/juice-shop-20.3.0_node22_darwin_arm64.zip"
+      "name": "juice-shop-20.4.0_node22_darwin_arm64.zip",
+      "size": 139256780,
+      "url": "https://github.com/juice-shop/juice-shop/releases/download/v20.4.0/juice-shop-20.4.0_node22_darwin_arm64.zip"
     },
     {
-      "name": "juice-shop-20.3.0_node26_linux_arm64.tgz",
-      "size": 101464075,
-      "url": "https://github.com/juice-shop/juice-shop/releases/download/v20.3.0/juice-shop-20.3.0_node26_linux_arm64.tgz"
+      "name": "juice-shop-20.4.0_node26_linux_arm64.tgz",
+      "size": 100582894,
+      "url": "https://github.com/juice-shop/juice-shop/releases/download/v20.4.0/juice-shop-20.4.0_node26_linux_arm64.tgz"
     },
     {
-      "name": "juice-shop-20.3.0_node26_linux_x64.tgz",
-      "size": 102409006,
-      "url": "https://github.com/juice-shop/juice-shop/releases/download/v20.3.0/juice-shop-20.3.0_node26_linux_x64.tgz"
+      "name": "juice-shop-20.4.0_node26_linux_x64.tgz",
+      "size": 101550625,
+      "url": "https://github.com/juice-shop/juice-shop/releases/download/v20.4.0/juice-shop-20.4.0_node26_linux_x64.tgz"
     }
   ],
   "pinned": false,

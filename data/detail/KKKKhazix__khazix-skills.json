@@ -19,8 +19,19 @@
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/KKKKhazix/khazix-skills/zip/refs/heads/main",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "v1.2.0",
+    "name": "v1.2.0 · 按现状更新、Linux 支持与社区修复",
+    "published": "2026-11-08T08:45:34Z",
+    "url": "https://github.com/KKKKhazix/khazix-skills/releases/tag/v1.2.0"
+  },
+  "assets": [
+    {
+      "name": "khazix-skills-1.2.0.zip",
+      "size": 223507,
+      "url": "https://github.com/KKKKhazix/khazix-skills/releases/download/v1.2.0/khazix-skills-1.2.0.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

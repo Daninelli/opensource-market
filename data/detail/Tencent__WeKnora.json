@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Tencent/WeKnora/zip/refs/heads/main",
   "release": {
-    "tag": "v0.8.3",
-    "name": "v0.8.3",
-    "published": "2026-10-14T07:53:24Z",
-    "url": "https://github.com/Tencent/WeKnora/releases/tag/v0.8.3"
+    "tag": "v0.9.0",
+    "name": "v0.9.0",
+    "published": "2026-10-29T06:59:12Z",
+    "url": "https://github.com/Tencent/WeKnora/releases/tag/v0.9.0"
   },
   "assets": [],
   "pinned": false,

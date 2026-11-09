@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/VoltAgent/voltagent/zip/refs/heads/main",
   "release": {
-    "tag": "@voltagent/core@2.11.0",
-    "name": "@voltagent/core@2.11.0",
-    "published": "2026-09-28T02:04:53Z",
-    "url": "https://github.com/VoltAgent/voltagent/releases/tag/%40voltagent/core%402.11.0"
+    "tag": "@voltagent/core@2.11.1",
+    "name": "@voltagent/core@2.11.1",
+    "published": "2026-11-04T16:38:41Z",
+    "url": "https://github.com/VoltAgent/voltagent/releases/tag/%40voltagent/core%402.11.1"
   },
   "assets": [],
   "pinned": false,

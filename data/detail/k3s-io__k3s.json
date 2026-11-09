@@ -22,31 +22,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/k3s-io/k3s/zip/refs/heads/main",
   "release": {
-    "tag": "v1.37.1+k3s1",
-    "name": "v1.37.1+k3s1",
-    "published": "2026-09-30T16:10:38Z",
-    "url": "https://github.com/k3s-io/k3s/releases/tag/v1.37.1%2Bk3s1"
+    "tag": "v1.37.2+k3s1",
+    "name": "v1.37.2+k3s1",
+    "published": "2026-11-03T17:32:38Z",
+    "url": "https://github.com/k3s-io/k3s/releases/tag/v1.37.2%2Bk3s1"
   },
   "assets": [
     {
       "name": "k3s-arm64",
-      "size": 73728162,
-      "url": "https://github.com/k3s-io/k3s/releases/download/v1.37.1%2Bk3s1/k3s-arm64"
+      "size": 73990306,
+      "url": "https://github.com/k3s-io/k3s/releases/download/v1.37.2%2Bk3s1/k3s-arm64"
     },
     {
       "name": "k3s-armhf",
-      "size": 74711202,
-      "url": "https://github.com/k3s-io/k3s/releases/download/v1.37.1%2Bk3s1/k3s-armhf"
+      "size": 74842274,
+      "url": "https://github.com/k3s-io/k3s/releases/download/v1.37.2%2Bk3s1/k3s-armhf"
     },
     {
       "name": "k3s-airgap-images-arm64.tar.gz",
-      "size": 176113657,
-      "url": "https://github.com/k3s-io/k3s/releases/download/v1.37.1%2Bk3s1/k3s-airgap-images-arm64.tar.gz"
+      "size": 179641131,
+      "url": "https://github.com/k3s-io/k3s/releases/download/v1.37.2%2Bk3s1/k3s-airgap-images-arm64.tar.gz"
     },
     {
       "name": "k3s-airgap-images-arm.tar.gz",
-      "size": 184507720,
-      "url": "https://github.com/k3s-io/k3s/releases/download/v1.37.1%2Bk3s1/k3s-airgap-images-arm.tar.gz"
+      "size": 187866388,
+      "url": "https://github.com/k3s-io/k3s/releases/download/v1.37.2%2Bk3s1/k3s-airgap-images-arm.tar.gz"
     }
   ],
   "pinned": false,

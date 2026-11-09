@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/dokku/dokku/zip/refs/heads/master",
   "release": {
-    "tag": "v0.38.31",
-    "name": "v0.38.31",
-    "published": "2026-09-27T01:46:26Z",
-    "url": "https://github.com/dokku/dokku/releases/tag/v0.38.31"
+    "tag": "v0.38.34",
+    "name": "v0.38.34",
+    "published": "2026-10-30T02:34:44Z",
+    "url": "https://github.com/dokku/dokku/releases/tag/v0.38.34"
   },
   "assets": [],
   "pinned": false,

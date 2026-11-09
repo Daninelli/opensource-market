@@ -21,36 +21,26 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/paradedb/paradedb/zip/refs/heads/main",
   "release": {
-    "tag": "v0.26.2",
-    "name": "v0.26.2",
-    "published": "2026-10-16T02:34:15Z",
-    "url": "https://github.com/paradedb/paradedb/releases/tag/v0.26.2"
+    "tag": "v0.26.6",
+    "name": "v0.26.6",
+    "published": "2026-11-08T22:29:39Z",
+    "url": "https://github.com/paradedb/paradedb/releases/tag/v0.26.6"
   },
   "assets": [
     {
-      "name": "pg_search@18--0.26.2.arm64_tahoe.pkg",
-      "size": 74735772,
-      "url": "https://github.com/paradedb/paradedb/releases/download/v0.26.2/pg_search%4018--0.26.2.arm64_tahoe.pkg"
+      "name": "postgresql-18-pg-search_0.26.6-1PARADEDB-resolute_amd64.deb",
+      "size": 54224148,
+      "url": "https://github.com/paradedb/paradedb/releases/download/v0.26.6/postgresql-18-pg-search_0.26.6-1PARADEDB-resolute_amd64.deb"
     },
     {
-      "name": "pg_search@17--0.26.2.arm64_tahoe.pkg",
-      "size": 74755486,
-      "url": "https://github.com/paradedb/paradedb/releases/download/v0.26.2/pg_search%4017--0.26.2.arm64_tahoe.pkg"
-    },
-    {
-      "name": "postgresql-15-pg-search_0.26.2-1PARADEDB-bookworm_amd64.deb",
-      "size": 53748948,
-      "url": "https://github.com/paradedb/paradedb/releases/download/v0.26.2/postgresql-15-pg-search_0.26.2-1PARADEDB-bookworm_amd64.deb"
-    },
-    {
-      "name": "postgresql-17-pg-search_0.26.2-1PARADEDB-bookworm_amd64.deb",
-      "size": 53749880,
-      "url": "https://github.com/paradedb/paradedb/releases/download/v0.26.2/postgresql-17-pg-search_0.26.2-1PARADEDB-bookworm_amd64.deb"
+      "name": "postgresql-15-pg-search_0.26.6-1PARADEDB-resolute_amd64.deb",
+      "size": 54229856,
+      "url": "https://github.com/paradedb/paradedb/releases/download/v0.26.6/postgresql-15-pg-search_0.26.6-1PARADEDB-resolute_amd64.deb"
     },
     {
       "name": "pg_search.schema.sql",
-      "size": 360879,
-      "url": "https://github.com/paradedb/paradedb/releases/download/v0.26.2/pg_search.schema.sql"
+      "size": 360825,
+      "url": "https://github.com/paradedb/paradedb/releases/download/v0.26.6/pg_search.schema.sql"
     }
   ],
   "pinned": false,

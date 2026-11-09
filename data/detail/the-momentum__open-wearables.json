@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/the-momentum/open-wearables/zip/refs/heads/main",
   "release": {
-    "tag": "0.10.0",
-    "name": "0.10 - New dashboard & nutrition data",
-    "published": "2026-10-16T14:12:26Z",
-    "url": "https://github.com/the-momentum/open-wearables/releases/tag/0.10.0"
+    "tag": "0.11.0",
+    "name": "0.11 - Daily aggregates & faster summaries",
+    "published": "2026-11-02T16:10:01Z",
+    "url": "https://github.com/the-momentum/open-wearables/releases/tag/0.11.0"
   },
   "assets": [],
   "pinned": false,

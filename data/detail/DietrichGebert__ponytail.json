@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/DietrichGebert/ponytail/zip/refs/heads/main",
   "release": {
-    "tag": "v5.3.2",
-    "name": "v5.3.2",
-    "published": "2026-10-16T23:15:15Z",
-    "url": "https://github.com/DietrichGebert/ponytail/releases/tag/v5.3.2"
+    "tag": "v5.3.3",
+    "name": "v5.3.3",
+    "published": "2026-10-29T03:11:08Z",
+    "url": "https://github.com/DietrichGebert/ponytail/releases/tag/v5.3.3"
   },
   "assets": [],
   "pinned": false,

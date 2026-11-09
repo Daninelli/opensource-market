@@ -22,18 +22,12 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/strelov1/freehire/zip/refs/heads/main",
   "release": {
-    "tag": "extension-v0.1.6",
-    "name": "extension v0.1.6",
-    "published": "2026-08-17T02:24:36Z",
-    "url": "https://github.com/strelov1/freehire/releases/tag/extension-v0.1.6"
+    "tag": "deploy-20261109-0406",
+    "name": "Deploy 2026-11-09 04:06 UTC",
+    "published": "2026-11-09T04:06:18Z",
+    "url": "https://github.com/strelov1/freehire/releases/tag/deploy-20261109-0406"
   },
-  "assets": [
-    {
-      "name": "freehire-extension-0.1.6-chrome.zip",
-      "size": 1346455,
-      "url": "https://github.com/strelov1/freehire/releases/download/extension-v0.1.6/freehire-extension-0.1.6-chrome.zip"
-    }
-  ],
+  "assets": [],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

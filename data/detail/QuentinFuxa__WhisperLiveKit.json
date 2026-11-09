@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/QuentinFuxa/WhisperLiveKit/zip/refs/heads/main",
   "release": {
-    "tag": "v0.2.26",
-    "name": "v0.2.26",
-    "published": "2026-08-29T16:00:31Z",
-    "url": "https://github.com/QuentinFuxa/WhisperLiveKit/releases/tag/v0.2.26"
+    "tag": "v0.2.27",
+    "name": "v0.2.27",
+    "published": "2026-11-07T18:36:08Z",
+    "url": "https://github.com/QuentinFuxa/WhisperLiveKit/releases/tag/v0.2.27"
   },
   "assets": [],
   "pinned": false,

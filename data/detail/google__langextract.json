@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/google/langextract/zip/refs/heads/main",
   "release": {
-    "tag": "v1.7.1",
-    "name": "v1.7.1",
-    "published": "2026-10-08T22:57:20Z",
-    "url": "https://github.com/google/langextract/releases/tag/v1.7.1"
+    "tag": "v1.7.2",
+    "name": "v1.7.2",
+    "published": "2026-11-07T09:16:35Z",
+    "url": "https://github.com/google/langextract/releases/tag/v1.7.2"
   },
   "assets": [],
   "pinned": false,

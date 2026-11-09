@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/mastra-ai/mastra/zip/refs/heads/main",
   "release": {
-    "tag": "@mastra/core@1.78.0",
-    "name": "October 15, 2026",
-    "published": "2026-10-16T08:13:10Z",
-    "url": "https://github.com/mastra-ai/mastra/releases/tag/%40mastra/core%401.78.0"
+    "tag": "@mastra/core@1.82.0",
+    "name": "November 4, 2026",
+    "published": "2026-11-04T10:59:56Z",
+    "url": "https://github.com/mastra-ai/mastra/releases/tag/%40mastra/core%401.82.0"
   },
   "assets": [],
   "pinned": false,

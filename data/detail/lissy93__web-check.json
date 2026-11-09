@@ -22,21 +22,21 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/lissy93/web-check/zip/refs/heads/master",
   "release": {
-    "tag": "2.3.0",
-    "name": "Web-Check v2.3.0",
-    "published": "2026-10-02T18:51:35Z",
-    "url": "https://github.com/lissy93/web-check/releases/tag/2.3.0"
+    "tag": "2.4.0",
+    "name": "Web-Check v2.4.0",
+    "published": "2026-11-05T17:04:26Z",
+    "url": "https://github.com/lissy93/web-check/releases/tag/2.4.0"
   },
   "assets": [
     {
-      "name": "web-check-2.3.0.tar.gz",
-      "size": 2549622,
-      "url": "https://github.com/lissy93/web-check/releases/download/2.3.0/web-check-2.3.0.tar.gz"
+      "name": "web-check-2.4.0.tar.gz",
+      "size": 2690377,
+      "url": "https://github.com/lissy93/web-check/releases/download/2.4.0/web-check-2.4.0.tar.gz"
     },
     {
-      "name": "web-check-2.3.0.zip",
-      "size": 2779581,
-      "url": "https://github.com/lissy93/web-check/releases/download/2.3.0/web-check-2.3.0.zip"
+      "name": "web-check-2.4.0.zip",
+      "size": 2974487,
+      "url": "https://github.com/lissy93/web-check/releases/download/2.4.0/web-check-2.4.0.zip"
     }
   ],
   "pinned": false,

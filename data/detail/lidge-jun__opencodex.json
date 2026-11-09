@@ -20,41 +20,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/lidge-jun/opencodex/zip/refs/heads/main",
   "release": {
-    "tag": "v2.89.0",
-    "name": "v2.89.0",
-    "published": "2026-10-19T09:58:52Z",
-    "url": "https://github.com/lidge-jun/opencodex/releases/tag/v2.89.0"
+    "tag": "v2.99.0",
+    "name": "v2.99.0",
+    "published": "2026-11-08T05:26:57Z",
+    "url": "https://github.com/lidge-jun/opencodex/releases/tag/v2.99.0"
   },
   "assets": [
     {
-      "name": "ocx-2.89.0-bun-darwin-arm64.tar.gz",
-      "size": 31632613,
-      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.89.0/ocx-2.89.0-bun-darwin-arm64.tar.gz"
+      "name": "ocx-2.99.0-bun-darwin-arm64.tar.gz",
+      "size": 51965082,
+      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.99.0/ocx-2.99.0-bun-darwin-arm64.tar.gz"
     },
     {
-      "name": "ocx-2.89.0-bun-darwin-x64.tar.gz",
-      "size": 34818434,
-      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.89.0/ocx-2.89.0-bun-darwin-x64.tar.gz"
+      "name": "ocx-2.99.0-bun-darwin-x64.tar.gz",
+      "size": 55232480,
+      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.99.0/ocx-2.99.0-bun-darwin-x64.tar.gz"
     },
     {
-      "name": "ocx-2.89.0-bun-windows-x64.zip",
-      "size": 46502392,
-      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.89.0/ocx-2.89.0-bun-windows-x64.zip"
+      "name": "ocx-2.99.0-bun-windows-x64.zip",
+      "size": 66811706,
+      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.99.0/ocx-2.99.0-bun-windows-x64.zip"
     },
     {
-      "name": "OpenCodex-2.89.0-windows-x64.msi",
-      "size": 51089408,
-      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.89.0/OpenCodex-2.89.0-windows-x64.msi"
+      "name": "OpenCodex-2.99.0-windows-x64.msi",
+      "size": 71717498,
+      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.99.0/OpenCodex-2.99.0-windows-x64.msi"
     },
     {
-      "name": "ocx-2.89.0-bun-linux-arm64.tar.gz",
-      "size": 43856315,
-      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.89.0/ocx-2.89.0-bun-linux-arm64.tar.gz"
+      "name": "ocx-2.99.0-bun-linux-arm64.tar.gz",
+      "size": 64243061,
+      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.99.0/ocx-2.99.0-bun-linux-arm64.tar.gz"
     },
     {
-      "name": "ocx-2.89.0-bun-linux-x64.tar.gz",
-      "size": 43959889,
-      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.89.0/ocx-2.89.0-bun-linux-x64.tar.gz"
+      "name": "ocx-2.99.0-bun-linux-x64.tar.gz",
+      "size": 64460224,
+      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.99.0/ocx-2.99.0-bun-linux-x64.tar.gz"
     }
   ],
   "pinned": false,

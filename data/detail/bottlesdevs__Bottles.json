@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/bottlesdevs/Bottles/zip/refs/heads/main",
   "release": {
-    "tag": "67.4",
-    "name": "67.4",
-    "published": "2026-09-07T18:13:02Z",
-    "url": "https://github.com/bottlesdevs/Bottles/releases/tag/67.4"
+    "tag": "67.6",
+    "name": "67.6",
+    "published": "2026-11-04T21:15:20Z",
+    "url": "https://github.com/bottlesdevs/Bottles/releases/tag/67.6"
   },
   "assets": [],
   "pinned": false,

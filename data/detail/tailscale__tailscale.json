@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/tailscale/tailscale/zip/refs/heads/main",
   "release": {
-    "tag": "v1.104.1",
-    "name": "v1.104.1",
-    "published": "2026-10-07T22:09:57Z",
-    "url": "https://github.com/tailscale/tailscale/releases/tag/v1.104.1"
+    "tag": "v1.104.5",
+    "name": "v1.104.5",
+    "published": "2026-11-03T00:29:40Z",
+    "url": "https://github.com/tailscale/tailscale/releases/tag/v1.104.5"
   },
   "assets": [],
   "pinned": false,

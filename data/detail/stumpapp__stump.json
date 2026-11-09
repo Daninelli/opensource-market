@@ -22,31 +22,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/stumpapp/stump/zip/refs/heads/main",
   "release": {
-    "tag": "v0.1.10",
-    "name": "v0.1.10",
-    "published": "2026-09-21T16:28:54Z",
-    "url": "https://github.com/stumpapp/stump/releases/tag/v0.1.10"
+    "tag": "v0.1.12",
+    "name": "v0.1.12",
+    "published": "2026-11-01T15:46:51Z",
+    "url": "https://github.com/stumpapp/stump/releases/tag/v0.1.12"
   },
   "assets": [
     {
       "name": "windows-build-results.zip",
-      "size": 35813820,
-      "url": "https://github.com/stumpapp/stump/releases/download/v0.1.10/windows-build-results.zip"
+      "size": 39560101,
+      "url": "https://github.com/stumpapp/stump/releases/download/v0.1.12/windows-build-results.zip"
     },
     {
       "name": "macos-arm-build-results.zip",
-      "size": 36491033,
-      "url": "https://github.com/stumpapp/stump/releases/download/v0.1.10/macos-arm-build-results.zip"
+      "size": 40206575,
+      "url": "https://github.com/stumpapp/stump/releases/download/v0.1.12/macos-arm-build-results.zip"
     },
     {
       "name": "macos-intel-build-results.zip",
-      "size": 37962660,
-      "url": "https://github.com/stumpapp/stump/releases/download/v0.1.10/macos-intel-build-results.zip"
+      "size": 41685530,
+      "url": "https://github.com/stumpapp/stump/releases/download/v0.1.12/macos-intel-build-results.zip"
     },
     {
       "name": "linux-build-results.zip",
-      "size": 38585906,
-      "url": "https://github.com/stumpapp/stump/releases/download/v0.1.10/linux-build-results.zip"
+      "size": 42334685,
+      "url": "https://github.com/stumpapp/stump/releases/download/v0.1.12/linux-build-results.zip"
     }
   ],
   "pinned": false,

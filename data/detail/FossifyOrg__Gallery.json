@@ -21,16 +21,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/FossifyOrg/Gallery/zip/refs/heads/main",
   "release": {
-    "tag": "1.14.0",
-    "name": "1.14.0",
-    "published": "2026-10-10T15:46:01Z",
-    "url": "https://github.com/FossifyOrg/Gallery/releases/tag/1.14.0"
+    "tag": "1.14.2",
+    "name": "1.14.2",
+    "published": "2026-11-07T16:09:55Z",
+    "url": "https://github.com/FossifyOrg/Gallery/releases/tag/1.14.2"
   },
   "assets": [
     {
-      "name": "gallery-29-foss-release.apk",
-      "size": 38538363,
-      "url": "https://github.com/FossifyOrg/Gallery/releases/download/1.14.0/gallery-29-foss-release.apk"
+      "name": "gallery-41-foss-armeabi-v7a-release.apk",
+      "size": 15799874,
+      "url": "https://github.com/FossifyOrg/Gallery/releases/download/1.14.2/gallery-41-foss-armeabi-v7a-release.apk"
+    },
+    {
+      "name": "gallery-42-foss-arm64-v8a-release.apk",
+      "size": 17483618,
+      "url": "https://github.com/FossifyOrg/Gallery/releases/download/1.14.2/gallery-42-foss-arm64-v8a-release.apk"
     }
   ],
   "pinned": false,

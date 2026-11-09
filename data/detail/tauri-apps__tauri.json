@@ -21,10 +21,10 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/tauri-apps/tauri/zip/refs/heads/dev",
   "release": {
-    "tag": "tauri-v3.0.0-alpha.5",
-    "name": "tauri v3.0.0-alpha.5",
-    "published": "2026-10-14T21:14:12Z",
-    "url": "https://github.com/tauri-apps/tauri/releases/tag/tauri-v3.0.0-alpha.5"
+    "tag": "tauri-v3.0.0-alpha.6",
+    "name": "tauri v3.0.0-alpha.6",
+    "published": "2026-11-06T11:54:54Z",
+    "url": "https://github.com/tauri-apps/tauri/releases/tag/tauri-v3.0.0-alpha.6"
   },
   "assets": [],
   "pinned": false,

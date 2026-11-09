@@ -22,16 +22,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/BabylonJS/Babylon.js/zip/refs/heads/master",
   "release": {
-    "tag": "9.30.0",
-    "name": "9.30.0",
-    "published": "2026-10-08T07:52:07Z",
-    "url": "https://github.com/BabylonJS/Babylon.js/releases/tag/9.30.0"
+    "tag": "9.35.0",
+    "name": "9.35.0",
+    "published": "2026-11-06T19:46:06Z",
+    "url": "https://github.com/BabylonJS/Babylon.js/releases/tag/9.35.0"
   },
   "assets": [
     {
       "name": "cdnSnapshot.zip",
-      "size": 105382595,
-      "url": "https://github.com/BabylonJS/Babylon.js/releases/download/9.30.0/cdnSnapshot.zip"
+      "size": 107497100,
+      "url": "https://github.com/BabylonJS/Babylon.js/releases/download/9.35.0/cdnSnapshot.zip"
     }
   ],
   "pinned": false,

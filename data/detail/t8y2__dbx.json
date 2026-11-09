@@ -21,51 +21,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/t8y2/dbx/zip/refs/heads/main",
   "release": {
-    "tag": "v0.6.49",
-    "name": "DBX v0.6.49",
-    "published": "2026-10-19T19:46:44Z",
-    "url": "https://github.com/t8y2/dbx/releases/tag/v0.6.49"
+    "tag": "v0.6.68",
+    "name": "DBX v0.6.68",
+    "published": "2026-11-07T19:41:50Z",
+    "url": "https://github.com/t8y2/dbx/releases/tag/v0.6.68"
   },
   "assets": [
     {
-      "name": "DBX_0.6.49_arm64-setup.exe",
-      "size": 28276888,
-      "url": "https://github.com/t8y2/dbx/releases/download/v0.6.49/DBX_0.6.49_arm64-setup.exe"
+      "name": "DBX_0.6.68-beta.20261107.4_arm64-setup.exe",
+      "size": 31764032,
+      "url": "https://github.com/t8y2/dbx/releases/download/v0.6.68/DBX_0.6.68-beta.20261107.4_arm64-setup.exe"
     },
     {
-      "name": "DBX_0.6.49_x64-setup.exe",
-      "size": 30777496,
-      "url": "https://github.com/t8y2/dbx/releases/download/v0.6.49/DBX_0.6.49_x64-setup.exe"
+      "name": "DBX_0.6.68_arm64-setup.exe",
+      "size": 31764032,
+      "url": "https://github.com/t8y2/dbx/releases/download/v0.6.68/DBX_0.6.68_arm64-setup.exe"
     },
     {
-      "name": "DBX_0.6.49_arm64.dmg",
-      "size": 41337990,
-      "url": "https://github.com/t8y2/dbx/releases/download/v0.6.49/DBX_0.6.49_arm64.dmg"
+      "name": "DBX_0.6.68-beta.20261107.4_arm64.dmg",
+      "size": 45963716,
+      "url": "https://github.com/t8y2/dbx/releases/download/v0.6.68/DBX_0.6.68-beta.20261107.4_arm64.dmg"
     },
     {
-      "name": "DBX_0.6.49_x64.dmg",
-      "size": 44929842,
-      "url": "https://github.com/t8y2/dbx/releases/download/v0.6.49/DBX_0.6.49_x64.dmg"
+      "name": "DBX_0.6.68_arm64.dmg",
+      "size": 45963716,
+      "url": "https://github.com/t8y2/dbx/releases/download/v0.6.68/DBX_0.6.68_arm64.dmg"
     },
     {
-      "name": "DBX_0.6.49_arm64.deb",
-      "size": 42984250,
-      "url": "https://github.com/t8y2/dbx/releases/download/v0.6.49/DBX_0.6.49_arm64.deb"
+      "name": "DBX_0.6.68-beta.20261107.4_arm64.rpm",
+      "size": 48199023,
+      "url": "https://github.com/t8y2/dbx/releases/download/v0.6.68/DBX_0.6.68-beta.20261107.4_arm64.rpm"
     },
     {
-      "name": "DBX_0.6.49_arm64.rpm",
-      "size": 42985194,
-      "url": "https://github.com/t8y2/dbx/releases/download/v0.6.49/DBX_0.6.49_arm64.rpm"
+      "name": "DBX_0.6.68-beta.20261107.4_arm64.deb",
+      "size": 48203454,
+      "url": "https://github.com/t8y2/dbx/releases/download/v0.6.68/DBX_0.6.68-beta.20261107.4_arm64.deb"
     },
     {
-      "name": "dbx-jdbc-plugin-0.1.47.zip",
-      "size": 9759784,
-      "url": "https://github.com/t8y2/dbx/releases/download/v0.6.49/dbx-jdbc-plugin-0.1.47.zip"
+      "name": "dbx-jdbc-plugin-0.1.52.zip",
+      "size": 9724614,
+      "url": "https://github.com/t8y2/dbx/releases/download/v0.6.68/dbx-jdbc-plugin-0.1.52.zip"
     },
     {
       "name": "dbx-jdbc-plugin-latest.zip",
-      "size": 9759784,
-      "url": "https://github.com/t8y2/dbx/releases/download/v0.6.49/dbx-jdbc-plugin-latest.zip"
+      "size": 9724614,
+      "url": "https://github.com/t8y2/dbx/releases/download/v0.6.68/dbx-jdbc-plugin-latest.zip"
     }
   ],
   "pinned": false,

@@ -22,16 +22,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/gsantner/markor/zip/refs/heads/master",
   "release": {
-    "tag": "v2.16.1",
-    "name": "Markor v2.16.1",
-    "published": "2026-03-19T08:27:29Z",
-    "url": "https://github.com/gsantner/markor/releases/tag/v2.16.1"
+    "tag": "v2026.10.0",
+    "name": "Markor v2026.10.0",
+    "published": "2026-10-25T21:23:23Z",
+    "url": "https://github.com/gsantner/markor/releases/tag/v2026.10.0"
   },
   "assets": [
     {
-      "name": "net.gsantner.markor-v163-2.16.1-flavorDefault-release.apk",
-      "size": 12065877,
-      "url": "https://github.com/gsantner/markor/releases/download/v2.16.1/net.gsantner.markor-v163-2.16.1-flavorDefault-release.apk"
+      "name": "net.gsantner.markor-v164-2026.10.0-flavorDefault-release.apk",
+      "size": 11861047,
+      "url": "https://github.com/gsantner/markor/releases/download/v2026.10.0/net.gsantner.markor-v164-2026.10.0-flavorDefault-release.apk"
     }
   ],
   "pinned": false,

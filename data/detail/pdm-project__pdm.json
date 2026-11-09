@@ -20,36 +20,36 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/pdm-project/pdm/zip/refs/heads/main",
   "release": {
-    "tag": "2.29.3",
-    "name": "v2.29.3",
-    "published": "2026-10-19T01:35:41Z",
-    "url": "https://github.com/pdm-project/pdm/releases/tag/2.29.3"
+    "tag": "2.29.7",
+    "name": "v2.29.7",
+    "published": "2026-11-06T03:37:39Z",
+    "url": "https://github.com/pdm-project/pdm/releases/tag/2.29.7"
   },
   "assets": [
     {
-      "name": "pdm-2.29.3-aarch64-apple-darwin.tar.gz",
-      "size": 16616724,
-      "url": "https://github.com/pdm-project/pdm/releases/download/2.29.3/pdm-2.29.3-aarch64-apple-darwin.tar.gz"
+      "name": "pdm-2.29.7-aarch64-apple-darwin.tar.gz",
+      "size": 16620550,
+      "url": "https://github.com/pdm-project/pdm/releases/download/2.29.7/pdm-2.29.7-aarch64-apple-darwin.tar.gz"
     },
     {
-      "name": "pdm-2.29.3-x86_64-apple-darwin.tar.gz",
-      "size": 16892981,
-      "url": "https://github.com/pdm-project/pdm/releases/download/2.29.3/pdm-2.29.3-x86_64-apple-darwin.tar.gz"
+      "name": "pdm-2.29.7-x86_64-apple-darwin.tar.gz",
+      "size": 16896323,
+      "url": "https://github.com/pdm-project/pdm/releases/download/2.29.7/pdm-2.29.7-x86_64-apple-darwin.tar.gz"
     },
     {
-      "name": "pdm-2.29.3-x86_64-pc-windows-msvc.tar.gz",
-      "size": 22013457,
-      "url": "https://github.com/pdm-project/pdm/releases/download/2.29.3/pdm-2.29.3-x86_64-pc-windows-msvc.tar.gz"
+      "name": "pdm-2.29.7-x86_64-pc-windows-msvc.tar.gz",
+      "size": 22015281,
+      "url": "https://github.com/pdm-project/pdm/releases/download/2.29.7/pdm-2.29.7-x86_64-pc-windows-msvc.tar.gz"
     },
     {
-      "name": "pdm-2.29.3-aarch64-unknown-linux-gnu.tar.gz",
-      "size": 18542130,
-      "url": "https://github.com/pdm-project/pdm/releases/download/2.29.3/pdm-2.29.3-aarch64-unknown-linux-gnu.tar.gz"
+      "name": "pdm-2.29.7-aarch64-unknown-linux-gnu.tar.gz",
+      "size": 18546749,
+      "url": "https://github.com/pdm-project/pdm/releases/download/2.29.7/pdm-2.29.7-aarch64-unknown-linux-gnu.tar.gz"
     },
     {
-      "name": "pdm-2.29.3-x86_64-unknown-linux-gnu.tar.gz",
-      "size": 22197776,
-      "url": "https://github.com/pdm-project/pdm/releases/download/2.29.3/pdm-2.29.3-x86_64-unknown-linux-gnu.tar.gz"
+      "name": "pdm-2.29.7-x86_64-unknown-linux-gnu.tar.gz",
+      "size": 22200854,
+      "url": "https://github.com/pdm-project/pdm/releases/download/2.29.7/pdm-2.29.7-x86_64-unknown-linux-gnu.tar.gz"
     }
   ],
   "pinned": false,

@@ -20,31 +20,26 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/jenkinsci/jenkins/zip/refs/heads/master",
   "release": {
-    "tag": "jenkins-2.586",
-    "name": "2.586",
-    "published": "2026-10-13T11:25:28Z",
-    "url": "https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.586"
+    "tag": "jenkins-2.580.2",
+    "name": "2.580.2",
+    "published": "2026-10-28T16:26:20Z",
+    "url": "https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.580.2"
   },
   "assets": [
     {
       "name": "jenkins.msi",
-      "size": 58785792,
-      "url": "https://github.com/jenkinsci/jenkins/releases/download/jenkins-2.586/jenkins.msi"
+      "size": 60227584,
+      "url": "https://github.com/jenkinsci/jenkins/releases/download/jenkins-2.580.2/jenkins.msi"
     },
     {
-      "name": "jenkins_2.586_all.deb",
-      "size": 52402756,
-      "url": "https://github.com/jenkinsci/jenkins/releases/download/jenkins-2.586/jenkins_2.586_all.deb"
-    },
-    {
-      "name": "jenkins-2.586-1.noarch.rpm",
-      "size": 52467647,
-      "url": "https://github.com/jenkinsci/jenkins/releases/download/jenkins-2.586/jenkins-2.586-1.noarch.rpm"
+      "name": "jenkins_2.580.2_all.deb",
+      "size": 53758476,
+      "url": "https://github.com/jenkinsci/jenkins/releases/download/jenkins-2.580.2/jenkins_2.580.2_all.deb"
     },
     {
       "name": "jenkins.war",
-      "size": 52589351,
-      "url": "https://github.com/jenkinsci/jenkins/releases/download/jenkins-2.586/jenkins.war"
+      "size": 54033126,
+      "url": "https://github.com/jenkinsci/jenkins/releases/download/jenkins-2.580.2/jenkins.war"
     }
   ],
   "pinned": false,

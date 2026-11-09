@@ -23,16 +23,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/TryGhost/Ghost/zip/refs/heads/main",
   "release": {
-    "tag": "v6.71.0",
-    "name": "v6.71.0",
-    "published": "2026-10-15T12:55:12Z",
-    "url": "https://github.com/TryGhost/Ghost/releases/tag/v6.71.0"
+    "tag": "v6.75.0",
+    "name": "v6.75.0",
+    "published": "2026-11-04T16:52:49Z",
+    "url": "https://github.com/TryGhost/Ghost/releases/tag/v6.75.0"
   },
   "assets": [
     {
-      "name": "ghost-6.71.0.tgz",
-      "size": 14727037,
-      "url": "https://github.com/TryGhost/Ghost/releases/download/v6.71.0/ghost-6.71.0.tgz"
+      "name": "ghost-6.75.0.tgz",
+      "size": 15031864,
+      "url": "https://github.com/TryGhost/Ghost/releases/download/v6.75.0/ghost-6.75.0.tgz"
     }
   ],
   "pinned": false,

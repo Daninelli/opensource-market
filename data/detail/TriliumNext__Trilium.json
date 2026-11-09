@@ -21,41 +21,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/TriliumNext/Trilium/zip/refs/heads/main",
   "release": {
-    "tag": "v0.106.0",
-    "name": "v0.106.0",
-    "published": "2026-09-25T18:21:42Z",
-    "url": "https://github.com/TriliumNext/Trilium/releases/tag/v0.106.0"
+    "tag": "v0.107.0",
+    "name": "v0.107.0",
+    "published": "2026-11-08T22:06:59Z",
+    "url": "https://github.com/TriliumNext/Trilium/releases/tag/v0.107.0"
   },
   "assets": [
     {
-      "name": "TriliumNotes-v0.106.0-macos-arm64.zip",
-      "size": 196196689,
-      "url": "https://github.com/TriliumNext/Trilium/releases/download/v0.106.0/TriliumNotes-v0.106.0-macos-arm64.zip"
+      "name": "TriliumNotes-v0.107.0-macos-arm64.zip",
+      "size": 194752847,
+      "url": "https://github.com/TriliumNext/Trilium/releases/download/v0.107.0/TriliumNotes-v0.107.0-macos-arm64.zip"
     },
     {
-      "name": "TriliumNotes-v0.106.0-macos-arm64.dmg",
-      "size": 197581693,
-      "url": "https://github.com/TriliumNext/Trilium/releases/download/v0.106.0/TriliumNotes-v0.106.0-macos-arm64.dmg"
+      "name": "TriliumNotes-v0.107.0-macos-arm64.dmg",
+      "size": 196222346,
+      "url": "https://github.com/TriliumNext/Trilium/releases/download/v0.107.0/TriliumNotes-v0.107.0-macos-arm64.dmg"
     },
     {
-      "name": "TriliumNotes-v0.106.0-windows-arm64.exe",
-      "size": 218958072,
-      "url": "https://github.com/TriliumNext/Trilium/releases/download/v0.106.0/TriliumNotes-v0.106.0-windows-arm64.exe"
+      "name": "TriliumNotes-v0.107.0-windows-arm64.exe",
+      "size": 218921632,
+      "url": "https://github.com/TriliumNext/Trilium/releases/download/v0.107.0/TriliumNotes-v0.107.0-windows-arm64.exe"
     },
     {
-      "name": "TriliumNotes-v0.106.0-windows-x64.exe",
-      "size": 221108472,
-      "url": "https://github.com/TriliumNext/Trilium/releases/download/v0.106.0/TriliumNotes-v0.106.0-windows-x64.exe"
+      "name": "TriliumNotes-v0.107.0-windows-x64.exe",
+      "size": 221531296,
+      "url": "https://github.com/TriliumNext/Trilium/releases/download/v0.107.0/TriliumNotes-v0.107.0-windows-x64.exe"
     },
     {
-      "name": "TriliumNotes-Server-v0.106.0-linux-arm64.tar.xz",
-      "size": 91176964,
-      "url": "https://github.com/TriliumNext/Trilium/releases/download/v0.106.0/TriliumNotes-Server-v0.106.0-linux-arm64.tar.xz"
+      "name": "TriliumNotes-Server-v0.107.0-linux-arm64.tar.xz",
+      "size": 86470412,
+      "url": "https://github.com/TriliumNext/Trilium/releases/download/v0.107.0/TriliumNotes-Server-v0.107.0-linux-arm64.tar.xz"
     },
     {
-      "name": "TriliumNotes-Server-v0.106.0-linux-x64.tar.xz",
-      "size": 93173252,
-      "url": "https://github.com/TriliumNext/Trilium/releases/download/v0.106.0/TriliumNotes-Server-v0.106.0-linux-x64.tar.xz"
+      "name": "TriliumNotes-Server-v0.107.0-linux-x64.tar.xz",
+      "size": 88744004,
+      "url": "https://github.com/TriliumNext/Trilium/releases/download/v0.107.0/TriliumNotes-Server-v0.107.0-linux-x64.tar.xz"
     }
   ],
   "pinned": false,

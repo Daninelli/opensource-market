@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/transloadit/uppy/zip/refs/heads/main",
   "release": {
-    "tag": "@uppy/vue@4.0.1",
-    "name": "@uppy/vue@4.0.1",
-    "published": "2026-10-16T12:12:53Z",
-    "url": "https://github.com/transloadit/uppy/releases/tag/%40uppy/vue%404.0.1"
+    "tag": "uppy@6.0.7",
+    "name": "uppy@6.0.7",
+    "published": "2026-11-05T18:55:23Z",
+    "url": "https://github.com/transloadit/uppy/releases/tag/uppy%406.0.7"
   },
   "assets": [],
   "pinned": false,

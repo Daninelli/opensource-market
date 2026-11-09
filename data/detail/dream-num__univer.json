@@ -22,10 +22,10 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/dream-num/univer/zip/refs/heads/dev",
   "release": {
-    "tag": "v1.1.0",
-    "name": "🎉 Release v1.1.0",
-    "published": "2026-10-17T11:23:23Z",
-    "url": "https://github.com/dream-num/univer/releases/tag/v1.1.0"
+    "tag": "v1.4.0",
+    "name": "🗂️ Release v1.4.0",
+    "published": "2026-11-07T09:28:37Z",
+    "url": "https://github.com/dream-num/univer/releases/tag/v1.4.0"
   },
   "assets": [],
   "pinned": false,

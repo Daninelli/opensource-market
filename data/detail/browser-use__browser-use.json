@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/browser-use/browser-use/zip/refs/heads/main",
   "release": {
-    "tag": "0.13.13",
-    "name": "0.13.13: OpenAI browser tools and Cloud fixes",
-    "published": "2026-10-15T23:50:45Z",
-    "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.13"
+    "tag": "0.13.14",
+    "name": "0.13.14: Python agent and integration updates",
+    "published": "2026-10-26T22:00:34Z",
+    "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.14"
   },
   "assets": [],
   "pinned": false,

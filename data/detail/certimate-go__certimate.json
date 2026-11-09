@@ -20,41 +20,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/certimate-go/certimate/zip/refs/heads/main",
   "release": {
-    "tag": "v0.4.35",
-    "name": "v0.4.35",
-    "published": "2026-10-12T01:08:26Z",
-    "url": "https://github.com/certimate-go/certimate/releases/tag/v0.4.35"
+    "tag": "v0.4.37",
+    "name": "v0.4.37",
+    "published": "2026-11-09T03:21:34Z",
+    "url": "https://github.com/certimate-go/certimate/releases/tag/v0.4.37"
   },
   "assets": [
     {
-      "name": "certimate_v0.4.35_windows_arm64.zip",
-      "size": 32888903,
-      "url": "https://github.com/certimate-go/certimate/releases/download/v0.4.35/certimate_v0.4.35_windows_arm64.zip"
+      "name": "certimate_v0.4.37_windows_arm64.zip",
+      "size": 32857244,
+      "url": "https://github.com/certimate-go/certimate/releases/download/v0.4.37/certimate_v0.4.37_windows_arm64.zip"
     },
     {
-      "name": "certimate_v0.4.35_darwin_arm64.zip",
-      "size": 34741748,
-      "url": "https://github.com/certimate-go/certimate/releases/download/v0.4.35/certimate_v0.4.35_darwin_arm64.zip"
+      "name": "certimate_v0.4.37_darwin_arm64.zip",
+      "size": 34716691,
+      "url": "https://github.com/certimate-go/certimate/releases/download/v0.4.37/certimate_v0.4.37_darwin_arm64.zip"
     },
     {
-      "name": "certimate_v0.4.35_windows_386.zip",
-      "size": 34965491,
-      "url": "https://github.com/certimate-go/certimate/releases/download/v0.4.35/certimate_v0.4.35_windows_386.zip"
+      "name": "certimate_v0.4.37_windows_386.zip",
+      "size": 34932895,
+      "url": "https://github.com/certimate-go/certimate/releases/download/v0.4.37/certimate_v0.4.37_windows_386.zip"
     },
     {
-      "name": "certimate_v0.4.35_darwin_amd64.zip",
-      "size": 37368283,
-      "url": "https://github.com/certimate-go/certimate/releases/download/v0.4.35/certimate_v0.4.35_darwin_amd64.zip"
+      "name": "certimate_v0.4.37_darwin_amd64.zip",
+      "size": 37328089,
+      "url": "https://github.com/certimate-go/certimate/releases/download/v0.4.37/certimate_v0.4.37_darwin_amd64.zip"
     },
     {
-      "name": "certimate_v0.4.35_linux_arm64.zip",
-      "size": 32975334,
-      "url": "https://github.com/certimate-go/certimate/releases/download/v0.4.35/certimate_v0.4.35_linux_arm64.zip"
+      "name": "certimate_v0.4.37_linux_arm64.zip",
+      "size": 32945897,
+      "url": "https://github.com/certimate-go/certimate/releases/download/v0.4.37/certimate_v0.4.37_linux_arm64.zip"
     },
     {
-      "name": "certimate_v0.4.35_linux_armv7.zip",
-      "size": 33775759,
-      "url": "https://github.com/certimate-go/certimate/releases/download/v0.4.35/certimate_v0.4.35_linux_armv7.zip"
+      "name": "certimate_v0.4.37_linux_armv7.zip",
+      "size": 33768561,
+      "url": "https://github.com/certimate-go/certimate/releases/download/v0.4.37/certimate_v0.4.37_linux_armv7.zip"
     }
   ],
   "pinned": false,

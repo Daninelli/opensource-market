@@ -22,51 +22,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/abhinavxd/libredesk/zip/refs/heads/main",
   "release": {
-    "tag": "v2.8.0",
-    "name": "v2.8.0",
-    "published": "2026-08-22T09:16:08Z",
-    "url": "https://github.com/abhinavxd/libredesk/releases/tag/v2.8.0"
+    "tag": "v2.9.2",
+    "name": "v2.9.2",
+    "published": "2026-10-31T19:47:17Z",
+    "url": "https://github.com/abhinavxd/libredesk/releases/tag/v2.9.2"
   },
   "assets": [
     {
-      "name": "libredesk_2.8.0_windows_arm64.tar.gz",
-      "size": 15330210,
-      "url": "https://github.com/abhinavxd/libredesk/releases/download/v2.8.0/libredesk_2.8.0_windows_arm64.tar.gz"
+      "name": "libredesk_2.9.2_windows_arm64.tar.gz",
+      "size": 16570459,
+      "url": "https://github.com/abhinavxd/libredesk/releases/download/v2.9.2/libredesk_2.9.2_windows_arm64.tar.gz"
     },
     {
-      "name": "libredesk_2.8.0_darwin_arm64.tar.gz",
-      "size": 15664879,
-      "url": "https://github.com/abhinavxd/libredesk/releases/download/v2.8.0/libredesk_2.8.0_darwin_arm64.tar.gz"
+      "name": "libredesk_2.9.2_darwin_arm64.tar.gz",
+      "size": 16947097,
+      "url": "https://github.com/abhinavxd/libredesk/releases/download/v2.9.2/libredesk_2.9.2_darwin_arm64.tar.gz"
     },
     {
-      "name": "libredesk_2.8.0_windows_armv7.tar.gz",
-      "size": 15814266,
-      "url": "https://github.com/abhinavxd/libredesk/releases/download/v2.8.0/libredesk_2.8.0_windows_armv7.tar.gz"
+      "name": "libredesk_2.9.2_darwin_amd64.tar.gz",
+      "size": 17819261,
+      "url": "https://github.com/abhinavxd/libredesk/releases/download/v2.9.2/libredesk_2.9.2_darwin_amd64.tar.gz"
     },
     {
-      "name": "libredesk_2.8.0_darwin_amd64.tar.gz",
-      "size": 16487106,
-      "url": "https://github.com/abhinavxd/libredesk/releases/download/v2.8.0/libredesk_2.8.0_darwin_amd64.tar.gz"
+      "name": "libredesk_2.9.2_windows_amd64.tar.gz",
+      "size": 17885761,
+      "url": "https://github.com/abhinavxd/libredesk/releases/download/v2.9.2/libredesk_2.9.2_windows_amd64.tar.gz"
     },
     {
-      "name": "libredesk_2.8.0_linux_arm64.tar.gz",
-      "size": 15211556,
-      "url": "https://github.com/abhinavxd/libredesk/releases/download/v2.8.0/libredesk_2.8.0_linux_arm64.tar.gz"
+      "name": "libredesk_2.9.2_linux_arm64.tar.gz",
+      "size": 16439234,
+      "url": "https://github.com/abhinavxd/libredesk/releases/download/v2.9.2/libredesk_2.9.2_linux_arm64.tar.gz"
     },
     {
-      "name": "libredesk_2.8.0_linux_armv7.tar.gz",
-      "size": 15596520,
-      "url": "https://github.com/abhinavxd/libredesk/releases/download/v2.8.0/libredesk_2.8.0_linux_armv7.tar.gz"
+      "name": "libredesk_2.9.2_linux_armv7.tar.gz",
+      "size": 16913007,
+      "url": "https://github.com/abhinavxd/libredesk/releases/download/v2.9.2/libredesk_2.9.2_linux_armv7.tar.gz"
     },
     {
-      "name": "libredesk_2.8.0_source.tar.gz",
-      "size": 1619256,
-      "url": "https://github.com/abhinavxd/libredesk/releases/download/v2.8.0/libredesk_2.8.0_source.tar.gz"
+      "name": "libredesk_2.9.2_source.tar.gz",
+      "size": 2195857,
+      "url": "https://github.com/abhinavxd/libredesk/releases/download/v2.9.2/libredesk_2.9.2_source.tar.gz"
     },
     {
-      "name": "libredesk_2.8.0_netbsd_arm64.tar.gz",
-      "size": 15190358,
-      "url": "https://github.com/abhinavxd/libredesk/releases/download/v2.8.0/libredesk_2.8.0_netbsd_arm64.tar.gz"
+      "name": "libredesk_2.9.2_netbsd_arm64.tar.gz",
+      "size": 16416165,
+      "url": "https://github.com/abhinavxd/libredesk/releases/download/v2.9.2/libredesk_2.9.2_netbsd_arm64.tar.gz"
     }
   ],
   "pinned": false,

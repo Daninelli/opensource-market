@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/doocs/md/zip/refs/heads/main",
   "release": {
-    "tag": "v2.1.0",
-    "name": "v2.1.0",
-    "published": "2025-10-17T14:08:04Z",
-    "url": "https://github.com/doocs/md/releases/tag/v2.1.0"
+    "tag": "@doocs/md-cli@2.1.4",
+    "name": "@doocs/md-cli@2.1.4",
+    "published": "2026-10-30T07:57:03Z",
+    "url": "https://github.com/doocs/md/releases/tag/%40doocs/md-cli%402.1.4"
   },
   "assets": [],
   "pinned": false,

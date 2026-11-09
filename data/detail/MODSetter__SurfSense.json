@@ -21,36 +21,36 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/MODSetter/SurfSense/zip/refs/heads/main",
   "release": {
-    "tag": "v2.2.2",
-    "name": "v2.2.2",
-    "published": "2026-10-16T23:08:11Z",
-    "url": "https://github.com/MODSetter/SurfSense/releases/tag/v2.2.2"
+    "tag": "v2.3.1",
+    "name": "v2.3.1",
+    "published": "2026-11-03T17:01:30Z",
+    "url": "https://github.com/MODSetter/SurfSense/releases/tag/v2.3.1"
   },
   "assets": [
     {
       "name": "SurfSense-Setup.exe",
-      "size": 1214080736,
-      "url": "https://github.com/MODSetter/SurfSense/releases/download/v2.2.2/SurfSense-Setup.exe"
+      "size": 1072429216,
+      "url": "https://github.com/MODSetter/SurfSense/releases/download/v2.3.1/SurfSense-Setup.exe"
     },
     {
       "name": "SurfSense-arm64.dmg",
-      "size": 1352143946,
-      "url": "https://github.com/MODSetter/SurfSense/releases/download/v2.2.2/SurfSense-arm64.dmg"
+      "size": 1118319314,
+      "url": "https://github.com/MODSetter/SurfSense/releases/download/v2.3.1/SurfSense-arm64.dmg"
+    },
+    {
+      "name": "SurfSense.rpm",
+      "size": 1039797445,
+      "url": "https://github.com/MODSetter/SurfSense/releases/download/v2.3.1/SurfSense.rpm"
     },
     {
       "name": "SurfSense.deb",
-      "size": 1341746252,
-      "url": "https://github.com/MODSetter/SurfSense/releases/download/v2.2.2/SurfSense.deb"
-    },
-    {
-      "name": "SurfSense.AppImage",
-      "size": 1460914192,
-      "url": "https://github.com/MODSetter/SurfSense/releases/download/v2.2.2/SurfSense.AppImage"
+      "size": 1106484632,
+      "url": "https://github.com/MODSetter/SurfSense/releases/download/v2.3.1/SurfSense.deb"
     },
     {
       "name": "SurfSense-arm64.zip",
-      "size": 1333066612,
-      "url": "https://github.com/MODSetter/SurfSense/releases/download/v2.2.2/SurfSense-arm64.zip"
+      "size": 1131611853,
+      "url": "https://github.com/MODSetter/SurfSense/releases/download/v2.3.1/SurfSense-arm64.zip"
     }
   ],
   "pinned": false,

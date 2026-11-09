@@ -23,10 +23,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/flexprice/flexprice/zip/refs/heads/main",
   "release": {
-    "tag": "v2.1.40",
-    "name": "v2.1.40",
-    "published": "2026-10-17T15:17:49Z",
-    "url": "https://github.com/flexprice/flexprice/releases/tag/v2.1.40"
+    "tag": "v2.1.48",
+    "name": "v2.1.48",
+    "published": "2026-11-05T14:50:00Z",
+    "url": "https://github.com/flexprice/flexprice/releases/tag/v2.1.48"
   },
   "assets": [],
   "pinned": false,

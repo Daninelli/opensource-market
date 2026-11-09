@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/netalertx/NetAlertX/zip/refs/heads/main",
   "release": {
-    "tag": "v26.10.0",
-    "name": "v26.10.0 - 📈 Performance profiling and deeper device customization ",
-    "published": "2026-09-30T22:14:23Z",
-    "url": "https://github.com/netalertx/NetAlertX/releases/tag/v26.10.0"
+    "tag": "v26.10.28",
+    "name": "v26.10.28 - 🩹Hotfix, Alpine base bump, and forgotten changes",
+    "published": "2026-10-28T13:36:32Z",
+    "url": "https://github.com/netalertx/NetAlertX/releases/tag/v26.10.28"
   },
   "assets": [],
   "pinned": false,

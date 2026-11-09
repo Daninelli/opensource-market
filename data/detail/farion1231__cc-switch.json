@@ -22,41 +22,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/farion1231/cc-switch/zip/refs/heads/main",
   "release": {
-    "tag": "v4.0.16",
-    "name": "CC Switch v4.0.16",
-    "published": "2026-10-19T10:46:34Z",
-    "url": "https://github.com/farion1231/cc-switch/releases/tag/v4.0.16"
+    "tag": "v4.0.28",
+    "name": "CC Switch v4.0.28",
+    "published": "2026-11-08T15:56:25Z",
+    "url": "https://github.com/farion1231/cc-switch/releases/tag/v4.0.28"
   },
   "assets": [
     {
-      "name": "CC-Switch-v4.0.16-Windows-arm64.msi",
-      "size": 16142336,
-      "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.16/CC-Switch-v4.0.16-Windows-arm64.msi"
+      "name": "CC-Switch-v4.0.28-Windows-arm64-Portable.zip",
+      "size": 18796659,
+      "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.28/CC-Switch-v4.0.28-Windows-arm64-Portable.zip"
     },
     {
-      "name": "CC-Switch-v4.0.16-Windows-arm64-Portable.zip",
-      "size": 16430904,
-      "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.16/CC-Switch-v4.0.16-Windows-arm64-Portable.zip"
+      "name": "CC-Switch-v4.0.28-Windows-arm64.msi",
+      "size": 18931712,
+      "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.28/CC-Switch-v4.0.28-Windows-arm64.msi"
     },
     {
-      "name": "CC-Switch-v4.0.16-macOS.dmg",
-      "size": 35076170,
-      "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.16/CC-Switch-v4.0.16-macOS.dmg"
+      "name": "CC-Switch-v4.0.28-macOS.dmg",
+      "size": 40147163,
+      "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.28/CC-Switch-v4.0.28-macOS.dmg"
     },
     {
-      "name": "CC-Switch-v4.0.16-macOS.zip",
-      "size": 35135492,
-      "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.16/CC-Switch-v4.0.16-macOS.zip"
+      "name": "CC-Switch-v4.0.28-macOS.zip",
+      "size": 40178950,
+      "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.28/CC-Switch-v4.0.28-macOS.zip"
     },
     {
-      "name": "CC-Switch-v4.0.16-Linux-arm64.deb",
-      "size": 16839128,
-      "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.16/CC-Switch-v4.0.16-Linux-arm64.deb"
+      "name": "CC-Switch-v4.0.28-Linux-arm64.deb",
+      "size": 19084458,
+      "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.28/CC-Switch-v4.0.28-Linux-arm64.deb"
     },
     {
-      "name": "CC-Switch-v4.0.16-Linux-arm64.rpm",
-      "size": 16839729,
-      "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.16/CC-Switch-v4.0.16-Linux-arm64.rpm"
+      "name": "CC-Switch-v4.0.28-Linux-arm64.rpm",
+      "size": 19091356,
+      "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.28/CC-Switch-v4.0.28-Linux-arm64.rpm"
     }
   ],
   "pinned": false,

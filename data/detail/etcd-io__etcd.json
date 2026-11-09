@@ -22,36 +22,36 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/etcd-io/etcd/zip/refs/heads/main",
   "release": {
-    "tag": "v3.7.2",
-    "name": "v3.7.2",
-    "published": "2026-09-22T21:22:39Z",
-    "url": "https://github.com/etcd-io/etcd/releases/tag/v3.7.2"
+    "tag": "v3.7.3",
+    "name": "v3.7.3",
+    "published": "2026-10-22T23:12:51Z",
+    "url": "https://github.com/etcd-io/etcd/releases/tag/v3.7.3"
   },
   "assets": [
     {
-      "name": "etcd-v3.7.2-darwin-arm64.zip",
-      "size": 22922539,
-      "url": "https://github.com/etcd-io/etcd/releases/download/v3.7.2/etcd-v3.7.2-darwin-arm64.zip"
+      "name": "etcd-v3.7.3-darwin-arm64.zip",
+      "size": 22874501,
+      "url": "https://github.com/etcd-io/etcd/releases/download/v3.7.3/etcd-v3.7.3-darwin-arm64.zip"
     },
     {
-      "name": "etcd-v3.7.2-windows-amd64.zip",
-      "size": 24508798,
-      "url": "https://github.com/etcd-io/etcd/releases/download/v3.7.2/etcd-v3.7.2-windows-amd64.zip"
+      "name": "etcd-v3.7.3-windows-amd64.zip",
+      "size": 24456625,
+      "url": "https://github.com/etcd-io/etcd/releases/download/v3.7.3/etcd-v3.7.3-windows-amd64.zip"
     },
     {
-      "name": "etcd-v3.7.2-darwin-amd64.zip",
-      "size": 24525691,
-      "url": "https://github.com/etcd-io/etcd/releases/download/v3.7.2/etcd-v3.7.2-darwin-amd64.zip"
+      "name": "etcd-v3.7.3-darwin-amd64.zip",
+      "size": 24478485,
+      "url": "https://github.com/etcd-io/etcd/releases/download/v3.7.3/etcd-v3.7.3-darwin-amd64.zip"
     },
     {
-      "name": "etcd-v3.7.2-linux-arm64.tar.gz",
-      "size": 21966764,
-      "url": "https://github.com/etcd-io/etcd/releases/download/v3.7.2/etcd-v3.7.2-linux-arm64.tar.gz"
+      "name": "etcd-v3.7.3-linux-arm64.tar.gz",
+      "size": 21917428,
+      "url": "https://github.com/etcd-io/etcd/releases/download/v3.7.3/etcd-v3.7.3-linux-arm64.tar.gz"
     },
     {
-      "name": "etcd-v3.7.2-linux-ppc64le.tar.gz",
-      "size": 22143601,
-      "url": "https://github.com/etcd-io/etcd/releases/download/v3.7.2/etcd-v3.7.2-linux-ppc64le.tar.gz"
+      "name": "etcd-v3.7.3-linux-ppc64le.tar.gz",
+      "size": 22093180,
+      "url": "https://github.com/etcd-io/etcd/releases/download/v3.7.3/etcd-v3.7.3-linux-ppc64le.tar.gz"
     }
   ],
   "pinned": false,

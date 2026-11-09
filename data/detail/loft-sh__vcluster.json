@@ -20,36 +20,36 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/loft-sh/vcluster/zip/refs/heads/main",
   "release": {
-    "tag": "v0.37.3",
-    "name": "v0.37.3",
-    "published": "2026-10-05T18:50:10Z",
-    "url": "https://github.com/loft-sh/vcluster/releases/tag/v0.37.3"
+    "tag": "v0.37.6",
+    "name": "v0.37.6",
+    "published": "2026-10-30T19:59:22Z",
+    "url": "https://github.com/loft-sh/vcluster/releases/tag/v0.37.6"
   },
   "assets": [
     {
       "name": "vcluster-darwin-arm64",
-      "size": 97237474,
-      "url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.3/vcluster-darwin-arm64"
+      "size": 97303794,
+      "url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-darwin-arm64"
     },
     {
       "name": "vcluster-darwin-amd64",
-      "size": 103668416,
-      "url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.3/vcluster-darwin-amd64"
+      "size": 103721936,
+      "url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-darwin-amd64"
     },
     {
       "name": "vcluster-windows-amd64.exe",
-      "size": 103702016,
-      "url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.3/vcluster-windows-amd64.exe"
+      "size": 103759360,
+      "url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-windows-amd64.exe"
     },
     {
       "name": "vcluster-linux-arm64",
-      "size": 94240930,
-      "url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.3/vcluster-linux-arm64"
+      "size": 94372002,
+      "url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-linux-arm64"
     },
     {
       "name": "vcluster-linux-amd64",
-      "size": 101388450,
-      "url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.3/vcluster-linux-amd64"
+      "size": 101445794,
+      "url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-linux-amd64"
     }
   ],
   "pinned": false,

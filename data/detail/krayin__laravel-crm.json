@@ -22,10 +22,10 @@
   "default_branch": "2.2",
   "download_url": "https://codeload.github.com/krayin/laravel-crm/zip/refs/heads/2.2",
   "release": {
-    "tag": "v2.2.7",
-    "name": "v2.2.7",
-    "published": "2026-10-16T10:29:11Z",
-    "url": "https://github.com/krayin/laravel-crm/releases/tag/v2.2.7"
+    "tag": "v2.2.8",
+    "name": "v2.2.8",
+    "published": "2026-11-06T10:13:39Z",
+    "url": "https://github.com/krayin/laravel-crm/releases/tag/v2.2.8"
   },
   "assets": [],
   "pinned": false,

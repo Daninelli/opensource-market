@@ -21,31 +21,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/openai/codex/zip/refs/heads/main",
   "release": {
-    "tag": "rust-v0.163.0",
-    "name": "0.163.0",
-    "published": "2026-10-15T21:30:38Z",
-    "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0"
+    "tag": "rust-v0.167.0",
+    "name": "0.167.0",
+    "published": "2026-11-06T01:40:00Z",
+    "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0"
   },
   "assets": [
     {
-      "name": "codex-responses-api-proxy-aarch64-apple-darwin-bazel.zst",
-      "size": 1903676,
-      "url": "https://github.com/openai/codex/releases/download/rust-v0.163.0/codex-responses-api-proxy-aarch64-apple-darwin-bazel.zst"
+      "name": "codex-command-runner-aarch64-pc-windows-msvc.exe.zst",
+      "size": 2360820,
+      "url": "https://github.com/openai/codex/releases/download/rust-v0.167.0/codex-command-runner-aarch64-pc-windows-msvc.exe.zst"
     },
     {
       "name": "codex-responses-api-proxy-aarch64-apple-darwin.zst",
-      "size": 1908948,
-      "url": "https://github.com/openai/codex/releases/download/rust-v0.163.0/codex-responses-api-proxy-aarch64-apple-darwin.zst"
+      "size": 2640055,
+      "url": "https://github.com/openai/codex/releases/download/rust-v0.167.0/codex-responses-api-proxy-aarch64-apple-darwin.zst"
     },
     {
-      "name": "codex-app-server-aarch64-pc-windows-msvc-bazel.exe.zst",
-      "size": 58418872,
-      "url": "https://github.com/openai/codex/releases/download/rust-v0.163.0/codex-app-server-aarch64-pc-windows-msvc-bazel.exe.zst"
+      "name": "codex-command-runner-aarch64-pc-windows-msvc.exe.zip",
+      "size": 2938210,
+      "url": "https://github.com/openai/codex/releases/download/rust-v0.167.0/codex-command-runner-aarch64-pc-windows-msvc.exe.zip"
     },
     {
-      "name": "codex-app-server-aarch64-pc-windows-msvc-bazel.exe.zip",
-      "size": 77321369,
-      "url": "https://github.com/openai/codex/releases/download/rust-v0.163.0/codex-app-server-aarch64-pc-windows-msvc-bazel.exe.zip"
+      "name": "codex-responses-api-proxy-aarch64-apple-darwin.tar.gz",
+      "size": 3631472,
+      "url": "https://github.com/openai/codex/releases/download/rust-v0.167.0/codex-responses-api-proxy-aarch64-apple-darwin.tar.gz"
     }
   ],
   "pinned": false,

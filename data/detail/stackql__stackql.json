@@ -22,51 +22,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/stackql/stackql/zip/refs/heads/main",
   "release": {
-    "tag": "v0.12.778",
-    "name": "v0.12.778",
-    "published": "2026-10-11T20:55:34Z",
-    "url": "https://github.com/stackql/stackql/releases/tag/v0.12.778"
+    "tag": "v1.0.888",
+    "name": "v1.0.888",
+    "published": "2026-11-05T03:24:02Z",
+    "url": "https://github.com/stackql/stackql/releases/tag/v1.0.888"
   },
   "assets": [
     {
       "name": "stackql_windows_arm64.msi",
-      "size": 38981632,
-      "url": "https://github.com/stackql/stackql/releases/download/v0.12.778/stackql_windows_arm64.msi"
+      "size": 37949440,
+      "url": "https://github.com/stackql/stackql/releases/download/v1.0.888/stackql_windows_arm64.msi"
     },
     {
-      "name": "stackql_windows_arm64.zip",
-      "size": 42226510,
-      "url": "https://github.com/stackql/stackql/releases/download/v0.12.778/stackql_windows_arm64.zip"
+      "name": "stackql-mcp-windows-arm64.mcpb",
+      "size": 41254364,
+      "url": "https://github.com/stackql/stackql/releases/download/v1.0.888/stackql-mcp-windows-arm64.mcpb"
     },
     {
       "name": "stackql_darwin_multiarch.pkg",
-      "size": 96147269,
-      "url": "https://github.com/stackql/stackql/releases/download/v0.12.778/stackql_darwin_multiarch.pkg"
+      "size": 91829539,
+      "url": "https://github.com/stackql/stackql/releases/download/v1.0.888/stackql_darwin_multiarch.pkg"
     },
     {
       "name": "stackql-mcp-darwin-universal.mcpb",
-      "size": 97083854,
-      "url": "https://github.com/stackql/stackql/releases/download/v0.12.778/stackql-mcp-darwin-universal.mcpb"
+      "size": 92619639,
+      "url": "https://github.com/stackql/stackql/releases/download/v1.0.888/stackql-mcp-darwin-universal.mcpb"
     },
     {
       "name": "stackql-mcp-linux-arm64.mcpb",
-      "size": 42803021,
-      "url": "https://github.com/stackql/stackql/releases/download/v0.12.778/stackql-mcp-linux-arm64.mcpb"
+      "size": 41399147,
+      "url": "https://github.com/stackql/stackql/releases/download/v1.0.888/stackql-mcp-linux-arm64.mcpb"
     },
     {
       "name": "stackql_linux_arm64.zip",
-      "size": 42823574,
-      "url": "https://github.com/stackql/stackql/releases/download/v0.12.778/stackql_linux_arm64.zip"
+      "size": 41531431,
+      "url": "https://github.com/stackql/stackql/releases/download/v1.0.888/stackql_linux_arm64.zip"
     },
     {
       "name": "arm64-artifact-deb.zip",
-      "size": 42030191,
-      "url": "https://github.com/stackql/stackql/releases/download/v0.12.778/arm64-artifact-deb.zip"
+      "size": 40760758,
+      "url": "https://github.com/stackql/stackql/releases/download/v1.0.888/arm64-artifact-deb.zip"
     },
     {
       "name": "amd64-artifact-deb.zip",
-      "size": 46398106,
-      "url": "https://github.com/stackql/stackql/releases/download/v0.12.778/amd64-artifact-deb.zip"
+      "size": 45085225,
+      "url": "https://github.com/stackql/stackql/releases/download/v1.0.888/amd64-artifact-deb.zip"
     }
   ],
   "pinned": false,

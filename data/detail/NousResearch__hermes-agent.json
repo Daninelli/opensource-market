@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/NousResearch/hermes-agent/zip/refs/heads/main",
   "release": {
-    "tag": "v0.22.2",
-    "name": "Hermes Agent v0.22.2",
-    "published": "2026-10-15T08:21:32Z",
-    "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.2"
+    "tag": "v0.23.0",
+    "name": "Hermes Agent v0.23.0 — The Hearth Release",
+    "published": "2026-11-05T21:32:33Z",
+    "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.0"
   },
   "assets": [],
   "pinned": false,

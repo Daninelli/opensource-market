@@ -22,21 +22,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/skfolio/skfolio/zip/refs/heads/main",
   "release": {
-    "tag": "v1.9.6",
-    "name": "v1.9.6",
-    "published": "2026-10-18T21:17:40Z",
-    "url": "https://github.com/skfolio/skfolio/releases/tag/v1.9.6"
+    "tag": "v1.12.8",
+    "name": "v1.12.8",
+    "published": "2026-11-08T22:43:56Z",
+    "url": "https://github.com/skfolio/skfolio/releases/tag/v1.12.8"
   },
   "assets": [
     {
-      "name": "skfolio-1.9.6.tar.gz",
-      "size": 1246813,
-      "url": "https://github.com/skfolio/skfolio/releases/download/v1.9.6/skfolio-1.9.6.tar.gz"
+      "name": "skfolio-1.12.8.tar.gz",
+      "size": 1259720,
+      "url": "https://github.com/skfolio/skfolio/releases/download/v1.12.8/skfolio-1.12.8.tar.gz"
     },
     {
-      "name": "skfolio-1.9.6-py3-none-any.whl",
-      "size": 1458138,
-      "url": "https://github.com/skfolio/skfolio/releases/download/v1.9.6/skfolio-1.9.6-py3-none-any.whl"
+      "name": "skfolio-1.12.8-py3-none-any.whl",
+      "size": 1478038,
+      "url": "https://github.com/skfolio/skfolio/releases/download/v1.12.8/skfolio-1.12.8-py3-none-any.whl"
     }
   ],
   "pinned": false,

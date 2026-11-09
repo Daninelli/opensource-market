@@ -21,21 +21,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ccfos/nightingale/zip/refs/heads/main",
   "release": {
-    "tag": "v9.2.0",
-    "name": "v9.2.0",
-    "published": "2026-10-11T07:24:51Z",
-    "url": "https://github.com/ccfos/nightingale/releases/tag/v9.2.0"
+    "tag": "v9.3.0",
+    "name": "v9.3.0",
+    "published": "2026-10-21T08:10:51Z",
+    "url": "https://github.com/ccfos/nightingale/releases/tag/v9.3.0"
   },
   "assets": [
     {
-      "name": "n9e-v9.2.0-linux-arm64.tar.gz",
-      "size": 287675328,
-      "url": "https://github.com/ccfos/nightingale/releases/download/v9.2.0/n9e-v9.2.0-linux-arm64.tar.gz"
+      "name": "n9e-v9.3.0-linux-arm64.tar.gz",
+      "size": 290737439,
+      "url": "https://github.com/ccfos/nightingale/releases/download/v9.3.0/n9e-v9.3.0-linux-arm64.tar.gz"
     },
     {
-      "name": "n9e-v9.2.0-linux-amd64.tar.gz",
-      "size": 294022506,
-      "url": "https://github.com/ccfos/nightingale/releases/download/v9.2.0/n9e-v9.2.0-linux-amd64.tar.gz"
+      "name": "n9e-v9.3.0-linux-amd64.tar.gz",
+      "size": 297117670,
+      "url": "https://github.com/ccfos/nightingale/releases/download/v9.3.0/n9e-v9.3.0-linux-amd64.tar.gz"
     }
   ],
   "pinned": false,

@@ -22,16 +22,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/citrolabs/ego-lite/zip/refs/heads/main",
   "release": {
-    "tag": "v2.1.0",
-    "name": "v2.1.0",
-    "published": "2026-10-16T03:22:42Z",
-    "url": "https://github.com/citrolabs/ego-lite/releases/tag/v2.1.0"
+    "tag": "v2.2.0",
+    "name": "v2.2.0",
+    "published": "2026-11-05T02:45:52Z",
+    "url": "https://github.com/citrolabs/ego-lite/releases/tag/v2.2.0"
   },
   "assets": [
     {
-      "name": "ego-browser-v2.1.0.zip",
-      "size": 231543,
-      "url": "https://github.com/citrolabs/ego-lite/releases/download/v2.1.0/ego-browser-v2.1.0.zip"
+      "name": "ego-browser-v2.2.0.zip",
+      "size": 270557,
+      "url": "https://github.com/citrolabs/ego-lite/releases/download/v2.2.0/ego-browser-v2.2.0.zip"
     }
   ],
   "pinned": false,

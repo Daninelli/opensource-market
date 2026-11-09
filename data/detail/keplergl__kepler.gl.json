@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/keplergl/kepler.gl/zip/refs/heads/master",
   "release": {
-    "tag": "v3.3.0-alpha.18",
-    "name": "v3.3.0-alpha.18",
-    "published": "2026-10-19T20:35:58Z",
-    "url": "https://github.com/keplergl/kepler.gl/releases/tag/v3.3.0-alpha.18"
+    "tag": "v3.3.0-alpha.20",
+    "name": "v3.3.0-alpha.20",
+    "published": "2026-11-08T06:32:00Z",
+    "url": "https://github.com/keplergl/kepler.gl/releases/tag/v3.3.0-alpha.20"
   },
   "assets": [],
   "pinned": false,

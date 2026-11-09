@@ -22,31 +22,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/dragonflydb/dragonfly/zip/refs/heads/main",
   "release": {
-    "tag": "v2.0.2",
-    "name": "v2.0.2",
-    "published": "2026-10-07T21:47:04Z",
-    "url": "https://github.com/dragonflydb/dragonfly/releases/tag/v2.0.2"
+    "tag": "v2.1",
+    "name": "v2.1",
+    "published": "2026-11-04T16:10:57Z",
+    "url": "https://github.com/dragonflydb/dragonfly/releases/tag/v2.1"
   },
   "assets": [
     {
       "name": "dragonfly.x86_64.rpm",
-      "size": 8877488,
-      "url": "https://github.com/dragonflydb/dragonfly/releases/download/v2.0.2/dragonfly.x86_64.rpm"
+      "size": 8989024,
+      "url": "https://github.com/dragonflydb/dragonfly/releases/download/v2.1/dragonfly.x86_64.rpm"
     },
     {
       "name": "dragonfly_arm64.deb",
-      "size": 13540864,
-      "url": "https://github.com/dragonflydb/dragonfly/releases/download/v2.0.2/dragonfly_arm64.deb"
+      "size": 13771536,
+      "url": "https://github.com/dragonflydb/dragonfly/releases/download/v2.1/dragonfly_arm64.deb"
     },
     {
       "name": "dfly_bench-aarch64.tar.gz",
-      "size": 1624405,
-      "url": "https://github.com/dragonflydb/dragonfly/releases/download/v2.0.2/dfly_bench-aarch64.tar.gz"
+      "size": 1773586,
+      "url": "https://github.com/dragonflydb/dragonfly/releases/download/v2.1/dfly_bench-aarch64.tar.gz"
     },
     {
       "name": "dfly_bench-x86_64.tar.gz",
-      "size": 1704474,
-      "url": "https://github.com/dragonflydb/dragonfly/releases/download/v2.0.2/dfly_bench-x86_64.tar.gz"
+      "size": 1854923,
+      "url": "https://github.com/dragonflydb/dragonfly/releases/download/v2.1/dfly_bench-x86_64.tar.gz"
     }
   ],
   "pinned": false,

@@ -20,10 +20,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/kysely-org/kysely/zip/refs/heads/master",
   "release": {
-    "tag": "v0.29.7",
-    "name": "0.29.7",
-    "published": "2026-10-17T15:52:22Z",
-    "url": "https://github.com/kysely-org/kysely/releases/tag/v0.29.7"
+    "tag": "v0.29.8",
+    "name": "0.29.8",
+    "published": "2026-11-01T02:07:52Z",
+    "url": "https://github.com/kysely-org/kysely/releases/tag/v0.29.8"
   },
   "assets": [],
   "pinned": false,

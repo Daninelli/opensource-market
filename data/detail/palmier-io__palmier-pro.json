@@ -21,16 +21,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/palmier-io/palmier-pro/zip/refs/heads/main",
   "release": {
-    "tag": "v0.11.0",
-    "name": "v0.11.0",
-    "published": "2026-10-05T06:09:34Z",
-    "url": "https://github.com/palmier-io/palmier-pro/releases/tag/v0.11.0"
+    "tag": "v0.12.1",
+    "name": "v0.12.1",
+    "published": "2026-11-02T18:28:53Z",
+    "url": "https://github.com/palmier-io/palmier-pro/releases/tag/v0.12.1"
   },
   "assets": [
     {
       "name": "PalmierPro.dmg",
-      "size": 113980442,
-      "url": "https://github.com/palmier-io/palmier-pro/releases/download/v0.11.0/PalmierPro.dmg"
+      "size": 115561941,
+      "url": "https://github.com/palmier-io/palmier-pro/releases/download/v0.12.1/PalmierPro.dmg"
     }
   ],
   "pinned": false,

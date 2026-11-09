@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/cryptpad/cryptpad/zip/refs/heads/main",
   "release": {
-    "tag": "2026.5.1",
-    "name": "🌷🩹 Spring fix release (2026.5.1)",
-    "published": "2026-05-26T11:17:53Z",
-    "url": "https://github.com/cryptpad/cryptpad/releases/tag/2026.5.1"
+    "tag": "2026.10.0",
+    "name": "🍂 Autumn Release (2026.10.0)",
+    "published": "2026-10-21T14:23:14Z",
+    "url": "https://github.com/cryptpad/cryptpad/releases/tag/2026.10.0"
   },
   "assets": [],
   "pinned": false,

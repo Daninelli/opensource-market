@@ -21,16 +21,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/instaloader/instaloader/zip/refs/heads/master",
   "release": {
-    "tag": "v4.15.4",
-    "name": "Version 4.15.4",
-    "published": "2026-10-12T20:46:50Z",
-    "url": "https://github.com/instaloader/instaloader/releases/tag/v4.15.4"
+    "tag": "v4.16",
+    "name": "Version 4.16",
+    "published": "2026-10-26T21:41:37Z",
+    "url": "https://github.com/instaloader/instaloader/releases/tag/v4.16"
   },
   "assets": [
     {
-      "name": "instaloader-v4.15.4-windows-standalone.zip",
-      "size": 16443914,
-      "url": "https://github.com/instaloader/instaloader/releases/download/v4.15.4/instaloader-v4.15.4-windows-standalone.zip"
+      "name": "instaloader-v4.16-windows-standalone.zip",
+      "size": 14809412,
+      "url": "https://github.com/instaloader/instaloader/releases/download/v4.16/instaloader-v4.16-windows-standalone.zip"
     }
   ],
   "pinned": false,

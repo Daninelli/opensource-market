@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/QwikDev/partytown/zip/refs/heads/main",
   "release": {
-    "tag": "v1.0.1",
-    "name": "v1.0.1",
-    "published": "2026-10-14T12:38:03Z",
-    "url": "https://github.com/QwikDev/partytown/releases/tag/v1.0.1"
+    "tag": "v1.0.5",
+    "name": "v1.0.5",
+    "published": "2026-11-07T14:53:21Z",
+    "url": "https://github.com/QwikDev/partytown/releases/tag/v1.0.5"
   },
   "assets": [],
   "pinned": false,

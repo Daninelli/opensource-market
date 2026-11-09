@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/notionnext-org/NotionNext/zip/refs/heads/main",
   "release": {
-    "tag": "v4.11.0",
-    "name": "v4.11.0",
-    "published": "2026-10-14T08:45:18Z",
-    "url": "https://github.com/notionnext-org/NotionNext/releases/tag/v4.11.0"
+    "tag": "v4.11.1",
+    "name": "NotionNext v4.11.1",
+    "published": "2026-10-21T09:13:14Z",
+    "url": "https://github.com/notionnext-org/NotionNext/releases/tag/v4.11.1"
   },
   "assets": [],
   "pinned": false,

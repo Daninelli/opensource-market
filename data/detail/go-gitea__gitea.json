@@ -22,36 +22,36 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/go-gitea/gitea/zip/refs/heads/main",
   "release": {
-    "tag": "v28.2.0",
-    "name": "v28.2.0",
-    "published": "2026-10-18T18:25:03Z",
-    "url": "https://github.com/go-gitea/gitea/releases/tag/v28.2.0"
+    "tag": "v28.3.0",
+    "name": "v28.3.0",
+    "published": "2026-11-01T09:55:07Z",
+    "url": "https://github.com/go-gitea/gitea/releases/tag/v28.3.0"
   },
   "assets": [
     {
-      "name": "gitea-28.2.0-darwin-arm64.xz",
-      "size": 38675708,
-      "url": "https://github.com/go-gitea/gitea/releases/download/v28.2.0/gitea-28.2.0-darwin-arm64.xz"
+      "name": "gitea-28.3.0-darwin-arm64.xz",
+      "size": 38749136,
+      "url": "https://github.com/go-gitea/gitea/releases/download/v28.3.0/gitea-28.3.0-darwin-arm64.xz"
     },
     {
-      "name": "gitea-28.2.0-darwin-amd64.xz",
-      "size": 42474832,
-      "url": "https://github.com/go-gitea/gitea/releases/download/v28.2.0/gitea-28.2.0-darwin-amd64.xz"
+      "name": "gitea-28.3.0-darwin-amd64.xz",
+      "size": 42545776,
+      "url": "https://github.com/go-gitea/gitea/releases/download/v28.3.0/gitea-28.3.0-darwin-amd64.xz"
     },
     {
-      "name": "gitea-28.2.0-linux-amd64",
-      "size": 119488672,
-      "url": "https://github.com/go-gitea/gitea/releases/download/v28.2.0/gitea-28.2.0-linux-amd64"
+      "name": "gitea-28.3.0-linux-amd64",
+      "size": 119947424,
+      "url": "https://github.com/go-gitea/gitea/releases/download/v28.3.0/gitea-28.3.0-linux-amd64"
     },
     {
-      "name": "gitea-28.2.0-freebsd-amd64.xz",
-      "size": 41865556,
-      "url": "https://github.com/go-gitea/gitea/releases/download/v28.2.0/gitea-28.2.0-freebsd-amd64.xz"
+      "name": "gitea-28.3.0-freebsd-amd64.xz",
+      "size": 41938412,
+      "url": "https://github.com/go-gitea/gitea/releases/download/v28.3.0/gitea-28.3.0-freebsd-amd64.xz"
     },
     {
-      "name": "gitea-28.2.0-freebsd-amd64",
-      "size": 119320746,
-      "url": "https://github.com/go-gitea/gitea/releases/download/v28.2.0/gitea-28.2.0-freebsd-amd64"
+      "name": "gitea-28.3.0-freebsd-amd64",
+      "size": 119779498,
+      "url": "https://github.com/go-gitea/gitea/releases/download/v28.3.0/gitea-28.3.0-freebsd-amd64"
     }
   ],
   "pinned": false,

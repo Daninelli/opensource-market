@@ -21,16 +21,16 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/jgraph/drawio/zip/refs/heads/dev",
   "release": {
-    "tag": "v32.5.5",
-    "name": "v32.5.5",
-    "published": "2026-10-18T10:54:09Z",
-    "url": "https://github.com/jgraph/drawio/releases/tag/v32.5.5"
+    "tag": "v32.6.10",
+    "name": "v32.6.10",
+    "published": "2026-11-04T18:21:51Z",
+    "url": "https://github.com/jgraph/drawio/releases/tag/v32.6.10"
   },
   "assets": [
     {
       "name": "draw.war",
-      "size": 48608302,
-      "url": "https://github.com/jgraph/drawio/releases/download/v32.5.5/draw.war"
+      "size": 49729549,
+      "url": "https://github.com/jgraph/drawio/releases/download/v32.6.10/draw.war"
     }
   ],
   "pinned": false,

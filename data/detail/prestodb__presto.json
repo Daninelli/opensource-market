@@ -20,21 +20,21 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/prestodb/presto/zip/refs/heads/master",
   "release": {
-    "tag": "0.299",
-    "name": "Presto 0.299",
-    "published": "2026-08-28T07:12:06Z",
-    "url": "https://github.com/prestodb/presto/releases/tag/0.299"
+    "tag": "0.300",
+    "name": "Presto 0.300",
+    "published": "2026-11-04T19:47:59Z",
+    "url": "https://github.com/prestodb/presto/releases/tag/0.300"
   },
   "assets": [
     {
-      "name": "presto-cli-0.299-executable.jar",
-      "size": 31196540,
-      "url": "https://github.com/prestodb/presto/releases/download/0.299/presto-cli-0.299-executable.jar"
+      "name": "presto-cli-0.300-executable.jar",
+      "size": 31263056,
+      "url": "https://github.com/prestodb/presto/releases/download/0.300/presto-cli-0.300-executable.jar"
     },
     {
-      "name": "presto-benchmark-driver-0.299-executable.jar",
-      "size": 39121033,
-      "url": "https://github.com/prestodb/presto/releases/download/0.299/presto-benchmark-driver-0.299-executable.jar"
+      "name": "presto-benchmark-driver-0.300-executable.jar",
+      "size": 39228094,
+      "url": "https://github.com/prestodb/presto/releases/download/0.300/presto-benchmark-driver-0.300-executable.jar"
     }
   ],
   "pinned": false,
