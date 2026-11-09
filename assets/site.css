@@ -51,13 +51,12 @@
             margin: 0 auto;
             display: grid;
             place-items: center;
-            font-size: 34px;
-            color: var(--brand);
-            background: linear-gradient(180deg, #f0fdf4, #dcfce7);
-            border: 1px solid #bbf7d0;
+            /* 底色与圆角由 logo 自己带，这里只负责尺寸、裁切和投影 */
             border-radius: 18px;
+            overflow: hidden;
             box-shadow: 0 6px 16px rgba(21, 128, 61, .12);
         }
+        .logo-mark .logo { display: block; width: 100%; height: 100%; }
 
         .hero h1 {
             margin: 16px 0 0;
@@ -836,10 +835,11 @@
             width: 30px;
             height: 30px;
             border-radius: 9px;
-            background: rgba(21, 128, 61, .1);
-            color: var(--brand);
+            /* logo 自带 #FBFBF9 底色，这里不能再叠绿底，否则会透出色差 */
+            overflow: hidden;
+            flex: none;
         }
-        .topnav-mark .icon { font-size: 17px; }
+        .topnav-mark .logo { display: block; width: 100%; height: 100%; }
         .topnav-links {
             display: flex;
             align-items: center;
@@ -1526,7 +1526,7 @@
         @media (max-width: 520px) {
             .hero { padding: 32px 16px 24px; }
             .hero h1 { font-size: 1.7rem; }
-            .logo-mark { width: 52px; height: 52px; font-size: 28px; border-radius: 15px; }
+            .logo-mark { width: 52px; height: 52px; border-radius: 15px; }
             .content { padding: 18px 14px 44px; }
             .toolbar { padding: 8px 14px; }
             /* 显式写 minmax(0, 1fr)：1fr 等价于 minmax(auto, 1fr)，
