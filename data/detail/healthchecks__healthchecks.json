@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-11-02T07:33:09Z",
+  "updated_at": "2026-11-08T06:57:47Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/healthchecks/healthchecks/zip/refs/heads/master",

@@ -15,7 +15,7 @@
   ],
   "deploy_type": "二进制 / Docker",
   "platform": "github",
-  "updated_at": "2026-11-03T09:15:32Z",
+  "updated_at": "2026-11-05T18:55:51Z",
   "added_at": "2026-10-18T00:20:44+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/syncthing/syncthing/zip/refs/heads/main",

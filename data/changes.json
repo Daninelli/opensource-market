@@ -1,6 +1,6 @@
 {
   "note": "由 tools/track-changes.mjs 自动维护；只追加变动记录，不重新计算历史",
-  "updated_at": "2026-11-03T10:53:16.176Z",
+  "updated_at": "2026-11-08T10:22:58.172Z",
   "events": [
     {
       "date": "2026-10-28",
@@ -1678,7 +1678,7 @@
       "archived": false
     },
     "webadderallorg/Recordly": {
-      "license": "NOASSERTION",
+      "license": "AGPL-3.0",
       "pinned": false,
       "pin_label": null,
       "archived": false
@@ -7288,7 +7288,7 @@
       "archived": false
     },
     "superset-sh/superset": {
-      "license": "NOASSERTION",
+      "license": "MIT",
       "pinned": false,
       "pin_label": null,
       "archived": false
@@ -10282,6 +10282,12 @@
       "archived": false
     },
     "cloudflare/security-audit-skill": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "deepseek-ai/dsh-superagent-prototype": {
       "license": "MIT",
       "pinned": false,
       "pin_label": null,

@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-11-03T10:41:29Z",
+  "updated_at": "2026-11-06T15:40:39Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/dgtlmoon/changedetection.io/zip/refs/heads/master",

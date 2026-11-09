@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-11-03T10:17:58Z",
+  "updated_at": "2026-11-06T06:48:33Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "3.0",
   "download_url": "https://codeload.github.com/steedos/steedos-platform/zip/refs/heads/3.0",

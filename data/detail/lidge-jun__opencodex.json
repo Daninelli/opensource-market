@@ -15,10 +15,10 @@
   ],
   "deploy_type": "命令行 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-11-03T10:36:42Z",
+  "updated_at": "2026-11-08T10:22:02Z",
   "added_at": "2026-10-18T00:03:43+08:00",
-  "default_branch": "main",
-  "download_url": "https://codeload.github.com/lidge-jun/opencodex/zip/refs/heads/main",
+  "default_branch": "dev",
+  "download_url": "https://codeload.github.com/lidge-jun/opencodex/zip/refs/heads/dev",
   "release": {
     "tag": "v2.99.0",
     "name": "v2.99.0",

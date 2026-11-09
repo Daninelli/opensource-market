@@ -7,15 +7,15 @@
   "category_slug": "tool",
   "subcategory": "智能体",
   "subcategory_slug": "agent",
-  "license": "NOASSERTION",
-  "license_category": "unknown",
+  "license": "MIT",
+  "license_category": "open",
   "archived": false,
   "tech_stack": [
     "TypeScript"
   ],
   "deploy_type": "客户端 / 桌面应用",
   "platform": "github",
-  "updated_at": "2026-11-03T07:43:21Z",
+  "updated_at": "2026-11-08T07:17:46Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/superset-sh/superset/zip/refs/heads/main",

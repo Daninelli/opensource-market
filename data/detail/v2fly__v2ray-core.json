@@ -17,7 +17,7 @@
   ],
   "deploy_type": "二进制 / 源码",
   "platform": "github",
-  "updated_at": "2026-11-02T22:53:21Z",
+  "updated_at": "2026-11-06T22:52:56Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/v2fly/v2ray-core/zip/refs/heads/master",

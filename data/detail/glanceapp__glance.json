@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 二进制 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-11-02T15:05:27Z",
+  "updated_at": "2026-11-07T15:59:44Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/glanceapp/glance/zip/refs/heads/main",
