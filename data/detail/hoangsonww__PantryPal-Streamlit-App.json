@@ -1,0 +1,32 @@
+{
+  "repo": "hoangsonww/PantryPal-Streamlit-App",
+  "slug": "hoangsonww__PantryPal-Streamlit-App",
+  "name": "Pantry Pal",
+  "note_zh": "把冰箱食材变成菜谱的 AI 应用，附营养图表与购物清单",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "Streamlit",
+    "Gemini"
+  ],
+  "deploy_type": "源码",
+  "platform": "github",
+  "updated_at": "2026-09-27T19:38:10Z",
+  "added_at": "2026-11-09T21:20:47+08:00",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/hoangsonww/PantryPal-Streamlit-App/zip/refs/heads/master",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

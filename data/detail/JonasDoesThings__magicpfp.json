@@ -1,0 +1,31 @@
+{
+  "repo": "JonasDoesThings/magicpfp",
+  "slug": "JonasDoesThings__magicpfp",
+  "name": "magicpfp",
+  "note_zh": "浏览器内抠图并编辑成专业头像，全程本地运行不上传照片",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "设计工具",
+  "subcategory_slug": "design",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Web"
+  ],
+  "deploy_type": "前端源码",
+  "platform": "github",
+  "updated_at": "2026-07-07T18:25:14Z",
+  "added_at": "2026-11-09T21:20:43+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/JonasDoesThings/magicpfp/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

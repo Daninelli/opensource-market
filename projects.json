@@ -70480,5 +70480,81 @@
     "url": "https://github.com/storytold/craft-anything",
     "license_category": "open",
     "archived": false
+  },
+  {
+    "name": "ComfyUI-RMBG",
+    "repo": "1038lab/ComfyUI-RMBG",
+    "category": "工具",
+    "category_slug": "tool",
+    "subcategory": "媒体处理",
+    "subcategory_slug": "media-tool",
+    "tech_stack": [
+      "Python",
+      "ComfyUI"
+    ],
+    "deploy_type": "依赖库 / 源码",
+    "note_zh": "ComfyUI 的抠图与分割节点，集成 RMBG-2.0、BiRefNet、SAM 等十余个模型",
+    "license": "GPL-3.0",
+    "added_at": "2026-11-09T21:20:28+08:00",
+    "stars": 2227,
+    "updated_at": "2026-10-20T08:31:47Z",
+    "default_branch": "main",
+    "download_url": "https://codeload.github.com/1038lab/ComfyUI-RMBG/zip/refs/heads/main",
+    "platform": "github",
+    "kind": "library",
+    "url": "https://github.com/1038lab/ComfyUI-RMBG",
+    "archived": false,
+    "license_category": "open"
+  },
+  {
+    "name": "magicpfp",
+    "repo": "JonasDoesThings/magicpfp",
+    "category": "工具",
+    "category_slug": "tool",
+    "subcategory": "设计工具",
+    "subcategory_slug": "design",
+    "tech_stack": [
+      "TypeScript",
+      "Web"
+    ],
+    "deploy_type": "前端源码",
+    "note_zh": "浏览器内抠图并编辑成专业头像，全程本地运行不上传照片",
+    "license": "MIT",
+    "added_at": "2026-11-09T21:20:43+08:00",
+    "stars": 7,
+    "updated_at": "2026-07-07T18:25:14Z",
+    "default_branch": "main",
+    "download_url": "https://codeload.github.com/JonasDoesThings/magicpfp/zip/refs/heads/main",
+    "platform": "github",
+    "kind": "app",
+    "url": "https://github.com/JonasDoesThings/magicpfp",
+    "archived": false,
+    "license_category": "open"
+  },
+  {
+    "name": "Pantry Pal",
+    "repo": "hoangsonww/PantryPal-Streamlit-App",
+    "category": "工具",
+    "category_slug": "tool",
+    "subcategory": "效率工具",
+    "subcategory_slug": "utility",
+    "tech_stack": [
+      "Python",
+      "Streamlit",
+      "Gemini"
+    ],
+    "deploy_type": "源码",
+    "note_zh": "把冰箱食材变成菜谱的 AI 应用，附营养图表与购物清单",
+    "license": "MIT",
+    "added_at": "2026-11-09T21:20:47+08:00",
+    "stars": 15,
+    "updated_at": "2026-09-27T19:38:10Z",
+    "default_branch": "master",
+    "download_url": "https://codeload.github.com/hoangsonww/PantryPal-Streamlit-App/zip/refs/heads/master",
+    "platform": "github",
+    "kind": "app",
+    "url": "https://github.com/hoangsonww/PantryPal-Streamlit-App",
+    "archived": false,
+    "license_category": "open"
   }
 ]

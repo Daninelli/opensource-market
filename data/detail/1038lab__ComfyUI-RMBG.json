@@ -1,0 +1,31 @@
+{
+  "repo": "1038lab/ComfyUI-RMBG",
+  "slug": "1038lab__ComfyUI-RMBG",
+  "name": "ComfyUI-RMBG",
+  "note_zh": "ComfyUI 的抠图与分割节点，集成 RMBG-2.0、BiRefNet、SAM 等十余个模型",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Python",
+    "ComfyUI"
+  ],
+  "deploy_type": "依赖库 / 源码",
+  "platform": "github",
+  "updated_at": "2026-10-20T08:31:47Z",
+  "added_at": "2026-11-09T21:20:28+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/1038lab/ComfyUI-RMBG/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}
