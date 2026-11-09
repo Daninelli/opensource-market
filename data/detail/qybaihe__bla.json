@@ -1,0 +1,37 @@
+{
+  "repo": "qybaihe/bla",
+  "slug": "qybaihe__bla",
+  "name": "BLA（Blind LLM Agents）",
+  "note_zh": "对抗 AI 逆向 Agent 的防护盾：为二进制、Electron、WASM 加料，抬高逆向成本",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "安全与密码",
+  "subcategory_slug": "security",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Node.js",
+    "MCP"
+  ],
+  "deploy_type": "命令行 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-11-09T06:23:35Z",
+  "added_at": "2026-11-09T20:33:10+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/qybaihe/bla/zip/refs/heads/main",
+  "release": {
+    "tag": "bla-agents-3.2.1",
+    "name": "bla-agents: v3.2.1",
+    "published": "2026-11-09T06:24:42Z",
+    "url": "https://github.com/qybaihe/bla/releases/tag/bla-agents-3.2.1"
+  },
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}
