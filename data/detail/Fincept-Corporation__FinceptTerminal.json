@@ -21,31 +21,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Fincept-Corporation/FinceptTerminal/zip/refs/heads/main",
   "release": {
-    "tag": "v4.5.1",
-    "name": "Fincept Terminal v4.5.1",
-    "published": "2026-10-13T07:43:21Z",
-    "url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/tag/v4.5.1"
+    "tag": "v4.5.2",
+    "name": "Fincept Terminal v4.5.2",
+    "published": "2026-11-09T13:04:02Z",
+    "url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/tag/v4.5.2"
   },
   "assets": [
     {
-      "name": "FinceptTerminal-4.5.1-windows-x64-setup.exe",
-      "size": 173828448,
-      "url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-windows-x64-setup.exe"
+      "name": "FinceptTerminal-4.5.2-windows-x64-setup.exe",
+      "size": 192063997,
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.2/FinceptTerminal-4.5.2-windows-x64-setup.exe"
     },
     {
-      "name": "FinceptTerminal-4.5.1-macos-arm64-setup.dmg",
-      "size": 262558689,
-      "url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-macos-arm64-setup.dmg"
+      "name": "FinceptTerminal-4.5.2-macos-arm64-setup.dmg",
+      "size": 260483299,
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.2/FinceptTerminal-4.5.2-macos-arm64-setup.dmg"
     },
     {
-      "name": "FinceptTerminal-4.5.1-linux-x64.deb",
-      "size": 57857002,
-      "url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-linux-x64.deb"
+      "name": "FinceptTerminal-4.5.2-linux-x64-setup.run",
+      "size": 178878968,
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.2/FinceptTerminal-4.5.2-linux-x64-setup.run"
     },
     {
-      "name": "FinceptTerminal-4.5.1-linux-x64.rpm",
-      "size": 63574200,
-      "url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-linux-x64.rpm"
+      "name": "FinceptTerminal-4.5.2-linux-x64-wizard.bin",
+      "size": 180227874,
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.2/FinceptTerminal-4.5.2-linux-x64-wizard.bin"
     }
   ],
   "pinned": false,

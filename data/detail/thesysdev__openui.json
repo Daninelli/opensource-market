@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/thesysdev/openui/zip/refs/heads/main",
   "release": {
-    "tag": "@openuidev/dashboard-library@0.0.2",
-    "name": "@openuidev/dashboard-library@0.0.2",
-    "published": "2026-11-06T16:33:33Z",
-    "url": "https://github.com/thesysdev/openui/releases/tag/%40openuidev/dashboard-library%400.0.2"
+    "tag": "@openuidev/react-ui@0.18.6",
+    "name": "@openuidev/react-ui@0.18.6",
+    "published": "2026-11-10T12:34:35Z",
+    "url": "https://github.com/thesysdev/openui/releases/tag/%40openuidev/react-ui%400.18.6"
   },
   "assets": [],
   "pinned": false,

@@ -22,21 +22,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/lucide-icons/lucide/zip/refs/heads/main",
   "release": {
-    "tag": "1.70.0",
-    "name": "Version 1.70.0",
-    "published": "2026-11-06T06:05:35Z",
-    "url": "https://github.com/lucide-icons/lucide/releases/tag/1.70.0"
+    "tag": "1.71.0",
+    "name": "Version 1.71.0",
+    "published": "2026-11-10T06:05:13Z",
+    "url": "https://github.com/lucide-icons/lucide/releases/tag/1.71.0"
   },
   "assets": [
     {
-      "name": "lucide-icons-1.70.0.zip",
-      "size": 1532541,
-      "url": "https://github.com/lucide-icons/lucide/releases/download/1.70.0/lucide-icons-1.70.0.zip"
+      "name": "lucide-icons-1.71.0.zip",
+      "size": 1547214,
+      "url": "https://github.com/lucide-icons/lucide/releases/download/1.71.0/lucide-icons-1.71.0.zip"
     },
     {
-      "name": "lucide-font-1.70.0.zip",
-      "size": 5566251,
-      "url": "https://github.com/lucide-icons/lucide/releases/download/1.70.0/lucide-font-1.70.0.zip"
+      "name": "lucide-font-1.71.0.zip",
+      "size": 5604817,
+      "url": "https://github.com/lucide-icons/lucide/releases/download/1.71.0/lucide-font-1.71.0.zip"
     }
   ],
   "pinned": false,

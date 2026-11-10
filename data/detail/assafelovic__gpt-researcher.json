@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/assafelovic/gpt-researcher/zip/refs/heads/main",
   "release": {
-    "tag": "v3.7.0",
-    "name": "Jev update and many bug fixes and improvements",
-    "published": "2026-09-26T17:46:25Z",
-    "url": "https://github.com/assafelovic/gpt-researcher/releases/tag/v3.7.0"
+    "tag": "v3.8.0",
+    "name": "New paper UI, detailed reports in 3:27, and 53 community fixes",
+    "published": "2026-11-09T15:12:43Z",
+    "url": "https://github.com/assafelovic/gpt-researcher/releases/tag/v3.8.0"
   },
   "assets": [],
   "pinned": false,

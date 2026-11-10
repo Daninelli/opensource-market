@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/assistant-ui/assistant-ui/zip/refs/heads/main",
   "release": {
-    "tag": "@assistant-ui/ai-sdk@0.0.17",
-    "name": "@assistant-ui/ai-sdk@0.0.17",
-    "published": "2026-11-09T12:41:18Z",
-    "url": "https://github.com/assistant-ui/assistant-ui/releases/tag/%40assistant-ui/ai-sdk%400.0.17"
+    "tag": "@assistant-ui/core@0.3.34",
+    "name": "@assistant-ui/core@0.3.34",
+    "published": "2026-11-10T08:01:00Z",
+    "url": "https://github.com/assistant-ui/assistant-ui/releases/tag/%40assistant-ui/core%400.3.34"
   },
   "assets": [],
   "pinned": false,

@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/yagop/node-telegram-bot-api/zip/refs/heads/master",
   "release": {
-    "tag": "v2.3.0",
-    "name": "2.3.0",
-    "published": "2026-11-04T01:08:10Z",
-    "url": "https://github.com/yagop/node-telegram-bot-api/releases/tag/v2.3.0"
+    "tag": "v2.4.0",
+    "name": "2.4.0",
+    "published": "2026-11-09T21:50:14Z",
+    "url": "https://github.com/yagop/node-telegram-bot-api/releases/tag/v2.4.0"
   },
   "assets": [],
   "pinned": false,

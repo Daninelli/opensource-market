@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/BerriAI/litellm/zip/refs/heads/main",
   "release": {
-    "tag": "v1.108.3",
-    "name": "1.108.3 (LTS)",
-    "published": "2026-11-07T22:29:58Z",
-    "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.3"
+    "tag": "v1.108.4",
+    "name": "1.108.4 (LTS)",
+    "published": "2026-11-09T23:00:51Z",
+    "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.4"
   },
   "assets": [],
   "pinned": false,

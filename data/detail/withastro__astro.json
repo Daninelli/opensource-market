@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/withastro/astro/zip/refs/heads/main",
   "release": {
-    "tag": "@astrojs/vercel@11.0.20",
-    "name": "@astrojs/vercel@11.0.20",
-    "published": "2026-11-05T19:58:13Z",
-    "url": "https://github.com/withastro/astro/releases/tag/%40astrojs/vercel%4011.0.20"
+    "tag": "astro-vscode@2.17.3",
+    "name": "astro-vscode@2.17.3",
+    "published": "2026-11-09T14:49:59Z",
+    "url": "https://github.com/withastro/astro/releases/tag/astro-vscode%402.17.3"
   },
   "assets": [],
   "pinned": false,

@@ -22,10 +22,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Piwigo/Piwigo/zip/refs/heads/master",
   "release": {
-    "tag": "16.4.0",
-    "name": "16.4.0",
-    "published": "2026-05-03T14:54:31Z",
-    "url": "https://github.com/Piwigo/Piwigo/releases/tag/16.4.0"
+    "tag": "16.5.0",
+    "name": "16.5.0",
+    "published": "2026-11-09T15:52:10Z",
+    "url": "https://github.com/Piwigo/Piwigo/releases/tag/16.5.0"
   },
   "assets": [],
   "pinned": false,

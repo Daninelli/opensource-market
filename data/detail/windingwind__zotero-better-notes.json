@@ -20,16 +20,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/windingwind/zotero-better-notes/zip/refs/heads/master",
   "release": {
-    "tag": "v3.3.3",
-    "name": "Release v3.3.3",
-    "published": "2026-08-24T13:25:16Z",
-    "url": "https://github.com/windingwind/zotero-better-notes/releases/tag/v3.3.3"
+    "tag": "v3.3.5",
+    "name": "Release v3.3.5",
+    "published": "2026-11-10T09:06:01Z",
+    "url": "https://github.com/windingwind/zotero-better-notes/releases/tag/v3.3.5"
   },
   "assets": [
     {
       "name": "better-notes-for-zotero.xpi",
-      "size": 5539473,
-      "url": "https://github.com/windingwind/zotero-better-notes/releases/download/v3.3.3/better-notes-for-zotero.xpi"
+      "size": 5393969,
+      "url": "https://github.com/windingwind/zotero-better-notes/releases/download/v3.3.5/better-notes-for-zotero.xpi"
     }
   ],
   "pinned": false,

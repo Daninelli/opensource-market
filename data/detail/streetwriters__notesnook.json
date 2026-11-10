@@ -21,46 +21,46 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/streetwriters/notesnook/zip/refs/heads/master",
   "release": {
-    "tag": "v3.4.12",
-    "name": "Notesnook Desktop v3.4.12",
-    "published": "2026-11-02T11:37:46Z",
-    "url": "https://github.com/streetwriters/notesnook/releases/tag/v3.4.12"
+    "tag": "v3.4.13",
+    "name": "Notesnook Desktop v3.4.13",
+    "published": "2026-11-10T08:42:20Z",
+    "url": "https://github.com/streetwriters/notesnook/releases/tag/v3.4.13"
   },
   "assets": [
     {
       "name": "notesnook_win_arm64_portable.exe",
-      "size": 93122208,
-      "url": "https://github.com/streetwriters/notesnook/releases/download/v3.4.12/notesnook_win_arm64_portable.exe"
+      "size": 93123128,
+      "url": "https://github.com/streetwriters/notesnook/releases/download/v3.4.13/notesnook_win_arm64_portable.exe"
     },
     {
       "name": "notesnook_win_arm64.exe",
-      "size": 93285872,
-      "url": "https://github.com/streetwriters/notesnook/releases/download/v3.4.12/notesnook_win_arm64.exe"
+      "size": 93286784,
+      "url": "https://github.com/streetwriters/notesnook/releases/download/v3.4.13/notesnook_win_arm64.exe"
     },
     {
       "name": "notesnook_mac_arm64.zip",
-      "size": 125069231,
-      "url": "https://github.com/streetwriters/notesnook/releases/download/v3.4.12/notesnook_mac_arm64.zip"
+      "size": 125079355,
+      "url": "https://github.com/streetwriters/notesnook/releases/download/v3.4.13/notesnook_mac_arm64.zip"
     },
     {
       "name": "notesnook_mac_arm64.dmg",
-      "size": 125540224,
-      "url": "https://github.com/streetwriters/notesnook/releases/download/v3.4.12/notesnook_mac_arm64.dmg"
+      "size": 125553655,
+      "url": "https://github.com/streetwriters/notesnook/releases/download/v3.4.13/notesnook_mac_arm64.dmg"
     },
     {
       "name": "notesnook_linux_arm64.AppImage",
-      "size": 113147219,
-      "url": "https://github.com/streetwriters/notesnook/releases/download/v3.4.12/notesnook_linux_arm64.AppImage"
+      "size": 113146940,
+      "url": "https://github.com/streetwriters/notesnook/releases/download/v3.4.13/notesnook_linux_arm64.AppImage"
     },
     {
       "name": "notesnook_linux_x86_64.AppImage",
-      "size": 113971105,
-      "url": "https://github.com/streetwriters/notesnook/releases/download/v3.4.12/notesnook_linux_x86_64.AppImage"
+      "size": 113971185,
+      "url": "https://github.com/streetwriters/notesnook/releases/download/v3.4.13/notesnook_linux_x86_64.AppImage"
     },
     {
-      "name": "notesnook_build_v3.4.12.zip",
-      "size": 15730167,
-      "url": "https://github.com/streetwriters/notesnook/releases/download/v3.4.12/notesnook_build_v3.4.12.zip"
+      "name": "notesnook_build_v3.4.13.zip",
+      "size": 15730567,
+      "url": "https://github.com/streetwriters/notesnook/releases/download/v3.4.13/notesnook_build_v3.4.13.zip"
     }
   ],
   "pinned": false,

@@ -22,36 +22,36 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/writefreely/writefreely/zip/refs/heads/develop",
   "release": {
-    "tag": "v0.17.2",
-    "name": "v0.17.2",
-    "published": "2026-08-10T07:27:49Z",
-    "url": "https://github.com/writefreely/writefreely/releases/tag/v0.17.2"
+    "tag": "v0.17.3",
+    "name": "v0.17.3",
+    "published": "2026-11-09T22:29:55Z",
+    "url": "https://github.com/writefreely/writefreely/releases/tag/v0.17.3"
   },
   "assets": [
     {
-      "name": "writefreely_0.17.2_macos_arm64.tar.gz",
-      "size": 12256223,
-      "url": "https://github.com/writefreely/writefreely/releases/download/v0.17.2/writefreely_0.17.2_macos_arm64.tar.gz"
+      "name": "writefreely_0.17.3_macos_arm64.tar.gz",
+      "size": 12338790,
+      "url": "https://github.com/writefreely/writefreely/releases/download/v0.17.3/writefreely_0.17.3_macos_arm64.tar.gz"
     },
     {
-      "name": "writefreely_0.17.2_macos_amd64.tar.gz",
-      "size": 13068775,
-      "url": "https://github.com/writefreely/writefreely/releases/download/v0.17.2/writefreely_0.17.2_macos_amd64.tar.gz"
+      "name": "writefreely_0.17.3_macos_amd64.tar.gz",
+      "size": 13215633,
+      "url": "https://github.com/writefreely/writefreely/releases/download/v0.17.3/writefreely_0.17.3_macos_amd64.tar.gz"
     },
     {
-      "name": "writefreely_0.17.2_windows_amd64.zip",
-      "size": 13289450,
-      "url": "https://github.com/writefreely/writefreely/releases/download/v0.17.2/writefreely_0.17.2_windows_amd64.zip"
+      "name": "writefreely_0.17.3_windows_amd64.zip",
+      "size": 13435754,
+      "url": "https://github.com/writefreely/writefreely/releases/download/v0.17.3/writefreely_0.17.3_windows_amd64.zip"
     },
     {
-      "name": "writefreely_0.17.2_linux_arm64.tar.gz",
-      "size": 12371965,
-      "url": "https://github.com/writefreely/writefreely/releases/download/v0.17.2/writefreely_0.17.2_linux_arm64.tar.gz"
+      "name": "writefreely_0.17.3_linux_arm64.tar.gz",
+      "size": 12450373,
+      "url": "https://github.com/writefreely/writefreely/releases/download/v0.17.3/writefreely_0.17.3_linux_arm64.tar.gz"
     },
     {
-      "name": "writefreely_0.17.2_linux_arm7.tar.gz",
-      "size": 12601163,
-      "url": "https://github.com/writefreely/writefreely/releases/download/v0.17.2/writefreely_0.17.2_linux_arm7.tar.gz"
+      "name": "writefreely_0.17.3_linux_arm7.tar.gz",
+      "size": 12720435,
+      "url": "https://github.com/writefreely/writefreely/releases/download/v0.17.3/writefreely_0.17.3_linux_arm7.tar.gz"
     }
   ],
   "pinned": false,

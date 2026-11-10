@@ -21,26 +21,26 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/questdb/questdb/zip/refs/heads/master",
   "release": {
-    "tag": "10.1.0",
-    "name": "10.1.0",
-    "published": "2026-10-22T11:48:11Z",
-    "url": "https://github.com/questdb/questdb/releases/tag/10.1.0"
+    "tag": "10.2.0",
+    "name": "10.2.0",
+    "published": "2026-11-10T10:22:14Z",
+    "url": "https://github.com/questdb/questdb/releases/tag/10.2.0"
   },
   "assets": [
     {
-      "name": "questdb-10.1.0-rt-windows-x86-64.tar.gz",
-      "size": 86488172,
-      "url": "https://github.com/questdb/questdb/releases/download/10.1.0/questdb-10.1.0-rt-windows-x86-64.tar.gz"
+      "name": "questdb-10.2.0-rt-windows-x86-64.tar.gz",
+      "size": 91212280,
+      "url": "https://github.com/questdb/questdb/releases/download/10.2.0/questdb-10.2.0-rt-windows-x86-64.tar.gz"
     },
     {
-      "name": "questdb-10.1.0-rt-linux-x86-64.tar.gz",
-      "size": 95654357,
-      "url": "https://github.com/questdb/questdb/releases/download/10.1.0/questdb-10.1.0-rt-linux-x86-64.tar.gz"
+      "name": "questdb-10.2.0-rt-linux-x86-64.tar.gz",
+      "size": 96435860,
+      "url": "https://github.com/questdb/questdb/releases/download/10.2.0/questdb-10.2.0-rt-linux-x86-64.tar.gz"
     },
     {
-      "name": "questdb-10.1.0-no-jre-bin.tar.gz",
-      "size": 34276936,
-      "url": "https://github.com/questdb/questdb/releases/download/10.1.0/questdb-10.1.0-no-jre-bin.tar.gz"
+      "name": "questdb-10.2.0-no-jre-bin.tar.gz",
+      "size": 35037842,
+      "url": "https://github.com/questdb/questdb/releases/download/10.2.0/questdb-10.2.0-no-jre-bin.tar.gz"
     }
   ],
   "pinned": false,

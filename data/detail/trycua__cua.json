@@ -21,41 +21,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/trycua/cua/zip/refs/heads/main",
   "release": {
-    "tag": "cua-spaces-v0.22.3",
-    "name": "Cua Spaces v0.22.3",
-    "published": "2026-11-07T23:51:24Z",
-    "url": "https://github.com/trycua/cua/releases/tag/cua-spaces-v0.22.3"
+    "tag": "cua-spaces-v0.28.1",
+    "name": "Cua Spaces v0.28.1",
+    "published": "2026-11-10T12:30:24Z",
+    "url": "https://github.com/trycua/cua/releases/tag/cua-spaces-v0.28.1"
   },
   "assets": [
     {
-      "name": "Cua-Spaces-Setup-0.22.3-arm64.exe",
-      "size": 201659648,
-      "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.22.3/Cua-Spaces-Setup-0.22.3-arm64.exe"
+      "name": "Cua-Spaces-Setup-0.28.1-arm64.exe",
+      "size": 193734184,
+      "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.28.1/Cua-Spaces-Setup-0.28.1-arm64.exe"
     },
     {
-      "name": "cua-spaces-0.22.3-windows-arm64-setup.exe",
-      "size": 201659648,
-      "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.22.3/cua-spaces-0.22.3-windows-arm64-setup.exe"
+      "name": "cua-spaces-0.28.1-windows-arm64-setup.exe",
+      "size": 193734184,
+      "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.28.1/cua-spaces-0.28.1-windows-arm64-setup.exe"
     },
     {
-      "name": "cua-spaces-0.22.3-darwin-universal.dmg",
-      "size": 345378988,
-      "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.22.3/cua-spaces-0.22.3-darwin-universal.dmg"
+      "name": "cua-spaces-0.28.1-darwin-universal.dmg",
+      "size": 327443578,
+      "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.28.1/cua-spaces-0.28.1-darwin-universal.dmg"
     },
     {
-      "name": "cua-spaces-0.22.3-darwin-universal.pkg",
-      "size": 472768865,
-      "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.22.3/cua-spaces-0.22.3-darwin-universal.pkg"
+      "name": "cua-spaces-0.28.1-darwin-universal.pkg",
+      "size": 448159887,
+      "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.28.1/cua-spaces-0.28.1-darwin-universal.pkg"
     },
     {
-      "name": "cua-spaces-0.22.3-linux-arm64.deb",
-      "size": 213549232,
-      "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.22.3/cua-spaces-0.22.3-linux-arm64.deb"
+      "name": "cua-spaces-0.28.1-linux-arm64.deb",
+      "size": 206525880,
+      "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.28.1/cua-spaces-0.28.1-linux-arm64.deb"
     },
     {
-      "name": "cua-spaces_0.22.3_arm64.deb",
-      "size": 213549232,
-      "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.22.3/cua-spaces_0.22.3_arm64.deb"
+      "name": "cua-spaces_0.28.1_arm64.deb",
+      "size": 206525880,
+      "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.28.1/cua-spaces_0.28.1_arm64.deb"
     }
   ],
   "pinned": false,

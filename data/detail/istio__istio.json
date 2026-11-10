@@ -22,46 +22,46 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/istio/istio/zip/refs/heads/master",
   "release": {
-    "tag": "1.31.4",
-    "name": "Istio 1.31.4",
-    "published": "2026-11-06T19:01:19Z",
-    "url": "https://github.com/istio/istio/releases/tag/1.31.4"
+    "tag": "1.32.0",
+    "name": "Istio 1.32.0",
+    "published": "2026-11-09T19:07:47Z",
+    "url": "https://github.com/istio/istio/releases/tag/1.32.0"
   },
   "assets": [
     {
-      "name": "istioctl-1.31.4-win-amd64.zip",
-      "size": 31776267,
-      "url": "https://github.com/istio/istio/releases/download/1.31.4/istioctl-1.31.4-win-amd64.zip"
+      "name": "istioctl-1.32.0-win-amd64.zip",
+      "size": 33389658,
+      "url": "https://github.com/istio/istio/releases/download/1.32.0/istioctl-1.32.0-win-amd64.zip"
     },
     {
-      "name": "istioctl-1.31.4-win.zip",
-      "size": 31776267,
-      "url": "https://github.com/istio/istio/releases/download/1.31.4/istioctl-1.31.4-win.zip"
+      "name": "istioctl-1.32.0-win.zip",
+      "size": 33389658,
+      "url": "https://github.com/istio/istio/releases/download/1.32.0/istioctl-1.32.0-win.zip"
     },
     {
-      "name": "istioctl-1.31.4-linux-arm64.tar.gz",
-      "size": 26563871,
-      "url": "https://github.com/istio/istio/releases/download/1.31.4/istioctl-1.31.4-linux-arm64.tar.gz"
+      "name": "istioctl-1.32.0-linux-arm64.tar.gz",
+      "size": 26953840,
+      "url": "https://github.com/istio/istio/releases/download/1.32.0/istioctl-1.32.0-linux-arm64.tar.gz"
     },
     {
-      "name": "istio-1.31.4-linux-arm64.tar.gz",
-      "size": 26938597,
-      "url": "https://github.com/istio/istio/releases/download/1.31.4/istio-1.31.4-linux-arm64.tar.gz"
+      "name": "istio-1.32.0-linux-arm64.tar.gz",
+      "size": 27332508,
+      "url": "https://github.com/istio/istio/releases/download/1.32.0/istio-1.32.0-linux-arm64.tar.gz"
     },
     {
       "name": "istio-release.spdx",
-      "size": 6096739,
-      "url": "https://github.com/istio/istio/releases/download/1.31.4/istio-release.spdx"
+      "size": 6097147,
+      "url": "https://github.com/istio/istio/releases/download/1.32.0/istio-release.spdx"
     },
     {
-      "name": "istioctl-1.31.4-osx-arm64.tar.gz",
-      "size": 28049167,
-      "url": "https://github.com/istio/istio/releases/download/1.31.4/istioctl-1.31.4-osx-arm64.tar.gz"
+      "name": "istioctl-1.32.0-osx-arm64.tar.gz",
+      "size": 28488611,
+      "url": "https://github.com/istio/istio/releases/download/1.32.0/istioctl-1.32.0-osx-arm64.tar.gz"
     },
     {
-      "name": "istio-1.31.4-osx-arm64.tar.gz",
-      "size": 28422872,
-      "url": "https://github.com/istio/istio/releases/download/1.31.4/istio-1.31.4-osx-arm64.tar.gz"
+      "name": "istio-1.32.0-osx-arm64.tar.gz",
+      "size": 28869260,
+      "url": "https://github.com/istio/istio/releases/download/1.32.0/istio-1.32.0-osx-arm64.tar.gz"
     }
   ],
   "pinned": false,

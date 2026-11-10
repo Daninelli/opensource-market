@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/strelov1/freehire/zip/refs/heads/main",
   "release": {
-    "tag": "deploy-20261109-0406",
-    "name": "Deploy 2026-11-09 04:06 UTC",
-    "published": "2026-11-09T04:06:18Z",
-    "url": "https://github.com/strelov1/freehire/releases/tag/deploy-20261109-0406"
+    "tag": "deploy-20261110-1315",
+    "name": "Deploy 2026-11-10 13:15 UTC",
+    "published": "2026-11-10T13:15:44Z",
+    "url": "https://github.com/strelov1/freehire/releases/tag/deploy-20261110-1315"
   },
   "assets": [],
   "pinned": false,

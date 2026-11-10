@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Canner/WrenAI/zip/refs/heads/main",
   "release": {
-    "tag": "wren-v0.17.1",
-    "name": "wren: v0.17.1",
-    "published": "2026-10-30T02:01:05Z",
-    "url": "https://github.com/Canner/WrenAI/releases/tag/wren-v0.17.1"
+    "tag": "wren-v0.18.0",
+    "name": "wren: v0.18.0",
+    "published": "2026-11-10T04:05:23Z",
+    "url": "https://github.com/Canner/WrenAI/releases/tag/wren-v0.18.0"
   },
   "assets": [],
   "pinned": false,

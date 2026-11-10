@@ -22,18 +22,18 @@
   "release": {
     "tag": "v2.16.0",
     "name": "v2.16.0",
-    "published": "2026-11-09T07:47:39Z",
+    "published": "2026-11-10T13:28:07Z",
     "url": "https://github.com/goharbor/harbor/releases/tag/v2.16.0"
   },
   "assets": [
     {
       "name": "harbor-offline-installer-v2.16.0-arm64.tgz",
-      "size": 676753212,
+      "size": 677414104,
       "url": "https://github.com/goharbor/harbor/releases/download/v2.16.0/harbor-offline-installer-v2.16.0-arm64.tgz"
     },
     {
       "name": "harbor-offline-installer-v2.16.0-amd64.tgz",
-      "size": 768471195,
+      "size": 769258808,
       "url": "https://github.com/goharbor/harbor/releases/download/v2.16.0/harbor-offline-installer-v2.16.0-amd64.tgz"
     }
   ],

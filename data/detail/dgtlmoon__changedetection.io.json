@@ -22,10 +22,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/dgtlmoon/changedetection.io/zip/refs/heads/master",
   "release": {
-    "tag": "0.70.2",
-    "name": "0.70.2",
-    "published": "2026-11-05T22:55:35Z",
-    "url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.2"
+    "tag": "0.70.3",
+    "name": "0.70.3",
+    "published": "2026-11-09T14:57:31Z",
+    "url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.3"
   },
   "assets": [],
   "pinned": false,

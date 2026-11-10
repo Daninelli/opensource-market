@@ -22,26 +22,26 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/JosefNemec/Playnite/zip/refs/heads/master",
   "release": {
-    "tag": "10.63",
-    "name": "10.63",
-    "published": "2026-10-19T19:39:38Z",
-    "url": "https://github.com/JosefNemec/Playnite/releases/tag/10.63"
+    "tag": "10.64",
+    "name": "10.64",
+    "published": "2026-11-09T13:59:04Z",
+    "url": "https://github.com/JosefNemec/Playnite/releases/tag/10.64"
   },
   "assets": [
     {
-      "name": "1062to1063.exe",
-      "size": 4439895,
-      "url": "https://github.com/JosefNemec/Playnite/releases/download/10.63/1062to1063.exe"
+      "name": "1063to1064.exe",
+      "size": 4162651,
+      "url": "https://github.com/JosefNemec/Playnite/releases/download/10.64/1063to1064.exe"
     },
     {
-      "name": "1061to1063.exe",
-      "size": 4441747,
-      "url": "https://github.com/JosefNemec/Playnite/releases/download/10.63/1061to1063.exe"
+      "name": "1061to1064.exe",
+      "size": 4711250,
+      "url": "https://github.com/JosefNemec/Playnite/releases/download/10.64/1061to1064.exe"
     },
     {
-      "name": "10.63.7z",
-      "size": 133044541,
-      "url": "https://github.com/JosefNemec/Playnite/releases/download/10.63/10.63.7z"
+      "name": "10.64.7z",
+      "size": 140273552,
+      "url": "https://github.com/JosefNemec/Playnite/releases/download/10.64/10.64.7z"
     }
   ],
   "pinned": false,

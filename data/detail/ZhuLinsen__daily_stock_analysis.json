@@ -26,7 +26,28 @@
     "published": "2026-11-09T12:39:03Z",
     "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/tag/v3.34.0"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "daily-stock-analysis-windows-installer-v3.34.0.exe",
+      "size": 245536953,
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/download/v3.34.0/daily-stock-analysis-windows-installer-v3.34.0.exe"
+    },
+    {
+      "name": "daily-stock-analysis-macos-arm64-v3.34.0.dmg",
+      "size": 285520924,
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/download/v3.34.0/daily-stock-analysis-macos-arm64-v3.34.0.dmg"
+    },
+    {
+      "name": "daily-stock-analysis-macos-x64-v3.34.0.dmg",
+      "size": 298459954,
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/download/v3.34.0/daily-stock-analysis-macos-x64-v3.34.0.dmg"
+    },
+    {
+      "name": "daily-stock-analysis-windows-noinstall-v3.34.0.zip",
+      "size": 317600367,
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/download/v3.34.0/daily-stock-analysis-windows-noinstall-v3.34.0.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

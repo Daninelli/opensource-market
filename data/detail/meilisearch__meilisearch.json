@@ -27,14 +27,34 @@
   },
   "assets": [
     {
-      "name": "meilisearch-linux-aarch64",
-      "size": 350940256,
-      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.2/meilisearch-linux-aarch64"
+      "name": "meilisearch-macos-amd64",
+      "size": 351344088,
+      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.2/meilisearch-macos-amd64"
     },
     {
-      "name": "meilisearch-linux-amd64",
-      "size": 357300152,
-      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.2/meilisearch-linux-amd64"
+      "name": "meilisearch-windows-amd64.exe",
+      "size": 353019392,
+      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.2/meilisearch-windows-amd64.exe"
+    },
+    {
+      "name": "meilisearch.deb",
+      "size": 59787156,
+      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.2/meilisearch.deb"
+    },
+    {
+      "name": "meilisearch-linux-riscv64",
+      "size": 350046344,
+      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.2/meilisearch-linux-riscv64"
+    },
+    {
+      "name": "meilisearch-enterprise-macos-amd64",
+      "size": 353150496,
+      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.2/meilisearch-enterprise-macos-amd64"
+    },
+    {
+      "name": "meilisearch-enterprise-windows-amd64.exe",
+      "size": 354613760,
+      "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.56.2/meilisearch-enterprise-windows-amd64.exe"
     }
   ],
   "pinned": false,

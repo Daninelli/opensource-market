@@ -20,36 +20,36 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/kubernetes/kops/zip/refs/heads/master",
   "release": {
-    "tag": "v1.36.2",
-    "name": "v1.36.2",
-    "published": "2026-08-08T14:36:21Z",
-    "url": "https://github.com/kubernetes/kops/releases/tag/v1.36.2"
+    "tag": "v1.37.0",
+    "name": "v1.37.0",
+    "published": "2026-11-10T08:36:58Z",
+    "url": "https://github.com/kubernetes/kops/releases/tag/v1.37.0"
   },
   "assets": [
     {
       "name": "kops-darwin-arm64",
-      "size": 159618114,
-      "url": "https://github.com/kubernetes/kops/releases/download/v1.36.2/kops-darwin-arm64"
+      "size": 77880402,
+      "url": "https://github.com/kubernetes/kops/releases/download/v1.37.0/kops-darwin-arm64"
     },
     {
       "name": "kops-windows-amd64",
-      "size": 175905280,
-      "url": "https://github.com/kubernetes/kops/releases/download/v1.36.2/kops-windows-amd64"
+      "size": 83584512,
+      "url": "https://github.com/kubernetes/kops/releases/download/v1.37.0/kops-windows-amd64"
     },
     {
       "name": "kops-darwin-amd64",
-      "size": 176948544,
-      "url": "https://github.com/kubernetes/kops/releases/download/v1.36.2/kops-darwin-amd64"
+      "size": 84199808,
+      "url": "https://github.com/kubernetes/kops/releases/download/v1.37.0/kops-darwin-amd64"
     },
     {
-      "name": "protokube-linux-arm64",
-      "size": 88735906,
-      "url": "https://github.com/kubernetes/kops/releases/download/v1.36.2/protokube-linux-arm64"
+      "name": "nodeup-linux-arm64.xz",
+      "size": 7297816,
+      "url": "https://github.com/kubernetes/kops/releases/download/v1.37.0/nodeup-linux-arm64.xz"
     },
     {
-      "name": "protokube-linux-amd64",
-      "size": 99664034,
-      "url": "https://github.com/kubernetes/kops/releases/download/v1.36.2/protokube-linux-amd64"
+      "name": "nodeup-linux-amd64.xz",
+      "size": 8662056,
+      "url": "https://github.com/kubernetes/kops/releases/download/v1.37.0/nodeup-linux-amd64.xz"
     }
   ],
   "pinned": false,

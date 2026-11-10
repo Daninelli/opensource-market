@@ -23,31 +23,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/nicotsx/zerobyte/zip/refs/heads/main",
   "release": {
-    "tag": "v0.44.1",
-    "name": "v0.44.1",
-    "published": "2026-11-07T11:51:21Z",
-    "url": "https://github.com/nicotsx/zerobyte/releases/tag/v0.44.1"
+    "tag": "v0.44.2",
+    "name": "v0.44.2",
+    "published": "2026-11-09T21:21:42Z",
+    "url": "https://github.com/nicotsx/zerobyte/releases/tag/v0.44.2"
   },
   "assets": [
     {
-      "name": "zerobyte-v0.44.1-win-x64.exe",
-      "size": 181068907,
-      "url": "https://github.com/nicotsx/zerobyte/releases/download/v0.44.1/zerobyte-v0.44.1-win-x64.exe"
+      "name": "zerobyte-v0.44.2-win-x64.exe",
+      "size": 181074108,
+      "url": "https://github.com/nicotsx/zerobyte/releases/download/v0.44.2/zerobyte-v0.44.2-win-x64.exe"
     },
     {
-      "name": "zerobyte-v0.44.1-mac-arm64.dmg",
-      "size": 181135495,
-      "url": "https://github.com/nicotsx/zerobyte/releases/download/v0.44.1/zerobyte-v0.44.1-mac-arm64.dmg"
+      "name": "zerobyte-v0.44.2-mac-arm64.dmg",
+      "size": 181144450,
+      "url": "https://github.com/nicotsx/zerobyte/releases/download/v0.44.2/zerobyte-v0.44.2-mac-arm64.dmg"
     },
     {
       "name": "zerobyte-agent-linux-x64",
-      "size": 110008496,
-      "url": "https://github.com/nicotsx/zerobyte/releases/download/v0.44.1/zerobyte-agent-linux-x64"
+      "size": 110012592,
+      "url": "https://github.com/nicotsx/zerobyte/releases/download/v0.44.2/zerobyte-agent-linux-x64"
     },
     {
       "name": "zerobyte-agent-linux-arm64",
       "size": 110087160,
-      "url": "https://github.com/nicotsx/zerobyte/releases/download/v0.44.1/zerobyte-agent-linux-arm64"
+      "url": "https://github.com/nicotsx/zerobyte/releases/download/v0.44.2/zerobyte-agent-linux-arm64"
     }
   ],
   "pinned": false,

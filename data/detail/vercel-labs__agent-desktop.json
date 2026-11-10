@@ -1,0 +1,68 @@
+{
+  "repo": "vercel-labs/agent-desktop",
+  "slug": "vercel-labs__agent-desktop",
+  "name": "agent-desktop",
+  "note_zh": "给 AI 智能体操作桌面应用的 CLI：读系统无障碍树定位元素，不靠截图和像素匹配",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "Apache-2.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Rust",
+    "Node.js",
+    "MCP"
+  ],
+  "deploy_type": "命令行 / 依赖库",
+  "platform": "github",
+  "updated_at": "2026-11-10T10:47:38Z",
+  "added_at": "2026-11-10T22:11:08+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/vercel-labs/agent-desktop/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.2.0",
+    "name": "v1.2.0",
+    "published": "2026-11-05T02:43:54Z",
+    "url": "https://github.com/vercel-labs/agent-desktop/releases/tag/v1.2.0"
+  },
+  "assets": [
+    {
+      "name": "agent-desktop-ffi-v1.2.0-aarch64-pc-windows-msvc.zip",
+      "size": 1459853,
+      "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.2.0/agent-desktop-ffi-v1.2.0-aarch64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "agent-desktop-ffi-v1.2.0-x86_64-pc-windows-msvc.zip",
+      "size": 1504738,
+      "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.2.0/agent-desktop-ffi-v1.2.0-x86_64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "agent-desktop-ffi-v1.2.0-aarch64-apple-darwin.tar.gz",
+      "size": 1911484,
+      "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.2.0/agent-desktop-ffi-v1.2.0-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "agent-desktop-ffi-v1.2.0-x86_64-apple-darwin.tar.gz",
+      "size": 2017863,
+      "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.2.0/agent-desktop-ffi-v1.2.0-x86_64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "agent-desktop-ffi-v1.2.0-aarch64-unknown-linux-gnu.tar.gz",
+      "size": 3304668,
+      "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.2.0/agent-desktop-ffi-v1.2.0-aarch64-unknown-linux-gnu.tar.gz"
+    },
+    {
+      "name": "agent-desktop-v1.2.0-aarch64-unknown-linux-gnu.tar.gz",
+      "size": 3333305,
+      "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.2.0/agent-desktop-v1.2.0-aarch64-unknown-linux-gnu.tar.gz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

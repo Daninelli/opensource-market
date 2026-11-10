@@ -20,16 +20,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/jacomyal/sigma.js/zip/refs/heads/main",
   "release": {
-    "tag": "sigma@4.0.5",
-    "name": "sigma@4.0.5",
-    "published": "2026-11-09T10:39:53Z",
-    "url": "https://github.com/jacomyal/sigma.js/releases/tag/sigma%404.0.5"
+    "tag": "sigma@4.0.6",
+    "name": "sigma@4.0.6",
+    "published": "2026-11-10T11:24:25Z",
+    "url": "https://github.com/jacomyal/sigma.js/releases/tag/sigma%404.0.6"
   },
   "assets": [
     {
       "name": "sigma.min.js",
-      "size": 393746,
-      "url": "https://github.com/jacomyal/sigma.js/releases/download/sigma%404.0.5/sigma.min.js"
+      "size": 393874,
+      "url": "https://github.com/jacomyal/sigma.js/releases/download/sigma%404.0.6/sigma.min.js"
     }
   ],
   "pinned": false,

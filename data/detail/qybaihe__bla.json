@@ -22,21 +22,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/qybaihe/bla/zip/refs/heads/main",
   "release": {
-    "tag": "bla-agents-3.2.1",
-    "name": "bla-agents: v3.2.1",
-    "published": "2026-11-09T06:24:42Z",
-    "url": "https://github.com/qybaihe/bla/releases/tag/bla-agents-3.2.1"
+    "tag": "bla-agents-3.2.3",
+    "name": "bla-agents: v3.2.3",
+    "published": "2026-11-10T09:55:57Z",
+    "url": "https://github.com/qybaihe/bla/releases/tag/bla-agents-3.2.3"
   },
   "assets": [
     {
-      "name": "bla-agents-3.2.1.tgz",
-      "size": 695187,
-      "url": "https://github.com/qybaihe/bla/releases/download/bla-agents-3.2.1/bla-agents-3.2.1.tgz"
+      "name": "bla-agents-3.2.3.tgz",
+      "size": 714077,
+      "url": "https://github.com/qybaihe/bla/releases/download/bla-agents-3.2.3/bla-agents-3.2.3.tgz"
     },
     {
-      "name": "bla-shield-3.2.1.tgz",
-      "size": 695205,
-      "url": "https://github.com/qybaihe/bla/releases/download/bla-agents-3.2.1/bla-shield-3.2.1.tgz"
+      "name": "bla-shield-3.2.3.tgz",
+      "size": 714086,
+      "url": "https://github.com/qybaihe/bla/releases/download/bla-agents-3.2.3/bla-shield-3.2.3.tgz"
     }
   ],
   "pinned": false,

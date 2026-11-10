@@ -20,36 +20,36 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/anchore/grype/zip/refs/heads/main",
   "release": {
-    "tag": "v0.121.2",
-    "name": "v0.121.2",
-    "published": "2026-11-05T21:22:53Z",
-    "url": "https://github.com/anchore/grype/releases/tag/v0.121.2"
+    "tag": "v0.121.3",
+    "name": "v0.121.3",
+    "published": "2026-11-09T15:17:25Z",
+    "url": "https://github.com/anchore/grype/releases/tag/v0.121.3"
   },
   "assets": [
     {
-      "name": "grype_0.121.2_darwin_arm64.tar.gz",
-      "size": 29435294,
-      "url": "https://github.com/anchore/grype/releases/download/v0.121.2/grype_0.121.2_darwin_arm64.tar.gz"
+      "name": "grype_0.121.3_darwin_arm64.tar.gz",
+      "size": 29409096,
+      "url": "https://github.com/anchore/grype/releases/download/v0.121.3/grype_0.121.3_darwin_arm64.tar.gz"
     },
     {
-      "name": "grype_0.121.2_windows_amd64.zip",
-      "size": 31559761,
-      "url": "https://github.com/anchore/grype/releases/download/v0.121.2/grype_0.121.2_windows_amd64.zip"
+      "name": "grype_0.121.3_windows_amd64.zip",
+      "size": 31540314,
+      "url": "https://github.com/anchore/grype/releases/download/v0.121.3/grype_0.121.3_windows_amd64.zip"
     },
     {
-      "name": "grype_0.121.2_darwin_amd64.tar.gz",
-      "size": 32220794,
-      "url": "https://github.com/anchore/grype/releases/download/v0.121.2/grype_0.121.2_darwin_amd64.tar.gz"
+      "name": "grype_0.121.3_darwin_amd64.tar.gz",
+      "size": 32190865,
+      "url": "https://github.com/anchore/grype/releases/download/v0.121.3/grype_0.121.3_darwin_amd64.tar.gz"
     },
     {
-      "name": "grype_0.121.2_linux_arm64.rpm",
-      "size": 29581394,
-      "url": "https://github.com/anchore/grype/releases/download/v0.121.2/grype_0.121.2_linux_arm64.rpm"
+      "name": "grype_0.121.3_linux_arm64.rpm",
+      "size": 29557540,
+      "url": "https://github.com/anchore/grype/releases/download/v0.121.3/grype_0.121.3_linux_arm64.rpm"
     },
     {
-      "name": "grype_0.121.2_linux_ppc64le.rpm",
-      "size": 29627503,
-      "url": "https://github.com/anchore/grype/releases/download/v0.121.2/grype_0.121.2_linux_ppc64le.rpm"
+      "name": "grype_0.121.3_linux_ppc64le.rpm",
+      "size": 29605859,
+      "url": "https://github.com/anchore/grype/releases/download/v0.121.3/grype_0.121.3_linux_ppc64le.rpm"
     }
   ],
   "pinned": false,

@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/puppeteer/puppeteer/zip/refs/heads/main",
   "release": {
-    "tag": "browsers-v3.2.6",
-    "name": "browsers: v3.2.6",
-    "published": "2026-10-22T11:49:31Z",
-    "url": "https://github.com/puppeteer/puppeteer/releases/tag/browsers-v3.2.6"
+    "tag": "browsers-v3.2.7",
+    "name": "browsers: v3.2.7",
+    "published": "2026-11-10T14:02:50Z",
+    "url": "https://github.com/puppeteer/puppeteer/releases/tag/browsers-v3.2.7"
   },
   "assets": [],
   "pinned": false,

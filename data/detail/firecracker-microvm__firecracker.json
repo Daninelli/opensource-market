@@ -22,26 +22,26 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/firecracker-microvm/firecracker/zip/refs/heads/main",
   "release": {
-    "tag": "v1.17.0",
-    "name": "Firecracker v1.17.0",
-    "published": "2026-09-10T14:19:40Z",
-    "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.17.0"
+    "tag": "v1.18.0",
+    "name": "Firecracker v1.18.0",
+    "published": "2026-11-09T14:08:01Z",
+    "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.18.0"
   },
   "assets": [
     {
-      "name": "firecracker-v1.17.0-aarch64.tgz",
-      "size": 7294031,
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/download/v1.17.0/firecracker-v1.17.0-aarch64.tgz"
+      "name": "firecracker-v1.18.0-aarch64.tgz",
+      "size": 7438783,
+      "url": "https://github.com/firecracker-microvm/firecracker/releases/download/v1.18.0/firecracker-v1.18.0-aarch64.tgz"
     },
     {
-      "name": "firecracker-v1.17.0-x86_64.tgz",
-      "size": 7464385,
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/download/v1.17.0/firecracker-v1.17.0-x86_64.tgz"
+      "name": "firecracker-v1.18.0-x86_64.tgz",
+      "size": 7606252,
+      "url": "https://github.com/firecracker-microvm/firecracker/releases/download/v1.18.0/firecracker-v1.18.0-x86_64.tgz"
     },
     {
       "name": "test_results.tar.gz",
-      "size": 13204949,
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/download/v1.17.0/test_results.tar.gz"
+      "size": 13287387,
+      "url": "https://github.com/firecracker-microvm/firecracker/releases/download/v1.18.0/test_results.tar.gz"
     }
   ],
   "pinned": false,

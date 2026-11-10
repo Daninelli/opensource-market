@@ -21,21 +21,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/chadyi/StudyOnTV/zip/refs/heads/main",
   "release": {
-    "tag": "v0.3.21",
-    "name": "v0.3.21",
-    "published": "2026-11-07T13:37:03Z",
-    "url": "https://github.com/chadyi/StudyOnTV/releases/tag/v0.3.21"
+    "tag": "v0.3.24",
+    "name": "v0.3.24",
+    "published": "2026-11-10T11:30:20Z",
+    "url": "https://github.com/chadyi/StudyOnTV/releases/tag/v0.3.24"
   },
   "assets": [
     {
-      "name": "StudyOnTV-Android-TV-v0.3.21.apk",
-      "size": 2321818,
-      "url": "https://github.com/chadyi/StudyOnTV/releases/download/v0.3.21/StudyOnTV-Android-TV-v0.3.21.apk"
+      "name": "StudyOnTV-Android-TV-v0.3.24.apk",
+      "size": 3372128,
+      "url": "https://github.com/chadyi/StudyOnTV/releases/download/v0.3.24/StudyOnTV-Android-TV-v0.3.24.apk"
     },
     {
-      "name": "StudyOnTV-Mobile-v0.3.21.apk",
-      "size": 2323740,
-      "url": "https://github.com/chadyi/StudyOnTV/releases/download/v0.3.21/StudyOnTV-Mobile-v0.3.21.apk"
+      "name": "StudyOnTV-Mobile-v0.3.24.apk",
+      "size": 3374189,
+      "url": "https://github.com/chadyi/StudyOnTV/releases/download/v0.3.24/StudyOnTV-Mobile-v0.3.24.apk"
     }
   ],
   "pinned": false,

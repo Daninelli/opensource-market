@@ -57,11 +57,6 @@
       "name": "AlgerMusicPlayer-5.1.0-linux-x86_64.rpm",
       "size": 101551005,
       "url": "https://github.com/algerkong/AlgerMusicPlayer/releases/download/v5.1.0/AlgerMusicPlayer-5.1.0-linux-x86_64.rpm"
-    },
-    {
-      "name": "AlgerMusicPlayer-5.1.0.apk",
-      "size": 17326187,
-      "url": "https://github.com/algerkong/AlgerMusicPlayer/releases/download/v5.1.0/AlgerMusicPlayer-5.1.0.apk"
     }
   ],
   "pinned": false,

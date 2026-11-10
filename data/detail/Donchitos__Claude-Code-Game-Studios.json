@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Donchitos/Claude-Code-Game-Studios/zip/refs/heads/main",
   "release": {
-    "tag": "v1.2.0",
-    "name": "v1.2.0 — the main path, rebuilt and tested",
-    "published": "2026-10-19T02:44:23Z",
-    "url": "https://github.com/Donchitos/Claude-Code-Game-Studios/releases/tag/v1.2.0"
+    "tag": "v1.3.0",
+    "name": "v1.3.0 — make me a game",
+    "published": "2026-11-09T15:24:15Z",
+    "url": "https://github.com/Donchitos/Claude-Code-Game-Studios/releases/tag/v1.3.0"
   },
   "assets": [],
   "pinned": false,

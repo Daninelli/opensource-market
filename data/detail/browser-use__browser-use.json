@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/browser-use/browser-use/zip/refs/heads/main",
   "release": {
-    "tag": "0.13.14",
-    "name": "0.13.14: Python agent and integration updates",
-    "published": "2026-10-26T22:00:34Z",
-    "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.14"
+    "tag": "1.0.1",
+    "name": "browser-use 1.0.1",
+    "published": "2026-11-10T09:27:28Z",
+    "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.1"
   },
   "assets": [],
   "pinned": false,

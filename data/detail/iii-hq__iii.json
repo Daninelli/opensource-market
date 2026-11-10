@@ -21,31 +21,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/iii-hq/iii/zip/refs/heads/main",
   "release": {
-    "tag": "iii/v0.25.1",
-    "name": "iii 0.25.1",
-    "published": "2026-11-05T12:03:08Z",
-    "url": "https://github.com/iii-hq/iii/releases/tag/iii/v0.25.1"
+    "tag": "iii/v0.26.0",
+    "name": "iii 0.26.0",
+    "published": "2026-11-09T22:44:49Z",
+    "url": "https://github.com/iii-hq/iii/releases/tag/iii/v0.26.0"
   },
   "assets": [
     {
-      "name": "iii-init-aarch64-apple-darwin.tar.gz",
-      "size": 945330,
-      "url": "https://github.com/iii-hq/iii/releases/download/iii/v0.25.1/iii-init-aarch64-apple-darwin.tar.gz"
+      "name": "iii-aarch64-apple-darwin.tar.gz",
+      "size": 11945450,
+      "url": "https://github.com/iii-hq/iii/releases/download/iii/v0.26.0/iii-aarch64-apple-darwin.tar.gz"
     },
     {
-      "name": "iii-init-x86_64-apple-darwin.tar.gz",
-      "size": 1038690,
-      "url": "https://github.com/iii-hq/iii/releases/download/iii/v0.25.1/iii-init-x86_64-apple-darwin.tar.gz"
+      "name": "iii-i686-pc-windows-msvc.zip",
+      "size": 12231599,
+      "url": "https://github.com/iii-hq/iii/releases/download/iii/v0.26.0/iii-i686-pc-windows-msvc.zip"
     },
     {
-      "name": "iii-init-aarch64-unknown-linux-gnu.tar.gz",
-      "size": 945330,
-      "url": "https://github.com/iii-hq/iii/releases/download/iii/v0.25.1/iii-init-aarch64-unknown-linux-gnu.tar.gz"
+      "name": "iii-aarch64-pc-windows-msvc.zip",
+      "size": 12657376,
+      "url": "https://github.com/iii-hq/iii/releases/download/iii/v0.26.0/iii-aarch64-pc-windows-msvc.zip"
     },
     {
-      "name": "iii-init-aarch64-unknown-linux-musl.tar.gz",
-      "size": 945330,
-      "url": "https://github.com/iii-hq/iii/releases/download/iii/v0.25.1/iii-init-aarch64-unknown-linux-musl.tar.gz"
+      "name": "iii-x86_64-apple-darwin.tar.gz",
+      "size": 13138437,
+      "url": "https://github.com/iii-hq/iii/releases/download/iii/v0.26.0/iii-x86_64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "iii-aarch64-unknown-linux-gnu.tar.gz",
+      "size": 12387390,
+      "url": "https://github.com/iii-hq/iii/releases/download/iii/v0.26.0/iii-aarch64-unknown-linux-gnu.tar.gz"
+    },
+    {
+      "name": "iii-armv7-unknown-linux-gnueabihf.tar.gz",
+      "size": 12697208,
+      "url": "https://github.com/iii-hq/iii/releases/download/iii/v0.26.0/iii-armv7-unknown-linux-gnueabihf.tar.gz"
     }
   ],
   "pinned": false,

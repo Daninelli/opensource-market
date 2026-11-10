@@ -22,10 +22,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/vuetifyjs/vuetify/zip/refs/heads/master",
   "release": {
-    "tag": "v4.3.2",
-    "name": "v4.3.2",
-    "published": "2026-11-03T23:17:42Z",
-    "url": "https://github.com/vuetifyjs/vuetify/releases/tag/v4.3.2"
+    "tag": "v4.3.3",
+    "name": "v4.3.3",
+    "published": "2026-11-09T18:54:07Z",
+    "url": "https://github.com/vuetifyjs/vuetify/releases/tag/v4.3.3"
   },
   "assets": [],
   "pinned": false,

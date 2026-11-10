@@ -21,16 +21,26 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/firezone/firezone/zip/refs/heads/main",
   "release": {
-    "tag": "android-client-1.5.18",
-    "name": "android-client-1.5.18",
-    "published": "2026-11-04T21:36:21Z",
-    "url": "https://github.com/firezone/firezone/releases/tag/android-client-1.5.18"
+    "tag": "headless-client-1.5.16",
+    "name": "headless-client-1.5.16",
+    "published": "2026-11-10T02:43:22Z",
+    "url": "https://github.com/firezone/firezone/releases/tag/headless-client-1.5.16"
   },
   "assets": [
     {
-      "name": "firezone-android-client-1.5.18.apk",
-      "size": 73105966,
-      "url": "https://github.com/firezone/firezone/releases/download/android-client-1.5.18/firezone-android-client-1.5.18.apk"
+      "name": "firezone-client-headless-windows_1.5.16_x86_64.exe",
+      "size": 20282160,
+      "url": "https://github.com/firezone/firezone/releases/download/headless-client-1.5.16/firezone-client-headless-windows_1.5.16_x86_64.exe"
+    },
+    {
+      "name": "firezone-client-headless-linux_1.5.16_aarch64",
+      "size": 24248168,
+      "url": "https://github.com/firezone/firezone/releases/download/headless-client-1.5.16/firezone-client-headless-linux_1.5.16_aarch64"
+    },
+    {
+      "name": "firezone-client-headless-linux_1.5.16_armv7",
+      "size": 25019316,
+      "url": "https://github.com/firezone/firezone/releases/download/headless-client-1.5.16/firezone-client-headless-linux_1.5.16_armv7"
     }
   ],
   "pinned": false,

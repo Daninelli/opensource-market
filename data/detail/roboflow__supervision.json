@@ -22,21 +22,21 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/roboflow/supervision/zip/refs/heads/develop",
   "release": {
-    "tag": "0.31.5",
-    "name": "supervision-0.31.5",
-    "published": "2026-11-05T18:35:25Z",
-    "url": "https://github.com/roboflow/supervision/releases/tag/0.31.5"
+    "tag": "0.31.6",
+    "name": "supervision-0.31.6",
+    "published": "2026-11-10T11:12:15Z",
+    "url": "https://github.com/roboflow/supervision/releases/tag/0.31.6"
   },
   "assets": [
     {
-      "name": "supervision-0.31.5.tar.gz",
-      "size": 447144,
-      "url": "https://github.com/roboflow/supervision/releases/download/0.31.5/supervision-0.31.5.tar.gz"
+      "name": "supervision-0.31.6.tar.gz",
+      "size": 455458,
+      "url": "https://github.com/roboflow/supervision/releases/download/0.31.6/supervision-0.31.6.tar.gz"
     },
     {
-      "name": "supervision-0.31.5-py3-none-any.whl",
-      "size": 489661,
-      "url": "https://github.com/roboflow/supervision/releases/download/0.31.5/supervision-0.31.5-py3-none-any.whl"
+      "name": "supervision-0.31.6-py3-none-any.whl",
+      "size": 498209,
+      "url": "https://github.com/roboflow/supervision/releases/download/0.31.6/supervision-0.31.6-py3-none-any.whl"
     }
   ],
   "pinned": false,

@@ -22,10 +22,10 @@
   "default_branch": "2.0",
   "download_url": "https://codeload.github.com/horilla/horilla-hr/zip/refs/heads/2.0",
   "release": {
-    "tag": "2.3.1",
-    "name": "2.3.1",
-    "published": "2026-11-08T18:12:59Z",
-    "url": "https://github.com/horilla/horilla-hr/releases/tag/2.3.1"
+    "tag": "2.4.0",
+    "name": "2.4.0",
+    "published": "2026-11-10T14:01:20Z",
+    "url": "https://github.com/horilla/horilla-hr/releases/tag/2.4.0"
   },
   "assets": [],
   "pinned": false,

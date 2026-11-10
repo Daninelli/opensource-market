@@ -1,10 +1,25 @@
 {
-  "generated_at": "2026-11-09T13:20:49.110Z",
+  "generated_at": "2026-11-10T14:14:51.291Z",
   "refreshed_at": "2026-11-09T11:31:32.693Z",
   "days": 7,
-  "total_projects": 1708,
-  "count": 8,
+  "total_projects": 1709,
+  "count": 9,
   "items": [
+    {
+      "name": "agent-desktop",
+      "repo": "vercel-labs/agent-desktop",
+      "added_at": "2026-11-10T22:11:08+08:00",
+      "category": "工具",
+      "category_slug": "tool",
+      "subcategory": "智能体",
+      "note_zh": "给 AI 智能体操作桌面应用的 CLI：读系统无障碍树定位元素，不靠截图和像素匹配",
+      "license": "Apache-2.0",
+      "stars": 21107,
+      "updated_at": "2026-11-10T10:47:38Z",
+      "download_url": "https://codeload.github.com/vercel-labs/agent-desktop/zip/refs/heads/main",
+      "platform": "github",
+      "submitted_by": null
+    },
     {
       "name": "Pantry Pal",
       "repo": "hoangsonww/PantryPal-Streamlit-App",

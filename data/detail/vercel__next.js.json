@@ -22,10 +22,10 @@
   "default_branch": "canary",
   "download_url": "https://codeload.github.com/vercel/next.js/zip/refs/heads/canary",
   "release": {
-    "tag": "v16.4.5",
-    "name": "v16.4.5",
-    "published": "2026-11-03T18:38:39Z",
-    "url": "https://github.com/vercel/next.js/releases/tag/v16.4.5"
+    "tag": "v16.4.6",
+    "name": "v16.4.6",
+    "published": "2026-11-09T20:27:17Z",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.4.6"
   },
   "assets": [],
   "pinned": false,

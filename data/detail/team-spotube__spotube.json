@@ -21,41 +21,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/team-spotube/spotube/zip/refs/heads/master",
   "release": {
-    "tag": "v6.0.0-beta.0",
-    "name": "v6.0.0-beta.0",
-    "published": "2026-10-30T12:01:45Z",
-    "url": "https://github.com/team-spotube/spotube/releases/tag/v6.0.0-beta.0"
+    "tag": "v6.0.0",
+    "name": "v6.0.0",
+    "published": "2026-11-10T03:40:12Z",
+    "url": "https://github.com/team-spotube/spotube/releases/tag/v6.0.0"
   },
   "assets": [
     {
       "name": "Spotube-windows-x86_64-setup.exe",
-      "size": 60036825,
-      "url": "https://github.com/team-spotube/spotube/releases/download/v6.0.0-beta.0/Spotube-windows-x86_64-setup.exe"
+      "size": 59710583,
+      "url": "https://github.com/team-spotube/spotube/releases/download/v6.0.0/Spotube-windows-x86_64-setup.exe"
     },
     {
-      "name": "Spotube-macos-universal.dmg",
-      "size": 85042970,
-      "url": "https://github.com/team-spotube/spotube/releases/download/v6.0.0-beta.0/Spotube-macos-universal.dmg"
+      "name": "Spotube-macos-apple-silicon.dmg",
+      "size": 83345571,
+      "url": "https://github.com/team-spotube/spotube/releases/download/v6.0.0/Spotube-macos-apple-silicon.dmg"
     },
     {
-      "name": "spotube-linux-6.0.0-beta.0-aarch64.tar.xz",
-      "size": 49232876,
-      "url": "https://github.com/team-spotube/spotube/releases/download/v6.0.0-beta.0/spotube-linux-6.0.0-beta.0-aarch64.tar.xz"
+      "name": "spotube-linux-6.0.0-aarch64.tar.xz",
+      "size": 47947688,
+      "url": "https://github.com/team-spotube/spotube/releases/download/v6.0.0/spotube-linux-6.0.0-aarch64.tar.xz"
     },
     {
       "name": "Spotube-linux-aarch64.rpm",
-      "size": 49360849,
-      "url": "https://github.com/team-spotube/spotube/releases/download/v6.0.0-beta.0/Spotube-linux-aarch64.rpm"
+      "size": 48042329,
+      "url": "https://github.com/team-spotube/spotube/releases/download/v6.0.0/Spotube-linux-aarch64.rpm"
     },
     {
       "name": "Spotube-ios.ipa",
-      "size": 30157790,
-      "url": "https://github.com/team-spotube/spotube/releases/download/v6.0.0-beta.0/Spotube-ios.ipa"
+      "size": 45020424,
+      "url": "https://github.com/team-spotube/spotube/releases/download/v6.0.0/Spotube-ios.ipa"
     },
     {
       "name": "Spotube-android-all-arch.apk",
-      "size": 78893174,
-      "url": "https://github.com/team-spotube/spotube/releases/download/v6.0.0-beta.0/Spotube-android-all-arch.apk"
+      "size": 76622081,
+      "url": "https://github.com/team-spotube/spotube/releases/download/v6.0.0/Spotube-android-all-arch.apk"
     }
   ],
   "pinned": false,

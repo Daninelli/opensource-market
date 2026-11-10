@@ -21,31 +21,31 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/sql-js/sql.js/zip/refs/heads/master",
   "release": {
-    "tag": "v1.15.2",
-    "name": "Release v1.15.2",
-    "published": "2026-10-26T11:16:44Z",
-    "url": "https://github.com/sql-js/sql.js/releases/tag/v1.15.2"
+    "tag": "v1.16.0",
+    "name": "Release v1.16.0",
+    "published": "2026-11-10T10:43:33Z",
+    "url": "https://github.com/sql-js/sql.js/releases/tag/v1.16.0"
   },
   "assets": [
     {
       "name": "sqljs-wasm.zip",
-      "size": 353101,
-      "url": "https://github.com/sql-js/sql.js/releases/download/v1.15.2/sqljs-wasm.zip"
+      "size": 354582,
+      "url": "https://github.com/sql-js/sql.js/releases/download/v1.16.0/sqljs-wasm.zip"
     },
     {
       "name": "sqljs-worker-wasm.zip",
-      "size": 354007,
-      "url": "https://github.com/sql-js/sql.js/releases/download/v1.15.2/sqljs-worker-wasm.zip"
+      "size": 355520,
+      "url": "https://github.com/sql-js/sql.js/releases/download/v1.16.0/sqljs-worker-wasm.zip"
     },
     {
       "name": "sql-wasm-inline.js",
-      "size": 960768,
-      "url": "https://github.com/sql-js/sql.js/releases/download/v1.15.2/sql-wasm-inline.js"
+      "size": 964922,
+      "url": "https://github.com/sql-js/sql.js/releases/download/v1.16.0/sql-wasm-inline.js"
     },
     {
       "name": "worker.sql-wasm-inline.js",
-      "size": 964232,
-      "url": "https://github.com/sql-js/sql.js/releases/download/v1.15.2/worker.sql-wasm-inline.js"
+      "size": 968579,
+      "url": "https://github.com/sql-js/sql.js/releases/download/v1.16.0/worker.sql-wasm-inline.js"
     }
   ],
   "pinned": false,

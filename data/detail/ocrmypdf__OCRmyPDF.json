@@ -22,21 +22,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ocrmypdf/OCRmyPDF/zip/refs/heads/main",
   "release": {
-    "tag": "v17.14.0",
-    "name": "v17.14.0",
-    "published": "2026-11-08T21:00:59Z",
-    "url": "https://github.com/ocrmypdf/OCRmyPDF/releases/tag/v17.14.0"
+    "tag": "v17.14.1",
+    "name": "v17.14.1",
+    "published": "2026-11-09T21:41:43Z",
+    "url": "https://github.com/ocrmypdf/OCRmyPDF/releases/tag/v17.14.1"
   },
   "assets": [
     {
-      "name": "ocrmypdf-17.14.0-py3-none-any.whl",
-      "size": 591907,
-      "url": "https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.14.0/ocrmypdf-17.14.0-py3-none-any.whl"
+      "name": "ocrmypdf-17.14.1-py3-none-any.whl",
+      "size": 592628,
+      "url": "https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.14.1/ocrmypdf-17.14.1-py3-none-any.whl"
     },
     {
-      "name": "ocrmypdf-17.14.0.tar.gz",
-      "size": 7779582,
-      "url": "https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.14.0/ocrmypdf-17.14.0.tar.gz"
+      "name": "ocrmypdf-17.14.1.tar.gz",
+      "size": 7781722,
+      "url": "https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.14.1/ocrmypdf-17.14.1.tar.gz"
     }
   ],
   "pinned": false,

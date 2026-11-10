@@ -21,10 +21,10 @@
   "default_branch": "v5",
   "download_url": "https://codeload.github.com/jackyzha0/quartz/zip/refs/heads/v5",
   "release": {
-    "tag": "v4.0.8",
-    "name": "Quartz v4",
-    "published": "2023-08-21T00:09:41Z",
-    "url": "https://github.com/jackyzha0/quartz/releases/tag/v4.0.8"
+    "tag": "v5.1.0",
+    "name": "Quartz 5.1.0",
+    "published": "2026-11-09T22:53:02Z",
+    "url": "https://github.com/jackyzha0/quartz/releases/tag/v5.1.0"
   },
   "assets": [],
   "pinned": false,

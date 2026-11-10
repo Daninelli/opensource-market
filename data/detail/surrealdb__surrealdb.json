@@ -20,36 +20,36 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/surrealdb/surrealdb/zip/refs/heads/main",
   "release": {
-    "tag": "v4.0.0",
-    "name": "Release 4.0.0",
-    "published": "2026-11-03T15:22:58Z",
-    "url": "https://github.com/surrealdb/surrealdb/releases/tag/v4.0.0"
+    "tag": "v4.0.1",
+    "name": "Release 4.0.1",
+    "published": "2026-11-09T16:56:21Z",
+    "url": "https://github.com/surrealdb/surrealdb/releases/tag/v4.0.1"
   },
   "assets": [
     {
-      "name": "surreal-v4.0.0.darwin-arm64.tgz",
-      "size": 79726294,
-      "url": "https://github.com/surrealdb/surrealdb/releases/download/v4.0.0/surreal-v4.0.0.darwin-arm64.tgz"
+      "name": "surreal-v4.0.1.darwin-arm64.tgz",
+      "size": 79726340,
+      "url": "https://github.com/surrealdb/surrealdb/releases/download/v4.0.1/surreal-v4.0.1.darwin-arm64.tgz"
     },
     {
-      "name": "surreal-v4.0.0.darwin-amd64.tgz",
-      "size": 88267796,
-      "url": "https://github.com/surrealdb/surrealdb/releases/download/v4.0.0/surreal-v4.0.0.darwin-amd64.tgz"
+      "name": "surreal-v4.0.1.darwin-amd64.tgz",
+      "size": 90539833,
+      "url": "https://github.com/surrealdb/surrealdb/releases/download/v4.0.1/surreal-v4.0.1.darwin-amd64.tgz"
     },
     {
-      "name": "surreal-v4.0.0.windows-amd64.exe",
-      "size": 286956032,
-      "url": "https://github.com/surrealdb/surrealdb/releases/download/v4.0.0/surreal-v4.0.0.windows-amd64.exe"
+      "name": "surreal-v4.0.1.windows-amd64.exe",
+      "size": 286978048,
+      "url": "https://github.com/surrealdb/surrealdb/releases/download/v4.0.1/surreal-v4.0.1.windows-amd64.exe"
     },
     {
-      "name": "surreal-v4.0.0.linux-arm64.tgz",
-      "size": 83312743,
-      "url": "https://github.com/surrealdb/surrealdb/releases/download/v4.0.0/surreal-v4.0.0.linux-arm64.tgz"
+      "name": "surreal-v4.0.1.linux-arm64.tgz",
+      "size": 83316793,
+      "url": "https://github.com/surrealdb/surrealdb/releases/download/v4.0.1/surreal-v4.0.1.linux-arm64.tgz"
     },
     {
-      "name": "surreal-v4.0.0.linux-amd64.tgz",
-      "size": 88781210,
-      "url": "https://github.com/surrealdb/surrealdb/releases/download/v4.0.0/surreal-v4.0.0.linux-amd64.tgz"
+      "name": "surreal-v4.0.1.linux-amd64.tgz",
+      "size": 88793430,
+      "url": "https://github.com/surrealdb/surrealdb/releases/download/v4.0.1/surreal-v4.0.1.linux-amd64.tgz"
     }
   ],
   "pinned": false,

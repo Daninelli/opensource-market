@@ -23,26 +23,26 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/CodeWithCJ/SparkyFitness/zip/refs/heads/main",
   "release": {
-    "tag": "v1.11.0",
-    "name": "v1.11.0",
-    "published": "2026-10-30T19:04:53Z",
-    "url": "https://github.com/CodeWithCJ/SparkyFitness/releases/tag/v1.11.0"
+    "tag": "v1.12.1",
+    "name": "v1.12.1",
+    "published": "2026-11-10T04:12:26Z",
+    "url": "https://github.com/CodeWithCJ/SparkyFitness/releases/tag/v1.12.1"
   },
   "assets": [
     {
       "name": "wearos-release.apk",
       "size": 48217648,
-      "url": "https://github.com/CodeWithCJ/SparkyFitness/releases/download/v1.11.0/wearos-release.apk"
+      "url": "https://github.com/CodeWithCJ/SparkyFitness/releases/download/v1.12.1/wearos-release.apk"
     },
     {
       "name": "app-release.apk",
-      "size": 169611973,
-      "url": "https://github.com/CodeWithCJ/SparkyFitness/releases/download/v1.11.0/app-release.apk"
+      "size": 205046798,
+      "url": "https://github.com/CodeWithCJ/SparkyFitness/releases/download/v1.12.1/app-release.apk"
     },
     {
       "name": "SparkyFitness.tar.gz",
-      "size": 206562602,
-      "url": "https://github.com/CodeWithCJ/SparkyFitness/releases/download/v1.11.0/SparkyFitness.tar.gz"
+      "size": 207810509,
+      "url": "https://github.com/CodeWithCJ/SparkyFitness/releases/download/v1.12.1/SparkyFitness.tar.gz"
     }
   ],
   "pinned": false,

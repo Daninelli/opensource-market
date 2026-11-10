@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/blader/humanizer/zip/refs/heads/main",
   "release": {
-    "tag": "v3.1.0",
-    "name": "Humanizer v3.1.0",
-    "published": "2026-09-28T05:55:12Z",
-    "url": "https://github.com/blader/humanizer/releases/tag/v3.1.0"
+    "tag": "v4.0.0",
+    "name": "Humanizer v4.0.0",
+    "published": "2026-11-10T01:35:15Z",
+    "url": "https://github.com/blader/humanizer/releases/tag/v4.0.0"
   },
   "assets": [],
   "pinned": false,

@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/electric-sql/pglite/zip/refs/heads/main",
   "release": {
-    "tag": "@electric-sql/pglite-utils@0.0.6",
-    "name": "@electric-sql/pglite-utils@0.0.6",
-    "published": "2026-11-03T12:36:31Z",
-    "url": "https://github.com/electric-sql/pglite/releases/tag/%40electric-sql/pglite-utils%400.0.6"
+    "tag": "@electric-sql/pglite-plpgsql-check@0.0.1",
+    "name": "@electric-sql/pglite-plpgsql-check@0.0.1",
+    "published": "2026-11-10T14:00:25Z",
+    "url": "https://github.com/electric-sql/pglite/releases/tag/%40electric-sql/pglite-plpgsql-check%400.0.1"
   },
   "assets": [],
   "pinned": false,

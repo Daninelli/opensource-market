@@ -20,26 +20,26 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/weaviate/weaviate/zip/refs/heads/main",
   "release": {
-    "tag": "v1.40.4",
-    "name": "v1.40.4 - Runtime reindex reliability & RBAC Fixes",
-    "published": "2026-11-05T15:04:28Z",
-    "url": "https://github.com/weaviate/weaviate/releases/tag/v1.40.4"
+    "tag": "v1.40.5",
+    "name": "v1.40.5 - Alter schema reindex property improvements, Weaviate Embeddings module Fix",
+    "published": "2026-11-10T13:52:39Z",
+    "url": "https://github.com/weaviate/weaviate/releases/tag/v1.40.5"
   },
   "assets": [
     {
-      "name": "weaviate-v1.40.4-darwin-all.zip",
-      "size": 168782415,
-      "url": "https://github.com/weaviate/weaviate/releases/download/v1.40.4/weaviate-v1.40.4-darwin-all.zip"
+      "name": "weaviate-v1.40.5-darwin-all.zip",
+      "size": 168821505,
+      "url": "https://github.com/weaviate/weaviate/releases/download/v1.40.5/weaviate-v1.40.5-darwin-all.zip"
     },
     {
-      "name": "weaviate-v1.40.4-linux-arm64.tar.gz",
-      "size": 81483506,
-      "url": "https://github.com/weaviate/weaviate/releases/download/v1.40.4/weaviate-v1.40.4-linux-arm64.tar.gz"
+      "name": "weaviate-v1.40.5-linux-arm64.tar.gz",
+      "size": 81504733,
+      "url": "https://github.com/weaviate/weaviate/releases/download/v1.40.5/weaviate-v1.40.5-linux-arm64.tar.gz"
     },
     {
-      "name": "weaviate-v1.40.4-linux-amd64.tar.gz",
-      "size": 85313734,
-      "url": "https://github.com/weaviate/weaviate/releases/download/v1.40.4/weaviate-v1.40.4-linux-amd64.tar.gz"
+      "name": "weaviate-v1.40.5-linux-amd64.tar.gz",
+      "size": 85336341,
+      "url": "https://github.com/weaviate/weaviate/releases/download/v1.40.5/weaviate-v1.40.5-linux-amd64.tar.gz"
     }
   ],
   "pinned": false,

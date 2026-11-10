@@ -22,10 +22,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/docusealco/docuseal/zip/refs/heads/master",
   "release": {
-    "tag": "3.3.5",
-    "name": "3.3.5",
-    "published": "2026-11-02T13:00:51Z",
-    "url": "https://github.com/docusealco/docuseal/releases/tag/3.3.5"
+    "tag": "3.3.6",
+    "name": "3.3.6",
+    "published": "2026-11-09T14:00:29Z",
+    "url": "https://github.com/docusealco/docuseal/releases/tag/3.3.6"
   },
   "assets": [],
   "pinned": false,

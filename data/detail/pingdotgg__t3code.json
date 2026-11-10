@@ -21,51 +21,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/pingdotgg/t3code/zip/refs/heads/main",
   "release": {
-    "tag": "v0.1.7",
-    "name": "T3 Code v0.1.7",
-    "published": "2026-11-04T06:39:38Z",
-    "url": "https://github.com/pingdotgg/t3code/releases/tag/v0.1.7"
+    "tag": "v0.1.8",
+    "name": "T3 Code v0.1.8",
+    "published": "2026-11-09T22:46:42Z",
+    "url": "https://github.com/pingdotgg/t3code/releases/tag/v0.1.8"
   },
   "assets": [
     {
-      "name": "t3-0.1.7-win32-arm64.zip",
-      "size": 102282518,
-      "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.7/t3-0.1.7-win32-arm64.zip"
+      "name": "t3-0.1.8-win32-arm64.zip",
+      "size": 104005976,
+      "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.8/t3-0.1.8-win32-arm64.zip"
     },
     {
-      "name": "t3-0.1.7-darwin-arm64.tar.gz",
-      "size": 110020388,
-      "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.7/t3-0.1.7-darwin-arm64.tar.gz"
+      "name": "t3-0.1.8-darwin-arm64.tar.gz",
+      "size": 114282148,
+      "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.8/t3-0.1.8-darwin-arm64.tar.gz"
     },
     {
-      "name": "t3-0.1.7-win32-x64.zip",
-      "size": 113322741,
-      "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.7/t3-0.1.7-win32-x64.zip"
+      "name": "t3-0.1.8-win32-x64.zip",
+      "size": 133414838,
+      "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.8/t3-0.1.8-win32-x64.zip"
     },
     {
-      "name": "T3-Code-0.1.7-arm64.dmg",
-      "size": 188335050,
-      "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.7/T3-Code-0.1.7-arm64.dmg"
+      "name": "T3-Code-0.1.8-arm64.dmg",
+      "size": 194804344,
+      "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.8/T3-Code-0.1.8-arm64.dmg"
     },
     {
-      "name": "t3-0.1.7-linux-arm64.tar.gz",
-      "size": 119171914,
-      "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.7/t3-0.1.7-linux-arm64.tar.gz"
+      "name": "t3-0.1.8-linux-arm64.tar.gz",
+      "size": 139493727,
+      "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.8/t3-0.1.8-linux-arm64.tar.gz"
     },
     {
-      "name": "t3-0.1.7-linux-x64.tar.gz",
-      "size": 123710035,
-      "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.7/t3-0.1.7-linux-x64.tar.gz"
+      "name": "t3-0.1.8-linux-x64.tar.gz",
+      "size": 148551979,
+      "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.8/t3-0.1.8-linux-x64.tar.gz"
     },
     {
-      "name": "T3-Code-0.1.7-arm64.zip",
-      "size": 181176168,
-      "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.7/T3-Code-0.1.7-arm64.zip"
+      "name": "T3-Code-0.1.8-arm64.zip",
+      "size": 187367333,
+      "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.8/T3-Code-0.1.8-arm64.zip"
     },
     {
-      "name": "T3-Code-0.1.7-x64.zip",
-      "size": 190160938,
-      "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.7/T3-Code-0.1.7-x64.zip"
+      "name": "T3-Code-0.1.8-x64.zip",
+      "size": 195734035,
+      "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.8/T3-Code-0.1.8-x64.zip"
     }
   ],
   "pinned": false,

@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/FaridSafi/react-native-gifted-chat/zip/refs/heads/master",
   "release": {
-    "tag": "3.4.2",
-    "name": "3.4.2",
-    "published": "2026-11-06T15:10:21Z",
-    "url": "https://github.com/FaridSafi/react-native-gifted-chat/releases/tag/3.4.2"
+    "tag": "3.5.0",
+    "name": "3.5.0",
+    "published": "2026-11-10T09:09:07Z",
+    "url": "https://github.com/FaridSafi/react-native-gifted-chat/releases/tag/3.5.0"
   },
   "assets": [],
   "pinned": false,

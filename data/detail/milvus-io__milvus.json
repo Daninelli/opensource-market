@@ -26,7 +26,18 @@
     "published": "2026-10-30T10:43:28Z",
     "url": "https://github.com/milvus-io/milvus/releases/tag/v3.0.5"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "milvus_3.0.5-2_arm64.deb",
+      "size": 358795206,
+      "url": "https://github.com/milvus-io/milvus/releases/download/v3.0.5/milvus_3.0.5-2_arm64.deb"
+    },
+    {
+      "name": "milvus_3.0.5-2_amd64.deb",
+      "size": 375360656,
+      "url": "https://github.com/milvus-io/milvus/releases/download/v3.0.5/milvus_3.0.5-2_amd64.deb"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,
