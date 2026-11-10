@@ -17,7 +17,7 @@
   ],
   "deploy_type": "传统部署 / Docker",
   "platform": "github",
-  "updated_at": "2026-11-07T20:17:34Z",
+  "updated_at": "2026-11-10T10:06:25Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/openmrs/openmrs-core/zip/refs/heads/master",
