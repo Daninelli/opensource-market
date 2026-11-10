@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-11-02T03:25:02Z",
+  "updated_at": "2026-11-10T08:27:57Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/jo-inc/camofox-browser/zip/refs/heads/master",

@@ -1,6 +1,6 @@
 {
   "note": "由 tools/track-changes.mjs 自动维护；只追加变动记录，不重新计算历史",
-  "updated_at": "2026-11-09T11:31:33.088Z",
+  "updated_at": "2026-11-10T11:12:19.751Z",
   "events": [
     {
       "date": "2026-11-09",
@@ -6213,7 +6213,7 @@
       "archived": false
     },
     "Fincept-Corporation/FinceptTerminal": {
-      "license": "NOASSERTION",
+      "license": "AGPL-3.0",
       "pinned": false,
       "pin_label": null,
       "archived": false
@@ -10300,6 +10300,42 @@
     },
     "chadyi/StudyOnTV": {
       "license": "Source Available (non-commercial)",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "qybaihe/bla": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "pingdotgg/t3code": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "storytold/craft-anything": {
+      "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "1038lab/ComfyUI-RMBG": {
+      "license": "GPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "JonasDoesThings/magicpfp": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "hoangsonww/PantryPal-Streamlit-App": {
+      "license": "MIT",
       "pinned": false,
       "pin_label": null,
       "archived": false

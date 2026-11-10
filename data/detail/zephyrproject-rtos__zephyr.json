@@ -18,7 +18,7 @@
   ],
   "deploy_type": "源码 / 依赖库",
   "platform": "github",
-  "updated_at": "2026-11-09T11:23:03Z",
+  "updated_at": "2026-11-09T23:59:54Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/zephyrproject-rtos/zephyr/zip/refs/heads/main",
