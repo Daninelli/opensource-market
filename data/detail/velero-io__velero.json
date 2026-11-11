@@ -17,7 +17,7 @@
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-11-10T06:54:29Z",
+  "updated_at": "2026-11-11T05:25:05Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/velero-io/velero/zip/refs/heads/main",

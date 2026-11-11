@@ -1,6 +1,6 @@
 {
   "note": "由 tools/track-changes.mjs 自动维护；只追加变动记录，不重新计算历史",
-  "updated_at": "2026-11-10T11:12:19.751Z",
+  "updated_at": "2026-11-11T10:57:32.742Z",
   "events": [
     {
       "date": "2026-11-09",
@@ -10336,6 +10336,12 @@
     },
     "hoangsonww/PantryPal-Streamlit-App": {
       "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "vercel-labs/agent-desktop": {
+      "license": "Apache-2.0",
       "pinned": false,
       "pin_label": null,
       "archived": false

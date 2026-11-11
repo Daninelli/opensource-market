@@ -17,7 +17,7 @@
   ],
   "deploy_type": "源码 / 命令行",
   "platform": "github",
-  "updated_at": "2026-11-09T17:04:04Z",
+  "updated_at": "2026-11-10T21:53:12Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "v8",
   "download_url": "https://codeload.github.com/Graphify-Labs/graphify/zip/refs/heads/v8",

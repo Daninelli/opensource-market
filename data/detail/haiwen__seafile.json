@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 二进制",
   "platform": "github",
-  "updated_at": "2026-10-16T10:08:44Z",
+  "updated_at": "2026-11-11T06:17:38Z",
   "added_at": "2026-10-19T14:45:00.000Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/haiwen/seafile/zip/refs/heads/master",

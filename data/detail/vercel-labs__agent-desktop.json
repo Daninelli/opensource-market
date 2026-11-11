@@ -17,7 +17,7 @@
   ],
   "deploy_type": "命令行 / 依赖库",
   "platform": "github",
-  "updated_at": "2026-11-10T10:47:38Z",
+  "updated_at": "2026-11-11T06:09:45Z",
   "added_at": "2026-11-10T22:11:08+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/vercel-labs/agent-desktop/zip/refs/heads/main",

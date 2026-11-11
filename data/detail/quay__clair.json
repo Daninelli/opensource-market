@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 二进制",
   "platform": "github",
-  "updated_at": "2026-11-09T20:03:16Z",
+  "updated_at": "2026-11-10T23:03:05Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/quay/clair/zip/refs/heads/main",

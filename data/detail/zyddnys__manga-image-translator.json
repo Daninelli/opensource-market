@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 命令行",
   "platform": "github",
-  "updated_at": "2026-10-11T12:27:59Z",
+  "updated_at": "2026-11-11T02:27:49Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/zyddnys/manga-image-translator/zip/refs/heads/main",
