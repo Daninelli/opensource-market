@@ -17,7 +17,7 @@
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-11-09T13:53:25Z",
+  "updated_at": "2026-11-12T07:38:45Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/beetbox/beets/zip/refs/heads/master",

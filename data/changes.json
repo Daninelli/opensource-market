@@ -1,7 +1,12 @@
 {
   "note": "由 tools/track-changes.mjs 自动维护；只追加变动记录，不重新计算历史",
-  "updated_at": "2026-11-11T10:57:32.742Z",
+  "updated_at": "2026-11-12T11:08:17.158Z",
   "events": [
+    {
+      "date": "2026-11-12",
+      "repo": "esengine/DeepSeek-Reasonix",
+      "type": "archived"
+    },
     {
       "date": "2026-11-09",
       "repo": "bytedance/UI-TARS-desktop",
@@ -2133,7 +2138,7 @@
       "archived": false
     },
     "lobehub/lobehub": {
-      "license": "NOASSERTION",
+      "license": "LobeHub Community License",
       "pinned": false,
       "pin_label": null,
       "archived": false
@@ -5034,7 +5039,7 @@
       "license": "MIT",
       "pinned": false,
       "pin_label": null,
-      "archived": false
+      "archived": true
     },
     "virgiliojr94/book-to-skill": {
       "license": "MIT",
@@ -10342,6 +10347,12 @@
     },
     "vercel-labs/agent-desktop": {
       "license": "Apache-2.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "tidain/YunX-Desktop": {
+      "license": "AGPL-3.0",
       "pinned": false,
       "pin_label": null,
       "archived": false

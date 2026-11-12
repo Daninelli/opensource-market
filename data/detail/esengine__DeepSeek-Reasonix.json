@@ -9,14 +9,14 @@
   "subcategory_slug": "agent",
   "license": "MIT",
   "license_category": "open",
-  "archived": false,
+  "archived": true,
   "tech_stack": [
     "TypeScript",
     "Python"
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-11-11T07:28:11Z",
+  "updated_at": "2026-11-12T08:30:31Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "studio",
   "download_url": "https://codeload.github.com/esengine/DeepSeek-Reasonix/zip/refs/heads/studio",
@@ -63,5 +63,11 @@
   "pin_note": null,
   "submitted_by": null,
   "gitee": null,
-  "changes": []
+  "changes": [
+    {
+      "date": "2026-11-12",
+      "repo": "esengine/DeepSeek-Reasonix",
+      "type": "archived"
+    }
+  ]
 }

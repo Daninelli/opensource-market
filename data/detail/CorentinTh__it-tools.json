@@ -16,7 +16,7 @@
   ],
   "deploy_type": "前端源码 / Docker",
   "platform": "github",
-  "updated_at": "2026-11-11T01:02:46Z",
+  "updated_at": "2026-11-12T03:33:11Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/CorentinTh/it-tools/zip/refs/heads/main",

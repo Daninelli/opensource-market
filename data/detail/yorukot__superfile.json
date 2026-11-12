@@ -17,7 +17,7 @@
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-11-06T05:15:43Z",
+  "updated_at": "2026-11-11T21:02:24Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/yorukot/superfile/zip/refs/heads/main",

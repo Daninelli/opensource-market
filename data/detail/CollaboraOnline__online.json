@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 二进制",
   "platform": "github",
-  "updated_at": "2026-11-07T18:38:46Z",
+  "updated_at": "2026-11-12T07:21:55Z",
   "added_at": "2026-10-19T14:45:00.000Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/CollaboraOnline/online/zip/refs/heads/main",

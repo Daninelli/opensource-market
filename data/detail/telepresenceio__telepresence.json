@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-11-09T10:12:57Z",
+  "updated_at": "2026-11-12T08:49:46Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "release/v2",
   "download_url": "https://codeload.github.com/telepresenceio/telepresence/zip/refs/heads/release%2Fv2",
