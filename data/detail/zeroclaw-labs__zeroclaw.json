@@ -20,46 +20,46 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/zeroclaw-labs/zeroclaw/zip/refs/heads/master",
   "release": {
-    "tag": "v0.8.7",
-    "name": "v0.8.7",
-    "published": "2026-10-27T22:50:03Z",
-    "url": "https://github.com/zeroclaw-labs/zeroclaw/releases/tag/v0.8.7"
+    "tag": "v0.9.0",
+    "name": "v0.9.0",
+    "published": "2026-11-12T02:02:49Z",
+    "url": "https://github.com/zeroclaw-labs/zeroclaw/releases/tag/v0.9.0"
   },
   "assets": [
     {
       "name": "ZeroClaw-windows-x64-setup.exe",
-      "size": 20563672,
-      "url": "https://github.com/zeroclaw-labs/zeroclaw/releases/download/v0.8.7/ZeroClaw-windows-x64-setup.exe"
+      "size": 21599705,
+      "url": "https://github.com/zeroclaw-labs/zeroclaw/releases/download/v0.9.0/ZeroClaw-windows-x64-setup.exe"
     },
     {
       "name": "ZeroClaw-windows-x64.msi",
-      "size": 28938240,
-      "url": "https://github.com/zeroclaw-labs/zeroclaw/releases/download/v0.8.7/ZeroClaw-windows-x64.msi"
+      "size": 30318592,
+      "url": "https://github.com/zeroclaw-labs/zeroclaw/releases/download/v0.9.0/ZeroClaw-windows-x64.msi"
     },
     {
       "name": "zeroclaw-aarch64-apple-darwin.tar.gz",
-      "size": 32557673,
-      "url": "https://github.com/zeroclaw-labs/zeroclaw/releases/download/v0.8.7/zeroclaw-aarch64-apple-darwin.tar.gz"
+      "size": 33190642,
+      "url": "https://github.com/zeroclaw-labs/zeroclaw/releases/download/v0.9.0/zeroclaw-aarch64-apple-darwin.tar.gz"
     },
     {
       "name": "zeroclaw-x86_64-apple-darwin.tar.gz",
-      "size": 35228945,
-      "url": "https://github.com/zeroclaw-labs/zeroclaw/releases/download/v0.8.7/zeroclaw-x86_64-apple-darwin.tar.gz"
+      "size": 35946734,
+      "url": "https://github.com/zeroclaw-labs/zeroclaw/releases/download/v0.9.0/zeroclaw-x86_64-apple-darwin.tar.gz"
     },
     {
       "name": "zeroclaw-armv7-unknown-linux-gnueabihf.tar.gz",
-      "size": 31791133,
-      "url": "https://github.com/zeroclaw-labs/zeroclaw/releases/download/v0.8.7/zeroclaw-armv7-unknown-linux-gnueabihf.tar.gz"
+      "size": 32497950,
+      "url": "https://github.com/zeroclaw-labs/zeroclaw/releases/download/v0.9.0/zeroclaw-armv7-unknown-linux-gnueabihf.tar.gz"
     },
     {
       "name": "zeroclaw-arm-unknown-linux-gnueabihf.tar.gz",
-      "size": 31898426,
-      "url": "https://github.com/zeroclaw-labs/zeroclaw/releases/download/v0.8.7/zeroclaw-arm-unknown-linux-gnueabihf.tar.gz"
+      "size": 32618413,
+      "url": "https://github.com/zeroclaw-labs/zeroclaw/releases/download/v0.9.0/zeroclaw-arm-unknown-linux-gnueabihf.tar.gz"
     },
     {
       "name": "zeroclaw-aarch64-linux-android.tar.gz",
-      "size": 23129363,
-      "url": "https://github.com/zeroclaw-labs/zeroclaw/releases/download/v0.8.7/zeroclaw-aarch64-linux-android.tar.gz"
+      "size": 23647946,
+      "url": "https://github.com/zeroclaw-labs/zeroclaw/releases/download/v0.9.0/zeroclaw-aarch64-linux-android.tar.gz"
     }
   ],
   "pinned": false,

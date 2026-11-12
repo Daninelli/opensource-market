@@ -21,16 +21,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/hypit-ai/hypit/zip/refs/heads/main",
   "release": {
-    "tag": "v0.3.1",
-    "name": "v0.3.1",
-    "published": "2026-10-09T10:24:35Z",
-    "url": "https://github.com/hypit-ai/hypit/releases/tag/v0.3.1"
+    "tag": "v0.3.2",
+    "name": "v0.3.2",
+    "published": "2026-11-11T05:43:31Z",
+    "url": "https://github.com/hypit-ai/hypit/releases/tag/v0.3.2"
   },
   "assets": [
     {
-      "name": "hypit-hypit-0.3.1.tgz",
-      "size": 349090,
-      "url": "https://github.com/hypit-ai/hypit/releases/download/v0.3.1/hypit-hypit-0.3.1.tgz"
+      "name": "hypit-hypit-0.3.2.tgz",
+      "size": 349535,
+      "url": "https://github.com/hypit-ai/hypit/releases/download/v0.3.2/hypit-hypit-0.3.2.tgz"
     }
   ],
   "pinned": false,

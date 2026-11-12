@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/xerrors/Yuxi/zip/refs/heads/main",
   "release": {
-    "tag": "v0.7.2",
-    "name": "v0.7.2 正式版",
-    "published": "2026-09-02T02:31:23Z",
-    "url": "https://github.com/xerrors/Yuxi/releases/tag/v0.7.2"
+    "tag": "v0.8.0",
+    "name": "v0.8.0 正式版",
+    "published": "2026-11-10T15:39:14Z",
+    "url": "https://github.com/xerrors/Yuxi/releases/tag/v0.8.0"
   },
   "assets": [],
   "pinned": false,

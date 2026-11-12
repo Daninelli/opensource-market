@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/AgriciDaniel/claude-seo/zip/refs/heads/main",
   "release": {
-    "tag": "v2.5.0",
-    "name": "v2.5.0: Python 3.11+, security and accuracy fixes, Claude Desktop installs",
-    "published": "2026-10-22T16:20:38Z",
-    "url": "https://github.com/AgriciDaniel/claude-seo/releases/tag/v2.5.0"
+    "tag": "v2.6.0",
+    "name": "v2.6.0: deterministic page, TLS, sitemap and JavaScript-gap checks",
+    "published": "2026-11-10T22:06:50Z",
+    "url": "https://github.com/AgriciDaniel/claude-seo/releases/tag/v2.6.0"
   },
   "assets": [],
   "pinned": false,

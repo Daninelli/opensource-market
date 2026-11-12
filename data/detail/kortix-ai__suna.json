@@ -21,46 +21,46 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/kortix-ai/suna/zip/refs/heads/dev",
   "release": {
-    "tag": "v0.15.3",
-    "name": "v0.15.3 — Workspaces, one settings panel, and API keys that act as an agent or a bot",
-    "published": "2026-11-10T01:59:23Z",
-    "url": "https://github.com/kortix-ai/CompanyOS/releases/tag/v0.15.3"
+    "tag": "v0.15.9",
+    "name": "v0.15.9 — Connect apps from the chat, checked provider keys, and automations that explain themselves",
+    "published": "2026-11-12T07:17:39Z",
+    "url": "https://github.com/kortix-ai/CompanyOS/releases/tag/v0.15.9"
   },
   "assets": [
     {
-      "name": "KortixCapture-v0.15.3-x64.msi",
-      "size": 19111936,
-      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.15.3/KortixCapture-v0.15.3-x64.msi"
+      "name": "KortixCapture-v0.15.9-x64.msi",
+      "size": 19173376,
+      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.15.9/KortixCapture-v0.15.9-x64.msi"
     },
     {
       "name": "KortixCapture-x64.msi",
-      "size": 19111936,
-      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.15.3/KortixCapture-x64.msi"
+      "size": 19173376,
+      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.15.9/KortixCapture-x64.msi"
     },
     {
       "name": "KortixCapture-universal.pkg",
-      "size": 45916042,
-      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.15.3/KortixCapture-universal.pkg"
+      "size": 46047106,
+      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.15.9/KortixCapture-universal.pkg"
     },
     {
-      "name": "KortixCapture-v0.15.3-universal.pkg",
-      "size": 45916042,
-      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.15.3/KortixCapture-v0.15.3-universal.pkg"
+      "name": "KortixCapture-v0.15.9-universal.pkg",
+      "size": 46047106,
+      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.15.9/KortixCapture-v0.15.9-universal.pkg"
     },
     {
       "name": "kortix-capture_amd64.deb",
-      "size": 20926758,
-      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.15.3/kortix-capture_amd64.deb"
+      "size": 20955300,
+      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.15.9/kortix-capture_amd64.deb"
     },
     {
-      "name": "kortix-capture_v0.15.3_amd64.deb",
-      "size": 20926758,
-      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.15.3/kortix-capture_v0.15.3_amd64.deb"
+      "name": "kortix-capture_v0.15.9_amd64.deb",
+      "size": 20955300,
+      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.15.9/kortix-capture_v0.15.9_amd64.deb"
     },
     {
       "name": "Kortix-0.15.3-universal-mac.zip",
       "size": 247694126,
-      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.15.3/Kortix-0.15.3-universal-mac.zip"
+      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.15.9/Kortix-0.15.3-universal-mac.zip"
     }
   ],
   "pinned": false,

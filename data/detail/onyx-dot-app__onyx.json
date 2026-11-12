@@ -23,28 +23,28 @@
   "release": {
     "tag": "v5.1.1",
     "name": "v5.1.1",
-    "published": "2026-11-09T18:21:48Z",
+    "published": "2026-11-10T19:32:32Z",
     "url": "https://github.com/onyx-dot-app/onyx/releases/tag/v5.1.1"
   },
   "assets": [
     {
       "name": "Onyx_arm64.exe",
-      "size": 3735491,
+      "size": 3734596,
       "url": "https://github.com/onyx-dot-app/onyx/releases/download/v5.1.1/Onyx_arm64.exe"
     },
     {
       "name": "Onyx_x64.exe",
-      "size": 4113215,
+      "size": 4112395,
       "url": "https://github.com/onyx-dot-app/onyx/releases/download/v5.1.1/Onyx_x64.exe"
     },
     {
       "name": "Onyx_universal.dmg",
-      "size": 12482259,
+      "size": 12482258,
       "url": "https://github.com/onyx-dot-app/onyx/releases/download/v5.1.1/Onyx_universal.dmg"
     },
     {
       "name": "Onyx_amd64.deb",
-      "size": 6835110,
+      "size": 6835112,
       "url": "https://github.com/onyx-dot-app/onyx/releases/download/v5.1.1/Onyx_amd64.deb"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "name": "Onyx_universal.app.tar.gz",
-      "size": 12454913,
+      "size": 12454930,
       "url": "https://github.com/onyx-dot-app/onyx/releases/download/v5.1.1/Onyx_universal.app.tar.gz"
     }
   ],

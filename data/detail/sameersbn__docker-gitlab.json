@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/sameersbn/docker-gitlab/zip/refs/heads/master",
   "release": {
-    "tag": "19.5.3",
-    "name": "19.5.3",
-    "published": "2026-10-30T17:11:35Z",
-    "url": "https://github.com/sameersbn/docker-gitlab/releases/tag/19.5.3"
+    "tag": "19.5.4",
+    "name": "19.5.4",
+    "published": "2026-11-11T21:08:58Z",
+    "url": "https://github.com/sameersbn/docker-gitlab/releases/tag/19.5.4"
   },
   "assets": [],
   "pinned": false,

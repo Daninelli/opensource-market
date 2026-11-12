@@ -21,31 +21,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/storytold/pdfcraft/zip/refs/heads/main",
   "release": {
-    "tag": "v0.20.0",
-    "name": "PdfCraft v0.20.0",
-    "published": "2026-11-09T12:10:51Z",
-    "url": "https://github.com/storytold/pdfcraft/releases/tag/v0.20.0"
+    "tag": "v0.21.1",
+    "name": "PdfCraft v0.21.1",
+    "published": "2026-11-12T02:18:37Z",
+    "url": "https://github.com/storytold/pdfcraft/releases/tag/v0.21.1"
   },
   "assets": [
     {
-      "name": "pdfcraft-0.20.0-linux-aarch64.flatpak",
-      "size": 84278880,
-      "url": "https://github.com/storytold/pdfcraft/releases/download/v0.20.0/pdfcraft-0.20.0-linux-aarch64.flatpak"
+      "name": "pdfcraft-0.21.1-linux-aarch64.flatpak",
+      "size": 85045248,
+      "url": "https://github.com/storytold/pdfcraft/releases/download/v0.21.1/pdfcraft-0.21.1-linux-aarch64.flatpak"
     },
     {
-      "name": "pdfcraft-0.20.0-linux-x86_64.flatpak",
-      "size": 88602568,
-      "url": "https://github.com/storytold/pdfcraft/releases/download/v0.20.0/pdfcraft-0.20.0-linux-x86_64.flatpak"
+      "name": "pdfcraft-0.21.1-linux-x86_64.flatpak",
+      "size": 90284152,
+      "url": "https://github.com/storytold/pdfcraft/releases/download/v0.21.1/pdfcraft-0.21.1-linux-x86_64.flatpak"
     },
     {
-      "name": "pdfcraft-0.20.0-freebsd-aarch64.tar.gz",
-      "size": 113536014,
-      "url": "https://github.com/storytold/pdfcraft/releases/download/v0.20.0/pdfcraft-0.20.0-freebsd-aarch64.tar.gz"
+      "name": "pdfcraft-0.21.1-freebsd-aarch64.tar.gz",
+      "size": 115293279,
+      "url": "https://github.com/storytold/pdfcraft/releases/download/v0.21.1/pdfcraft-0.21.1-freebsd-aarch64.tar.gz"
     },
     {
-      "name": "pdfcraft-0.20.0-freebsd-x86_64.tar.gz",
-      "size": 118624390,
-      "url": "https://github.com/storytold/pdfcraft/releases/download/v0.20.0/pdfcraft-0.20.0-freebsd-x86_64.tar.gz"
+      "name": "pdfcraft-0.21.1-freebsd-x86_64.tar.gz",
+      "size": 120608596,
+      "url": "https://github.com/storytold/pdfcraft/releases/download/v0.21.1/pdfcraft-0.21.1-freebsd-x86_64.tar.gz"
     }
   ],
   "pinned": false,

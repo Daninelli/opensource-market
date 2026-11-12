@@ -20,46 +20,46 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/majd/ipatool/zip/refs/heads/main",
   "release": {
-    "tag": "v2.8.0",
-    "name": "v2.8.0",
-    "published": "2026-11-08T13:58:08Z",
-    "url": "https://github.com/majd/ipatool/releases/tag/v2.8.0"
+    "tag": "v2.8.1",
+    "name": "v2.8.1",
+    "published": "2026-11-11T23:37:55Z",
+    "url": "https://github.com/majd/ipatool/releases/tag/v2.8.1"
   },
   "assets": [
     {
-      "name": "ipatool-2.8.0-windows-arm64.tar.gz",
-      "size": 25216191,
-      "url": "https://github.com/majd/ipatool/releases/download/v2.8.0/ipatool-2.8.0-windows-arm64.tar.gz"
+      "name": "ipatool-2.8.1-windows-arm64.tar.gz",
+      "size": 25280572,
+      "url": "https://github.com/majd/ipatool/releases/download/v2.8.1/ipatool-2.8.1-windows-arm64.tar.gz"
     },
     {
-      "name": "ipatool-2.8.0-macos-arm64.tar.gz",
-      "size": 26012003,
-      "url": "https://github.com/majd/ipatool/releases/download/v2.8.0/ipatool-2.8.0-macos-arm64.tar.gz"
+      "name": "ipatool-2.8.1-macos-arm64.tar.gz",
+      "size": 26072820,
+      "url": "https://github.com/majd/ipatool/releases/download/v2.8.1/ipatool-2.8.1-macos-arm64.tar.gz"
     },
     {
-      "name": "ipatool-2.8.0-windows-amd64.tar.gz",
-      "size": 26855806,
-      "url": "https://github.com/majd/ipatool/releases/download/v2.8.0/ipatool-2.8.0-windows-amd64.tar.gz"
+      "name": "ipatool-2.8.1-windows-amd64.tar.gz",
+      "size": 26928609,
+      "url": "https://github.com/majd/ipatool/releases/download/v2.8.1/ipatool-2.8.1-windows-amd64.tar.gz"
     },
     {
-      "name": "ipatool-2.8.0-macos-amd64.tar.gz",
-      "size": 27375847,
-      "url": "https://github.com/majd/ipatool/releases/download/v2.8.0/ipatool-2.8.0-macos-amd64.tar.gz"
+      "name": "ipatool-2.8.1-macos-amd64.tar.gz",
+      "size": 27449062,
+      "url": "https://github.com/majd/ipatool/releases/download/v2.8.1/ipatool-2.8.1-macos-amd64.tar.gz"
     },
     {
-      "name": "ipatool-2.8.0-linux-arm64.tar.gz",
-      "size": 24122105,
-      "url": "https://github.com/majd/ipatool/releases/download/v2.8.0/ipatool-2.8.0-linux-arm64.tar.gz"
+      "name": "ipatool-2.8.1-linux-arm64.tar.gz",
+      "size": 24183602,
+      "url": "https://github.com/majd/ipatool/releases/download/v2.8.1/ipatool-2.8.1-linux-arm64.tar.gz"
     },
     {
-      "name": "ipatool-2.8.0-linux-amd64.tar.gz",
-      "size": 25691240,
-      "url": "https://github.com/majd/ipatool/releases/download/v2.8.0/ipatool-2.8.0-linux-amd64.tar.gz"
+      "name": "ipatool-2.8.1-linux-amd64.tar.gz",
+      "size": 25760341,
+      "url": "https://github.com/majd/ipatool/releases/download/v2.8.1/ipatool-2.8.1-linux-amd64.tar.gz"
     },
     {
-      "name": "ipatool-2.8.0-ios-arm64.tar.gz",
-      "size": 17862757,
-      "url": "https://github.com/majd/ipatool/releases/download/v2.8.0/ipatool-2.8.0-ios-arm64.tar.gz"
+      "name": "ipatool-2.8.1-ios-arm64.tar.gz",
+      "size": 17897592,
+      "url": "https://github.com/majd/ipatool/releases/download/v2.8.1/ipatool-2.8.1-ios-arm64.tar.gz"
     }
   ],
   "pinned": false,

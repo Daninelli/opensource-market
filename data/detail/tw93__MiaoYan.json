@@ -21,21 +21,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/tw93/MiaoYan/zip/refs/heads/main",
   "release": {
-    "tag": "V4.8.0",
-    "name": "V4.8.0 Brachydios 💥",
-    "published": "2026-11-06T13:18:27Z",
-    "url": "https://github.com/tw93/MiaoYan/releases/tag/V4.8.0"
+    "tag": "V4.9.0",
+    "name": "V4.9.0 Barioth 🐯",
+    "published": "2026-11-11T03:09:41Z",
+    "url": "https://github.com/tw93/MiaoYan/releases/tag/V4.9.0"
   },
   "assets": [
     {
       "name": "MiaoYan.dmg",
-      "size": 11822205,
-      "url": "https://github.com/tw93/MiaoYan/releases/download/V4.8.0/MiaoYan.dmg"
+      "size": 12188417,
+      "url": "https://github.com/tw93/MiaoYan/releases/download/V4.9.0/MiaoYan.dmg"
     },
     {
-      "name": "MiaoYan_V4.8.0.zip",
-      "size": 12327355,
-      "url": "https://github.com/tw93/MiaoYan/releases/download/V4.8.0/MiaoYan_V4.8.0.zip"
+      "name": "MiaoYan_V4.9.0.zip",
+      "size": 12689522,
+      "url": "https://github.com/tw93/MiaoYan/releases/download/V4.9.0/MiaoYan_V4.9.0.zip"
     }
   ],
   "pinned": false,

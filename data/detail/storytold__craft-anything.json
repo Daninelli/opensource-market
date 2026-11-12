@@ -21,31 +21,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/storytold/craft-anything/zip/refs/heads/main",
   "release": {
-    "tag": "v0.6.0",
-    "name": "Craft Anything v0.6.0",
-    "published": "2026-11-09T12:57:38Z",
-    "url": "https://github.com/storytold/craft-anything/releases/tag/v0.6.0"
+    "tag": "v0.6.1",
+    "name": "Craft Anything v0.6.1",
+    "published": "2026-11-12T01:41:22Z",
+    "url": "https://github.com/storytold/craft-anything/releases/tag/v0.6.1"
   },
   "assets": [
     {
-      "name": "craft-anything-0.6.0-linux-aarch64.flatpak",
-      "size": 47501840,
-      "url": "https://github.com/storytold/craft-anything/releases/download/v0.6.0/craft-anything-0.6.0-linux-aarch64.flatpak"
+      "name": "craft-anything-0.6.1-linux-aarch64.flatpak",
+      "size": 48025072,
+      "url": "https://github.com/storytold/craft-anything/releases/download/v0.6.1/craft-anything-0.6.1-linux-aarch64.flatpak"
     },
     {
-      "name": "craft-anything-0.6.0-linux-x86_64.flatpak",
-      "size": 50985048,
-      "url": "https://github.com/storytold/craft-anything/releases/download/v0.6.0/craft-anything-0.6.0-linux-x86_64.flatpak"
+      "name": "craft-anything-0.6.1-linux-x86_64.flatpak",
+      "size": 51587544,
+      "url": "https://github.com/storytold/craft-anything/releases/download/v0.6.1/craft-anything-0.6.1-linux-x86_64.flatpak"
     },
     {
-      "name": "craft-anything-0.6.0-freebsd-aarch64.tar.gz",
-      "size": 63405780,
-      "url": "https://github.com/storytold/craft-anything/releases/download/v0.6.0/craft-anything-0.6.0-freebsd-aarch64.tar.gz"
+      "name": "craft-anything-0.6.1-freebsd-aarch64.tar.gz",
+      "size": 64174061,
+      "url": "https://github.com/storytold/craft-anything/releases/download/v0.6.1/craft-anything-0.6.1-freebsd-aarch64.tar.gz"
     },
     {
-      "name": "craft-anything-0.6.0-freebsd-x86_64.tar.gz",
-      "size": 66916189,
-      "url": "https://github.com/storytold/craft-anything/releases/download/v0.6.0/craft-anything-0.6.0-freebsd-x86_64.tar.gz"
+      "name": "craft-anything-0.6.1-freebsd-x86_64.tar.gz",
+      "size": 67769902,
+      "url": "https://github.com/storytold/craft-anything/releases/download/v0.6.1/craft-anything-0.6.1-freebsd-x86_64.tar.gz"
     }
   ],
   "pinned": false,

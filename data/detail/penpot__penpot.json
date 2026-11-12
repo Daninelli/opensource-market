@@ -21,10 +21,10 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/penpot/penpot/zip/refs/heads/develop",
   "release": {
-    "tag": "2.19.0",
-    "name": "2.19.0",
-    "published": "2026-11-09T14:03:36Z",
-    "url": "https://github.com/penpot/penpot/releases/tag/2.19.0"
+    "tag": "2.19.1",
+    "name": "2.19.1",
+    "published": "2026-11-11T10:03:30Z",
+    "url": "https://github.com/penpot/penpot/releases/tag/2.19.1"
   },
   "assets": [],
   "pinned": false,

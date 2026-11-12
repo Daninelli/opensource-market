@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/withastro/astro/zip/refs/heads/main",
   "release": {
-    "tag": "astro-vscode@2.17.3",
-    "name": "astro-vscode@2.17.3",
-    "published": "2026-11-09T14:49:59Z",
-    "url": "https://github.com/withastro/astro/releases/tag/astro-vscode%402.17.3"
+    "tag": "@astrojs/vue@7.1.5",
+    "name": "@astrojs/vue@7.1.5",
+    "published": "2026-11-11T17:34:17Z",
+    "url": "https://github.com/withastro/astro/releases/tag/%40astrojs/vue%407.1.5"
   },
   "assets": [],
   "pinned": false,

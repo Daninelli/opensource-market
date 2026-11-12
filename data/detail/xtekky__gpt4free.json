@@ -22,51 +22,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/xtekky/gpt4free/zip/refs/heads/main",
   "release": {
-    "tag": "v8.9.2",
-    "name": "Release v8.9.2",
-    "published": "2026-11-02T10:04:28Z",
-    "url": "https://github.com/xtekky/gpt4free/releases/tag/v8.9.2"
+    "tag": "v8.9.3",
+    "name": "Release v8.9.3",
+    "published": "2026-11-11T19:09:46Z",
+    "url": "https://github.com/xtekky/gpt4free/releases/tag/v8.9.3"
   },
   "assets": [
     {
-      "name": "g4f-sandbox-v8.9.2-windows-arm64.zip",
-      "size": 919773,
-      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.9.2/g4f-sandbox-v8.9.2-windows-arm64.zip"
+      "name": "g4f-go-v8.9.3-darwin-arm64.zip",
+      "size": 2916161,
+      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.9.3/g4f-go-v8.9.3-darwin-arm64.zip"
     },
     {
-      "name": "g4f-sandbox-v8.9.2-darwin-arm64.zip",
-      "size": 922801,
-      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.9.2/g4f-sandbox-v8.9.2-darwin-arm64.zip"
+      "name": "g4f-go-v8.9.3-darwin-amd64.zip",
+      "size": 3107667,
+      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.9.3/g4f-go-v8.9.3-darwin-amd64.zip"
     },
     {
-      "name": "g4f-sandbox-v8.9.2-darwin-amd64.zip",
-      "size": 968401,
-      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.9.2/g4f-sandbox-v8.9.2-darwin-amd64.zip"
+      "name": "g4f-go-v8.9.3-windows-amd64.zip",
+      "size": 3128947,
+      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.9.3/g4f-go-v8.9.3-windows-amd64.zip"
     },
     {
-      "name": "g4f-sandbox-v8.9.2-windows-amd64.zip",
-      "size": 1002624,
-      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.9.2/g4f-sandbox-v8.9.2-windows-amd64.zip"
+      "name": "g4f-go-v8.9.3-linux-arm64.zip",
+      "size": 2810158,
+      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.9.3/g4f-go-v8.9.3-linux-arm64.zip"
     },
     {
-      "name": "g4f-sandbox-v8.9.2-linux-arm64.zip",
-      "size": 886793,
-      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.9.2/g4f-sandbox-v8.9.2-linux-arm64.zip"
+      "name": "g4f-go-v8.9.3-linux-amd64.zip",
+      "size": 3059638,
+      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.9.3/g4f-go-v8.9.3-linux-amd64.zip"
     },
     {
-      "name": "g4f-sandbox-v8.9.2-linux-amd64.zip",
-      "size": 951649,
-      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.9.2/g4f-sandbox-v8.9.2-linux-amd64.zip"
+      "name": "g4f-v8.9.3.apk",
+      "size": 32265199,
+      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.9.3/g4f-v8.9.3.apk"
     },
     {
-      "name": "g4f-sandbox-v8.9.2-android-arm64.zip",
-      "size": 886793,
-      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.9.2/g4f-sandbox-v8.9.2-android-arm64.zip"
+      "name": "g4f-8.9.3.tar.gz",
+      "size": 919774,
+      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.9.3/g4f-8.9.3.tar.gz"
     },
     {
-      "name": "g4f-v8.9.2.apk",
-      "size": 32260787,
-      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.9.2/g4f-v8.9.2.apk"
+      "name": "g4f-8.9.3-py3-none-any.whl",
+      "size": 1017231,
+      "url": "https://github.com/xtekky/gpt4free/releases/download/v8.9.3/g4f-8.9.3-py3-none-any.whl"
     }
   ],
   "pinned": false,

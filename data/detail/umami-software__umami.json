@@ -22,10 +22,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/umami-software/umami/zip/refs/heads/master",
   "release": {
-    "tag": "v3.4.1",
-    "name": "v3.4.1",
-    "published": "2026-10-23T08:26:44Z",
-    "url": "https://github.com/umami-software/umami/releases/tag/v3.4.1"
+    "tag": "v3.5.0",
+    "name": "v3.5.0",
+    "published": "2026-11-12T02:57:20Z",
+    "url": "https://github.com/umami-software/umami/releases/tag/v3.5.0"
   },
   "assets": [],
   "pinned": false,

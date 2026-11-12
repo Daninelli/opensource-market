@@ -20,41 +20,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/gruntwork-io/terragrunt/zip/refs/heads/main",
   "release": {
-    "tag": "v1.2.1",
-    "name": "v1.2.1",
-    "published": "2026-10-23T18:53:21Z",
-    "url": "https://github.com/gruntwork-io/terragrunt/releases/tag/v1.2.1"
+    "tag": "v1.2.2",
+    "name": "v1.2.2",
+    "published": "2026-11-11T15:21:00Z",
+    "url": "https://github.com/gruntwork-io/terragrunt/releases/tag/v1.2.2"
   },
   "assets": [
     {
       "name": "terragrunt_darwin_arm64.zip",
-      "size": 26970653,
-      "url": "https://github.com/gruntwork-io/terragrunt/releases/download/v1.2.1/terragrunt_darwin_arm64.zip"
+      "size": 27210928,
+      "url": "https://github.com/gruntwork-io/terragrunt/releases/download/v1.2.2/terragrunt_darwin_arm64.zip"
     },
     {
       "name": "terragrunt_darwin_arm64.tar.gz",
-      "size": 26970741,
-      "url": "https://github.com/gruntwork-io/terragrunt/releases/download/v1.2.1/terragrunt_darwin_arm64.tar.gz"
-    },
-    {
-      "name": "terragrunt_windows_386.exe.zip",
-      "size": 28449105,
-      "url": "https://github.com/gruntwork-io/terragrunt/releases/download/v1.2.1/terragrunt_windows_386.exe.zip"
+      "size": 27211159,
+      "url": "https://github.com/gruntwork-io/terragrunt/releases/download/v1.2.2/terragrunt_darwin_arm64.tar.gz"
     },
     {
       "name": "terragrunt_windows_386.exe.tar.gz",
-      "size": 28449320,
-      "url": "https://github.com/gruntwork-io/terragrunt/releases/download/v1.2.1/terragrunt_windows_386.exe.tar.gz"
+      "size": 28709923,
+      "url": "https://github.com/gruntwork-io/terragrunt/releases/download/v1.2.2/terragrunt_windows_386.exe.tar.gz"
+    },
+    {
+      "name": "terragrunt_windows_386.exe.zip",
+      "size": 28710994,
+      "url": "https://github.com/gruntwork-io/terragrunt/releases/download/v1.2.2/terragrunt_windows_386.exe.zip"
     },
     {
       "name": "terragrunt_linux_arm64.tar.gz",
-      "size": 26005516,
-      "url": "https://github.com/gruntwork-io/terragrunt/releases/download/v1.2.1/terragrunt_linux_arm64.tar.gz"
+      "size": 26241630,
+      "url": "https://github.com/gruntwork-io/terragrunt/releases/download/v1.2.2/terragrunt_linux_arm64.tar.gz"
     },
     {
       "name": "terragrunt_linux_arm64.zip",
-      "size": 26005970,
-      "url": "https://github.com/gruntwork-io/terragrunt/releases/download/v1.2.1/terragrunt_linux_arm64.zip"
+      "size": 26241841,
+      "url": "https://github.com/gruntwork-io/terragrunt/releases/download/v1.2.2/terragrunt_linux_arm64.zip"
     }
   ],
   "pinned": false,

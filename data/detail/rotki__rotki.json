@@ -22,41 +22,41 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/rotki/rotki/zip/refs/heads/develop",
   "release": {
-    "tag": "v1.44.2",
-    "name": "Rotki v1.44.2 - Pristine Eyestripe",
-    "published": "2026-10-22T14:50:27Z",
-    "url": "https://github.com/rotki/rotki/releases/tag/v1.44.2"
+    "tag": "v1.44.3",
+    "name": "Rotki v1.44.3 - Immaculate Eyestripe",
+    "published": "2026-11-11T16:49:26Z",
+    "url": "https://github.com/rotki/rotki/releases/tag/v1.44.3"
   },
   "assets": [
     {
-      "name": "rotki-core-1.44.2-windows.zip",
-      "size": 66915037,
-      "url": "https://github.com/rotki/rotki/releases/download/v1.44.2/rotki-core-1.44.2-windows.zip"
+      "name": "rotki-core-1.44.3-windows.zip",
+      "size": 67456347,
+      "url": "https://github.com/rotki/rotki/releases/download/v1.44.3/rotki-core-1.44.3-windows.zip"
     },
     {
-      "name": "rotki-core-1.44.2-macos-arm64.zip",
-      "size": 83655215,
-      "url": "https://github.com/rotki/rotki/releases/download/v1.44.2/rotki-core-1.44.2-macos-arm64.zip"
+      "name": "rotki-core-1.44.3-macos-arm64.zip",
+      "size": 84709278,
+      "url": "https://github.com/rotki/rotki/releases/download/v1.44.3/rotki-core-1.44.3-macos-arm64.zip"
     },
     {
-      "name": "rotki-core-1.44.2-macos-x64.zip",
-      "size": 88416833,
-      "url": "https://github.com/rotki/rotki/releases/download/v1.44.2/rotki-core-1.44.2-macos-x64.zip"
+      "name": "rotki-core-1.44.3-macos-x64.zip",
+      "size": 88901675,
+      "url": "https://github.com/rotki/rotki/releases/download/v1.44.3/rotki-core-1.44.3-macos-x64.zip"
     },
     {
-      "name": "rotki-win32_x64-v1.44.2.exe",
-      "size": 164516336,
-      "url": "https://github.com/rotki/rotki/releases/download/v1.44.2/rotki-win32_x64-v1.44.2.exe"
+      "name": "rotki-win32_x64-v1.44.3.exe",
+      "size": 164917688,
+      "url": "https://github.com/rotki/rotki/releases/download/v1.44.3/rotki-win32_x64-v1.44.3.exe"
     },
     {
-      "name": "rotki-core-1.44.2-linux.zip",
-      "size": 112640402,
-      "url": "https://github.com/rotki/rotki/releases/download/v1.44.2/rotki-core-1.44.2-linux.zip"
+      "name": "rotki-core-1.44.3-linux.zip",
+      "size": 112798772,
+      "url": "https://github.com/rotki/rotki/releases/download/v1.44.3/rotki-core-1.44.3-linux.zip"
     },
     {
-      "name": "rotki-linux_x64-v1.44.2.tar.xz",
-      "size": 166222532,
-      "url": "https://github.com/rotki/rotki/releases/download/v1.44.2/rotki-linux_x64-v1.44.2.tar.xz"
+      "name": "rotki-linux_x64-v1.44.3.tar.xz",
+      "size": 166340572,
+      "url": "https://github.com/rotki/rotki/releases/download/v1.44.3/rotki-linux_x64-v1.44.3.tar.xz"
     }
   ],
   "pinned": false,

@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ToolJet/ToolJet/zip/refs/heads/main",
   "release": {
-    "tag": "v3.20.256-lts",
-    "name": "v3.20.256-lts",
-    "published": "2026-11-06T15:15:01Z",
-    "url": "https://github.com/ToolJet/ToolJet/releases/tag/v3.20.256-lts"
+    "tag": "v3.20.257-lts",
+    "name": "v3.20.257-lts",
+    "published": "2026-11-12T02:20:57Z",
+    "url": "https://github.com/ToolJet/ToolJet/releases/tag/v3.20.257-lts"
   },
   "assets": [],
   "pinned": false,

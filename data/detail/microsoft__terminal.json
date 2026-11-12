@@ -21,21 +21,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/microsoft/terminal/zip/refs/heads/main",
   "release": {
-    "tag": "v1.25.2733.0",
-    "name": "Windows Terminal v1.25.2733.0",
-    "published": "2026-10-02T20:27:27Z",
-    "url": "https://github.com/microsoft/terminal/releases/tag/v1.25.2733.0"
+    "tag": "v1.25.3131.0",
+    "name": "Windows Terminal v1.25.3131.0",
+    "published": "2026-11-11T00:12:16Z",
+    "url": "https://github.com/microsoft/terminal/releases/tag/v1.25.3131.0"
   },
   "assets": [
     {
-      "name": "Microsoft.Windows.Console.ConPTY.1.25.260930003.nupkg",
-      "size": 1750533,
-      "url": "https://github.com/microsoft/terminal/releases/download/v1.25.2733.0/Microsoft.Windows.Console.ConPTY.1.25.260930003.nupkg"
+      "name": "Microsoft.Windows.Console.ConPTY.1.25.261109001.nupkg",
+      "size": 1751084,
+      "url": "https://github.com/microsoft/terminal/releases/download/v1.25.3131.0/Microsoft.Windows.Console.ConPTY.1.25.261109001.nupkg"
     },
     {
-      "name": "Microsoft.WindowsTerminal_1.25.2733.0_x86.zip",
-      "size": 10970297,
-      "url": "https://github.com/microsoft/terminal/releases/download/v1.25.2733.0/Microsoft.WindowsTerminal_1.25.2733.0_x86.zip"
+      "name": "Microsoft.WindowsTerminal_1.25.3131.0_x86.zip",
+      "size": 10971393,
+      "url": "https://github.com/microsoft/terminal/releases/download/v1.25.3131.0/Microsoft.WindowsTerminal_1.25.3131.0_x86.zip"
     }
   ],
   "pinned": false,

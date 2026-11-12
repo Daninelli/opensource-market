@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/triggerdotdev/trigger.dev/zip/refs/heads/main",
   "release": {
-    "tag": "v4.8.3",
-    "name": "trigger.dev v4.8.3",
-    "published": "2026-10-30T12:22:45Z",
-    "url": "https://github.com/triggerdotdev/trigger.dev/releases/tag/v4.8.3"
+    "tag": "v4.8.5",
+    "name": "trigger.dev v4.8.5",
+    "published": "2026-11-12T00:38:09Z",
+    "url": "https://github.com/triggerdotdev/trigger.dev/releases/tag/v4.8.5"
   },
   "assets": [],
   "pinned": false,

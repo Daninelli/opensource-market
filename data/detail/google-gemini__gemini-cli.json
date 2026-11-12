@@ -22,26 +22,26 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/google-gemini/gemini-cli/zip/refs/heads/main",
   "release": {
-    "tag": "v0.67.0",
-    "name": "Release v0.67.0",
-    "published": "2026-11-04T20:27:11Z",
-    "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0"
+    "tag": "v0.68.0",
+    "name": "Release v0.68.0",
+    "published": "2026-11-10T21:17:07Z",
+    "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.68.0"
   },
   "assets": [
     {
       "name": "gemini-darwin-arm64-unsigned.zip",
-      "size": 36579712,
-      "url": "https://github.com/google-gemini/gemini-cli/releases/download/v0.67.0/gemini-darwin-arm64-unsigned.zip"
+      "size": 36613178,
+      "url": "https://github.com/google-gemini/gemini-cli/releases/download/v0.68.0/gemini-darwin-arm64-unsigned.zip"
     },
     {
       "name": "gemini-darwin-x64-unsigned.zip",
-      "size": 38069737,
-      "url": "https://github.com/google-gemini/gemini-cli/releases/download/v0.67.0/gemini-darwin-x64-unsigned.zip"
+      "size": 38101159,
+      "url": "https://github.com/google-gemini/gemini-cli/releases/download/v0.68.0/gemini-darwin-x64-unsigned.zip"
     },
     {
       "name": "gemini-cli-bundle.zip",
-      "size": 21291052,
-      "url": "https://github.com/google-gemini/gemini-cli/releases/download/v0.67.0/gemini-cli-bundle.zip"
+      "size": 21318442,
+      "url": "https://github.com/google-gemini/gemini-cli/releases/download/v0.68.0/gemini-cli-bundle.zip"
     }
   ],
   "pinned": false,

@@ -22,41 +22,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/podman-container-tools/podman/zip/refs/heads/main",
   "release": {
-    "tag": "v6.1.4",
-    "name": "v6.1.4",
-    "published": "2026-10-12T20:59:46Z",
-    "url": "https://github.com/podman-container-tools/podman/releases/tag/v6.1.4"
+    "tag": "v6.2.0",
+    "name": "v6.2.0",
+    "published": "2026-11-10T20:01:54Z",
+    "url": "https://github.com/podman-container-tools/podman/releases/tag/v6.2.0"
   },
   "assets": [
     {
       "name": "podman-remote-release-darwin_arm64.zip",
-      "size": 25498436,
-      "url": "https://github.com/podman-container-tools/podman/releases/download/v6.1.4/podman-remote-release-darwin_arm64.zip"
+      "size": 26140403,
+      "url": "https://github.com/podman-container-tools/podman/releases/download/v6.2.0/podman-remote-release-darwin_arm64.zip"
     },
     {
       "name": "podman-installer-windows-arm64.msi",
-      "size": 26292224,
-      "url": "https://github.com/podman-container-tools/podman/releases/download/v6.1.4/podman-installer-windows-arm64.msi"
+      "size": 26812416,
+      "url": "https://github.com/podman-container-tools/podman/releases/download/v6.2.0/podman-installer-windows-arm64.msi"
     },
     {
       "name": "podman-installer-windows-amd64.msi",
-      "size": 28520448,
-      "url": "https://github.com/podman-container-tools/podman/releases/download/v6.1.4/podman-installer-windows-amd64.msi"
+      "size": 29102080,
+      "url": "https://github.com/podman-container-tools/podman/releases/download/v6.2.0/podman-installer-windows-amd64.msi"
     },
     {
       "name": "podman-installer-macos-arm64.pkg",
-      "size": 76099040,
-      "url": "https://github.com/podman-container-tools/podman/releases/download/v6.1.4/podman-installer-macos-arm64.pkg"
+      "size": 76730429,
+      "url": "https://github.com/podman-container-tools/podman/releases/download/v6.2.0/podman-installer-macos-arm64.pkg"
     },
     {
       "name": "podman-remote-static-linux_arm64.tar.gz",
-      "size": 21593081,
-      "url": "https://github.com/podman-container-tools/podman/releases/download/v6.1.4/podman-remote-static-linux_arm64.tar.gz"
+      "size": 22222763,
+      "url": "https://github.com/podman-container-tools/podman/releases/download/v6.2.0/podman-remote-static-linux_arm64.tar.gz"
     },
     {
       "name": "podman-remote-static-linux_amd64.tar.gz",
-      "size": 23549865,
-      "url": "https://github.com/podman-container-tools/podman/releases/download/v6.1.4/podman-remote-static-linux_amd64.tar.gz"
+      "size": 24238285,
+      "url": "https://github.com/podman-container-tools/podman/releases/download/v6.2.0/podman-remote-static-linux_amd64.tar.gz"
     }
   ],
   "pinned": false,

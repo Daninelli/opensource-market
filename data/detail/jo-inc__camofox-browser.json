@@ -20,33 +20,12 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/jo-inc/camofox-browser/zip/refs/heads/master",
   "release": {
-    "tag": "camoufox-backup-428447379",
-    "name": "Camoufox backup v158.0.1-beta.41",
-    "published": "2026-11-02T03:25:03Z",
-    "url": "https://github.com/jo-inc/camofox-browser/releases/tag/camoufox-backup-428447379"
+    "tag": "v1.19.0",
+    "name": "v1.19.0 — Agent tooling, reliability, and hardening",
+    "published": "2026-11-10T16:44:05Z",
+    "url": "https://github.com/jo-inc/camofox-browser/releases/tag/v1.19.0"
   },
-  "assets": [
-    {
-      "name": "camoufox-158.0.1-beta.41-win.i686.zip",
-      "size": 1304891471,
-      "url": "https://github.com/jo-inc/camofox-browser/releases/download/camoufox-backup-428447379/camoufox-158.0.1-beta.41-win.i686.zip"
-    },
-    {
-      "name": "camoufox-158.0.1-beta.41-win.x86_64.zip",
-      "size": 1320075455,
-      "url": "https://github.com/jo-inc/camofox-browser/releases/download/camoufox-backup-428447379/camoufox-158.0.1-beta.41-win.x86_64.zip"
-    },
-    {
-      "name": "camoufox-158.0.1-beta.41-lin.arm64.zip",
-      "size": 1297503606,
-      "url": "https://github.com/jo-inc/camofox-browser/releases/download/camoufox-backup-428447379/camoufox-158.0.1-beta.41-lin.arm64.zip"
-    },
-    {
-      "name": "camoufox-158.0.1-beta.41-mac.arm64.zip",
-      "size": 1297694189,
-      "url": "https://github.com/jo-inc/camofox-browser/releases/download/camoufox-backup-428447379/camoufox-158.0.1-beta.41-mac.arm64.zip"
-    }
-  ],
+  "assets": [],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

@@ -22,46 +22,46 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/stablyai/orca/zip/refs/heads/main",
   "release": {
-    "tag": "v1.4.255",
-    "name": "1.4.255",
-    "published": "2026-11-09T12:24:14Z",
-    "url": "https://github.com/stablyai/orca/releases/tag/v1.4.255"
+    "tag": "v1.4.257",
+    "name": "1.4.257",
+    "published": "2026-11-12T01:20:37Z",
+    "url": "https://github.com/stablyai/orca/releases/tag/v1.4.257"
   },
   "assets": [
     {
       "name": "orca-windows-setup.exe",
-      "size": 212788824,
-      "url": "https://github.com/stablyai/orca/releases/download/v1.4.255/orca-windows-setup.exe"
+      "size": 223904456,
+      "url": "https://github.com/stablyai/orca/releases/download/v1.4.257/orca-windows-setup.exe"
     },
     {
       "name": "orca-macos-arm64.dmg",
-      "size": 282275362,
-      "url": "https://github.com/stablyai/orca/releases/download/v1.4.255/orca-macos-arm64.dmg"
+      "size": 281589418,
+      "url": "https://github.com/stablyai/orca/releases/download/v1.4.257/orca-macos-arm64.dmg"
     },
     {
       "name": "orca-macos-x64.dmg",
-      "size": 292047245,
-      "url": "https://github.com/stablyai/orca/releases/download/v1.4.255/orca-macos-x64.dmg"
+      "size": 288723736,
+      "url": "https://github.com/stablyai/orca/releases/download/v1.4.257/orca-macos-x64.dmg"
     },
     {
-      "name": "orca-ide-1.4.255.aarch64.rpm",
-      "size": 159138469,
-      "url": "https://github.com/stablyai/orca/releases/download/v1.4.255/orca-ide-1.4.255.aarch64.rpm"
+      "name": "orca-server-linux-arm64.tar.gz",
+      "size": 63703495,
+      "url": "https://github.com/stablyai/orca/releases/download/v1.4.257/orca-server-linux-arm64.tar.gz"
     },
     {
-      "name": "orca-ide-1.4.255.x86_64.rpm",
-      "size": 162975213,
-      "url": "https://github.com/stablyai/orca/releases/download/v1.4.255/orca-ide-1.4.255.x86_64.rpm"
+      "name": "orca-server-linux-x64.tar.gz",
+      "size": 64046844,
+      "url": "https://github.com/stablyai/orca/releases/download/v1.4.257/orca-server-linux-x64.tar.gz"
     },
     {
-      "name": "orca-sourcemaps-v1.4.255.zip",
-      "size": 18249903,
-      "url": "https://github.com/stablyai/orca/releases/download/v1.4.255/orca-sourcemaps-v1.4.255.zip"
+      "name": "orca-sourcemaps-v1.4.257.zip",
+      "size": 18553239,
+      "url": "https://github.com/stablyai/orca/releases/download/v1.4.257/orca-sourcemaps-v1.4.257.zip"
     },
     {
-      "name": "Orca-1.4.255-arm64-mac.zip",
-      "size": 283537513,
-      "url": "https://github.com/stablyai/orca/releases/download/v1.4.255/Orca-1.4.255-arm64-mac.zip"
+      "name": "Orca-1.4.257-arm64-mac.zip",
+      "size": 282750067,
+      "url": "https://github.com/stablyai/orca/releases/download/v1.4.257/Orca-1.4.257-arm64-mac.zip"
     }
   ],
   "pinned": false,

@@ -26,7 +26,13 @@
     "published": "2026-11-08T07:14:03Z",
     "url": "https://github.com/p-e-w/heretic/releases/tag/v2.1.0"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "heretic-2.1.0.zip",
+      "size": 471476,
+      "url": "https://github.com/p-e-w/heretic/releases/download/v2.1.0/heretic-2.1.0.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

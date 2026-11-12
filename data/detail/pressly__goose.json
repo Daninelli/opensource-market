@@ -20,41 +20,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/pressly/goose/zip/refs/heads/main",
   "release": {
-    "tag": "v3.29.0",
-    "name": "v3.29.0",
-    "published": "2026-10-11T17:48:18Z",
-    "url": "https://github.com/pressly/goose/releases/tag/v3.29.0"
+    "tag": "v3.30.0",
+    "name": "v3.30.0",
+    "published": "2026-11-10T14:37:32Z",
+    "url": "https://github.com/pressly/goose/releases/tag/v3.30.0"
   },
   "assets": [
     {
       "name": "goose_windows_arm64.exe",
-      "size": 37240832,
-      "url": "https://github.com/pressly/goose/releases/download/v3.29.0/goose_windows_arm64.exe"
+      "size": 37383680,
+      "url": "https://github.com/pressly/goose/releases/download/v3.30.0/goose_windows_arm64.exe"
     },
     {
       "name": "goose_darwin_arm64",
-      "size": 41950322,
-      "url": "https://github.com/pressly/goose/releases/download/v3.29.0/goose_darwin_arm64"
+      "size": 42037170,
+      "url": "https://github.com/pressly/goose/releases/download/v3.30.0/goose_darwin_arm64"
     },
     {
       "name": "goose_windows_x86_64.exe",
-      "size": 43920384,
-      "url": "https://github.com/pressly/goose/releases/download/v3.29.0/goose_windows_x86_64.exe"
+      "size": 44077568,
+      "url": "https://github.com/pressly/goose/releases/download/v3.30.0/goose_windows_x86_64.exe"
     },
     {
       "name": "goose_darwin_x86_64",
-      "size": 44071440,
-      "url": "https://github.com/pressly/goose/releases/download/v3.29.0/goose_darwin_x86_64"
+      "size": 44251776,
+      "url": "https://github.com/pressly/goose/releases/download/v3.30.0/goose_darwin_x86_64"
     },
     {
       "name": "goose_linux_arm64",
       "size": 41287840,
-      "url": "https://github.com/pressly/goose/releases/download/v3.29.0/goose_linux_arm64"
+      "url": "https://github.com/pressly/goose/releases/download/v3.30.0/goose_linux_arm64"
     },
     {
       "name": "goose_linux_x86_64",
-      "size": 43634848,
-      "url": "https://github.com/pressly/goose/releases/download/v3.29.0/goose_linux_x86_64"
+      "size": 43765920,
+      "url": "https://github.com/pressly/goose/releases/download/v3.30.0/goose_linux_x86_64"
     }
   ],
   "pinned": false,

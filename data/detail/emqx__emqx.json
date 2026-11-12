@@ -22,10 +22,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/emqx/emqx/zip/refs/heads/master",
   "release": {
-    "tag": "6.3.2",
-    "name": "EMQX Enterprise (LTS) 6.3.2",
-    "published": "2026-10-16T19:18:56Z",
-    "url": "https://github.com/emqx/emqx/releases/tag/6.3.2"
+    "tag": "6.3.3",
+    "name": "EMQX Enterprise (LTS) 6.3.3",
+    "published": "2026-11-11T13:27:33Z",
+    "url": "https://github.com/emqx/emqx/releases/tag/6.3.3"
   },
   "assets": [],
   "pinned": false,

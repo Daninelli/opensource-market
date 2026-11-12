@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/polakowo/vectorbt/zip/refs/heads/master",
   "release": {
-    "tag": "v1.2.0",
-    "name": "v1.2.0",
-    "published": "2026-10-19T13:03:14Z",
-    "url": "https://github.com/polakowo/vectorbt/releases/tag/v1.2.0"
+    "tag": "v1.2.1",
+    "name": "v1.2.1",
+    "published": "2026-11-11T18:06:12Z",
+    "url": "https://github.com/polakowo/vectorbt/releases/tag/v1.2.1"
   },
   "assets": [],
   "pinned": false,

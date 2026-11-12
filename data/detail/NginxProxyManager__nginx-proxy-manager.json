@@ -21,10 +21,10 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/NginxProxyManager/nginx-proxy-manager/zip/refs/heads/develop",
   "release": {
-    "tag": "v2.16.0",
-    "name": "v2.16.0",
-    "published": "2026-09-24T09:59:08Z",
-    "url": "https://github.com/NginxProxyManager/nginx-proxy-manager/releases/tag/v2.16.0"
+    "tag": "v2.17.0",
+    "name": "v2.17.0",
+    "published": "2026-11-12T03:14:03Z",
+    "url": "https://github.com/NginxProxyManager/nginx-proxy-manager/releases/tag/v2.17.0"
   },
   "assets": [],
   "pinned": false,

@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/plotly/plotly.js/zip/refs/heads/main",
   "release": {
-    "tag": "v4.2.0",
-    "name": "v4.2.0",
-    "published": "2026-10-29T20:08:41Z",
-    "url": "https://github.com/plotly/plotly.js/releases/tag/v4.2.0"
+    "tag": "v4.3.0",
+    "name": "v4.3.0",
+    "published": "2026-11-10T21:58:21Z",
+    "url": "https://github.com/plotly/plotly.js/releases/tag/v4.3.0"
   },
   "assets": [],
   "pinned": false,

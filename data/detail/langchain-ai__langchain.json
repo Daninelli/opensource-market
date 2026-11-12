@@ -22,21 +22,21 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/langchain-ai/langchain/zip/refs/heads/master",
   "release": {
-    "tag": "langchain-core==1.7.7",
-    "name": "langchain-core==1.7.7",
-    "published": "2026-11-10T04:08:27Z",
-    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.7.7"
+    "tag": "langchain-core==1.8.0",
+    "name": "langchain-core==1.8.0",
+    "published": "2026-11-11T15:22:07Z",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.8.0"
   },
   "assets": [
     {
-      "name": "langchain_core-1.7.7-py3-none-any.whl",
-      "size": 580684,
-      "url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.7.7/langchain_core-1.7.7-py3-none-any.whl"
+      "name": "langchain_core-1.8.0-py3-none-any.whl",
+      "size": 587077,
+      "url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.8.0/langchain_core-1.8.0-py3-none-any.whl"
     },
     {
-      "name": "langchain_core-1.7.7.tar.gz",
-      "size": 1041952,
-      "url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.7.7/langchain_core-1.7.7.tar.gz"
+      "name": "langchain_core-1.8.0.tar.gz",
+      "size": 1016937,
+      "url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.8.0/langchain_core-1.8.0.tar.gz"
     }
   ],
   "pinned": false,

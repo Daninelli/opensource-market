@@ -22,41 +22,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/usestrix/strix/zip/refs/heads/main",
   "release": {
-    "tag": "v1.7.0",
-    "name": "v1.7.0",
-    "published": "2026-10-05T02:39:14Z",
-    "url": "https://github.com/usestrix/strix/releases/tag/v1.7.0"
+    "tag": "v1.7.1",
+    "name": "v1.7.1",
+    "published": "2026-11-10T21:24:38Z",
+    "url": "https://github.com/usestrix/strix/releases/tag/v1.7.1"
   },
   "assets": [
     {
-      "name": "strix_agent-1.7.0-py3-none-macosx_11_0_arm64.whl",
-      "size": 4192662,
-      "url": "https://github.com/usestrix/strix/releases/download/v1.7.0/strix_agent-1.7.0-py3-none-macosx_11_0_arm64.whl"
+      "name": "strix_agent-1.7.1-py3-none-macosx_11_0_arm64.whl",
+      "size": 4217171,
+      "url": "https://github.com/usestrix/strix/releases/download/v1.7.1/strix_agent-1.7.1-py3-none-macosx_11_0_arm64.whl"
     },
     {
-      "name": "strix_agent-1.7.0-py3-none-win_amd64.whl",
-      "size": 4340958,
-      "url": "https://github.com/usestrix/strix/releases/download/v1.7.0/strix_agent-1.7.0-py3-none-win_amd64.whl"
+      "name": "strix_agent-1.7.1-py3-none-win_amd64.whl",
+      "size": 4365783,
+      "url": "https://github.com/usestrix/strix/releases/download/v1.7.1/strix_agent-1.7.1-py3-none-win_amd64.whl"
     },
     {
-      "name": "strix_agent-1.7.0-py3-none-macosx_11_0_x86_64.whl",
-      "size": 4346200,
-      "url": "https://github.com/usestrix/strix/releases/download/v1.7.0/strix_agent-1.7.0-py3-none-macosx_11_0_x86_64.whl"
+      "name": "strix_agent-1.7.1-py3-none-macosx_11_0_x86_64.whl",
+      "size": 4370397,
+      "url": "https://github.com/usestrix/strix/releases/download/v1.7.1/strix_agent-1.7.1-py3-none-macosx_11_0_x86_64.whl"
     },
     {
-      "name": "strix-1.7.0-windows-x86_64.zip",
-      "size": 95969383,
-      "url": "https://github.com/usestrix/strix/releases/download/v1.7.0/strix-1.7.0-windows-x86_64.zip"
+      "name": "strix-1.7.1-windows-x86_64.zip",
+      "size": 96115444,
+      "url": "https://github.com/usestrix/strix/releases/download/v1.7.1/strix-1.7.1-windows-x86_64.zip"
     },
     {
-      "name": "strix_agent-1.7.0-py3-none-manylinux_2_17_aarch64.whl",
-      "size": 4077442,
-      "url": "https://github.com/usestrix/strix/releases/download/v1.7.0/strix_agent-1.7.0-py3-none-manylinux_2_17_aarch64.whl"
+      "name": "strix_agent-1.7.1-py3-none-manylinux_2_17_aarch64.whl",
+      "size": 4102007,
+      "url": "https://github.com/usestrix/strix/releases/download/v1.7.1/strix_agent-1.7.1-py3-none-manylinux_2_17_aarch64.whl"
     },
     {
-      "name": "strix_agent-1.7.0-py3-none-manylinux_2_17_x86_64.whl",
-      "size": 4304779,
-      "url": "https://github.com/usestrix/strix/releases/download/v1.7.0/strix_agent-1.7.0-py3-none-manylinux_2_17_x86_64.whl"
+      "name": "strix_agent-1.7.1-py3-none-manylinux_2_17_x86_64.whl",
+      "size": 4329040,
+      "url": "https://github.com/usestrix/strix/releases/download/v1.7.1/strix_agent-1.7.1-py3-none-manylinux_2_17_x86_64.whl"
     }
   ],
   "pinned": false,

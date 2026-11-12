@@ -21,41 +21,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/unslothai/unsloth/zip/refs/heads/main",
   "release": {
-    "tag": "v0.1.916-beta",
-    "name": "Large Performance Fixes",
-    "published": "2026-11-06T14:43:33Z",
-    "url": "https://github.com/unslothai/unsloth/releases/tag/v0.1.916-beta"
+    "tag": "v0.1.917-beta",
+    "name": "Dynamic v3.1 GGUFs + Performance Fixes",
+    "published": "2026-11-11T16:00:56Z",
+    "url": "https://github.com/unslothai/unsloth/releases/tag/v0.1.917-beta"
   },
   "assets": [
     {
       "name": "Unsloth-Desktop-Windows-ARM64.exe",
-      "size": 21030344,
-      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.916-beta/Unsloth-Desktop-Windows-ARM64.exe"
+      "size": 21136736,
+      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.917-beta/Unsloth-Desktop-Windows-ARM64.exe"
     },
     {
       "name": "Unsloth-Desktop-Windows.exe",
-      "size": 21681224,
-      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.916-beta/Unsloth-Desktop-Windows.exe"
+      "size": 21787272,
+      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.917-beta/Unsloth-Desktop-Windows.exe"
     },
     {
       "name": "Unsloth-Desktop-MacOS.dmg",
-      "size": 22218752,
-      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.916-beta/Unsloth-Desktop-MacOS.dmg"
+      "size": 22309291,
+      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.917-beta/Unsloth-Desktop-MacOS.dmg"
     },
     {
       "name": "Unsloth-Desktop-Ubuntu-ARM64.deb",
-      "size": 23386390,
-      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.916-beta/Unsloth-Desktop-Ubuntu-ARM64.deb"
+      "size": 23472918,
+      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.917-beta/Unsloth-Desktop-Ubuntu-ARM64.deb"
     },
     {
       "name": "Unsloth-Desktop-Ubuntu.deb",
-      "size": 23658216,
-      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.916-beta/Unsloth-Desktop-Ubuntu.deb"
+      "size": 23741408,
+      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.917-beta/Unsloth-Desktop-Ubuntu.deb"
     },
     {
       "name": "Unsloth-Desktop-ARM64.app.tar.gz",
-      "size": 21978757,
-      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.916-beta/Unsloth-Desktop-ARM64.app.tar.gz"
+      "size": 22066342,
+      "url": "https://github.com/unslothai/unsloth/releases/download/v0.1.917-beta/Unsloth-Desktop-ARM64.app.tar.gz"
     }
   ],
   "pinned": false,

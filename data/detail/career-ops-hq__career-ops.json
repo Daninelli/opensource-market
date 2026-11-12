@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/career-ops-hq/career-ops/zip/refs/heads/main",
   "release": {
-    "tag": "career-ops-v1.39.0",
-    "name": "career-ops v1.39.0: After the Scan",
-    "published": "2026-11-05T08:55:09Z",
-    "url": "https://github.com/career-ops-hq/career-ops/releases/tag/career-ops-v1.39.0"
+    "tag": "career-ops-v1.40.0",
+    "name": "career-ops v1.40.0: No Silent Drops",
+    "published": "2026-11-10T18:29:03Z",
+    "url": "https://github.com/career-ops-hq/career-ops/releases/tag/career-ops-v1.40.0"
   },
   "assets": [],
   "pinned": false,

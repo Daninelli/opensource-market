@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/reflex-dev/reflex/zip/refs/heads/main",
   "release": {
-    "tag": "v0.10.1",
-    "name": "v0.10.1",
-    "published": "2026-10-27T01:29:31Z",
-    "url": "https://github.com/reflex-dev/reflex/releases/tag/v0.10.1"
+    "tag": "v0.11.0",
+    "name": "v0.11.0",
+    "published": "2026-11-12T01:06:53Z",
+    "url": "https://github.com/reflex-dev/reflex/releases/tag/v0.11.0"
   },
   "assets": [],
   "pinned": false,

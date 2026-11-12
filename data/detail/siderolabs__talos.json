@@ -20,51 +20,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/siderolabs/talos/zip/refs/heads/main",
   "release": {
-    "tag": "v1.14.5",
-    "name": "v1.14.5",
-    "published": "2026-10-26T15:31:11Z",
-    "url": "https://github.com/siderolabs/talos/releases/tag/v1.14.5"
+    "tag": "v1.14.6",
+    "name": "v1.14.6",
+    "published": "2026-11-11T19:51:33Z",
+    "url": "https://github.com/siderolabs/talos/releases/tag/v1.14.6"
   },
   "assets": [
     {
-      "name": "talosctl-darwin-arm64",
-      "size": 113730178,
-      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.5/talosctl-darwin-arm64"
+      "name": "talosctl-windows-arm64.exe",
+      "size": 109062144,
+      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-windows-arm64.exe"
     },
     {
-      "name": "talosctl-windows-amd64.exe",
-      "size": 117482496,
-      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.5/talosctl-windows-amd64.exe"
+      "name": "talosctl-darwin-arm64",
+      "size": 114276754,
+      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-darwin-arm64"
+    },
+    {
+      "name": "talosctl-darwin-amd64",
+      "size": 120977392,
+      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-darwin-amd64"
     },
     {
       "name": "talosctl-linux-riscv64",
-      "size": 107020450,
-      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.5/talosctl-linux-riscv64"
+      "size": 107479202,
+      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-linux-riscv64"
     },
     {
       "name": "talosctl-linux-armv7",
-      "size": 110624930,
-      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.5/talosctl-linux-armv7"
+      "size": 111214754,
+      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-linux-armv7"
     },
     {
       "name": "talosctl-cni-bundle-arm64.tar.gz",
-      "size": 5240965,
-      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.5/talosctl-cni-bundle-arm64.tar.gz"
+      "size": 5241026,
+      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-cni-bundle-arm64.tar.gz"
     },
     {
       "name": "talosctl-cni-bundle-amd64.tar.gz",
-      "size": 5809936,
-      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.5/talosctl-cni-bundle-amd64.tar.gz"
+      "size": 5809872,
+      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-cni-bundle-amd64.tar.gz"
     },
     {
-      "name": "metal-arm64.raw.zst",
-      "size": 106202908,
-      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.5/metal-arm64.raw.zst"
-    },
-    {
-      "name": "metal-arm64-uki.efi",
-      "size": 106810880,
-      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.5/metal-arm64-uki.efi"
+      "name": "vmlinuz-amd64",
+      "size": 19312640,
+      "url": "https://github.com/siderolabs/talos/releases/download/v1.14.6/vmlinuz-amd64"
     }
   ],
   "pinned": false,

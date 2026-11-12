@@ -20,21 +20,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/agentscope-ai/QwenPaw/zip/refs/heads/main",
   "release": {
-    "tag": "v2.2.2.post1",
-    "name": "v2.2.2.post1",
-    "published": "2026-10-22T11:49:43Z",
-    "url": "https://github.com/agentscope-ai/QwenPaw/releases/tag/v2.2.2.post1"
+    "tag": "v2.3.0",
+    "name": "v2.3.0",
+    "published": "2026-11-11T12:41:27Z",
+    "url": "https://github.com/agentscope-ai/QwenPaw/releases/tag/v2.3.0"
   },
   "assets": [
     {
-      "name": "QwenPaw-Tauri-2.2.2.post1-Windows-setup.exe",
-      "size": 912986721,
-      "url": "https://github.com/agentscope-ai/QwenPaw/releases/download/v2.2.2.post1/QwenPaw-Tauri-2.2.2.post1-Windows-setup.exe"
+      "name": "QwenPaw-Tauri-2.3.0-Windows-setup.exe",
+      "size": 968953703,
+      "url": "https://github.com/agentscope-ai/QwenPaw/releases/download/v2.3.0/QwenPaw-Tauri-2.3.0-Windows-setup.exe"
     },
     {
-      "name": "QwenPaw-Tauri-2.2.2.post1-macOS.zip",
-      "size": 1056592275,
-      "url": "https://github.com/agentscope-ai/QwenPaw/releases/download/v2.2.2.post1/QwenPaw-Tauri-2.2.2.post1-macOS.zip"
+      "name": "QwenPaw-Tauri-2.3.0-macOS.zip",
+      "size": 1275856528,
+      "url": "https://github.com/agentscope-ai/QwenPaw/releases/download/v2.3.0/QwenPaw-Tauri-2.3.0-macOS.zip"
     }
   ],
   "pinned": false,

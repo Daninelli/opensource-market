@@ -20,36 +20,36 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/modem-dev/hunk/zip/refs/heads/main",
   "release": {
-    "tag": "v0.24.1",
-    "name": "v0.24.1",
-    "published": "2026-10-25T01:00:23Z",
-    "url": "https://github.com/modem-dev/hunk/releases/tag/v0.24.1"
+    "tag": "v0.25.0",
+    "name": "v0.25.0",
+    "published": "2026-11-11T18:09:23Z",
+    "url": "https://github.com/modem-dev/hunk/releases/tag/v0.25.0"
   },
   "assets": [
     {
       "name": "hunkdiff-darwin-arm64.tar.gz",
-      "size": 47819312,
-      "url": "https://github.com/modem-dev/hunk/releases/download/v0.24.1/hunkdiff-darwin-arm64.tar.gz"
+      "size": 47845180,
+      "url": "https://github.com/modem-dev/hunk/releases/download/v0.25.0/hunkdiff-darwin-arm64.tar.gz"
     },
     {
       "name": "hunkdiff-darwin-x64.tar.gz",
-      "size": 50220644,
-      "url": "https://github.com/modem-dev/hunk/releases/download/v0.24.1/hunkdiff-darwin-x64.tar.gz"
+      "size": 50248777,
+      "url": "https://github.com/modem-dev/hunk/releases/download/v0.25.0/hunkdiff-darwin-x64.tar.gz"
     },
     {
       "name": "hunkdiff-windows-x64.tar.gz",
-      "size": 61520066,
-      "url": "https://github.com/modem-dev/hunk/releases/download/v0.24.1/hunkdiff-windows-x64.tar.gz"
+      "size": 61551562,
+      "url": "https://github.com/modem-dev/hunk/releases/download/v0.25.0/hunkdiff-windows-x64.tar.gz"
     },
     {
       "name": "hunkdiff-linux-arm64.tar.gz",
-      "size": 70707103,
-      "url": "https://github.com/modem-dev/hunk/releases/download/v0.24.1/hunkdiff-linux-arm64.tar.gz"
+      "size": 70735386,
+      "url": "https://github.com/modem-dev/hunk/releases/download/v0.25.0/hunkdiff-linux-arm64.tar.gz"
     },
     {
       "name": "hunkdiff-linux-x64.tar.gz",
-      "size": 71396538,
-      "url": "https://github.com/modem-dev/hunk/releases/download/v0.24.1/hunkdiff-linux-x64.tar.gz"
+      "size": 71426535,
+      "url": "https://github.com/modem-dev/hunk/releases/download/v0.25.0/hunkdiff-linux-x64.tar.gz"
     }
   ],
   "pinned": false,

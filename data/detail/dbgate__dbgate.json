@@ -21,46 +21,36 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/dbgate/dbgate/zip/refs/heads/master",
   "release": {
-    "tag": "v7.3.4",
-    "name": "v7.3.4",
-    "published": "2026-11-02T12:06:21Z",
-    "url": "https://github.com/dbgate/dbgate/releases/tag/v7.3.4"
+    "tag": "v7.3.5",
+    "name": "v7.3.5",
+    "published": "2026-11-11T13:37:54Z",
+    "url": "https://github.com/dbgate/dbgate/releases/tag/v7.3.5"
   },
   "assets": [
     {
-      "name": "dbgate-7.3.4-win_arm64.exe",
-      "size": 145785944,
-      "url": "https://github.com/dbgate/dbgate/releases/download/v7.3.4/dbgate-7.3.4-win_arm64.exe"
+      "name": "dbgate-7.3.5-win_arm64.exe",
+      "size": 146026368,
+      "url": "https://github.com/dbgate/dbgate/releases/download/v7.3.5/dbgate-7.3.5-win_arm64.exe"
     },
     {
       "name": "dbgate-windows-latest-arm64.exe",
-      "size": 145785944,
-      "url": "https://github.com/dbgate/dbgate/releases/download/v7.3.4/dbgate-windows-latest-arm64.exe"
+      "size": 146026368,
+      "url": "https://github.com/dbgate/dbgate/releases/download/v7.3.5/dbgate-windows-latest-arm64.exe"
     },
     {
-      "name": "dbgate-7.3.4-mac_arm64.zip",
-      "size": 201605619,
-      "url": "https://github.com/dbgate/dbgate/releases/download/v7.3.4/dbgate-7.3.4-mac_arm64.zip"
+      "name": "dbgate-premium-7.3.5-linux_x86_64.AppImage",
+      "size": 239885906,
+      "url": "https://github.com/dbgate/dbgate/releases/download/v7.3.5/dbgate-premium-7.3.5-linux_x86_64.AppImage"
     },
     {
-      "name": "dbgate-7.3.4-mac_arm64.dmg",
-      "size": 202042667,
-      "url": "https://github.com/dbgate/dbgate/releases/download/v7.3.4/dbgate-7.3.4-mac_arm64.dmg"
-    },
-    {
-      "name": "dbgate-7.3.4-linux_amd64.deb",
-      "size": 164572008,
-      "url": "https://github.com/dbgate/dbgate/releases/download/v7.3.4/dbgate-7.3.4-linux_amd64.deb"
-    },
-    {
-      "name": "dbgate-latest.deb",
-      "size": 164572008,
-      "url": "https://github.com/dbgate/dbgate/releases/download/v7.3.4/dbgate-latest.deb"
+      "name": "dbgate-premium-latest.AppImage",
+      "size": 239885906,
+      "url": "https://github.com/dbgate/dbgate/releases/download/v7.3.5/dbgate-premium-latest.AppImage"
     },
     {
       "name": "cloud-build.zip",
-      "size": 8417814,
-      "url": "https://github.com/dbgate/dbgate/releases/download/v7.3.4/cloud-build.zip"
+      "size": 8426984,
+      "url": "https://github.com/dbgate/dbgate/releases/download/v7.3.5/cloud-build.zip"
     }
   ],
   "pinned": false,

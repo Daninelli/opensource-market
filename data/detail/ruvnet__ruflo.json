@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ruvnet/ruflo/zip/refs/heads/main",
   "release": {
-    "tag": "v3.75.0",
-    "name": "v3.75.0 — 25 issue fixes, plugins host, dual init, memory scopes, inventory tools",
-    "published": "2026-11-10T01:50:36Z",
-    "url": "https://github.com/ruvnet/ruflo/releases/tag/v3.75.0"
+    "tag": "v3.76.0",
+    "name": "v3.76.0 — opt-in centroid agent router, neural router assets shipped",
+    "published": "2026-11-11T14:48:29Z",
+    "url": "https://github.com/ruvnet/ruflo/releases/tag/v3.76.0"
   },
   "assets": [],
   "pinned": false,

@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/CapSoftware/Cap/zip/refs/heads/main",
   "release": {
-    "tag": "cap-v0.6.2",
-    "name": "0.6.2",
-    "published": "2026-10-28T21:36:26Z",
-    "url": "https://github.com/CapSoftware/Cap/releases/tag/cap-v0.6.2"
+    "tag": "cap-v0.6.3",
+    "name": "0.6.3",
+    "published": "2026-11-11T22:49:35Z",
+    "url": "https://github.com/CapSoftware/Cap/releases/tag/cap-v0.6.3"
   },
   "assets": [],
   "pinned": false,

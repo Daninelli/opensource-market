@@ -22,31 +22,31 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/Ruben2776/PicView/zip/refs/heads/dev",
   "release": {
-    "tag": "5.2.0.1",
-    "name": "PicView 5.2.0.1",
-    "published": "2026-10-29T14:45:15Z",
-    "url": "https://github.com/Ruben2776/PicView/releases/tag/5.2.0.1"
+    "tag": "5.2.2",
+    "name": "PicView 5.2.2",
+    "published": "2026-11-10T21:49:43Z",
+    "url": "https://github.com/Ruben2776/PicView/releases/tag/5.2.2"
   },
   "assets": [
     {
-      "name": "Setup-PicView-v5.2.0.1-win-arm64.exe",
-      "size": 22525096,
-      "url": "https://github.com/Ruben2776/PicView/releases/download/5.2.0.1/Setup-PicView-v5.2.0.1-win-arm64.exe"
+      "name": "Setup-PicView-v5.2.2-win-arm64.exe",
+      "size": 22561744,
+      "url": "https://github.com/Ruben2776/PicView/releases/download/5.2.2/Setup-PicView-v5.2.2-win-arm64.exe"
     },
     {
-      "name": "PicView-v5.2.0.1-win-arm64.zip",
-      "size": 29314649,
-      "url": "https://github.com/Ruben2776/PicView/releases/download/5.2.0.1/PicView-v5.2.0.1-win-arm64.zip"
+      "name": "PicView-v5.2.2-win-arm64.zip",
+      "size": 29367558,
+      "url": "https://github.com/Ruben2776/PicView/releases/download/5.2.2/PicView-v5.2.2-win-arm64.zip"
     },
     {
-      "name": "PicView-5.2.0.1-macOS-arm64.dmg",
-      "size": 57745964,
-      "url": "https://github.com/Ruben2776/PicView/releases/download/5.2.0.1/PicView-5.2.0.1-macOS-arm64.dmg"
+      "name": "PicView-5.2.2-macOS-arm64.dmg",
+      "size": 57774094,
+      "url": "https://github.com/Ruben2776/PicView/releases/download/5.2.2/PicView-5.2.2-macOS-arm64.dmg"
     },
     {
-      "name": "PicView-5.2.0.1-macOS-x64.dmg",
-      "size": 65804349,
-      "url": "https://github.com/Ruben2776/PicView/releases/download/5.2.0.1/PicView-5.2.0.1-macOS-x64.dmg"
+      "name": "PicView-5.2.2-macOS-x64.dmg",
+      "size": 65666909,
+      "url": "https://github.com/Ruben2776/PicView/releases/download/5.2.2/PicView-5.2.2-macOS-x64.dmg"
     }
   ],
   "pinned": false,

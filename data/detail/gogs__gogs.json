@@ -22,41 +22,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/gogs/gogs/zip/refs/heads/main",
   "release": {
-    "tag": "v0.14.3",
-    "name": "0.14.3",
-    "published": "2026-06-07T20:51:06Z",
-    "url": "https://github.com/gogs/gogs/releases/tag/v0.14.3"
+    "tag": "v0.14.4",
+    "name": "v0.14.4",
+    "published": "2026-11-12T02:31:10Z",
+    "url": "https://github.com/gogs/gogs/releases/tag/v0.14.4"
   },
   "assets": [
     {
-      "name": "gogs_v0.14.3_windows_arm64.zip",
-      "size": 39323900,
-      "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_windows_arm64.zip"
+      "name": "gogs_v0.14.4_windows_arm64.zip",
+      "size": 39328756,
+      "url": "https://github.com/gogs/gogs/releases/download/v0.14.4/gogs_v0.14.4_windows_arm64.zip"
     },
     {
-      "name": "gogs_v0.14.3_windows_arm64_mws.zip",
-      "size": 39347057,
-      "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_windows_arm64_mws.zip"
+      "name": "gogs_v0.14.4_windows_arm64_mws.zip",
+      "size": 39352960,
+      "url": "https://github.com/gogs/gogs/releases/download/v0.14.4/gogs_v0.14.4_windows_arm64_mws.zip"
     },
     {
-      "name": "gogs_v0.14.3_darwin_arm64.zip",
-      "size": 41161431,
-      "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_darwin_arm64.zip"
+      "name": "gogs_v0.14.4_darwin_arm64.zip",
+      "size": 41156409,
+      "url": "https://github.com/gogs/gogs/releases/download/v0.14.4/gogs_v0.14.4_darwin_arm64.zip"
     },
     {
-      "name": "gogs_v0.14.3_darwin_amd64.zip",
-      "size": 42520387,
-      "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_darwin_amd64.zip"
+      "name": "gogs_v0.14.4_darwin_amd64.zip",
+      "size": 42539436,
+      "url": "https://github.com/gogs/gogs/releases/download/v0.14.4/gogs_v0.14.4_darwin_amd64.zip"
     },
     {
-      "name": "gogs_v0.14.3_linux_arm64.tar.gz",
-      "size": 39087328,
-      "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_linux_arm64.tar.gz"
+      "name": "gogs_v0.14.4_linux_arm64.tar.gz",
+      "size": 39095509,
+      "url": "https://github.com/gogs/gogs/releases/download/v0.14.4/gogs_v0.14.4_linux_arm64.tar.gz"
     },
     {
-      "name": "gogs_v0.14.3_linux_arm64.zip",
-      "size": 39095579,
-      "url": "https://github.com/gogs/gogs/releases/download/v0.14.3/gogs_v0.14.3_linux_arm64.zip"
+      "name": "gogs_v0.14.4_linux_arm64.zip",
+      "size": 39104636,
+      "url": "https://github.com/gogs/gogs/releases/download/v0.14.4/gogs_v0.14.4_linux_arm64.zip"
     }
   ],
   "pinned": false,

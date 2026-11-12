@@ -21,31 +21,31 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/TeamWiseFlow/xiaobei/zip/refs/heads/master",
   "release": {
-    "tag": "v5.8.0",
-    "name": "v5.8.0",
-    "published": "2026-10-30T02:37:36Z",
-    "url": "https://github.com/TeamWiseFlow/xiaobei/releases/tag/v5.8.0"
+    "tag": "v5.8.1",
+    "name": "v5.8.1",
+    "published": "2026-11-11T06:55:03Z",
+    "url": "https://github.com/TeamWiseFlow/xiaobei/releases/tag/v5.8.1"
   },
   "assets": [
     {
-      "name": "xiaobei-v5.8.0-win-x64.tar.gz",
-      "size": 347171157,
-      "url": "https://github.com/TeamWiseFlow/xiaobei/releases/download/v5.8.0/xiaobei-v5.8.0-win-x64.tar.gz"
+      "name": "xiaobei-v5.8.1-win-x64.tar.gz",
+      "size": 468461113,
+      "url": "https://github.com/TeamWiseFlow/xiaobei/releases/download/v5.8.1/xiaobei-v5.8.1-win-x64.tar.gz"
     },
     {
-      "name": "xiaobei-v5.8.0-mac-arm64.tar.gz",
-      "size": 359786097,
-      "url": "https://github.com/TeamWiseFlow/xiaobei/releases/download/v5.8.0/xiaobei-v5.8.0-mac-arm64.tar.gz"
+      "name": "xiaobei-v5.8.1-mac-arm64.tar.gz",
+      "size": 483746665,
+      "url": "https://github.com/TeamWiseFlow/xiaobei/releases/download/v5.8.1/xiaobei-v5.8.1-mac-arm64.tar.gz"
     },
     {
-      "name": "xiaobei-v5.8.0-mac-x64.tar.gz",
-      "size": 363365906,
-      "url": "https://github.com/TeamWiseFlow/xiaobei/releases/download/v5.8.0/xiaobei-v5.8.0-mac-x64.tar.gz"
+      "name": "xiaobei-v5.8.1-mac-x64.tar.gz",
+      "size": 487404159,
+      "url": "https://github.com/TeamWiseFlow/xiaobei/releases/download/v5.8.1/xiaobei-v5.8.1-mac-x64.tar.gz"
     },
     {
-      "name": "xiaobei-v5.8.0-linux-x64.tar.zst",
-      "size": 342440929,
-      "url": "https://github.com/TeamWiseFlow/xiaobei/releases/download/v5.8.0/xiaobei-v5.8.0-linux-x64.tar.zst"
+      "name": "xiaobei-v5.8.1-linux-x64.tar.zst",
+      "size": 474815626,
+      "url": "https://github.com/TeamWiseFlow/xiaobei/releases/download/v5.8.1/xiaobei-v5.8.1-linux-x64.tar.zst"
     }
   ],
   "pinned": false,

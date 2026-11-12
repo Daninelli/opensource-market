@@ -22,21 +22,21 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/pixijs/pixijs/zip/refs/heads/dev",
   "release": {
-    "tag": "v8.22.0",
-    "name": "v8.22.0",
-    "published": "2026-10-01T21:48:36Z",
-    "url": "https://github.com/pixijs/pixijs/releases/tag/v8.22.0"
+    "tag": "v8.23.0",
+    "name": "v8.23.0",
+    "published": "2026-11-11T13:17:41Z",
+    "url": "https://github.com/pixijs/pixijs/releases/tag/v8.23.0"
   },
   "assets": [
     {
       "name": "pixi.min.js",
-      "size": 840663,
-      "url": "https://github.com/pixijs/pixijs/releases/download/v8.22.0/pixi.min.js"
+      "size": 912519,
+      "url": "https://github.com/pixijs/pixijs/releases/download/v8.23.0/pixi.min.js"
     },
     {
       "name": "pixi.min.mjs",
-      "size": 841319,
-      "url": "https://github.com/pixijs/pixijs/releases/download/v8.22.0/pixi.min.mjs"
+      "size": 913218,
+      "url": "https://github.com/pixijs/pixijs/releases/download/v8.23.0/pixi.min.mjs"
     }
   ],
   "pinned": false,

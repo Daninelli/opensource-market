@@ -22,10 +22,10 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/misskey-dev/misskey/zip/refs/heads/develop",
   "release": {
-    "tag": "2026.10.1",
-    "name": "2026.10.1",
-    "published": "2026-10-23T23:34:05Z",
-    "url": "https://github.com/misskey-dev/misskey/releases/tag/2026.10.1"
+    "tag": "2026.11.0",
+    "name": "2026.11.0",
+    "published": "2026-11-12T03:50:38Z",
+    "url": "https://github.com/misskey-dev/misskey/releases/tag/2026.11.0"
   },
   "assets": [],
   "pinned": false,

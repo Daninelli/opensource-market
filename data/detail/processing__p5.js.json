@@ -22,26 +22,26 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/processing/p5.js/zip/refs/heads/main",
   "release": {
-    "tag": "v2.3.4",
-    "name": "v2.3.4",
-    "published": "2026-09-25T20:01:55Z",
-    "url": "https://github.com/processing/p5.js/releases/tag/v2.3.4"
+    "tag": "v2.4.0",
+    "name": "v2.4.0",
+    "published": "2026-11-12T00:14:28Z",
+    "url": "https://github.com/processing/p5.js/releases/tag/v2.4.0"
   },
   "assets": [
     {
       "name": "p5.min.js",
-      "size": 990638,
-      "url": "https://github.com/processing/p5.js/releases/download/v2.3.4/p5.min.js"
-    },
-    {
-      "name": "p5.esm.js",
-      "size": 4319455,
-      "url": "https://github.com/processing/p5.js/releases/download/v2.3.4/p5.esm.js"
+      "size": 1066050,
+      "url": "https://github.com/processing/p5.js/releases/download/v2.4.0/p5.min.js"
     },
     {
       "name": "p5.zip",
-      "size": 5468879,
-      "url": "https://github.com/processing/p5.js/releases/download/v2.3.4/p5.zip"
+      "size": 2392466,
+      "url": "https://github.com/processing/p5.js/releases/download/v2.4.0/p5.zip"
+    },
+    {
+      "name": "p5.esm.js",
+      "size": 3809533,
+      "url": "https://github.com/processing/p5.js/releases/download/v2.4.0/p5.esm.js"
     }
   ],
   "pinned": false,

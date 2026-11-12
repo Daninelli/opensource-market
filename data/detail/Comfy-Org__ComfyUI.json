@@ -21,21 +21,21 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Comfy-Org/ComfyUI/zip/refs/heads/master",
   "release": {
-    "tag": "v0.44.0",
-    "name": "v0.44.0",
-    "published": "2026-11-04T01:12:27Z",
-    "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.44.0"
+    "tag": "v0.45.0",
+    "name": "v0.45.0",
+    "published": "2026-11-10T21:42:42Z",
+    "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.0"
   },
   "assets": [
     {
       "name": "ComfyUI_windows_portable_intel.7z",
-      "size": 1486960018,
-      "url": "https://github.com/Comfy-Org/ComfyUI/releases/download/v0.44.0/ComfyUI_windows_portable_intel.7z"
+      "size": 1503750967,
+      "url": "https://github.com/Comfy-Org/ComfyUI/releases/download/v0.45.0/ComfyUI_windows_portable_intel.7z"
     },
     {
       "name": "ComfyUI_windows_portable_amd.7z",
-      "size": 1671700941,
-      "url": "https://github.com/Comfy-Org/ComfyUI/releases/download/v0.44.0/ComfyUI_windows_portable_amd.7z"
+      "size": 1688825308,
+      "url": "https://github.com/Comfy-Org/ComfyUI/releases/download/v0.45.0/ComfyUI_windows_portable_amd.7z"
     }
   ],
   "pinned": false,

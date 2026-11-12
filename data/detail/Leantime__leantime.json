@@ -22,21 +22,21 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Leantime/leantime/zip/refs/heads/master",
   "release": {
-    "tag": "v3.13.2",
-    "name": "Leantime v3.13.2",
-    "published": "2026-10-31T00:48:51Z",
-    "url": "https://github.com/Leantime/leantime/releases/tag/v3.13.2"
+    "tag": "v3.14.0",
+    "name": "Leantime v3.14.0",
+    "published": "2026-11-10T23:49:30Z",
+    "url": "https://github.com/Leantime/leantime/releases/tag/v3.14.0"
   },
   "assets": [
     {
-      "name": "Leantime-v3.13.2.tar.gz",
-      "size": 120350088,
-      "url": "https://github.com/Leantime/leantime/releases/download/v3.13.2/Leantime-v3.13.2.tar.gz"
+      "name": "Leantime-v3.14.0.tar.gz",
+      "size": 120359229,
+      "url": "https://github.com/Leantime/leantime/releases/download/v3.14.0/Leantime-v3.14.0.tar.gz"
     },
     {
-      "name": "Leantime-v3.13.2.zip",
-      "size": 127665359,
-      "url": "https://github.com/Leantime/leantime/releases/download/v3.13.2/Leantime-v3.13.2.zip"
+      "name": "Leantime-v3.14.0.zip",
+      "size": 127669274,
+      "url": "https://github.com/Leantime/leantime/releases/download/v3.14.0/Leantime-v3.14.0.zip"
     }
   ],
   "pinned": false,

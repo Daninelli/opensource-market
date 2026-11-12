@@ -23,10 +23,10 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/baserow/baserow/zip/refs/heads/develop",
   "release": {
-    "tag": "2.4.1",
-    "name": "2.4.1",
-    "published": "2026-10-13T15:39:27Z",
-    "url": "https://github.com/baserow/baserow/releases/tag/2.4.1"
+    "tag": "2.4.2",
+    "name": "2.4.2",
+    "published": "2026-11-11T15:51:21Z",
+    "url": "https://github.com/baserow/baserow/releases/tag/2.4.2"
   },
   "assets": [],
   "pinned": false,

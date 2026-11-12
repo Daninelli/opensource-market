@@ -23,31 +23,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/medplum/medplum/zip/refs/heads/main",
   "release": {
-    "tag": "v5.2.16",
-    "name": "Version 5.2.16",
-    "published": "2026-11-10T04:17:31Z",
-    "url": "https://github.com/medplum/medplum/releases/tag/v5.2.16"
+    "tag": "v5.2.17",
+    "name": "Version 5.2.17",
+    "published": "2026-11-11T01:34:07Z",
+    "url": "https://github.com/medplum/medplum/releases/tag/v5.2.17"
   },
   "assets": [
     {
-      "name": "medplum-agent-installer-5.2.16.exe",
-      "size": 37760744,
-      "url": "https://github.com/medplum/medplum/releases/download/v5.2.16/medplum-agent-installer-5.2.16.exe"
+      "name": "medplum-agent-installer-5.2.17.exe",
+      "size": 37760736,
+      "url": "https://github.com/medplum/medplum/releases/download/v5.2.17/medplum-agent-installer-5.2.17.exe"
     },
     {
-      "name": "medplum-agent-5.2.16-macos-arm64",
+      "name": "medplum-agent-5.2.17-macos-arm64",
       "size": 127407200,
-      "url": "https://github.com/medplum/medplum/releases/download/v5.2.16/medplum-agent-5.2.16-macos-arm64"
+      "url": "https://github.com/medplum/medplum/releases/download/v5.2.17/medplum-agent-5.2.17-macos-arm64"
     },
     {
-      "name": "medplum-agent-5.2.16-linux-arm64",
+      "name": "medplum-agent-5.2.17-linux-arm64",
       "size": 129240192,
-      "url": "https://github.com/medplum/medplum/releases/download/v5.2.16/medplum-agent-5.2.16-linux-arm64"
+      "url": "https://github.com/medplum/medplum/releases/download/v5.2.17/medplum-agent-5.2.17-linux-arm64"
     },
     {
-      "name": "medplum-agent-5.2.16-linux-x64",
+      "name": "medplum-agent-5.2.17-linux-x64",
       "size": 132779200,
-      "url": "https://github.com/medplum/medplum/releases/download/v5.2.16/medplum-agent-5.2.16-linux-x64"
+      "url": "https://github.com/medplum/medplum/releases/download/v5.2.17/medplum-agent-5.2.17-linux-x64"
     }
   ],
   "pinned": false,

@@ -22,41 +22,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/aandrew-me/ytDownloader/zip/refs/heads/main",
   "release": {
-    "tag": "v4.0.1",
-    "name": "v4.0.1",
-    "published": "2026-08-26T09:25:24Z",
-    "url": "https://github.com/aandrew-me/ytDownloader/releases/tag/v4.0.1"
+    "tag": "v4.1.0",
+    "name": "v4.1.0",
+    "published": "2026-11-11T13:50:38Z",
+    "url": "https://github.com/aandrew-me/ytDownloader/releases/tag/v4.1.0"
   },
   "assets": [
     {
       "name": "YTDownloader_Win.exe",
-      "size": 115396004,
-      "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.1/YTDownloader_Win.exe"
-    },
-    {
-      "name": "YTDownloader_Win.msi",
-      "size": 132826879,
-      "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.1/YTDownloader_Win.msi"
+      "size": 159786043,
+      "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v4.1.0/YTDownloader_Win.exe"
     },
     {
       "name": "YTDownloader_Mac_arm64.zip",
-      "size": 135161807,
-      "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.1/YTDownloader_Mac_arm64.zip"
+      "size": 160471210,
+      "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v4.1.0/YTDownloader_Mac_arm64.zip"
     },
     {
       "name": "YTDownloader_Mac_arm64.dmg",
-      "size": 135163776,
-      "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.1/YTDownloader_Mac_arm64.dmg"
+      "size": 165344127,
+      "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v4.1.0/YTDownloader_Mac_arm64.dmg"
+    },
+    {
+      "name": "YTDownloader_Win.msi",
+      "size": 168818525,
+      "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v4.1.0/YTDownloader_Win.msi"
     },
     {
       "name": "YTDownloader_Linux.rpm",
-      "size": 120447821,
-      "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.1/YTDownloader_Linux.rpm"
+      "size": 139559421,
+      "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v4.1.0/YTDownloader_Linux.rpm"
     },
     {
       "name": "YTDownloader_Linux.deb",
-      "size": 137929852,
-      "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.1/YTDownloader_Linux.deb"
+      "size": 159385668,
+      "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v4.1.0/YTDownloader_Linux.deb"
     }
   ],
   "pinned": false,

@@ -20,41 +20,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/genspark-ai/genoffice/zip/refs/heads/main",
   "release": {
-    "tag": "v0.12.852",
-    "name": "GenOffice v0.12.852",
-    "published": "2026-11-04T15:37:55Z",
-    "url": "https://github.com/genspark-ai/genoffice/releases/tag/v0.12.852"
+    "tag": "v0.13.18",
+    "name": "GenOffice v0.13.18",
+    "published": "2026-11-12T07:01:12Z",
+    "url": "https://github.com/genspark-ai/genoffice/releases/tag/v0.13.18"
   },
   "assets": [
     {
-      "name": "GenOfficeSetup-v0.12.852-x64.exe",
-      "size": 164843400,
-      "url": "https://github.com/genspark-ai/genoffice/releases/download/v0.12.852/GenOfficeSetup-v0.12.852-x64.exe"
+      "name": "GenOfficeSetup-v0.13.18-x64.exe",
+      "size": 165233592,
+      "url": "https://github.com/genspark-ai/genoffice/releases/download/v0.13.18/GenOfficeSetup-v0.13.18-x64.exe"
     },
     {
-      "name": "GenOfficeSetup-v0.12.852-arm64.exe",
-      "size": 168528336,
-      "url": "https://github.com/genspark-ai/genoffice/releases/download/v0.12.852/GenOfficeSetup-v0.12.852-arm64.exe"
+      "name": "GenOfficeSetup-v0.13.18-arm64.exe",
+      "size": 168885040,
+      "url": "https://github.com/genspark-ai/genoffice/releases/download/v0.13.18/GenOfficeSetup-v0.13.18-arm64.exe"
     },
     {
-      "name": "GenOffice-0.12.852-arm64.dmg",
-      "size": 205050224,
-      "url": "https://github.com/genspark-ai/genoffice/releases/download/v0.12.852/GenOffice-0.12.852-arm64.dmg"
+      "name": "GenOffice-0.13.18-arm64.dmg",
+      "size": 205474171,
+      "url": "https://github.com/genspark-ai/genoffice/releases/download/v0.13.18/GenOffice-0.13.18-arm64.dmg"
     },
     {
-      "name": "GenOffice-0.12.852.dmg",
-      "size": 210665469,
-      "url": "https://github.com/genspark-ai/genoffice/releases/download/v0.12.852/GenOffice-0.12.852.dmg"
+      "name": "GenOffice-0.13.18.dmg",
+      "size": 211132935,
+      "url": "https://github.com/genspark-ai/genoffice/releases/download/v0.13.18/GenOffice-0.13.18.dmg"
     },
     {
-      "name": "genoffice-0.12.852.x86_64.rpm",
-      "size": 133169201,
-      "url": "https://github.com/genspark-ai/genoffice/releases/download/v0.12.852/genoffice-0.12.852.x86_64.rpm"
+      "name": "genoffice-0.13.18.x86_64.rpm",
+      "size": 133470181,
+      "url": "https://github.com/genspark-ai/genoffice/releases/download/v0.13.18/genoffice-0.13.18.x86_64.rpm"
     },
     {
-      "name": "genoffice_0.12.852_amd64.deb",
-      "size": 161237080,
-      "url": "https://github.com/genspark-ai/genoffice/releases/download/v0.12.852/genoffice_0.12.852_amd64.deb"
+      "name": "genoffice_0.13.18_amd64.deb",
+      "size": 162230724,
+      "url": "https://github.com/genspark-ai/genoffice/releases/download/v0.13.18/genoffice_0.13.18_amd64.deb"
     }
   ],
   "pinned": false,

@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/coreyhaines31/marketingskills/zip/refs/heads/main",
   "release": {
-    "tag": "v2.14.9",
-    "name": "v2.14.9 — Skills load for judgement calls too, even with many other skills installed.",
-    "published": "2026-11-09T21:54:36Z",
-    "url": "https://github.com/coreyhaines31/marketingskills/releases/tag/v2.14.9"
+    "tag": "v2.14.12",
+    "name": "v2.14.12 — Skills install cleanly under regex skill scanners that block on prompt-injection phrases.",
+    "published": "2026-11-11T17:49:23Z",
+    "url": "https://github.com/coreyhaines31/marketingskills/releases/tag/v2.14.12"
   },
   "assets": [],
   "pinned": false,

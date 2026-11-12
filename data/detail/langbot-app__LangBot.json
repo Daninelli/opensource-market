@@ -20,21 +20,21 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/langbot-app/LangBot/zip/refs/heads/master",
   "release": {
-    "tag": "v4.11.5",
-    "name": "LangBot v4.11.5",
-    "published": "2026-11-10T07:16:18Z",
-    "url": "https://github.com/langbot-app/LangBot/releases/tag/v4.11.5"
+    "tag": "v4.11.7",
+    "name": "LangBot v4.11.7",
+    "published": "2026-11-11T11:02:33Z",
+    "url": "https://github.com/langbot-app/LangBot/releases/tag/v4.11.7"
   },
   "assets": [
     {
-      "name": "langbot-4.11.5-fnos.fpk",
-      "size": 49206059,
-      "url": "https://github.com/langbot-app/LangBot/releases/download/v4.11.5/langbot-4.11.5-fnos.fpk"
+      "name": "langbot-4.11.7-fnos.fpk",
+      "size": 49211298,
+      "url": "https://github.com/langbot-app/LangBot/releases/download/v4.11.7/langbot-4.11.7-fnos.fpk"
     },
     {
-      "name": "langbot-v4.11.5-all.zip",
-      "size": 74293992,
-      "url": "https://github.com/langbot-app/LangBot/releases/download/v4.11.5/langbot-v4.11.5-all.zip"
+      "name": "langbot-v4.11.7-all.zip",
+      "size": 74330207,
+      "url": "https://github.com/langbot-app/LangBot/releases/download/v4.11.7/langbot-v4.11.7-all.zip"
     }
   ],
   "pinned": false,

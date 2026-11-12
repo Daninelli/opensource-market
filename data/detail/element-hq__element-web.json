@@ -22,16 +22,16 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/element-hq/element-web/zip/refs/heads/develop",
   "release": {
-    "tag": "v1.12.33",
-    "name": "v1.12.33",
-    "published": "2026-10-27T14:42:44Z",
-    "url": "https://github.com/element-hq/element-web/releases/tag/v1.12.33"
+    "tag": "v1.12.34",
+    "name": "v1.12.34",
+    "published": "2026-11-11T10:42:24Z",
+    "url": "https://github.com/element-hq/element-web/releases/tag/v1.12.34"
   },
   "assets": [
     {
-      "name": "element-v1.12.33.tar.gz",
-      "size": 53352004,
-      "url": "https://github.com/element-hq/element-web/releases/download/v1.12.33/element-v1.12.33.tar.gz"
+      "name": "element-v1.12.34.tar.gz",
+      "size": 58399138,
+      "url": "https://github.com/element-hq/element-web/releases/download/v1.12.34/element-v1.12.34.tar.gz"
     }
   ],
   "pinned": false,

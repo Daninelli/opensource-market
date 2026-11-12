@@ -20,41 +20,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/plantuml/plantuml/zip/refs/heads/master",
   "release": {
-    "tag": "v1.2026.9",
-    "name": "v1.2026.9",
-    "published": "2026-10-17T08:33:35Z",
-    "url": "https://github.com/plantuml/plantuml/releases/tag/v1.2026.9"
+    "tag": "v1.2026.10",
+    "name": "v1.2026.10",
+    "published": "2026-11-11T11:23:55Z",
+    "url": "https://github.com/plantuml/plantuml/releases/tag/v1.2026.10"
   },
   "assets": [
     {
-      "name": "native-plantuml-windows-amd64-1.2026.9.zip",
-      "size": 50819280,
-      "url": "https://github.com/plantuml/plantuml/releases/download/v1.2026.9/native-plantuml-windows-amd64-1.2026.9.zip"
+      "name": "native-plantuml-windows-amd64-1.2026.10.zip",
+      "size": 49537777,
+      "url": "https://github.com/plantuml/plantuml/releases/download/v1.2026.10/native-plantuml-windows-amd64-1.2026.10.zip"
     },
     {
-      "name": "native-plantuml-macos-arm64-1.2026.9.zip",
-      "size": 55113407,
-      "url": "https://github.com/plantuml/plantuml/releases/download/v1.2026.9/native-plantuml-macos-arm64-1.2026.9.zip"
+      "name": "native-plantuml-macos-arm64-1.2026.10.zip",
+      "size": 53860643,
+      "url": "https://github.com/plantuml/plantuml/releases/download/v1.2026.10/native-plantuml-macos-arm64-1.2026.10.zip"
     },
     {
-      "name": "native-plantuml-linux-arm64-1.2026.9.zip",
-      "size": 50792182,
-      "url": "https://github.com/plantuml/plantuml/releases/download/v1.2026.9/native-plantuml-linux-arm64-1.2026.9.zip"
+      "name": "native-plantuml-linux-arm64-1.2026.10.zip",
+      "size": 49547067,
+      "url": "https://github.com/plantuml/plantuml/releases/download/v1.2026.10/native-plantuml-linux-arm64-1.2026.10.zip"
     },
     {
-      "name": "native-plantuml-linux-amd64-1.2026.9.zip",
-      "size": 52340756,
-      "url": "https://github.com/plantuml/plantuml/releases/download/v1.2026.9/native-plantuml-linux-amd64-1.2026.9.zip"
+      "name": "native-plantuml-linux-amd64-1.2026.10.zip",
+      "size": 51097266,
+      "url": "https://github.com/plantuml/plantuml/releases/download/v1.2026.10/native-plantuml-linux-amd64-1.2026.10.zip"
     },
     {
-      "name": "plantuml-asl-1.2026.9-javadoc.jar",
-      "size": 16845422,
-      "url": "https://github.com/plantuml/plantuml/releases/download/v1.2026.9/plantuml-asl-1.2026.9-javadoc.jar"
+      "name": "plantuml-asl-1.2026.10-javadoc.jar",
+      "size": 17477231,
+      "url": "https://github.com/plantuml/plantuml/releases/download/v1.2026.10/plantuml-asl-1.2026.10-javadoc.jar"
     },
     {
-      "name": "plantuml-epl-1.2026.9-javadoc.jar",
-      "size": 16845934,
-      "url": "https://github.com/plantuml/plantuml/releases/download/v1.2026.9/plantuml-epl-1.2026.9-javadoc.jar"
+      "name": "plantuml-epl-1.2026.10-javadoc.jar",
+      "size": 17477772,
+      "url": "https://github.com/plantuml/plantuml/releases/download/v1.2026.10/plantuml-epl-1.2026.10-javadoc.jar"
     }
   ],
   "pinned": false,

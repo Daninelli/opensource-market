@@ -22,10 +22,10 @@
   "default_branch": "development",
   "download_url": "https://codeload.github.com/BookStackApp/BookStack/zip/refs/heads/development",
   "release": {
-    "tag": "v26.09.2",
-    "name": "BookStack v26.09.2",
-    "published": "2026-10-20T11:48:40Z",
-    "url": "https://github.com/BookStackApp/BookStack/releases/tag/v26.09.2"
+    "tag": "v26.09.3",
+    "name": "BookStack v26.09.3",
+    "published": "2026-11-11T11:43:37Z",
+    "url": "https://github.com/BookStackApp/BookStack/releases/tag/v26.09.3"
   },
   "assets": [],
   "pinned": false,

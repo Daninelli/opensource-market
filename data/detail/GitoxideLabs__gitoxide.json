@@ -20,12 +20,43 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/GitoxideLabs/gitoxide/zip/refs/heads/main",
   "release": {
-    "tag": "gix-v0.90.0",
-    "name": "gix v0.90.0",
-    "published": "2026-10-22T14:01:21Z",
-    "url": "https://github.com/GitoxideLabs/gitoxide/releases/tag/gix-v0.90.0"
+    "tag": "v0.61.0",
+    "name": "v0.61.0",
+    "published": "2026-10-22T14:01:27Z",
+    "url": "https://github.com/GitoxideLabs/gitoxide/releases/tag/v0.61.0"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "gitoxide-small-v0.61.0-aarch64-apple-darwin.tar.gz",
+      "size": 4387017,
+      "url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.61.0/gitoxide-small-v0.61.0-aarch64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "gitoxide-small-v0.61.0-i686-pc-windows-msvc.zip",
+      "size": 4476858,
+      "url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.61.0/gitoxide-small-v0.61.0-i686-pc-windows-msvc.zip"
+    },
+    {
+      "name": "gitoxide-small-v0.61.0-aarch64-pc-windows-msvc.zip",
+      "size": 4565019,
+      "url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.61.0/gitoxide-small-v0.61.0-aarch64-pc-windows-msvc.zip"
+    },
+    {
+      "name": "gitoxide-small-v0.61.0-x86_64-apple-darwin.tar.gz",
+      "size": 4699572,
+      "url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.61.0/gitoxide-small-v0.61.0-x86_64-apple-darwin.tar.gz"
+    },
+    {
+      "name": "gitoxide-max-pure-v0.61.0-aarch64-unknown-linux-gnu.tar.gz",
+      "size": 12712116,
+      "url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.61.0/gitoxide-max-pure-v0.61.0-aarch64-unknown-linux-gnu.tar.gz"
+    },
+    {
+      "name": "gitoxide-max-pure-v0.61.0-aarch64-unknown-linux-musl.tar.gz",
+      "size": 12779073,
+      "url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.61.0/gitoxide-max-pure-v0.61.0-aarch64-unknown-linux-musl.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

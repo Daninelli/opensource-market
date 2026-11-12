@@ -21,41 +21,41 @@
   "default_branch": "studio",
   "download_url": "https://codeload.github.com/esengine/DeepSeek-Reasonix/zip/refs/heads/studio",
   "release": {
-    "tag": "studio-v2.59.0",
-    "name": "Reasonix Studio v2.59.0",
-    "published": "2026-11-10T04:20:48Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix/releases/tag/studio-v2.59.0"
+    "tag": "studio-v2.60.0",
+    "name": "Reasonix Studio v2.60.0",
+    "published": "2026-11-11T02:09:16Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix/releases/tag/studio-v2.60.0"
   },
   "assets": [
     {
       "name": "reasonix-darwin-arm64.tar.gz",
-      "size": 38748333,
-      "url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.59.0/reasonix-darwin-arm64.tar.gz"
+      "size": 38762391,
+      "url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/reasonix-darwin-arm64.tar.gz"
     },
     {
       "name": "reasonix-windows-arm64.zip",
-      "size": 39692296,
-      "url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.59.0/reasonix-windows-arm64.zip"
+      "size": 39698037,
+      "url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/reasonix-windows-arm64.zip"
     },
     {
       "name": "reasonix-darwin-amd64.tar.gz",
-      "size": 40001169,
-      "url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.59.0/reasonix-darwin-amd64.tar.gz"
+      "size": 40019078,
+      "url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/reasonix-darwin-amd64.tar.gz"
     },
     {
       "name": "reasonix-windows-amd64.zip",
-      "size": 41729089,
-      "url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.59.0/reasonix-windows-amd64.zip"
+      "size": 41735534,
+      "url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/reasonix-windows-amd64.zip"
     },
     {
       "name": "reasonix-linux-arm64.tar.gz",
-      "size": 38356021,
-      "url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.59.0/reasonix-linux-arm64.tar.gz"
+      "size": 38369787,
+      "url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/reasonix-linux-arm64.tar.gz"
     },
     {
       "name": "reasonix-linux-amd64.tar.gz",
-      "size": 40032949,
-      "url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.59.0/reasonix-linux-amd64.tar.gz"
+      "size": 40052994,
+      "url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/reasonix-linux-amd64.tar.gz"
     }
   ],
   "pinned": false,

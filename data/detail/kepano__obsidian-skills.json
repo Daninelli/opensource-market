@@ -21,7 +21,12 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/kepano/obsidian-skills/zip/refs/heads/main",
-  "release": null,
+  "release": {
+    "tag": "1.1.0",
+    "name": "1.1.0",
+    "published": "2026-11-11T15:19:04Z",
+    "url": "https://github.com/obsidianmd/obsidian-skills/releases/tag/1.1.0"
+  },
   "assets": [],
   "pinned": false,
   "pin_label": null,

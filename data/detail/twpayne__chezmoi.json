@@ -20,51 +20,51 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/twpayne/chezmoi/zip/refs/heads/master",
   "release": {
-    "tag": "v2.74.0",
-    "name": "v2.74.0",
-    "published": "2026-11-01T13:57:54Z",
-    "url": "https://github.com/twpayne/chezmoi/releases/tag/v2.74.0"
+    "tag": "v2.74.1",
+    "name": "v2.74.1",
+    "published": "2026-11-10T21:42:48Z",
+    "url": "https://github.com/twpayne/chezmoi/releases/tag/v2.74.1"
   },
   "assets": [
     {
-      "name": "chezmoi_2.74.0_windows_arm64.zip",
-      "size": 14644122,
-      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_windows_arm64.zip"
+      "name": "chezmoi_2.74.1_windows_arm64.zip",
+      "size": 14654469,
+      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.74.1/chezmoi_2.74.1_windows_arm64.zip"
     },
     {
-      "name": "chezmoi_2.74.0_darwin_arm64.tar.gz",
-      "size": 15143663,
-      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_darwin_arm64.tar.gz"
+      "name": "chezmoi_2.74.1_darwin_arm64.tar.gz",
+      "size": 15156865,
+      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.74.1/chezmoi_2.74.1_darwin_arm64.tar.gz"
     },
     {
-      "name": "chezmoi_2.74.0_windows_i386.zip",
-      "size": 15978215,
-      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_windows_i386.zip"
+      "name": "chezmoi_2.74.1_windows_i386.zip",
+      "size": 15989361,
+      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.74.1/chezmoi_2.74.1_windows_i386.zip"
     },
     {
-      "name": "chezmoi_2.74.0_darwin_amd64.tar.gz",
-      "size": 16397556,
-      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_darwin_amd64.tar.gz"
+      "name": "chezmoi_2.74.1_darwin_amd64.tar.gz",
+      "size": 16400520,
+      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.74.1/chezmoi_2.74.1_darwin_amd64.tar.gz"
     },
     {
-      "name": "chezmoi_2.74.0_linux_mips64le_hardfloat.tar.gz",
-      "size": 13996416,
-      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_mips64le_hardfloat.tar.gz"
+      "name": "chezmoi_2.74.1_linux_mips64le_hardfloat.tar.gz",
+      "size": 14025373,
+      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.74.1/chezmoi_2.74.1_linux_mips64le_hardfloat.tar.gz"
     },
     {
-      "name": "chezmoi_2.74.0_linux_mips64_hardfloat.tar.gz",
-      "size": 14059437,
-      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_mips64_hardfloat.tar.gz"
+      "name": "chezmoi_2.74.1_linux_mips64_hardfloat.tar.gz",
+      "size": 14081504,
+      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.74.1/chezmoi_2.74.1_linux_mips64_hardfloat.tar.gz"
     },
     {
-      "name": "chezmoi_2.74.0_android_arm64.tar.gz",
-      "size": 15384549,
-      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_android_arm64.tar.gz"
+      "name": "chezmoi_2.74.1_android_arm64.tar.gz",
+      "size": 15406070,
+      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.74.1/chezmoi_2.74.1_android_arm64.tar.gz"
     },
     {
-      "name": "chezmoi-2.74.0.tar.gz",
-      "size": 2512969,
-      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi-2.74.0.tar.gz"
+      "name": "chezmoi-2.74.1.tar.gz",
+      "size": 2516051,
+      "url": "https://github.com/twpayne/chezmoi/releases/download/v2.74.1/chezmoi-2.74.1.tar.gz"
     }
   ],
   "pinned": false,

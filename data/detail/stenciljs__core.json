@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/stenciljs/core/zip/refs/heads/main",
   "release": {
-    "tag": "v4.45.2",
-    "name": "🐘 4.45.2 (2026-10-05)",
-    "published": "2026-10-05T11:21:10Z",
-    "url": "https://github.com/stenciljs/core/releases/tag/v4.45.2"
+    "tag": "v4.45.3",
+    "name": "😜 4.45.3 (2026-11-11)",
+    "published": "2026-11-11T22:01:18Z",
+    "url": "https://github.com/stenciljs/core/releases/tag/v4.45.3"
   },
   "assets": [],
   "pinned": false,

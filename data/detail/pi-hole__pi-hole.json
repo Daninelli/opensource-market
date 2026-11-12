@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/pi-hole/pi-hole/zip/refs/heads/master",
   "release": {
-    "tag": "v6.5",
-    "name": "v6.5",
-    "published": "2026-10-17T11:28:24Z",
-    "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.5"
+    "tag": "v6.6",
+    "name": "v6.6",
+    "published": "2026-11-11T19:20:58Z",
+    "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.6"
   },
   "assets": [],
   "pinned": false,

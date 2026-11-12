@@ -1,10 +1,25 @@
 {
-  "generated_at": "2026-11-12T03:04:15.739Z",
+  "generated_at": "2026-11-12T08:11:33.161Z",
   "refreshed_at": "2026-11-11T10:57:32.312Z",
   "days": 7,
-  "total_projects": 1709,
-  "count": 8,
+  "total_projects": 1710,
+  "count": 9,
   "items": [
+    {
+      "name": "YunX-Desktop（云析桌面版）",
+      "repo": "tidain/YunX-Desktop",
+      "added_at": "2026-11-12T16:08:12+08:00",
+      "category": "工具",
+      "category_slug": "tool",
+      "subcategory": "下载工具",
+      "note_zh": "粘贴网盘/视频分享链接即可高速下载的 Windows 桌面端，支持断点续传与 P2P",
+      "license": "AGPL-3.0",
+      "stars": 4845,
+      "updated_at": "2026-11-04T14:28:52Z",
+      "download_url": "https://codeload.github.com/tidain/YunX-Desktop/zip/refs/heads/main",
+      "platform": "github",
+      "submitted_by": null
+    },
     {
       "name": "agent-desktop",
       "repo": "vercel-labs/agent-desktop",

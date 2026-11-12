@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/EverMind-AI/EverOS/zip/refs/heads/main",
   "release": {
-    "tag": "v1.5.1",
-    "name": "EverOS 1.5.1",
-    "published": "2026-10-22T13:22:17Z",
-    "url": "https://github.com/EverMind-AI/EverOS/releases/tag/v1.5.1"
+    "tag": "v1.6.0",
+    "name": "EverOS 1.6.0",
+    "published": "2026-11-11T08:08:16Z",
+    "url": "https://github.com/EverMind-AI/EverOS/releases/tag/v1.6.0"
   },
   "assets": [],
   "pinned": false,

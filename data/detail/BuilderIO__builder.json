@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/BuilderIO/builder/zip/refs/heads/main",
   "release": {
-    "tag": "@builder.io/react@9.4.11",
-    "name": "@builder.io/react@9.4.11",
-    "published": "2026-11-05T12:12:20Z",
-    "url": "https://github.com/BuilderIO/builder/releases/tag/%40builder.io/react%409.4.11"
+    "tag": "@builder.io/react@9.4.12",
+    "name": "@builder.io/react@9.4.12",
+    "published": "2026-11-12T04:46:50Z",
+    "url": "https://github.com/BuilderIO/builder/releases/tag/%40builder.io/react%409.4.12"
   },
   "assets": [],
   "pinned": false,

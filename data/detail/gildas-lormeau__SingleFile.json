@@ -22,16 +22,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/gildas-lormeau/SingleFile/zip/refs/heads/main",
   "release": {
-    "tag": "v1.36.0",
-    "name": "v1.36.0",
-    "published": "2026-11-06T22:09:15Z",
-    "url": "https://github.com/gildas-lormeau/SingleFile/releases/tag/v1.36.0"
+    "tag": "v1.37.0",
+    "name": "v1.37.0",
+    "published": "2026-11-10T21:10:07Z",
+    "url": "https://github.com/gildas-lormeau/SingleFile/releases/tag/v1.37.0"
   },
   "assets": [
     {
       "name": "singlefile-extension-firefox.zip",
-      "size": 1590901,
-      "url": "https://github.com/gildas-lormeau/SingleFile/releases/download/v1.36.0/singlefile-extension-firefox.zip"
+      "size": 1589318,
+      "url": "https://github.com/gildas-lormeau/SingleFile/releases/download/v1.37.0/singlefile-extension-firefox.zip"
     }
   ],
   "pinned": false,

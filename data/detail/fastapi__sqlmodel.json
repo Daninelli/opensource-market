@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/fastapi/sqlmodel/zip/refs/heads/main",
   "release": {
-    "tag": "0.0.48",
-    "name": "0.0.48",
-    "published": "2026-10-06T21:44:19Z",
-    "url": "https://github.com/fastapi/sqlmodel/releases/tag/0.0.48"
+    "tag": "0.0.49",
+    "name": "0.0.49",
+    "published": "2026-11-11T09:16:40Z",
+    "url": "https://github.com/fastapi/sqlmodel/releases/tag/0.0.49"
   },
   "assets": [],
   "pinned": false,

@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/invertase/react-native-firebase/zip/refs/heads/main",
   "release": {
-    "tag": "v27.1.0",
-    "name": "v27.1.0",
-    "published": "2026-10-23T20:19:22Z",
-    "url": "https://github.com/invertase/react-native-firebase/releases/tag/v27.1.0"
+    "tag": "v27.1.1",
+    "name": "v27.1.1",
+    "published": "2026-11-10T22:52:46Z",
+    "url": "https://github.com/invertase/react-native-firebase/releases/tag/v27.1.1"
   },
   "assets": [],
   "pinned": false,

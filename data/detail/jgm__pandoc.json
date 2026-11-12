@@ -22,46 +22,46 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/jgm/pandoc/zip/refs/heads/main",
   "release": {
-    "tag": "3.13",
-    "name": "pandoc 3.13",
-    "published": "2026-10-26T21:37:45Z",
-    "url": "https://github.com/jgm/pandoc/releases/tag/3.13"
+    "tag": "3.14",
+    "name": "pandoc 3.14",
+    "published": "2026-11-12T04:32:26Z",
+    "url": "https://github.com/jgm/pandoc/releases/tag/3.14"
   },
   "assets": [
     {
-      "name": "pandoc-3.13-x86_64-macOS.pkg",
-      "size": 26831967,
-      "url": "https://github.com/jgm/pandoc/releases/download/3.13/pandoc-3.13-x86_64-macOS.pkg"
+      "name": "pandoc-3.14-x86_64-macOS.pkg",
+      "size": 27431693,
+      "url": "https://github.com/jgm/pandoc/releases/download/3.14/pandoc-3.14-x86_64-macOS.pkg"
     },
     {
-      "name": "pandoc-3.13-x86_64-macOS.zip",
-      "size": 26891866,
-      "url": "https://github.com/jgm/pandoc/releases/download/3.13/pandoc-3.13-x86_64-macOS.zip"
+      "name": "pandoc-3.14-x86_64-macOS.zip",
+      "size": 27490795,
+      "url": "https://github.com/jgm/pandoc/releases/download/3.14/pandoc-3.14-x86_64-macOS.zip"
     },
     {
-      "name": "pandoc-3.13-windows-x86_64.msi",
-      "size": 42700800,
-      "url": "https://github.com/jgm/pandoc/releases/download/3.13/pandoc-3.13-windows-x86_64.msi"
+      "name": "pandoc-3.14-windows-x86_64.msi",
+      "size": 43319296,
+      "url": "https://github.com/jgm/pandoc/releases/download/3.14/pandoc-3.14-windows-x86_64.msi"
     },
     {
-      "name": "pandoc-3.13-windows-x86_64.zip",
-      "size": 42983200,
-      "url": "https://github.com/jgm/pandoc/releases/download/3.13/pandoc-3.13-windows-x86_64.zip"
+      "name": "pandoc-3.14-windows-x86_64.zip",
+      "size": 43614099,
+      "url": "https://github.com/jgm/pandoc/releases/download/3.14/pandoc-3.14-windows-x86_64.zip"
     },
     {
-      "name": "pandoc-3.13-1-amd64.deb",
-      "size": 35507160,
-      "url": "https://github.com/jgm/pandoc/releases/download/3.13/pandoc-3.13-1-amd64.deb"
+      "name": "pandoc-3.14-1-amd64.deb",
+      "size": 36039194,
+      "url": "https://github.com/jgm/pandoc/releases/download/3.14/pandoc-3.14-1-amd64.deb"
     },
     {
-      "name": "pandoc-3.13-linux-amd64.tar.gz",
-      "size": 36101020,
-      "url": "https://github.com/jgm/pandoc/releases/download/3.13/pandoc-3.13-linux-amd64.tar.gz"
+      "name": "pandoc-3.14-linux-amd64.tar.gz",
+      "size": 36635549,
+      "url": "https://github.com/jgm/pandoc/releases/download/3.14/pandoc-3.14-linux-amd64.tar.gz"
     },
     {
-      "name": "pandoc-3.13-wasm.zip",
-      "size": 16977768,
-      "url": "https://github.com/jgm/pandoc/releases/download/3.13/pandoc-3.13-wasm.zip"
+      "name": "pandoc-3.14-wasm.zip",
+      "size": 17052352,
+      "url": "https://github.com/jgm/pandoc/releases/download/3.14/pandoc-3.14-wasm.zip"
     }
   ],
   "pinned": false,

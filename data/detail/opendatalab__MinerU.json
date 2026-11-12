@@ -22,16 +22,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/opendatalab/MinerU/zip/refs/heads/master",
   "release": {
-    "tag": "mineru-4.2.0-released",
-    "name": "MinerU 4.2.0",
-    "published": "2026-11-10T11:45:47Z",
-    "url": "https://github.com/opendatalab/MinerU/releases/tag/mineru-4.2.0-released"
+    "tag": "mineru-4.2.1-released",
+    "name": "MinerU 4.2.1",
+    "published": "2026-11-11T13:53:12Z",
+    "url": "https://github.com/opendatalab/MinerU/releases/tag/mineru-4.2.1-released"
   },
   "assets": [
     {
-      "name": "mineru-4.2.0-py3-none-any.whl",
-      "size": 3920330,
-      "url": "https://github.com/opendatalab/MinerU/releases/download/mineru-4.2.0-released/mineru-4.2.0-py3-none-any.whl"
+      "name": "mineru-4.2.1-py3-none-any.whl",
+      "size": 3922694,
+      "url": "https://github.com/opendatalab/MinerU/releases/download/mineru-4.2.1-released/mineru-4.2.1-py3-none-any.whl"
     }
   ],
   "pinned": false,

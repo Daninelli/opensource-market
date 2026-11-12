@@ -23,16 +23,16 @@
   "default_branch": "trunk",
   "download_url": "https://codeload.github.com/woocommerce/woocommerce/zip/refs/heads/trunk",
   "release": {
-    "tag": "11.2.2",
-    "name": "11.2.2",
-    "published": "2026-11-04T21:09:41Z",
-    "url": "https://github.com/woocommerce/woocommerce/releases/tag/11.2.2"
+    "tag": "11.3.0",
+    "name": "11.3.0",
+    "published": "2026-11-11T16:56:58Z",
+    "url": "https://github.com/woocommerce/woocommerce/releases/tag/11.3.0"
   },
   "assets": [
     {
       "name": "woocommerce.zip",
-      "size": 18351195,
-      "url": "https://github.com/woocommerce/woocommerce/releases/download/11.2.2/woocommerce.zip"
+      "size": 16827722,
+      "url": "https://github.com/woocommerce/woocommerce/releases/download/11.3.0/woocommerce.zip"
     }
   ],
   "pinned": false,

@@ -22,23 +22,12 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/twbs/bootstrap/zip/refs/heads/main",
   "release": {
-    "tag": "v5.3.8",
-    "name": "v5.3.8",
-    "published": "2025-08-26T02:04:48Z",
-    "url": "https://github.com/twbs/bootstrap/releases/tag/v5.3.8"
+    "tag": "v5.3.9",
+    "name": "v5.3.9",
+    "published": "2026-11-11T17:53:55Z",
+    "url": "https://github.com/twbs/bootstrap/releases/tag/v5.3.9"
   },
-  "assets": [
-    {
-      "name": "bootstrap-5.3.8-examples.zip",
-      "size": 1390014,
-      "url": "https://github.com/twbs/bootstrap/releases/download/v5.3.8/bootstrap-5.3.8-examples.zip"
-    },
-    {
-      "name": "bootstrap-5.3.8-dist.zip",
-      "size": 1500314,
-      "url": "https://github.com/twbs/bootstrap/releases/download/v5.3.8/bootstrap-5.3.8-dist.zip"
-    }
-  ],
+  "assets": [],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

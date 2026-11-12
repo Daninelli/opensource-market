@@ -21,10 +21,10 @@
   "default_branch": "next",
   "download_url": "https://codeload.github.com/udecode/plate/zip/refs/heads/next",
   "release": {
-    "tag": "v53.5.5",
-    "name": "v53.5.5",
-    "published": "2026-11-04T17:35:46Z",
-    "url": "https://github.com/udecode/plate/releases/tag/v53.5.5"
+    "tag": "v53.5.6",
+    "name": "v53.5.6",
+    "published": "2026-11-11T11:43:09Z",
+    "url": "https://github.com/udecode/plate/releases/tag/v53.5.6"
   },
   "assets": [],
   "pinned": false,

@@ -21,21 +21,21 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/google/gvisor/zip/refs/heads/master",
   "release": {
-    "tag": "release-20261102.0",
-    "name": "gVisor 20261102.0",
-    "published": "2026-11-02T22:00:15Z",
-    "url": "https://github.com/google/gvisor/releases/tag/release-20261102.0"
+    "tag": "release-20261109.0",
+    "name": "gVisor 20261109.0",
+    "published": "2026-11-11T19:34:12Z",
+    "url": "https://github.com/google/gvisor/releases/tag/release-20261109.0"
   },
   "assets": [
     {
       "name": "gvisor-aarch64.tar.zstd",
-      "size": 54666025,
-      "url": "https://github.com/google/gvisor/releases/download/release-20261102.0/gvisor-aarch64.tar.zstd"
+      "size": 60321074,
+      "url": "https://github.com/google/gvisor/releases/download/release-20261109.0/gvisor-aarch64.tar.zstd"
     },
     {
       "name": "gvisor-x86_64.tar.zstd",
-      "size": 58844112,
-      "url": "https://github.com/google/gvisor/releases/download/release-20261102.0/gvisor-x86_64.tar.zstd"
+      "size": 64788863,
+      "url": "https://github.com/google/gvisor/releases/download/release-20261109.0/gvisor-x86_64.tar.zstd"
     }
   ],
   "pinned": false,
