@@ -7,8 +7,8 @@
   "category_slug": "tool",
   "subcategory": "智能体",
   "subcategory_slug": "agent",
-  "license": "NOASSERTION",
-  "license_category": "unknown",
+  "license": "LobeHub Community License",
+  "license_category": "restricted",
   "archived": false,
   "tech_stack": [
     "TypeScript",

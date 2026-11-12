@@ -12752,7 +12752,7 @@
     ],
     "deploy_type": "Docker 部署 / 自托管服务",
     "note_zh": "开源 AI 智能体协作平台，把多个 agent 组织成 7×24 的团队作业。",
-    "license": "NOASSERTION",
+    "license": "LobeHub Community License",
     "added_at": "2026-10-19T12:18:42.273Z",
     "stars": 84968,
     "updated_at": "2026-11-11T10:31:05Z",
@@ -12760,9 +12760,8 @@
     "download_url": "https://codeload.github.com/lobehub/lobehub/zip/refs/heads/canary",
     "platform": "github",
     "kind": "app",
-    "note_verify": "GitHub 返回 NOASSERTION，需查 LICENSE 文件确认",
     "archived": false,
-    "license_category": "unknown"
+    "license_category": "restricted"
   },
   {
     "release": {
