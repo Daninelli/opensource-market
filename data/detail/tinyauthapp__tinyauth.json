@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-11-12T00:21:18Z",
+  "updated_at": "2026-11-13T08:24:36Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/tinyauthapp/tinyauth/zip/refs/heads/main",

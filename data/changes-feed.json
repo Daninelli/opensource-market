@@ -1,10 +1,20 @@
 {
   "note": "由 tools/build-changes-feed.mjs 自动生成；只含变动事件，不含状态快照",
-  "generated_at": "2026-11-12T11:08:17.228Z",
+  "generated_at": "2026-11-13T10:59:00.178Z",
   "monitored": 1710,
-  "since": "2026-11-12",
-  "total": 17,
+  "since": "2026-11-13",
+  "total": 18,
   "items": [
+    {
+      "date": "2026-11-13",
+      "repo": "redpanda-data/redpanda",
+      "name": "redpanda",
+      "category": "工具",
+      "category_slug": "tool",
+      "type": "archived",
+      "from": null,
+      "to": null
+    },
     {
       "date": "2026-11-12",
       "repo": "esengine/DeepSeek-Reasonix",

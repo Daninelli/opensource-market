@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-11-11T12:57:19Z",
+  "updated_at": "2026-11-13T00:07:48Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/JanDeDobbeleer/oh-my-posh/zip/refs/heads/main",

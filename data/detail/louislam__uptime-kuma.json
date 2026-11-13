@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-11-12T09:23:41Z",
+  "updated_at": "2026-11-13T00:05:02Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/louislam/uptime-kuma/zip/refs/heads/master",
