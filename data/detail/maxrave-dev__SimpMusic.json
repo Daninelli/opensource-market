@@ -22,41 +22,41 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/maxrave-dev/SimpMusic/zip/refs/heads/dev",
   "release": {
-    "tag": "v2.5.0",
-    "name": "2.5.0",
-    "published": "2026-11-01T07:34:36Z",
-    "url": "https://github.com/maxrave-dev/SimpMusic/releases/tag/v2.5.0"
+    "tag": "v2.6.0",
+    "name": "2.6.0",
+    "published": "2026-11-14T11:30:57Z",
+    "url": "https://github.com/maxrave-dev/SimpMusic/releases/tag/v2.6.0"
   },
   "assets": [
     {
       "name": "SimpMusic-Windows-installer.zip",
-      "size": 247047093,
-      "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.5.0/SimpMusic-Windows-installer.zip"
+      "size": 247974801,
+      "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.6.0/SimpMusic-Windows-installer.zip"
     },
     {
-      "name": "SimpMusic-2.5.0-mac-aarch64.dmg",
-      "size": 250402868,
-      "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.5.0/SimpMusic-2.5.0-mac-aarch64.dmg"
+      "name": "SimpMusic-2.6.0-mac-aarch64.dmg",
+      "size": 251311334,
+      "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.6.0/SimpMusic-2.6.0-mac-aarch64.dmg"
     },
     {
-      "name": "SimpMusic-2.5.0-mac-amd64.dmg",
-      "size": 264454343,
-      "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.5.0/SimpMusic-2.5.0-mac-amd64.dmg"
+      "name": "SimpMusic-2.6.0-mac-amd64.dmg",
+      "size": 265373471,
+      "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.6.0/SimpMusic-2.6.0-mac-amd64.dmg"
     },
     {
       "name": "SimpMusic-x86_64.AppImage",
-      "size": 162145472,
-      "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.5.0/SimpMusic-x86_64.AppImage"
+      "size": 163091648,
+      "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.6.0/SimpMusic-x86_64.AppImage"
     },
     {
       "name": "SimpMusic-foss-armeabi-v7a-release.apk",
-      "size": 28444151,
-      "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.5.0/SimpMusic-foss-armeabi-v7a-release.apk"
+      "size": 28730871,
+      "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.6.0/SimpMusic-foss-armeabi-v7a-release.apk"
     },
     {
       "name": "SimpMusic-foss-arm64-v8a-release.apk",
-      "size": 28452264,
-      "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.5.0/SimpMusic-foss-arm64-v8a-release.apk"
+      "size": 28734888,
+      "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.6.0/SimpMusic-foss-arm64-v8a-release.apk"
     }
   ],
   "pinned": false,

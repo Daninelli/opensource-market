@@ -21,46 +21,46 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/netbirdio/netbird/zip/refs/heads/main",
   "release": {
-    "tag": "v0.82.1",
-    "name": "v0.82.1",
-    "published": "2026-11-10T09:09:37Z",
-    "url": "https://github.com/netbirdio/netbird/releases/tag/v0.82.1"
+    "tag": "v0.83.1",
+    "name": "v0.83.1",
+    "published": "2026-11-13T12:11:07Z",
+    "url": "https://github.com/netbirdio/netbird/releases/tag/v0.83.1"
   },
   "assets": [
     {
-      "name": "netbird-ui_0.82.1_darwin_arm64.tar.gz",
-      "size": 10347035,
-      "url": "https://github.com/netbirdio/netbird/releases/download/v0.82.1/netbird-ui_0.82.1_darwin_arm64.tar.gz"
+      "name": "netbird-ui_0.83.1_darwin_arm64.tar.gz",
+      "size": 10364140,
+      "url": "https://github.com/netbirdio/netbird/releases/download/v0.83.1/netbird-ui_0.83.1_darwin_arm64.tar.gz"
     },
     {
-      "name": "netbird-ui-windows_0.82.1_windows_arm64.tar.gz",
-      "size": 10457517,
-      "url": "https://github.com/netbirdio/netbird/releases/download/v0.82.1/netbird-ui-windows_0.82.1_windows_arm64.tar.gz"
+      "name": "netbird-ui-windows_0.83.1_windows_arm64.tar.gz",
+      "size": 10470320,
+      "url": "https://github.com/netbirdio/netbird/releases/download/v0.83.1/netbird-ui-windows_0.83.1_windows_arm64.tar.gz"
     },
     {
-      "name": "netbird-ui_0.82.1_darwin_amd64.tar.gz",
-      "size": 10867950,
-      "url": "https://github.com/netbirdio/netbird/releases/download/v0.82.1/netbird-ui_0.82.1_darwin_amd64.tar.gz"
+      "name": "netbird-ui_0.83.1_darwin_amd64.tar.gz",
+      "size": 10881159,
+      "url": "https://github.com/netbirdio/netbird/releases/download/v0.83.1/netbird-ui_0.83.1_darwin_amd64.tar.gz"
     },
     {
-      "name": "netbird-ui-windows_0.82.1_windows_amd64.tar.gz",
-      "size": 11388740,
-      "url": "https://github.com/netbirdio/netbird/releases/download/v0.82.1/netbird-ui-windows_0.82.1_windows_amd64.tar.gz"
+      "name": "netbird-ui-windows_0.83.1_windows_amd64.tar.gz",
+      "size": 11401193,
+      "url": "https://github.com/netbirdio/netbird/releases/download/v0.83.1/netbird-ui-windows_0.83.1_windows_amd64.tar.gz"
     },
     {
-      "name": "netbird-ui-linux-gtk3_0.82.1_linux_amd64.tar.gz",
-      "size": 11997658,
-      "url": "https://github.com/netbirdio/netbird/releases/download/v0.82.1/netbird-ui-linux-gtk3_0.82.1_linux_amd64.tar.gz"
+      "name": "netbird-ui-linux-gtk3_0.83.1_linux_amd64.tar.gz",
+      "size": 12011103,
+      "url": "https://github.com/netbirdio/netbird/releases/download/v0.83.1/netbird-ui-linux-gtk3_0.83.1_linux_amd64.tar.gz"
     },
     {
-      "name": "netbird-ui-linux_0.82.1_linux_amd64.tar.gz",
-      "size": 12014976,
-      "url": "https://github.com/netbirdio/netbird/releases/download/v0.82.1/netbird-ui-linux_0.82.1_linux_amd64.tar.gz"
+      "name": "netbird-ui-linux_0.83.1_linux_amd64.tar.gz",
+      "size": 12025611,
+      "url": "https://github.com/netbirdio/netbird/releases/download/v0.83.1/netbird-ui-linux_0.83.1_linux_amd64.tar.gz"
     },
     {
-      "name": "netbird_0.82.1.wasm",
-      "size": 60577889,
-      "url": "https://github.com/netbirdio/netbird/releases/download/v0.82.1/netbird_0.82.1.wasm"
+      "name": "netbird_0.83.1.wasm",
+      "size": 60834194,
+      "url": "https://github.com/netbirdio/netbird/releases/download/v0.83.1/netbird_0.83.1.wasm"
     }
   ],
   "pinned": false,

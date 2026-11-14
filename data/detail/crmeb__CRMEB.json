@@ -23,10 +23,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/crmeb/CRMEB/zip/refs/heads/master",
   "release": {
-    "tag": "v6.0.0",
-    "name": "开源版v6.0.0",
-    "published": "2026-04-11T03:31:53Z",
-    "url": "https://github.com/crmeb/CRMEB/releases/tag/v6.0.0"
+    "tag": "v8.0.0",
+    "name": "CRMEB Community",
+    "published": "2026-11-12T09:00:07Z",
+    "url": "https://github.com/crmeb/CRMEB/releases/tag/v8.0.0"
   },
   "assets": [],
   "pinned": false,

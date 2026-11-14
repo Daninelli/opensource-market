@@ -20,10 +20,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/hect0x7/JMComic-Crawler-Python/zip/refs/heads/master",
   "release": {
-    "tag": "v2.7.11",
-    "name": "v2.7.11",
-    "published": "2026-11-03T16:25:58Z",
-    "url": "https://github.com/hect0x7/JMComic-Crawler-Python/releases/tag/v2.7.11"
+    "tag": "v2.7.12",
+    "name": "v2.7.12",
+    "published": "2026-11-12T12:38:38Z",
+    "url": "https://github.com/hect0x7/JMComic-Crawler-Python/releases/tag/v2.7.12"
   },
   "assets": [],
   "pinned": false,

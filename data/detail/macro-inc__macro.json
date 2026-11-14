@@ -22,46 +22,46 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/macro-inc/macro/zip/refs/heads/main",
   "release": {
-    "tag": "v2026.11.10.1",
-    "name": "v2026.11.10.1",
-    "published": "2026-11-11T03:39:00Z",
-    "url": "https://github.com/macro-inc/macro/releases/tag/v2026.11.10.1"
+    "tag": "v2026.11.12.0",
+    "name": "v2026.11.12.0",
+    "published": "2026-11-12T16:16:31Z",
+    "url": "https://github.com/macro-inc/macro/releases/tag/v2026.11.12.0"
   },
   "assets": [
     {
-      "name": "macrod-v2026.11.10.1-windows-x86_64.zip",
-      "size": 7087829,
-      "url": "https://github.com/macro-inc/macro/releases/download/v2026.11.10.1/macrod-v2026.11.10.1-windows-x86_64.zip"
+      "name": "macrod-v2026.11.12.0-windows-x86_64.zip",
+      "size": 7112569,
+      "url": "https://github.com/macro-inc/macro/releases/download/v2026.11.12.0/macrod-v2026.11.12.0-windows-x86_64.zip"
     },
     {
       "name": "macrod-windows-x86_64.zip",
-      "size": 7087829,
-      "url": "https://github.com/macro-inc/macro/releases/download/v2026.11.10.1/macrod-windows-x86_64.zip"
+      "size": 7112569,
+      "url": "https://github.com/macro-inc/macro/releases/download/v2026.11.12.0/macrod-windows-x86_64.zip"
     },
     {
       "name": "macrod-macos-aarch64.tar.gz",
-      "size": 8008074,
-      "url": "https://github.com/macro-inc/macro/releases/download/v2026.11.10.1/macrod-macos-aarch64.tar.gz"
+      "size": 7998239,
+      "url": "https://github.com/macro-inc/macro/releases/download/v2026.11.12.0/macrod-macos-aarch64.tar.gz"
     },
     {
-      "name": "macrod-v2026.11.10.1-macos-aarch64.tar.gz",
-      "size": 8008074,
-      "url": "https://github.com/macro-inc/macro/releases/download/v2026.11.10.1/macrod-v2026.11.10.1-macos-aarch64.tar.gz"
+      "name": "macrod-v2026.11.12.0-macos-aarch64.tar.gz",
+      "size": 7998239,
+      "url": "https://github.com/macro-inc/macro/releases/download/v2026.11.12.0/macrod-v2026.11.12.0-macos-aarch64.tar.gz"
     },
     {
       "name": "macrod-linux-aarch64.tar.gz",
-      "size": 8481587,
-      "url": "https://github.com/macro-inc/macro/releases/download/v2026.11.10.1/macrod-linux-aarch64.tar.gz"
+      "size": 8433996,
+      "url": "https://github.com/macro-inc/macro/releases/download/v2026.11.12.0/macrod-linux-aarch64.tar.gz"
     },
     {
-      "name": "macrod-v2026.11.10.1-linux-aarch64.tar.gz",
-      "size": 8481587,
-      "url": "https://github.com/macro-inc/macro/releases/download/v2026.11.10.1/macrod-v2026.11.10.1-linux-aarch64.tar.gz"
+      "name": "macrod-v2026.11.12.0-linux-aarch64.tar.gz",
+      "size": 8433996,
+      "url": "https://github.com/macro-inc/macro/releases/download/v2026.11.12.0/macrod-v2026.11.12.0-linux-aarch64.tar.gz"
     },
     {
-      "name": "web-app-v2026.11.10.1.tar.gz",
-      "size": 178063014,
-      "url": "https://github.com/macro-inc/macro/releases/download/v2026.11.10.1/web-app-v2026.11.10.1.tar.gz"
+      "name": "web-app-v2026.11.12.0.tar.gz",
+      "size": 178438947,
+      "url": "https://github.com/macro-inc/macro/releases/download/v2026.11.12.0/web-app-v2026.11.12.0.tar.gz"
     }
   ],
   "pinned": false,

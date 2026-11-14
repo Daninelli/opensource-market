@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/BuilderIO/builder/zip/refs/heads/main",
   "release": {
-    "tag": "@builder.io/react@9.4.12",
-    "name": "@builder.io/react@9.4.12",
-    "published": "2026-11-12T04:46:50Z",
-    "url": "https://github.com/BuilderIO/builder/releases/tag/%40builder.io/react%409.4.12"
+    "tag": "@builder.io/sdk-vue@5.4.4",
+    "name": "@builder.io/sdk-vue@5.4.4",
+    "published": "2026-11-12T10:22:05Z",
+    "url": "https://github.com/BuilderIO/builder/releases/tag/%40builder.io/sdk-vue%405.4.4"
   },
   "assets": [],
   "pinned": false,

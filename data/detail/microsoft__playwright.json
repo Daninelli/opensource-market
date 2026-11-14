@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/microsoft/playwright/zip/refs/heads/main",
   "release": {
-    "tag": "v1.65.0",
-    "name": "v1.65.0",
-    "published": "2026-11-05T18:25:45Z",
-    "url": "https://github.com/microsoft/playwright/releases/tag/v1.65.0"
+    "tag": "v1.65.1",
+    "name": "v1.65.1",
+    "published": "2026-11-13T21:46:58Z",
+    "url": "https://github.com/microsoft/playwright/releases/tag/v1.65.1"
   },
   "assets": [],
   "pinned": false,

@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/community-scripts/ProxmoxVE/zip/refs/heads/main",
   "release": {
-    "tag": "2026-11-11",
-    "name": "2026-11-11",
-    "published": "2026-11-12T00:22:39Z",
-    "url": "https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-11-11"
+    "tag": "2026-11-13",
+    "name": "2026-11-13",
+    "published": "2026-11-14T00:21:14Z",
+    "url": "https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-11-13"
   },
   "assets": [],
   "pinned": false,

@@ -20,10 +20,10 @@
   "default_branch": "v3-develop",
   "download_url": "https://codeload.github.com/nocobase/nocobase/zip/refs/heads/v3-develop",
   "release": {
-    "tag": "v2.2.45",
-    "name": "v2.2.45",
-    "published": "2026-11-11T14:17:03Z",
-    "url": "https://github.com/nocobase/nocobase/releases/tag/v2.2.45"
+    "tag": "v2.2.46",
+    "name": "v2.2.46",
+    "published": "2026-11-12T14:34:12Z",
+    "url": "https://github.com/nocobase/nocobase/releases/tag/v2.2.46"
   },
   "assets": [],
   "pinned": false,

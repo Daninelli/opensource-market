@@ -21,31 +21,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/earthtojake/text-to-cad/zip/refs/heads/main",
   "release": {
-    "tag": "v0.11.9",
-    "name": "v0.11.9",
-    "published": "2026-11-11T16:40:29Z",
-    "url": "https://github.com/earthtojake/text-to-cad/releases/tag/v0.11.9"
+    "tag": "v0.11.10",
+    "name": "v0.11.10",
+    "published": "2026-11-13T11:35:12Z",
+    "url": "https://github.com/earthtojake/text-to-cad/releases/tag/v0.11.10"
   },
   "assets": [
     {
-      "name": "cad-openai-plugin-0.11.9.zip",
-      "size": 351294,
-      "url": "https://github.com/earthtojake/text-to-cad/releases/download/v0.11.9/cad-openai-plugin-0.11.9.zip"
+      "name": "cad-openai-plugin-0.11.10.zip",
+      "size": 351613,
+      "url": "https://github.com/earthtojake/text-to-cad/releases/download/v0.11.10/cad-openai-plugin-0.11.10.zip"
     },
     {
-      "name": "cad-0.11.9.tar.gz",
-      "size": 1839782,
-      "url": "https://github.com/earthtojake/text-to-cad/releases/download/v0.11.9/cad-0.11.9.tar.gz"
+      "name": "cad-0.11.10.tar.gz",
+      "size": 1840437,
+      "url": "https://github.com/earthtojake/text-to-cad/releases/download/v0.11.10/cad-0.11.10.tar.gz"
     },
     {
-      "name": "cad-0.11.9-py3-none-any.whl",
-      "size": 1895460,
-      "url": "https://github.com/earthtojake/text-to-cad/releases/download/v0.11.9/cad-0.11.9-py3-none-any.whl"
+      "name": "cad-0.11.10-py3-none-any.whl",
+      "size": 1897861,
+      "url": "https://github.com/earthtojake/text-to-cad/releases/download/v0.11.10/cad-0.11.10-py3-none-any.whl"
     },
     {
-      "name": "cad_server-0.11.9-py3-none-any.whl",
-      "size": 4968369,
-      "url": "https://github.com/earthtojake/text-to-cad/releases/download/v0.11.9/cad_server-0.11.9-py3-none-any.whl"
+      "name": "cad_server-0.11.10-py3-none-any.whl",
+      "size": 4966751,
+      "url": "https://github.com/earthtojake/text-to-cad/releases/download/v0.11.10/cad_server-0.11.10-py3-none-any.whl"
     }
   ],
   "pinned": false,

@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Shelf-nu/shelf.nu/zip/refs/heads/main",
   "release": {
-    "tag": "shelf@2.5.1",
-    "name": "shelf@2.5.1",
-    "published": "2026-11-09T14:32:46Z",
-    "url": "https://github.com/Shelf-nu/shelf.nu/releases/tag/shelf%402.5.1"
+    "tag": "shelf@2.5.3",
+    "name": "shelf@2.5.3",
+    "published": "2026-11-13T10:41:39Z",
+    "url": "https://github.com/Shelf-nu/shelf.nu/releases/tag/shelf%402.5.3"
   },
   "assets": [],
   "pinned": false,

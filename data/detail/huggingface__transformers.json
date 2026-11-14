@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/huggingface/transformers/zip/refs/heads/main",
   "release": {
-    "tag": "v5.22.2",
-    "name": "Patch release v5.22.2",
-    "published": "2026-11-06T15:43:27Z",
-    "url": "https://github.com/huggingface/transformers/releases/tag/v5.22.2"
+    "tag": "v5.23.0",
+    "name": "Release v5.23.0",
+    "published": "2026-11-13T14:10:57Z",
+    "url": "https://github.com/huggingface/transformers/releases/tag/v5.23.0"
   },
   "assets": [],
   "pinned": false,

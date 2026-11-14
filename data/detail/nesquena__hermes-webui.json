@@ -20,10 +20,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/nesquena/hermes-webui/zip/refs/heads/master",
   "release": {
-    "tag": "v0.52.544",
-    "name": "v0.52.544",
-    "published": "2026-10-25T09:01:43Z",
-    "url": "https://github.com/nesquena/hermes-webui/releases/tag/v0.52.544"
+    "tag": "v0.52.667",
+    "name": "v0.52.667",
+    "published": "2026-11-12T21:02:54Z",
+    "url": "https://github.com/nesquena/hermes-webui/releases/tag/v0.52.667"
   },
   "assets": [],
   "pinned": false,

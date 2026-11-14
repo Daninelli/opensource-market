@@ -20,41 +20,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/iOfficeAI/OfficeCLI/zip/refs/heads/main",
   "release": {
-    "tag": "v1.0.160",
-    "name": "v1.0.160",
-    "published": "2026-10-30T07:27:11Z",
-    "url": "https://github.com/iOfficeAI/OfficeCLI/releases/tag/v1.0.160"
+    "tag": "v1.0.161",
+    "name": "v1.0.161",
+    "published": "2026-11-12T09:51:03Z",
+    "url": "https://github.com/iOfficeAI/OfficeCLI/releases/tag/v1.0.161"
   },
   "assets": [
     {
       "name": "officecli-win-x64.exe",
-      "size": 33546152,
-      "url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.160/officecli-win-x64.exe"
+      "size": 33558440,
+      "url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.161/officecli-win-x64.exe"
     },
     {
       "name": "officecli-mac-arm64",
-      "size": 33924976,
-      "url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.160/officecli-mac-arm64"
+      "size": 33933168,
+      "url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.161/officecli-mac-arm64"
     },
     {
       "name": "officecli-win-arm64.exe",
-      "size": 33988532,
-      "url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.160/officecli-win-arm64.exe"
+      "size": 33996724,
+      "url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.161/officecli-win-arm64.exe"
     },
     {
       "name": "officecli-mac-x64",
-      "size": 34903936,
-      "url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.160/officecli-mac-x64"
+      "size": 34911296,
+      "url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.161/officecli-mac-x64"
     },
     {
       "name": "officecli-linux-arm64",
-      "size": 34905607,
-      "url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.160/officecli-linux-arm64"
+      "size": 34917895,
+      "url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.161/officecli-linux-arm64"
     },
     {
       "name": "officecli-linux-alpine-arm64",
-      "size": 34946143,
-      "url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.160/officecli-linux-alpine-arm64"
+      "size": 34958431,
+      "url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.161/officecli-linux-alpine-arm64"
     }
   ],
   "pinned": false,

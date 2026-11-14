@@ -20,21 +20,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/topoteretes/cognee/zip/refs/heads/main",
   "release": {
-    "tag": "v1.6.7",
-    "name": "v1.6.7",
-    "published": "2026-11-06T17:15:07Z",
-    "url": "https://github.com/topoteretes/cognee/releases/tag/v1.6.7"
+    "tag": "v1.6.8",
+    "name": "v1.6.8 \u0014 Integrations & Connectors",
+    "published": "2026-11-12T22:31:22Z",
+    "url": "https://github.com/topoteretes/cognee/releases/tag/v1.6.8"
   },
   "assets": [
     {
-      "name": "cognee-1.6.7-py3-none-any.whl",
-      "size": 23315255,
-      "url": "https://github.com/topoteretes/cognee/releases/download/v1.6.7/cognee-1.6.7-py3-none-any.whl"
+      "name": "cognee-1.6.8-py3-none-any.whl",
+      "size": 24355857,
+      "url": "https://github.com/topoteretes/cognee/releases/download/v1.6.8/cognee-1.6.8-py3-none-any.whl"
     },
     {
-      "name": "cognee-1.6.7.tar.gz",
-      "size": 41794602,
-      "url": "https://github.com/topoteretes/cognee/releases/download/v1.6.7/cognee-1.6.7.tar.gz"
+      "name": "cognee-1.6.8.tar.gz",
+      "size": 42766767,
+      "url": "https://github.com/topoteretes/cognee/releases/download/v1.6.8/cognee-1.6.8.tar.gz"
     }
   ],
   "pinned": false,

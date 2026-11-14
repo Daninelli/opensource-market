@@ -20,41 +20,41 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/MemPalace/mempalace/zip/refs/heads/develop",
   "release": {
-    "tag": "v3.11.0",
-    "name": "v3.11.0 — audit, repair and opt-in EmbeddingGemma 2",
-    "published": "2026-10-14T05:25:57Z",
-    "url": "https://github.com/MemPalace/mempalace/releases/tag/v3.11.0"
+    "tag": "v3.12.0",
+    "name": "v3.12.0 — verbatim mining, recoverable writes",
+    "published": "2026-11-12T10:24:35Z",
+    "url": "https://github.com/MemPalace/mempalace/releases/tag/v3.12.0"
   },
   "assets": [
     {
-      "name": "mempalace_native_core-3.11.0-cp39-abi3-win_amd64.whl",
-      "size": 1056451,
-      "url": "https://github.com/MemPalace/mempalace/releases/download/v3.11.0/mempalace_native_core-3.11.0-cp39-abi3-win_amd64.whl"
+      "name": "mempalace_native_core-3.12.0-cp310-abi3-win_amd64.whl",
+      "size": 1055083,
+      "url": "https://github.com/MemPalace/mempalace/releases/download/v3.12.0/mempalace_native_core-3.12.0-cp310-abi3-win_amd64.whl"
     },
     {
-      "name": "mempalace_native_core-3.11.0-cp39-abi3-macosx_11_0_arm64.whl",
-      "size": 1092256,
-      "url": "https://github.com/MemPalace/mempalace/releases/download/v3.11.0/mempalace_native_core-3.11.0-cp39-abi3-macosx_11_0_arm64.whl"
+      "name": "mempalace_native_core-3.12.0-cp310-abi3-macosx_11_0_arm64.whl",
+      "size": 1089558,
+      "url": "https://github.com/MemPalace/mempalace/releases/download/v3.12.0/mempalace_native_core-3.12.0-cp310-abi3-macosx_11_0_arm64.whl"
     },
     {
-      "name": "mempalace_native_core-3.11.0-cp39-abi3-macosx_10_12_x86_64.whl",
-      "size": 1145048,
-      "url": "https://github.com/MemPalace/mempalace/releases/download/v3.11.0/mempalace_native_core-3.11.0-cp39-abi3-macosx_10_12_x86_64.whl"
+      "name": "mempalace_native_core-3.12.0-cp310-abi3-macosx_10_12_x86_64.whl",
+      "size": 1143758,
+      "url": "https://github.com/MemPalace/mempalace/releases/download/v3.12.0/mempalace_native_core-3.12.0-cp310-abi3-macosx_10_12_x86_64.whl"
     },
     {
       "name": "mempalace-native-windows-amd64.exe",
       "size": 2247168,
-      "url": "https://github.com/MemPalace/mempalace/releases/download/v3.11.0/mempalace-native-windows-amd64.exe"
+      "url": "https://github.com/MemPalace/mempalace/releases/download/v3.12.0/mempalace-native-windows-amd64.exe"
     },
     {
-      "name": "mempalace_native_core-3.11.0-cp39-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
-      "size": 1069430,
-      "url": "https://github.com/MemPalace/mempalace/releases/download/v3.11.0/mempalace_native_core-3.11.0-cp39-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl"
+      "name": "mempalace_native_core-3.12.0-cp310-abi3-manylinux2014_aarch64.manylinux_2_17_aarch64.whl",
+      "size": 1067864,
+      "url": "https://github.com/MemPalace/mempalace/releases/download/v3.12.0/mempalace_native_core-3.12.0-cp310-abi3-manylinux2014_aarch64.manylinux_2_17_aarch64.whl"
     },
     {
-      "name": "mempalace_native_core-3.11.0-cp39-abi3-manylinux_2_34_x86_64.whl",
-      "size": 1253641,
-      "url": "https://github.com/MemPalace/mempalace/releases/download/v3.11.0/mempalace_native_core-3.11.0-cp39-abi3-manylinux_2_34_x86_64.whl"
+      "name": "mempalace_native_core-3.12.0-cp310-abi3-manylinux_2_34_x86_64.whl",
+      "size": 1252096,
+      "url": "https://github.com/MemPalace/mempalace/releases/download/v3.12.0/mempalace_native_core-3.12.0-cp310-abi3-manylinux_2_34_x86_64.whl"
     }
   ],
   "pinned": false,

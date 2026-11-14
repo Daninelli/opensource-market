@@ -20,41 +20,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/OrchestratorInc/agent-orchestrator/zip/refs/heads/main",
   "release": {
-    "tag": "v0.14.10",
-    "name": "v0.14.10",
-    "published": "2026-11-06T11:55:49Z",
-    "url": "https://github.com/OrchestratorInc/agent-orchestrator/releases/tag/v0.14.10"
+    "tag": "v0.15.1",
+    "name": "v0.15.1",
+    "published": "2026-11-14T10:00:00Z",
+    "url": "https://github.com/OrchestratorInc/agent-orchestrator/releases/tag/v0.15.1"
   },
   "assets": [
     {
-      "name": "Agent.Orchestrator.Setup.0.14.10.exe",
-      "size": 192779058,
-      "url": "https://github.com/OrchestratorInc/agent-orchestrator/releases/download/v0.14.10/Agent.Orchestrator.Setup.0.14.10.exe"
+      "name": "Agent.Orchestrator.Setup.0.15.1.exe",
+      "size": 194245731,
+      "url": "https://github.com/OrchestratorInc/agent-orchestrator/releases/download/v0.15.1/Agent.Orchestrator.Setup.0.15.1.exe"
     },
     {
       "name": "agent-orchestrator-win32-x64.exe",
-      "size": 192779058,
-      "url": "https://github.com/OrchestratorInc/agent-orchestrator/releases/download/v0.14.10/agent-orchestrator-win32-x64.exe"
+      "size": 194245731,
+      "url": "https://github.com/OrchestratorInc/agent-orchestrator/releases/download/v0.15.1/agent-orchestrator-win32-x64.exe"
     },
     {
       "name": "Orchestrator-darwin-arm64.dmg",
-      "size": 247862399,
-      "url": "https://github.com/OrchestratorInc/agent-orchestrator/releases/download/v0.14.10/Orchestrator-darwin-arm64.dmg"
+      "size": 250003977,
+      "url": "https://github.com/OrchestratorInc/agent-orchestrator/releases/download/v0.15.1/Orchestrator-darwin-arm64.dmg"
     },
     {
       "name": "agent-orchestrator-darwin-arm64.dmg",
-      "size": 247862399,
-      "url": "https://github.com/OrchestratorInc/agent-orchestrator/releases/download/v0.14.10/agent-orchestrator-darwin-arm64.dmg"
+      "size": 250003977,
+      "url": "https://github.com/OrchestratorInc/agent-orchestrator/releases/download/v0.15.1/agent-orchestrator-darwin-arm64.dmg"
     },
     {
       "name": "agent-orchestrator-linux-x64.rpm",
-      "size": 176512209,
-      "url": "https://github.com/OrchestratorInc/agent-orchestrator/releases/download/v0.14.10/agent-orchestrator-linux-x64.rpm"
+      "size": 177199357,
+      "url": "https://github.com/OrchestratorInc/agent-orchestrator/releases/download/v0.15.1/agent-orchestrator-linux-x64.rpm"
     },
     {
       "name": "agent-orchestrator-linux-x64.deb",
-      "size": 178525334,
-      "url": "https://github.com/OrchestratorInc/agent-orchestrator/releases/download/v0.14.10/agent-orchestrator-linux-x64.deb"
+      "size": 179928032,
+      "url": "https://github.com/OrchestratorInc/agent-orchestrator/releases/download/v0.15.1/agent-orchestrator-linux-x64.deb"
     }
   ],
   "pinned": false,

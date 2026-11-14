@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/PrefectHQ/prefect/zip/refs/heads/main",
   "release": {
-    "tag": "3.9.2",
-    "name": "3.9.2 - It’s okay to let go of a lock that already let go of you",
-    "published": "2026-11-06T21:19:09Z",
-    "url": "https://github.com/PrefectHQ/prefect/releases/tag/3.9.2"
+    "tag": "3.9.3",
+    "name": "3.9.3 - `aclose()`ing time",
+    "published": "2026-11-13T19:24:07Z",
+    "url": "https://github.com/PrefectHQ/prefect/releases/tag/3.9.3"
   },
   "assets": [],
   "pinned": false,

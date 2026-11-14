@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/withastro/starlight/zip/refs/heads/main",
   "release": {
-    "tag": "@astrojs/starlight-docsearch@0.8.1",
-    "name": "@astrojs/starlight-docsearch@0.8.1",
-    "published": "2026-11-06T18:13:21Z",
-    "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight-docsearch%400.8.1"
+    "tag": "@astrojs/starlight@0.43.1",
+    "name": "@astrojs/starlight@0.43.1",
+    "published": "2026-11-13T20:43:02Z",
+    "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.43.1"
   },
   "assets": [],
   "pinned": false,

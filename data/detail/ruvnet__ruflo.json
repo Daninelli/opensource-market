@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ruvnet/ruflo/zip/refs/heads/main",
   "release": {
-    "tag": "v3.76.0",
-    "name": "v3.76.0 — opt-in centroid agent router, neural router assets shipped",
-    "published": "2026-11-11T14:48:29Z",
-    "url": "https://github.com/ruvnet/ruflo/releases/tag/v3.76.0"
+    "tag": "v3.77.1",
+    "name": "v3.77.1 — AgentDB honours the configured embedding model",
+    "published": "2026-11-13T21:05:38Z",
+    "url": "https://github.com/ruvnet/ruflo/releases/tag/v3.77.1"
   },
   "assets": [],
   "pinned": false,

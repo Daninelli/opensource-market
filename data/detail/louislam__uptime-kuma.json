@@ -22,16 +22,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/louislam/uptime-kuma/zip/refs/heads/master",
   "release": {
-    "tag": "2.5.10",
-    "name": "2.5.10",
-    "published": "2026-11-12T03:53:19Z",
-    "url": "https://github.com/louislam/uptime-kuma/releases/tag/2.5.10"
+    "tag": "2.5.11",
+    "name": "2.5.11",
+    "published": "2026-11-12T09:20:06Z",
+    "url": "https://github.com/louislam/uptime-kuma/releases/tag/2.5.11"
   },
   "assets": [
     {
       "name": "dist.tar.gz",
-      "size": 7558434,
-      "url": "https://github.com/louislam/uptime-kuma/releases/download/2.5.10/dist.tar.gz"
+      "size": 7556844,
+      "url": "https://github.com/louislam/uptime-kuma/releases/download/2.5.11/dist.tar.gz"
     }
   ],
   "pinned": false,

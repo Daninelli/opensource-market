@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/OneUptime/oneuptime/zip/refs/heads/main",
   "release": {
-    "tag": "14.0.107",
-    "name": "14.0.107",
-    "published": "2026-11-11T10:20:38Z",
-    "url": "https://github.com/OneUptime/oneuptime/releases/tag/14.0.107"
+    "tag": "14.0.110",
+    "name": "14.0.110",
+    "published": "2026-11-14T02:21:38Z",
+    "url": "https://github.com/OneUptime/oneuptime/releases/tag/14.0.110"
   },
   "assets": [],
   "pinned": false,

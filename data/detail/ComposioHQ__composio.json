@@ -21,31 +21,36 @@
   "default_branch": "next",
   "download_url": "https://codeload.github.com/ComposioHQ/composio/zip/refs/heads/next",
   "release": {
-    "tag": "@composio/cli@0.6.0",
-    "name": "CLI @composio/cli@0.6.0",
-    "published": "2026-11-01T21:52:48Z",
-    "url": "https://github.com/ComposioHQ/composio/releases/tag/%40composio/cli%400.6.0"
+    "tag": "@composio/cli@0.6.1",
+    "name": "CLI @composio/cli@0.6.1",
+    "published": "2026-11-13T19:04:02Z",
+    "url": "https://github.com/ComposioHQ/composio/releases/tag/%40composio/cli%400.6.1"
   },
   "assets": [
     {
       "name": "composio-darwin-aarch64.zip",
-      "size": 43529565,
-      "url": "https://github.com/ComposioHQ/composio/releases/download/%40composio/cli%400.6.0/composio-darwin-aarch64.zip"
+      "size": 43555290,
+      "url": "https://github.com/ComposioHQ/composio/releases/download/%40composio/cli%400.6.1/composio-darwin-aarch64.zip"
     },
     {
       "name": "composio-darwin-x64.zip",
-      "size": 46132572,
-      "url": "https://github.com/ComposioHQ/composio/releases/download/%40composio/cli%400.6.0/composio-darwin-x64.zip"
+      "size": 46159382,
+      "url": "https://github.com/ComposioHQ/composio/releases/download/%40composio/cli%400.6.1/composio-darwin-x64.zip"
+    },
+    {
+      "name": "composio-windows-x64.zip",
+      "size": 57429971,
+      "url": "https://github.com/ComposioHQ/composio/releases/download/%40composio/cli%400.6.1/composio-windows-x64.zip"
     },
     {
       "name": "composio-linux-aarch64.zip",
-      "size": 54338187,
-      "url": "https://github.com/ComposioHQ/composio/releases/download/%40composio/cli%400.6.0/composio-linux-aarch64.zip"
+      "size": 54364030,
+      "url": "https://github.com/ComposioHQ/composio/releases/download/%40composio/cli%400.6.1/composio-linux-aarch64.zip"
     },
     {
       "name": "composio-linux-x64.zip",
-      "size": 54472647,
-      "url": "https://github.com/ComposioHQ/composio/releases/download/%40composio/cli%400.6.0/composio-linux-x64.zip"
+      "size": 54499592,
+      "url": "https://github.com/ComposioHQ/composio/releases/download/%40composio/cli%400.6.1/composio-linux-x64.zip"
     }
   ],
   "pinned": false,

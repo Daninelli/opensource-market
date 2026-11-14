@@ -20,21 +20,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/prometheus-operator/prometheus-operator/zip/refs/heads/main",
   "release": {
-    "tag": "v0.95.1",
-    "name": "0.95.1 / 2026-11-05",
-    "published": "2026-11-06T09:07:55Z",
-    "url": "https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.95.1"
+    "tag": "v0.95.2",
+    "name": "0.95.2 / 2026-11-10",
+    "published": "2026-11-12T13:08:13Z",
+    "url": "https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.95.2"
   },
   "assets": [
     {
       "name": "stripped-down-crds.yaml",
       "size": 1555710,
-      "url": "https://github.com/prometheus-operator/prometheus-operator/releases/download/v0.95.1/stripped-down-crds.yaml"
+      "url": "https://github.com/prometheus-operator/prometheus-operator/releases/download/v0.95.2/stripped-down-crds.yaml"
     },
     {
       "name": "bundle.yaml",
       "size": 4647094,
-      "url": "https://github.com/prometheus-operator/prometheus-operator/releases/download/v0.95.1/bundle.yaml"
+      "url": "https://github.com/prometheus-operator/prometheus-operator/releases/download/v0.95.2/bundle.yaml"
     }
   ],
   "pinned": false,

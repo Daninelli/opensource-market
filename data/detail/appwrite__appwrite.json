@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/appwrite/appwrite/zip/refs/heads/main",
   "release": {
-    "tag": "2.7.1",
-    "name": "2.7.1",
-    "published": "2026-11-04T16:23:46Z",
-    "url": "https://github.com/appwrite/appwrite/releases/tag/2.7.1"
+    "tag": "2.7.2",
+    "name": "2.7.2",
+    "published": "2026-11-12T14:24:39Z",
+    "url": "https://github.com/appwrite/appwrite/releases/tag/2.7.2"
   },
   "assets": [],
   "pinned": false,

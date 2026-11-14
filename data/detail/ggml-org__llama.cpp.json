@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/ggml-org/llama.cpp/zip/refs/heads/master",
   "release": {
-    "tag": "v0.9.0",
-    "name": "v0.9.0",
-    "published": "2026-11-04T13:08:06Z",
-    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.9.0"
+    "tag": "v1.0.0",
+    "name": "v1.0.0",
+    "published": "2026-11-13T10:20:19Z",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0"
   },
   "assets": [],
   "pinned": false,

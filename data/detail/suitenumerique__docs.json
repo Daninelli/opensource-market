@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/suitenumerique/docs/zip/refs/heads/main",
   "release": {
-    "tag": "v6.0.4",
-    "name": "v6.0.4",
-    "published": "2026-10-26T15:55:09Z",
-    "url": "https://github.com/suitenumerique/docs/releases/tag/v6.0.4"
+    "tag": "v6.1.0",
+    "name": "v6.1.0",
+    "published": "2026-11-13T13:11:23Z",
+    "url": "https://github.com/suitenumerique/docs/releases/tag/v6.1.0"
   },
   "assets": [],
   "pinned": false,

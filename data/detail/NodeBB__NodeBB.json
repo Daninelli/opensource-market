@@ -22,10 +22,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/NodeBB/NodeBB/zip/refs/heads/master",
   "release": {
-    "tag": "v4.16.7",
-    "name": "v4.16.7",
-    "published": "2026-10-31T20:26:05Z",
-    "url": "https://github.com/NodeBB/NodeBB/releases/tag/v4.16.7"
+    "tag": "v4.16.8",
+    "name": "v4.16.8",
+    "published": "2026-11-12T20:29:42Z",
+    "url": "https://github.com/NodeBB/NodeBB/releases/tag/v4.16.8"
   },
   "assets": [],
   "pinned": false,

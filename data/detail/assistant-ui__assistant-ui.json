@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/assistant-ui/assistant-ui/zip/refs/heads/main",
   "release": {
-    "tag": "assistant-ui@0.0.134",
-    "name": "assistant-ui@0.0.134",
-    "published": "2026-11-12T07:45:44Z",
-    "url": "https://github.com/assistant-ui/assistant-ui/releases/tag/assistant-ui%400.0.134"
+    "tag": "assistant-ui@0.0.135",
+    "name": "assistant-ui@0.0.135",
+    "published": "2026-11-13T22:50:23Z",
+    "url": "https://github.com/assistant-ui/assistant-ui/releases/tag/assistant-ui%400.0.135"
   },
   "assets": [],
   "pinned": false,

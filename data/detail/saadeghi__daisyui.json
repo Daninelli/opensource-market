@@ -22,21 +22,21 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/saadeghi/daisyui/zip/refs/heads/master",
   "release": {
-    "tag": "v5.7.50",
-    "name": "v5.7.50",
-    "published": "2026-10-13T11:45:16Z",
-    "url": "https://github.com/saadeghi/daisyui/releases/tag/v5.7.50"
+    "tag": "v5.8.0",
+    "name": "v5.8.0",
+    "published": "2026-11-12T16:38:49Z",
+    "url": "https://github.com/saadeghi/daisyui/releases/tag/v5.8.0"
   },
   "assets": [
     {
       "name": "daisyui.mjs",
-      "size": 351408,
-      "url": "https://github.com/saadeghi/daisyui/releases/download/v5.7.50/daisyui.mjs"
+      "size": 359766,
+      "url": "https://github.com/saadeghi/daisyui/releases/download/v5.8.0/daisyui.mjs"
     },
     {
       "name": "daisyui.js",
-      "size": 352708,
-      "url": "https://github.com/saadeghi/daisyui/releases/download/v5.7.50/daisyui.js"
+      "size": 361066,
+      "url": "https://github.com/saadeghi/daisyui/releases/download/v5.8.0/daisyui.js"
     }
   ],
   "pinned": false,

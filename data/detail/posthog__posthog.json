@@ -23,46 +23,46 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/posthog/posthog/zip/refs/heads/master",
   "release": {
-    "tag": "desktop-v0.61.1006",
-    "name": "desktop-v0.61.1006",
-    "published": "2026-11-12T01:31:08Z",
-    "url": "https://github.com/PostHog/posthog/releases/tag/desktop-v0.61.1006"
+    "tag": "desktop-v0.61.1040",
+    "name": "desktop-v0.61.1040",
+    "published": "2026-11-14T01:31:07Z",
+    "url": "https://github.com/PostHog/posthog/releases/tag/desktop-v0.61.1040"
   },
   "assets": [
     {
-      "name": "PostHog-Desktop-0.61.1006-x64-win.exe",
-      "size": 336842288,
-      "url": "https://github.com/PostHog/posthog/releases/download/desktop-v0.61.1006/PostHog-Desktop-0.61.1006-x64-win.exe"
+      "name": "PostHog-Desktop-0.61.1040-x64-win.exe",
+      "size": 336977408,
+      "url": "https://github.com/PostHog/posthog/releases/download/desktop-v0.61.1040/PostHog-Desktop-0.61.1040-x64-win.exe"
     },
     {
-      "name": "PostHog-Desktop-0.61.1006-arm64-mac.dmg",
-      "size": 389283244,
-      "url": "https://github.com/PostHog/posthog/releases/download/desktop-v0.61.1006/PostHog-Desktop-0.61.1006-arm64-mac.dmg"
+      "name": "PostHog-Desktop-0.61.1040-arm64-mac.dmg",
+      "size": 389424911,
+      "url": "https://github.com/PostHog/posthog/releases/download/desktop-v0.61.1040/PostHog-Desktop-0.61.1040-arm64-mac.dmg"
     },
     {
-      "name": "PostHog-Desktop-0.61.1006-x64-mac.dmg",
-      "size": 403241423,
-      "url": "https://github.com/PostHog/posthog/releases/download/desktop-v0.61.1006/PostHog-Desktop-0.61.1006-x64-mac.dmg"
+      "name": "PostHog-Desktop-0.61.1040-x64-mac.dmg",
+      "size": 403415387,
+      "url": "https://github.com/PostHog/posthog/releases/download/desktop-v0.61.1040/PostHog-Desktop-0.61.1040-x64-mac.dmg"
     },
     {
-      "name": "PostHog-Desktop-0.61.1006-aarch64-linux.rpm",
-      "size": 275717989,
-      "url": "https://github.com/PostHog/posthog/releases/download/desktop-v0.61.1006/PostHog-Desktop-0.61.1006-aarch64-linux.rpm"
+      "name": "PostHog-Desktop-0.61.1040-aarch64-linux.rpm",
+      "size": 275764861,
+      "url": "https://github.com/PostHog/posthog/releases/download/desktop-v0.61.1040/PostHog-Desktop-0.61.1040-aarch64-linux.rpm"
     },
     {
-      "name": "PostHog-Desktop-0.61.1006-x86_64-linux.rpm",
-      "size": 296368861,
-      "url": "https://github.com/PostHog/posthog/releases/download/desktop-v0.61.1006/PostHog-Desktop-0.61.1006-x86_64-linux.rpm"
+      "name": "PostHog-Desktop-0.61.1040-x86_64-linux.rpm",
+      "size": 296461825,
+      "url": "https://github.com/PostHog/posthog/releases/download/desktop-v0.61.1040/PostHog-Desktop-0.61.1040-x86_64-linux.rpm"
     },
     {
-      "name": "PostHog-Desktop-0.61.1006-arm64-mac.zip",
-      "size": 395255347,
-      "url": "https://github.com/PostHog/posthog/releases/download/desktop-v0.61.1006/PostHog-Desktop-0.61.1006-arm64-mac.zip"
+      "name": "PostHog-Desktop-0.61.1040-arm64-mac.zip",
+      "size": 395412079,
+      "url": "https://github.com/PostHog/posthog/releases/download/desktop-v0.61.1040/PostHog-Desktop-0.61.1040-arm64-mac.zip"
     },
     {
-      "name": "PostHog-Desktop-0.61.1006-x64-mac.zip",
-      "size": 409258403,
-      "url": "https://github.com/PostHog/posthog/releases/download/desktop-v0.61.1006/PostHog-Desktop-0.61.1006-x64-mac.zip"
+      "name": "PostHog-Desktop-0.61.1040-x64-mac.zip",
+      "size": 409410630,
+      "url": "https://github.com/PostHog/posthog/releases/download/desktop-v0.61.1040/PostHog-Desktop-0.61.1040-x64-mac.zip"
     }
   ],
   "pinned": false,

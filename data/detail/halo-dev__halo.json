@@ -22,16 +22,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/halo-dev/halo/zip/refs/heads/main",
   "release": {
-    "tag": "v2.27.2",
-    "name": "2.27.2",
-    "published": "2026-11-02T09:54:23Z",
-    "url": "https://github.com/halo-dev/halo/releases/tag/v2.27.2"
+    "tag": "v2.27.3",
+    "name": "2.27.3",
+    "published": "2026-11-13T10:33:40Z",
+    "url": "https://github.com/halo-dev/halo/releases/tag/v2.27.3"
   },
   "assets": [
     {
-      "name": "halo-2.27.2.jar",
-      "size": 134796269,
-      "url": "https://github.com/halo-dev/halo/releases/download/v2.27.2/halo-2.27.2.jar"
+      "name": "halo-2.27.3.jar",
+      "size": 134886038,
+      "url": "https://github.com/halo-dev/halo/releases/download/v2.27.3/halo-2.27.3.jar"
     }
   ],
   "pinned": false,

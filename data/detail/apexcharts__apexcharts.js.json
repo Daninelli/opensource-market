@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/apexcharts/apexcharts.js/zip/refs/heads/main",
   "release": {
-    "tag": "v8.8.1",
-    "name": "💎 Version 8.8.1",
-    "published": "2026-11-08T15:36:02Z",
-    "url": "https://github.com/apexcharts/apexcharts.js/releases/tag/v8.8.1"
+    "tag": "v8.8.2",
+    "name": "💎 Version 8.8.2",
+    "published": "2026-11-13T07:49:47Z",
+    "url": "https://github.com/apexcharts/apexcharts.js/releases/tag/v8.8.2"
   },
   "assets": [],
   "pinned": false,

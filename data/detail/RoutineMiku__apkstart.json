@@ -1,0 +1,53 @@
+{
+  "repo": "RoutineMiku/apkstart",
+  "slug": "RoutineMiku__apkstart",
+  "name": "ApkStart",
+  "note_zh": "Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行",
+  "category": "其他",
+  "category_slug": "other",
+  "subcategory": "系统工具",
+  "subcategory_slug": "system",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "JavaScript",
+    "Electron",
+    "QEMU"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-11-14T11:38:58Z",
+  "added_at": "2026-11-14T19:43:52+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/RoutineMiku/apkstart/zip/refs/heads/main",
+  "release": {
+    "tag": "v0.3.3",
+    "name": "ApkStart v0.3.3",
+    "published": "2026-11-14T10:10:00Z",
+    "url": "https://github.com/RoutineMiku/apkstart/releases/tag/v0.3.3"
+  },
+  "assets": [
+    {
+      "name": "ApkStart-v0.3.3-win64-portable.zip",
+      "size": 108200693,
+      "url": "https://github.com/RoutineMiku/apkstart/releases/download/v0.3.3/ApkStart-v0.3.3-win64-portable.zip"
+    },
+    {
+      "name": "ApkStart-0.3.3-Setup.exe",
+      "size": 1449413083,
+      "url": "https://github.com/RoutineMiku/apkstart/releases/download/v0.3.3/ApkStart-0.3.3-Setup.exe"
+    },
+    {
+      "name": "ApkStart-runtime-v0.3.3.zip",
+      "size": 1428769403,
+      "url": "https://github.com/RoutineMiku/apkstart/releases/download/v0.3.3/ApkStart-runtime-v0.3.3.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -21,26 +21,26 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/HIllya51/LunaTranslator/zip/refs/heads/main",
   "release": {
-    "tag": "v12.1.3.9",
-    "name": "v12.1.3.9",
-    "published": "2026-11-07T07:59:39Z",
-    "url": "https://github.com/HIllya51/LunaTranslator/releases/tag/v12.1.3.9"
+    "tag": "v12.1.3.10",
+    "name": "v12.1.3.10",
+    "published": "2026-11-12T15:53:34Z",
+    "url": "https://github.com/HIllya51/LunaTranslator/releases/tag/v12.1.3.10"
   },
   "assets": [
     {
       "name": "LunaTranslator_x86_winxp.zip",
-      "size": 50592085,
-      "url": "https://github.com/HIllya51/LunaTranslator/releases/download/v12.1.3.9/LunaTranslator_x86_winxp.zip"
+      "size": 50585747,
+      "url": "https://github.com/HIllya51/LunaTranslator/releases/download/v12.1.3.10/LunaTranslator_x86_winxp.zip"
     },
     {
       "name": "LunaTranslator_x64_win7.zip",
-      "size": 53151129,
-      "url": "https://github.com/HIllya51/LunaTranslator/releases/download/v12.1.3.9/LunaTranslator_x64_win7.zip"
+      "size": 53151187,
+      "url": "https://github.com/HIllya51/LunaTranslator/releases/download/v12.1.3.10/LunaTranslator_x64_win7.zip"
     },
     {
       "name": "LunaTranslator_x64.zip",
-      "size": 66679478,
-      "url": "https://github.com/HIllya51/LunaTranslator/releases/download/v12.1.3.9/LunaTranslator_x64.zip"
+      "size": 66680743,
+      "url": "https://github.com/HIllya51/LunaTranslator/releases/download/v12.1.3.10/LunaTranslator_x64.zip"
     }
   ],
   "pinned": false,

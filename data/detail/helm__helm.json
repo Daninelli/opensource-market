@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/helm/helm/zip/refs/heads/main",
   "release": {
-    "tag": "v4.3.1",
-    "name": "Helm v4.3.1",
-    "published": "2026-10-15T01:08:37Z",
-    "url": "https://github.com/helm/helm/releases/tag/v4.3.1"
+    "tag": "v4.3.2",
+    "name": "Helm v4.3.2",
+    "published": "2026-11-13T04:53:35Z",
+    "url": "https://github.com/helm/helm/releases/tag/v4.3.2"
   },
   "assets": [],
   "pinned": false,

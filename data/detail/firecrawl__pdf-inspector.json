@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/firecrawl/pdf-inspector/zip/refs/heads/main",
   "release": {
-    "tag": "v1.25.2",
-    "name": "1.25.2 — Script sizes and ToUnicode repair checks",
-    "published": "2026-09-28T07:14:32Z",
-    "url": "https://github.com/firecrawl/pdf-inspector/releases/tag/v1.25.2"
+    "tag": "v1.26.0",
+    "name": "1.26.0 — Strikethroughs kept in redlines and tables",
+    "published": "2026-11-14T07:44:12Z",
+    "url": "https://github.com/firecrawl/pdf-inspector/releases/tag/v1.26.0"
   },
   "assets": [],
   "pinned": false,

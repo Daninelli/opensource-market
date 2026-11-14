@@ -22,31 +22,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/OpenHands/OpenHands/zip/refs/heads/main",
   "release": {
-    "tag": "v1.39.0",
-    "name": "v1.39.0",
-    "published": "2026-11-11T17:14:58Z",
-    "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.39.0"
+    "tag": "v1.40.0",
+    "name": "v1.40.0",
+    "published": "2026-11-12T14:22:00Z",
+    "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.40.0"
   },
   "assets": [
     {
-      "name": "OpenHands-Agent-Canvas-Setup-1.39.0.exe",
-      "size": 168004940,
-      "url": "https://github.com/OpenHands/OpenHands/releases/download/v1.39.0/OpenHands-Agent-Canvas-Setup-1.39.0.exe"
+      "name": "OpenHands-Agent-Canvas-Setup-1.40.0.exe",
+      "size": 168035565,
+      "url": "https://github.com/OpenHands/OpenHands/releases/download/v1.40.0/OpenHands-Agent-Canvas-Setup-1.40.0.exe"
     },
     {
-      "name": "OpenHands-Agent-Canvas-1.39.0-universal.dmg",
-      "size": 348853418,
-      "url": "https://github.com/OpenHands/OpenHands/releases/download/v1.39.0/OpenHands-Agent-Canvas-1.39.0-universal.dmg"
+      "name": "OpenHands-Agent-Canvas-1.40.0-universal.dmg",
+      "size": 348902351,
+      "url": "https://github.com/OpenHands/OpenHands/releases/download/v1.40.0/OpenHands-Agent-Canvas-1.40.0-universal.dmg"
     },
     {
-      "name": "agent-canvas_1.39.0_amd64.deb",
-      "size": 157189836,
-      "url": "https://github.com/OpenHands/OpenHands/releases/download/v1.39.0/agent-canvas_1.39.0_amd64.deb"
+      "name": "agent-canvas_1.40.0_amd64.deb",
+      "size": 157163764,
+      "url": "https://github.com/OpenHands/OpenHands/releases/download/v1.40.0/agent-canvas_1.40.0_amd64.deb"
     },
     {
-      "name": "OpenHands.Agent.Canvas-1.39.0.AppImage",
-      "size": 199839343,
-      "url": "https://github.com/OpenHands/OpenHands/releases/download/v1.39.0/OpenHands.Agent.Canvas-1.39.0.AppImage"
+      "name": "OpenHands.Agent.Canvas-1.40.0.AppImage",
+      "size": 199876126,
+      "url": "https://github.com/OpenHands/OpenHands/releases/download/v1.40.0/OpenHands.Agent.Canvas-1.40.0.AppImage"
     }
   ],
   "pinned": false,

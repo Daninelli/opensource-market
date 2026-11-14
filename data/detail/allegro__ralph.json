@@ -22,10 +22,10 @@
   "default_branch": "ng",
   "download_url": "https://codeload.github.com/allegro/ralph/zip/refs/heads/ng",
   "release": {
-    "tag": "20261106.1",
-    "name": "20261106.1",
-    "published": "2026-11-06T12:39:17Z",
-    "url": "https://github.com/allegro/ralph/releases/tag/20261106.1"
+    "tag": "20261112.1",
+    "name": "20261112.1",
+    "published": "2026-11-12T11:30:37Z",
+    "url": "https://github.com/allegro/ralph/releases/tag/20261112.1"
   },
   "assets": [],
   "pinned": false,

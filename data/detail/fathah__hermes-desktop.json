@@ -22,51 +22,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/fathah/hermes-desktop/zip/refs/heads/main",
   "release": {
-    "tag": "v0.7.7",
-    "name": "Hermes Desktop v0.7.7",
-    "published": "2026-09-04T04:48:16Z",
-    "url": "https://github.com/fathah/hermes-desktop/releases/tag/v0.7.7"
+    "tag": "v0.7.8",
+    "name": "Hermes Desktop v0.7.8",
+    "published": "2026-11-12T13:21:03Z",
+    "url": "https://github.com/fathah/hermes-desktop/releases/tag/v0.7.8"
   },
   "assets": [
     {
-      "name": "hermes-desktop-0.7.7-portable.exe",
-      "size": 162517433,
-      "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-portable.exe"
+      "name": "hermes-desktop-0.7.8-portable.exe",
+      "size": 158256875,
+      "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.8/hermes-desktop-0.7.8-portable.exe"
     },
     {
-      "name": "hermes-desktop-0.7.7-setup.exe",
-      "size": 162669632,
-      "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-setup.exe"
+      "name": "hermes-desktop-0.7.8-setup.exe",
+      "size": 158409061,
+      "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.8/hermes-desktop-0.7.8-setup.exe"
     },
     {
-      "name": "hermes-desktop-0.7.7-arm64.dmg",
-      "size": 196315124,
-      "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-arm64.dmg"
+      "name": "hermes-desktop-0.7.8-arm64.dmg",
+      "size": 191902305,
+      "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.8/hermes-desktop-0.7.8-arm64.dmg"
     },
     {
-      "name": "hermes-desktop-0.7.7-x64.dmg",
-      "size": 203024805,
-      "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-x64.dmg"
+      "name": "hermes-desktop-0.7.8-x64.dmg",
+      "size": 198781863,
+      "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.8/hermes-desktop-0.7.8-x64.dmg"
     },
     {
-      "name": "hermes-desktop-0.7.7.rpm",
-      "size": 125866797,
-      "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7.rpm"
+      "name": "hermes-desktop-0.7.8.rpm",
+      "size": 121528935,
+      "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.8/hermes-desktop-0.7.8.rpm"
     },
     {
-      "name": "hermes-desktop_0.7.7_amd64.deb",
-      "size": 146053800,
-      "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop_0.7.7_amd64.deb"
+      "name": "hermes-desktop_0.7.8_amd64.deb",
+      "size": 144483824,
+      "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.8/hermes-desktop_0.7.8_amd64.deb"
     },
     {
-      "name": "hermes-desktop-0.7.7-arm64-mac.zip",
-      "size": 195808885,
-      "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-arm64-mac.zip"
+      "name": "hermes-desktop-0.7.8-arm64-mac.zip",
+      "size": 191439109,
+      "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.8/hermes-desktop-0.7.8-arm64-mac.zip"
     },
     {
-      "name": "hermes-desktop-0.7.7-x64-mac.zip",
-      "size": 202564276,
-      "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-x64-mac.zip"
+      "name": "hermes-desktop-0.7.8-x64-mac.zip",
+      "size": 198309487,
+      "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.8/hermes-desktop-0.7.8-x64-mac.zip"
     }
   ],
   "pinned": false,

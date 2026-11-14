@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/agno-agi/agno/zip/refs/heads/main",
   "release": {
-    "tag": "v3.1.12",
-    "name": "v3.1.12",
-    "published": "2026-10-29T14:00:55Z",
-    "url": "https://github.com/agno-agi/agno/releases/tag/v3.1.12"
+    "tag": "v3.2.0",
+    "name": "v3.2.0",
+    "published": "2026-11-12T17:47:14Z",
+    "url": "https://github.com/agno-agi/agno/releases/tag/v3.2.0"
   },
   "assets": [],
   "pinned": false,

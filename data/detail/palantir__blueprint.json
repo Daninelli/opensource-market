@@ -21,10 +21,10 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/palantir/blueprint/zip/refs/heads/develop",
   "release": {
-    "tag": "@blueprintjs/labs@6.4.8",
-    "name": "@blueprintjs/labs@6.4.8",
-    "published": "2026-11-02T16:38:48Z",
-    "url": "https://github.com/palantir/blueprint/releases/tag/%40blueprintjs/labs%406.4.8"
+    "tag": "@blueprintjs/table@6.3.2",
+    "name": "@blueprintjs/table@6.3.2",
+    "published": "2026-11-13T17:14:34Z",
+    "url": "https://github.com/palantir/blueprint/releases/tag/%40blueprintjs/table%406.3.2"
   },
   "assets": [],
   "pinned": false,

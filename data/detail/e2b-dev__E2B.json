@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/e2b-dev/E2B/zip/refs/heads/main",
   "release": {
-    "tag": "@e2b/python-sdk@2.63.0",
-    "name": "@e2b/python-sdk@2.63.0",
-    "published": "2026-11-04T16:41:55Z",
-    "url": "https://github.com/e2b-dev/E2B/releases/tag/%40e2b/python-sdk%402.63.0"
+    "tag": "@e2b/cli@2.24.0",
+    "name": "@e2b/cli@2.24.0",
+    "published": "2026-11-13T19:11:14Z",
+    "url": "https://github.com/e2b-dev/E2B/releases/tag/%40e2b/cli%402.24.0"
   },
   "assets": [],
   "pinned": false,

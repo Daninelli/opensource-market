@@ -22,51 +22,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/debpalash/VoiceStudio/zip/refs/heads/main",
   "release": {
-    "tag": "v0.5.7",
-    "name": "v0.5.7 — VoiceStudio",
-    "published": "2026-10-26T14:59:48Z",
-    "url": "https://github.com/debpalash/VoiceStudio/releases/tag/v0.5.7"
+    "tag": "v0.5.8",
+    "name": "v0.5.8 — VoiceStudio",
+    "published": "2026-11-12T08:53:29Z",
+    "url": "https://github.com/debpalash/VoiceStudio/releases/tag/v0.5.8"
   },
   "assets": [
     {
-      "name": "VoiceStudio-0.5.7-win-arm64.exe",
-      "size": 215989748,
-      "url": "https://github.com/debpalash/VoiceStudio/releases/download/v0.5.7/VoiceStudio-0.5.7-win-arm64.exe"
+      "name": "VoiceStudio-0.5.8-win-arm64.exe",
+      "size": 225781545,
+      "url": "https://github.com/debpalash/VoiceStudio/releases/download/v0.5.8/VoiceStudio-0.5.8-win-arm64.exe"
     },
     {
-      "name": "VoiceStudio-0.5.7-win-x64.exe",
-      "size": 222263756,
-      "url": "https://github.com/debpalash/VoiceStudio/releases/download/v0.5.7/VoiceStudio-0.5.7-win-x64.exe"
+      "name": "VoiceStudio-0.5.8-win-x64.exe",
+      "size": 232785545,
+      "url": "https://github.com/debpalash/VoiceStudio/releases/download/v0.5.8/VoiceStudio-0.5.8-win-x64.exe"
     },
     {
-      "name": "VoiceStudio-0.5.7-mac-arm64.zip",
-      "size": 279680217,
-      "url": "https://github.com/debpalash/VoiceStudio/releases/download/v0.5.7/VoiceStudio-0.5.7-mac-arm64.zip"
+      "name": "VoiceStudio-0.5.8-mac-arm64.zip",
+      "size": 284015269,
+      "url": "https://github.com/debpalash/VoiceStudio/releases/download/v0.5.8/VoiceStudio-0.5.8-mac-arm64.zip"
     },
     {
-      "name": "VoiceStudio-0.5.7-mac-arm64.dmg",
-      "size": 280523075,
-      "url": "https://github.com/debpalash/VoiceStudio/releases/download/v0.5.7/VoiceStudio-0.5.7-mac-arm64.dmg"
+      "name": "VoiceStudio-0.5.8-mac-arm64.dmg",
+      "size": 284723682,
+      "url": "https://github.com/debpalash/VoiceStudio/releases/download/v0.5.8/VoiceStudio-0.5.8-mac-arm64.dmg"
     },
     {
-      "name": "VoiceStudio-0.5.7-linux-x64.deb",
-      "size": 212949112,
-      "url": "https://github.com/debpalash/VoiceStudio/releases/download/v0.5.7/VoiceStudio-0.5.7-linux-x64.deb"
+      "name": "VoiceStudio-0.5.8-linux-x64.deb",
+      "size": 229137372,
+      "url": "https://github.com/debpalash/VoiceStudio/releases/download/v0.5.8/VoiceStudio-0.5.8-linux-x64.deb"
     },
     {
-      "name": "VoiceStudio-0.5.7-linux-x64.AppImage",
-      "size": 267623923,
-      "url": "https://github.com/debpalash/VoiceStudio/releases/download/v0.5.7/VoiceStudio-0.5.7-linux-x64.AppImage"
+      "name": "VoiceStudio-0.5.8-linux-x64.AppImage",
+      "size": 289429504,
+      "url": "https://github.com/debpalash/VoiceStudio/releases/download/v0.5.8/VoiceStudio-0.5.8-linux-x64.AppImage"
     },
     {
-      "name": "VoiceStudio-0.5.7-ios-unsigned.ipa",
-      "size": 23553400,
-      "url": "https://github.com/debpalash/VoiceStudio/releases/download/v0.5.7/VoiceStudio-0.5.7-ios-unsigned.ipa"
+      "name": "VoiceStudio-0.5.8-ios-unsigned.ipa",
+      "size": 25086664,
+      "url": "https://github.com/debpalash/VoiceStudio/releases/download/v0.5.8/VoiceStudio-0.5.8-ios-unsigned.ipa"
     },
     {
-      "name": "VoiceStudio-0.5.7-android.apk",
-      "size": 135770866,
-      "url": "https://github.com/debpalash/VoiceStudio/releases/download/v0.5.7/VoiceStudio-0.5.7-android.apk"
+      "name": "VoiceStudio-0.5.8-android.apk",
+      "size": 137188886,
+      "url": "https://github.com/debpalash/VoiceStudio/releases/download/v0.5.8/VoiceStudio-0.5.8-android.apk"
     }
   ],
   "pinned": false,

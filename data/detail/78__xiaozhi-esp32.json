@@ -21,21 +21,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/78/xiaozhi-esp32/zip/refs/heads/main",
   "release": {
-    "tag": "v2.5.2",
-    "name": "v2.5.2",
-    "published": "2026-10-11T20:49:36Z",
-    "url": "https://github.com/78/xiaozhi-esp32/releases/tag/v2.5.2"
+    "tag": "v2.6.0",
+    "name": "v2.6.0",
+    "published": "2026-11-13T19:34:49Z",
+    "url": "https://github.com/78/xiaozhi-esp32/releases/tag/v2.6.0"
   },
   "assets": [
     {
-      "name": "v2.5.2_bread-compact-esp32-128x32.zip",
-      "size": 1502206,
-      "url": "https://github.com/78/xiaozhi-esp32/releases/download/v2.5.2/v2.5.2_bread-compact-esp32-128x32.zip"
+      "name": "v2.6.0_bread-compact-esp32-128x32.zip",
+      "size": 1492099,
+      "url": "https://github.com/78/xiaozhi-esp32/releases/download/v2.6.0/v2.6.0_bread-compact-esp32-128x32.zip"
     },
     {
-      "name": "v2.5.2_bread-compact-esp32.zip",
-      "size": 1502210,
-      "url": "https://github.com/78/xiaozhi-esp32/releases/download/v2.5.2/v2.5.2_bread-compact-esp32.zip"
+      "name": "v2.6.0_bread-compact-esp32.zip",
+      "size": 1492134,
+      "url": "https://github.com/78/xiaozhi-esp32/releases/download/v2.6.0/v2.6.0_bread-compact-esp32.zip"
     }
   ],
   "pinned": false,

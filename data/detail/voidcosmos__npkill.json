@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/voidcosmos/npkill/zip/refs/heads/main",
   "release": {
-    "tag": "v0.12.2",
-    "name": "v0.12.2",
-    "published": "2024-06-08T15:26:45Z",
-    "url": "https://github.com/voidcosmos/npkill/releases/tag/v0.12.2"
+    "tag": "v1.0.0",
+    "name": "v1.0 - Because the problem is modern development.",
+    "published": "2026-11-12T12:25:53Z",
+    "url": "https://github.com/voidcosmos/npkill/releases/tag/v1.0.0"
   },
   "assets": [],
   "pinned": false,

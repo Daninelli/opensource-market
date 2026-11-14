@@ -22,16 +22,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/pulsejet/memories/zip/refs/heads/master",
   "release": {
-    "tag": "v11.1.2",
-    "name": "v11.1.2",
-    "published": "2026-11-09T18:27:52Z",
-    "url": "https://github.com/pulsejet/memories/releases/tag/v11.1.2"
+    "tag": "v11.1.4",
+    "name": "v11.1.4",
+    "published": "2026-11-13T07:26:28Z",
+    "url": "https://github.com/pulsejet/memories/releases/tag/v11.1.4"
   },
   "assets": [
     {
       "name": "memories.tar.gz",
-      "size": 57987123,
-      "url": "https://github.com/pulsejet/memories/releases/download/v11.1.2/memories.tar.gz"
+      "size": 58023725,
+      "url": "https://github.com/pulsejet/memories/releases/download/v11.1.4/memories.tar.gz"
     }
   ],
   "pinned": false,

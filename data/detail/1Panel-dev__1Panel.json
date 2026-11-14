@@ -21,10 +21,10 @@
   "default_branch": "dev-v2",
   "download_url": "https://codeload.github.com/1Panel-dev/1Panel/zip/refs/heads/dev-v2",
   "release": {
-    "tag": "v2.5.0",
-    "name": "v2.5.0",
-    "published": "2026-11-11T08:51:39Z",
-    "url": "https://github.com/1Panel-dev/1Panel/releases/tag/v2.5.0"
+    "tag": "v2.5.1",
+    "name": "v2.5.1",
+    "published": "2026-11-12T08:42:59Z",
+    "url": "https://github.com/1Panel-dev/1Panel/releases/tag/v2.5.1"
   },
   "assets": [],
   "pinned": false,

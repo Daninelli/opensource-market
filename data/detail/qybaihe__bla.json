@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/qybaihe/bla/zip/refs/heads/main",
   "release": {
-    "tag": "bla-agents-3.2.5",
-    "name": "bla-agents 3.2.5",
-    "published": "2026-11-11T18:27:47Z",
-    "url": "https://github.com/qybaihe/bla/releases/tag/bla-agents-3.2.5"
+    "tag": "bla-agents-3.3.1",
+    "name": "bla-agents 3.3.1",
+    "published": "2026-11-13T18:28:42Z",
+    "url": "https://github.com/qybaihe/bla/releases/tag/bla-agents-3.3.1"
   },
   "assets": [],
   "pinned": false,

@@ -22,21 +22,26 @@
   "default_branch": "v8",
   "download_url": "https://codeload.github.com/Graphify-Labs/graphify/zip/refs/heads/v8",
   "release": {
-    "tag": "v0.9.107",
-    "name": "graphify 0.9.107",
-    "published": "2026-11-11T20:29:19Z",
-    "url": "https://github.com/Graphify-Labs/graphify/releases/tag/v0.9.107"
+    "tag": "v0.9.108",
+    "name": "graphify 0.9.108",
+    "published": "2026-11-12T21:48:11Z",
+    "url": "https://github.com/Graphify-Labs/graphify/releases/tag/v0.9.108"
   },
   "assets": [
     {
-      "name": "graphifyy-0.9.107-py3-none-any.whl",
-      "size": 1942107,
-      "url": "https://github.com/Graphify-Labs/graphify/releases/download/v0.9.107/graphifyy-0.9.107-py3-none-any.whl"
+      "name": "graphify-self-graph.tar.gz",
+      "size": 563306,
+      "url": "https://github.com/Graphify-Labs/graphify/releases/download/v0.9.108/graphify-self-graph.tar.gz"
     },
     {
-      "name": "graphifyy-0.9.107.tar.gz",
-      "size": 3425840,
-      "url": "https://github.com/Graphify-Labs/graphify/releases/download/v0.9.107/graphifyy-0.9.107.tar.gz"
+      "name": "graphifyy-0.9.108-py3-none-any.whl",
+      "size": 1947658,
+      "url": "https://github.com/Graphify-Labs/graphify/releases/download/v0.9.108/graphifyy-0.9.108-py3-none-any.whl"
+    },
+    {
+      "name": "graphifyy-0.9.108.tar.gz",
+      "size": 3440934,
+      "url": "https://github.com/Graphify-Labs/graphify/releases/download/v0.9.108/graphifyy-0.9.108.tar.gz"
     }
   ],
   "pinned": false,

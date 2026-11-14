@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/gradio-app/gradio/zip/refs/heads/main",
   "release": {
-    "tag": "gradio@6.31.0",
-    "name": "gradio@6.31.0",
-    "published": "2026-10-28T03:39:14Z",
-    "url": "https://github.com/gradio-app/gradio/releases/tag/gradio%406.31.0"
+    "tag": "gradio@6.32.0",
+    "name": "gradio@6.32.0",
+    "published": "2026-11-12T19:31:56Z",
+    "url": "https://github.com/gradio-app/gradio/releases/tag/gradio%406.32.0"
   },
   "assets": [],
   "pinned": false,

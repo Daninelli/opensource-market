@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/PrefectHQ/fastmcp/zip/refs/heads/main",
   "release": {
-    "tag": "v4.1.8",
-    "name": "v4.1.8: Backporch Light",
-    "published": "2026-11-10T20:44:13Z",
-    "url": "https://github.com/PrefectHQ/fastmcp/releases/tag/v4.1.8"
+    "tag": "v4.2.0",
+    "name": "v4.2.0: Mad Skills",
+    "published": "2026-11-13T17:07:01Z",
+    "url": "https://github.com/PrefectHQ/fastmcp/releases/tag/v4.2.0"
   },
   "assets": [],
   "pinned": false,

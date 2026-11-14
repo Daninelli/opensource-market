@@ -21,16 +21,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/JerryZLiu/Dayflow/zip/refs/heads/main",
   "release": {
-    "tag": "v2.9.0",
-    "name": "Dayflow 2.9.0",
-    "published": "2026-11-10T11:29:37Z",
-    "url": "https://github.com/JerryZLiu/Dayflow/releases/tag/v2.9.0"
+    "tag": "v2.9.3",
+    "name": "Dayflow 2.9.3",
+    "published": "2026-11-13T11:45:17Z",
+    "url": "https://github.com/JerryZLiu/Dayflow/releases/tag/v2.9.3"
   },
   "assets": [
     {
       "name": "Dayflow.dmg",
-      "size": 108676374,
-      "url": "https://github.com/JerryZLiu/Dayflow/releases/download/v2.9.0/Dayflow.dmg"
+      "size": 109452727,
+      "url": "https://github.com/JerryZLiu/Dayflow/releases/download/v2.9.3/Dayflow.dmg"
     }
   ],
   "pinned": false,

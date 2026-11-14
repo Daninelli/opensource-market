@@ -20,16 +20,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/KKKKhazix/khazix-skills/zip/refs/heads/main",
   "release": {
-    "tag": "v1.2.1",
-    "name": "v1.2.1",
-    "published": "2026-11-10T20:17:28Z",
-    "url": "https://github.com/KKKKhazix/khazix-skills/releases/tag/v1.2.1"
+    "tag": "v1.2.2",
+    "name": "v1.2.2",
+    "published": "2026-11-12T10:12:21Z",
+    "url": "https://github.com/KKKKhazix/khazix-skills/releases/tag/v1.2.2"
   },
   "assets": [
     {
-      "name": "khazix-skills-1.2.1.zip",
-      "size": 225438,
-      "url": "https://github.com/KKKKhazix/khazix-skills/releases/download/v1.2.1/khazix-skills-1.2.1.zip"
+      "name": "khazix-skills-1.2.2.zip",
+      "size": 231671,
+      "url": "https://github.com/KKKKhazix/khazix-skills/releases/download/v1.2.2/khazix-skills-1.2.2.zip"
     }
   ],
   "pinned": false,

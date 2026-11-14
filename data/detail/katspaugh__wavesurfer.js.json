@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/katspaugh/wavesurfer.js/zip/refs/heads/main",
   "release": {
-    "tag": "8.0.5",
-    "name": "8.0.5",
-    "published": "2026-11-02T09:25:25Z",
-    "url": "https://github.com/katspaugh/wavesurfer.js/releases/tag/8.0.5"
+    "tag": "8.1.0",
+    "name": "8.1.0",
+    "published": "2026-11-12T09:15:46Z",
+    "url": "https://github.com/katspaugh/wavesurfer.js/releases/tag/8.1.0"
   },
   "assets": [],
   "pinned": false,

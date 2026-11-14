@@ -20,21 +20,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/VectifyAI/PageIndex/zip/refs/heads/main",
   "release": {
-    "tag": "v0.5.3",
-    "name": "PageIndex 0.5.3 — Lower Cost, Higher Accuracy than Vector RAG",
-    "published": "2026-11-05T18:16:08Z",
-    "url": "https://github.com/VectifyAI/PageIndex/releases/tag/v0.5.3"
+    "tag": "v0.6.0",
+    "name": "PageIndex 0.6.0 — Lower Cost, Higher Accuracy than Vector RAG",
+    "published": "2026-11-14T02:40:33Z",
+    "url": "https://github.com/VectifyAI/PageIndex/releases/tag/v0.6.0"
   },
   "assets": [
     {
-      "name": "pageindex-0.5.3.tar.gz",
-      "size": 582245,
-      "url": "https://github.com/VectifyAI/PageIndex/releases/download/v0.5.3/pageindex-0.5.3.tar.gz"
+      "name": "pageindex-0.6.0.tar.gz",
+      "size": 588307,
+      "url": "https://github.com/VectifyAI/PageIndex/releases/download/v0.6.0/pageindex-0.6.0.tar.gz"
     },
     {
-      "name": "pageindex-0.5.3-py3-none-any.whl",
-      "size": 643304,
-      "url": "https://github.com/VectifyAI/PageIndex/releases/download/v0.5.3/pageindex-0.5.3-py3-none-any.whl"
+      "name": "pageindex-0.6.0-py3-none-any.whl",
+      "size": 649137,
+      "url": "https://github.com/VectifyAI/PageIndex/releases/download/v0.6.0/pageindex-0.6.0-py3-none-any.whl"
     }
   ],
   "pinned": false,

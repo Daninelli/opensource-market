@@ -21,16 +21,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/streamaserver/streama/zip/refs/heads/master",
   "release": {
-    "tag": "v1.11.2",
-    "name": "v1.11.2",
-    "published": "2026-10-26T11:05:27Z",
-    "url": "https://github.com/streamaserver/streama/releases/tag/v1.11.2"
+    "tag": "v1.11.3",
+    "name": "v1.11.3",
+    "published": "2026-11-12T08:26:26Z",
+    "url": "https://github.com/streamaserver/streama/releases/tag/v1.11.3"
   },
   "assets": [
     {
-      "name": "streama-1.11.2.jar",
-      "size": 105623585,
-      "url": "https://github.com/streamaserver/streama/releases/download/v1.11.2/streama-1.11.2.jar"
+      "name": "streama-1.11.3.jar",
+      "size": 104613339,
+      "url": "https://github.com/streamaserver/streama/releases/download/v1.11.3/streama-1.11.3.jar"
     }
   ],
   "pinned": false,

@@ -20,16 +20,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/mksglu/context-mode/zip/refs/heads/main",
   "release": {
-    "tag": "v2.1.8",
-    "name": "v2.1.8",
-    "published": "2026-11-11T22:09:13Z",
-    "url": "https://github.com/mksglu/context-mode/releases/tag/v2.1.8"
+    "tag": "v2.1.10",
+    "name": "v2.1.10",
+    "published": "2026-11-12T15:38:16Z",
+    "url": "https://github.com/mksglu/context-mode/releases/tag/v2.1.10"
   },
   "assets": [
     {
       "name": "context-mode.tar.gz",
-      "size": 1466604,
-      "url": "https://github.com/mksglu/context-mode/releases/download/v2.1.8/context-mode.tar.gz"
+      "size": 1472071,
+      "url": "https://github.com/mksglu/context-mode/releases/download/v2.1.10/context-mode.tar.gz"
     }
   ],
   "pinned": false,

@@ -22,51 +22,51 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/traefik/traefik/zip/refs/heads/master",
   "release": {
-    "tag": "v3.7.18",
-    "name": "v3.7.18",
-    "published": "2026-11-10T08:23:37Z",
-    "url": "https://github.com/traefik/traefik/releases/tag/v3.7.18"
+    "tag": "v3.7.19",
+    "name": "v3.7.19",
+    "published": "2026-11-13T09:34:42Z",
+    "url": "https://github.com/traefik/traefik/releases/tag/v3.7.19"
   },
   "assets": [
     {
-      "name": "traefik_v3.7.18_windows_arm64.zip",
-      "size": 44939991,
-      "url": "https://github.com/traefik/traefik/releases/download/v3.7.18/traefik_v3.7.18_windows_arm64.zip"
+      "name": "traefik_v3.7.19_windows_arm64.zip",
+      "size": 44978784,
+      "url": "https://github.com/traefik/traefik/releases/download/v3.7.19/traefik_v3.7.19_windows_arm64.zip"
     },
     {
-      "name": "traefik_v3.7.18_darwin_arm64.tar.gz",
-      "size": 47902818,
-      "url": "https://github.com/traefik/traefik/releases/download/v3.7.18/traefik_v3.7.18_darwin_arm64.tar.gz"
+      "name": "traefik_v3.7.19_darwin_arm64.tar.gz",
+      "size": 47915774,
+      "url": "https://github.com/traefik/traefik/releases/download/v3.7.19/traefik_v3.7.19_darwin_arm64.tar.gz"
     },
     {
-      "name": "traefik_v3.7.18_windows_386.zip",
-      "size": 48284625,
-      "url": "https://github.com/traefik/traefik/releases/download/v3.7.18/traefik_v3.7.18_windows_386.zip"
+      "name": "traefik_v3.7.19_windows_386.zip",
+      "size": 48322506,
+      "url": "https://github.com/traefik/traefik/releases/download/v3.7.19/traefik_v3.7.19_windows_386.zip"
     },
     {
-      "name": "traefik_v3.7.18_darwin_amd64.tar.gz",
-      "size": 52289529,
-      "url": "https://github.com/traefik/traefik/releases/download/v3.7.18/traefik_v3.7.18_darwin_amd64.tar.gz"
+      "name": "traefik_v3.7.19_darwin_amd64.tar.gz",
+      "size": 52334073,
+      "url": "https://github.com/traefik/traefik/releases/download/v3.7.19/traefik_v3.7.19_darwin_amd64.tar.gz"
     },
     {
-      "name": "traefik_v3.7.18_linux_ppc64le.tar.gz",
-      "size": 44016005,
-      "url": "https://github.com/traefik/traefik/releases/download/v3.7.18/traefik_v3.7.18_linux_ppc64le.tar.gz"
+      "name": "traefik_v3.7.19_linux_ppc64le.tar.gz",
+      "size": 44038986,
+      "url": "https://github.com/traefik/traefik/releases/download/v3.7.19/traefik_v3.7.19_linux_ppc64le.tar.gz"
     },
     {
-      "name": "traefik_v3.7.18_linux_arm64.tar.gz",
-      "size": 45256241,
-      "url": "https://github.com/traefik/traefik/releases/download/v3.7.18/traefik_v3.7.18_linux_arm64.tar.gz"
+      "name": "traefik_v3.7.19_linux_arm64.tar.gz",
+      "size": 45285235,
+      "url": "https://github.com/traefik/traefik/releases/download/v3.7.19/traefik_v3.7.19_linux_arm64.tar.gz"
     },
     {
-      "name": "traefik-v3.7.18.src.tar.gz",
-      "size": 14536875,
-      "url": "https://github.com/traefik/traefik/releases/download/v3.7.18/traefik-v3.7.18.src.tar.gz"
+      "name": "traefik-v3.7.19.src.tar.gz",
+      "size": 14525407,
+      "url": "https://github.com/traefik/traefik/releases/download/v3.7.19/traefik-v3.7.19.src.tar.gz"
     },
     {
-      "name": "traefik_v3.7.18_openbsd_386.tar.gz",
-      "size": 45736278,
-      "url": "https://github.com/traefik/traefik/releases/download/v3.7.18/traefik_v3.7.18_openbsd_386.tar.gz"
+      "name": "traefik_v3.7.19_openbsd_386.tar.gz",
+      "size": 45769399,
+      "url": "https://github.com/traefik/traefik/releases/download/v3.7.19/traefik_v3.7.19_openbsd_386.tar.gz"
     }
   ],
   "pinned": false,

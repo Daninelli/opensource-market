@@ -21,28 +21,12 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/hyperdxio/hyperdx/zip/refs/heads/main",
   "release": {
-    "tag": "cli-v0.9.0",
-    "name": "@hyperdx/cli v0.9.0",
-    "published": "2026-11-11T23:47:37Z",
-    "url": "https://github.com/ClickHouse/ClickStack/releases/tag/cli-v0.9.0"
+    "tag": "@hyperdx/api@2.45.0",
+    "name": "@hyperdx/api@2.45.0",
+    "published": "2026-11-14T03:08:50Z",
+    "url": "https://github.com/ClickHouse/ClickStack/releases/tag/%40hyperdx/api%402.45.0"
   },
-  "assets": [
-    {
-      "name": "hdx-darwin-arm64",
-      "size": 96458210,
-      "url": "https://github.com/ClickHouse/ClickStack/releases/download/cli-v0.9.0/hdx-darwin-arm64"
-    },
-    {
-      "name": "hdx-darwin-x64",
-      "size": 105410016,
-      "url": "https://github.com/ClickHouse/ClickStack/releases/download/cli-v0.9.0/hdx-darwin-x64"
-    },
-    {
-      "name": "hdx-linux-x64",
-      "size": 116373680,
-      "url": "https://github.com/ClickHouse/ClickStack/releases/download/cli-v0.9.0/hdx-linux-x64"
-    }
-  ],
+  "assets": [],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

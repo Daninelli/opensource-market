@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/easzlab/kubeasz/zip/refs/heads/master",
   "release": {
-    "tag": "3.7.0",
-    "name": "kubeasz 3.7.0",
-    "published": "2026-08-09T08:53:09Z",
-    "url": "https://github.com/easzlab/kubeasz/releases/tag/3.7.0"
+    "tag": "3.7.1",
+    "name": "kubeasz 3.7.1",
+    "published": "2026-11-14T08:16:38Z",
+    "url": "https://github.com/easzlab/kubeasz/releases/tag/3.7.1"
   },
   "assets": [],
   "pinned": false,

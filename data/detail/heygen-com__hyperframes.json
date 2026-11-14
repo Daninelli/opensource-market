@@ -20,26 +20,26 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/heygen-com/hyperframes/zip/refs/heads/main",
   "release": {
-    "tag": "v0.9.37",
-    "name": "v0.9.37",
-    "published": "2026-11-12T02:30:31Z",
-    "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.9.37"
+    "tag": "v0.9.45",
+    "name": "v0.9.45",
+    "published": "2026-11-14T10:14:46Z",
+    "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.9.45"
   },
   "assets": [
     {
       "name": "hyperframes-agent-plugin.zip",
-      "size": 2237517,
-      "url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.37/hyperframes-agent-plugin.zip"
+      "size": 2235366,
+      "url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.45/hyperframes-agent-plugin.zip"
     },
     {
       "name": "hyperframes-lambda-handler.zip",
-      "size": 129973065,
-      "url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.37/hyperframes-lambda-handler.zip"
+      "size": 130998119,
+      "url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.45/hyperframes-lambda-handler.zip"
     },
     {
       "name": "hyperframes-lambda-video-arm64.oci.tar",
-      "size": 245357568,
-      "url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.37/hyperframes-lambda-video-arm64.oci.tar"
+      "size": 246138880,
+      "url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.45/hyperframes-lambda-video-arm64.oci.tar"
     }
   ],
   "pinned": false,

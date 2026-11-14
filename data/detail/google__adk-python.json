@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/google/adk-python/zip/refs/heads/main",
   "release": {
-    "tag": "v2.14.0",
-    "name": "v2.14.0",
-    "published": "2026-11-07T00:58:18Z",
-    "url": "https://github.com/google/adk-python/releases/tag/v2.14.0"
+    "tag": "v2.14.1",
+    "name": "v2.14.1",
+    "published": "2026-11-12T21:30:11Z",
+    "url": "https://github.com/google/adk-python/releases/tag/v2.14.1"
   },
   "assets": [],
   "pinned": false,

@@ -23,10 +23,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/twentyhq/twenty/zip/refs/heads/main",
   "release": {
-    "tag": "twenty/v2.57.1",
-    "name": "twenty/v2.57.1",
-    "published": "2026-11-09T23:55:36Z",
-    "url": "https://github.com/twentyhq/twenty/releases/tag/twenty/v2.57.1"
+    "tag": "twenty/v2.58.0",
+    "name": "twenty/v2.58.0",
+    "published": "2026-11-13T15:31:27Z",
+    "url": "https://github.com/twentyhq/twenty/releases/tag/twenty/v2.58.0"
   },
   "assets": [],
   "pinned": false,

@@ -20,51 +20,51 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/subhra74/xdm/zip/refs/heads/master",
   "release": {
-    "tag": "v9.0.9",
-    "name": "XDM 9.0.9",
-    "published": "2026-11-01T07:29:05Z",
-    "url": "https://github.com/subhra74/xdm/releases/tag/v9.0.9"
+    "tag": "v9.0.10",
+    "name": "XDM 9.0.10",
+    "published": "2026-11-12T22:55:24Z",
+    "url": "https://github.com/subhra74/xdm/releases/tag/v9.0.10"
   },
   "assets": [
     {
-      "name": "xdm-9.0.9-arm64.msi",
-      "size": 59412480,
-      "url": "https://github.com/subhra74/xdm/releases/download/v9.0.9/xdm-9.0.9-arm64.msi"
+      "name": "xdm-9.0.10-arm64.msi",
+      "size": 63723169,
+      "url": "https://github.com/subhra74/xdm/releases/download/v9.0.10/xdm-9.0.10-arm64.msi"
     },
     {
-      "name": "xdm-9.0.9-x64.msi",
-      "size": 61358080,
-      "url": "https://github.com/subhra74/xdm/releases/download/v9.0.9/xdm-9.0.9-x64.msi"
+      "name": "xdm-9.0.10-x64.msi",
+      "size": 66217754,
+      "url": "https://github.com/subhra74/xdm/releases/download/v9.0.10/xdm-9.0.10-x64.msi"
     },
     {
-      "name": "xdm-app-9.0.9-arm64.dmg",
-      "size": 64163680,
-      "url": "https://github.com/subhra74/xdm/releases/download/v9.0.9/xdm-app-9.0.9-arm64.dmg"
+      "name": "xdm-app-9.0.10-arm64.dmg",
+      "size": 70156888,
+      "url": "https://github.com/subhra74/xdm/releases/download/v9.0.10/xdm-app-9.0.10-arm64.dmg"
     },
     {
-      "name": "xdm-app-9.0.9-x64.dmg",
-      "size": 66405874,
-      "url": "https://github.com/subhra74/xdm/releases/download/v9.0.9/xdm-app-9.0.9-x64.dmg"
+      "name": "xdm-app-9.0.10-x64.dmg",
+      "size": 72490643,
+      "url": "https://github.com/subhra74/xdm/releases/download/v9.0.10/xdm-app-9.0.10-x64.dmg"
     },
     {
-      "name": "xdm-app-9.0.9-linux-arm64.tar.gz",
-      "size": 66019265,
-      "url": "https://github.com/subhra74/xdm/releases/download/v9.0.9/xdm-app-9.0.9-linux-arm64.tar.gz"
+      "name": "xdm-app-9.0.10-linux-arm64.tar.gz",
+      "size": 73296901,
+      "url": "https://github.com/subhra74/xdm/releases/download/v9.0.10/xdm-app-9.0.10-linux-arm64.tar.gz"
     },
     {
-      "name": "xdm-app_9.0.9_arm64.deb",
-      "size": 66500090,
-      "url": "https://github.com/subhra74/xdm/releases/download/v9.0.9/xdm-app_9.0.9_arm64.deb"
+      "name": "xdm-app-9.0.10-linux-x64.tar.gz",
+      "size": 73854216,
+      "url": "https://github.com/subhra74/xdm/releases/download/v9.0.10/xdm-app-9.0.10-linux-x64.tar.gz"
     },
     {
-      "name": "xdm-app-9.0.9-1-aarch64.pkg.tar.zst",
-      "size": 64345021,
-      "url": "https://github.com/subhra74/xdm/releases/download/v9.0.9/xdm-app-9.0.9-1-aarch64.pkg.tar.zst"
+      "name": "xdm-app-9.0.10-1-aarch64.pkg.tar.zst",
+      "size": 71565272,
+      "url": "https://github.com/subhra74/xdm/releases/download/v9.0.10/xdm-app-9.0.10-1-aarch64.pkg.tar.zst"
     },
     {
-      "name": "xdm-app-9.0.9-1-x86_64.pkg.tar.zst",
-      "size": 64917621,
-      "url": "https://github.com/subhra74/xdm/releases/download/v9.0.9/xdm-app-9.0.9-1-x86_64.pkg.tar.zst"
+      "name": "xdm-app-9.0.10-1-x86_64.pkg.tar.zst",
+      "size": 71900973,
+      "url": "https://github.com/subhra74/xdm/releases/download/v9.0.10/xdm-app-9.0.10-1-x86_64.pkg.tar.zst"
     }
   ],
   "pinned": false,

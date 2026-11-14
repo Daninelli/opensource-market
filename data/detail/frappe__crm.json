@@ -22,10 +22,10 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/frappe/crm/zip/refs/heads/develop",
   "release": {
-    "tag": "v16.0.2",
-    "name": "v16.0.2",
-    "published": "2026-11-05T06:44:39Z",
-    "url": "https://github.com/frappe/crm/releases/tag/v16.0.2"
+    "tag": "v16.0.3",
+    "name": "v16.0.3",
+    "published": "2026-11-12T10:44:22Z",
+    "url": "https://github.com/frappe/crm/releases/tag/v16.0.3"
   },
   "assets": [],
   "pinned": false,

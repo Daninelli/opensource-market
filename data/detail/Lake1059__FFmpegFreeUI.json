@@ -21,21 +21,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Lake1059/FFmpegFreeUI/zip/refs/heads/main",
   "release": {
-    "tag": "6.5.0",
-    "name": "3FUI 6.5.0",
-    "published": "2026-11-12T03:22:49Z",
-    "url": "https://github.com/Lake1059/FFmpegFreeUI/releases/tag/6.5.0"
+    "tag": "6.5.1",
+    "name": "3FUI 6.5.1",
+    "published": "2026-11-14T10:29:33Z",
+    "url": "https://github.com/Lake1059/FFmpegFreeUI/releases/tag/6.5.1"
   },
   "assets": [
     {
       "name": "Updater.exe",
       "size": 6680064,
-      "url": "https://github.com/Lake1059/FFmpegFreeUI/releases/download/6.5.0/Updater.exe"
+      "url": "https://github.com/Lake1059/FFmpegFreeUI/releases/download/6.5.1/Updater.exe"
     },
     {
       "name": "FFmpegFreeUI.arm64.exe",
-      "size": 35646682,
-      "url": "https://github.com/Lake1059/FFmpegFreeUI/releases/download/6.5.0/FFmpegFreeUI.arm64.exe"
+      "size": 12012707,
+      "url": "https://github.com/Lake1059/FFmpegFreeUI/releases/download/6.5.1/FFmpegFreeUI.arm64.exe"
     }
   ],
   "pinned": false,

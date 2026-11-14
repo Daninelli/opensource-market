@@ -21,36 +21,36 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/Zettlr/Zettlr/zip/refs/heads/develop",
   "release": {
-    "tag": "v4.9.0",
-    "name": "Release v4.9.0",
-    "published": "2026-10-25T07:25:19Z",
-    "url": "https://github.com/Zettlr/Zettlr/releases/tag/v4.9.0"
+    "tag": "v4.10.0",
+    "name": "Release v4.10.0",
+    "published": "2026-11-13T16:40:54Z",
+    "url": "https://github.com/Zettlr/Zettlr/releases/tag/v4.10.0"
   },
   "assets": [
     {
-      "name": "Zettlr-4.9.0-x64.exe",
-      "size": 165302464,
-      "url": "https://github.com/Zettlr/Zettlr/releases/download/v4.9.0/Zettlr-4.9.0-x64.exe"
+      "name": "Zettlr-4.10.0-x64.exe",
+      "size": 166182008,
+      "url": "https://github.com/Zettlr/Zettlr/releases/download/v4.10.0/Zettlr-4.10.0-x64.exe"
     },
     {
-      "name": "Zettlr-4.9.0-x64.dmg",
-      "size": 192421109,
-      "url": "https://github.com/Zettlr/Zettlr/releases/download/v4.9.0/Zettlr-4.9.0-x64.dmg"
+      "name": "Zettlr-4.10.0-x64.dmg",
+      "size": 193585859,
+      "url": "https://github.com/Zettlr/Zettlr/releases/download/v4.10.0/Zettlr-4.10.0-x64.dmg"
     },
     {
-      "name": "Zettlr-4.9.0-arm64.dmg",
-      "size": 201268128,
-      "url": "https://github.com/Zettlr/Zettlr/releases/download/v4.9.0/Zettlr-4.9.0-arm64.dmg"
+      "name": "Zettlr-4.10.0-arm64.dmg",
+      "size": 202775144,
+      "url": "https://github.com/Zettlr/Zettlr/releases/download/v4.10.0/Zettlr-4.10.0-arm64.dmg"
     },
     {
-      "name": "Zettlr-4.9.0-arm64.deb",
-      "size": 122299332,
-      "url": "https://github.com/Zettlr/Zettlr/releases/download/v4.9.0/Zettlr-4.9.0-arm64.deb"
+      "name": "Zettlr-4.10.0-arm64.deb",
+      "size": 123112356,
+      "url": "https://github.com/Zettlr/Zettlr/releases/download/v4.10.0/Zettlr-4.10.0-arm64.deb"
     },
     {
-      "name": "Zettlr-4.9.0-amd64.deb",
-      "size": 127656452,
-      "url": "https://github.com/Zettlr/Zettlr/releases/download/v4.9.0/Zettlr-4.9.0-amd64.deb"
+      "name": "Zettlr-4.10.0-amd64.deb",
+      "size": 128461708,
+      "url": "https://github.com/Zettlr/Zettlr/releases/download/v4.10.0/Zettlr-4.10.0-amd64.deb"
     }
   ],
   "pinned": false,

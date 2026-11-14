@@ -22,46 +22,46 @@
   "default_branch": "canary",
   "download_url": "https://codeload.github.com/lobehub/lobehub/zip/refs/heads/canary",
   "release": {
-    "tag": "v2.3.2",
-    "name": "🚀 Release v2.3.2",
-    "published": "2026-11-06T15:52:27Z",
-    "url": "https://github.com/lobehub/lobehub/releases/tag/v2.3.2"
+    "tag": "v2.3.3",
+    "name": "🚀 Release v2.3.3",
+    "published": "2026-11-12T12:59:33Z",
+    "url": "https://github.com/lobehub/lobehub/releases/tag/v2.3.3"
   },
   "assets": [
     {
-      "name": "LobeHub-2.3.2-setup.exe",
-      "size": 155176830,
-      "url": "https://github.com/lobehub/lobehub/releases/download/v2.3.2/LobeHub-2.3.2-setup.exe"
+      "name": "LobeHub-2.3.3-setup.exe",
+      "size": 155803609,
+      "url": "https://github.com/lobehub/lobehub/releases/download/v2.3.3/LobeHub-2.3.3-setup.exe"
     },
     {
-      "name": "LobeHub-2.3.2-arm64.dmg",
-      "size": 167225268,
-      "url": "https://github.com/lobehub/lobehub/releases/download/v2.3.2/LobeHub-2.3.2-arm64.dmg"
+      "name": "LobeHub-2.3.3-arm64.dmg",
+      "size": 167790684,
+      "url": "https://github.com/lobehub/lobehub/releases/download/v2.3.3/LobeHub-2.3.3-arm64.dmg"
     },
     {
-      "name": "LobeHub-2.3.2-x64.dmg",
-      "size": 172152533,
-      "url": "https://github.com/lobehub/lobehub/releases/download/v2.3.2/LobeHub-2.3.2-x64.dmg"
+      "name": "LobeHub-2.3.3-x64.dmg",
+      "size": 172836136,
+      "url": "https://github.com/lobehub/lobehub/releases/download/v2.3.3/LobeHub-2.3.3-x64.dmg"
     },
     {
-      "name": "lobehub-desktop-2.3.2.x86_64.rpm",
-      "size": 126297118,
-      "url": "https://github.com/lobehub/lobehub/releases/download/v2.3.2/lobehub-desktop-2.3.2.x86_64.rpm"
+      "name": "lobehub-desktop-2.3.3.x86_64.rpm",
+      "size": 126813806,
+      "url": "https://github.com/lobehub/lobehub/releases/download/v2.3.3/lobehub-desktop-2.3.3.x86_64.rpm"
     },
     {
-      "name": "lobehub-desktop_2.3.2_amd64.deb",
-      "size": 144366968,
-      "url": "https://github.com/lobehub/lobehub/releases/download/v2.3.2/lobehub-desktop_2.3.2_amd64.deb"
+      "name": "lobehub-desktop_2.3.3_amd64.deb",
+      "size": 144879368,
+      "url": "https://github.com/lobehub/lobehub/releases/download/v2.3.3/lobehub-desktop_2.3.3_amd64.deb"
     },
     {
-      "name": "lobehub-desktop-2.3.2.tar.gz",
-      "size": 172217974,
-      "url": "https://github.com/lobehub/lobehub/releases/download/v2.3.2/lobehub-desktop-2.3.2.tar.gz"
+      "name": "lobehub-desktop-2.3.3.tar.gz",
+      "size": 172973206,
+      "url": "https://github.com/lobehub/lobehub/releases/download/v2.3.3/lobehub-desktop-2.3.3.tar.gz"
     },
     {
-      "name": "LobeHub-2.3.2-arm64-mac.zip",
-      "size": 176604990,
-      "url": "https://github.com/lobehub/lobehub/releases/download/v2.3.2/LobeHub-2.3.2-arm64-mac.zip"
+      "name": "LobeHub-2.3.3-arm64-mac.zip",
+      "size": 177356711,
+      "url": "https://github.com/lobehub/lobehub/releases/download/v2.3.3/LobeHub-2.3.3-arm64-mac.zip"
     }
   ],
   "pinned": false,

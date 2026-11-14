@@ -22,10 +22,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/nextcloud/server/zip/refs/heads/master",
   "release": {
-    "tag": "v33.0.10",
-    "name": "v33.0.10",
-    "published": "2026-10-15T08:37:28Z",
-    "url": "https://github.com/nextcloud/server/releases/tag/v33.0.10"
+    "tag": "v33.0.11",
+    "name": "v33.0.11",
+    "published": "2026-11-12T17:21:37Z",
+    "url": "https://github.com/nextcloud/server/releases/tag/v33.0.11"
   },
   "assets": [],
   "pinned": false,

@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/OpenByteInc/QuantDinger/zip/refs/heads/main",
   "release": {
-    "tag": "v5.8.7",
-    "name": "v5.8.7",
-    "published": "2026-11-11T09:46:02Z",
-    "url": "https://github.com/OpenByteInc/QuantDinger/releases/tag/v5.8.7"
+    "tag": "v5.8.9",
+    "name": "v5.8.9",
+    "published": "2026-11-14T07:10:14Z",
+    "url": "https://github.com/OpenByteInc/QuantDinger/releases/tag/v5.8.9"
   },
   "assets": [],
   "pinned": false,

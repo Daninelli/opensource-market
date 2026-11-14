@@ -1,10 +1,25 @@
 {
-  "generated_at": "2026-11-12T08:11:33.161Z",
+  "generated_at": "2026-11-14T11:47:02.839Z",
   "refreshed_at": "2026-11-11T10:57:32.312Z",
   "days": 7,
-  "total_projects": 1710,
-  "count": 9,
+  "total_projects": 1711,
+  "count": 10,
   "items": [
+    {
+      "name": "ApkStart",
+      "repo": "RoutineMiku/apkstart",
+      "added_at": "2026-11-14T19:43:52+08:00",
+      "category": "其他",
+      "category_slug": "other",
+      "subcategory": "系统工具",
+      "note_zh": "Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行",
+      "license": "MIT",
+      "stars": 2627,
+      "updated_at": "2026-11-14T11:38:58Z",
+      "download_url": "https://codeload.github.com/RoutineMiku/apkstart/zip/refs/heads/main",
+      "platform": "github",
+      "submitted_by": null
+    },
     {
       "name": "YunX-Desktop（云析桌面版）",
       "repo": "tidain/YunX-Desktop",

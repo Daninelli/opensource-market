@@ -23,10 +23,10 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/frappe/erpnext/zip/refs/heads/develop",
   "release": {
-    "tag": "v16.54.0",
-    "name": "v16.54.0",
-    "published": "2026-11-06T01:04:07Z",
-    "url": "https://github.com/frappe/erpnext/releases/tag/v16.54.0"
+    "tag": "v16.55.0",
+    "name": "v16.55.0",
+    "published": "2026-11-12T13:55:43Z",
+    "url": "https://github.com/frappe/erpnext/releases/tag/v16.55.0"
   },
   "assets": [],
   "pinned": false,

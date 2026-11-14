@@ -20,21 +20,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Vanilagy/mediabunny/zip/refs/heads/main",
   "release": {
-    "tag": "v1.65.2",
-    "name": "v1.65.2",
-    "published": "2026-11-04T19:19:24Z",
-    "url": "https://github.com/Vanilagy/mediabunny/releases/tag/v1.65.2"
+    "tag": "v1.66.0",
+    "name": "v1.66.0",
+    "published": "2026-11-13T16:10:43Z",
+    "url": "https://github.com/Vanilagy/mediabunny/releases/tag/v1.66.0"
   },
   "assets": [
     {
       "name": "mediabunny.d.ts",
-      "size": 240862,
-      "url": "https://github.com/Vanilagy/mediabunny/releases/download/v1.65.2/mediabunny.d.ts"
+      "size": 242275,
+      "url": "https://github.com/Vanilagy/mediabunny/releases/download/v1.66.0/mediabunny.d.ts"
     },
     {
       "name": "mediabunny-prores.min.mjs",
-      "size": 258067,
-      "url": "https://github.com/Vanilagy/mediabunny/releases/download/v1.65.2/mediabunny-prores.min.mjs"
+      "size": 256330,
+      "url": "https://github.com/Vanilagy/mediabunny/releases/download/v1.66.0/mediabunny-prores.min.mjs"
     }
   ],
   "pinned": false,

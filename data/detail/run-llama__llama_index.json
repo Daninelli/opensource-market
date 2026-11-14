@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/run-llama/llama_index/zip/refs/heads/main",
   "release": {
-    "tag": "v0.14.25",
-    "name": "v0.14.25",
-    "published": "2026-09-21T16:22:27Z",
-    "url": "https://github.com/run-llama/llama_index/releases/tag/v0.14.25"
+    "tag": "v0.14.26",
+    "name": "v0.14.26",
+    "published": "2026-11-13T22:38:15Z",
+    "url": "https://github.com/run-llama/llama_index/releases/tag/v0.14.26"
   },
   "assets": [],
   "pinned": false,

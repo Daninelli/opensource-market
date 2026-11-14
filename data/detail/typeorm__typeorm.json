@@ -22,10 +22,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/typeorm/typeorm/zip/refs/heads/master",
   "release": {
-    "tag": "1.1.2",
-    "name": "1.1.2",
-    "published": "2026-10-08T07:21:48Z",
-    "url": "https://github.com/typeorm/typeorm/releases/tag/1.1.2"
+    "tag": "1.1.3",
+    "name": "1.1.3",
+    "published": "2026-11-12T12:29:36Z",
+    "url": "https://github.com/typeorm/typeorm/releases/tag/1.1.3"
   },
   "assets": [],
   "pinned": false,

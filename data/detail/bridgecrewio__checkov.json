@@ -20,26 +20,26 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/bridgecrewio/checkov/zip/refs/heads/main",
   "release": {
-    "tag": "3.4.4",
-    "name": "3.4.4",
-    "published": "2026-11-11T23:02:11Z",
-    "url": "https://github.com/bridgecrewio/checkov/releases/tag/3.4.4"
+    "tag": "3.4.5",
+    "name": "3.4.5",
+    "published": "2026-11-12T23:01:44Z",
+    "url": "https://github.com/bridgecrewio/checkov/releases/tag/3.4.5"
   },
   "assets": [
     {
       "name": "checkov_darwin_X86_64.zip",
-      "size": 41562676,
-      "url": "https://github.com/bridgecrewio/checkov/releases/download/3.4.4/checkov_darwin_X86_64.zip"
+      "size": 41564607,
+      "url": "https://github.com/bridgecrewio/checkov/releases/download/3.4.5/checkov_darwin_X86_64.zip"
     },
     {
       "name": "checkov_windows_X86_64.zip",
-      "size": 52404014,
-      "url": "https://github.com/bridgecrewio/checkov/releases/download/3.4.4/checkov_windows_X86_64.zip"
+      "size": 52406488,
+      "url": "https://github.com/bridgecrewio/checkov/releases/download/3.4.5/checkov_windows_X86_64.zip"
     },
     {
       "name": "checkov_linux_X86_64.zip",
-      "size": 70796303,
-      "url": "https://github.com/bridgecrewio/checkov/releases/download/3.4.4/checkov_linux_X86_64.zip"
+      "size": 70798932,
+      "url": "https://github.com/bridgecrewio/checkov/releases/download/3.4.5/checkov_linux_X86_64.zip"
     }
   ],
   "pinned": false,

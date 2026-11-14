@@ -22,10 +22,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/backstage/backstage/zip/refs/heads/master",
   "release": {
-    "tag": "v1.56.4",
-    "name": "v1.56.4",
-    "published": "2026-11-09T22:03:35Z",
-    "url": "https://github.com/backstage/backstage/releases/tag/v1.56.4"
+    "tag": "v1.56.5",
+    "name": "v1.56.5",
+    "published": "2026-11-12T17:23:49Z",
+    "url": "https://github.com/backstage/backstage/releases/tag/v1.56.5"
   },
   "assets": [],
   "pinned": false,

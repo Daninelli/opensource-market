@@ -21,51 +21,51 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/nukeop/nuclear/zip/refs/heads/master",
   "release": {
-    "tag": "player@1.54.2",
-    "name": "Nuclear Player v1.54.2",
-    "published": "2026-11-06T01:38:08Z",
-    "url": "https://github.com/nukeop/nuclear/releases/tag/player%401.54.2"
+    "tag": "player@1.55.0",
+    "name": "Nuclear Player v1.55.0",
+    "published": "2026-11-13T10:28:00Z",
+    "url": "https://github.com/nukeop/nuclear/releases/tag/player%401.55.0"
   },
   "assets": [
     {
-      "name": "Nuclear_1.54.2_x64-setup.exe",
-      "size": 16035042,
-      "url": "https://github.com/nukeop/nuclear/releases/download/player%401.54.2/Nuclear_1.54.2_x64-setup.exe"
+      "name": "Nuclear_1.55.0_x64-setup.exe",
+      "size": 16031181,
+      "url": "https://github.com/nukeop/nuclear/releases/download/player%401.55.0/Nuclear_1.55.0_x64-setup.exe"
     },
     {
-      "name": "Nuclear_1.54.2_x64_en-US.msi",
-      "size": 21217280,
-      "url": "https://github.com/nukeop/nuclear/releases/download/player%401.54.2/Nuclear_1.54.2_x64_en-US.msi"
+      "name": "Nuclear_1.55.0_x64_en-US.msi",
+      "size": 21229568,
+      "url": "https://github.com/nukeop/nuclear/releases/download/player%401.55.0/Nuclear_1.55.0_x64_en-US.msi"
     },
     {
-      "name": "Nuclear_1.54.2_aarch64.dmg",
-      "size": 23545343,
-      "url": "https://github.com/nukeop/nuclear/releases/download/player%401.54.2/Nuclear_1.54.2_aarch64.dmg"
+      "name": "Nuclear_1.55.0_aarch64.dmg",
+      "size": 23563950,
+      "url": "https://github.com/nukeop/nuclear/releases/download/player%401.55.0/Nuclear_1.55.0_aarch64.dmg"
     },
     {
-      "name": "Nuclear_1.54.2_x64.dmg",
-      "size": 24768733,
-      "url": "https://github.com/nukeop/nuclear/releases/download/player%401.54.2/Nuclear_1.54.2_x64.dmg"
+      "name": "Nuclear_1.55.0_x64.dmg",
+      "size": 24779247,
+      "url": "https://github.com/nukeop/nuclear/releases/download/player%401.55.0/Nuclear_1.55.0_x64.dmg"
     },
     {
-      "name": "Nuclear_1.54.2_x86_64.flatpak",
-      "size": 16493392,
-      "url": "https://github.com/nukeop/nuclear/releases/download/player%401.54.2/Nuclear_1.54.2_x86_64.flatpak"
+      "name": "Nuclear_1.55.0_x86_64.flatpak",
+      "size": 16495136,
+      "url": "https://github.com/nukeop/nuclear/releases/download/player%401.55.0/Nuclear_1.55.0_x86_64.flatpak"
     },
     {
-      "name": "Nuclear_1.54.2_amd64.deb",
-      "size": 24123948,
-      "url": "https://github.com/nukeop/nuclear/releases/download/player%401.54.2/Nuclear_1.54.2_amd64.deb"
+      "name": "Nuclear_1.55.0_amd64.deb",
+      "size": 24115172,
+      "url": "https://github.com/nukeop/nuclear/releases/download/player%401.55.0/Nuclear_1.55.0_amd64.deb"
     },
     {
-      "name": "Nuclear_1.54.2_aarch64.app.tar.gz",
-      "size": 22893958,
-      "url": "https://github.com/nukeop/nuclear/releases/download/player%401.54.2/Nuclear_1.54.2_aarch64.app.tar.gz"
+      "name": "Nuclear_1.55.0_aarch64.app.tar.gz",
+      "size": 22912619,
+      "url": "https://github.com/nukeop/nuclear/releases/download/player%401.55.0/Nuclear_1.55.0_aarch64.app.tar.gz"
     },
     {
-      "name": "Nuclear_1.54.2_x64.app.tar.gz",
-      "size": 23967582,
-      "url": "https://github.com/nukeop/nuclear/releases/download/player%401.54.2/Nuclear_1.54.2_x64.app.tar.gz"
+      "name": "Nuclear_1.55.0_x64.app.tar.gz",
+      "size": 23975329,
+      "url": "https://github.com/nukeop/nuclear/releases/download/player%401.55.0/Nuclear_1.55.0_x64.app.tar.gz"
     }
   ],
   "pinned": false,

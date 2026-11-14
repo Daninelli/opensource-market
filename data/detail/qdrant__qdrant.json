@@ -22,36 +22,36 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/qdrant/qdrant/zip/refs/heads/master",
   "release": {
-    "tag": "v1.20.0",
-    "name": "v1.20.0",
-    "published": "2026-10-22T14:14:12Z",
-    "url": "https://github.com/qdrant/qdrant/releases/tag/v1.20.0"
+    "tag": "v1.20.1",
+    "name": "v1.20.1",
+    "published": "2026-11-13T12:30:26Z",
+    "url": "https://github.com/qdrant/qdrant/releases/tag/v1.20.1"
   },
   "assets": [
     {
       "name": "qdrant-aarch64-apple-darwin.tar.gz",
-      "size": 29070255,
-      "url": "https://github.com/qdrant/qdrant/releases/download/v1.20.0/qdrant-aarch64-apple-darwin.tar.gz"
+      "size": 29838645,
+      "url": "https://github.com/qdrant/qdrant/releases/download/v1.20.1/qdrant-aarch64-apple-darwin.tar.gz"
     },
     {
       "name": "qdrant-x86_64-pc-windows-msvc.zip",
-      "size": 30801664,
-      "url": "https://github.com/qdrant/qdrant/releases/download/v1.20.0/qdrant-x86_64-pc-windows-msvc.zip"
+      "size": 32466981,
+      "url": "https://github.com/qdrant/qdrant/releases/download/v1.20.1/qdrant-x86_64-pc-windows-msvc.zip"
     },
     {
       "name": "qdrant-x86_64-apple-darwin.tar.gz",
-      "size": 31917921,
-      "url": "https://github.com/qdrant/qdrant/releases/download/v1.20.0/qdrant-x86_64-apple-darwin.tar.gz"
+      "size": 33518826,
+      "url": "https://github.com/qdrant/qdrant/releases/download/v1.20.1/qdrant-x86_64-apple-darwin.tar.gz"
     },
     {
-      "name": "qdrant_1.20.0-1_amd64.deb",
-      "size": 25337728,
-      "url": "https://github.com/qdrant/qdrant/releases/download/v1.20.0/qdrant_1.20.0-1_amd64.deb"
+      "name": "qdrant_1.20.1-1_amd64.deb",
+      "size": 26091860,
+      "url": "https://github.com/qdrant/qdrant/releases/download/v1.20.1/qdrant_1.20.1-1_amd64.deb"
     },
     {
       "name": "qdrant-aarch64-unknown-linux-musl.tar.gz",
-      "size": 31475234,
-      "url": "https://github.com/qdrant/qdrant/releases/download/v1.20.0/qdrant-aarch64-unknown-linux-musl.tar.gz"
+      "size": 32285570,
+      "url": "https://github.com/qdrant/qdrant/releases/download/v1.20.1/qdrant-aarch64-unknown-linux-musl.tar.gz"
     }
   ],
   "pinned": false,

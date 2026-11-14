@@ -20,41 +20,41 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/code-yeongyu/oh-my-openagent/zip/refs/heads/dev",
   "release": {
-    "tag": "v5.1.69",
-    "name": "v5.1.69",
-    "published": "2026-11-11T03:57:40Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent/releases/tag/v5.1.69"
+    "tag": "v5.1.70",
+    "name": "v5.1.70",
+    "published": "2026-11-14T07:15:14Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent/releases/tag/v5.1.70"
   },
   "assets": [
     {
       "name": "omo-keychain-darwin-universal",
       "size": 174080,
-      "url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.69/omo-keychain-darwin-universal"
+      "url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.70/omo-keychain-darwin-universal"
     },
     {
       "name": "senpi-desktop-engine-win32-arm64.exe",
-      "size": 5251072,
-      "url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.69/senpi-desktop-engine-win32-arm64.exe"
+      "size": 5258752,
+      "url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.70/senpi-desktop-engine-win32-arm64.exe"
     },
     {
       "name": "senpi-desktop-engine-win32-x64.exe",
-      "size": 6286848,
-      "url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.69/senpi-desktop-engine-win32-x64.exe"
+      "size": 6291968,
+      "url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.70/senpi-desktop-engine-win32-x64.exe"
     },
     {
       "name": "senpi-desktop-engine-darwin-arm64",
-      "size": 8781136,
-      "url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.69/senpi-desktop-engine-darwin-arm64"
+      "size": 8782992,
+      "url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.70/senpi-desktop-engine-darwin-arm64"
     },
     {
       "name": "senpi-desktop-engine-linux-arm64",
-      "size": 20512440,
-      "url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.69/senpi-desktop-engine-linux-arm64"
+      "size": 20516488,
+      "url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.70/senpi-desktop-engine-linux-arm64"
     },
     {
       "name": "senpi-desktop-engine-linux-x64",
-      "size": 22660024,
-      "url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.69/senpi-desktop-engine-linux-x64"
+      "size": 22648592,
+      "url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.70/senpi-desktop-engine-linux-x64"
     }
   ],
   "pinned": false,

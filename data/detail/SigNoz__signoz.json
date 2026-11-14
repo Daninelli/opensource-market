@@ -21,31 +21,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/SigNoz/signoz/zip/refs/heads/main",
   "release": {
-    "tag": "v0.149.0",
-    "name": "v0.149.0",
-    "published": "2026-11-04T06:55:27Z",
-    "url": "https://github.com/SigNoz/signoz/releases/tag/v0.149.0"
+    "tag": "v0.150.0",
+    "name": "v0.150.0",
+    "published": "2026-11-13T13:47:26Z",
+    "url": "https://github.com/SigNoz/signoz/releases/tag/v0.150.0"
   },
   "assets": [
     {
       "name": "signoz-community_darwin_arm64.tar.gz",
-      "size": 67476809,
-      "url": "https://github.com/SigNoz/signoz/releases/download/v0.149.0/signoz-community_darwin_arm64.tar.gz"
+      "size": 67656941,
+      "url": "https://github.com/SigNoz/signoz/releases/download/v0.150.0/signoz-community_darwin_arm64.tar.gz"
     },
     {
       "name": "signoz_darwin_arm64.tar.gz",
-      "size": 69242793,
-      "url": "https://github.com/SigNoz/signoz/releases/download/v0.149.0/signoz_darwin_arm64.tar.gz"
+      "size": 70742539,
+      "url": "https://github.com/SigNoz/signoz/releases/download/v0.150.0/signoz_darwin_arm64.tar.gz"
     },
     {
       "name": "signoz-community_linux_arm64.tar.gz",
-      "size": 66551049,
-      "url": "https://github.com/SigNoz/signoz/releases/download/v0.149.0/signoz-community_linux_arm64.tar.gz"
+      "size": 66717959,
+      "url": "https://github.com/SigNoz/signoz/releases/download/v0.150.0/signoz-community_linux_arm64.tar.gz"
     },
     {
       "name": "signoz_linux_arm64.tar.gz",
-      "size": 68248095,
-      "url": "https://github.com/SigNoz/signoz/releases/download/v0.149.0/signoz_linux_arm64.tar.gz"
+      "size": 69701594,
+      "url": "https://github.com/SigNoz/signoz/releases/download/v0.150.0/signoz_linux_arm64.tar.gz"
     }
   ],
   "pinned": false,
