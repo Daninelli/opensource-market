@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker / 二进制",
   "platform": "github",
-  "updated_at": "2026-11-13T09:38:34Z",
+  "updated_at": "2026-11-14T05:06:46Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/crowdsecurity/crowdsec/zip/refs/heads/master",

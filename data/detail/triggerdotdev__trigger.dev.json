@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-11-12T15:24:51Z",
+  "updated_at": "2026-11-13T17:42:02Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/triggerdotdev/trigger.dev/zip/refs/heads/main",

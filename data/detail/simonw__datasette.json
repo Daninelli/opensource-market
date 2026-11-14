@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-11-12T16:32:22Z",
+  "updated_at": "2026-11-14T04:38:19Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/simonw/datasette/zip/refs/heads/main",

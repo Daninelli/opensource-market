@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-11-13T09:11:57Z",
+  "updated_at": "2026-11-14T07:16:14Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/rocketride-org/rocketride-server/zip/refs/heads/develop",
