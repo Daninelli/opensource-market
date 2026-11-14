@@ -1,0 +1,33 @@
+{
+  "repo": "galaxy-s10/billd-desk",
+  "slug": "galaxy-s10__billd-desk",
+  "name": "BilldDesk",
+  "note_zh": "跨平台远程桌面控制，支持 2K 120fps 与游戏串流，可自建服务端替代 ToDesk",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Vue3",
+    "Electron",
+    "WebRTC",
+    "Node.js"
+  ],
+  "deploy_type": "客户端 / 源码",
+  "platform": "github",
+  "updated_at": "2026-11-14T10:26:35Z",
+  "added_at": "2026-11-14T23:24:11+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/galaxy-s10/billd-desk/zip/refs/heads/main",
+  "release": null,
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

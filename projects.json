@@ -70725,5 +70725,32 @@
     "url": "https://github.com/RoutineMiku/apkstart",
     "archived": false,
     "license_category": "open"
+  },
+  {
+    "name": "BilldDesk",
+    "repo": "galaxy-s10/billd-desk",
+    "category": "工具",
+    "category_slug": "tool",
+    "subcategory": "效率工具",
+    "subcategory_slug": "utility",
+    "tech_stack": [
+      "Vue3",
+      "Electron",
+      "WebRTC",
+      "Node.js"
+    ],
+    "deploy_type": "客户端 / 源码",
+    "note_zh": "跨平台远程桌面控制，支持 2K 120fps 与游戏串流，可自建服务端替代 ToDesk",
+    "license": "MIT",
+    "added_at": "2026-11-14T23:24:11+08:00",
+    "stars": 9342,
+    "updated_at": "2026-11-14T10:26:35Z",
+    "default_branch": "main",
+    "download_url": "https://codeload.github.com/galaxy-s10/billd-desk/zip/refs/heads/main",
+    "platform": "github",
+    "kind": "client",
+    "url": "https://github.com/galaxy-s10/billd-desk",
+    "archived": false,
+    "license_category": "open"
   }
 ]

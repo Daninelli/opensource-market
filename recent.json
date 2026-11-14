@@ -1,10 +1,25 @@
 {
-  "generated_at": "2026-11-14T11:48:11.719Z",
+  "generated_at": "2026-11-14T15:24:12.967Z",
   "refreshed_at": "2026-11-14T10:26:24.629Z",
   "days": 7,
-  "total_projects": 1711,
-  "count": 10,
+  "total_projects": 1712,
+  "count": 11,
   "items": [
+    {
+      "name": "BilldDesk",
+      "repo": "galaxy-s10/billd-desk",
+      "added_at": "2026-11-14T23:24:11+08:00",
+      "category": "工具",
+      "category_slug": "tool",
+      "subcategory": "效率工具",
+      "note_zh": "跨平台远程桌面控制，支持 2K 120fps 与游戏串流，可自建服务端替代 ToDesk",
+      "license": "MIT",
+      "stars": 9342,
+      "updated_at": "2026-11-14T10:26:35Z",
+      "download_url": "https://codeload.github.com/galaxy-s10/billd-desk/zip/refs/heads/main",
+      "platform": "github",
+      "submitted_by": null
+    },
     {
       "name": "ApkStart",
       "repo": "RoutineMiku/apkstart",
