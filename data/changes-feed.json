@@ -1,10 +1,30 @@
 {
   "note": "由 tools/build-changes-feed.mjs 自动生成；只含变动事件，不含状态快照",
-  "generated_at": "2026-11-14T11:47:02.636Z",
+  "generated_at": "2026-11-14T11:48:11.570Z",
   "monitored": 1711,
-  "since": "2026-11-12",
-  "total": 16,
+  "since": "2026-11-14",
+  "total": 18,
   "items": [
+    {
+      "date": "2026-11-13",
+      "repo": "redpanda-data/redpanda",
+      "name": "redpanda",
+      "category": "工具",
+      "category_slug": "tool",
+      "type": "archived",
+      "from": null,
+      "to": null
+    },
+    {
+      "date": "2026-11-12",
+      "repo": "esengine/DeepSeek-Reasonix",
+      "name": "DeepSeek-Reasonix",
+      "category": "工具",
+      "category_slug": "tool",
+      "type": "archived",
+      "from": null,
+      "to": null
+    },
     {
       "date": "2026-11-09",
       "repo": "bytedance/UI-TARS-desktop",

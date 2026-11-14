@@ -15,7 +15,7 @@
   ],
   "deploy_type": "源码 / 镜像",
   "platform": "github",
-  "updated_at": "2026-11-11T10:39:49Z",
+  "updated_at": "2026-11-14T01:17:30Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/redox-os/redox/zip/refs/heads/master",

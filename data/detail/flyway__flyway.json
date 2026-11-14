@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 依赖库",
   "platform": "github",
-  "updated_at": "2026-11-05T10:51:24Z",
+  "updated_at": "2026-11-12T14:52:14Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/flyway/flyway/zip/refs/heads/main",

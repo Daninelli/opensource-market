@@ -18,10 +18,10 @@
   ],
   "deploy_type": "传统部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-10-28T07:28:48Z",
+  "updated_at": "2026-11-12T09:00:06Z",
   "added_at": "2026-10-19T12:18:42.273Z",
-  "default_branch": "master",
-  "download_url": "https://codeload.github.com/crmeb/CRMEB/zip/refs/heads/master",
+  "default_branch": "v8.0.0",
+  "download_url": "https://codeload.github.com/crmeb/CRMEB/zip/refs/heads/v8.0.0",
   "release": {
     "tag": "v8.0.0",
     "name": "CRMEB Community",

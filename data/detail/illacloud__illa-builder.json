@@ -18,7 +18,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-11-04T17:15:01Z",
+  "updated_at": "2026-11-12T01:36:00Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "beta",
   "download_url": "https://codeload.github.com/illacloud/illa-builder/zip/refs/heads/beta",

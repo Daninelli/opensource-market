@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-11-10T17:35:23Z",
+  "updated_at": "2026-11-14T04:19:36Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/e2b-dev/E2B/zip/refs/heads/main",

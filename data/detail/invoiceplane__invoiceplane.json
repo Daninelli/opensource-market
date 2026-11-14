@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-11-11T10:55:55Z",
+  "updated_at": "2026-11-13T21:06:28Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/invoiceplane/invoiceplane/zip/refs/heads/develop",

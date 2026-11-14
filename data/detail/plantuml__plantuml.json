@@ -15,7 +15,7 @@
   ],
   "deploy_type": "依赖库 / 命令行",
   "platform": "github",
-  "updated_at": "2026-11-11T10:52:55Z",
+  "updated_at": "2026-11-14T10:02:30Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/plantuml/plantuml/zip/refs/heads/master",

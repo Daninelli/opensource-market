@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-11-11T09:16:39Z",
+  "updated_at": "2026-11-13T17:00:25Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/fastapi/sqlmodel/zip/refs/heads/main",
