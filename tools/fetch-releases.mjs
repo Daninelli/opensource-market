@@ -57,6 +57,8 @@ const GQL_ATTEMPTS = 4;
 const REST_GAP_MS = 150;
 /** 失败率超过这个比例就让 workflow 变红 */
 const FAIL_RATIO_LIMIT = 0.02;
+/** 附件回退的总预算：会掉下载按钮的项目全查，其余项目用剩余额度顺带查（每个 1 次 REST 请求） */
+const FALLBACK_LIMIT = 120;
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -235,8 +237,55 @@ async function fetchViaApi(repo) {
     };
 }
 
-/* ------------------------------ 主流程 ------------------------------ */
+/**
+ * latest release 没有附件时，回退到「最近一个带附件的 release」。
+ *
+ * 现实里不少项目会先发一个纯版本号或 monorepo 子包版本（0 附件），安装包
+ * 留在上一个 release 里。只认 /releases/latest 会让这些项目的下载按钮凭空
+ * 消失（simstudioai/sim、hyperdxio/hyperdx 都踩过）。这里按 created_at 倒序
+ * 取最近 10 个，挑第一个带附件的。
+ *
+ * 返回结构与 fetchViaApi 一致；找不到带附件的 release 时 data 为 null。
+ */
+async function fetchLatestWithAssetsViaApi(repo) {
+    let response;
+    try {
+        response = await fetch(`https://api.github.com/repos/${repo}/releases?per_page=10`, {
+            headers: HEADERS
+        });
+    } catch (error) {
+        return { error: String(error.message || error).slice(0, 60) };
+    }
 
+    if (response.status === 404) return { data: null };
+    if (response.status === 403 || response.status === 429) {
+        const remaining = response.headers.get("x-ratelimit-remaining");
+        if (remaining === "0") return { rateLimited: true };
+        return { error: `HTTP ${response.status}（非限流，可能是仓库访问受限）` };
+    }
+    if (!response.ok) return { error: `HTTP ${response.status}` };
+
+    const list = await response.json();
+    const hit = (Array.isArray(list) ? list : []).find((r) => (r.assets || []).length > 0);
+    if (!hit) return { data: null };
+
+    return {
+        data: {
+            tag: hit.tag_name,
+            name: hit.name || hit.tag_name,
+            published: hit.published_at,
+            url: hit.html_url,
+            assets: (hit.assets || []).map((a) => ({
+                name: a.name,
+                size: a.size,
+                url: a.browser_download_url,
+                downloads: a.download_count
+            }))
+        }
+    };
+}
+
+/* ------------------------------ 主流程 ------------------------------ */
 const targets = ONLY
     ? projects.filter((p) => ONLY.has(p.repo))
     : projects.filter((p) => p.repo);
@@ -376,6 +425,54 @@ if (useApi) {
 
         await sleep(1000);
     }
+}
+
+/* ---- 第三轮：latest 没附件时，回退到最近一个带附件的 release ---- */
+// 分两档，避免每天为 700 多个「本来就没附件」的项目烧掉 REST 配额
+// （Actions 的 GITHUB_TOKEN 只有 1000 次/小时/仓库）：
+//   A 档｜会掉下载按钮的项目（现在有 best_assets，但新 latest 没附件）—— 全查，这是回归
+//   B 档｜本来就没有下载按钮的项目 —— 每次只查一小批，属于「顺带捡漏」
+const noAssetProjects = targets.filter(
+    (p) => refreshedRepos.has(p.repo) && p.release && !(p.release.assets && p.release.assets.length)
+);
+const wouldLoseAssets = noAssetProjects.filter((p) => p.best_assets && p.best_assets.length);
+const maybeGainAssets = noAssetProjects.filter((p) => !(p.best_assets && p.best_assets.length));
+const queue = [
+    ...wouldLoseAssets,
+    ...maybeGainAssets.slice(0, Math.max(0, FALLBACK_LIMIT - wouldLoseAssets.length))
+];
+let fallbackHits = 0;
+let fallbackLose = 0;
+
+if (queue.length) {
+    console.log(
+        `\n附件回退：${noAssetProjects.length} 个项目 latest 无附件｜` +
+            `会掉下载按钮 ${wouldLoseAssets.length} 个（全查）+ 无按钮 ${maybeGainAssets.length} 个（本轮查 ${queue.length - wouldLoseAssets.length} 个）`
+    );
+    for (let i = 0; i < queue.length; i += 1) {
+        if (rateLimited > 0) {
+            console.error("限流已触发，停止附件回退，留待下次运行");
+            break;
+        }
+        const project = queue[i];
+        restRequests += 1;
+        const result = await fetchLatestWithAssetsViaApi(project.repo);
+        if (result.rateLimited) {
+            rateLimited += 1;
+            console.error(`\n失败  ${project.repo} -> 附件回退遇到限流`);
+            break;
+        } else if (result.error) {
+            // 回退失败不算整体失败：原来的 latest 元信息仍然保留
+            console.error(`\n提示  ${project.repo} -> 附件回退失败（${result.error}）`);
+        } else if (result.data) {
+            project.release = result.data;
+            fallbackHits += 1;
+            if (wouldLoseAssets.includes(project)) fallbackLose += 1;
+            console.log(`  回退  ${project.repo} -> ${result.data.tag}（${result.data.assets.length} 个附件）`);
+        }
+        if (i < queue.length - 1) await sleep(REST_GAP_MS);
+    }
+    console.log(`  回退命中 ${fallbackHits} 个，其中避免掉按钮 ${fallbackLose} 个`);
 }
 
 /* ------------------------------ 写盘 ------------------------------ */

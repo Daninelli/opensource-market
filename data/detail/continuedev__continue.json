@@ -21,12 +21,48 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/continuedev/continue/zip/refs/heads/main",
   "release": {
-    "tag": "v2.0.0-vscode",
-    "name": "v2.0.0-vscode",
-    "published": "2026-06-19T00:24:01Z",
-    "url": "https://github.com/continuedev/continue/releases/tag/v2.0.0-vscode"
+    "tag": "v1.3.40-vscode",
+    "name": "v1.3.40-vscode",
+    "published": "2026-06-15T16:09:49Z",
+    "url": "https://github.com/continuedev/continue/releases/tag/v1.3.40-vscode"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "continue-win32-x64-1.3.40.vsix",
+      "size": 74470692,
+      "url": "https://github.com/continuedev/continue/releases/download/v1.3.40-vscode/continue-win32-x64-1.3.40.vsix"
+    },
+    {
+      "name": "continue-darwin-arm64-1.3.40.vsix",
+      "size": 77896325,
+      "url": "https://github.com/continuedev/continue/releases/download/v1.3.40-vscode/continue-darwin-arm64-1.3.40.vsix"
+    },
+    {
+      "name": "continue-win32-arm64-1.3.40.vsix",
+      "size": 102801852,
+      "url": "https://github.com/continuedev/continue/releases/download/v1.3.40-vscode/continue-win32-arm64-1.3.40.vsix"
+    },
+    {
+      "name": "continue-darwin-x64-1.3.40.vsix",
+      "size": 113240301,
+      "url": "https://github.com/continuedev/continue/releases/download/v1.3.40-vscode/continue-darwin-x64-1.3.40.vsix"
+    },
+    {
+      "name": "continue-linux-x64-1.3.40.vsix",
+      "size": 79837906,
+      "url": "https://github.com/continuedev/continue/releases/download/v1.3.40-vscode/continue-linux-x64-1.3.40.vsix"
+    },
+    {
+      "name": "continue-linux-armhf-1.3.40.vsix",
+      "size": 114161799,
+      "url": "https://github.com/continuedev/continue/releases/download/v1.3.40-vscode/continue-linux-armhf-1.3.40.vsix"
+    },
+    {
+      "name": "continue-alpine-x64-1.3.40.vsix",
+      "size": 79837905,
+      "url": "https://github.com/continuedev/continue/releases/download/v1.3.40-vscode/continue-alpine-x64-1.3.40.vsix"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

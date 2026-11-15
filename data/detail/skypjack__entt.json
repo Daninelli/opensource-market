@@ -20,12 +20,18 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/skypjack/entt/zip/refs/heads/main",
   "release": {
-    "tag": "v4.0.0",
-    "name": "EnTT v4.0.0",
-    "published": "2026-07-23T12:22:33Z",
-    "url": "https://github.com/skypjack/entt/releases/tag/v4.0.0"
+    "tag": "v3.13.2",
+    "name": "EnTT v3.13.2",
+    "published": "2024-04-10T06:57:55Z",
+    "url": "https://github.com/skypjack/entt/releases/tag/v3.13.2"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "entt-v3.13.2.tar.gz",
+      "size": 854058,
+      "url": "https://github.com/skypjack/entt/releases/download/v3.13.2/entt-v3.13.2.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

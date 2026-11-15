@@ -21,12 +21,18 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ffmpegwasm/ffmpeg.wasm/zip/refs/heads/main",
   "release": {
-    "tag": "v12.15",
-    "name": "RELEASE: v12.15 (main), v12.10 (core, core-mt)",
-    "published": "2025-01-07T10:16:16Z",
-    "url": "https://github.com/ffmpegwasm/ffmpeg.wasm/releases/tag/v12.15"
+    "tag": "v12.14",
+    "name": "RELEASE: v12.14 (main) | v12.9 (core/core-mt) | v12.4 (types) | v12.2 (util)",
+    "published": "2025-01-07T09:28:12Z",
+    "url": "https://github.com/ffmpegwasm/ffmpeg.wasm/releases/tag/v12.14"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "packages.zip",
+      "size": 41198497,
+      "url": "https://github.com/ffmpegwasm/ffmpeg.wasm/releases/download/v12.14/packages.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

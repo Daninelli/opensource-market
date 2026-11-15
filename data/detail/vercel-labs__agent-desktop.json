@@ -29,34 +29,34 @@
   },
   "assets": [
     {
-      "name": "agent-desktop-ffi-v1.3.1-aarch64-pc-windows-msvc.zip",
-      "size": 1480173,
-      "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.3.1/agent-desktop-ffi-v1.3.1-aarch64-pc-windows-msvc.zip"
+      "name": "agent-desktop-v1.3.1-aarch64-pc-windows-msvc.tar.gz",
+      "size": 1779550,
+      "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.3.1/agent-desktop-v1.3.1-aarch64-pc-windows-msvc.tar.gz"
     },
     {
-      "name": "agent-desktop-ffi-v1.3.1-x86_64-pc-windows-msvc.zip",
-      "size": 1525337,
-      "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.3.1/agent-desktop-ffi-v1.3.1-x86_64-pc-windows-msvc.zip"
+      "name": "agent-desktop-v1.3.1-x86_64-pc-windows-msvc.tar.gz",
+      "size": 1835706,
+      "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.3.1/agent-desktop-v1.3.1-x86_64-pc-windows-msvc.tar.gz"
     },
     {
-      "name": "agent-desktop-ffi-v1.3.1-aarch64-apple-darwin.tar.gz",
-      "size": 1951488,
-      "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.3.1/agent-desktop-ffi-v1.3.1-aarch64-apple-darwin.tar.gz"
+      "name": "agent-desktop-v1.3.1-aarch64-apple-darwin.tar.gz",
+      "size": 2321358,
+      "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.3.1/agent-desktop-v1.3.1-aarch64-apple-darwin.tar.gz"
     },
     {
-      "name": "agent-desktop-ffi-v1.3.1-x86_64-apple-darwin.tar.gz",
-      "size": 2050770,
-      "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.3.1/agent-desktop-ffi-v1.3.1-x86_64-apple-darwin.tar.gz"
-    },
-    {
-      "name": "agent-desktop-ffi-v1.3.1-aarch64-unknown-linux-gnu.tar.gz",
-      "size": 3321793,
-      "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.3.1/agent-desktop-ffi-v1.3.1-aarch64-unknown-linux-gnu.tar.gz"
+      "name": "agent-desktop-v1.3.1-x86_64-apple-darwin.tar.gz",
+      "size": 2453626,
+      "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.3.1/agent-desktop-v1.3.1-x86_64-apple-darwin.tar.gz"
     },
     {
       "name": "agent-desktop-v1.3.1-aarch64-unknown-linux-gnu.tar.gz",
       "size": 3407558,
       "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.3.1/agent-desktop-v1.3.1-aarch64-unknown-linux-gnu.tar.gz"
+    },
+    {
+      "name": "agent-desktop-v1.3.1-x86_64-unknown-linux-gnu.tar.gz",
+      "size": 3537152,
+      "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.3.1/agent-desktop-v1.3.1-x86_64-unknown-linux-gnu.tar.gz"
     }
   ],
   "pinned": false,

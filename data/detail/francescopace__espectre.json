@@ -30,16 +30,6 @@
   },
   "assets": [
     {
-      "name": "espectre-sdk-3.2.0.tar.gz",
-      "size": 347089,
-      "url": "https://github.com/francescopace/espectre/releases/download/3.2.0/espectre-sdk-3.2.0.tar.gz"
-    },
-    {
-      "name": "espectre-sdk-3.2.0.zip",
-      "size": 457263,
-      "url": "https://github.com/francescopace/espectre/releases/download/3.2.0/espectre-sdk-3.2.0.zip"
-    },
-    {
       "name": "espectre-component-3.2.0.tgz",
       "size": 489758,
       "url": "https://github.com/francescopace/espectre/releases/download/3.2.0/espectre-component-3.2.0.tgz"
@@ -48,6 +38,16 @@
       "name": "espectre-esphome-3.2.0-esp32-ota.bin",
       "size": 1114100,
       "url": "https://github.com/francescopace/espectre/releases/download/3.2.0/espectre-esphome-3.2.0-esp32-ota.bin"
+    },
+    {
+      "name": "firmware-compliance-3.2.0.zip",
+      "size": 3370800,
+      "url": "https://github.com/francescopace/espectre/releases/download/3.2.0/firmware-compliance-3.2.0.zip"
+    },
+    {
+      "name": "espectre-sdk-3.2.0.tar.gz",
+      "size": 347089,
+      "url": "https://github.com/francescopace/espectre/releases/download/3.2.0/espectre-sdk-3.2.0.tar.gz"
     }
   ],
   "pinned": false,

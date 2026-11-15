@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/CollaboraOnline/online/zip/refs/heads/main",
   "release": {
-    "tag": "25.04.7-mobile",
-    "name": "25.04.7-mobile",
-    "published": "2025-12-05T16:41:36Z",
-    "url": "https://github.com/CollaboraOnline/online/releases/tag/25.04.7-mobile"
+    "tag": "helm-collabora-online-1.3.8",
+    "name": "helm-collabora-online-1.3.8",
+    "published": "2026-11-07T18:38:43Z",
+    "url": "https://github.com/CollaboraOnline/online/releases/tag/helm-collabora-online-1.3.8"
   },
   "assets": [],
   "pinned": false,

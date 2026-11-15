@@ -21,12 +21,23 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/hiyouga/LlamaFactory/zip/refs/heads/main",
   "release": {
-    "tag": "v0.9.5",
-    "name": "v0.9.5: Qwen3.5/3.6, Gemma 4, Transformers v5",
-    "published": "2026-05-30T15:57:58Z",
-    "url": "https://github.com/hiyouga/LlamaFactory/releases/tag/v0.9.5"
+    "tag": "v0.9.4",
+    "name": "v0.9.4: Goodbye 2025",
+    "published": "2025-12-31T15:00:14Z",
+    "url": "https://github.com/hiyouga/LlamaFactory/releases/tag/v0.9.4"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "llamafactory-0.9.4-py3-none-any.whl",
+      "size": 398470,
+      "url": "https://github.com/hiyouga/LlamaFactory/releases/download/v0.9.4/llamafactory-0.9.4-py3-none-any.whl"
+    },
+    {
+      "name": "llamafactory-0.9.4.tar.gz",
+      "size": 5111523,
+      "url": "https://github.com/hiyouga/LlamaFactory/releases/download/v0.9.4/llamafactory-0.9.4.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

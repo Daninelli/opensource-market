@@ -22,12 +22,23 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Leonxlnx/taste-skill/zip/refs/heads/main",
   "release": {
-    "tag": "v2.5.1",
-    "name": "tasteskill v2.5.1",
-    "published": "2026-11-07T12:34:31Z",
-    "url": "https://github.com/Leonxlnx/taste-skill/releases/tag/v2.5.1"
+    "tag": "v2.0.0",
+    "name": "tasteskill v2",
+    "published": "2026-10-13T21:05:17Z",
+    "url": "https://github.com/Leonxlnx/taste-skill/releases/tag/v2.0.0"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "tasteskill-v2-poster.png",
+      "size": 189181,
+      "url": "https://github.com/Leonxlnx/taste-skill/releases/download/v2.0.0/tasteskill-v2-poster.png"
+    },
+    {
+      "name": "tasteskill-v2-launch-film.mp4",
+      "size": 20713727,
+      "url": "https://github.com/Leonxlnx/taste-skill/releases/download/v2.0.0/tasteskill-v2-launch-film.mp4"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

@@ -21,12 +21,23 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/GoogleChrome/lighthouse/zip/refs/heads/main",
   "release": {
-    "tag": "v13.6.0",
-    "name": "v13.6.0",
-    "published": "2026-10-27T21:32:12Z",
-    "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v13.6.0"
+    "tag": "lantern-test-data",
+    "name": "Lantern Test Data",
+    "published": "2026-10-09T22:45:13Z",
+    "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/lantern-test-data"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "golden-lantern-traces-2017-12-06.zip",
+      "size": 41977622,
+      "url": "https://github.com/GoogleChrome/lighthouse/releases/download/lantern-test-data/golden-lantern-traces-2017-12-06.zip"
+    },
+    {
+      "name": "lantern-traces-2017-12-06.tar.gz",
+      "size": 43464654,
+      "url": "https://github.com/GoogleChrome/lighthouse/releases/download/lantern-test-data/lantern-traces-2017-12-06.tar.gz"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

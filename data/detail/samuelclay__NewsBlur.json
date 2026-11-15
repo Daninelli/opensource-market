@@ -21,12 +21,18 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/samuelclay/NewsBlur/zip/refs/heads/main",
   "release": {
-    "tag": "v0.2.2",
-    "name": "NewsBlur CLI v0.2.2",
-    "published": "2026-08-11T22:18:02Z",
-    "url": "https://github.com/samuelclay/NewsBlur/releases/tag/v0.2.2"
+    "tag": "Android_13.12.3",
+    "name": "Android v13.12.3",
+    "published": "2026-03-04T16:27:06Z",
+    "url": "https://github.com/samuelclay/NewsBlur/releases/tag/Android_13.12.3"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "app-release.apk",
+      "size": 4540330,
+      "url": "https://github.com/samuelclay/NewsBlur/releases/download/Android_13.12.3/app-release.apk"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

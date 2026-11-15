@@ -676,11 +676,23 @@
   },
   {
     "release": {
-      "tag": "v0.9.5",
-      "name": "v0.9.5: Qwen3.5/3.6, Gemma 4, Transformers v5",
-      "published": "2026-05-30T15:57:58Z",
-      "url": "https://github.com/hiyouga/LlamaFactory/releases/tag/v0.9.5"
+      "tag": "v0.9.4",
+      "name": "v0.9.4: Goodbye 2025",
+      "published": "2025-12-31T15:00:14Z",
+      "url": "https://github.com/hiyouga/LlamaFactory/releases/tag/v0.9.4"
     },
+    "best_assets": [
+      {
+        "name": "llamafactory-0.9.4-py3-none-any.whl",
+        "size": 398470,
+        "url": "https://github.com/hiyouga/LlamaFactory/releases/download/v0.9.4/llamafactory-0.9.4-py3-none-any.whl"
+      },
+      {
+        "name": "llamafactory-0.9.4.tar.gz",
+        "size": 5111523,
+        "url": "https://github.com/hiyouga/LlamaFactory/releases/download/v0.9.4/llamafactory-0.9.4.tar.gz"
+      }
+    ],
     "name": "LlamaFactory",
     "repo": "hiyouga/LlamaFactory",
     "category": "工具",
@@ -1012,11 +1024,18 @@
   },
   {
     "release": {
-      "tag": "@upstash/context7-tools-ai-sdk@1.0.4",
-      "name": "@upstash/context7-tools-ai-sdk@1.0.4",
-      "published": "2026-11-12T09:03:18Z",
-      "url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-tools-ai-sdk%401.0.4"
+      "tag": "mcpb-v4.7.0",
+      "name": "context7.mcpb 4.7.0",
+      "published": "2026-11-12T09:03:39Z",
+      "url": "https://github.com/upstash/context7/releases/tag/mcpb-v4.7.0"
     },
+    "best_assets": [
+      {
+        "name": "context7.mcpb",
+        "size": 1215255,
+        "url": "https://github.com/upstash/context7/releases/download/mcpb-v4.7.0/context7.mcpb"
+      }
+    ],
     "name": "context7",
     "repo": "upstash/context7",
     "category": "工具",
@@ -1159,10 +1178,10 @@
   },
   {
     "release": {
-      "tag": "v4.0.0",
-      "name": "Humanizer v4.0.0",
-      "published": "2026-11-10T01:35:15Z",
-      "url": "https://github.com/blader/humanizer/releases/tag/v4.0.0"
+      "tag": "v2.11.1",
+      "name": "Humanizer v2.11.1",
+      "published": "2026-08-18T00:59:37Z",
+      "url": "https://github.com/blader/humanizer/releases/tag/v2.11.1"
     },
     "name": "humanizer",
     "repo": "blader/humanizer",
@@ -1529,11 +1548,33 @@
   },
   {
     "release": {
-      "tag": "v0.5.5",
-      "name": "v0.5.5",
-      "published": "2026-11-13T13:13:11Z",
-      "url": "https://github.com/volcengine/OpenViking/releases/tag/v0.5.5"
+      "tag": "openviking-superagent@0.5.2-preview",
+      "name": "OpenViking SuperAgent 0.5.2-preview",
+      "published": "2026-11-11T08:36:18Z",
+      "url": "https://github.com/volcengine/OpenViking/releases/tag/openviking-superagent%400.5.2-preview"
     },
+    "best_assets": [
+      {
+        "name": "superagent-0.5.2-preview-darwin-arm64.tar.gz",
+        "size": 98359359,
+        "url": "https://github.com/volcengine/OpenViking/releases/download/openviking-superagent%400.5.2-preview/superagent-0.5.2-preview-darwin-arm64.tar.gz"
+      },
+      {
+        "name": "superagent-0.5.2-preview-darwin-x64.tar.gz",
+        "size": 101834271,
+        "url": "https://github.com/volcengine/OpenViking/releases/download/openviking-superagent%400.5.2-preview/superagent-0.5.2-preview-darwin-x64.tar.gz"
+      },
+      {
+        "name": "superagent-0.5.2-preview-linux-arm64.tar.gz",
+        "size": 102250422,
+        "url": "https://github.com/volcengine/OpenViking/releases/download/openviking-superagent%400.5.2-preview/superagent-0.5.2-preview-linux-arm64.tar.gz"
+      },
+      {
+        "name": "superagent-0.5.2-preview-linux-x64.tar.gz",
+        "size": 104656192,
+        "url": "https://github.com/volcengine/OpenViking/releases/download/openviking-superagent%400.5.2-preview/superagent-0.5.2-preview-linux-x64.tar.gz"
+      }
+    ],
     "name": "OpenViking",
     "repo": "volcengine/OpenViking",
     "category": "工具",
@@ -1977,11 +2018,48 @@
   },
   {
     "release": {
-      "tag": "v2.0.0-vscode",
-      "name": "v2.0.0-vscode",
-      "published": "2026-06-19T00:24:01Z",
-      "url": "https://github.com/continuedev/continue/releases/tag/v2.0.0-vscode"
+      "tag": "v1.3.40-vscode",
+      "name": "v1.3.40-vscode",
+      "published": "2026-06-15T16:09:49Z",
+      "url": "https://github.com/continuedev/continue/releases/tag/v1.3.40-vscode"
     },
+    "best_assets": [
+      {
+        "name": "continue-win32-x64-1.3.40.vsix",
+        "size": 74470692,
+        "url": "https://github.com/continuedev/continue/releases/download/v1.3.40-vscode/continue-win32-x64-1.3.40.vsix"
+      },
+      {
+        "name": "continue-darwin-arm64-1.3.40.vsix",
+        "size": 77896325,
+        "url": "https://github.com/continuedev/continue/releases/download/v1.3.40-vscode/continue-darwin-arm64-1.3.40.vsix"
+      },
+      {
+        "name": "continue-win32-arm64-1.3.40.vsix",
+        "size": 102801852,
+        "url": "https://github.com/continuedev/continue/releases/download/v1.3.40-vscode/continue-win32-arm64-1.3.40.vsix"
+      },
+      {
+        "name": "continue-darwin-x64-1.3.40.vsix",
+        "size": 113240301,
+        "url": "https://github.com/continuedev/continue/releases/download/v1.3.40-vscode/continue-darwin-x64-1.3.40.vsix"
+      },
+      {
+        "name": "continue-linux-x64-1.3.40.vsix",
+        "size": 79837906,
+        "url": "https://github.com/continuedev/continue/releases/download/v1.3.40-vscode/continue-linux-x64-1.3.40.vsix"
+      },
+      {
+        "name": "continue-linux-armhf-1.3.40.vsix",
+        "size": 114161799,
+        "url": "https://github.com/continuedev/continue/releases/download/v1.3.40-vscode/continue-linux-armhf-1.3.40.vsix"
+      },
+      {
+        "name": "continue-alpine-x64-1.3.40.vsix",
+        "size": 79837905,
+        "url": "https://github.com/continuedev/continue/releases/download/v1.3.40-vscode/continue-alpine-x64-1.3.40.vsix"
+      }
+    ],
     "name": "continue",
     "repo": "continuedev/continue",
     "category": "工具",
@@ -2664,11 +2742,23 @@
   },
   {
     "release": {
-      "tag": "v13.6.0",
-      "name": "v13.6.0",
-      "published": "2026-10-27T21:32:12Z",
-      "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v13.6.0"
+      "tag": "lantern-test-data",
+      "name": "Lantern Test Data",
+      "published": "2026-10-09T22:45:13Z",
+      "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/lantern-test-data"
     },
+    "best_assets": [
+      {
+        "name": "golden-lantern-traces-2017-12-06.zip",
+        "size": 41977622,
+        "url": "https://github.com/GoogleChrome/lighthouse/releases/download/lantern-test-data/golden-lantern-traces-2017-12-06.zip"
+      },
+      {
+        "name": "lantern-traces-2017-12-06.tar.gz",
+        "size": 43464654,
+        "url": "https://github.com/GoogleChrome/lighthouse/releases/download/lantern-test-data/lantern-traces-2017-12-06.tar.gz"
+      }
+    ],
     "name": "lighthouse",
     "repo": "GoogleChrome/lighthouse",
     "category": "工具",
@@ -3258,11 +3348,48 @@
   },
   {
     "release": {
-      "tag": "sdk-typescript-v0.1.33",
-      "name": "SDK TypeScript Release v0.1.33",
-      "published": "2026-11-13T01:14:28Z",
-      "url": "https://github.com/QwenLM/qwen-code/releases/tag/sdk-typescript-v0.1.33"
+      "tag": "v0.27.2-nightly.20261113.6f754be654",
+      "name": "Release v0.27.2-nightly.20261113.6f754be654",
+      "published": "2026-11-14T11:31:46Z",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.27.2-nightly.20261113.6f754be654"
     },
+    "best_assets": [
+      {
+        "name": "qwen-code-win-x64.zip",
+        "size": 74067844,
+        "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.27.2-nightly.20261113.6f754be654/qwen-code-win-x64.zip"
+      },
+      {
+        "name": "qwen-code-darwin-arm64-opentui-preview.tar.gz",
+        "size": 79170568,
+        "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.27.2-nightly.20261113.6f754be654/qwen-code-darwin-arm64-opentui-preview.tar.gz"
+      },
+      {
+        "name": "qwen-code-darwin-x64-opentui-preview.tar.gz",
+        "size": 82426841,
+        "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.27.2-nightly.20261113.6f754be654/qwen-code-darwin-x64-opentui-preview.tar.gz"
+      },
+      {
+        "name": "qwen-code-win-x64-opentui-preview.zip",
+        "size": 149250518,
+        "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.27.2-nightly.20261113.6f754be654/qwen-code-win-x64-opentui-preview.zip"
+      },
+      {
+        "name": "qwen-code-linux-arm64-opentui-preview.tar.gz",
+        "size": 90924383,
+        "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.27.2-nightly.20261113.6f754be654/qwen-code-linux-arm64-opentui-preview.tar.gz"
+      },
+      {
+        "name": "qwen-code-linux-x64-opentui-preview.tar.gz",
+        "size": 91335848,
+        "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.27.2-nightly.20261113.6f754be654/qwen-code-linux-x64-opentui-preview.tar.gz"
+      },
+      {
+        "name": "qwen-managed-agent-server-0.27.2-nightly.20261113.6f754be654.jar",
+        "size": 88969574,
+        "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.27.2-nightly.20261113.6f754be654/qwen-managed-agent-server-0.27.2-nightly.20261113.6f754be654.jar"
+      }
+    ],
     "name": "qwen-code",
     "repo": "QwenLM/qwen-code",
     "category": "工具",
@@ -3504,10 +3631,10 @@
   },
   {
     "release": {
-      "tag": "2.4.0",
-      "name": "2.4.0",
-      "published": "2026-10-31T22:10:55Z",
-      "url": "https://github.com/floci-io/floci/releases/tag/2.4.0"
+      "tag": "2.5.0",
+      "name": "2.5.0",
+      "published": "2026-11-15T06:36:31Z",
+      "url": "https://github.com/floci-io/floci/releases/tag/2.5.0"
     },
     "name": "floci",
     "repo": "floci-io/floci",
@@ -5147,11 +5274,18 @@
   },
   {
     "release": {
-      "tag": "mybatis-3.6.0",
-      "name": "Mybatis 3.6.0",
-      "published": "2026-10-23T04:15:29Z",
-      "url": "https://github.com/mybatis/mybatis-3/releases/tag/mybatis-3.6.0"
+      "tag": "mybatis-3.5.17",
+      "name": "mybatis-3.5.17",
+      "published": "2024-11-26T16:55:48Z",
+      "url": "https://github.com/mybatis/mybatis-3/releases/tag/mybatis-3.5.17"
     },
+    "best_assets": [
+      {
+        "name": "mybatis-3.5.17.zip",
+        "size": 3801049,
+        "url": "https://github.com/mybatis/mybatis-3/releases/download/mybatis-3.5.17/mybatis-3.5.17.zip"
+      }
+    ],
     "name": "mybatis-3",
     "repo": "mybatis/mybatis-3",
     "category": "工具",
@@ -6097,11 +6231,18 @@
   },
   {
     "release": {
-      "tag": "v12.15",
-      "name": "RELEASE: v12.15 (main), v12.10 (core, core-mt)",
-      "published": "2025-01-07T10:16:16Z",
-      "url": "https://github.com/ffmpegwasm/ffmpeg.wasm/releases/tag/v12.15"
+      "tag": "v12.14",
+      "name": "RELEASE: v12.14 (main) | v12.9 (core/core-mt) | v12.4 (types) | v12.2 (util)",
+      "published": "2025-01-07T09:28:12Z",
+      "url": "https://github.com/ffmpegwasm/ffmpeg.wasm/releases/tag/v12.14"
     },
+    "best_assets": [
+      {
+        "name": "packages.zip",
+        "size": 41198497,
+        "url": "https://github.com/ffmpegwasm/ffmpeg.wasm/releases/download/v12.14/packages.zip"
+      }
+    ],
     "name": "ffmpeg.wasm",
     "repo": "ffmpegwasm/ffmpeg.wasm",
     "category": "工具",
@@ -7437,11 +7578,18 @@
   },
   {
     "release": {
-      "tag": "v4.0.0",
-      "name": "EnTT v4.0.0",
-      "published": "2026-07-23T12:22:33Z",
-      "url": "https://github.com/skypjack/entt/releases/tag/v4.0.0"
+      "tag": "v3.13.2",
+      "name": "EnTT v3.13.2",
+      "published": "2024-04-10T06:57:55Z",
+      "url": "https://github.com/skypjack/entt/releases/tag/v3.13.2"
     },
+    "best_assets": [
+      {
+        "name": "entt-v3.13.2.tar.gz",
+        "size": 854058,
+        "url": "https://github.com/skypjack/entt/releases/download/v3.13.2/entt-v3.13.2.tar.gz"
+      }
+    ],
     "name": "entt",
     "repo": "skypjack/entt",
     "category": "游戏",
@@ -7902,11 +8050,33 @@
   },
   {
     "release": {
-      "tag": "v1.19.0",
-      "name": "v1.19.0 — Agent tooling, reliability, and hardening",
-      "published": "2026-11-10T16:44:05Z",
-      "url": "https://github.com/jo-inc/camofox-browser/releases/tag/v1.19.0"
+      "tag": "camoufox-backup-428447379",
+      "name": "Camoufox backup v158.0.1-beta.41",
+      "published": "2026-11-02T03:25:03Z",
+      "url": "https://github.com/jo-inc/camofox-browser/releases/tag/camoufox-backup-428447379"
     },
+    "best_assets": [
+      {
+        "name": "camoufox-158.0.1-beta.41-win.i686.zip",
+        "size": 1304891471,
+        "url": "https://github.com/jo-inc/camofox-browser/releases/download/camoufox-backup-428447379/camoufox-158.0.1-beta.41-win.i686.zip"
+      },
+      {
+        "name": "camoufox-158.0.1-beta.41-win.x86_64.zip",
+        "size": 1320075455,
+        "url": "https://github.com/jo-inc/camofox-browser/releases/download/camoufox-backup-428447379/camoufox-158.0.1-beta.41-win.x86_64.zip"
+      },
+      {
+        "name": "camoufox-158.0.1-beta.41-lin.arm64.zip",
+        "size": 1297503606,
+        "url": "https://github.com/jo-inc/camofox-browser/releases/download/camoufox-backup-428447379/camoufox-158.0.1-beta.41-lin.arm64.zip"
+      },
+      {
+        "name": "camoufox-158.0.1-beta.41-mac.arm64.zip",
+        "size": 1297694189,
+        "url": "https://github.com/jo-inc/camofox-browser/releases/download/camoufox-backup-428447379/camoufox-158.0.1-beta.41-mac.arm64.zip"
+      }
+    ],
     "name": "camofox-browser",
     "repo": "jo-inc/camofox-browser",
     "category": "工具",
@@ -8122,11 +8292,43 @@
   },
   {
     "release": {
-      "tag": "@electric-sql/y-electric@0.1.54",
-      "name": "@electric-sql/y-electric@0.1.54",
-      "published": "2026-09-09T11:28:29Z",
-      "url": "https://github.com/neondatabase/electric/releases/tag/%40electric-sql/y-electric%400.1.54"
+      "tag": "agents-desktop-canary",
+      "name": "Electric Agents Desktop Canary",
+      "published": "2026-05-20T14:06:22Z",
+      "url": "https://github.com/neondatabase/electric/releases/tag/agents-desktop-canary"
     },
+    "best_assets": [
+      {
+        "name": "Electric-Agents-canary-windows-x64.exe",
+        "size": 118247575,
+        "url": "https://github.com/neondatabase/electric/releases/download/agents-desktop-canary/Electric-Agents-canary-windows-x64.exe"
+      },
+      {
+        "name": "Electric-Agents-win-x64.exe",
+        "size": 118247575,
+        "url": "https://github.com/neondatabase/electric/releases/download/agents-desktop-canary/Electric-Agents-win-x64.exe"
+      },
+      {
+        "name": "Electric-Agents-canary-mac-arm64.zip",
+        "size": 134902224,
+        "url": "https://github.com/neondatabase/electric/releases/download/agents-desktop-canary/Electric-Agents-canary-mac-arm64.zip"
+      },
+      {
+        "name": "Electric-Agents-mac-arm64.zip",
+        "size": 134902224,
+        "url": "https://github.com/neondatabase/electric/releases/download/agents-desktop-canary/Electric-Agents-mac-arm64.zip"
+      },
+      {
+        "name": "Electric-Agents-canary-linux-x64.deb",
+        "size": 111881604,
+        "url": "https://github.com/neondatabase/electric/releases/download/agents-desktop-canary/Electric-Agents-canary-linux-x64.deb"
+      },
+      {
+        "name": "Electric-Agents-linux-amd64.deb",
+        "size": 111881604,
+        "url": "https://github.com/neondatabase/electric/releases/download/agents-desktop-canary/Electric-Agents-linux-amd64.deb"
+      }
+    ],
     "name": "electric",
     "repo": "electric-sql/electric",
     "category": "其他",
@@ -8245,11 +8447,18 @@
   },
   {
     "release": {
-      "tag": "5.0",
-      "name": "微信公众号批量下载工具5.0",
-      "published": "2026-11-01T16:40:20Z",
-      "url": "https://github.com/qiye45/wechatDownload/releases/tag/5.0"
+      "tag": "4.7",
+      "name": "微信公众号批量下载工具4.7(已失效)",
+      "published": "2026-08-16T14:04:55Z",
+      "url": "https://github.com/qiye45/wechatDownload/releases/tag/4.7"
     },
+    "best_assets": [
+      {
+        "name": "wechatDownload4.7.zip",
+        "size": 87710472,
+        "url": "https://github.com/qiye45/wechatDownload/releases/download/4.7/wechatDownload4.7.zip"
+      }
+    ],
     "name": "wechatDownload",
     "repo": "qiye45/wechatDownload",
     "category": "工具",
@@ -8353,11 +8562,18 @@
   },
   {
     "release": {
-      "tag": "v2.49.0",
-      "name": "v2.49.0",
-      "published": "2026-11-02T18:58:29Z",
-      "url": "https://github.com/usekaneo/kaneo/releases/tag/v2.49.0"
+      "tag": "mobile-v0.3.2",
+      "name": "Kaneo for Android 0.3.2",
+      "published": "2026-10-25T19:31:43Z",
+      "url": "https://github.com/usekaneo/kaneo/releases/tag/mobile-v0.3.2"
     },
+    "best_assets": [
+      {
+        "name": "kaneo-0.3.2-5.apk",
+        "size": 111537477,
+        "url": "https://github.com/usekaneo/kaneo/releases/download/mobile-v0.3.2/kaneo-0.3.2-5.apk"
+      }
+    ],
     "name": "kaneo",
     "repo": "usekaneo/kaneo",
     "category": "企业服务",
@@ -8710,11 +8926,18 @@
   },
   {
     "release": {
-      "tag": "v0.2.2",
-      "name": "NewsBlur CLI v0.2.2",
-      "published": "2026-08-11T22:18:02Z",
-      "url": "https://github.com/samuelclay/NewsBlur/releases/tag/v0.2.2"
+      "tag": "Android_13.12.3",
+      "name": "Android v13.12.3",
+      "published": "2026-03-04T16:27:06Z",
+      "url": "https://github.com/samuelclay/NewsBlur/releases/tag/Android_13.12.3"
     },
+    "best_assets": [
+      {
+        "name": "app-release.apk",
+        "size": 4540330,
+        "url": "https://github.com/samuelclay/NewsBlur/releases/download/Android_13.12.3/app-release.apk"
+      }
+    ],
     "name": "NewsBlur",
     "repo": "samuelclay/NewsBlur",
     "category": "工具",
@@ -8952,10 +9175,10 @@
   },
   {
     "release": {
-      "tag": "25.04.7-mobile",
-      "name": "25.04.7-mobile",
-      "published": "2025-12-05T16:41:36Z",
-      "url": "https://github.com/CollaboraOnline/online/releases/tag/25.04.7-mobile"
+      "tag": "helm-collabora-online-1.3.8",
+      "name": "helm-collabora-online-1.3.8",
+      "published": "2026-11-07T18:38:43Z",
+      "url": "https://github.com/CollaboraOnline/online/releases/tag/helm-collabora-online-1.3.8"
     },
     "name": "Collabora Online",
     "repo": "CollaboraOnline/online",
@@ -10080,10 +10303,10 @@
   },
   {
     "release": {
-      "tag": "v3.18.0",
-      "name": "MLflow 3.18.0",
-      "published": "2026-11-04T06:51:02Z",
-      "url": "https://github.com/mlflow/mlflow/releases/tag/v3.18.0"
+      "tag": "model-catalog/latest",
+      "name": "Model Catalog",
+      "published": "2026-04-06T05:49:14Z",
+      "url": "https://github.com/mlflow/mlflow/releases/tag/model-catalog/latest"
     },
     "name": "Mlflow",
     "repo": "mlflow/mlflow",
@@ -10755,11 +10978,23 @@
   },
   {
     "release": {
-      "tag": "v2.5.1",
-      "name": "tasteskill v2.5.1",
-      "published": "2026-11-07T12:34:31Z",
-      "url": "https://github.com/Leonxlnx/taste-skill/releases/tag/v2.5.1"
+      "tag": "v2.0.0",
+      "name": "tasteskill v2",
+      "published": "2026-10-13T21:05:17Z",
+      "url": "https://github.com/Leonxlnx/taste-skill/releases/tag/v2.0.0"
     },
+    "best_assets": [
+      {
+        "name": "tasteskill-v2-poster.png",
+        "size": 189181,
+        "url": "https://github.com/Leonxlnx/taste-skill/releases/download/v2.0.0/tasteskill-v2-poster.png"
+      },
+      {
+        "name": "tasteskill-v2-launch-film.mp4",
+        "size": 20713727,
+        "url": "https://github.com/Leonxlnx/taste-skill/releases/download/v2.0.0/tasteskill-v2-launch-film.mp4"
+      }
+    ],
     "name": "Taste-skill",
     "repo": "Leonxlnx/taste-skill",
     "category": "工具",
@@ -11693,11 +11928,23 @@
   },
   {
     "release": {
-      "tag": "v2.2.3",
-      "name": "v2.2.3",
-      "published": "2026-10-01T23:00:36Z",
-      "url": "https://github.com/affaan-m/ECC/releases/tag/v2.2.3"
+      "tag": "v2.2.0",
+      "name": "ECC 2.2.0: Guided Setup, Antigravity 2.0, and the Nasiko CLI Bridge",
+      "published": "2026-08-28T19:55:05Z",
+      "url": "https://github.com/affaan-m/ECC/releases/tag/v2.2.0"
     },
+    "best_assets": [
+      {
+        "name": "ecc-cli-install-banner.png",
+        "size": 197795,
+        "url": "https://github.com/affaan-m/ECC/releases/download/v2.2.0/ecc-cli-install-banner.png"
+      },
+      {
+        "name": "nasiko-control-pane.png",
+        "size": 724207,
+        "url": "https://github.com/affaan-m/ECC/releases/download/v2.2.0/nasiko-control-pane.png"
+      }
+    ],
     "name": "ECC",
     "repo": "affaan-m/ECC",
     "category": "工具",
@@ -13521,10 +13768,10 @@
   },
   {
     "release": {
-      "tag": "v15.18.3",
-      "name": "v15.18.3",
-      "published": "2026-11-12T18:53:05Z",
-      "url": "https://github.com/thedotmack/claude-mem/releases/tag/v15.18.3"
+      "tag": "v15.18.4",
+      "name": "v15.18.4",
+      "published": "2026-11-15T05:54:37Z",
+      "url": "https://github.com/thedotmack/claude-mem/releases/tag/v15.18.4"
     },
     "name": "Claude-mem",
     "repo": "thedotmack/claude-mem",
@@ -21912,10 +22159,10 @@
   },
   {
     "release": {
-      "tag": "deploy-20261115-0457",
-      "name": "Deploy 2026-11-15 04:57 UTC",
-      "published": "2026-11-15T04:57:42Z",
-      "url": "https://github.com/strelov1/freehire/releases/tag/deploy-20261115-0457"
+      "tag": "deploy-20261115-0631",
+      "name": "Deploy 2026-11-15 06:31 UTC",
+      "published": "2026-11-15T06:31:15Z",
+      "url": "https://github.com/strelov1/freehire/releases/tag/deploy-20261115-0631"
     },
     "name": "Freehire",
     "repo": "strelov1/freehire",
@@ -26695,10 +26942,10 @@
   },
   {
     "release": {
-      "tag": "v1.111.0",
-      "name": "v1.111.0",
-      "published": "2026-11-14T07:23:33Z",
-      "url": "https://github.com/melgarafael/DeskcommCRM/releases/tag/v1.111.0"
+      "tag": "v1.112.0",
+      "name": "v1.112.0",
+      "published": "2026-11-15T05:59:58Z",
+      "url": "https://github.com/melgarafael/DeskcommCRM/releases/tag/v1.112.0"
     },
     "name": "DeskcommCRM",
     "repo": "melgarafael/DeskcommCRM",
@@ -27809,16 +28056,6 @@
     },
     "best_assets": [
       {
-        "name": "espectre-sdk-3.2.0.tar.gz",
-        "size": 347089,
-        "url": "https://github.com/francescopace/espectre/releases/download/3.2.0/espectre-sdk-3.2.0.tar.gz"
-      },
-      {
-        "name": "espectre-sdk-3.2.0.zip",
-        "size": 457263,
-        "url": "https://github.com/francescopace/espectre/releases/download/3.2.0/espectre-sdk-3.2.0.zip"
-      },
-      {
         "name": "espectre-component-3.2.0.tgz",
         "size": 489758,
         "url": "https://github.com/francescopace/espectre/releases/download/3.2.0/espectre-component-3.2.0.tgz"
@@ -27827,6 +28064,16 @@
         "name": "espectre-esphome-3.2.0-esp32-ota.bin",
         "size": 1114100,
         "url": "https://github.com/francescopace/espectre/releases/download/3.2.0/espectre-esphome-3.2.0-esp32-ota.bin"
+      },
+      {
+        "name": "firmware-compliance-3.2.0.zip",
+        "size": 3370800,
+        "url": "https://github.com/francescopace/espectre/releases/download/3.2.0/firmware-compliance-3.2.0.zip"
+      },
+      {
+        "name": "espectre-sdk-3.2.0.tar.gz",
+        "size": 347089,
+        "url": "https://github.com/francescopace/espectre/releases/download/3.2.0/espectre-sdk-3.2.0.tar.gz"
       }
     ],
     "name": "Espectre",
@@ -34830,21 +35077,21 @@
   },
   {
     "release": {
-      "tag": "v3.14.0",
-      "name": "Leantime v3.14.0",
-      "published": "2026-11-10T23:49:30Z",
-      "url": "https://github.com/Leantime/leantime/releases/tag/v3.14.0"
+      "tag": "v3.15.0",
+      "name": "Leantime v3.15.0",
+      "published": "2026-11-15T06:35:57Z",
+      "url": "https://github.com/Leantime/leantime/releases/tag/v3.15.0"
     },
     "best_assets": [
       {
-        "name": "Leantime-v3.14.0.tar.gz",
-        "size": 120359229,
-        "url": "https://github.com/Leantime/leantime/releases/download/v3.14.0/Leantime-v3.14.0.tar.gz"
+        "name": "Leantime-v3.15.0.tar.gz",
+        "size": 120337701,
+        "url": "https://github.com/Leantime/leantime/releases/download/v3.15.0/Leantime-v3.15.0.tar.gz"
       },
       {
-        "name": "Leantime-v3.14.0.zip",
-        "size": 127669274,
-        "url": "https://github.com/Leantime/leantime/releases/download/v3.14.0/Leantime-v3.14.0.zip"
+        "name": "Leantime-v3.15.0.zip",
+        "size": 127677097,
+        "url": "https://github.com/Leantime/leantime/releases/download/v3.15.0/Leantime-v3.15.0.zip"
       }
     ],
     "name": "Leantime",
@@ -42658,41 +42905,41 @@
   },
   {
     "release": {
-      "tag": "cua-spaces-v0.36.17",
-      "name": "Cua Spaces v0.36.17",
-      "published": "2026-11-15T02:37:57Z",
-      "url": "https://github.com/trycua/cua/releases/tag/cua-spaces-v0.36.17"
+      "tag": "cua-spaces-v0.36.18",
+      "name": "Cua Spaces v0.36.18",
+      "published": "2026-11-15T06:07:08Z",
+      "url": "https://github.com/trycua/cua/releases/tag/cua-spaces-v0.36.18"
     },
     "best_assets": [
       {
-        "name": "Cua-Spaces-Setup-0.36.17-arm64.exe",
-        "size": 195929872,
-        "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.36.17/Cua-Spaces-Setup-0.36.17-arm64.exe"
+        "name": "Cua-Spaces-Setup-0.36.18-arm64.exe",
+        "size": 195878352,
+        "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.36.18/Cua-Spaces-Setup-0.36.18-arm64.exe"
       },
       {
-        "name": "cua-spaces-0.36.17-windows-arm64-setup.exe",
-        "size": 195929872,
-        "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.36.17/cua-spaces-0.36.17-windows-arm64-setup.exe"
+        "name": "cua-spaces-0.36.18-windows-arm64-setup.exe",
+        "size": 195878352,
+        "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.36.18/cua-spaces-0.36.18-windows-arm64-setup.exe"
       },
       {
-        "name": "cua-spaces-0.36.17-darwin-universal.dmg",
-        "size": 328574455,
-        "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.36.17/cua-spaces-0.36.17-darwin-universal.dmg"
+        "name": "cua-spaces-0.36.18-darwin-universal.dmg",
+        "size": 328650191,
+        "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.36.18/cua-spaces-0.36.18-darwin-universal.dmg"
       },
       {
-        "name": "cua-spaces-0.36.17-darwin-universal.pkg",
-        "size": 447849084,
-        "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.36.17/cua-spaces-0.36.17-darwin-universal.pkg"
+        "name": "cua-spaces-0.36.18-darwin-universal.pkg",
+        "size": 447905060,
+        "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.36.18/cua-spaces-0.36.18-darwin-universal.pkg"
       },
       {
-        "name": "cua-spaces-0.36.17-linux-arm64.deb",
-        "size": 208682400,
-        "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.36.17/cua-spaces-0.36.17-linux-arm64.deb"
+        "name": "cua-spaces-0.36.18-linux-arm64.deb",
+        "size": 208682368,
+        "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.36.18/cua-spaces-0.36.18-linux-arm64.deb"
       },
       {
-        "name": "cua-spaces_0.36.17_arm64.deb",
-        "size": 208682400,
-        "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.36.17/cua-spaces_0.36.17_arm64.deb"
+        "name": "cua-spaces_0.36.18_arm64.deb",
+        "size": 208682368,
+        "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.36.18/cua-spaces_0.36.18_arm64.deb"
       }
     ],
     "name": "cua",
@@ -70642,34 +70889,34 @@
     },
     "best_assets": [
       {
-        "name": "agent-desktop-ffi-v1.3.1-aarch64-pc-windows-msvc.zip",
-        "size": 1480173,
-        "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.3.1/agent-desktop-ffi-v1.3.1-aarch64-pc-windows-msvc.zip"
+        "name": "agent-desktop-v1.3.1-aarch64-pc-windows-msvc.tar.gz",
+        "size": 1779550,
+        "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.3.1/agent-desktop-v1.3.1-aarch64-pc-windows-msvc.tar.gz"
       },
       {
-        "name": "agent-desktop-ffi-v1.3.1-x86_64-pc-windows-msvc.zip",
-        "size": 1525337,
-        "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.3.1/agent-desktop-ffi-v1.3.1-x86_64-pc-windows-msvc.zip"
+        "name": "agent-desktop-v1.3.1-x86_64-pc-windows-msvc.tar.gz",
+        "size": 1835706,
+        "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.3.1/agent-desktop-v1.3.1-x86_64-pc-windows-msvc.tar.gz"
       },
       {
-        "name": "agent-desktop-ffi-v1.3.1-aarch64-apple-darwin.tar.gz",
-        "size": 1951488,
-        "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.3.1/agent-desktop-ffi-v1.3.1-aarch64-apple-darwin.tar.gz"
+        "name": "agent-desktop-v1.3.1-aarch64-apple-darwin.tar.gz",
+        "size": 2321358,
+        "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.3.1/agent-desktop-v1.3.1-aarch64-apple-darwin.tar.gz"
       },
       {
-        "name": "agent-desktop-ffi-v1.3.1-x86_64-apple-darwin.tar.gz",
-        "size": 2050770,
-        "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.3.1/agent-desktop-ffi-v1.3.1-x86_64-apple-darwin.tar.gz"
-      },
-      {
-        "name": "agent-desktop-ffi-v1.3.1-aarch64-unknown-linux-gnu.tar.gz",
-        "size": 3321793,
-        "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.3.1/agent-desktop-ffi-v1.3.1-aarch64-unknown-linux-gnu.tar.gz"
+        "name": "agent-desktop-v1.3.1-x86_64-apple-darwin.tar.gz",
+        "size": 2453626,
+        "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.3.1/agent-desktop-v1.3.1-x86_64-apple-darwin.tar.gz"
       },
       {
         "name": "agent-desktop-v1.3.1-aarch64-unknown-linux-gnu.tar.gz",
         "size": 3407558,
         "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.3.1/agent-desktop-v1.3.1-aarch64-unknown-linux-gnu.tar.gz"
+      },
+      {
+        "name": "agent-desktop-v1.3.1-x86_64-unknown-linux-gnu.tar.gz",
+        "size": 3537152,
+        "url": "https://github.com/vercel-labs/agent-desktop/releases/download/v1.3.1/agent-desktop-v1.3.1-x86_64-unknown-linux-gnu.tar.gz"
       }
     ],
     "name": "agent-desktop",

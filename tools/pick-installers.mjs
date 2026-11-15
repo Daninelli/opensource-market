@@ -25,6 +25,12 @@ const NOISE = [
     /dSYM/i, /PDB/i, /dbsym/i
 ];
 
+/**
+ * 次要产物：库绑定（ffi）、SDK、头文件、调试符号等。
+ * 这些不是终端用户要装的主程序，同平台内应该排在主包之后——只降权不过滤。
+ */
+const SECONDARY_ARTIFACT = /(^|[-_.])(ffi|sdk|bindings|headers|dbg|symbols)($|[-_.])/i;
+
 /** 平台识别与优先级：数字越小越优先展示（桌面平台优先于移动端） */
 const PLATFORM_RULES = [
     // macOS 必须放在 Windows 之前判断：darwin/mac 命中的名字里常常也带 win 之类的字样
@@ -77,12 +83,15 @@ for (const project of projects) {
             url: asset.url,
             platform: rule.label,
             platformKey: rule.key,
-            rank: rule.rank + penalty
+            rank: rule.rank + penalty,
+            // 库绑定 / SDK / 头文件不是「用户要装的主程序」，同平台内排到主包之后。
+            // 只调排序、不过滤：这类包本身是合法产物，只是不该占下载位。
+            secondary: SECONDARY_ARTIFACT.test(asset.name) ? 1 : 0
         });
     }
 
-    // 按平台优先级 + 同平台按体积从小到大（优先给体积适中的主包）
-    picked.sort((a, b) => (a.rank - b.rank) || (a.size - b.size));
+    // 平台优先级 → 主程序优先于次要产物 → 同组内体积从小到大（优先给体积适中的主包）
+    picked.sort((a, b) => (a.rank - b.rank) || (a.secondary - b.secondary) || (a.size - b.size));
 
     // 每个平台最多保留 2 个候选，避免卡片塞太长
     const perPlatform = {};

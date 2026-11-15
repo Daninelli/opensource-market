@@ -21,12 +21,43 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/electric-sql/electric/zip/refs/heads/main",
   "release": {
-    "tag": "@electric-sql/y-electric@0.1.54",
-    "name": "@electric-sql/y-electric@0.1.54",
-    "published": "2026-09-09T11:28:29Z",
-    "url": "https://github.com/neondatabase/electric/releases/tag/%40electric-sql/y-electric%400.1.54"
+    "tag": "agents-desktop-canary",
+    "name": "Electric Agents Desktop Canary",
+    "published": "2026-05-20T14:06:22Z",
+    "url": "https://github.com/neondatabase/electric/releases/tag/agents-desktop-canary"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "Electric-Agents-canary-windows-x64.exe",
+      "size": 118247575,
+      "url": "https://github.com/neondatabase/electric/releases/download/agents-desktop-canary/Electric-Agents-canary-windows-x64.exe"
+    },
+    {
+      "name": "Electric-Agents-win-x64.exe",
+      "size": 118247575,
+      "url": "https://github.com/neondatabase/electric/releases/download/agents-desktop-canary/Electric-Agents-win-x64.exe"
+    },
+    {
+      "name": "Electric-Agents-canary-mac-arm64.zip",
+      "size": 134902224,
+      "url": "https://github.com/neondatabase/electric/releases/download/agents-desktop-canary/Electric-Agents-canary-mac-arm64.zip"
+    },
+    {
+      "name": "Electric-Agents-mac-arm64.zip",
+      "size": 134902224,
+      "url": "https://github.com/neondatabase/electric/releases/download/agents-desktop-canary/Electric-Agents-mac-arm64.zip"
+    },
+    {
+      "name": "Electric-Agents-canary-linux-x64.deb",
+      "size": 111881604,
+      "url": "https://github.com/neondatabase/electric/releases/download/agents-desktop-canary/Electric-Agents-canary-linux-x64.deb"
+    },
+    {
+      "name": "Electric-Agents-linux-amd64.deb",
+      "size": 111881604,
+      "url": "https://github.com/neondatabase/electric/releases/download/agents-desktop-canary/Electric-Agents-linux-amd64.deb"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

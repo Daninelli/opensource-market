@@ -20,12 +20,18 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/upstash/context7/zip/refs/heads/master",
   "release": {
-    "tag": "@upstash/context7-tools-ai-sdk@1.0.4",
-    "name": "@upstash/context7-tools-ai-sdk@1.0.4",
-    "published": "2026-11-12T09:03:18Z",
-    "url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-tools-ai-sdk%401.0.4"
+    "tag": "mcpb-v4.7.0",
+    "name": "context7.mcpb 4.7.0",
+    "published": "2026-11-12T09:03:39Z",
+    "url": "https://github.com/upstash/context7/releases/tag/mcpb-v4.7.0"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "context7.mcpb",
+      "size": 1215255,
+      "url": "https://github.com/upstash/context7/releases/download/mcpb-v4.7.0/context7.mcpb"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

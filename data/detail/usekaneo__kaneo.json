@@ -21,12 +21,18 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/usekaneo/kaneo/zip/refs/heads/main",
   "release": {
-    "tag": "v2.49.0",
-    "name": "v2.49.0",
-    "published": "2026-11-02T18:58:29Z",
-    "url": "https://github.com/usekaneo/kaneo/releases/tag/v2.49.0"
+    "tag": "mobile-v0.3.2",
+    "name": "Kaneo for Android 0.3.2",
+    "published": "2026-10-25T19:31:43Z",
+    "url": "https://github.com/usekaneo/kaneo/releases/tag/mobile-v0.3.2"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "kaneo-0.3.2-5.apk",
+      "size": 111537477,
+      "url": "https://github.com/usekaneo/kaneo/releases/download/mobile-v0.3.2/kaneo-0.3.2-5.apk"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

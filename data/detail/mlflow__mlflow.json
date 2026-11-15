@@ -22,10 +22,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mlflow/mlflow/zip/refs/heads/master",
   "release": {
-    "tag": "v3.18.0",
-    "name": "MLflow 3.18.0",
-    "published": "2026-11-04T06:51:02Z",
-    "url": "https://github.com/mlflow/mlflow/releases/tag/v3.18.0"
+    "tag": "model-catalog/latest",
+    "name": "Model Catalog",
+    "published": "2026-04-06T05:49:14Z",
+    "url": "https://github.com/mlflow/mlflow/releases/tag/model-catalog/latest"
   },
   "assets": [],
   "pinned": false,
