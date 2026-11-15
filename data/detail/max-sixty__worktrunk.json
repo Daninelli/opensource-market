@@ -7,15 +7,15 @@
   "category_slug": "tool",
   "subcategory": "开发工具",
   "subcategory_slug": "devtools",
-  "license": "NOASSERTION",
-  "license_category": "unknown",
+  "license": "Apache-2.0",
+  "license_category": "open",
   "archived": false,
   "tech_stack": [
     "Rust"
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-11-14T07:03:30Z",
+  "updated_at": "2026-11-15T10:42:08Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/max-sixty/worktrunk/zip/refs/heads/main",

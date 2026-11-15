@@ -1,6 +1,6 @@
 {
   "note": "由 tools/track-changes.mjs 自动维护；只追加变动记录，不重新计算历史",
-  "updated_at": "2026-11-13T10:59:00.126Z",
+  "updated_at": "2026-11-15T10:53:34.568Z",
   "events": [
     {
       "date": "2026-11-13",
@@ -9121,7 +9121,7 @@
       "archived": false
     },
     "max-sixty/worktrunk": {
-      "license": "NOASSERTION",
+      "license": "Apache-2.0",
       "pinned": false,
       "pin_label": null,
       "archived": false
@@ -10358,6 +10358,36 @@
     },
     "tidain/YunX-Desktop": {
       "license": "AGPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "RoutineMiku/apkstart": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "galaxy-s10/billd-desk": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "nano-muse/nanoMuse": {
+      "license": "GPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "ocsjs/ocsjs": {
+      "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "musescore/MuseScore": {
+      "license": "GPL-3.0",
       "pinned": false,
       "pin_label": null,
       "archived": false
