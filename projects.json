@@ -25193,46 +25193,46 @@
   },
   {
     "release": {
-      "tag": "v0.24.3065",
-      "name": "v0.24.3065",
-      "published": "2026-11-14T05:48:22Z",
-      "url": "https://github.com/Jackett/Jackett/releases/tag/v0.24.3065"
+      "tag": "v0.24.3067",
+      "name": "v0.24.3067",
+      "published": "2026-11-15T05:48:36Z",
+      "url": "https://github.com/Jackett/Jackett/releases/tag/v0.24.3067"
     },
     "best_assets": [
       {
         "name": "Jackett.Installer.Windows.exe",
-        "size": 42564359,
-        "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3065/Jackett.Installer.Windows.exe"
+        "size": 42563728,
+        "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3067/Jackett.Installer.Windows.exe"
       },
       {
         "name": "Jackett.Binaries.macOSARM64.tar.gz",
-        "size": 47977674,
-        "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3065/Jackett.Binaries.macOSARM64.tar.gz"
+        "size": 47977840,
+        "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3067/Jackett.Binaries.macOSARM64.tar.gz"
       },
       {
         "name": "Jackett.Binaries.macOS.tar.gz",
-        "size": 50207780,
-        "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3065/Jackett.Binaries.macOS.tar.gz"
+        "size": 50207518,
+        "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3067/Jackett.Binaries.macOS.tar.gz"
       },
       {
         "name": "Jackett.Binaries.Windows.zip",
-        "size": 57145432,
-        "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3065/Jackett.Binaries.Windows.zip"
+        "size": 57145480,
+        "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3067/Jackett.Binaries.Windows.zip"
       },
       {
         "name": "Jackett.Binaries.LinuxMuslARM32.tar.gz",
-        "size": 48772702,
-        "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3065/Jackett.Binaries.LinuxMuslARM32.tar.gz"
+        "size": 48773406,
+        "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3067/Jackett.Binaries.LinuxMuslARM32.tar.gz"
       },
       {
         "name": "Jackett.Binaries.LinuxARM32.tar.gz",
-        "size": 48774644,
-        "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3065/Jackett.Binaries.LinuxARM32.tar.gz"
+        "size": 48773441,
+        "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3067/Jackett.Binaries.LinuxARM32.tar.gz"
       },
       {
         "name": "Jackett.Binaries.Mono.tar.gz",
-        "size": 11719871,
-        "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3065/Jackett.Binaries.Mono.tar.gz"
+        "size": 11720197,
+        "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3067/Jackett.Binaries.Mono.tar.gz"
       }
     ],
     "name": "Jackett",
@@ -70358,21 +70358,21 @@
   },
   {
     "release": {
-      "tag": "v0.3.35",
-      "name": "v0.3.35",
-      "published": "2026-11-14T14:35:06Z",
-      "url": "https://github.com/chadyi/StudyOnTV/releases/tag/v0.3.35"
+      "tag": "v0.3.36",
+      "name": "v0.3.36",
+      "published": "2026-11-15T05:06:22Z",
+      "url": "https://github.com/chadyi/StudyOnTV/releases/tag/v0.3.36"
     },
     "best_assets": [
       {
-        "name": "StudyOnTV-Android-TV-v0.3.35.apk",
-        "size": 3407174,
-        "url": "https://github.com/chadyi/StudyOnTV/releases/download/v0.3.35/StudyOnTV-Android-TV-v0.3.35.apk"
+        "name": "StudyOnTV-Android-TV-v0.3.36.apk",
+        "size": 3409558,
+        "url": "https://github.com/chadyi/StudyOnTV/releases/download/v0.3.36/StudyOnTV-Android-TV-v0.3.36.apk"
       },
       {
-        "name": "StudyOnTV-Mobile-v0.3.35.apk",
-        "size": 3409790,
-        "url": "https://github.com/chadyi/StudyOnTV/releases/download/v0.3.35/StudyOnTV-Mobile-v0.3.35.apk"
+        "name": "StudyOnTV-Mobile-v0.3.36.apk",
+        "size": 3412394,
+        "url": "https://github.com/chadyi/StudyOnTV/releases/download/v0.3.36/StudyOnTV-Mobile-v0.3.36.apk"
       }
     ],
     "name": "题了个题（StudyOnTV）",
@@ -70893,6 +70893,18 @@
       "published": "2026-11-13T03:51:14Z",
       "url": "https://github.com/ocsjs/ocsjs/releases/tag/5.4.2"
     },
+    "best_assets": [
+      {
+        "name": "core.js",
+        "size": 193611,
+        "url": "https://github.com/ocsjs/ocsjs/releases/download/5.4.2/core.js"
+      },
+      {
+        "name": "index.js",
+        "size": 925618,
+        "url": "https://github.com/ocsjs/ocsjs/releases/download/5.4.2/index.js"
+      }
+    ],
     "name": "OCS 网课助手",
     "repo": "ocsjs/ocsjs",
     "category": "教育",
@@ -70915,6 +70927,65 @@
     "platform": "github",
     "kind": "app",
     "url": "https://github.com/ocsjs/ocsjs",
+    "archived": false,
+    "license_category": "open"
+  },
+  {
+    "release": {
+      "tag": "v4.7.7",
+      "name": "MuseScore Studio 4.7.7 Release",
+      "published": "2026-11-12T09:48:48Z",
+      "url": "https://github.com/musescore/MuseScore/releases/tag/v4.7.7"
+    },
+    "best_assets": [
+      {
+        "name": "MuseScore-Studio-4.7.7.261109195-x86_64.paf.exe",
+        "size": 120398680,
+        "url": "https://github.com/musescore/MuseScore/releases/download/v4.7.7/MuseScore-Studio-4.7.7.261109195-x86_64.paf.exe"
+      },
+      {
+        "name": "MuseScore-Studio-4.7.7.261109195-x86_64.msi",
+        "size": 135069696,
+        "url": "https://github.com/musescore/MuseScore/releases/download/v4.7.7/MuseScore-Studio-4.7.7.261109195-x86_64.msi"
+      },
+      {
+        "name": "MuseScore-Studio-4.7.7.261109195.dmg",
+        "size": 206969738,
+        "url": "https://github.com/musescore/MuseScore/releases/download/v4.7.7/MuseScore-Studio-4.7.7.261109195.dmg"
+      },
+      {
+        "name": "MuseScore-Studio-4.7.7.261109195-aarch64.AppImage",
+        "size": 188635656,
+        "url": "https://github.com/musescore/MuseScore/releases/download/v4.7.7/MuseScore-Studio-4.7.7.261109195-aarch64.AppImage"
+      },
+      {
+        "name": "MuseScore-Studio-4.7.7.261109195-x86_64.AppImage",
+        "size": 192743928,
+        "url": "https://github.com/musescore/MuseScore/releases/download/v4.7.7/MuseScore-Studio-4.7.7.261109195-x86_64.AppImage"
+      }
+    ],
+    "name": "MuseScore Studio",
+    "repo": "musescore/MuseScore",
+    "category": "工具",
+    "category_slug": "tool",
+    "subcategory": "媒体处理",
+    "subcategory_slug": "media-tool",
+    "tech_stack": [
+      "C++",
+      "Qt",
+      "MusicXML"
+    ],
+    "deploy_type": "客户端 / 桌面应用",
+    "note_zh": "开源制谱软件，可打谱、播放与导出 MusicXML/MIDI，适合作曲教学与编曲",
+    "license": "GPL-3.0",
+    "added_at": "2026-11-15T13:48:26+08:00",
+    "stars": 15420,
+    "updated_at": "2026-11-13T17:03:40Z",
+    "default_branch": "main",
+    "download_url": "https://codeload.github.com/musescore/MuseScore/zip/refs/heads/main",
+    "platform": "github",
+    "kind": "client",
+    "url": "https://github.com/musescore/MuseScore",
     "archived": false,
     "license_category": "open"
   }

@@ -1,0 +1,63 @@
+{
+  "repo": "musescore/MuseScore",
+  "slug": "musescore__MuseScore",
+  "name": "MuseScore Studio",
+  "note_zh": "开源制谱软件，可打谱、播放与导出 MusicXML/MIDI，适合作曲教学与编曲",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "媒体处理",
+  "subcategory_slug": "media-tool",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "Qt",
+    "MusicXML"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-11-13T17:03:40Z",
+  "added_at": "2026-11-15T13:48:26+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/musescore/MuseScore/zip/refs/heads/main",
+  "release": {
+    "tag": "v4.7.7",
+    "name": "MuseScore Studio 4.7.7 Release",
+    "published": "2026-11-12T09:48:48Z",
+    "url": "https://github.com/musescore/MuseScore/releases/tag/v4.7.7"
+  },
+  "assets": [
+    {
+      "name": "MuseScore-Studio-4.7.7.261109195-x86_64.paf.exe",
+      "size": 120398680,
+      "url": "https://github.com/musescore/MuseScore/releases/download/v4.7.7/MuseScore-Studio-4.7.7.261109195-x86_64.paf.exe"
+    },
+    {
+      "name": "MuseScore-Studio-4.7.7.261109195-x86_64.msi",
+      "size": 135069696,
+      "url": "https://github.com/musescore/MuseScore/releases/download/v4.7.7/MuseScore-Studio-4.7.7.261109195-x86_64.msi"
+    },
+    {
+      "name": "MuseScore-Studio-4.7.7.261109195.dmg",
+      "size": 206969738,
+      "url": "https://github.com/musescore/MuseScore/releases/download/v4.7.7/MuseScore-Studio-4.7.7.261109195.dmg"
+    },
+    {
+      "name": "MuseScore-Studio-4.7.7.261109195-aarch64.AppImage",
+      "size": 188635656,
+      "url": "https://github.com/musescore/MuseScore/releases/download/v4.7.7/MuseScore-Studio-4.7.7.261109195-aarch64.AppImage"
+    },
+    {
+      "name": "MuseScore-Studio-4.7.7.261109195-x86_64.AppImage",
+      "size": 192743928,
+      "url": "https://github.com/musescore/MuseScore/releases/download/v4.7.7/MuseScore-Studio-4.7.7.261109195-x86_64.AppImage"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

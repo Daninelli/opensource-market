@@ -27,7 +27,18 @@
     "published": "2026-11-13T03:51:14Z",
     "url": "https://github.com/ocsjs/ocsjs/releases/tag/5.4.2"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "core.js",
+      "size": 193611,
+      "url": "https://github.com/ocsjs/ocsjs/releases/download/5.4.2/core.js"
+    },
+    {
+      "name": "index.js",
+      "size": 925618,
+      "url": "https://github.com/ocsjs/ocsjs/releases/download/5.4.2/index.js"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,
