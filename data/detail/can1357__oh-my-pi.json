@@ -21,41 +21,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/can1357/oh-my-pi/zip/refs/heads/main",
   "release": {
-    "tag": "v18.20.0",
-    "name": "v18.20.0",
-    "published": "2026-11-12T23:40:30Z",
-    "url": "https://github.com/can1357/oh-my-pi/releases/tag/v18.20.0"
+    "tag": "v18.20.2",
+    "name": "v18.20.2",
+    "published": "2026-11-14T20:08:51Z",
+    "url": "https://github.com/can1357/oh-my-pi/releases/tag/v18.20.2"
   },
   "assets": [
     {
       "name": "omp-darwin-arm64",
-      "size": 223369360,
-      "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.20.0/omp-darwin-arm64"
+      "size": 224277648,
+      "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.20.2/omp-darwin-arm64"
     },
     {
       "name": "omp-windows-arm64.exe",
-      "size": 234398720,
-      "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.20.0/omp-windows-arm64.exe"
+      "size": 235350016,
+      "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.20.2/omp-windows-arm64.exe"
     },
     {
       "name": "omp-darwin-x64",
-      "size": 235546064,
-      "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.20.0/omp-darwin-x64"
+      "size": 236602832,
+      "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.20.2/omp-darwin-x64"
     },
     {
       "name": "omp-windows-x64.exe",
-      "size": 251502592,
-      "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.20.0/omp-windows-x64.exe"
+      "size": 252504064,
+      "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.20.2/omp-windows-x64.exe"
     },
     {
       "name": "omp-linux-musl-arm64",
-      "size": 236723304,
-      "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.20.0/omp-linux-musl-arm64"
+      "size": 237706344,
+      "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.20.2/omp-linux-musl-arm64"
     },
     {
       "name": "omp-linux-musl-x64",
-      "size": 240022952,
-      "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.20.0/omp-linux-musl-x64"
+      "size": 241055144,
+      "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.20.2/omp-linux-musl-x64"
     }
   ],
   "pinned": false,

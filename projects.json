@@ -912,26 +912,26 @@
   },
   {
     "release": {
-      "tag": "v0.9.45",
-      "name": "v0.9.45",
-      "published": "2026-11-14T10:14:46Z",
-      "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.9.45"
+      "tag": "v0.9.52",
+      "name": "v0.9.52",
+      "published": "2026-11-15T02:49:36Z",
+      "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.9.52"
     },
     "best_assets": [
       {
         "name": "hyperframes-agent-plugin.zip",
         "size": 2235366,
-        "url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.45/hyperframes-agent-plugin.zip"
+        "url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.52/hyperframes-agent-plugin.zip"
       },
       {
         "name": "hyperframes-lambda-handler.zip",
-        "size": 130998119,
-        "url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.45/hyperframes-lambda-handler.zip"
+        "size": 131005150,
+        "url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.52/hyperframes-lambda-handler.zip"
       },
       {
         "name": "hyperframes-lambda-video-arm64.oci.tar",
-        "size": 246138880,
-        "url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.45/hyperframes-lambda-video-arm64.oci.tar"
+        "size": 246144512,
+        "url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.52/hyperframes-lambda-video-arm64.oci.tar"
       }
     ],
     "name": "hyperframes",
@@ -3005,10 +3005,10 @@
   },
   {
     "release": {
-      "tag": "2026-11-13",
-      "name": "2026-11-13",
-      "published": "2026-11-14T00:21:14Z",
-      "url": "https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-11-13"
+      "tag": "2026-11-14",
+      "name": "2026-11-14",
+      "published": "2026-11-15T00:24:22Z",
+      "url": "https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-11-14"
     },
     "name": "ProxmoxVE",
     "repo": "community-scripts/ProxmoxVE",
@@ -4877,61 +4877,61 @@
   },
   {
     "release": {
-      "tag": "app/v2.13.0",
-      "name": "app/v2.13.0",
-      "published": "2026-10-05T04:31:35Z",
-      "url": "https://github.com/HyNetworks/hysteria/releases/tag/app/v2.13.0"
+      "tag": "app/v2.14.0",
+      "name": "app/v2.14.0",
+      "published": "2026-11-15T01:17:25Z",
+      "url": "https://github.com/HyNetworks/hysteria/releases/tag/app/v2.14.0"
     },
     "best_assets": [
       {
         "name": "hysteria-windows-arm64.exe",
-        "size": 22069248,
-        "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.13.0/hysteria-windows-arm64.exe"
+        "size": 23256064,
+        "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.14.0/hysteria-windows-arm64.exe"
       },
       {
         "name": "hysteria-darwin-arm64",
-        "size": 22303922,
-        "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.13.0/hysteria-darwin-arm64"
+        "size": 23506978,
+        "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.14.0/hysteria-darwin-arm64"
       },
       {
         "name": "hysteria-windows-386.exe",
-        "size": 23170048,
-        "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.13.0/hysteria-windows-386.exe"
+        "size": 24391168,
+        "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.14.0/hysteria-windows-386.exe"
       },
       {
         "name": "hysteria-darwin-amd64-avx",
-        "size": 23937968,
-        "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.13.0/hysteria-darwin-amd64-avx"
+        "size": 25225936,
+        "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.14.0/hysteria-darwin-amd64-avx"
       },
       {
         "name": "hysteria-linux-riscv64",
-        "size": 21299362,
-        "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.13.0/hysteria-linux-riscv64"
+        "size": 22347938,
+        "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.14.0/hysteria-linux-riscv64"
       },
       {
         "name": "hysteria-linux-arm64",
-        "size": 22151330,
-        "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.13.0/hysteria-linux-arm64"
+        "size": 23265442,
+        "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.14.0/hysteria-linux-arm64"
       },
       {
         "name": "hysteria-android-arm64",
-        "size": 22177776,
-        "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.13.0/hysteria-android-arm64"
+        "size": 23342384,
+        "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.14.0/hysteria-android-arm64"
       },
       {
         "name": "hysteria-android-armv7",
-        "size": 23051764,
-        "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.13.0/hysteria-android-armv7"
+        "size": 24279212,
+        "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.14.0/hysteria-android-armv7"
       },
       {
         "name": "hysteria-freebsd-arm64",
-        "size": 21364908,
-        "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.13.0/hysteria-freebsd-arm64"
+        "size": 22544556,
+        "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.14.0/hysteria-freebsd-arm64"
       },
       {
         "name": "hysteria-freebsd-arm",
-        "size": 21495980,
-        "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.13.0/hysteria-freebsd-arm"
+        "size": 22610092,
+        "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.14.0/hysteria-freebsd-arm"
       }
     ],
     "name": "hysteria",
@@ -5339,10 +5339,10 @@
   },
   {
     "release": {
-      "tag": "v2.6.0",
-      "name": "v2.6.0: deterministic page, TLS, sitemap and JavaScript-gap checks",
-      "published": "2026-11-10T22:06:50Z",
-      "url": "https://github.com/AgriciDaniel/claude-seo/releases/tag/v2.6.0"
+      "tag": "v2.6.1",
+      "name": "v2.6.1: security fixes",
+      "published": "2026-11-14T14:25:19Z",
+      "url": "https://github.com/AgriciDaniel/claude-seo/releases/tag/v2.6.1"
     },
     "name": "claude-seo",
     "repo": "AgriciDaniel/claude-seo",
@@ -7364,10 +7364,10 @@
   },
   {
     "release": {
-      "tag": "v9.5.0",
-      "name": "9.5.0",
-      "published": "2026-11-13T10:38:53Z",
-      "url": "https://github.com/gotenberg/gotenberg/releases/tag/v9.5.0"
+      "tag": "v9.5.1",
+      "name": "9.5.1",
+      "published": "2026-11-14T21:35:11Z",
+      "url": "https://github.com/gotenberg/gotenberg/releases/tag/v9.5.1"
     },
     "name": "gotenberg",
     "repo": "gotenberg/gotenberg",
@@ -7872,10 +7872,10 @@
   },
   {
     "release": {
-      "tag": "v5.6.0",
-      "name": "5.6.0",
-      "published": "2026-07-11T18:55:00Z",
-      "url": "https://github.com/jrouwe/JoltPhysics/releases/tag/v5.6.0"
+      "tag": "v5.7.0",
+      "name": "5.7.0",
+      "published": "2026-11-14T21:19:36Z",
+      "url": "https://github.com/jrouwe/JoltPhysics/releases/tag/v5.7.0"
     },
     "name": "JoltPhysics",
     "repo": "jrouwe/JoltPhysics",
@@ -11561,6 +11561,18 @@
       "published": "2026-11-11T17:53:55Z",
       "url": "https://github.com/twbs/bootstrap/releases/tag/v5.3.9"
     },
+    "best_assets": [
+      {
+        "name": "bootstrap-5.3.9-examples.zip",
+        "size": 1390921,
+        "url": "https://github.com/twbs/bootstrap/releases/download/v5.3.9/bootstrap-5.3.9-examples.zip"
+      },
+      {
+        "name": "bootstrap-5.3.9-dist.zip",
+        "size": 1504845,
+        "url": "https://github.com/twbs/bootstrap/releases/download/v5.3.9/bootstrap-5.3.9-dist.zip"
+      }
+    ],
     "name": "Bootstrap",
     "repo": "twbs/bootstrap",
     "category": "工具",
@@ -11798,26 +11810,26 @@
   },
   {
     "release": {
-      "tag": "v0.9.108",
-      "name": "graphify 0.9.108",
-      "published": "2026-11-12T21:48:11Z",
-      "url": "https://github.com/Graphify-Labs/graphify/releases/tag/v0.9.108"
+      "tag": "v0.9.109",
+      "name": "graphify 0.9.109",
+      "published": "2026-11-14T21:29:11Z",
+      "url": "https://github.com/Graphify-Labs/graphify/releases/tag/v0.9.109"
     },
     "best_assets": [
       {
         "name": "graphify-self-graph.tar.gz",
-        "size": 563306,
-        "url": "https://github.com/Graphify-Labs/graphify/releases/download/v0.9.108/graphify-self-graph.tar.gz"
+        "size": 563749,
+        "url": "https://github.com/Graphify-Labs/graphify/releases/download/v0.9.109/graphify-self-graph.tar.gz"
       },
       {
-        "name": "graphifyy-0.9.108-py3-none-any.whl",
-        "size": 1947658,
-        "url": "https://github.com/Graphify-Labs/graphify/releases/download/v0.9.108/graphifyy-0.9.108-py3-none-any.whl"
+        "name": "graphifyy-0.9.109-py3-none-any.whl",
+        "size": 1958574,
+        "url": "https://github.com/Graphify-Labs/graphify/releases/download/v0.9.109/graphifyy-0.9.109-py3-none-any.whl"
       },
       {
-        "name": "graphifyy-0.9.108.tar.gz",
-        "size": 3440934,
-        "url": "https://github.com/Graphify-Labs/graphify/releases/download/v0.9.108/graphifyy-0.9.108.tar.gz"
+        "name": "graphifyy-0.9.109.tar.gz",
+        "size": 3470268,
+        "url": "https://github.com/Graphify-Labs/graphify/releases/download/v0.9.109/graphifyy-0.9.109.tar.gz"
       }
     ],
     "name": "Graphify",
@@ -13217,41 +13229,41 @@
   },
   {
     "release": {
-      "tag": "v4.0.31",
-      "name": "CC Switch v4.0.31",
-      "published": "2026-11-12T15:59:54Z",
-      "url": "https://github.com/farion1231/cc-switch/releases/tag/v4.0.31"
+      "tag": "v4.0.32",
+      "name": "CC Switch v4.0.32",
+      "published": "2026-11-14T16:32:27Z",
+      "url": "https://github.com/farion1231/cc-switch/releases/tag/v4.0.32"
     },
     "best_assets": [
       {
-        "name": "CC-Switch-v4.0.31-Windows-arm64-Portable.zip",
-        "size": 19445683,
-        "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.31/CC-Switch-v4.0.31-Windows-arm64-Portable.zip"
+        "name": "CC-Switch-v4.0.32-Windows-arm64-Portable.zip",
+        "size": 19694193,
+        "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.32/CC-Switch-v4.0.32-Windows-arm64-Portable.zip"
       },
       {
-        "name": "CC-Switch-v4.0.31-Windows-arm64.msi",
-        "size": 19562496,
-        "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.31/CC-Switch-v4.0.31-Windows-arm64.msi"
+        "name": "CC-Switch-v4.0.32-Windows-arm64.msi",
+        "size": 19800064,
+        "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.32/CC-Switch-v4.0.32-Windows-arm64.msi"
       },
       {
-        "name": "CC-Switch-v4.0.31-macOS.dmg",
-        "size": 41442623,
-        "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.31/CC-Switch-v4.0.31-macOS.dmg"
+        "name": "CC-Switch-v4.0.32-macOS.dmg",
+        "size": 41582591,
+        "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.32/CC-Switch-v4.0.32-macOS.dmg"
       },
       {
-        "name": "CC-Switch-v4.0.31-macOS.zip",
-        "size": 41514236,
-        "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.31/CC-Switch-v4.0.31-macOS.zip"
+        "name": "CC-Switch-v4.0.32-macOS.zip",
+        "size": 41663277,
+        "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.32/CC-Switch-v4.0.32-macOS.zip"
       },
       {
-        "name": "CC-Switch-v4.0.31-Linux-arm64.deb",
-        "size": 19705102,
-        "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.31/CC-Switch-v4.0.31-Linux-arm64.deb"
+        "name": "CC-Switch-v4.0.32-Linux-arm64.deb",
+        "size": 19775756,
+        "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.32/CC-Switch-v4.0.32-Linux-arm64.deb"
       },
       {
-        "name": "CC-Switch-v4.0.31-Linux-arm64.rpm",
-        "size": 19708977,
-        "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.31/CC-Switch-v4.0.31-Linux-arm64.rpm"
+        "name": "CC-Switch-v4.0.32-Linux-arm64.rpm",
+        "size": 19780410,
+        "url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.32/CC-Switch-v4.0.32-Linux-arm64.rpm"
       }
     ],
     "name": "Cc-switch",
@@ -13588,46 +13600,46 @@
   },
   {
     "release": {
-      "tag": "v1.4.258",
-      "name": "1.4.258",
-      "published": "2026-11-13T01:35:38Z",
-      "url": "https://github.com/stablyai/orca/releases/tag/v1.4.258"
+      "tag": "v1.4.259",
+      "name": "1.4.259",
+      "published": "2026-11-14T21:20:31Z",
+      "url": "https://github.com/stablyai/orca/releases/tag/v1.4.259"
     },
     "best_assets": [
       {
         "name": "orca-windows-setup.exe",
-        "size": 224356032,
-        "url": "https://github.com/stablyai/orca/releases/download/v1.4.258/orca-windows-setup.exe"
+        "size": 225569864,
+        "url": "https://github.com/stablyai/orca/releases/download/v1.4.259/orca-windows-setup.exe"
       },
       {
         "name": "orca-macos-arm64.dmg",
-        "size": 282164836,
-        "url": "https://github.com/stablyai/orca/releases/download/v1.4.258/orca-macos-arm64.dmg"
+        "size": 283966513,
+        "url": "https://github.com/stablyai/orca/releases/download/v1.4.259/orca-macos-arm64.dmg"
       },
       {
         "name": "orca-macos-x64.dmg",
-        "size": 289315365,
-        "url": "https://github.com/stablyai/orca/releases/download/v1.4.258/orca-macos-x64.dmg"
+        "size": 290801518,
+        "url": "https://github.com/stablyai/orca/releases/download/v1.4.259/orca-macos-x64.dmg"
       },
       {
         "name": "orca-server-linux-arm64.tar.gz",
-        "size": 63910737,
-        "url": "https://github.com/stablyai/orca/releases/download/v1.4.258/orca-server-linux-arm64.tar.gz"
+        "size": 64395092,
+        "url": "https://github.com/stablyai/orca/releases/download/v1.4.259/orca-server-linux-arm64.tar.gz"
       },
       {
         "name": "orca-server-linux-x64.tar.gz",
-        "size": 64239501,
-        "url": "https://github.com/stablyai/orca/releases/download/v1.4.258/orca-server-linux-x64.tar.gz"
+        "size": 64727718,
+        "url": "https://github.com/stablyai/orca/releases/download/v1.4.259/orca-server-linux-x64.tar.gz"
       },
       {
-        "name": "orca-sourcemaps-v1.4.258.zip",
-        "size": 18758082,
-        "url": "https://github.com/stablyai/orca/releases/download/v1.4.258/orca-sourcemaps-v1.4.258.zip"
+        "name": "orca-sourcemaps-v1.4.259.zip",
+        "size": 19300702,
+        "url": "https://github.com/stablyai/orca/releases/download/v1.4.259/orca-sourcemaps-v1.4.259.zip"
       },
       {
-        "name": "Orca-1.4.258-arm64-mac.zip",
-        "size": 283323593,
-        "url": "https://github.com/stablyai/orca/releases/download/v1.4.258/Orca-1.4.258-arm64-mac.zip"
+        "name": "Orca-1.4.259-arm64-mac.zip",
+        "size": 285286705,
+        "url": "https://github.com/stablyai/orca/releases/download/v1.4.259/Orca-1.4.259-arm64-mac.zip"
       }
     ],
     "name": "Orca",
@@ -17300,10 +17312,10 @@
   },
   {
     "release": {
-      "tag": "v26.11.1",
-      "name": "v26.11.1",
-      "published": "2026-11-08T13:18:51Z",
-      "url": "https://github.com/DrewThomasson/ebook2audiobook/releases/tag/v26.11.1"
+      "tag": "v26.11.11",
+      "name": "v26.11.11",
+      "published": "2026-11-15T03:19:05Z",
+      "url": "https://github.com/DrewThomasson/ebook2audiobook/releases/tag/v26.11.11"
     },
     "name": "Ebook2audiobook",
     "repo": "DrewThomasson/ebook2audiobook",
@@ -17637,31 +17649,31 @@
   },
   {
     "release": {
-      "tag": "v26.8.37.168-lts",
-      "name": "Release v26.8.37.168-lts",
-      "published": "2026-11-14T09:24:48Z",
-      "url": "https://github.com/ClickHouse/ClickHouse/releases/tag/v26.8.37.168-lts"
+      "tag": "v26.9.28.166-stable",
+      "name": "Release v26.9.28.166-stable",
+      "published": "2026-11-14T13:24:48Z",
+      "url": "https://github.com/ClickHouse/ClickHouse/releases/tag/v26.9.28.166-stable"
     },
     "best_assets": [
       {
-        "name": "clickhouse-client_26.8.37.168_amd64.deb",
-        "size": 312828,
-        "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.8.37.168-lts/clickhouse-client_26.8.37.168_amd64.deb"
+        "name": "clickhouse-client_26.9.28.166_amd64.deb",
+        "size": 428696,
+        "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.9.28.166-stable/clickhouse-client_26.9.28.166_amd64.deb"
       },
       {
-        "name": "clickhouse-client_26.8.37.168_arm64.deb",
-        "size": 312830,
-        "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.8.37.168-lts/clickhouse-client_26.8.37.168_arm64.deb"
+        "name": "clickhouse-client_26.9.28.166_arm64.deb",
+        "size": 428696,
+        "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.9.28.166-stable/clickhouse-client_26.9.28.166_arm64.deb"
       },
       {
-        "name": "clickhouse-client-26.8.37.168-arm64.tgz",
-        "size": 302432,
-        "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.8.37.168-lts/clickhouse-client-26.8.37.168-arm64.tgz"
+        "name": "clickhouse-client-26.9.28.166-arm64.tgz",
+        "size": 413744,
+        "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.9.28.166-stable/clickhouse-client-26.9.28.166-arm64.tgz"
       },
       {
-        "name": "clickhouse-client-26.8.37.168-amd64.tgz",
-        "size": 302434,
-        "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.8.37.168-lts/clickhouse-client-26.8.37.168-amd64.tgz"
+        "name": "clickhouse-client-26.9.28.166-amd64.tgz",
+        "size": 413746,
+        "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.9.28.166-stable/clickhouse-client-26.9.28.166-amd64.tgz"
       }
     ],
     "name": "ClickHouse",
@@ -19095,10 +19107,10 @@
   },
   {
     "release": {
-      "tag": "@appium/opencv@5.0.2",
-      "name": "@appium/opencv@5.0.2",
-      "published": "2026-10-27T06:50:27Z",
-      "url": "https://github.com/appium/appium/releases/tag/%40appium/opencv%405.0.2"
+      "tag": "@appium/execute-driver-plugin@7.0.3",
+      "name": "@appium/execute-driver-plugin@7.0.3",
+      "published": "2026-11-14T21:46:58Z",
+      "url": "https://github.com/appium/appium/releases/tag/%40appium/execute-driver-plugin%407.0.3"
     },
     "name": "Appium",
     "repo": "appium/appium",
@@ -21301,11 +21313,23 @@
   },
   {
     "release": {
-      "tag": "v0.9.57",
-      "name": "v0.9.57",
-      "published": "2026-11-14T00:32:31Z",
-      "url": "https://github.com/simstudioai/sim/releases/tag/v0.9.57"
+      "tag": "v0.9.58",
+      "name": "v0.9.58",
+      "published": "2026-11-15T00:43:35Z",
+      "url": "https://github.com/simstudioai/sim/releases/tag/v0.9.58"
     },
+    "best_assets": [
+      {
+        "name": "Sim-0.9.58-universal.dmg",
+        "size": 239674869,
+        "url": "https://github.com/simstudioai/sim/releases/download/v0.9.58/Sim-0.9.58-universal.dmg"
+      },
+      {
+        "name": "Sim-0.9.58-universal.zip",
+        "size": 230522599,
+        "url": "https://github.com/simstudioai/sim/releases/download/v0.9.58/Sim-0.9.58-universal.zip"
+      }
+    ],
     "name": "Sim",
     "repo": "simstudioai/sim",
     "category": "企业服务",
@@ -21459,10 +21483,10 @@
   },
   {
     "release": {
-      "tag": "v1.0.57",
-      "name": "Release v1.0.57",
-      "published": "2026-11-06T21:29:53Z",
-      "url": "https://github.com/Skyvern-AI/skyvern/releases/tag/v1.0.57"
+      "tag": "v1.0.58",
+      "name": "Release v1.0.58",
+      "published": "2026-11-15T00:06:21Z",
+      "url": "https://github.com/Skyvern-AI/skyvern/releases/tag/v1.0.58"
     },
     "name": "Skyvern",
     "repo": "Skyvern-AI/skyvern",
@@ -21857,10 +21881,10 @@
   },
   {
     "release": {
-      "tag": "v1.2.0",
-      "name": "v1.2.0",
-      "published": "2026-10-30T21:49:01Z",
-      "url": "https://github.com/Gsync/jobsync/releases/tag/v1.2.0"
+      "tag": "v1.2.1",
+      "name": "v1.2.1",
+      "published": "2026-11-14T17:15:57Z",
+      "url": "https://github.com/Gsync/jobsync/releases/tag/v1.2.1"
     },
     "name": "Jobsync",
     "repo": "Gsync/jobsync",
@@ -21888,10 +21912,10 @@
   },
   {
     "release": {
-      "tag": "deploy-20261114-1123",
-      "name": "Deploy 2026-11-14 11:23 UTC",
-      "published": "2026-11-14T11:23:50Z",
-      "url": "https://github.com/strelov1/freehire/releases/tag/deploy-20261114-1123"
+      "tag": "deploy-20261115-0457",
+      "name": "Deploy 2026-11-15 04:57 UTC",
+      "published": "2026-11-15T04:57:42Z",
+      "url": "https://github.com/strelov1/freehire/releases/tag/deploy-20261115-0457"
     },
     "name": "Freehire",
     "repo": "strelov1/freehire",
@@ -23943,21 +23967,56 @@
   },
   {
     "release": {
-      "tag": "v13.7.0",
-      "name": "13.7.0",
-      "published": "2026-09-07T19:22:03Z",
-      "url": "https://github.com/MetrolistGroup/Metrolist/releases/tag/v13.7.0"
+      "tag": "v14.0.0",
+      "name": "14.0.0",
+      "published": "2026-11-14T12:21:13Z",
+      "url": "https://github.com/MetrolistGroup/Metrolist/releases/tag/v14.0.0"
     },
     "best_assets": [
       {
-        "name": "Metrolist-izzy.apk",
-        "size": 26868210,
-        "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v13.7.0/Metrolist-izzy.apk"
+        "name": "metrolist-installer-windows-x64-14.0.0.exe",
+        "size": 10581504,
+        "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v14.0.0/metrolist-installer-windows-x64-14.0.0.exe"
+      },
+      {
+        "name": "metrolist-desktop-macos-arm64-14.0.0.dmg",
+        "size": 118851871,
+        "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v14.0.0/metrolist-desktop-macos-arm64-14.0.0.dmg"
+      },
+      {
+        "name": "metrolist-desktop-macos-x64-14.0.0.dmg",
+        "size": 125005583,
+        "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v14.0.0/metrolist-desktop-macos-x64-14.0.0.dmg"
+      },
+      {
+        "name": "Metrolist-Desktop-windows.zip",
+        "size": 196406623,
+        "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v14.0.0/Metrolist-Desktop-windows.zip"
+      },
+      {
+        "name": "metrolist-desktop-linux-arm64-14.0.0.AppImage",
+        "size": 164059656,
+        "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v14.0.0/metrolist-desktop-linux-arm64-14.0.0.AppImage"
+      },
+      {
+        "name": "metrolist-desktop-linux-x64-14.0.0.AppImage",
+        "size": 165464568,
+        "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v14.0.0/metrolist-desktop-linux-x64-14.0.0.AppImage"
+      },
+      {
+        "name": "Metrolist.ipa",
+        "size": 53256709,
+        "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v14.0.0/Metrolist.ipa"
+      },
+      {
+        "name": "Metrolist-with-Google-Cast.apk",
+        "size": 14530892,
+        "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v14.0.0/Metrolist-with-Google-Cast.apk"
       },
       {
         "name": "Metrolist.apk",
-        "size": 26872306,
-        "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v13.7.0/Metrolist.apk"
+        "size": 14530892,
+        "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v14.0.0/Metrolist.apk"
       }
     ],
     "name": "Metrolist",
@@ -24865,10 +24924,10 @@
   },
   {
     "release": {
-      "tag": "v2026.11.14-8647.60b1d2d",
-      "name": "v2026.11.14-8647.60b1d2d",
-      "published": "2026-11-14T10:30:39Z",
-      "url": "https://github.com/DIYgod/RSSHub/releases/tag/v2026.11.14-8647.60b1d2d"
+      "tag": "v2026.11.15-8655.2340a03",
+      "name": "v2026.11.15-8655.2340a03",
+      "published": "2026-11-15T05:01:10Z",
+      "url": "https://github.com/DIYgod/RSSHub/releases/tag/v2026.11.15-8655.2340a03"
     },
     "name": "RSSHub",
     "repo": "DIYgod/RSSHub",
@@ -27019,21 +27078,21 @@
   },
   {
     "release": {
-      "tag": "v1.4.4",
-      "name": "v1.4.4: a fresh look, Modules and Google Play",
-      "published": "2026-11-03T10:51:39Z",
-      "url": "https://github.com/DuarteSantos8/openGym/releases/tag/v1.4.4"
+      "tag": "v1.4.5",
+      "name": "openGym 1.4.5",
+      "published": "2026-11-14T18:17:45Z",
+      "url": "https://github.com/DuarteSantos8/openGym/releases/tag/v1.4.5"
     },
     "best_assets": [
       {
-        "name": "openGym-1.4.4.apk",
-        "size": 316742385,
-        "url": "https://github.com/DuarteSantos8/openGym/releases/download/v1.4.4/openGym-1.4.4.apk"
+        "name": "openGym-Wear-1.4.5.apk",
+        "size": 31792516,
+        "url": "https://github.com/DuarteSantos8/openGym/releases/download/v1.4.5/openGym-Wear-1.4.5.apk"
       },
       {
-        "name": "openGym-Plus-1.4.4.apk",
-        "size": 426048241,
-        "url": "https://github.com/DuarteSantos8/openGym/releases/download/v1.4.4/openGym-Plus-1.4.4.apk"
+        "name": "openGym-FDroid-1.4.5.apk",
+        "size": 216670600,
+        "url": "https://github.com/DuarteSantos8/openGym/releases/download/v1.4.5/openGym-FDroid-1.4.5.apk"
       }
     ],
     "name": "OpenGym",
@@ -27428,10 +27487,10 @@
   },
   {
     "release": {
-      "tag": "v3.0.33",
-      "name": "v3.0.33",
-      "published": "2026-11-06T20:06:10Z",
-      "url": "https://github.com/kuberhealthy/kuberhealthy/releases/tag/v3.0.33"
+      "tag": "v3.1.0",
+      "name": "v3.1.0",
+      "published": "2026-11-15T03:40:43Z",
+      "url": "https://github.com/kuberhealthy/kuberhealthy/releases/tag/v3.1.0"
     },
     "name": "Kuberhealthy",
     "repo": "kuberhealthy/kuberhealthy",
@@ -29478,10 +29537,10 @@
   },
   {
     "release": {
-      "tag": "v0.25.45",
-      "name": "v0.25.45",
-      "published": "2026-10-23T08:25:30Z",
-      "url": "https://github.com/bigcapitalhq/bigcapital/releases/tag/v0.25.45"
+      "tag": "v0.25.46",
+      "name": "v0.25.46",
+      "published": "2026-11-14T19:45:17Z",
+      "url": "https://github.com/bigcapitalhq/bigcapital/releases/tag/v0.25.46"
     },
     "name": "Bigcapital",
     "repo": "bigcapitalhq/bigcapital",
@@ -29893,21 +29952,21 @@
   },
   {
     "release": {
-      "tag": "v1.12.14",
-      "name": "v1.12.14",
-      "published": "2026-11-14T11:44:08Z",
-      "url": "https://github.com/skfolio/skfolio/releases/tag/v1.12.14"
+      "tag": "v1.12.16",
+      "name": "v1.12.16",
+      "published": "2026-11-14T18:12:52Z",
+      "url": "https://github.com/skfolio/skfolio/releases/tag/v1.12.16"
     },
     "best_assets": [
       {
-        "name": "skfolio-1.12.14.tar.gz",
-        "size": 1261049,
-        "url": "https://github.com/skfolio/skfolio/releases/download/v1.12.14/skfolio-1.12.14.tar.gz"
+        "name": "skfolio-1.12.16.tar.gz",
+        "size": 1260948,
+        "url": "https://github.com/skfolio/skfolio/releases/download/v1.12.16/skfolio-1.12.16.tar.gz"
       },
       {
-        "name": "skfolio-1.12.14-py3-none-any.whl",
-        "size": 1479044,
-        "url": "https://github.com/skfolio/skfolio/releases/download/v1.12.14/skfolio-1.12.14-py3-none-any.whl"
+        "name": "skfolio-1.12.16-py3-none-any.whl",
+        "size": 1479145,
+        "url": "https://github.com/skfolio/skfolio/releases/download/v1.12.16/skfolio-1.12.16-py3-none-any.whl"
       }
     ],
     "name": "Skfolio",
@@ -30530,21 +30589,21 @@
   },
   {
     "release": {
-      "tag": "v2.20.5",
-      "name": "Part-DB 2.20.5",
-      "published": "2026-11-06T23:45:01Z",
-      "url": "https://github.com/Part-DB/Part-DB-server/releases/tag/v2.20.5"
+      "tag": "v2.20.6",
+      "name": "Part-DB 2.20.6",
+      "published": "2026-11-14T23:08:41Z",
+      "url": "https://github.com/Part-DB/Part-DB-server/releases/tag/v2.20.6"
     },
     "best_assets": [
       {
         "name": "partdb_assets.zip",
-        "size": 74692281,
-        "url": "https://github.com/Part-DB/Part-DB-server/releases/download/v2.20.5/partdb_assets.zip"
+        "size": 76260515,
+        "url": "https://github.com/Part-DB/Part-DB-server/releases/download/v2.20.6/partdb_assets.zip"
       },
       {
         "name": "partdb_with_assets.zip",
-        "size": 123111807,
-        "url": "https://github.com/Part-DB/Part-DB-server/releases/download/v2.20.5/partdb_with_assets.zip"
+        "size": 124694957,
+        "url": "https://github.com/Part-DB/Part-DB-server/releases/download/v2.20.6/partdb_with_assets.zip"
       }
     ],
     "name": "Part-DB-server",
@@ -32373,21 +32432,21 @@
   },
   {
     "release": {
-      "tag": "v1.874.0",
-      "name": "v1.874.0",
-      "published": "2026-11-14T07:20:30Z",
-      "url": "https://github.com/windmill-labs/windmill/releases/tag/v1.874.0"
+      "tag": "v1.875.0",
+      "name": "v1.875.0",
+      "published": "2026-11-14T15:22:27Z",
+      "url": "https://github.com/windmill-labs/windmill/releases/tag/v1.875.0"
     },
     "best_assets": [
       {
         "name": "windmill_duckdb_runner.exe",
         "size": 40572416,
-        "url": "https://github.com/windmill-labs/windmill/releases/download/v1.874.0/windmill_duckdb_runner.exe"
+        "url": "https://github.com/windmill-labs/windmill/releases/download/v1.875.0/windmill_duckdb_runner.exe"
       },
       {
         "name": "windmill_duckdb_runner",
         "size": 65834368,
-        "url": "https://github.com/windmill-labs/windmill/releases/download/v1.874.0/windmill_duckdb_runner"
+        "url": "https://github.com/windmill-labs/windmill/releases/download/v1.875.0/windmill_duckdb_runner"
       }
     ],
     "name": "Windmill",
@@ -35425,16 +35484,16 @@
   },
   {
     "release": {
-      "tag": "3.259.1",
-      "name": "3.259.1",
-      "published": "2026-11-13T21:11:28Z",
-      "url": "https://github.com/lightdash/lightdash/releases/tag/3.259.1"
+      "tag": "3.260.0",
+      "name": "3.260.0",
+      "published": "2026-11-14T21:36:14Z",
+      "url": "https://github.com/lightdash/lightdash/releases/tag/3.260.0"
     },
     "best_assets": [
       {
-        "name": "lightdash-cli-3.259.1-linux-x64.tar.gz",
-        "size": 54605432,
-        "url": "https://github.com/lightdash/lightdash/releases/download/3.259.1/lightdash-cli-3.259.1-linux-x64.tar.gz"
+        "name": "lightdash-cli-3.260.0-linux-x64.tar.gz",
+        "size": 54609206,
+        "url": "https://github.com/lightdash/lightdash/releases/download/3.260.0/lightdash-cli-3.260.0-linux-x64.tar.gz"
       }
     ],
     "name": "Lightdash",
@@ -35567,31 +35626,36 @@
   },
   {
     "release": {
-      "tag": "v0.1.12",
-      "name": "v0.1.12",
-      "published": "2026-11-01T15:46:51Z",
-      "url": "https://github.com/stumpapp/stump/releases/tag/v0.1.12"
+      "tag": "v0.1.13",
+      "name": "v0.1.13",
+      "published": "2026-11-14T22:57:07Z",
+      "url": "https://github.com/stumpapp/stump/releases/tag/v0.1.13"
     },
     "best_assets": [
       {
         "name": "windows-build-results.zip",
-        "size": 39560101,
-        "url": "https://github.com/stumpapp/stump/releases/download/v0.1.12/windows-build-results.zip"
+        "size": 39708468,
+        "url": "https://github.com/stumpapp/stump/releases/download/v0.1.13/windows-build-results.zip"
       },
       {
         "name": "macos-arm-build-results.zip",
-        "size": 40206575,
-        "url": "https://github.com/stumpapp/stump/releases/download/v0.1.12/macos-arm-build-results.zip"
+        "size": 40358219,
+        "url": "https://github.com/stumpapp/stump/releases/download/v0.1.13/macos-arm-build-results.zip"
       },
       {
         "name": "macos-intel-build-results.zip",
-        "size": 41685530,
-        "url": "https://github.com/stumpapp/stump/releases/download/v0.1.12/macos-intel-build-results.zip"
+        "size": 41830359,
+        "url": "https://github.com/stumpapp/stump/releases/download/v0.1.13/macos-intel-build-results.zip"
+      },
+      {
+        "name": "linux-arm-build-results.zip",
+        "size": 42002967,
+        "url": "https://github.com/stumpapp/stump/releases/download/v0.1.13/linux-arm-build-results.zip"
       },
       {
         "name": "linux-build-results.zip",
-        "size": 42334685,
-        "url": "https://github.com/stumpapp/stump/releases/download/v0.1.12/linux-build-results.zip"
+        "size": 42495099,
+        "url": "https://github.com/stumpapp/stump/releases/download/v0.1.13/linux-build-results.zip"
       }
     ],
     "name": "Stump",
@@ -38999,10 +39063,10 @@
   },
   {
     "release": {
-      "tag": "3.99.0",
-      "name": "3.99.0",
-      "published": "2026-11-07T20:30:52Z",
-      "url": "https://github.com/ghostfolio/ghostfolio/releases/tag/3.99.0"
+      "tag": "3.100.0",
+      "name": "3.100.0",
+      "published": "2026-11-15T03:42:16Z",
+      "url": "https://github.com/ghostfolio/ghostfolio/releases/tag/3.100.0"
     },
     "name": "Ghostfolio",
     "repo": "ghostfolio/ghostfolio",
@@ -39481,51 +39545,51 @@
   },
   {
     "release": {
-      "tag": "v13.11",
-      "name": "v13.11",
-      "published": "2026-11-13T18:15:46Z",
-      "url": "https://github.com/wekan/wekan/releases/tag/v13.11"
+      "tag": "v13.13",
+      "name": "v13.13",
+      "published": "2026-11-15T01:41:02Z",
+      "url": "https://github.com/wekan/wekan/releases/tag/v13.13"
     },
     "best_assets": [
       {
-        "name": "wekan-13.11-win32.zip",
-        "size": 240290116,
-        "url": "https://github.com/wekan/wekan/releases/download/v13.11/wekan-13.11-win32.zip"
+        "name": "wekan-13.13-win32.zip",
+        "size": 240093463,
+        "url": "https://github.com/wekan/wekan/releases/download/v13.13/wekan-13.13-win32.zip"
       },
       {
-        "name": "wekan-13.11-win-arm64.zip",
-        "size": 247241189,
-        "url": "https://github.com/wekan/wekan/releases/download/v13.11/wekan-13.11-win-arm64.zip"
+        "name": "wekan-13.13-win-arm64.zip",
+        "size": 247069606,
+        "url": "https://github.com/wekan/wekan/releases/download/v13.13/wekan-13.13-win-arm64.zip"
       },
       {
-        "name": "wekan-13.11-mac-x64.zip",
-        "size": 259642609,
-        "url": "https://github.com/wekan/wekan/releases/download/v13.11/wekan-13.11-mac-x64.zip"
+        "name": "wekan-13.13-mac-x64.zip",
+        "size": 259350916,
+        "url": "https://github.com/wekan/wekan/releases/download/v13.13/wekan-13.13-mac-x64.zip"
       },
       {
-        "name": "wekan-13.11-mac-arm64.zip",
-        "size": 260654164,
-        "url": "https://github.com/wekan/wekan/releases/download/v13.11/wekan-13.11-mac-arm64.zip"
+        "name": "wekan-13.13-mac-arm64.zip",
+        "size": 260365752,
+        "url": "https://github.com/wekan/wekan/releases/download/v13.13/wekan-13.13-mac-arm64.zip"
       },
       {
-        "name": "wekan-13.11-linux-x64-musl.zip",
-        "size": 274949950,
-        "url": "https://github.com/wekan/wekan/releases/download/v13.11/wekan-13.11-linux-x64-musl.zip"
+        "name": "WeKan-13.13-x86_64-musl.AppImage",
+        "size": 226118136,
+        "url": "https://github.com/wekan/wekan/releases/download/v13.13/WeKan-13.13-x86_64-musl.AppImage"
       },
       {
-        "name": "wekan-13.11-linux-arm64-musl.zip",
-        "size": 275951947,
-        "url": "https://github.com/wekan/wekan/releases/download/v13.11/wekan-13.11-linux-arm64-musl.zip"
+        "name": "WeKan-13.13-aarch64-musl.AppImage",
+        "size": 226425352,
+        "url": "https://github.com/wekan/wekan/releases/download/v13.13/WeKan-13.13-aarch64-musl.AppImage"
       },
       {
-        "name": "wekan-13.11-armhf.zip",
-        "size": 238974629,
-        "url": "https://github.com/wekan/wekan/releases/download/v13.11/wekan-13.11-armhf.zip"
+        "name": "wekan-13.13-armv7.zip",
+        "size": 238671252,
+        "url": "https://github.com/wekan/wekan/releases/download/v13.13/wekan-13.13-armv7.zip"
       },
       {
-        "name": "wekan-13.11-armv7.zip",
-        "size": 239009098,
-        "url": "https://github.com/wekan/wekan/releases/download/v13.11/wekan-13.11-armv7.zip"
+        "name": "wekan-13.13-armv6.zip",
+        "size": 239622638,
+        "url": "https://github.com/wekan/wekan/releases/download/v13.13/wekan-13.13-armv6.zip"
       }
     ],
     "name": "Wekan",
@@ -40826,10 +40890,10 @@
   },
   {
     "release": {
-      "tag": "0.162.7",
-      "name": "0.162.7",
-      "published": "2026-11-13T17:46:19Z",
-      "url": "https://github.com/fastapi/fastapi/releases/tag/0.162.7"
+      "tag": "0.163.0",
+      "name": "0.163.0",
+      "published": "2026-11-14T16:53:02Z",
+      "url": "https://github.com/fastapi/fastapi/releases/tag/0.163.0"
     },
     "name": "fastapi",
     "repo": "fastapi/fastapi",
@@ -41532,41 +41596,41 @@
   },
   {
     "release": {
-      "tag": "v18.20.0",
-      "name": "v18.20.0",
-      "published": "2026-11-12T23:40:30Z",
-      "url": "https://github.com/can1357/oh-my-pi/releases/tag/v18.20.0"
+      "tag": "v18.20.2",
+      "name": "v18.20.2",
+      "published": "2026-11-14T20:08:51Z",
+      "url": "https://github.com/can1357/oh-my-pi/releases/tag/v18.20.2"
     },
     "best_assets": [
       {
         "name": "omp-darwin-arm64",
-        "size": 223369360,
-        "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.20.0/omp-darwin-arm64"
+        "size": 224277648,
+        "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.20.2/omp-darwin-arm64"
       },
       {
         "name": "omp-windows-arm64.exe",
-        "size": 234398720,
-        "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.20.0/omp-windows-arm64.exe"
+        "size": 235350016,
+        "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.20.2/omp-windows-arm64.exe"
       },
       {
         "name": "omp-darwin-x64",
-        "size": 235546064,
-        "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.20.0/omp-darwin-x64"
+        "size": 236602832,
+        "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.20.2/omp-darwin-x64"
       },
       {
         "name": "omp-windows-x64.exe",
-        "size": 251502592,
-        "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.20.0/omp-windows-x64.exe"
+        "size": 252504064,
+        "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.20.2/omp-windows-x64.exe"
       },
       {
         "name": "omp-linux-musl-arm64",
-        "size": 236723304,
-        "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.20.0/omp-linux-musl-arm64"
+        "size": 237706344,
+        "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.20.2/omp-linux-musl-arm64"
       },
       {
         "name": "omp-linux-musl-x64",
-        "size": 240022952,
-        "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.20.0/omp-linux-musl-x64"
+        "size": 241055144,
+        "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.20.2/omp-linux-musl-x64"
       }
     ],
     "name": "oh-my-pi",
@@ -42208,16 +42272,16 @@
   },
   {
     "release": {
-      "tag": "golden-6801642eee5c",
-      "name": "Golden image golden-6801642eee5c",
-      "published": "2026-11-13T19:52:02Z",
-      "url": "https://github.com/oss-invisible/dots/releases/tag/golden-6801642eee5c"
+      "tag": "golden-7c43a53f1088",
+      "name": "Golden image golden-7c43a53f1088",
+      "published": "2026-11-14T18:25:12Z",
+      "url": "https://github.com/oss-invisible/dots/releases/tag/golden-7c43a53f1088"
     },
     "best_assets": [
       {
-        "name": "golden-20261113194904-6801642eee5c.qcow2.part00",
-        "size": 775684096,
-        "url": "https://github.com/oss-invisible/dots/releases/download/golden-6801642eee5c/golden-20261113194904-6801642eee5c.qcow2.part00"
+        "name": "golden-20261114181319-7c43a53f1088.qcow2.part00",
+        "size": 776404992,
+        "url": "https://github.com/oss-invisible/dots/releases/download/golden-7c43a53f1088/golden-20261114181319-7c43a53f1088.qcow2.part00"
       }
     ],
     "name": "invisible_dots",
@@ -42275,31 +42339,41 @@
   },
   {
     "release": {
-      "tag": "v0.4.1",
-      "name": "Meetily v0.4.1",
-      "published": "2026-09-12T06:15:42Z",
-      "url": "https://github.com/Zackriya-Solutions/meetily/releases/tag/v0.4.1"
+      "tag": "v0.5.0",
+      "name": "Meetily v0.5.0",
+      "published": "2026-11-14T13:53:36Z",
+      "url": "https://github.com/Zackriya-Solutions/meetily/releases/tag/v0.5.0"
     },
     "best_assets": [
       {
-        "name": "meetily_0.4.1_x64-setup.exe",
-        "size": 42483368,
-        "url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_x64-setup.exe"
+        "name": "meetily_0.5.0_x64-setup.exe",
+        "size": 42600112,
+        "url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_0.5.0_x64-setup.exe"
       },
       {
-        "name": "meetily_0.4.1_aarch64.dmg",
-        "size": 47951342,
-        "url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_aarch64.dmg"
+        "name": "meetily_0.5.0_aarch64.dmg",
+        "size": 48053942,
+        "url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_0.5.0_aarch64.dmg"
       },
       {
-        "name": "meetily_0.4.1_x64_en-US.msi",
-        "size": 68653056,
-        "url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_x64_en-US.msi"
+        "name": "meetily_0.5.0_x64_en-US.msi",
+        "size": 68816896,
+        "url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_0.5.0_x64_en-US.msi"
+      },
+      {
+        "name": "meetily_0.5.0_amd64.deb",
+        "size": 73859994,
+        "url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_0.5.0_amd64.deb"
+      },
+      {
+        "name": "meetily_0.5.0_amd64.AppImage",
+        "size": 145361400,
+        "url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_0.5.0_amd64.AppImage"
       },
       {
         "name": "meetily_aarch64.app.tar.gz",
-        "size": 49247769,
-        "url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_aarch64.app.tar.gz"
+        "size": 49354531,
+        "url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_aarch64.app.tar.gz"
       }
     ],
     "name": "meetily",
@@ -42487,16 +42561,16 @@
   },
   {
     "release": {
-      "tag": "v2.1.10",
-      "name": "v2.1.10",
-      "published": "2026-11-12T15:38:16Z",
-      "url": "https://github.com/mksglu/context-mode/releases/tag/v2.1.10"
+      "tag": "v2.2.0",
+      "name": "v2.2.0",
+      "published": "2026-11-14T15:54:28Z",
+      "url": "https://github.com/mksglu/context-mode/releases/tag/v2.2.0"
     },
     "best_assets": [
       {
         "name": "context-mode.tar.gz",
-        "size": 1472071,
-        "url": "https://github.com/mksglu/context-mode/releases/download/v2.1.10/context-mode.tar.gz"
+        "size": 1485869,
+        "url": "https://github.com/mksglu/context-mode/releases/download/v2.2.0/context-mode.tar.gz"
       }
     ],
     "name": "context-mode",
@@ -42584,41 +42658,41 @@
   },
   {
     "release": {
-      "tag": "cua-spaces-v0.36.13",
-      "name": "Cua Spaces v0.36.13",
-      "published": "2026-11-14T11:16:59Z",
-      "url": "https://github.com/trycua/cua/releases/tag/cua-spaces-v0.36.13"
+      "tag": "cua-spaces-v0.36.17",
+      "name": "Cua Spaces v0.36.17",
+      "published": "2026-11-15T02:37:57Z",
+      "url": "https://github.com/trycua/cua/releases/tag/cua-spaces-v0.36.17"
     },
     "best_assets": [
       {
-        "name": "Cua-Spaces-Setup-0.36.13-arm64.exe",
-        "size": 195922760,
-        "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.36.13/Cua-Spaces-Setup-0.36.13-arm64.exe"
+        "name": "Cua-Spaces-Setup-0.36.17-arm64.exe",
+        "size": 195929872,
+        "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.36.17/Cua-Spaces-Setup-0.36.17-arm64.exe"
       },
       {
-        "name": "cua-spaces-0.36.13-windows-arm64-setup.exe",
-        "size": 195922760,
-        "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.36.13/cua-spaces-0.36.13-windows-arm64-setup.exe"
+        "name": "cua-spaces-0.36.17-windows-arm64-setup.exe",
+        "size": 195929872,
+        "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.36.17/cua-spaces-0.36.17-windows-arm64-setup.exe"
       },
       {
-        "name": "cua-spaces-0.36.13-darwin-universal.dmg",
-        "size": 328346471,
-        "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.36.13/cua-spaces-0.36.13-darwin-universal.dmg"
+        "name": "cua-spaces-0.36.17-darwin-universal.dmg",
+        "size": 328574455,
+        "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.36.17/cua-spaces-0.36.17-darwin-universal.dmg"
       },
       {
-        "name": "cua-spaces-0.36.13-darwin-universal.pkg",
-        "size": 447734375,
-        "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.36.13/cua-spaces-0.36.13-darwin-universal.pkg"
+        "name": "cua-spaces-0.36.17-darwin-universal.pkg",
+        "size": 447849084,
+        "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.36.17/cua-spaces-0.36.17-darwin-universal.pkg"
       },
       {
-        "name": "cua-spaces-0.36.13-linux-arm64.deb",
-        "size": 208502508,
-        "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.36.13/cua-spaces-0.36.13-linux-arm64.deb"
+        "name": "cua-spaces-0.36.17-linux-arm64.deb",
+        "size": 208682400,
+        "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.36.17/cua-spaces-0.36.17-linux-arm64.deb"
       },
       {
-        "name": "cua-spaces_0.36.13_arm64.deb",
-        "size": 208502508,
-        "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.36.13/cua-spaces_0.36.13_arm64.deb"
+        "name": "cua-spaces_0.36.17_arm64.deb",
+        "size": 208682400,
+        "url": "https://github.com/trycua/cua/releases/download/cua-spaces-v0.36.17/cua-spaces_0.36.17_arm64.deb"
       }
     ],
     "name": "cua",
@@ -45699,61 +45773,41 @@
   },
   {
     "release": {
-      "tag": "v7.1.2",
-      "name": "v7.1.2",
-      "published": "2026-11-07T13:25:47Z",
-      "url": "https://github.com/simplex-chat/simplex-chat/releases/tag/v7.1.2"
+      "tag": "v7.1.3",
+      "name": "v7.1.3",
+      "published": "2026-11-11T13:34:59Z",
+      "url": "https://github.com/simplex-chat/simplex-chat/releases/tag/v7.1.3"
     },
     "best_assets": [
       {
         "name": "simplex-chat-macos-x86-64",
         "size": 92934224,
-        "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.1.2/simplex-chat-macos-x86-64"
+        "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.1.3/simplex-chat-macos-x86-64"
       },
       {
         "name": "simplex-chat-windows-x86-64",
         "size": 155228160,
-        "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.1.2/simplex-chat-windows-x86-64"
+        "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.1.3/simplex-chat-windows-x86-64"
       },
       {
         "name": "simplex-chat-macos-aarch64",
         "size": 192272752,
-        "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.1.2/simplex-chat-macos-aarch64"
+        "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.1.3/simplex-chat-macos-aarch64"
       },
       {
         "name": "simplex-desktop-windows-x86_64.msi",
         "size": 265973760,
-        "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.1.2/simplex-desktop-windows-x86_64.msi"
-      },
-      {
-        "name": "simplex-chat-ubuntu-24_04-x86_64.deb",
-        "size": 14644182,
-        "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.1.2/simplex-chat-ubuntu-24_04-x86_64.deb"
-      },
-      {
-        "name": "simplex-chat-ubuntu-22_04-x86_64.deb",
-        "size": 14685674,
-        "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.1.2/simplex-chat-ubuntu-22_04-x86_64.deb"
+        "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.1.3/simplex-desktop-windows-x86_64.msi"
       },
       {
         "name": "simplex-aarch64.apk",
         "size": 93320704,
-        "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.1.2/simplex-aarch64.apk"
+        "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.1.3/simplex-aarch64.apk"
       },
       {
         "name": "simplex.apk",
         "size": 93320704,
-        "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.1.2/simplex.apk"
-      },
-      {
-        "name": "simplex-chat-ubuntu-24_04-x86_64",
-        "size": 90716000,
-        "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.1.2/simplex-chat-ubuntu-24_04-x86_64"
-      },
-      {
-        "name": "simplex-chat-ubuntu-22_04-x86_64",
-        "size": 90716032,
-        "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.1.2/simplex-chat-ubuntu-22_04-x86_64"
+        "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.1.3/simplex.apk"
       }
     ],
     "name": "simplex-chat",
@@ -46286,21 +46340,21 @@
   },
   {
     "release": {
-      "tag": "v4.11.7",
-      "name": "LangBot v4.11.7",
-      "published": "2026-11-11T11:02:33Z",
-      "url": "https://github.com/langbot-app/LangBot/releases/tag/v4.11.7"
+      "tag": "v4.11.8",
+      "name": "LangBot v4.11.8",
+      "published": "2026-11-15T01:51:24Z",
+      "url": "https://github.com/langbot-app/LangBot/releases/tag/v4.11.8"
     },
     "best_assets": [
       {
-        "name": "langbot-4.11.7-fnos.fpk",
-        "size": 49211298,
-        "url": "https://github.com/langbot-app/LangBot/releases/download/v4.11.7/langbot-4.11.7-fnos.fpk"
+        "name": "langbot-4.11.8-fnos.fpk",
+        "size": 51428722,
+        "url": "https://github.com/langbot-app/LangBot/releases/download/v4.11.8/langbot-4.11.8-fnos.fpk"
       },
       {
-        "name": "langbot-v4.11.7-all.zip",
-        "size": 74330207,
-        "url": "https://github.com/langbot-app/LangBot/releases/download/v4.11.7/langbot-v4.11.7-all.zip"
+        "name": "langbot-v4.11.8-all.zip",
+        "size": 78764007,
+        "url": "https://github.com/langbot-app/LangBot/releases/download/v4.11.8/langbot-v4.11.8-all.zip"
       }
     ],
     "name": "LangBot",
@@ -46978,21 +47032,21 @@
   },
   {
     "release": {
-      "tag": "3.4.17",
-      "name": "DOMPurify 3.4.17",
-      "published": "2026-10-12T12:37:20Z",
-      "url": "https://github.com/cure53/DOMPurify/releases/tag/3.4.17"
+      "tag": "3.4.18",
+      "name": "DOMPurify 3.4.18",
+      "published": "2026-11-14T14:14:57Z",
+      "url": "https://github.com/cure53/DOMPurify/releases/tag/3.4.18"
     },
     "best_assets": [
       {
-        "name": "3.4.17.tar.gz",
-        "size": 477916,
-        "url": "https://github.com/cure53/DOMPurify/releases/download/3.4.17/3.4.17.tar.gz"
+        "name": "3.4.18.tar.gz",
+        "size": 467275,
+        "url": "https://github.com/cure53/DOMPurify/releases/download/3.4.18/3.4.18.tar.gz"
       },
       {
-        "name": "3.4.17.zip",
-        "size": 521891,
-        "url": "https://github.com/cure53/DOMPurify/releases/download/3.4.17/3.4.17.zip"
+        "name": "3.4.18.zip",
+        "size": 511259,
+        "url": "https://github.com/cure53/DOMPurify/releases/download/3.4.18/3.4.18.zip"
       }
     ],
     "name": "DOMPurify",
@@ -50590,41 +50644,41 @@
   },
   {
     "release": {
-      "tag": "24.10",
-      "name": "24.10",
-      "published": "2026-10-29T10:55:48Z",
-      "url": "https://github.com/xpipe-io/xpipe/releases/tag/24.10"
+      "tag": "24.11",
+      "name": "24.11",
+      "published": "2026-11-14T21:22:40Z",
+      "url": "https://github.com/xpipe-io/xpipe/releases/tag/24.11"
     },
     "best_assets": [
       {
         "name": "xpipe-installer-windows-arm64.msi",
-        "size": 105938944,
-        "url": "https://github.com/xpipe-io/xpipe/releases/download/24.10/xpipe-installer-windows-arm64.msi"
+        "size": 105947136,
+        "url": "https://github.com/xpipe-io/xpipe/releases/download/24.11/xpipe-installer-windows-arm64.msi"
       },
       {
         "name": "xpipe-portable-windows-arm64.zip",
-        "size": 126677677,
-        "url": "https://github.com/xpipe-io/xpipe/releases/download/24.10/xpipe-portable-windows-arm64.zip"
+        "size": 126744092,
+        "url": "https://github.com/xpipe-io/xpipe/releases/download/24.11/xpipe-portable-windows-arm64.zip"
       },
       {
         "name": "xpipe-portable-macos-x86_64.dmg",
-        "size": 130221508,
-        "url": "https://github.com/xpipe-io/xpipe/releases/download/24.10/xpipe-portable-macos-x86_64.dmg"
+        "size": 130217951,
+        "url": "https://github.com/xpipe-io/xpipe/releases/download/24.11/xpipe-portable-macos-x86_64.dmg"
       },
       {
         "name": "xpipe-installer-macos-x86_64.pkg",
-        "size": 130460520,
-        "url": "https://github.com/xpipe-io/xpipe/releases/download/24.10/xpipe-installer-macos-x86_64.pkg"
+        "size": 130464516,
+        "url": "https://github.com/xpipe-io/xpipe/releases/download/24.11/xpipe-installer-macos-x86_64.pkg"
       },
       {
         "name": "xpipe-portable-linux-arm64.AppImage",
-        "size": 143968776,
-        "url": "https://github.com/xpipe-io/xpipe/releases/download/24.10/xpipe-portable-linux-arm64.AppImage"
+        "size": 143944200,
+        "url": "https://github.com/xpipe-io/xpipe/releases/download/24.11/xpipe-portable-linux-arm64.AppImage"
       },
       {
         "name": "xpipe-portable-linux-x86_64.AppImage",
-        "size": 146229752,
-        "url": "https://github.com/xpipe-io/xpipe/releases/download/24.10/xpipe-portable-linux-x86_64.AppImage"
+        "size": 146237944,
+        "url": "https://github.com/xpipe-io/xpipe/releases/download/24.11/xpipe-portable-linux-x86_64.AppImage"
       }
     ],
     "name": "xpipe",
@@ -53261,16 +53315,16 @@
   },
   {
     "release": {
-      "tag": "motion-showreel-v0.2.0",
-      "name": "motion-showreel v0.2.0",
-      "published": "2026-11-08T14:13:01Z",
-      "url": "https://github.com/ConardLi/garden-skills/releases/tag/motion-showreel-v0.2.0"
+      "tag": "web-video-presentation-v1.2.3",
+      "name": "web-video-presentation v1.2.3",
+      "published": "2026-11-14T14:48:04Z",
+      "url": "https://github.com/ConardLi/garden-skills/releases/tag/web-video-presentation-v1.2.3"
     },
     "best_assets": [
       {
-        "name": "motion-showreel-0.2.0.zip",
-        "size": 495005,
-        "url": "https://github.com/ConardLi/garden-skills/releases/download/motion-showreel-v0.2.0/motion-showreel-0.2.0.zip"
+        "name": "web-video-presentation-1.2.3.zip",
+        "size": 165258,
+        "url": "https://github.com/ConardLi/garden-skills/releases/download/web-video-presentation-v1.2.3/web-video-presentation-1.2.3.zip"
       }
     ],
     "name": "garden-skills",
@@ -55220,10 +55274,10 @@
   },
   {
     "release": {
-      "tag": "v2.30.4",
-      "name": "v2.30.4",
-      "published": "2026-11-12T10:45:22Z",
-      "url": "https://github.com/dbcli/mycli/releases/tag/v2.30.4"
+      "tag": "v2.31.0",
+      "name": "v2.31.0",
+      "published": "2026-11-14T15:37:20Z",
+      "url": "https://github.com/dbcli/mycli/releases/tag/v2.31.0"
     },
     "name": "mycli",
     "repo": "dbcli/mycli",
@@ -57057,10 +57111,10 @@
   },
   {
     "release": {
-      "tag": "v11.0.0",
-      "name": "v11.0.0",
-      "published": "2026-09-10T16:44:23Z",
-      "url": "https://github.com/wojtekmaj/react-pdf/releases/tag/v11.0.0"
+      "tag": "v11.1.0",
+      "name": "v11.1.0",
+      "published": "2026-11-14T23:11:14Z",
+      "url": "https://github.com/wojtekmaj/react-pdf/releases/tag/v11.1.0"
     },
     "name": "react-pdf",
     "repo": "wojtekmaj/react-pdf",
@@ -57461,41 +57515,41 @@
   },
   {
     "release": {
-      "tag": "desktop-v0.3.16",
-      "name": "Robin Desktop v0.3.16",
-      "published": "2026-11-09T00:12:34Z",
-      "url": "https://github.com/langchain-ai/open-swe/releases/tag/desktop-v0.3.16"
+      "tag": "desktop-v0.3.17",
+      "name": "Robin Desktop v0.3.17",
+      "published": "2026-11-15T00:07:01Z",
+      "url": "https://github.com/langchain-ai/open-swe/releases/tag/desktop-v0.3.17"
     },
     "best_assets": [
       {
         "name": "oswe-darwin-arm64.tar.gz",
-        "size": 25413342,
-        "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.16/oswe-darwin-arm64.tar.gz"
+        "size": 25413343,
+        "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.17/oswe-darwin-arm64.tar.gz"
       },
       {
         "name": "oswe-darwin-x64.tar.gz",
-        "size": 28477210,
-        "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.16/oswe-darwin-x64.tar.gz"
+        "size": 28477239,
+        "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.17/oswe-darwin-x64.tar.gz"
       },
       {
         "name": "oswe-linux-arm64.tar.gz",
         "size": 36641732,
-        "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.16/oswe-linux-arm64.tar.gz"
+        "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.17/oswe-linux-arm64.tar.gz"
       },
       {
         "name": "oswe-linux-x64.tar.gz",
-        "size": 36686011,
-        "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.16/oswe-linux-x64.tar.gz"
+        "size": 36686012,
+        "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.17/oswe-linux-x64.tar.gz"
       },
       {
-        "name": "Open-SWE-0.3.16-arm64-mac.zip",
-        "size": 179444172,
-        "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.16/Open-SWE-0.3.16-arm64-mac.zip"
+        "name": "Open-SWE-0.3.17-arm64-mac.zip",
+        "size": 180897319,
+        "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.17/Open-SWE-0.3.17-arm64-mac.zip"
       },
       {
-        "name": "Robin-0.3.16-arm64-mac.zip",
-        "size": 179444172,
-        "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.16/Robin-0.3.16-arm64-mac.zip"
+        "name": "Robin-0.3.17-arm64-mac.zip",
+        "size": 180897319,
+        "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.17/Robin-0.3.17-arm64-mac.zip"
       }
     ],
     "name": "open-swe",
@@ -59630,46 +59684,46 @@
   },
   {
     "release": {
-      "tag": "v4.5.3",
-      "name": "v4.5.3",
-      "published": "2026-11-14T03:45:27Z",
-      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/tag/v4.5.3"
+      "tag": "v4.5.4",
+      "name": "v4.5.4",
+      "published": "2026-11-14T15:22:53Z",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/tag/v4.5.4"
     },
     "best_assets": [
       {
-        "name": "patch-Windows-x86_64-4.5.2-to-4.5.3.hdiff",
-        "size": 9592301,
-        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.3/patch-Windows-x86_64-4.5.2-to-4.5.3.hdiff"
+        "name": "patch-Windows-x86_64-4.5.2-to-4.5.4.hdiff",
+        "size": 9579188,
+        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.4/patch-Windows-x86_64-4.5.2-to-4.5.4.hdiff"
       },
       {
-        "name": "patch-macOS-arm64-4.5.2-to-4.5.3.hdiff",
-        "size": 9763477,
-        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.3/patch-macOS-arm64-4.5.2-to-4.5.3.hdiff"
+        "name": "patch-macOS-arm64-4.5.2-to-4.5.4.hdiff",
+        "size": 9590575,
+        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.4/patch-macOS-arm64-4.5.2-to-4.5.4.hdiff"
       },
       {
-        "name": "patch-macOS-x86_64-4.5.2-to-4.5.3.hdiff",
-        "size": 10012823,
-        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.3/patch-macOS-x86_64-4.5.2-to-4.5.3.hdiff"
+        "name": "patch-Windows-arm64-4.5.2-to-4.5.4.hdiff",
+        "size": 9818759,
+        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.4/patch-Windows-arm64-4.5.2-to-4.5.4.hdiff"
       },
       {
-        "name": "patch-Windows-arm64-4.5.2-to-4.5.3.hdiff",
-        "size": 18951986,
-        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.3/patch-Windows-arm64-4.5.2-to-4.5.3.hdiff"
+        "name": "patch-macOS-x86_64-4.5.2-to-4.5.4.hdiff",
+        "size": 10066466,
+        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.4/patch-macOS-x86_64-4.5.2-to-4.5.4.hdiff"
       },
       {
-        "name": "Ghost-Downloader-v4.5.3-Linux-arm64.tar.xz",
-        "size": 61405744,
-        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.3/Ghost-Downloader-v4.5.3-Linux-arm64.tar.xz"
+        "name": "Ghost-Downloader-v4.5.4-Linux-arm64.tar.xz",
+        "size": 61403604,
+        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.4/Ghost-Downloader-v4.5.4-Linux-arm64.tar.xz"
       },
       {
-        "name": "Ghost-Downloader-v4.5.3-Linux-x86_64.tar.xz",
-        "size": 66791440,
-        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.3/Ghost-Downloader-v4.5.3-Linux-x86_64.tar.xz"
+        "name": "Ghost-Downloader-v4.5.4-Linux-x86_64.tar.xz",
+        "size": 66780320,
+        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.4/Ghost-Downloader-v4.5.4-Linux-x86_64.tar.xz"
       },
       {
-        "name": "Ghost-Downloader-v4.5.3-Android-arm64-v8a.apk",
-        "size": 46798169,
-        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.3/Ghost-Downloader-v4.5.3-Android-arm64-v8a.apk"
+        "name": "Ghost-Downloader-v4.5.4-Android-arm64-v8a.apk",
+        "size": 46797809,
+        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.5.4/Ghost-Downloader-v4.5.4-Android-arm64-v8a.apk"
       }
     ],
     "name": "Ghost-Downloader-3",
@@ -61601,19 +61655,24 @@
         "url": "https://github.com/xberg-io/xberg/releases/download/v1.4.0/xberg-dart-v1.4.0-windows-x86_64.tar.gz"
       },
       {
-        "name": "xberg-cli-aarch64-apple-darwin.tar.gz",
-        "size": 56397606,
-        "url": "https://github.com/xberg-io/xberg/releases/download/v1.4.0/xberg-cli-aarch64-apple-darwin.tar.gz"
+        "name": "libxberg_nif-v1.4.0-nif-2.16-x86_64-pc-windows-msvc.dll.tar.gz",
+        "size": 58731803,
+        "url": "https://github.com/xberg-io/xberg/releases/download/v1.4.0/libxberg_nif-v1.4.0-nif-2.16-x86_64-pc-windows-msvc.dll.tar.gz"
       },
       {
-        "name": "xberg-cli-binstall-aarch64-unknown-linux-musl.tar.gz",
-        "size": 35835120,
-        "url": "https://github.com/xberg-io/xberg/releases/download/v1.4.0/xberg-cli-binstall-aarch64-unknown-linux-musl.tar.gz"
+        "name": "php_xberg-v1.4.0_php8.3-arm64-darwin-bsdlibc-nts.tgz",
+        "size": 63537821,
+        "url": "https://github.com/xberg-io/xberg/releases/download/v1.4.0/php_xberg-v1.4.0_php8.3-arm64-darwin-bsdlibc-nts.tgz"
       },
       {
-        "name": "xberg-cli-binstall-x86_64-unknown-linux-musl.tar.gz",
-        "size": 40906971,
-        "url": "https://github.com/xberg-io/xberg/releases/download/v1.4.0/xberg-cli-binstall-x86_64-unknown-linux-musl.tar.gz"
+        "name": "xberg-dart-v1.4.0-linux-aarch64.tar.gz",
+        "size": 43157101,
+        "url": "https://github.com/xberg-io/xberg/releases/download/v1.4.0/xberg-dart-v1.4.0-linux-aarch64.tar.gz"
+      },
+      {
+        "name": "xberg-dart-v1.4.0-linux-x86_64.tar.gz",
+        "size": 47268872,
+        "url": "https://github.com/xberg-io/xberg/releases/download/v1.4.0/xberg-dart-v1.4.0-linux-x86_64.tar.gz"
       },
       {
         "name": "v1.4.0-release-notes.md",
@@ -62170,41 +62229,41 @@
   },
   {
     "release": {
-      "tag": "v0.81.0",
-      "name": "0.81.0",
-      "published": "2026-10-20T21:28:34Z",
-      "url": "https://github.com/max-sixty/worktrunk/releases/tag/v0.81.0"
+      "tag": "v0.82.0",
+      "name": "0.82.0",
+      "published": "2026-11-14T21:20:53Z",
+      "url": "https://github.com/max-sixty/worktrunk/releases/tag/v0.82.0"
     },
     "best_assets": [
       {
         "name": "worktrunk-aarch64-apple-darwin.tar.xz",
-        "size": 6571864,
-        "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.81.0/worktrunk-aarch64-apple-darwin.tar.xz"
+        "size": 6702380,
+        "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-aarch64-apple-darwin.tar.xz"
       },
       {
         "name": "worktrunk-x86_64-apple-darwin.tar.xz",
-        "size": 7202152,
-        "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.81.0/worktrunk-x86_64-apple-darwin.tar.xz"
+        "size": 7350672,
+        "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-x86_64-apple-darwin.tar.xz"
       },
       {
         "name": "worktrunk-x86_64-pc-windows-msvc.zip",
-        "size": 17458999,
-        "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.81.0/worktrunk-x86_64-pc-windows-msvc.zip"
+        "size": 17724940,
+        "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-x86_64-pc-windows-msvc.zip"
       },
       {
         "name": "worktrunk-aarch64-unknown-linux-musl.tar.xz",
-        "size": 7351156,
-        "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.81.0/worktrunk-aarch64-unknown-linux-musl.tar.xz"
+        "size": 7503684,
+        "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-aarch64-unknown-linux-musl.tar.xz"
       },
       {
         "name": "worktrunk-x86_64-unknown-linux-musl.tar.xz",
-        "size": 8373068,
-        "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.81.0/worktrunk-x86_64-unknown-linux-musl.tar.xz"
+        "size": 8418872,
+        "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-x86_64-unknown-linux-musl.tar.xz"
       },
       {
         "name": "source.tar.gz",
-        "size": 4099086,
-        "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.81.0/source.tar.gz"
+        "size": 4181990,
+        "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/source.tar.gz"
       }
     ],
     "name": "worktrunk",
@@ -62647,10 +62706,10 @@
   },
   {
     "release": {
-      "tag": "v3.70.0",
-      "name": "Release v3.70.0",
-      "published": "2026-11-13T15:46:52Z",
-      "url": "https://github.com/databasus/databasus/releases/tag/v3.70.0"
+      "tag": "v3.70.1",
+      "name": "Release v3.70.1",
+      "published": "2026-11-14T15:27:47Z",
+      "url": "https://github.com/databasus/databasus/releases/tag/v3.70.1"
     },
     "name": "databasus",
     "repo": "databasus/databasus",
@@ -65994,10 +66053,10 @@
   },
   {
     "release": {
-      "tag": "v1.44.13",
-      "name": "v1.44.13",
-      "published": "2026-11-11T20:51:03Z",
-      "url": "https://github.com/isomorphic-git/isomorphic-git/releases/tag/v1.44.13"
+      "tag": "v1.44.14",
+      "name": "v1.44.14",
+      "published": "2026-11-14T22:50:55Z",
+      "url": "https://github.com/isomorphic-git/isomorphic-git/releases/tag/v1.44.14"
     },
     "name": "isomorphic-git",
     "repo": "isomorphic-git/isomorphic-git",
@@ -66024,41 +66083,41 @@
   },
   {
     "release": {
-      "tag": "v1.8.23",
-      "name": "v1.8.23",
-      "published": "2026-10-29T05:13:59Z",
-      "url": "https://github.com/ComicSparks/pikapika/releases/tag/v1.8.23"
+      "tag": "v1.8.25",
+      "name": "v1.8.25",
+      "published": "2026-11-15T01:59:16Z",
+      "url": "https://github.com/ComicSparks/pikapika/releases/tag/v1.8.25"
     },
     "best_assets": [
       {
-        "name": "pikapika-v1.8.23-windows-x86_64-flutter_2.10.3.zip",
-        "size": 16256743,
-        "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.23/pikapika-v1.8.23-windows-x86_64-flutter_2.10.3.zip"
+        "name": "pikapika-v1.8.25-windows-x86_64-flutter_3.38.4.zip",
+        "size": 19352070,
+        "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.25/pikapika-v1.8.25-windows-x86_64-flutter_3.38.4.zip"
       },
       {
-        "name": "pikapika-v1.8.23-macos-intel-flutter_2.10.3.dmg",
-        "size": 18170596,
-        "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.23/pikapika-v1.8.23-macos-intel-flutter_2.10.3.dmg"
+        "name": "pikapika-v1.8.25-macos-arm64-flutter_3.38.4.dmg",
+        "size": 46582035,
+        "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.25/pikapika-v1.8.25-macos-arm64-flutter_3.38.4.dmg"
       },
       {
-        "name": "pikapika-v1.8.23-linux-x86_64-flutter_2.10.3.AppImage",
-        "size": 24062456,
-        "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.23/pikapika-v1.8.23-linux-x86_64-flutter_2.10.3.AppImage"
+        "name": "pikapika-v1.8.25-linux-x86_64-flutter_3.38.4.AppImage",
+        "size": 21883384,
+        "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.25/pikapika-v1.8.25-linux-x86_64-flutter_3.38.4.AppImage"
       },
       {
-        "name": "pikapika-v1.8.23-ios_nosign-flutter_3.13.9.ipa",
-        "size": 17919180,
-        "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.23/pikapika-v1.8.23-ios_nosign-flutter_3.13.9.ipa"
+        "name": "pikapika-v1.8.25-ios_nosign-flutter_3.38.4.ipa",
+        "size": 19181237,
+        "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.25/pikapika-v1.8.25-ios_nosign-flutter_3.38.4.ipa"
       },
       {
-        "name": "pikapika-v1.8.23-android-arm32-flutter_3.13.9.apk",
-        "size": 22124450,
-        "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.23/pikapika-v1.8.23-android-arm32-flutter_3.13.9.apk"
+        "name": "pikapika-v1.8.25-android-arm32-flutter_3.38.4.apk",
+        "size": 29097016,
+        "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.25/pikapika-v1.8.25-android-arm32-flutter_3.38.4.apk"
       },
       {
-        "name": "pikapika-v1.8.23-android-arm64-flutter_3.13.9.apk",
-        "size": 22562716,
-        "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.23/pikapika-v1.8.23-android-arm64-flutter_3.13.9.apk"
+        "name": "pikapika-v1.8.25-android-arm64-flutter_3.38.4.apk",
+        "size": 34692144,
+        "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.25/pikapika-v1.8.25-android-arm64-flutter_3.38.4.apk"
       }
     ],
     "name": "pikapika",
@@ -68832,41 +68891,41 @@
   },
   {
     "release": {
-      "tag": "1.4.1",
-      "name": "1.4.1",
-      "published": "2026-11-06T23:05:33Z",
-      "url": "https://github.com/throneproj/Throne/releases/tag/1.4.1"
+      "tag": "1.4.2",
+      "name": "1.4.2",
+      "published": "2026-11-14T21:13:49Z",
+      "url": "https://github.com/throneproj/Throne/releases/tag/1.4.2"
     },
     "best_assets": [
       {
-        "name": "Throne-1.4.1-windows32.zip",
-        "size": 46469118,
-        "url": "https://github.com/throneproj/Throne/releases/download/1.4.1/Throne-1.4.1-windows32.zip"
+        "name": "Throne-1.4.2-windows32.zip",
+        "size": 47357805,
+        "url": "https://github.com/throneproj/Throne/releases/download/1.4.2/Throne-1.4.2-windows32.zip"
       },
       {
-        "name": "Throne-1.4.1-windowslegacy64.zip",
-        "size": 49242504,
-        "url": "https://github.com/throneproj/Throne/releases/download/1.4.1/Throne-1.4.1-windowslegacy64.zip"
+        "name": "Throne-1.4.2-windowslegacy64.zip",
+        "size": 50118626,
+        "url": "https://github.com/throneproj/Throne/releases/download/1.4.2/Throne-1.4.2-windowslegacy64.zip"
       },
       {
-        "name": "Throne-1.4.1-macos-arm64.zip",
-        "size": 67630267,
-        "url": "https://github.com/throneproj/Throne/releases/download/1.4.1/Throne-1.4.1-macos-arm64.zip"
+        "name": "Throne-1.4.2-macos-arm64.zip",
+        "size": 68531617,
+        "url": "https://github.com/throneproj/Throne/releases/download/1.4.2/Throne-1.4.2-macos-arm64.zip"
       },
       {
-        "name": "Throne-1.4.1-macoslegacy-amd64.zip",
-        "size": 69709808,
-        "url": "https://github.com/throneproj/Throne/releases/download/1.4.1/Throne-1.4.1-macoslegacy-amd64.zip"
+        "name": "Throne-1.4.2-macoslegacy-amd64.zip",
+        "size": 70692302,
+        "url": "https://github.com/throneproj/Throne/releases/download/1.4.2/Throne-1.4.2-macoslegacy-amd64.zip"
       },
       {
-        "name": "Throne-1.4.1-debian-arm64-system-qt.deb",
-        "size": 35040796,
-        "url": "https://github.com/throneproj/Throne/releases/download/1.4.1/Throne-1.4.1-debian-arm64-system-qt.deb"
+        "name": "Throne-1.4.2-debian-arm64-system-qt.deb",
+        "size": 35727840,
+        "url": "https://github.com/throneproj/Throne/releases/download/1.4.2/Throne-1.4.2-debian-arm64-system-qt.deb"
       },
       {
-        "name": "Throne-1.4.1-fedora-arm64-system-qt.rpm",
-        "size": 38704367,
-        "url": "https://github.com/throneproj/Throne/releases/download/1.4.1/Throne-1.4.1-fedora-arm64-system-qt.rpm"
+        "name": "Throne-1.4.2-fedora-arm64-system-qt.rpm",
+        "size": 39447008,
+        "url": "https://github.com/throneproj/Throne/releases/download/1.4.2/Throne-1.4.2-fedora-arm64-system-qt.rpm"
       }
     ],
     "name": "Throne",
@@ -69819,6 +69878,11 @@
         "name": "eSearch-15.8.0-linux-arm64.deb",
         "size": 139183960,
         "url": "https://github.com/xushengfeng/eSearch/releases/download/15.8.0/eSearch-15.8.0-linux-arm64.deb"
+      },
+      {
+        "name": "eSearch_15.8.0.aur",
+        "size": 99223048,
+        "url": "https://github.com/xushengfeng/eSearch/releases/download/15.8.0/eSearch_15.8.0.aur"
       }
     ],
     "name": "eSearch",
@@ -70294,21 +70358,21 @@
   },
   {
     "release": {
-      "tag": "v0.3.34",
-      "name": "v0.3.34",
-      "published": "2026-11-14T08:13:07Z",
-      "url": "https://github.com/chadyi/StudyOnTV/releases/tag/v0.3.34"
+      "tag": "v0.3.35",
+      "name": "v0.3.35",
+      "published": "2026-11-14T14:35:06Z",
+      "url": "https://github.com/chadyi/StudyOnTV/releases/tag/v0.3.35"
     },
     "best_assets": [
       {
-        "name": "StudyOnTV-Android-TV-v0.3.34.apk",
-        "size": 3394600,
-        "url": "https://github.com/chadyi/StudyOnTV/releases/download/v0.3.34/StudyOnTV-Android-TV-v0.3.34.apk"
+        "name": "StudyOnTV-Android-TV-v0.3.35.apk",
+        "size": 3407174,
+        "url": "https://github.com/chadyi/StudyOnTV/releases/download/v0.3.35/StudyOnTV-Android-TV-v0.3.35.apk"
       },
       {
-        "name": "StudyOnTV-Android-TV-v0.3.34-desktop.apk",
-        "size": 3402353,
-        "url": "https://github.com/chadyi/StudyOnTV/releases/download/v0.3.34/StudyOnTV-Android-TV-v0.3.34-desktop.apk"
+        "name": "StudyOnTV-Mobile-v0.3.35.apk",
+        "size": 3409790,
+        "url": "https://github.com/chadyi/StudyOnTV/releases/download/v0.3.35/StudyOnTV-Mobile-v0.3.35.apk"
       }
     ],
     "name": "题了个题（StudyOnTV）",
@@ -70337,10 +70401,10 @@
   },
   {
     "release": {
-      "tag": "bla-agents-3.3.1",
-      "name": "bla-agents 3.3.1",
-      "published": "2026-11-13T18:28:42Z",
-      "url": "https://github.com/qybaihe/bla/releases/tag/bla-agents-3.3.1"
+      "tag": "bla-agents-3.3.2",
+      "name": "bla-agents 3.3.2",
+      "published": "2026-11-14T18:26:42Z",
+      "url": "https://github.com/qybaihe/bla/releases/tag/bla-agents-3.3.2"
     },
     "name": "BLA（Blind LLM Agents）",
     "repo": "qybaihe/bla",
@@ -70679,26 +70743,26 @@
   },
   {
     "release": {
-      "tag": "v0.3.3",
-      "name": "ApkStart v0.3.3",
-      "published": "2026-11-14T10:10:00Z",
-      "url": "https://github.com/RoutineMiku/apkstart/releases/tag/v0.3.3"
+      "tag": "v0.4.3",
+      "name": "ApkStart v0.4.3",
+      "published": "2026-11-15T03:13:29Z",
+      "url": "https://github.com/RoutineMiku/apkstart/releases/tag/v0.4.3"
     },
     "best_assets": [
       {
-        "name": "ApkStart-v0.3.3-win64-portable.zip",
-        "size": 108200693,
-        "url": "https://github.com/RoutineMiku/apkstart/releases/download/v0.3.3/ApkStart-v0.3.3-win64-portable.zip"
+        "name": "ApkStart-v0.4.3-win64-portable.zip",
+        "size": 99844497,
+        "url": "https://github.com/RoutineMiku/apkstart/releases/download/v0.4.3/ApkStart-v0.4.3-win64-portable.zip"
       },
       {
-        "name": "ApkStart-0.3.3-Setup.exe",
-        "size": 1449413083,
-        "url": "https://github.com/RoutineMiku/apkstart/releases/download/v0.3.3/ApkStart-0.3.3-Setup.exe"
+        "name": "ApkStart-0.4.3-Setup.exe",
+        "size": 1449449799,
+        "url": "https://github.com/RoutineMiku/apkstart/releases/download/v0.4.3/ApkStart-0.4.3-Setup.exe"
       },
       {
-        "name": "ApkStart-runtime-v0.3.3.zip",
-        "size": 1428769403,
-        "url": "https://github.com/RoutineMiku/apkstart/releases/download/v0.3.3/ApkStart-runtime-v0.3.3.zip"
+        "name": "ApkStart-runtime-v0.4.3.zip",
+        "size": 1428769406,
+        "url": "https://github.com/RoutineMiku/apkstart/releases/download/v0.4.3/ApkStart-runtime-v0.4.3.zip"
       }
     ],
     "name": "ApkStart",
@@ -70750,6 +70814,107 @@
     "platform": "github",
     "kind": "client",
     "url": "https://github.com/galaxy-s10/billd-desk",
+    "archived": false,
+    "license_category": "open"
+  },
+  {
+    "release": {
+      "tag": "v1.0.9",
+      "name": "nanoMuse 1.0.9 · Tiller",
+      "published": "2026-10-29T15:07:55Z",
+      "url": "https://github.com/nano-muse/nanoMuse/releases/tag/v1.0.9"
+    },
+    "best_assets": [
+      {
+        "name": "nanoMuse-Desktop-1.0.9-win-x64.exe",
+        "size": 281845515,
+        "url": "https://github.com/nano-muse/nanoMuse/releases/download/v1.0.9/nanoMuse-Desktop-1.0.9-win-x64.exe"
+      },
+      {
+        "name": "nanoMuse-Desktop-1.0.9-mac-arm64.zip",
+        "size": 334073090,
+        "url": "https://github.com/nano-muse/nanoMuse/releases/download/v1.0.9/nanoMuse-Desktop-1.0.9-mac-arm64.zip"
+      },
+      {
+        "name": "nanoMuse-Desktop-1.0.9-mac-x64.zip",
+        "size": 350161070,
+        "url": "https://github.com/nano-muse/nanoMuse/releases/download/v1.0.9/nanoMuse-Desktop-1.0.9-mac-x64.zip"
+      },
+      {
+        "name": "nanoMuse-Desktop-1.0.9-linux-x64.deb",
+        "size": 251776876,
+        "url": "https://github.com/nano-muse/nanoMuse/releases/download/v1.0.9/nanoMuse-Desktop-1.0.9-linux-x64.deb"
+      },
+      {
+        "name": "nanoMuse-Desktop-1.0.9-linux-x64.tar.gz",
+        "size": 302508132,
+        "url": "https://github.com/nano-muse/nanoMuse/releases/download/v1.0.9/nanoMuse-Desktop-1.0.9-linux-x64.tar.gz"
+      },
+      {
+        "name": "nanoMuse-1.0.9-arm64.apk",
+        "size": 39524947,
+        "url": "https://github.com/nano-muse/nanoMuse/releases/download/v1.0.9/nanoMuse-1.0.9-arm64.apk"
+      },
+      {
+        "name": "dsh-nanomuse-1.0.9.tgz",
+        "size": 2766924,
+        "url": "https://github.com/nano-muse/nanoMuse/releases/download/v1.0.9/dsh-nanomuse-1.0.9.tgz"
+      }
+    ],
+    "name": "nanoMuse",
+    "repo": "nano-muse/nanoMuse",
+    "category": "工具",
+    "category_slug": "tool",
+    "subcategory": "智能体",
+    "subcategory_slug": "agent",
+    "tech_stack": [
+      "Swift",
+      "Electron",
+      "MCP"
+    ],
+    "deploy_type": "客户端 / 桌面应用",
+    "note_zh": "跨手机、桌面与浏览器的个人 Agent，有独立名字与形象，关掉应用也能继续执行任务",
+    "license": "GPL-3.0",
+    "added_at": "2026-11-15T13:02:58+08:00",
+    "stars": 3493,
+    "updated_at": "2026-11-13T06:49:04Z",
+    "default_branch": "main",
+    "download_url": "https://codeload.github.com/nano-muse/nanoMuse/zip/refs/heads/main",
+    "platform": "github",
+    "kind": "client",
+    "url": "https://github.com/nano-muse/nanoMuse",
+    "archived": false,
+    "license_category": "open"
+  },
+  {
+    "release": {
+      "tag": "5.4.2",
+      "name": "v5.4.2",
+      "published": "2026-11-13T03:51:14Z",
+      "url": "https://github.com/ocsjs/ocsjs/releases/tag/5.4.2"
+    },
+    "name": "OCS 网课助手",
+    "repo": "ocsjs/ocsjs",
+    "category": "教育",
+    "category_slug": "education",
+    "subcategory": "在线学习",
+    "subcategory_slug": "lms",
+    "tech_stack": [
+      "TypeScript",
+      "油猴脚本",
+      "Electron"
+    ],
+    "deploy_type": "浏览器扩展",
+    "note_zh": "油猴/脚本猫下运行的网课助手脚本，支持超星学习通、智慧树等平台自动刷课",
+    "license": "MIT",
+    "added_at": "2026-11-15T13:06:19+08:00",
+    "stars": 4482,
+    "updated_at": "2026-11-13T03:51:14Z",
+    "default_branch": "5.0",
+    "download_url": "https://codeload.github.com/ocsjs/ocsjs/zip/refs/heads/5.0",
+    "platform": "github",
+    "kind": "app",
+    "url": "https://github.com/ocsjs/ocsjs",
     "archived": false,
     "license_category": "open"
   }

@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/wojtekmaj/react-pdf/zip/refs/heads/main",
   "release": {
-    "tag": "v11.0.0",
-    "name": "v11.0.0",
-    "published": "2026-09-10T16:44:23Z",
-    "url": "https://github.com/wojtekmaj/react-pdf/releases/tag/v11.0.0"
+    "tag": "v11.1.0",
+    "name": "v11.1.0",
+    "published": "2026-11-14T23:11:14Z",
+    "url": "https://github.com/wojtekmaj/react-pdf/releases/tag/v11.1.0"
   },
   "assets": [],
   "pinned": false,

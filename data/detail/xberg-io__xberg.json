@@ -38,19 +38,24 @@
       "url": "https://github.com/xberg-io/xberg/releases/download/v1.4.0/xberg-dart-v1.4.0-windows-x86_64.tar.gz"
     },
     {
-      "name": "xberg-cli-aarch64-apple-darwin.tar.gz",
-      "size": 56397606,
-      "url": "https://github.com/xberg-io/xberg/releases/download/v1.4.0/xberg-cli-aarch64-apple-darwin.tar.gz"
+      "name": "libxberg_nif-v1.4.0-nif-2.16-x86_64-pc-windows-msvc.dll.tar.gz",
+      "size": 58731803,
+      "url": "https://github.com/xberg-io/xberg/releases/download/v1.4.0/libxberg_nif-v1.4.0-nif-2.16-x86_64-pc-windows-msvc.dll.tar.gz"
     },
     {
-      "name": "xberg-cli-binstall-aarch64-unknown-linux-musl.tar.gz",
-      "size": 35835120,
-      "url": "https://github.com/xberg-io/xberg/releases/download/v1.4.0/xberg-cli-binstall-aarch64-unknown-linux-musl.tar.gz"
+      "name": "php_xberg-v1.4.0_php8.3-arm64-darwin-bsdlibc-nts.tgz",
+      "size": 63537821,
+      "url": "https://github.com/xberg-io/xberg/releases/download/v1.4.0/php_xberg-v1.4.0_php8.3-arm64-darwin-bsdlibc-nts.tgz"
     },
     {
-      "name": "xberg-cli-binstall-x86_64-unknown-linux-musl.tar.gz",
-      "size": 40906971,
-      "url": "https://github.com/xberg-io/xberg/releases/download/v1.4.0/xberg-cli-binstall-x86_64-unknown-linux-musl.tar.gz"
+      "name": "xberg-dart-v1.4.0-linux-aarch64.tar.gz",
+      "size": 43157101,
+      "url": "https://github.com/xberg-io/xberg/releases/download/v1.4.0/xberg-dart-v1.4.0-linux-aarch64.tar.gz"
+    },
+    {
+      "name": "xberg-dart-v1.4.0-linux-x86_64.tar.gz",
+      "size": 47268872,
+      "url": "https://github.com/xberg-io/xberg/releases/download/v1.4.0/xberg-dart-v1.4.0-linux-x86_64.tar.gz"
     },
     {
       "name": "v1.4.0-release-notes.md",
@@ -61,11 +66,6 @@
       "name": "php_xberg-v1.4.0-8.3-nts-vs17-x86_64.zip",
       "size": 63583365,
       "url": "https://github.com/xberg-io/xberg/releases/download/v1.4.0/php_xberg-v1.4.0-8.3-nts-vs17-x86_64.zip"
-    },
-    {
-      "name": "php_xberg-v1.4.0-8.5-nts-vs17-x86_64.zip",
-      "size": 63586230,
-      "url": "https://github.com/xberg-io/xberg/releases/download/v1.4.0/php_xberg-v1.4.0-8.5-nts-vs17-x86_64.zip"
     }
   ],
   "pinned": false,

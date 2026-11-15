@@ -1,0 +1,37 @@
+{
+  "repo": "ocsjs/ocsjs",
+  "slug": "ocsjs__ocsjs",
+  "name": "OCS 网课助手",
+  "note_zh": "油猴/脚本猫下运行的网课助手脚本，支持超星学习通、智慧树等平台自动刷课",
+  "category": "教育",
+  "category_slug": "education",
+  "subcategory": "在线学习",
+  "subcategory_slug": "lms",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "油猴脚本",
+    "Electron"
+  ],
+  "deploy_type": "浏览器扩展",
+  "platform": "github",
+  "updated_at": "2026-11-13T03:51:14Z",
+  "added_at": "2026-11-15T13:06:19+08:00",
+  "default_branch": "5.0",
+  "download_url": "https://codeload.github.com/ocsjs/ocsjs/zip/refs/heads/5.0",
+  "release": {
+    "tag": "5.4.2",
+    "name": "v5.4.2",
+    "published": "2026-11-13T03:51:14Z",
+    "url": "https://github.com/ocsjs/ocsjs/releases/tag/5.4.2"
+  },
+  "assets": [],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

@@ -27,7 +27,18 @@
     "published": "2026-11-11T17:53:55Z",
     "url": "https://github.com/twbs/bootstrap/releases/tag/v5.3.9"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "bootstrap-5.3.9-examples.zip",
+      "size": 1390921,
+      "url": "https://github.com/twbs/bootstrap/releases/download/v5.3.9/bootstrap-5.3.9-examples.zip"
+    },
+    {
+      "name": "bootstrap-5.3.9-dist.zip",
+      "size": 1504845,
+      "url": "https://github.com/twbs/bootstrap/releases/download/v5.3.9/bootstrap-5.3.9-dist.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

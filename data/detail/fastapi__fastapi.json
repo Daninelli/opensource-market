@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/fastapi/fastapi/zip/refs/heads/master",
   "release": {
-    "tag": "0.162.7",
-    "name": "0.162.7",
-    "published": "2026-11-13T17:46:19Z",
-    "url": "https://github.com/fastapi/fastapi/releases/tag/0.162.7"
+    "tag": "0.163.0",
+    "name": "0.163.0",
+    "published": "2026-11-14T16:53:02Z",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.163.0"
   },
   "assets": [],
   "pinned": false,

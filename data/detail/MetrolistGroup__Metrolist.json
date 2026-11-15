@@ -22,21 +22,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/MetrolistGroup/Metrolist/zip/refs/heads/main",
   "release": {
-    "tag": "v13.7.0",
-    "name": "13.7.0",
-    "published": "2026-09-07T19:22:03Z",
-    "url": "https://github.com/MetrolistGroup/Metrolist/releases/tag/v13.7.0"
+    "tag": "v14.0.0",
+    "name": "14.0.0",
+    "published": "2026-11-14T12:21:13Z",
+    "url": "https://github.com/MetrolistGroup/Metrolist/releases/tag/v14.0.0"
   },
   "assets": [
     {
-      "name": "Metrolist-izzy.apk",
-      "size": 26868210,
-      "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v13.7.0/Metrolist-izzy.apk"
+      "name": "metrolist-installer-windows-x64-14.0.0.exe",
+      "size": 10581504,
+      "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v14.0.0/metrolist-installer-windows-x64-14.0.0.exe"
     },
     {
-      "name": "Metrolist.apk",
-      "size": 26872306,
-      "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v13.7.0/Metrolist.apk"
+      "name": "metrolist-desktop-macos-arm64-14.0.0.dmg",
+      "size": 118851871,
+      "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v14.0.0/metrolist-desktop-macos-arm64-14.0.0.dmg"
+    },
+    {
+      "name": "metrolist-desktop-macos-x64-14.0.0.dmg",
+      "size": 125005583,
+      "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v14.0.0/metrolist-desktop-macos-x64-14.0.0.dmg"
+    },
+    {
+      "name": "Metrolist-Desktop-windows.zip",
+      "size": 196406623,
+      "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v14.0.0/Metrolist-Desktop-windows.zip"
+    },
+    {
+      "name": "metrolist-desktop-linux-arm64-14.0.0.AppImage",
+      "size": 164059656,
+      "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v14.0.0/metrolist-desktop-linux-arm64-14.0.0.AppImage"
+    },
+    {
+      "name": "metrolist-desktop-linux-x64-14.0.0.AppImage",
+      "size": 165464568,
+      "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v14.0.0/metrolist-desktop-linux-x64-14.0.0.AppImage"
+    },
+    {
+      "name": "Metrolist.ipa",
+      "size": 53256709,
+      "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v14.0.0/Metrolist.ipa"
+    },
+    {
+      "name": "Metrolist-with-Google-Cast.apk",
+      "size": 14530892,
+      "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v14.0.0/Metrolist-with-Google-Cast.apk"
     }
   ],
   "pinned": false,

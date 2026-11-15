@@ -20,16 +20,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ConardLi/garden-skills/zip/refs/heads/main",
   "release": {
-    "tag": "motion-showreel-v0.2.0",
-    "name": "motion-showreel v0.2.0",
-    "published": "2026-11-08T14:13:01Z",
-    "url": "https://github.com/ConardLi/garden-skills/releases/tag/motion-showreel-v0.2.0"
+    "tag": "web-video-presentation-v1.2.3",
+    "name": "web-video-presentation v1.2.3",
+    "published": "2026-11-14T14:48:04Z",
+    "url": "https://github.com/ConardLi/garden-skills/releases/tag/web-video-presentation-v1.2.3"
   },
   "assets": [
     {
-      "name": "motion-showreel-0.2.0.zip",
-      "size": 495005,
-      "url": "https://github.com/ConardLi/garden-skills/releases/download/motion-showreel-v0.2.0/motion-showreel-0.2.0.zip"
+      "name": "web-video-presentation-1.2.3.zip",
+      "size": 165258,
+      "url": "https://github.com/ConardLi/garden-skills/releases/download/web-video-presentation-v1.2.3/web-video-presentation-1.2.3.zip"
     }
   ],
   "pinned": false,

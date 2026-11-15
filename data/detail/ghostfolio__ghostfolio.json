@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ghostfolio/ghostfolio/zip/refs/heads/main",
   "release": {
-    "tag": "3.99.0",
-    "name": "3.99.0",
-    "published": "2026-11-07T20:30:52Z",
-    "url": "https://github.com/ghostfolio/ghostfolio/releases/tag/3.99.0"
+    "tag": "3.100.0",
+    "name": "3.100.0",
+    "published": "2026-11-15T03:42:16Z",
+    "url": "https://github.com/ghostfolio/ghostfolio/releases/tag/3.100.0"
   },
   "assets": [],
   "pinned": false,

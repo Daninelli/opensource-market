@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/dbcli/mycli/zip/refs/heads/main",
   "release": {
-    "tag": "v2.30.4",
-    "name": "v2.30.4",
-    "published": "2026-11-12T10:45:22Z",
-    "url": "https://github.com/dbcli/mycli/releases/tag/v2.30.4"
+    "tag": "v2.31.0",
+    "name": "v2.31.0",
+    "published": "2026-11-14T15:37:20Z",
+    "url": "https://github.com/dbcli/mycli/releases/tag/v2.31.0"
   },
   "assets": [],
   "pinned": false,

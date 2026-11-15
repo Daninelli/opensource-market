@@ -1,0 +1,73 @@
+{
+  "repo": "nano-muse/nanoMuse",
+  "slug": "nano-muse__nanoMuse",
+  "name": "nanoMuse",
+  "note_zh": "跨手机、桌面与浏览器的个人 Agent，有独立名字与形象，关掉应用也能继续执行任务",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "智能体",
+  "subcategory_slug": "agent",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "Swift",
+    "Electron",
+    "MCP"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-11-13T06:49:04Z",
+  "added_at": "2026-11-15T13:02:58+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/nano-muse/nanoMuse/zip/refs/heads/main",
+  "release": {
+    "tag": "v1.0.9",
+    "name": "nanoMuse 1.0.9 · Tiller",
+    "published": "2026-10-29T15:07:55Z",
+    "url": "https://github.com/nano-muse/nanoMuse/releases/tag/v1.0.9"
+  },
+  "assets": [
+    {
+      "name": "nanoMuse-Desktop-1.0.9-win-x64.exe",
+      "size": 281845515,
+      "url": "https://github.com/nano-muse/nanoMuse/releases/download/v1.0.9/nanoMuse-Desktop-1.0.9-win-x64.exe"
+    },
+    {
+      "name": "nanoMuse-Desktop-1.0.9-mac-arm64.zip",
+      "size": 334073090,
+      "url": "https://github.com/nano-muse/nanoMuse/releases/download/v1.0.9/nanoMuse-Desktop-1.0.9-mac-arm64.zip"
+    },
+    {
+      "name": "nanoMuse-Desktop-1.0.9-mac-x64.zip",
+      "size": 350161070,
+      "url": "https://github.com/nano-muse/nanoMuse/releases/download/v1.0.9/nanoMuse-Desktop-1.0.9-mac-x64.zip"
+    },
+    {
+      "name": "nanoMuse-Desktop-1.0.9-linux-x64.deb",
+      "size": 251776876,
+      "url": "https://github.com/nano-muse/nanoMuse/releases/download/v1.0.9/nanoMuse-Desktop-1.0.9-linux-x64.deb"
+    },
+    {
+      "name": "nanoMuse-Desktop-1.0.9-linux-x64.tar.gz",
+      "size": 302508132,
+      "url": "https://github.com/nano-muse/nanoMuse/releases/download/v1.0.9/nanoMuse-Desktop-1.0.9-linux-x64.tar.gz"
+    },
+    {
+      "name": "nanoMuse-1.0.9-arm64.apk",
+      "size": 39524947,
+      "url": "https://github.com/nano-muse/nanoMuse/releases/download/v1.0.9/nanoMuse-1.0.9-arm64.apk"
+    },
+    {
+      "name": "dsh-nanomuse-1.0.9.tgz",
+      "size": 2766924,
+      "url": "https://github.com/nano-muse/nanoMuse/releases/download/v1.0.9/dsh-nanomuse-1.0.9.tgz"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

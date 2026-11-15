@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/AgriciDaniel/claude-seo/zip/refs/heads/main",
   "release": {
-    "tag": "v2.6.0",
-    "name": "v2.6.0: deterministic page, TLS, sitemap and JavaScript-gap checks",
-    "published": "2026-11-10T22:06:50Z",
-    "url": "https://github.com/AgriciDaniel/claude-seo/releases/tag/v2.6.0"
+    "tag": "v2.6.1",
+    "name": "v2.6.1: security fixes",
+    "published": "2026-11-14T14:25:19Z",
+    "url": "https://github.com/AgriciDaniel/claude-seo/releases/tag/v2.6.1"
   },
   "assets": [],
   "pinned": false,

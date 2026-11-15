@@ -56,6 +56,11 @@
       "name": "eSearch-15.8.0-linux-arm64.deb",
       "size": 139183960,
       "url": "https://github.com/xushengfeng/eSearch/releases/download/15.8.0/eSearch-15.8.0-linux-arm64.deb"
+    },
+    {
+      "name": "eSearch_15.8.0.aur",
+      "size": 99223048,
+      "url": "https://github.com/xushengfeng/eSearch/releases/download/15.8.0/eSearch_15.8.0.aur"
     }
   ],
   "pinned": false,

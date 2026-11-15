@@ -20,21 +20,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/cure53/DOMPurify/zip/refs/heads/main",
   "release": {
-    "tag": "3.4.17",
-    "name": "DOMPurify 3.4.17",
-    "published": "2026-10-12T12:37:20Z",
-    "url": "https://github.com/cure53/DOMPurify/releases/tag/3.4.17"
+    "tag": "3.4.18",
+    "name": "DOMPurify 3.4.18",
+    "published": "2026-11-14T14:14:57Z",
+    "url": "https://github.com/cure53/DOMPurify/releases/tag/3.4.18"
   },
   "assets": [
     {
-      "name": "3.4.17.tar.gz",
-      "size": 477916,
-      "url": "https://github.com/cure53/DOMPurify/releases/download/3.4.17/3.4.17.tar.gz"
+      "name": "3.4.18.tar.gz",
+      "size": 467275,
+      "url": "https://github.com/cure53/DOMPurify/releases/download/3.4.18/3.4.18.tar.gz"
     },
     {
-      "name": "3.4.17.zip",
-      "size": 521891,
-      "url": "https://github.com/cure53/DOMPurify/releases/download/3.4.17/3.4.17.zip"
+      "name": "3.4.18.zip",
+      "size": 511259,
+      "url": "https://github.com/cure53/DOMPurify/releases/download/3.4.18/3.4.18.zip"
     }
   ],
   "pinned": false,

@@ -20,51 +20,51 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/HyNetworks/hysteria/zip/refs/heads/master",
   "release": {
-    "tag": "app/v2.13.0",
-    "name": "app/v2.13.0",
-    "published": "2026-10-05T04:31:35Z",
-    "url": "https://github.com/HyNetworks/hysteria/releases/tag/app/v2.13.0"
+    "tag": "app/v2.14.0",
+    "name": "app/v2.14.0",
+    "published": "2026-11-15T01:17:25Z",
+    "url": "https://github.com/HyNetworks/hysteria/releases/tag/app/v2.14.0"
   },
   "assets": [
     {
       "name": "hysteria-windows-arm64.exe",
-      "size": 22069248,
-      "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.13.0/hysteria-windows-arm64.exe"
+      "size": 23256064,
+      "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.14.0/hysteria-windows-arm64.exe"
     },
     {
       "name": "hysteria-darwin-arm64",
-      "size": 22303922,
-      "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.13.0/hysteria-darwin-arm64"
+      "size": 23506978,
+      "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.14.0/hysteria-darwin-arm64"
     },
     {
       "name": "hysteria-windows-386.exe",
-      "size": 23170048,
-      "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.13.0/hysteria-windows-386.exe"
+      "size": 24391168,
+      "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.14.0/hysteria-windows-386.exe"
     },
     {
       "name": "hysteria-darwin-amd64-avx",
-      "size": 23937968,
-      "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.13.0/hysteria-darwin-amd64-avx"
+      "size": 25225936,
+      "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.14.0/hysteria-darwin-amd64-avx"
     },
     {
       "name": "hysteria-linux-riscv64",
-      "size": 21299362,
-      "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.13.0/hysteria-linux-riscv64"
+      "size": 22347938,
+      "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.14.0/hysteria-linux-riscv64"
     },
     {
       "name": "hysteria-linux-arm64",
-      "size": 22151330,
-      "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.13.0/hysteria-linux-arm64"
+      "size": 23265442,
+      "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.14.0/hysteria-linux-arm64"
     },
     {
       "name": "hysteria-android-arm64",
-      "size": 22177776,
-      "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.13.0/hysteria-android-arm64"
+      "size": 23342384,
+      "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.14.0/hysteria-android-arm64"
     },
     {
       "name": "hysteria-android-armv7",
-      "size": 23051764,
-      "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.13.0/hysteria-android-armv7"
+      "size": 24279212,
+      "url": "https://github.com/HyNetworks/hysteria/releases/download/app/v2.14.0/hysteria-android-armv7"
     }
   ],
   "pinned": false,

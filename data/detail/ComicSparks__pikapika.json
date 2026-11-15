@@ -21,41 +21,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/ComicSparks/pikapika/zip/refs/heads/master",
   "release": {
-    "tag": "v1.8.23",
-    "name": "v1.8.23",
-    "published": "2026-10-29T05:13:59Z",
-    "url": "https://github.com/ComicSparks/pikapika/releases/tag/v1.8.23"
+    "tag": "v1.8.25",
+    "name": "v1.8.25",
+    "published": "2026-11-15T01:59:16Z",
+    "url": "https://github.com/ComicSparks/pikapika/releases/tag/v1.8.25"
   },
   "assets": [
     {
-      "name": "pikapika-v1.8.23-windows-x86_64-flutter_2.10.3.zip",
-      "size": 16256743,
-      "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.23/pikapika-v1.8.23-windows-x86_64-flutter_2.10.3.zip"
+      "name": "pikapika-v1.8.25-windows-x86_64-flutter_3.38.4.zip",
+      "size": 19352070,
+      "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.25/pikapika-v1.8.25-windows-x86_64-flutter_3.38.4.zip"
     },
     {
-      "name": "pikapika-v1.8.23-macos-intel-flutter_2.10.3.dmg",
-      "size": 18170596,
-      "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.23/pikapika-v1.8.23-macos-intel-flutter_2.10.3.dmg"
+      "name": "pikapika-v1.8.25-macos-arm64-flutter_3.38.4.dmg",
+      "size": 46582035,
+      "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.25/pikapika-v1.8.25-macos-arm64-flutter_3.38.4.dmg"
     },
     {
-      "name": "pikapika-v1.8.23-linux-x86_64-flutter_2.10.3.AppImage",
-      "size": 24062456,
-      "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.23/pikapika-v1.8.23-linux-x86_64-flutter_2.10.3.AppImage"
+      "name": "pikapika-v1.8.25-linux-x86_64-flutter_3.38.4.AppImage",
+      "size": 21883384,
+      "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.25/pikapika-v1.8.25-linux-x86_64-flutter_3.38.4.AppImage"
     },
     {
-      "name": "pikapika-v1.8.23-ios_nosign-flutter_3.13.9.ipa",
-      "size": 17919180,
-      "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.23/pikapika-v1.8.23-ios_nosign-flutter_3.13.9.ipa"
+      "name": "pikapika-v1.8.25-ios_nosign-flutter_3.38.4.ipa",
+      "size": 19181237,
+      "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.25/pikapika-v1.8.25-ios_nosign-flutter_3.38.4.ipa"
     },
     {
-      "name": "pikapika-v1.8.23-android-arm32-flutter_3.13.9.apk",
-      "size": 22124450,
-      "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.23/pikapika-v1.8.23-android-arm32-flutter_3.13.9.apk"
+      "name": "pikapika-v1.8.25-android-arm32-flutter_3.38.4.apk",
+      "size": 29097016,
+      "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.25/pikapika-v1.8.25-android-arm32-flutter_3.38.4.apk"
     },
     {
-      "name": "pikapika-v1.8.23-android-arm64-flutter_3.13.9.apk",
-      "size": 22562716,
-      "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.23/pikapika-v1.8.23-android-arm64-flutter_3.13.9.apk"
+      "name": "pikapika-v1.8.25-android-arm64-flutter_3.38.4.apk",
+      "size": 34692144,
+      "url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.25/pikapika-v1.8.25-android-arm64-flutter_3.38.4.apk"
     }
   ],
   "pinned": false,

@@ -1,10 +1,40 @@
 {
-  "generated_at": "2026-11-14T15:24:12.967Z",
+  "generated_at": "2026-11-15T05:06:21.135Z",
   "refreshed_at": "2026-11-14T10:26:24.629Z",
   "days": 7,
-  "total_projects": 1712,
-  "count": 11,
+  "total_projects": 1714,
+  "count": 13,
   "items": [
+    {
+      "name": "OCS 网课助手",
+      "repo": "ocsjs/ocsjs",
+      "added_at": "2026-11-15T13:06:19+08:00",
+      "category": "教育",
+      "category_slug": "education",
+      "subcategory": "在线学习",
+      "note_zh": "油猴/脚本猫下运行的网课助手脚本，支持超星学习通、智慧树等平台自动刷课",
+      "license": "MIT",
+      "stars": 4482,
+      "updated_at": "2026-11-13T03:51:14Z",
+      "download_url": "https://codeload.github.com/ocsjs/ocsjs/zip/refs/heads/5.0",
+      "platform": "github",
+      "submitted_by": null
+    },
+    {
+      "name": "nanoMuse",
+      "repo": "nano-muse/nanoMuse",
+      "added_at": "2026-11-15T13:02:58+08:00",
+      "category": "工具",
+      "category_slug": "tool",
+      "subcategory": "智能体",
+      "note_zh": "跨手机、桌面与浏览器的个人 Agent，有独立名字与形象，关掉应用也能继续执行任务",
+      "license": "GPL-3.0",
+      "stars": 3493,
+      "updated_at": "2026-11-13T06:49:04Z",
+      "download_url": "https://codeload.github.com/nano-muse/nanoMuse/zip/refs/heads/main",
+      "platform": "github",
+      "submitted_by": null
+    },
     {
       "name": "BilldDesk",
       "repo": "galaxy-s10/billd-desk",

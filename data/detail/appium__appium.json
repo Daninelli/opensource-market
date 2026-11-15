@@ -22,10 +22,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/appium/appium/zip/refs/heads/master",
   "release": {
-    "tag": "@appium/opencv@5.0.2",
-    "name": "@appium/opencv@5.0.2",
-    "published": "2026-10-27T06:50:27Z",
-    "url": "https://github.com/appium/appium/releases/tag/%40appium/opencv%405.0.2"
+    "tag": "@appium/execute-driver-plugin@7.0.3",
+    "name": "@appium/execute-driver-plugin@7.0.3",
+    "published": "2026-11-14T21:46:58Z",
+    "url": "https://github.com/appium/appium/releases/tag/%40appium/execute-driver-plugin%407.0.3"
   },
   "assets": [],
   "pinned": false,

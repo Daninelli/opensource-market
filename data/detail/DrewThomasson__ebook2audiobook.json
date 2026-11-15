@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/DrewThomasson/ebook2audiobook/zip/refs/heads/main",
   "release": {
-    "tag": "v26.11.1",
-    "name": "v26.11.1",
-    "published": "2026-11-08T13:18:51Z",
-    "url": "https://github.com/DrewThomasson/ebook2audiobook/releases/tag/v26.11.1"
+    "tag": "v26.11.11",
+    "name": "v26.11.11",
+    "published": "2026-11-15T03:19:05Z",
+    "url": "https://github.com/DrewThomasson/ebook2audiobook/releases/tag/v26.11.11"
   },
   "assets": [],
   "pinned": false,
