@@ -15,7 +15,7 @@
   ],
   "deploy_type": "二进制 / Docker",
   "platform": "github",
-  "updated_at": "2026-11-15T10:37:13Z",
+  "updated_at": "2026-11-16T10:49:58Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/netdata/netdata/zip/refs/heads/master",

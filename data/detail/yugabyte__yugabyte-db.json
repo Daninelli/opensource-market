@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 二进制",
   "platform": "github",
-  "updated_at": "2026-11-15T10:21:28Z",
+  "updated_at": "2026-11-16T11:08:40Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/yugabyte/yugabyte-db/zip/refs/heads/master",

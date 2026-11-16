@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-11-14T03:18:48Z",
+  "updated_at": "2026-11-16T07:02:23Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/future-architect/vuls/zip/refs/heads/master",
