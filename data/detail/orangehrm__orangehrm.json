@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 传统部署",
   "platform": "github",
-  "updated_at": "2026-06-28T23:52:36Z",
+  "updated_at": "2026-11-16T15:58:33Z",
   "added_at": "2026-10-19T14:45:00.000Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/orangehrm/orangehrm/zip/refs/heads/main",

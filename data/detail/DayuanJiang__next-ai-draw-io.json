@@ -16,7 +16,7 @@
   ],
   "deploy_type": "前端源码 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-11-15T18:20:41Z",
+  "updated_at": "2026-11-17T07:03:09Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/DayuanJiang/next-ai-draw-io/zip/refs/heads/main",

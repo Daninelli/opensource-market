@@ -15,7 +15,7 @@
   ],
   "deploy_type": "二进制",
   "platform": "github",
-  "updated_at": "2026-11-16T09:53:07Z",
+  "updated_at": "2026-11-17T09:50:59Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/helix-editor/helix/zip/refs/heads/master",

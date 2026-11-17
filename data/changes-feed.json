@@ -1,10 +1,20 @@
 {
   "note": "由 tools/build-changes-feed.mjs 自动生成；只含变动事件，不含状态快照",
-  "generated_at": "2026-11-16T11:17:27.160Z",
+  "generated_at": "2026-11-17T11:52:31.870Z",
   "monitored": 1715,
-  "since": "2026-11-16",
-  "total": 18,
+  "since": "2026-11-17",
+  "total": 19,
   "items": [
+    {
+      "date": "2026-11-17",
+      "repo": "cskefu/cskefu",
+      "name": "Cskefu",
+      "category": "企业服务",
+      "category_slug": "enterprise",
+      "type": "archived",
+      "from": null,
+      "to": null
+    },
     {
       "date": "2026-11-13",
       "repo": "redpanda-data/redpanda",

@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-11-09T23:09:28Z",
+  "updated_at": "2026-11-17T04:40:03Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System/zip/refs/heads/master",

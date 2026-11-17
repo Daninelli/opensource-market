@@ -1,7 +1,12 @@
 {
   "note": "由 tools/track-changes.mjs 自动维护；只追加变动记录，不重新计算历史",
-  "updated_at": "2026-11-15T10:53:34.568Z",
+  "updated_at": "2026-11-17T11:52:31.817Z",
   "events": [
+    {
+      "date": "2026-11-17",
+      "repo": "cskefu/cskefu",
+      "type": "archived"
+    },
     {
       "date": "2026-11-13",
       "repo": "redpanda-data/redpanda",
@@ -4180,7 +4185,7 @@
       "license": "NOASSERTION",
       "pinned": false,
       "pin_label": null,
-      "archived": false
+      "archived": true
     },
     "1Panel-dev/CordysCRM": {
       "license": "NOASSERTION",

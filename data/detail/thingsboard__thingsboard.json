@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-11-16T11:15:38Z",
+  "updated_at": "2026-11-17T11:22:25Z",
   "added_at": "2026-10-18T13:53:21+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/thingsboard/thingsboard/zip/refs/heads/master",

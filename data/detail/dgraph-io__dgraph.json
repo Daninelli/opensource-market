@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 二进制",
   "platform": "github",
-  "updated_at": "2026-11-16T07:00:38Z",
+  "updated_at": "2026-11-17T07:56:32Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/dgraph-io/dgraph/zip/refs/heads/main",

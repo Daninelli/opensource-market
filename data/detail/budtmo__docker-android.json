@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署",
   "platform": "github",
-  "updated_at": "2026-11-16T07:35:02Z",
+  "updated_at": "2026-11-17T10:10:44Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/budtmo/docker-android/zip/refs/heads/master",

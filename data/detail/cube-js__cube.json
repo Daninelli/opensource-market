@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-11-16T11:10:27Z",
+  "updated_at": "2026-11-17T10:52:26Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/cube-js/cube/zip/refs/heads/master",
