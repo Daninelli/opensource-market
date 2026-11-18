@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-11-17T05:07:24Z",
+  "updated_at": "2026-11-18T04:59:02Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/samuelclay/NewsBlur/zip/refs/heads/main",

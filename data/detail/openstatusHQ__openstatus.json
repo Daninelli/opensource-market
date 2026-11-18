@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-11-17T08:05:41Z",
+  "updated_at": "2026-11-18T09:15:30Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/openstatusHQ/openstatus/zip/refs/heads/main",

@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-11-17T07:24:19Z",
+  "updated_at": "2026-11-18T09:45:14Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/btcpayserver/btcpayserver/zip/refs/heads/master",

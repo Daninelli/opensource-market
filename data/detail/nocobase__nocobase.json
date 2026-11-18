@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-11-17T11:43:09Z",
+  "updated_at": "2026-11-18T11:39:43Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "v3",
   "download_url": "https://codeload.github.com/nocobase/nocobase/zip/refs/heads/v3",

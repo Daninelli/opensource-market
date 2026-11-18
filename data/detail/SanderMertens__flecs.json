@@ -16,7 +16,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-11-17T00:54:06Z",
+  "updated_at": "2026-11-18T08:13:01Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/SanderMertens/flecs/zip/refs/heads/master",

@@ -17,7 +17,7 @@
   ],
   "deploy_type": "二进制 / 传统部署",
   "platform": "github",
-  "updated_at": "2026-11-16T18:18:20Z",
+  "updated_at": "2026-11-17T18:20:12Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/k3s-io/k3s/zip/refs/heads/main",

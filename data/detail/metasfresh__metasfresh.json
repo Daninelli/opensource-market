@@ -17,7 +17,7 @@
   ],
   "deploy_type": "Docker 部署 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-11-17T11:37:20Z",
+  "updated_at": "2026-11-18T10:43:02Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "new_dawn_uat",
   "download_url": "https://codeload.github.com/metasfresh/metasfresh/zip/refs/heads/new_dawn_uat",
