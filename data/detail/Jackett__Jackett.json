@@ -22,46 +22,46 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Jackett/Jackett/zip/refs/heads/master",
   "release": {
-    "tag": "v0.24.3067",
-    "name": "v0.24.3067",
-    "published": "2026-11-15T05:48:36Z",
-    "url": "https://github.com/Jackett/Jackett/releases/tag/v0.24.3067"
+    "tag": "v0.24.3082",
+    "name": "v0.24.3082",
+    "published": "2026-11-19T05:55:19Z",
+    "url": "https://github.com/Jackett/Jackett/releases/tag/v0.24.3082"
   },
   "assets": [
     {
       "name": "Jackett.Installer.Windows.exe",
-      "size": 42563728,
-      "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3067/Jackett.Installer.Windows.exe"
+      "size": 42564598,
+      "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3082/Jackett.Installer.Windows.exe"
     },
     {
       "name": "Jackett.Binaries.macOSARM64.tar.gz",
-      "size": 47977840,
-      "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3067/Jackett.Binaries.macOSARM64.tar.gz"
+      "size": 47977374,
+      "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3082/Jackett.Binaries.macOSARM64.tar.gz"
     },
     {
       "name": "Jackett.Binaries.macOS.tar.gz",
-      "size": 50207518,
-      "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3067/Jackett.Binaries.macOS.tar.gz"
+      "size": 50207058,
+      "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3082/Jackett.Binaries.macOS.tar.gz"
     },
     {
       "name": "Jackett.Binaries.Windows.zip",
-      "size": 57145480,
-      "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3067/Jackett.Binaries.Windows.zip"
-    },
-    {
-      "name": "Jackett.Binaries.LinuxMuslARM32.tar.gz",
-      "size": 48773406,
-      "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3067/Jackett.Binaries.LinuxMuslARM32.tar.gz"
+      "size": 57147276,
+      "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3082/Jackett.Binaries.Windows.zip"
     },
     {
       "name": "Jackett.Binaries.LinuxARM32.tar.gz",
-      "size": 48773441,
-      "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3067/Jackett.Binaries.LinuxARM32.tar.gz"
+      "size": 48770622,
+      "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3082/Jackett.Binaries.LinuxARM32.tar.gz"
+    },
+    {
+      "name": "Jackett.Binaries.LinuxMuslARM32.tar.gz",
+      "size": 48773366,
+      "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3082/Jackett.Binaries.LinuxMuslARM32.tar.gz"
     },
     {
       "name": "Jackett.Binaries.Mono.tar.gz",
-      "size": 11720197,
-      "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3067/Jackett.Binaries.Mono.tar.gz"
+      "size": 11718447,
+      "url": "https://github.com/Jackett/Jackett/releases/download/v0.24.3082/Jackett.Binaries.Mono.tar.gz"
     }
   ],
   "pinned": false,

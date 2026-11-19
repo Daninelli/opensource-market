@@ -20,21 +20,21 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/getgrav/grav/zip/refs/heads/develop",
   "release": {
-    "tag": "2.2.29",
-    "name": "2.2.29",
-    "published": "2026-11-11T00:46:34Z",
-    "url": "https://github.com/getgrav/grav/releases/tag/2.2.29"
+    "tag": "2.2.31",
+    "name": "2.2.31",
+    "published": "2026-11-19T00:37:26Z",
+    "url": "https://github.com/getgrav/grav/releases/tag/2.2.31"
   },
   "assets": [
     {
-      "name": "grav-update-v2.2.29.zip",
-      "size": 8621851,
-      "url": "https://github.com/getgrav/grav/releases/download/2.2.29/grav-update-v2.2.29.zip"
+      "name": "grav-update-v2.2.31.zip",
+      "size": 8623192,
+      "url": "https://github.com/getgrav/grav/releases/download/2.2.31/grav-update-v2.2.31.zip"
     },
     {
-      "name": "grav-v2.2.29.zip",
-      "size": 10487842,
-      "url": "https://github.com/getgrav/grav/releases/download/2.2.29/grav-v2.2.29.zip"
+      "name": "grav-v2.2.31.zip",
+      "size": 10490895,
+      "url": "https://github.com/getgrav/grav/releases/download/2.2.31/grav-v2.2.31.zip"
     }
   ],
   "pinned": false,

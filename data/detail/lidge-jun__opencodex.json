@@ -20,41 +20,41 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/lidge-jun/opencodex/zip/refs/heads/dev",
   "release": {
-    "tag": "v2.100.3",
-    "name": "v2.100.3",
-    "published": "2026-11-14T01:44:39Z",
-    "url": "https://github.com/lidge-jun/opencodex/releases/tag/v2.100.3"
+    "tag": "v2.100.5",
+    "name": "v2.100.5",
+    "published": "2026-11-18T12:40:05Z",
+    "url": "https://github.com/lidge-jun/opencodex/releases/tag/v2.100.5"
   },
   "assets": [
     {
-      "name": "ocx-2.100.3-bun-darwin-arm64.tar.gz",
-      "size": 52695304,
-      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.100.3/ocx-2.100.3-bun-darwin-arm64.tar.gz"
+      "name": "ocx-2.100.5-bun-darwin-arm64.tar.gz",
+      "size": 52853760,
+      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.100.5/ocx-2.100.5-bun-darwin-arm64.tar.gz"
     },
     {
-      "name": "ocx-2.100.3-bun-darwin-x64.tar.gz",
-      "size": 55977308,
-      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.100.3/ocx-2.100.3-bun-darwin-x64.tar.gz"
+      "name": "ocx-2.100.5-bun-darwin-x64.tar.gz",
+      "size": 56137460,
+      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.100.5/ocx-2.100.5-bun-darwin-x64.tar.gz"
     },
     {
-      "name": "ocx-2.100.3-bun-windows-x64.zip",
-      "size": 67542254,
-      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.100.3/ocx-2.100.3-bun-windows-x64.zip"
+      "name": "ocx-2.100.5-bun-windows-x64.zip",
+      "size": 67699037,
+      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.100.5/ocx-2.100.5-bun-windows-x64.zip"
     },
     {
-      "name": "OpenCodex-2.100.3-windows-x64.msi",
-      "size": 72522682,
-      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.100.3/OpenCodex-2.100.3-windows-x64.msi"
+      "name": "OpenCodex-2.100.5-windows-x64.msi",
+      "size": 72682426,
+      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.100.5/OpenCodex-2.100.5-windows-x64.msi"
     },
     {
-      "name": "ocx-2.100.3-bun-linux-arm64.tar.gz",
-      "size": 64971310,
-      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.100.3/ocx-2.100.3-bun-linux-arm64.tar.gz"
+      "name": "ocx-2.100.5-bun-linux-arm64.tar.gz",
+      "size": 65127724,
+      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.100.5/ocx-2.100.5-bun-linux-arm64.tar.gz"
     },
     {
-      "name": "ocx-2.100.3-bun-linux-x64.tar.gz",
-      "size": 65189015,
-      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.100.3/ocx-2.100.3-bun-linux-x64.tar.gz"
+      "name": "ocx-2.100.5-bun-linux-x64.tar.gz",
+      "size": 65346144,
+      "url": "https://github.com/lidge-jun/opencodex/releases/download/v2.100.5/ocx-2.100.5-bun-linux-x64.tar.gz"
     }
   ],
   "pinned": false,

@@ -22,21 +22,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/alam00000/bentopdf/zip/refs/heads/main",
   "release": {
-    "tag": "v2.8.11",
-    "name": "Measurement Tools and A Year of BentoPDF! - v2.8.11",
-    "published": "2026-10-31T11:31:39Z",
-    "url": "https://github.com/alam00000/bentopdf/releases/tag/v2.8.11"
+    "tag": "v2.8.12",
+    "name": "Sort and nginx fix - v2.8.12",
+    "published": "2026-11-19T17:42:56Z",
+    "url": "https://github.com/alam00000/bentopdf/releases/tag/v2.8.12"
   },
   "assets": [
     {
-      "name": "dist-simple-2.8.11.zip",
-      "size": 134135482,
-      "url": "https://github.com/alam00000/bentopdf/releases/download/v2.8.11/dist-simple-2.8.11.zip"
+      "name": "dist-simple-2.8.12.zip",
+      "size": 134181686,
+      "url": "https://github.com/alam00000/bentopdf/releases/download/v2.8.12/dist-simple-2.8.12.zip"
     },
     {
-      "name": "dist-2.8.11.zip",
-      "size": 143471787,
-      "url": "https://github.com/alam00000/bentopdf/releases/download/v2.8.11/dist-2.8.11.zip"
+      "name": "dist-2.8.12.zip",
+      "size": 143511650,
+      "url": "https://github.com/alam00000/bentopdf/releases/download/v2.8.12/dist-2.8.12.zip"
     }
   ],
   "pinned": false,

@@ -23,10 +23,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mattermost/mattermost/zip/refs/heads/master",
   "release": {
-    "tag": "v12.0.2",
-    "name": "v12.0.2",
-    "published": "2026-11-04T07:44:19Z",
-    "url": "https://github.com/mattermost/mattermost/releases/tag/v12.0.2"
+    "tag": "v12.1.0",
+    "name": "v12.1.0",
+    "published": "2026-11-05T13:42:36Z",
+    "url": "https://github.com/mattermost/mattermost/releases/tag/v12.1.0"
   },
   "assets": [],
   "pinned": false,

@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/traceloop/openllmetry/zip/refs/heads/main",
   "release": {
-    "tag": "0.63.0",
-    "name": "0.63.0",
-    "published": "2026-11-05T10:08:57Z",
-    "url": "https://github.com/traceloop/openllmetry/releases/tag/0.63.0"
+    "tag": "0.63.1",
+    "name": "0.63.1",
+    "published": "2026-11-16T19:09:47Z",
+    "url": "https://github.com/traceloop/openllmetry/releases/tag/0.63.1"
   },
   "assets": [],
   "pinned": false,

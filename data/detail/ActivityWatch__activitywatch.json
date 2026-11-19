@@ -21,41 +21,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/ActivityWatch/activitywatch/zip/refs/heads/master",
   "release": {
-    "tag": "v0.14.2",
-    "name": "v0.14.2",
-    "published": "2026-11-10T08:19:26Z",
-    "url": "https://github.com/ActivityWatch/activitywatch/releases/tag/v0.14.2"
+    "tag": "v0.14.3",
+    "name": "v0.14.3",
+    "published": "2026-11-15T18:37:58Z",
+    "url": "https://github.com/ActivityWatch/activitywatch/releases/tag/v0.14.3"
   },
   "assets": [
     {
-      "name": "activitywatch-tauri-v0.14.2-windows-x86_64-setup.exe",
-      "size": 44239210,
-      "url": "https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.2/activitywatch-tauri-v0.14.2-windows-x86_64-setup.exe"
+      "name": "activitywatch-tauri-v0.14.3-windows-x86_64-setup.exe",
+      "size": 44261204,
+      "url": "https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.3/activitywatch-tauri-v0.14.3-windows-x86_64-setup.exe"
     },
     {
-      "name": "activitywatch-tauri-v0.14.2-windows-aarch64-setup.exe",
-      "size": 49998901,
-      "url": "https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.2/activitywatch-tauri-v0.14.2-windows-aarch64-setup.exe"
+      "name": "activitywatch-tauri-v0.14.3-windows-aarch64-setup.exe",
+      "size": 49998720,
+      "url": "https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.3/activitywatch-tauri-v0.14.3-windows-aarch64-setup.exe"
     },
     {
-      "name": "activitywatch-tauri-v0.14.2-macos-arm64.dmg",
-      "size": 53617097,
-      "url": "https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.2/activitywatch-tauri-v0.14.2-macos-arm64.dmg"
+      "name": "activitywatch-tauri-v0.14.3-macos-arm64.dmg",
+      "size": 53640218,
+      "url": "https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.3/activitywatch-tauri-v0.14.3-macos-arm64.dmg"
     },
     {
-      "name": "activitywatch-tauri-0.14.2-darwin-aarch64.app.tar.gz",
-      "size": 56276108,
-      "url": "https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.2/activitywatch-tauri-0.14.2-darwin-aarch64.app.tar.gz"
+      "name": "activitywatch-tauri-0.14.3-darwin-aarch64.app.tar.gz",
+      "size": 56297752,
+      "url": "https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.3/activitywatch-tauri-0.14.3-darwin-aarch64.app.tar.gz"
     },
     {
-      "name": "activitywatch-tauri-0.14.2-linux-x86_64-rpm.rpm",
-      "size": 33099045,
-      "url": "https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.2/activitywatch-tauri-0.14.2-linux-x86_64-rpm.rpm"
+      "name": "activitywatch-tauri-0.14.3-linux-x86_64-rpm.rpm",
+      "size": 33160098,
+      "url": "https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.3/activitywatch-tauri-0.14.3-linux-x86_64-rpm.rpm"
     },
     {
-      "name": "activitywatch-tauri-v0.14.2-linux-x86_64.rpm",
-      "size": 33099045,
-      "url": "https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.2/activitywatch-tauri-v0.14.2-linux-x86_64.rpm"
+      "name": "activitywatch-tauri-v0.14.3-linux-x86_64.rpm",
+      "size": 33160098,
+      "url": "https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.3/activitywatch-tauri-v0.14.3-linux-x86_64.rpm"
     }
   ],
   "pinned": false,

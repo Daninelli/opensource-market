@@ -20,16 +20,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/upstash/context7/zip/refs/heads/master",
   "release": {
-    "tag": "mcpb-v4.7.0",
-    "name": "context7.mcpb 4.7.0",
-    "published": "2026-11-12T09:03:39Z",
-    "url": "https://github.com/upstash/context7/releases/tag/mcpb-v4.7.0"
+    "tag": "mcpb-v4.7.3",
+    "name": "context7.mcpb 4.7.3",
+    "published": "2026-11-17T13:51:44Z",
+    "url": "https://github.com/upstash/context7/releases/tag/mcpb-v4.7.3"
   },
   "assets": [
     {
       "name": "context7.mcpb",
-      "size": 1215255,
-      "url": "https://github.com/upstash/context7/releases/download/mcpb-v4.7.0/context7.mcpb"
+      "size": 1035068,
+      "url": "https://github.com/upstash/context7/releases/download/mcpb-v4.7.3/context7.mcpb"
     }
   ],
   "pinned": false,

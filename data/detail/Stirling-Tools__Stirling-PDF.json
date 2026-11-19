@@ -21,51 +21,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Stirling-Tools/Stirling-PDF/zip/refs/heads/main",
   "release": {
-    "tag": "v3.3.0",
-    "name": "3.3.0 Conversion upgrades, bug fixes and several minor improvements ",
-    "published": "2026-11-05T08:24:34Z",
-    "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/tag/v3.3.0"
+    "tag": "v3.4.0",
+    "name": "3.4.0 Big text editor changes, OneDrive, SCIM and Accessibility checker",
+    "published": "2026-11-19T01:42:09Z",
+    "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/tag/v3.4.0"
   },
   "assets": [
     {
       "name": "Stirling-PDF-windows-arm64-setup.exe",
-      "size": 209854472,
-      "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.3.0/Stirling-PDF-windows-arm64-setup.exe"
+      "size": 206317056,
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.4.0/Stirling-PDF-windows-arm64-setup.exe"
     },
     {
       "name": "Stirling-PDF-windows-x86_64.msi",
-      "size": 221966336,
-      "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.3.0/Stirling-PDF-windows-x86_64.msi"
+      "size": 218476544,
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.4.0/Stirling-PDF-windows-x86_64.msi"
     },
     {
       "name": "Stirling-PDF-macos-universal.app.tar.gz",
-      "size": 275296679,
-      "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.3.0/Stirling-PDF-macos-universal.app.tar.gz"
+      "size": 272661164,
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.4.0/Stirling-PDF-macos-universal.app.tar.gz"
     },
     {
       "name": "Stirling-PDF-macos-universal.dmg",
-      "size": 275495882,
-      "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.3.0/Stirling-PDF-macos-universal.dmg"
+      "size": 272854532,
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.4.0/Stirling-PDF-macos-universal.dmg"
     },
     {
       "name": "Stirling-PDF-linux-x86_64.rpm",
-      "size": 225047486,
-      "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.3.0/Stirling-PDF-linux-x86_64.rpm"
+      "size": 221626585,
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.4.0/Stirling-PDF-linux-x86_64.rpm"
     },
     {
       "name": "Stirling-PDF-linux-x86_64.deb",
-      "size": 227457310,
-      "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.3.0/Stirling-PDF-linux-x86_64.deb"
+      "size": 224052248,
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.4.0/Stirling-PDF-linux-x86_64.deb"
     },
     {
       "name": "Stirling-PDF-server.jar",
-      "size": 232311287,
-      "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.3.0/Stirling-PDF-server.jar"
+      "size": 227982235,
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.4.0/Stirling-PDF-server.jar"
     },
     {
       "name": "Stirling-PDF.jar",
-      "size": 334410465,
-      "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.3.0/Stirling-PDF.jar"
+      "size": 324666515,
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.4.0/Stirling-PDF.jar"
     }
   ],
   "pinned": false,

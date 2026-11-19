@@ -21,51 +21,51 @@
   "default_branch": "release/v3.8.55",
   "download_url": "https://codeload.github.com/diegosouzapw/OmniRoute/zip/refs/heads/release%2Fv3.8.55",
   "release": {
-    "tag": "v3.8.53",
-    "name": "v3.8.53",
-    "published": "2026-11-06T10:53:35Z",
-    "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/v3.8.53"
+    "tag": "v3.8.54",
+    "name": "v3.8.54",
+    "published": "2026-11-17T14:04:45Z",
+    "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/v3.8.54"
   },
   "assets": [
     {
-      "name": "OmniRoute.3.8.53.exe",
-      "size": 473403391,
-      "url": "https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/OmniRoute.3.8.53.exe"
+      "name": "OmniRoute.3.8.54.exe",
+      "size": 246064254,
+      "url": "https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.54/OmniRoute.3.8.54.exe"
     },
     {
       "name": "OmniRoute.exe",
-      "size": 473403391,
-      "url": "https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/OmniRoute.exe"
+      "size": 246064254,
+      "url": "https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.54/OmniRoute.exe"
     },
     {
-      "name": "OmniRoute-3.8.53-arm64.dmg",
-      "size": 543091388,
-      "url": "https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/OmniRoute-3.8.53-arm64.dmg"
+      "name": "OmniRoute-3.8.54-arm64.dmg",
+      "size": 412810206,
+      "url": "https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.54/OmniRoute-3.8.54-arm64.dmg"
     },
     {
-      "name": "OmniRoute-3.8.53.dmg",
-      "size": 549333259,
-      "url": "https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/OmniRoute-3.8.53.dmg"
+      "name": "OmniRoute-3.8.54.dmg",
+      "size": 418719903,
+      "url": "https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.54/OmniRoute-3.8.54.dmg"
     },
     {
-      "name": "omniroute-desktop_3.8.53_arm64.deb",
-      "size": 305553496,
-      "url": "https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/omniroute-desktop_3.8.53_arm64.deb"
+      "name": "omniroute-desktop_3.8.54_arm64.deb",
+      "size": 310882296,
+      "url": "https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.54/omniroute-desktop_3.8.54_arm64.deb"
     },
     {
-      "name": "omniroute-desktop_3.8.53_amd64.deb",
-      "size": 310635364,
-      "url": "https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/omniroute-desktop_3.8.53_amd64.deb"
+      "name": "omniroute-desktop_3.8.54_amd64.deb",
+      "size": 316048084,
+      "url": "https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.54/omniroute-desktop_3.8.54_amd64.deb"
     },
     {
-      "name": "optional-pack-browser-runtime-b58491d77a3a875ea70a2ce060b31cd82a8aa942b5a7ad589dcc05fcf1c727ee.tar.gz",
-      "size": 3091541,
-      "url": "https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/optional-pack-browser-runtime-b58491d77a3a875ea70a2ce060b31cd82a8aa942b5a7ad589dcc05fcf1c727ee.tar.gz"
+      "name": "optional-pack-browser-runtime-c7aaf937a8d6de69268b02ade0a1cf4c70fc61b05143019f397812de4e2ab14a.tar.gz",
+      "size": 3091500,
+      "url": "https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.54/optional-pack-browser-runtime-c7aaf937a8d6de69268b02ade0a1cf4c70fc61b05143019f397812de4e2ab14a.tar.gz"
     },
     {
-      "name": "optional-pack-browser-runtime-7d6acdbbede1a614707a6ccfe9d28a755b366d78264621d19e2f32cc0406ccac.tar.gz",
-      "size": 3093258,
-      "url": "https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/optional-pack-browser-runtime-7d6acdbbede1a614707a6ccfe9d28a755b366d78264621d19e2f32cc0406ccac.tar.gz"
+      "name": "optional-pack-browser-runtime-824ab7e480b93a8f48bdbdcb532f0923547f58c342c18248fccaef86cf475225.tar.gz",
+      "size": 3093215,
+      "url": "https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.54/optional-pack-browser-runtime-824ab7e480b93a8f48bdbdcb532f0923547f58c342c18248fccaef86cf475225.tar.gz"
     }
   ],
   "pinned": false,

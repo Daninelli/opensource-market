@@ -20,26 +20,26 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ChatLab/ChatLab/zip/refs/heads/main",
   "release": {
-    "tag": "v0.37.6",
-    "name": "ChatLab v0.37.6",
-    "published": "2026-10-22T08:19:16Z",
-    "url": "https://github.com/ChatLab/ChatLab/releases/tag/v0.37.6"
+    "tag": "v0.37.8",
+    "name": "ChatLab v0.37.8",
+    "published": "2026-11-19T08:36:16Z",
+    "url": "https://github.com/ChatLab/ChatLab/releases/tag/v0.37.8"
   },
   "assets": [
     {
-      "name": "ChatLab-0.37.6-setup.exe",
-      "size": 128996138,
-      "url": "https://github.com/ChatLab/ChatLab/releases/download/v0.37.6/ChatLab-0.37.6-setup.exe"
+      "name": "ChatLab-0.37.8-setup.exe",
+      "size": 129006719,
+      "url": "https://github.com/ChatLab/ChatLab/releases/download/v0.37.8/ChatLab-0.37.8-setup.exe"
     },
     {
-      "name": "ChatLab-0.37.6-arm64.dmg",
-      "size": 166440011,
-      "url": "https://github.com/ChatLab/ChatLab/releases/download/v0.37.6/ChatLab-0.37.6-arm64.dmg"
+      "name": "ChatLab-0.37.8-arm64.dmg",
+      "size": 166448216,
+      "url": "https://github.com/ChatLab/ChatLab/releases/download/v0.37.8/ChatLab-0.37.8-arm64.dmg"
     },
     {
-      "name": "ChatLab-0.37.6-arm64.zip",
-      "size": 160213193,
-      "url": "https://github.com/ChatLab/ChatLab/releases/download/v0.37.6/ChatLab-0.37.6-arm64.zip"
+      "name": "ChatLab-0.37.8-arm64.zip",
+      "size": 160219913,
+      "url": "https://github.com/ChatLab/ChatLab/releases/download/v0.37.8/ChatLab-0.37.8-arm64.zip"
     }
   ],
   "pinned": false,

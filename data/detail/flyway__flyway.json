@@ -20,46 +20,46 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/flyway/flyway/zip/refs/heads/main",
   "release": {
-    "tag": "flyway-13.12.2",
-    "name": "Flyway 13.12.2",
-    "published": "2026-11-12T14:52:16Z",
-    "url": "https://github.com/flyway/flyway/releases/tag/flyway-13.12.2"
+    "tag": "flyway-13.13.0",
+    "name": "Flyway 13.13.0",
+    "published": "2026-11-19T10:34:24Z",
+    "url": "https://github.com/flyway/flyway/releases/tag/flyway-13.13.0"
   },
   "assets": [
     {
-      "name": "flyway-commandline-13.12.2-macosx-x64.tar.gz",
-      "size": 364728360,
-      "url": "https://github.com/flyway/flyway/releases/download/flyway-13.12.2/flyway-commandline-13.12.2-macosx-x64.tar.gz"
+      "name": "flyway-commandline-13.13.0-macosx-x64.tar.gz",
+      "size": 357174480,
+      "url": "https://github.com/flyway/flyway/releases/download/flyway-13.13.0/flyway-commandline-13.13.0-macosx-x64.tar.gz"
     },
     {
-      "name": "flyway-commandline-13.12.2-macosx-arm64.tar.gz",
-      "size": 379056052,
-      "url": "https://github.com/flyway/flyway/releases/download/flyway-13.12.2/flyway-commandline-13.12.2-macosx-arm64.tar.gz"
+      "name": "flyway-commandline-13.13.0-macosx-arm64.tar.gz",
+      "size": 371501454,
+      "url": "https://github.com/flyway/flyway/releases/download/flyway-13.13.0/flyway-commandline-13.13.0-macosx-arm64.tar.gz"
     },
     {
-      "name": "flyway-commandline-13.12.2-windows-x64.zip",
-      "size": 381123951,
-      "url": "https://github.com/flyway/flyway/releases/download/flyway-13.12.2/flyway-commandline-13.12.2-windows-x64.zip"
+      "name": "flyway-commandline-13.13.0-windows-x64.zip",
+      "size": 373567329,
+      "url": "https://github.com/flyway/flyway/releases/download/flyway-13.13.0/flyway-commandline-13.13.0-windows-x64.zip"
     },
     {
-      "name": "flyway-commandline-13.12.2-linux-alpine-x64.tar.gz",
-      "size": 383930999,
-      "url": "https://github.com/flyway/flyway/releases/download/flyway-13.12.2/flyway-commandline-13.12.2-linux-alpine-x64.tar.gz"
+      "name": "flyway-commandline-13.13.0-linux-alpine-x64.tar.gz",
+      "size": 376374684,
+      "url": "https://github.com/flyway/flyway/releases/download/flyway-13.13.0/flyway-commandline-13.13.0-linux-alpine-x64.tar.gz"
     },
     {
-      "name": "flyway-commandline-13.12.2-linux-x64.tar.gz",
-      "size": 384733802,
-      "url": "https://github.com/flyway/flyway/releases/download/flyway-13.12.2/flyway-commandline-13.12.2-linux-x64.tar.gz"
+      "name": "flyway-commandline-13.13.0-linux-x64.tar.gz",
+      "size": 377177055,
+      "url": "https://github.com/flyway/flyway/releases/download/flyway-13.13.0/flyway-commandline-13.13.0-linux-x64.tar.gz"
     },
     {
-      "name": "flyway-commandline-13.12.2.tar.gz",
-      "size": 322498614,
-      "url": "https://github.com/flyway/flyway/releases/download/flyway-13.12.2/flyway-commandline-13.12.2.tar.gz"
+      "name": "flyway-commandline-13.13.0.tar.gz",
+      "size": 314943417,
+      "url": "https://github.com/flyway/flyway/releases/download/flyway-13.13.0/flyway-commandline-13.13.0.tar.gz"
     },
     {
-      "name": "flyway-commandline-13.12.2.zip",
-      "size": 322556907,
-      "url": "https://github.com/flyway/flyway/releases/download/flyway-13.12.2/flyway-commandline-13.12.2.zip"
+      "name": "flyway-commandline-13.13.0.zip",
+      "size": 315000285,
+      "url": "https://github.com/flyway/flyway/releases/download/flyway-13.13.0/flyway-commandline-13.13.0.zip"
     }
   ],
   "pinned": false,

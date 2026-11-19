@@ -22,21 +22,21 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Part-DB/Part-DB-server/zip/refs/heads/master",
   "release": {
-    "tag": "v2.20.6",
-    "name": "Part-DB 2.20.6",
-    "published": "2026-11-14T23:08:41Z",
-    "url": "https://github.com/Part-DB/Part-DB-server/releases/tag/v2.20.6"
+    "tag": "v2.20.7",
+    "name": "Part-DB 2.20.7",
+    "published": "2026-11-17T16:34:01Z",
+    "url": "https://github.com/Part-DB/Part-DB-server/releases/tag/v2.20.7"
   },
   "assets": [
     {
       "name": "partdb_assets.zip",
-      "size": 76260515,
-      "url": "https://github.com/Part-DB/Part-DB-server/releases/download/v2.20.6/partdb_assets.zip"
+      "size": 76290618,
+      "url": "https://github.com/Part-DB/Part-DB-server/releases/download/v2.20.7/partdb_assets.zip"
     },
     {
       "name": "partdb_with_assets.zip",
-      "size": 124694957,
-      "url": "https://github.com/Part-DB/Part-DB-server/releases/download/v2.20.6/partdb_with_assets.zip"
+      "size": 124734070,
+      "url": "https://github.com/Part-DB/Part-DB-server/releases/download/v2.20.7/partdb_with_assets.zip"
     }
   ],
   "pinned": false,

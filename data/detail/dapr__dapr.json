@@ -20,41 +20,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/dapr/dapr/zip/refs/heads/master",
   "release": {
-    "tag": "v1.19.1",
-    "name": "Dapr Runtime v1.19.1",
-    "published": "2026-10-31T13:03:35Z",
-    "url": "https://github.com/dapr/dapr/releases/tag/v1.19.1"
+    "tag": "v1.19.2",
+    "name": "Dapr Runtime v1.19.2",
+    "published": "2026-11-19T10:10:35Z",
+    "url": "https://github.com/dapr/dapr/releases/tag/v1.19.2"
   },
   "assets": [
     {
       "name": "injector_darwin_arm64.tar.gz",
-      "size": 14796251,
-      "url": "https://github.com/dapr/dapr/releases/download/v1.19.1/injector_darwin_arm64.tar.gz"
+      "size": 14803654,
+      "url": "https://github.com/dapr/dapr/releases/download/v1.19.2/injector_darwin_arm64.tar.gz"
     },
     {
       "name": "injector_windows_amd64.zip",
-      "size": 15898695,
-      "url": "https://github.com/dapr/dapr/releases/download/v1.19.1/injector_windows_amd64.zip"
+      "size": 15900410,
+      "url": "https://github.com/dapr/dapr/releases/download/v1.19.2/injector_windows_amd64.zip"
     },
     {
       "name": "injector_darwin_amd64.tar.gz",
-      "size": 16247739,
-      "url": "https://github.com/dapr/dapr/releases/download/v1.19.1/injector_darwin_amd64.tar.gz"
+      "size": 16252552,
+      "url": "https://github.com/dapr/dapr/releases/download/v1.19.2/injector_darwin_amd64.tar.gz"
     },
     {
       "name": "daprd_windows_amd64.zip",
-      "size": 66058285,
-      "url": "https://github.com/dapr/dapr/releases/download/v1.19.1/daprd_windows_amd64.zip"
+      "size": 66082483,
+      "url": "https://github.com/dapr/dapr/releases/download/v1.19.2/daprd_windows_amd64.zip"
     },
     {
       "name": "injector_linux_arm64.tar.gz",
-      "size": 14089776,
-      "url": "https://github.com/dapr/dapr/releases/download/v1.19.1/injector_linux_arm64.tar.gz"
+      "size": 14090129,
+      "url": "https://github.com/dapr/dapr/releases/download/v1.19.2/injector_linux_arm64.tar.gz"
     },
     {
       "name": "injector_linux_arm.tar.gz",
-      "size": 14889340,
-      "url": "https://github.com/dapr/dapr/releases/download/v1.19.1/injector_linux_arm.tar.gz"
+      "size": 14891590,
+      "url": "https://github.com/dapr/dapr/releases/download/v1.19.2/injector_linux_arm.tar.gz"
     }
   ],
   "pinned": false,

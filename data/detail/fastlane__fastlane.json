@@ -22,16 +22,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/fastlane/fastlane/zip/refs/heads/master",
   "release": {
-    "tag": "2.241.2",
-    "name": "2.241.2 Improvements",
-    "published": "2026-10-26T15:31:16Z",
-    "url": "https://github.com/fastlane/fastlane/releases/tag/2.241.2"
+    "tag": "2.242.0",
+    "name": "2.242.0 Improvements",
+    "published": "2026-11-16T15:32:44Z",
+    "url": "https://github.com/fastlane/fastlane/releases/tag/2.242.0"
   },
   "assets": [
     {
-      "name": "fastlane-2.241.2.gem",
-      "size": 1210880,
-      "url": "https://github.com/fastlane/fastlane/releases/download/2.241.2/fastlane-2.241.2.gem"
+      "name": "fastlane-2.242.0.gem",
+      "size": 1215488,
+      "url": "https://github.com/fastlane/fastlane/releases/download/2.242.0/fastlane-2.242.0.gem"
     }
   ],
   "pinned": false,

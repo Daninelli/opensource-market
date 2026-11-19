@@ -22,16 +22,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/langflow-ai/langflow/zip/refs/heads/main",
   "release": {
-    "tag": "v1.13.2",
-    "name": "1.13.2",
-    "published": "2026-11-10T22:26:00Z",
-    "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.2"
+    "tag": "v1.13.3",
+    "name": "1.13.3",
+    "published": "2026-11-17T21:22:27Z",
+    "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.3"
   },
   "assets": [
     {
-      "name": "langflow_base-1.13.2-py3-none-any.whl",
-      "size": 19652350,
-      "url": "https://github.com/langflow-ai/langflow/releases/download/v1.13.2/langflow_base-1.13.2-py3-none-any.whl"
+      "name": "langflow_base-1.13.3-py3-none-any.whl",
+      "size": 19653938,
+      "url": "https://github.com/langflow-ai/langflow/releases/download/v1.13.3/langflow_base-1.13.3-py3-none-any.whl"
     }
   ],
   "pinned": false,

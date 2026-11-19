@@ -23,31 +23,31 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/wal-g/wal-g/zip/refs/heads/master",
   "release": {
-    "tag": "v3.0.9",
-    "name": "v3.0.9",
-    "published": "2026-08-20T14:26:20Z",
-    "url": "https://github.com/wal-g/wal-g/releases/tag/v3.0.9"
+    "tag": "v3.0.10",
+    "name": "v3.0.10",
+    "published": "2026-11-17T20:43:07Z",
+    "url": "https://github.com/wal-g/wal-g/releases/tag/v3.0.10"
   },
   "assets": [
     {
       "name": "wal-g-fdb-22.04-aarch64.tar.gz",
-      "size": 15238289,
-      "url": "https://github.com/wal-g/wal-g/releases/download/v3.0.9/wal-g-fdb-22.04-aarch64.tar.gz"
+      "size": 14881918,
+      "url": "https://github.com/wal-g/wal-g/releases/download/v3.0.10/wal-g-fdb-22.04-aarch64.tar.gz"
     },
     {
-      "name": "wal-g-fdb-24.04-aarch64.tar.gz",
-      "size": 15251348,
-      "url": "https://github.com/wal-g/wal-g/releases/download/v3.0.9/wal-g-fdb-24.04-aarch64.tar.gz"
+      "name": "wal-g-fdb-20.04-aarch64.tar.gz",
+      "size": 14901221,
+      "url": "https://github.com/wal-g/wal-g/releases/download/v3.0.10/wal-g-fdb-20.04-aarch64.tar.gz"
     },
     {
       "name": "wal-g-fdb-22.04-aarch64",
-      "size": 51527480,
-      "url": "https://github.com/wal-g/wal-g/releases/download/v3.0.9/wal-g-fdb-22.04-aarch64"
+      "size": 46107296,
+      "url": "https://github.com/wal-g/wal-g/releases/download/v3.0.10/wal-g-fdb-22.04-aarch64"
     },
     {
-      "name": "wal-g-fdb-24.04-aarch64",
-      "size": 51552088,
-      "url": "https://github.com/wal-g/wal-g/releases/download/v3.0.9/wal-g-fdb-24.04-aarch64"
+      "name": "wal-g-fdb-20.04-aarch64",
+      "size": 46148256,
+      "url": "https://github.com/wal-g/wal-g/releases/download/v3.0.10/wal-g-fdb-20.04-aarch64"
     }
   ],
   "pinned": false,

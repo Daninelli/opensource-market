@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/AgriciDaniel/claude-seo/zip/refs/heads/main",
   "release": {
-    "tag": "v2.6.1",
-    "name": "v2.6.1: security fixes",
-    "published": "2026-11-14T14:25:19Z",
-    "url": "https://github.com/AgriciDaniel/claude-seo/releases/tag/v2.6.1"
+    "tag": "v2.6.2",
+    "name": "v2.6.2: Shopify and PostHog extensions, local proxy opt-in, 36 community pull requests",
+    "published": "2026-11-15T10:10:37Z",
+    "url": "https://github.com/AgriciDaniel/claude-seo/releases/tag/v2.6.2"
   },
   "assets": [],
   "pinned": false,

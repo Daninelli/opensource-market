@@ -22,10 +22,10 @@
   "default_branch": "canary",
   "download_url": "https://codeload.github.com/Dokploy/dokploy/zip/refs/heads/canary",
   "release": {
-    "tag": "v0.31.2",
-    "name": "v0.31.2",
-    "published": "2026-11-13T00:00:04Z",
-    "url": "https://github.com/Dokploy/dokploy/releases/tag/v0.31.2"
+    "tag": "v0.31.4",
+    "name": "v0.31.4",
+    "published": "2026-11-17T07:33:38Z",
+    "url": "https://github.com/Dokploy/dokploy/releases/tag/v0.31.4"
   },
   "assets": [],
   "pinned": false,

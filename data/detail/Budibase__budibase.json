@@ -23,16 +23,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Budibase/budibase/zip/refs/heads/master",
   "release": {
-    "tag": "v4.0.0",
-    "name": "v4.0.0",
-    "published": "2026-11-10T16:40:12Z",
-    "url": "https://github.com/Budibase/budibase/releases/tag/v4.0.0"
+    "tag": "v4.0.1",
+    "name": "v4.0.1",
+    "published": "2026-11-16T09:34:13Z",
+    "url": "https://github.com/Budibase/budibase/releases/tag/v4.0.1"
   },
   "assets": [
     {
       "name": "openapi.yaml",
       "size": 136889,
-      "url": "https://github.com/Budibase/budibase/releases/download/v4.0.0/openapi.yaml"
+      "url": "https://github.com/Budibase/budibase/releases/download/v4.0.1/openapi.yaml"
     }
   ],
   "pinned": false,

@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/microsoft/vscode/zip/refs/heads/main",
   "release": {
-    "tag": "1.146.0",
-    "name": "1.146.0",
-    "published": "2026-11-11T10:07:14Z",
-    "url": "https://github.com/microsoft/vscode/releases/tag/1.146.0"
+    "tag": "1.147.0",
+    "name": "1.147.0",
+    "published": "2026-11-18T09:45:23Z",
+    "url": "https://github.com/microsoft/vscode/releases/tag/1.147.0"
   },
   "assets": [],
   "pinned": false,

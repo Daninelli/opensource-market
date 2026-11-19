@@ -21,41 +21,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/yairm210/Unciv/zip/refs/heads/master",
   "release": {
-    "tag": "5.0.0",
-    "name": "5.0.0",
-    "published": "2026-11-12T19:51:48Z",
-    "url": "https://github.com/yairm210/Unciv/releases/tag/5.0.0"
+    "tag": "5.0.1",
+    "name": "5.0.1",
+    "published": "2026-11-17T16:17:32Z",
+    "url": "https://github.com/yairm210/Unciv/releases/tag/5.0.1"
   },
   "assets": [
     {
       "name": "Unciv.msi",
-      "size": 90267863,
-      "url": "https://github.com/yairm210/Unciv/releases/download/5.0.0/Unciv.msi"
+      "size": 90276057,
+      "url": "https://github.com/yairm210/Unciv/releases/download/5.0.1/Unciv.msi"
     },
     {
       "name": "Unciv-Windows64.zip",
-      "size": 105075856,
-      "url": "https://github.com/yairm210/Unciv/releases/download/5.0.0/Unciv-Windows64.zip"
+      "size": 105095954,
+      "url": "https://github.com/yairm210/Unciv/releases/download/5.0.1/Unciv-Windows64.zip"
     },
     {
       "name": "Unciv-Linux64.zip",
-      "size": 108959265,
-      "url": "https://github.com/yairm210/Unciv/releases/download/5.0.0/Unciv-Linux64.zip"
+      "size": 108979363,
+      "url": "https://github.com/yairm210/Unciv/releases/download/5.0.1/Unciv-Linux64.zip"
     },
     {
       "name": "Unciv-signed.apk",
-      "size": 27609377,
-      "url": "https://github.com/yairm210/Unciv/releases/download/5.0.0/Unciv-signed.apk"
+      "size": 27617569,
+      "url": "https://github.com/yairm210/Unciv/releases/download/5.0.1/Unciv-signed.apk"
     },
     {
       "name": "UncivServer.jar",
-      "size": 22840477,
-      "url": "https://github.com/yairm210/Unciv/releases/download/5.0.0/UncivServer.jar"
+      "size": 22840479,
+      "url": "https://github.com/yairm210/Unciv/releases/download/5.0.1/UncivServer.jar"
     },
     {
       "name": "Unciv.jar",
-      "size": 58001110,
-      "url": "https://github.com/yairm210/Unciv/releases/download/5.0.0/Unciv.jar"
+      "size": 58022268,
+      "url": "https://github.com/yairm210/Unciv/releases/download/5.0.1/Unciv.jar"
     }
   ],
   "pinned": false,

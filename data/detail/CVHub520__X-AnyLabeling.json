@@ -21,41 +21,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/CVHub520/X-AnyLabeling/zip/refs/heads/main",
   "release": {
-    "tag": "v4.3.2",
-    "name": "X-AnyLabeling v4.3.2",
-    "published": "2026-11-08T16:51:58Z",
-    "url": "https://github.com/CVHub520/X-AnyLabeling/releases/tag/v4.3.2"
+    "tag": "v4.3.3",
+    "name": "X-AnyLabeling v4.3.3",
+    "published": "2026-11-15T14:29:37Z",
+    "url": "https://github.com/CVHub520/X-AnyLabeling/releases/tag/v4.3.3"
   },
   "assets": [
     {
-      "name": "X-AnyLabeling-v4.3.2-Windows-CPU-Setup.exe",
-      "size": 351884100,
-      "url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v4.3.2/X-AnyLabeling-v4.3.2-Windows-CPU-Setup.exe"
+      "name": "X-AnyLabeling-v4.3.3-Windows-CPU-Setup.exe",
+      "size": 354376502,
+      "url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v4.3.3/X-AnyLabeling-v4.3.3-Windows-CPU-Setup.exe"
     },
     {
-      "name": "X-AnyLabeling-v4.3.2-macOS-arm64-unsigned.dmg",
-      "size": 369181780,
-      "url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v4.3.2/X-AnyLabeling-v4.3.2-macOS-arm64-unsigned.dmg"
+      "name": "X-AnyLabeling-v4.3.3-macOS-arm64-unsigned.dmg",
+      "size": 371368876,
+      "url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v4.3.3/X-AnyLabeling-v4.3.3-macOS-arm64-unsigned.dmg"
     },
     {
-      "name": "X-AnyLabeling-v4.3.2-macOS-x86_64-unsigned.dmg",
-      "size": 394487282,
-      "url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v4.3.2/X-AnyLabeling-v4.3.2-macOS-x86_64-unsigned.dmg"
+      "name": "X-AnyLabeling-v4.3.3-macOS-x86_64-unsigned.dmg",
+      "size": 395040550,
+      "url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v4.3.3/X-AnyLabeling-v4.3.3-macOS-x86_64-unsigned.dmg"
     },
     {
-      "name": "X-AnyLabeling-v4.3.2-Windows-CUDA11-Setup.exe",
-      "size": 459782183,
-      "url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v4.3.2/X-AnyLabeling-v4.3.2-Windows-CUDA11-Setup.exe"
+      "name": "X-AnyLabeling-v4.3.3-Windows-CUDA11-Setup.exe",
+      "size": 460050124,
+      "url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v4.3.3/X-AnyLabeling-v4.3.3-Windows-CUDA11-Setup.exe"
     },
     {
-      "name": "X-AnyLabeling-v4.3.2-Linux-CPU",
-      "size": 447558240,
-      "url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v4.3.2/X-AnyLabeling-v4.3.2-Linux-CPU"
+      "name": "X-AnyLabeling-v4.3.3-Linux-CPU",
+      "size": 449614328,
+      "url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v4.3.3/X-AnyLabeling-v4.3.3-Linux-CPU"
     },
     {
-      "name": "X-AnyLabeling-v4.3.2-Linux-CUDA11",
-      "size": 618910136,
-      "url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v4.3.2/X-AnyLabeling-v4.3.2-Linux-CUDA11"
+      "name": "X-AnyLabeling-v4.3.3-Linux-CUDA11",
+      "size": 618956688,
+      "url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v4.3.3/X-AnyLabeling-v4.3.3-Linux-CUDA11"
     }
   ],
   "pinned": false,

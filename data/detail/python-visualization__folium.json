@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/python-visualization/folium/zip/refs/heads/main",
   "release": {
-    "tag": "v0.20.0",
-    "name": "v0.20.0",
-    "published": "2025-06-16T20:21:28Z",
-    "url": "https://github.com/python-visualization/folium/releases/tag/v0.20.0"
+    "tag": "v1.0.0",
+    "name": "1.0.0",
+    "published": "2026-11-15T13:59:18Z",
+    "url": "https://github.com/python-visualization/folium/releases/tag/v1.0.0"
   },
   "assets": [],
   "pinned": false,

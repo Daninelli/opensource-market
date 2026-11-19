@@ -23,16 +23,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/zulip/zulip/zip/refs/heads/main",
   "release": {
-    "tag": "13.2",
-    "name": "Zulip Server 13.2",
-    "published": "2026-11-13T17:35:24Z",
-    "url": "https://github.com/zulip/zulip/releases/tag/13.2"
+    "tag": "13.3",
+    "name": "Zulip Server 13.3",
+    "published": "2026-11-19T16:28:21Z",
+    "url": "https://github.com/zulip/zulip/releases/tag/13.3"
   },
   "assets": [
     {
-      "name": "zulip-server-13.2.tar.gz",
-      "size": 129456374,
-      "url": "https://github.com/zulip/zulip/releases/download/13.2/zulip-server-13.2.tar.gz"
+      "name": "zulip-server-13.3.tar.gz",
+      "size": 130320712,
+      "url": "https://github.com/zulip/zulip/releases/download/13.3/zulip-server-13.3.tar.gz"
     }
   ],
   "pinned": false,

@@ -22,21 +22,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/fleetbase/fleetbase/zip/refs/heads/main",
   "release": {
-    "tag": "v0.7.75",
-    "name": "v0.7.75",
-    "published": "2026-11-02T11:40:03Z",
-    "url": "https://github.com/fleetbase/fleetbase/releases/tag/v0.7.75"
+    "tag": "v0.8.1",
+    "name": "v0.8.1",
+    "published": "2026-11-18T05:01:43Z",
+    "url": "https://github.com/fleetbase/fleetbase/releases/tag/v0.8.1"
   },
   "assets": [
     {
       "name": "fleetbase-darwin-arm64",
-      "size": 119031490,
-      "url": "https://github.com/fleetbase/fleetbase/releases/download/v0.7.75/fleetbase-darwin-arm64"
+      "size": 119064674,
+      "url": "https://github.com/fleetbase/fleetbase/releases/download/v0.8.1/fleetbase-darwin-arm64"
     },
     {
       "name": "fleetbase-linux-x86_64",
-      "size": 135117352,
-      "url": "https://github.com/fleetbase/fleetbase/releases/download/v0.7.75/fleetbase-linux-x86_64"
+      "size": 135096872,
+      "url": "https://github.com/fleetbase/fleetbase/releases/download/v0.8.1/fleetbase-linux-x86_64"
     }
   ],
   "pinned": false,

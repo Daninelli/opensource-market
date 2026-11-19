@@ -22,36 +22,36 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/stumpapp/stump/zip/refs/heads/main",
   "release": {
-    "tag": "v0.1.13",
-    "name": "v0.1.13",
-    "published": "2026-11-14T22:57:07Z",
-    "url": "https://github.com/stumpapp/stump/releases/tag/v0.1.13"
+    "tag": "v0.1.14",
+    "name": "v0.1.14",
+    "published": "2026-11-18T21:06:09Z",
+    "url": "https://github.com/stumpapp/stump/releases/tag/v0.1.14"
   },
   "assets": [
     {
       "name": "windows-build-results.zip",
-      "size": 39708468,
-      "url": "https://github.com/stumpapp/stump/releases/download/v0.1.13/windows-build-results.zip"
+      "size": 39709293,
+      "url": "https://github.com/stumpapp/stump/releases/download/v0.1.14/windows-build-results.zip"
     },
     {
       "name": "macos-arm-build-results.zip",
-      "size": 40358219,
-      "url": "https://github.com/stumpapp/stump/releases/download/v0.1.13/macos-arm-build-results.zip"
+      "size": 40361745,
+      "url": "https://github.com/stumpapp/stump/releases/download/v0.1.14/macos-arm-build-results.zip"
     },
     {
       "name": "macos-intel-build-results.zip",
-      "size": 41830359,
-      "url": "https://github.com/stumpapp/stump/releases/download/v0.1.13/macos-intel-build-results.zip"
+      "size": 41835419,
+      "url": "https://github.com/stumpapp/stump/releases/download/v0.1.14/macos-intel-build-results.zip"
     },
     {
       "name": "linux-arm-build-results.zip",
-      "size": 42002967,
-      "url": "https://github.com/stumpapp/stump/releases/download/v0.1.13/linux-arm-build-results.zip"
+      "size": 41995841,
+      "url": "https://github.com/stumpapp/stump/releases/download/v0.1.14/linux-arm-build-results.zip"
     },
     {
       "name": "linux-build-results.zip",
-      "size": 42495099,
-      "url": "https://github.com/stumpapp/stump/releases/download/v0.1.13/linux-build-results.zip"
+      "size": 42495240,
+      "url": "https://github.com/stumpapp/stump/releases/download/v0.1.14/linux-build-results.zip"
     }
   ],
   "pinned": false,

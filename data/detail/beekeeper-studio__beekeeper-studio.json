@@ -22,51 +22,51 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/beekeeper-studio/beekeeper-studio/zip/refs/heads/master",
   "release": {
-    "tag": "v6.2.2",
-    "name": "v6.2.2",
-    "published": "2026-11-06T20:31:12Z",
-    "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/tag/v6.2.2"
+    "tag": "v6.3.3",
+    "name": "v6.3.3",
+    "published": "2026-11-19T18:13:41Z",
+    "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/tag/v6.3.3"
   },
   "assets": [
     {
-      "name": "Beekeeper-Studio-6.2.2-portable.exe",
-      "size": 279521584,
-      "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.2.2/Beekeeper-Studio-6.2.2-portable.exe"
+      "name": "Beekeeper-Studio-6.3.3-portable.exe",
+      "size": 281893800,
+      "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.3.3/Beekeeper-Studio-6.3.3-portable.exe"
     },
     {
-      "name": "Beekeeper-Studio-Setup-6.2.2.exe",
-      "size": 279884256,
-      "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.2.2/Beekeeper-Studio-Setup-6.2.2.exe"
+      "name": "Beekeeper-Studio-Setup-6.3.3.exe",
+      "size": 282256424,
+      "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.3.3/Beekeeper-Studio-Setup-6.3.3.exe"
     },
     {
-      "name": "Beekeeper-Studio-6.2.2-arm64.dmg",
-      "size": 371858564,
-      "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.2.2/Beekeeper-Studio-6.2.2-arm64.dmg"
+      "name": "Beekeeper-Studio-6.3.3-arm64.dmg",
+      "size": 378089070,
+      "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.3.3/Beekeeper-Studio-6.3.3-arm64.dmg"
     },
     {
-      "name": "Beekeeper-Studio-6.2.2.dmg",
-      "size": 378454577,
-      "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.2.2/Beekeeper-Studio-6.2.2.dmg"
+      "name": "Beekeeper-Studio-6.3.3.dmg",
+      "size": 384192331,
+      "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.3.3/Beekeeper-Studio-6.3.3.dmg"
     },
     {
-      "name": "beekeeper-studio-6.2.2.aarch64.rpm",
-      "size": 220465969,
-      "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.2.2/beekeeper-studio-6.2.2.aarch64.rpm"
+      "name": "beekeeper-studio-6.3.3.aarch64.rpm",
+      "size": 220702509,
+      "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.3.3/beekeeper-studio-6.3.3.aarch64.rpm"
     },
     {
-      "name": "beekeeper-studio-6.2.2.x86_64.rpm",
-      "size": 227536861,
-      "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.2.2/beekeeper-studio-6.2.2.x86_64.rpm"
+      "name": "Beekeeper-Studio-6.3.3-aarch64.flatpak",
+      "size": 225582448,
+      "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.3.3/Beekeeper-Studio-6.3.3-aarch64.flatpak"
     },
     {
-      "name": "beekeeper-studio-6.2.2-aarch64.pacman",
-      "size": 235336700,
-      "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.2.2/beekeeper-studio-6.2.2-aarch64.pacman"
+      "name": "beekeeper-studio-6.3.3-aarch64.pacman",
+      "size": 234178904,
+      "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.3.3/beekeeper-studio-6.3.3-aarch64.pacman"
     },
     {
-      "name": "beekeeper-studio-6.2.2.pacman",
-      "size": 242804048,
-      "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.2.2/beekeeper-studio-6.2.2.pacman"
+      "name": "beekeeper-studio-6.3.3.pacman",
+      "size": 241231028,
+      "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.3.3/beekeeper-studio-6.3.3.pacman"
     }
   ],
   "pinned": false,

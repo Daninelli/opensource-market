@@ -21,46 +21,46 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/zitadel/zitadel/zip/refs/heads/main",
   "release": {
-    "tag": "v4.20.3",
-    "name": "v4.20.3",
-    "published": "2026-11-13T14:15:14Z",
-    "url": "https://github.com/zitadel/zitadel/releases/tag/v4.20.3"
+    "tag": "v4.20.5",
+    "name": "v4.20.5",
+    "published": "2026-11-18T20:46:33Z",
+    "url": "https://github.com/zitadel/zitadel/releases/tag/v4.20.5"
   },
   "assets": [
     {
       "name": "zitadel-windows-arm64.tar.gz",
-      "size": 49261455,
-      "url": "https://github.com/zitadel/zitadel/releases/download/v4.20.3/zitadel-windows-arm64.tar.gz"
+      "size": 49268940,
+      "url": "https://github.com/zitadel/zitadel/releases/download/v4.20.5/zitadel-windows-arm64.tar.gz"
     },
     {
       "name": "zitadel-darwin-arm64.tar.gz",
-      "size": 51425084,
-      "url": "https://github.com/zitadel/zitadel/releases/download/v4.20.3/zitadel-darwin-arm64.tar.gz"
+      "size": 51432259,
+      "url": "https://github.com/zitadel/zitadel/releases/download/v4.20.5/zitadel-darwin-arm64.tar.gz"
     },
     {
       "name": "zitadel-windows-amd64.tar.gz",
-      "size": 53776901,
-      "url": "https://github.com/zitadel/zitadel/releases/download/v4.20.3/zitadel-windows-amd64.tar.gz"
+      "size": 53777486,
+      "url": "https://github.com/zitadel/zitadel/releases/download/v4.20.5/zitadel-windows-amd64.tar.gz"
     },
     {
       "name": "zitadel-darwin-amd64.tar.gz",
-      "size": 53850802,
-      "url": "https://github.com/zitadel/zitadel/releases/download/v4.20.3/zitadel-darwin-amd64.tar.gz"
+      "size": 53862991,
+      "url": "https://github.com/zitadel/zitadel/releases/download/v4.20.5/zitadel-darwin-amd64.tar.gz"
     },
     {
       "name": "zitadel-linux-arm64.tar.gz",
-      "size": 49072823,
-      "url": "https://github.com/zitadel/zitadel/releases/download/v4.20.3/zitadel-linux-arm64.tar.gz"
+      "size": 49084145,
+      "url": "https://github.com/zitadel/zitadel/releases/download/v4.20.5/zitadel-linux-arm64.tar.gz"
     },
     {
       "name": "zitadel-linux-amd64.tar.gz",
-      "size": 52878662,
-      "url": "https://github.com/zitadel/zitadel/releases/download/v4.20.3/zitadel-linux-amd64.tar.gz"
+      "size": 52883041,
+      "url": "https://github.com/zitadel/zitadel/releases/download/v4.20.5/zitadel-linux-amd64.tar.gz"
     },
     {
       "name": "zitadel-login.tar.gz",
-      "size": 15882516,
-      "url": "https://github.com/zitadel/zitadel/releases/download/v4.20.3/zitadel-login.tar.gz"
+      "size": 15877896,
+      "url": "https://github.com/zitadel/zitadel/releases/download/v4.20.5/zitadel-login.tar.gz"
     }
   ],
   "pinned": false,

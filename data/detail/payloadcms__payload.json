@@ -21,16 +21,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/payloadcms/payload/zip/refs/heads/main",
   "release": {
-    "tag": "v3.93.0",
-    "name": "v3.93.0",
-    "published": "2026-11-04T15:09:39Z",
-    "url": "https://github.com/payloadcms/payload/releases/tag/v3.93.0"
+    "tag": "v3.94.0",
+    "name": "v3.94.0",
+    "published": "2026-11-17T18:12:05Z",
+    "url": "https://github.com/payloadcms/payload/releases/tag/v3.94.0"
   },
   "assets": [
     {
-      "name": "payload-sboms-3.93.0.zip",
-      "size": 1687092,
-      "url": "https://github.com/payloadcms/payload/releases/download/v3.93.0/payload-sboms-3.93.0.zip"
+      "name": "payload-sboms-3.94.0.zip",
+      "size": 1685895,
+      "url": "https://github.com/payloadcms/payload/releases/download/v3.94.0/payload-sboms-3.94.0.zip"
     }
   ],
   "pinned": false,

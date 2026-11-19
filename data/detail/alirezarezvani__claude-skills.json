@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/alirezarezvani/claude-skills/zip/refs/heads/main",
   "release": {
-    "tag": "v2.14.11",
-    "name": "v2.14.11 — CRA, IEC 62304 and skill hints",
-    "published": "2026-11-11T06:17:51Z",
-    "url": "https://github.com/alirezarezvani/claude-skills/releases/tag/v2.14.11"
+    "tag": "v2.14.14",
+    "name": "v2.14.14 — mobile-release, cloud-finops and support-ops",
+    "published": "2026-11-17T08:35:28Z",
+    "url": "https://github.com/alirezarezvani/claude-skills/releases/tag/v2.14.14"
   },
   "assets": [],
   "pinned": false,

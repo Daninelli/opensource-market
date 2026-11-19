@@ -21,46 +21,46 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/siyuan-note/siyuan/zip/refs/heads/master",
   "release": {
-    "tag": "v3.8.10",
-    "name": "v3.8.10",
-    "published": "2026-11-10T04:13:26Z",
-    "url": "https://github.com/siyuan-note/siyuan/releases/tag/v3.8.10"
+    "tag": "v3.8.11",
+    "name": "v3.8.11",
+    "published": "2026-11-19T15:00:54Z",
+    "url": "https://github.com/siyuan-note/siyuan/releases/tag/v3.8.11"
   },
   "assets": [
     {
-      "name": "siyuan-3.8.10-win-arm64.exe",
-      "size": 204725912,
-      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.10/siyuan-3.8.10-win-arm64.exe"
+      "name": "siyuan-3.8.11-win-arm64.exe",
+      "size": 205168448,
+      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.11/siyuan-3.8.11-win-arm64.exe"
     },
     {
-      "name": "siyuan-3.8.10-win.exe",
-      "size": 241116904,
-      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.10/siyuan-3.8.10-win.exe"
+      "name": "siyuan-3.8.11-win.exe",
+      "size": 241481424,
+      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.11/siyuan-3.8.11-win.exe"
     },
     {
-      "name": "siyuan-3.8.10-mac.dmg",
-      "size": 283750326,
-      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.10/siyuan-3.8.10-mac.dmg"
+      "name": "siyuan-3.8.11-mac.dmg",
+      "size": 284289017,
+      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.11/siyuan-3.8.11-mac.dmg"
     },
     {
-      "name": "siyuan-3.8.10-mac-arm64.dmg",
-      "size": 285619855,
-      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.10/siyuan-3.8.10-mac-arm64.dmg"
+      "name": "siyuan-3.8.11-mac-arm64.dmg",
+      "size": 285951329,
+      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.11/siyuan-3.8.11-mac-arm64.dmg"
     },
     {
-      "name": "siyuan-3.8.10-linux-arm64.rpm",
-      "size": 188404625,
-      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.10/siyuan-3.8.10-linux-arm64.rpm"
+      "name": "siyuan-3.8.11-linux-arm64.rpm",
+      "size": 188748757,
+      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.11/siyuan-3.8.11-linux-arm64.rpm"
     },
     {
-      "name": "siyuan-3.8.10-linux.rpm",
-      "size": 198477097,
-      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.10/siyuan-3.8.10-linux.rpm"
+      "name": "siyuan-3.8.11-linux.rpm",
+      "size": 199196969,
+      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.11/siyuan-3.8.11-linux.rpm"
     },
     {
-      "name": "siyuan-3.8.10.apk",
-      "size": 122459962,
-      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.10/siyuan-3.8.10.apk"
+      "name": "siyuan-3.8.11.apk",
+      "size": 122880182,
+      "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.11/siyuan-3.8.11.apk"
     }
   ],
   "pinned": false,

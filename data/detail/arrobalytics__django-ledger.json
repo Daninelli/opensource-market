@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/arrobalytics/django-ledger/zip/refs/heads/master",
   "release": {
-    "tag": "v0.9.1",
-    "name": "v0.9.1",
-    "published": "2026-11-06T23:30:55Z",
-    "url": "https://github.com/arrobalytics/django-ledger/releases/tag/v0.9.1"
+    "tag": "v0.9.2",
+    "name": "v0.9.2",
+    "published": "2026-11-17T17:43:23Z",
+    "url": "https://github.com/arrobalytics/django-ledger/releases/tag/v0.9.2"
   },
   "assets": [],
   "pinned": false,

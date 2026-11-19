@@ -21,10 +21,10 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/chatwoot/chatwoot/zip/refs/heads/develop",
   "release": {
-    "tag": "v4.19.1",
-    "name": "v4.19.1",
-    "published": "2026-10-24T04:48:08Z",
-    "url": "https://github.com/chatwoot/chatwoot/releases/tag/v4.19.1"
+    "tag": "v4.20.0",
+    "name": "v4.20.0",
+    "published": "2026-11-18T09:07:54Z",
+    "url": "https://github.com/chatwoot/chatwoot/releases/tag/v4.20.0"
   },
   "assets": [],
   "pinned": false,

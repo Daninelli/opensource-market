@@ -22,21 +22,21 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/ether/etherpad/zip/refs/heads/develop",
   "release": {
-    "tag": "v3.3.17",
-    "name": "v3.3.17",
-    "published": "2026-11-11T17:07:54Z",
-    "url": "https://github.com/ether/etherpad/releases/tag/v3.3.17"
+    "tag": "v3.3.19",
+    "name": "v3.3.19",
+    "published": "2026-11-17T16:45:42Z",
+    "url": "https://github.com/ether/etherpad/releases/tag/v3.3.19"
   },
   "assets": [
     {
       "name": "etherpad-latest_arm64.deb",
-      "size": 46867482,
-      "url": "https://github.com/ether/etherpad/releases/download/v3.3.17/etherpad-latest_arm64.deb"
+      "size": 46455474,
+      "url": "https://github.com/ether/etherpad/releases/download/v3.3.19/etherpad-latest_arm64.deb"
     },
     {
-      "name": "etherpad_3.3.17-1_arm64.deb",
-      "size": 46867482,
-      "url": "https://github.com/ether/etherpad/releases/download/v3.3.17/etherpad_3.3.17-1_arm64.deb"
+      "name": "etherpad_3.3.19-1_arm64.deb",
+      "size": 46455474,
+      "url": "https://github.com/ether/etherpad/releases/download/v3.3.19/etherpad_3.3.19-1_arm64.deb"
     }
   ],
   "pinned": false,

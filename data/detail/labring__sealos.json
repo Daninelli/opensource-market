@@ -20,21 +20,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/labring/sealos/zip/refs/heads/main",
   "release": {
-    "tag": "v5.1.1",
-    "name": "v5.1.1",
-    "published": "2025-11-17T04:24:39Z",
-    "url": "https://github.com/labring/sealos/releases/tag/v5.1.1"
+    "tag": "v5.1.2",
+    "name": "v5.1.2",
+    "published": "2026-11-19T03:34:01Z",
+    "url": "https://github.com/labring/sealos/releases/tag/v5.1.2"
   },
   "assets": [
     {
-      "name": "sealos_5.1.1_linux_arm64.deb",
-      "size": 24808876,
-      "url": "https://github.com/labring/sealos/releases/download/v5.1.1/sealos_5.1.1_linux_arm64.deb"
+      "name": "sealos_5.1.2_linux_arm64.deb",
+      "size": 25432414,
+      "url": "https://github.com/labring/sealos/releases/download/v5.1.2/sealos_5.1.2_linux_arm64.deb"
     },
     {
-      "name": "sealos_5.1.1_linux_arm64.rpm",
-      "size": 25717330,
-      "url": "https://github.com/labring/sealos/releases/download/v5.1.1/sealos_5.1.1_linux_arm64.rpm"
+      "name": "sealos_5.1.2_linux_arm64.rpm",
+      "size": 26175023,
+      "url": "https://github.com/labring/sealos/releases/download/v5.1.2/sealos_5.1.2_linux_arm64.rpm"
     }
   ],
   "pinned": false,

@@ -22,10 +22,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/metabase/metabase/zip/refs/heads/master",
   "release": {
-    "tag": "v0.65.4",
-    "name": "Metabase 65.4",
-    "published": "2026-11-13T02:32:58Z",
-    "url": "https://github.com/metabase/metabase/releases/tag/v0.65.4"
+    "tag": "v0.65.6",
+    "name": "Metabase 65.6",
+    "published": "2026-11-18T20:10:44Z",
+    "url": "https://github.com/metabase/metabase/releases/tag/v0.65.6"
   },
   "assets": [],
   "pinned": false,

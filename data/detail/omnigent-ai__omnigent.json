@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/omnigent-ai/omnigent/zip/refs/heads/main",
   "release": {
-    "tag": "v0.22.0",
-    "name": "v0.22.0",
-    "published": "2026-11-13T06:44:09Z",
-    "url": "https://github.com/omnigent-ai/omnigent/releases/tag/v0.22.0"
+    "tag": "v0.23.0",
+    "name": "v0.23.0",
+    "published": "2026-11-19T03:07:04Z",
+    "url": "https://github.com/omnigent-ai/omnigent/releases/tag/v0.23.0"
   },
   "assets": [],
   "pinned": false,

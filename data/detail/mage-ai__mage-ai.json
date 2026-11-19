@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mage-ai/mage-ai/zip/refs/heads/master",
   "release": {
-    "tag": "0.9.80",
-    "name": "0.9.80",
-    "published": "2026-10-09T21:41:32Z",
-    "url": "https://github.com/mage-ai/mage-ai/releases/tag/0.9.80"
+    "tag": "0.9.81",
+    "name": "0.9.81",
+    "published": "2026-11-18T09:10:48Z",
+    "url": "https://github.com/mage-ai/mage-ai/releases/tag/0.9.81"
   },
   "assets": [],
   "pinned": false,

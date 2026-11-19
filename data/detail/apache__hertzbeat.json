@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/apache/hertzbeat/zip/refs/heads/master",
   "release": {
-    "tag": "v1.9.0",
-    "name": "v1.9.0",
-    "published": "2026-09-13T13:06:10Z",
-    "url": "https://github.com/apache/hertzbeat/releases/tag/v1.9.0"
+    "tag": "v1.9.1",
+    "name": "v1.9.1",
+    "published": "2026-11-17T09:30:45Z",
+    "url": "https://github.com/apache/hertzbeat/releases/tag/v1.9.1"
   },
   "assets": [],
   "pinned": false,

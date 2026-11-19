@@ -1,10 +1,25 @@
 {
-  "generated_at": "2026-11-19T11:40:29.537Z",
+  "generated_at": "2026-11-19T18:24:14.103Z",
   "refreshed_at": "2026-11-19T11:40:29.424Z",
   "days": 7,
-  "total_projects": 1715,
-  "count": 5,
+  "total_projects": 1716,
+  "count": 6,
   "items": [
+    {
+      "name": "Motrix",
+      "repo": "agalwood/Motrix",
+      "added_at": "2026-11-20T02:18:58+08:00",
+      "category": "工具",
+      "category_slug": "tool",
+      "subcategory": "下载工具",
+      "note_zh": "基于 aria2 的全能下载管理器，支持 HTTP/FTP/BT/磁力，跨平台替代 IDM",
+      "license": "MIT",
+      "stars": 58536,
+      "updated_at": "2026-11-19T16:14:09Z",
+      "download_url": "https://codeload.github.com/agalwood/Motrix/zip/refs/heads/main",
+      "platform": "github",
+      "submitted_by": null
+    },
     {
       "name": "MuseScore Studio",
       "repo": "musescore/MuseScore",

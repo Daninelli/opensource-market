@@ -20,31 +20,31 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/jenkinsci/jenkins/zip/refs/heads/master",
   "release": {
-    "tag": "jenkins-2.590",
-    "name": "2.590",
-    "published": "2026-11-10T07:57:47Z",
-    "url": "https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.590"
+    "tag": "jenkins-2.591",
+    "name": "2.591",
+    "published": "2026-11-17T12:57:11Z",
+    "url": "https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.591"
   },
   "assets": [
     {
       "name": "jenkins.msi",
-      "size": 58826752,
-      "url": "https://github.com/jenkinsci/jenkins/releases/download/jenkins-2.590/jenkins.msi"
+      "size": 58900480,
+      "url": "https://github.com/jenkinsci/jenkins/releases/download/jenkins-2.591/jenkins.msi"
     },
     {
-      "name": "jenkins_2.590_all.deb",
-      "size": 52446352,
-      "url": "https://github.com/jenkinsci/jenkins/releases/download/jenkins-2.590/jenkins_2.590_all.deb"
+      "name": "jenkins_2.591_all.deb",
+      "size": 52487124,
+      "url": "https://github.com/jenkinsci/jenkins/releases/download/jenkins-2.591/jenkins_2.591_all.deb"
     },
     {
-      "name": "jenkins-2.590-1.noarch.rpm",
-      "size": 52511933,
-      "url": "https://github.com/jenkinsci/jenkins/releases/download/jenkins-2.590/jenkins-2.590-1.noarch.rpm"
+      "name": "jenkins-2.591-1.noarch.rpm",
+      "size": 52585721,
+      "url": "https://github.com/jenkinsci/jenkins/releases/download/jenkins-2.591/jenkins-2.591-1.noarch.rpm"
     },
     {
       "name": "jenkins.war",
-      "size": 52634190,
-      "url": "https://github.com/jenkinsci/jenkins/releases/download/jenkins-2.590/jenkins.war"
+      "size": 52707620,
+      "url": "https://github.com/jenkinsci/jenkins/releases/download/jenkins-2.591/jenkins.war"
     }
   ],
   "pinned": false,

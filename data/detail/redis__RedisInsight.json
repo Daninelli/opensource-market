@@ -21,36 +21,36 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/redis/RedisInsight/zip/refs/heads/main",
   "release": {
-    "tag": "3.8.0",
-    "name": "3.8.0 (July 2026)",
-    "published": "2026-07-21T07:51:57Z",
-    "url": "https://github.com/redis/RedisInsight/releases/tag/3.8.0"
+    "tag": "3.10.0",
+    "name": "3.10.0",
+    "published": "2026-11-17T13:51:39Z",
+    "url": "https://github.com/redis/RedisInsight/releases/tag/3.10.0"
   },
   "assets": [
     {
       "name": "Redis-Insight-win-installer.exe",
-      "size": 115599376,
-      "url": "https://github.com/redis/RedisInsight/releases/download/3.8.0/Redis-Insight-win-installer.exe"
+      "size": 134208568,
+      "url": "https://github.com/redis/RedisInsight/releases/download/3.10.0/Redis-Insight-win-installer.exe"
     },
     {
       "name": "Redis-Insight-mac-arm64.dmg",
-      "size": 134309487,
-      "url": "https://github.com/redis/RedisInsight/releases/download/3.8.0/Redis-Insight-mac-arm64.dmg"
+      "size": 151012113,
+      "url": "https://github.com/redis/RedisInsight/releases/download/3.10.0/Redis-Insight-mac-arm64.dmg"
     },
     {
       "name": "Redis-Insight-mac-x64.dmg",
-      "size": 141538303,
-      "url": "https://github.com/redis/RedisInsight/releases/download/3.8.0/Redis-Insight-mac-x64.dmg"
+      "size": 156684199,
+      "url": "https://github.com/redis/RedisInsight/releases/download/3.10.0/Redis-Insight-mac-x64.dmg"
     },
     {
       "name": "Redis-Insight-linux-aarch64.rpm",
-      "size": 89895805,
-      "url": "https://github.com/redis/RedisInsight/releases/download/3.8.0/Redis-Insight-linux-aarch64.rpm"
+      "size": 103028137,
+      "url": "https://github.com/redis/RedisInsight/releases/download/3.10.0/Redis-Insight-linux-aarch64.rpm"
     },
     {
       "name": "Redis-Insight-linux-x86_64.rpm",
-      "size": 95161637,
-      "url": "https://github.com/redis/RedisInsight/releases/download/3.8.0/Redis-Insight-linux-x86_64.rpm"
+      "size": 107739709,
+      "url": "https://github.com/redis/RedisInsight/releases/download/3.10.0/Redis-Insight-linux-x86_64.rpm"
     }
   ],
   "pinned": false,

@@ -22,51 +22,51 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/pulumi/pulumi/zip/refs/heads/master",
   "release": {
-    "tag": "v3.276.0",
-    "name": "v3.276.0",
-    "published": "2026-11-12T17:56:15Z",
-    "url": "https://github.com/pulumi/pulumi/releases/tag/v3.276.0"
+    "tag": "v3.277.0",
+    "name": "v3.277.0",
+    "published": "2026-11-18T13:02:51Z",
+    "url": "https://github.com/pulumi/pulumi/releases/tag/v3.277.0"
   },
   "assets": [
     {
-      "name": "pulumi-v3.276.0-windows-arm64.zip",
-      "size": 91654575,
-      "url": "https://github.com/pulumi/pulumi/releases/download/v3.276.0/pulumi-v3.276.0-windows-arm64.zip"
+      "name": "pulumi-v3.277.0-windows-arm64.zip",
+      "size": 91697479,
+      "url": "https://github.com/pulumi/pulumi/releases/download/v3.277.0/pulumi-v3.277.0-windows-arm64.zip"
     },
     {
-      "name": "pulumi-v3.276.0-darwin-arm64.tar.gz",
-      "size": 96428237,
-      "url": "https://github.com/pulumi/pulumi/releases/download/v3.276.0/pulumi-v3.276.0-darwin-arm64.tar.gz"
+      "name": "pulumi-v3.277.0-darwin-arm64.tar.gz",
+      "size": 96464605,
+      "url": "https://github.com/pulumi/pulumi/releases/download/v3.277.0/pulumi-v3.277.0-darwin-arm64.tar.gz"
     },
     {
-      "name": "pulumi-v3.276.0-windows-x64.zip",
-      "size": 103735388,
-      "url": "https://github.com/pulumi/pulumi/releases/download/v3.276.0/pulumi-v3.276.0-windows-x64.zip"
+      "name": "pulumi-v3.277.0-windows-x64.zip",
+      "size": 103780180,
+      "url": "https://github.com/pulumi/pulumi/releases/download/v3.277.0/pulumi-v3.277.0-windows-x64.zip"
     },
     {
-      "name": "pulumi-v3.276.0-darwin-x64.tar.gz",
-      "size": 104764768,
-      "url": "https://github.com/pulumi/pulumi/releases/download/v3.276.0/pulumi-v3.276.0-darwin-x64.tar.gz"
+      "name": "pulumi-v3.277.0-darwin-x64.tar.gz",
+      "size": 104814145,
+      "url": "https://github.com/pulumi/pulumi/releases/download/v3.277.0/pulumi-v3.277.0-darwin-x64.tar.gz"
     },
     {
-      "name": "pulumi-v3.276.0-linux-arm64.tar.gz",
-      "size": 92381360,
-      "url": "https://github.com/pulumi/pulumi/releases/download/v3.276.0/pulumi-v3.276.0-linux-arm64.tar.gz"
+      "name": "pulumi-v3.277.0-linux-arm64.tar.gz",
+      "size": 92432090,
+      "url": "https://github.com/pulumi/pulumi/releases/download/v3.277.0/pulumi-v3.277.0-linux-arm64.tar.gz"
     },
     {
-      "name": "pulumi-v3.276.0-linux-x64.tar.gz",
-      "size": 103073813,
-      "url": "https://github.com/pulumi/pulumi/releases/download/v3.276.0/pulumi-v3.276.0-linux-x64.tar.gz"
+      "name": "pulumi-v3.277.0-linux-x64.tar.gz",
+      "size": 103121658,
+      "url": "https://github.com/pulumi/pulumi/releases/download/v3.277.0/pulumi-v3.277.0-linux-x64.tar.gz"
     },
     {
-      "name": "sdk-python-pulumi-3.276.0-py3-none-any.whl",
-      "size": 461558,
-      "url": "https://github.com/pulumi/pulumi/releases/download/v3.276.0/sdk-python-pulumi-3.276.0-py3-none-any.whl"
+      "name": "sdk-python-pulumi-3.277.0-py3-none-any.whl",
+      "size": 466655,
+      "url": "https://github.com/pulumi/pulumi/releases/download/v3.277.0/sdk-python-pulumi-3.277.0-py3-none-any.whl"
     },
     {
-      "name": "sdk-nodejs-pulumi-pulumi-3.276.0.tgz",
-      "size": 2490498,
-      "url": "https://github.com/pulumi/pulumi/releases/download/v3.276.0/sdk-nodejs-pulumi-pulumi-3.276.0.tgz"
+      "name": "sdk-nodejs-pulumi-pulumi-3.277.0.tgz",
+      "size": 2495159,
+      "url": "https://github.com/pulumi/pulumi/releases/download/v3.277.0/sdk-nodejs-pulumi-pulumi-3.277.0.tgz"
     }
   ],
   "pinned": false,

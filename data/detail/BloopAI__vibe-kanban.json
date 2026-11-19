@@ -21,46 +21,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/BloopAI/vibe-kanban/zip/refs/heads/main",
   "release": {
-    "tag": "v0.1.44-20260424091429",
-    "name": "Release v0.1.44",
-    "published": "2026-04-24T09:46:55Z",
-    "url": "https://github.com/BloopAI/vibe-kanban/releases/tag/v0.1.44-20260424091429"
+    "tag": "v0.1.46.1794744340",
+    "name": "Release v0.1.46",
+    "published": "2026-11-15T13:16:39Z",
+    "url": "https://github.com/BloopAI/vibe-kanban/releases/tag/v0.1.46.1794744340"
   },
   "assets": [
     {
-      "name": "Vibe.Kanban_0.1.43_arm64-setup.exe",
-      "size": 36450540,
-      "url": "https://github.com/BloopAI/vibe-kanban/releases/download/v0.1.44-20260424091429/Vibe.Kanban_0.1.43_arm64-setup.exe"
+      "name": "windows-arm64-vibe-kanban-review.zip",
+      "size": 3362682,
+      "url": "https://github.com/BloopAI/vibe-kanban/releases/download/v0.1.46.1794744340/windows-arm64-vibe-kanban-review.zip"
     },
     {
-      "name": "Vibe.Kanban_0.1.44_arm64-setup.exe",
-      "size": 36457425,
-      "url": "https://github.com/BloopAI/vibe-kanban/releases/download/v0.1.44-20260424091429/Vibe.Kanban_0.1.44_arm64-setup.exe"
+      "name": "macos-arm64-vibe-kanban-review.zip",
+      "size": 3517200,
+      "url": "https://github.com/BloopAI/vibe-kanban/releases/download/v0.1.46.1794744340/macos-arm64-vibe-kanban-review.zip"
     },
     {
-      "name": "Vibe.Kanban_0.1.44_aarch64.dmg",
-      "size": 51306861,
-      "url": "https://github.com/BloopAI/vibe-kanban/releases/download/v0.1.44-20260424091429/Vibe.Kanban_0.1.44_aarch64.dmg"
+      "name": "windows-x64-vibe-kanban-review.zip",
+      "size": 3678922,
+      "url": "https://github.com/BloopAI/vibe-kanban/releases/download/v0.1.46.1794744340/windows-x64-vibe-kanban-review.zip"
     },
     {
-      "name": "Vibe.Kanban_0.1.44_x64.dmg",
-      "size": 53075137,
-      "url": "https://github.com/BloopAI/vibe-kanban/releases/download/v0.1.44-20260424091429/Vibe.Kanban_0.1.44_x64.dmg"
+      "name": "macos-x64-vibe-kanban-review.zip",
+      "size": 3733325,
+      "url": "https://github.com/BloopAI/vibe-kanban/releases/download/v0.1.46.1794744340/macos-x64-vibe-kanban-review.zip"
     },
     {
-      "name": "Vibe.Kanban_0.1.43_arm64.deb",
-      "size": 54929274,
-      "url": "https://github.com/BloopAI/vibe-kanban/releases/download/v0.1.44-20260424091429/Vibe.Kanban_0.1.43_arm64.deb"
+      "name": "linux-arm64-vibe-kanban-review.zip",
+      "size": 3591957,
+      "url": "https://github.com/BloopAI/vibe-kanban/releases/download/v0.1.46.1794744340/linux-arm64-vibe-kanban-review.zip"
     },
     {
-      "name": "Vibe.Kanban_0.1.44_arm64.deb",
-      "size": 54965104,
-      "url": "https://github.com/BloopAI/vibe-kanban/releases/download/v0.1.44-20260424091429/Vibe.Kanban_0.1.44_arm64.deb"
-    },
-    {
-      "name": "vibe-kanban-v0.1.44-20260424091429.zip",
-      "size": 23901693,
-      "url": "https://github.com/BloopAI/vibe-kanban/releases/download/v0.1.44-20260424091429/vibe-kanban-v0.1.44-20260424091429.zip"
+      "name": "linux-x64-vibe-kanban-review.zip",
+      "size": 3869276,
+      "url": "https://github.com/BloopAI/vibe-kanban/releases/download/v0.1.46.1794744340/linux-x64-vibe-kanban-review.zip"
     }
   ],
   "pinned": false,

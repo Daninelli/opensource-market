@@ -22,10 +22,10 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/blakeblackshear/frigate/zip/refs/heads/dev",
   "release": {
-    "tag": "v0.18.2",
-    "name": "0.18.2 Release",
-    "published": "2026-10-15T22:41:47Z",
-    "url": "https://github.com/blakeblackshear/frigate/releases/tag/v0.18.2"
+    "tag": "v0.18.3",
+    "name": "Release 0.18.3",
+    "published": "2026-11-19T02:26:02Z",
+    "url": "https://github.com/blakeblackshear/frigate/releases/tag/v0.18.3"
   },
   "assets": [],
   "pinned": false,

@@ -1,0 +1,78 @@
+{
+  "repo": "agalwood/Motrix",
+  "slug": "agalwood__Motrix",
+  "name": "Motrix",
+  "note_zh": "基于 aria2 的全能下载管理器，支持 HTTP/FTP/BT/磁力，跨平台替代 IDM",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "下载工具",
+  "subcategory_slug": "download",
+  "license": "MIT",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "TypeScript",
+    "Electron",
+    "aria2"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-11-19T16:14:09Z",
+  "added_at": "2026-11-20T02:18:58+08:00",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/agalwood/Motrix/zip/refs/heads/main",
+  "release": {
+    "tag": "v2.4.3",
+    "name": "v2.4.3",
+    "published": "2026-11-17T03:17:03Z",
+    "url": "https://github.com/agalwood/Motrix/releases/tag/v2.4.3"
+  },
+  "assets": [
+    {
+      "name": "Motrix-Setup-2.4.3-arm64.exe",
+      "size": 127416808,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.3/Motrix-Setup-2.4.3-arm64.exe"
+    },
+    {
+      "name": "Motrix-Setup-2.4.3.exe",
+      "size": 133386225,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.3/Motrix-Setup-2.4.3.exe"
+    },
+    {
+      "name": "Motrix-2.4.3-arm64.dmg",
+      "size": 138678015,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.3/Motrix-2.4.3-arm64.dmg"
+    },
+    {
+      "name": "Motrix-2.4.3-x64.dmg",
+      "size": 146000603,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.3/Motrix-2.4.3-x64.dmg"
+    },
+    {
+      "name": "Motrix-Native-Host-2.4.3-linux-arm64.tar.gz",
+      "size": 391952,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.3/Motrix-Native-Host-2.4.3-linux-arm64.tar.gz"
+    },
+    {
+      "name": "Motrix-Native-Host-2.4.3-linux-x64.tar.gz",
+      "size": 416352,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.3/Motrix-Native-Host-2.4.3-linux-x64.tar.gz"
+    },
+    {
+      "name": "Motrix-2.4.3-fnos-x64.fpk",
+      "size": 60016707,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.3/Motrix-2.4.3-fnos-x64.fpk"
+    },
+    {
+      "name": "Motrix-2.4.3-fnos-arm64.fpk",
+      "size": 60219254,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.3/Motrix-2.4.3-fnos-arm64.fpk"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

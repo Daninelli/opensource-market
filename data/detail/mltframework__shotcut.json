@@ -21,46 +21,46 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mltframework/shotcut/zip/refs/heads/master",
   "release": {
-    "tag": "v26.9.27",
-    "name": "v26.9.27",
-    "published": "2026-09-28T00:29:29Z",
-    "url": "https://github.com/mltframework/shotcut/releases/tag/v26.9.27"
+    "tag": "v26.11.15",
+    "name": "v26.11.15",
+    "published": "2026-11-16T21:01:18Z",
+    "url": "https://github.com/mltframework/shotcut/releases/tag/v26.11.15"
   },
   "assets": [
     {
-      "name": "shotcut-win_ARM-26.9.27.exe",
-      "size": 117265384,
-      "url": "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-win_ARM-26.9.27.exe"
+      "name": "shotcut-win_ARM-26.11.15.exe",
+      "size": 118927440,
+      "url": "https://github.com/mltframework/shotcut/releases/download/v26.11.15/shotcut-win_ARM-26.11.15.exe"
     },
     {
-      "name": "shotcut-win64-26.9.27.exe",
-      "size": 152926384,
-      "url": "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-win64-26.9.27.exe"
+      "name": "shotcut-win64-26.11.15.exe",
+      "size": 142844768,
+      "url": "https://github.com/mltframework/shotcut/releases/download/v26.11.15/shotcut-win64-26.11.15.exe"
     },
     {
-      "name": "shotcut-macos-26.9.27.dmg",
-      "size": 210131979,
-      "url": "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-macos-26.9.27.dmg"
+      "name": "shotcut-macos-26.11.15.dmg",
+      "size": 211234714,
+      "url": "https://github.com/mltframework/shotcut/releases/download/v26.11.15/shotcut-macos-26.11.15.dmg"
     },
     {
-      "name": "shotcut-macos-26.9.28.dmg",
-      "size": 210616938,
-      "url": "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-macos-26.9.28.dmg"
+      "name": "shotcut-macos-unsigned-26.11.15.dmg",
+      "size": 299166847,
+      "url": "https://github.com/mltframework/shotcut/releases/download/v26.11.15/shotcut-macos-unsigned-26.11.15.dmg"
     },
     {
-      "name": "shotcut-linux-x86_64-26.9.27.txz",
-      "size": 153652280,
-      "url": "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-linux-x86_64-26.9.27.txz"
+      "name": "shotcut-linux-x86_64-26.11.15.txz",
+      "size": 153944796,
+      "url": "https://github.com/mltframework/shotcut/releases/download/v26.11.15/shotcut-linux-x86_64-26.11.15.txz"
     },
     {
-      "name": "shotcut-linux-x86_64-26.10.3.AppImage",
-      "size": 216024256,
-      "url": "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-linux-x86_64-26.10.3.AppImage"
+      "name": "shotcut-linux-x86_64-26.11.15.AppImage",
+      "size": 216413376,
+      "url": "https://github.com/mltframework/shotcut/releases/download/v26.11.15/shotcut-linux-x86_64-26.11.15.AppImage"
     },
     {
-      "name": "shotcut-src-26.9.27.txz",
-      "size": 312694812,
-      "url": "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-src-26.9.27.txz"
+      "name": "shotcut-src-26.11.15.txz",
+      "size": 311724724,
+      "url": "https://github.com/mltframework/shotcut/releases/download/v26.11.15/shotcut-src-26.11.15.txz"
     }
   ],
   "pinned": false,

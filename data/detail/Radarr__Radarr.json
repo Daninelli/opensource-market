@@ -22,41 +22,41 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/Radarr/Radarr/zip/refs/heads/develop",
   "release": {
-    "tag": "v6.4.4.10685",
-    "name": "6.4.4.10685",
-    "published": "2026-09-16T18:13:40Z",
-    "url": "https://github.com/Radarr/Radarr/releases/tag/v6.4.4.10685"
+    "tag": "v7.0.3.10918",
+    "name": "7.0.3.10918",
+    "published": "2026-11-16T01:40:22Z",
+    "url": "https://github.com/Radarr/Radarr/releases/tag/v7.0.3.10918"
   },
   "assets": [
     {
-      "name": "Radarr.master.6.4.4.10685.windows-core-x86-installer.exe",
-      "size": 73959181,
-      "url": "https://github.com/Radarr/Radarr/releases/download/v6.4.4.10685/Radarr.master.6.4.4.10685.windows-core-x86-installer.exe"
+      "name": "Radarr.master.7.0.3.10918.windows-core-x86-installer.exe",
+      "size": 63599777,
+      "url": "https://github.com/Radarr/Radarr/releases/download/v7.0.3.10918/Radarr.master.7.0.3.10918.windows-core-x86-installer.exe"
     },
     {
-      "name": "Radarr.master.6.4.4.10685.windows-core-x64-installer.exe",
-      "size": 80170582,
-      "url": "https://github.com/Radarr/Radarr/releases/download/v6.4.4.10685/Radarr.master.6.4.4.10685.windows-core-x64-installer.exe"
+      "name": "Radarr.master.7.0.3.10918.windows-core-x64-installer.exe",
+      "size": 67646711,
+      "url": "https://github.com/Radarr/Radarr/releases/download/v7.0.3.10918/Radarr.master.7.0.3.10918.windows-core-x64-installer.exe"
     },
     {
-      "name": "Radarr.master.6.4.4.10685.linux-core-arm.tar.gz",
-      "size": 101486982,
-      "url": "https://github.com/Radarr/Radarr/releases/download/v6.4.4.10685/Radarr.master.6.4.4.10685.linux-core-arm.tar.gz"
+      "name": "Radarr.master.7.0.3.10918.linux-core-arm.tar.gz",
+      "size": 107374869,
+      "url": "https://github.com/Radarr/Radarr/releases/download/v7.0.3.10918/Radarr.master.7.0.3.10918.linux-core-arm.tar.gz"
     },
     {
-      "name": "Radarr.master.6.4.4.10685.linux-musl-core-arm.tar.gz",
-      "size": 101638923,
-      "url": "https://github.com/Radarr/Radarr/releases/download/v6.4.4.10685/Radarr.master.6.4.4.10685.linux-musl-core-arm.tar.gz"
+      "name": "Radarr.master.7.0.3.10918.linux-musl-core-arm.tar.gz",
+      "size": 107922505,
+      "url": "https://github.com/Radarr/Radarr/releases/download/v7.0.3.10918/Radarr.master.7.0.3.10918.linux-musl-core-arm.tar.gz"
     },
     {
-      "name": "Radarr.master.6.4.4.10685.osx-app-core-arm64.zip",
-      "size": 66635503,
-      "url": "https://github.com/Radarr/Radarr/releases/download/v6.4.4.10685/Radarr.master.6.4.4.10685.osx-app-core-arm64.zip"
+      "name": "Radarr.master.7.0.3.10918.osx-app-core-arm64.zip",
+      "size": 70254421,
+      "url": "https://github.com/Radarr/Radarr/releases/download/v7.0.3.10918/Radarr.master.7.0.3.10918.osx-app-core-arm64.zip"
     },
     {
-      "name": "Radarr.master.6.4.4.10685.osx-app-core-x64.zip",
-      "size": 69894539,
-      "url": "https://github.com/Radarr/Radarr/releases/download/v6.4.4.10685/Radarr.master.6.4.4.10685.osx-app-core-x64.zip"
+      "name": "Radarr.master.7.0.3.10918.osx-app-core-x64.zip",
+      "size": 73364406,
+      "url": "https://github.com/Radarr/Radarr/releases/download/v7.0.3.10918/Radarr.master.7.0.3.10918.osx-app-core-x64.zip"
     }
   ],
   "pinned": false,

@@ -22,10 +22,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/appium/appium/zip/refs/heads/master",
   "release": {
-    "tag": "@appium/execute-driver-plugin@7.0.3",
-    "name": "@appium/execute-driver-plugin@7.0.3",
-    "published": "2026-11-14T21:46:58Z",
-    "url": "https://github.com/appium/appium/releases/tag/%40appium/execute-driver-plugin%407.0.3"
+    "tag": "@appium/http-server@1.0.0",
+    "name": "@appium/http-server@1.0.0",
+    "published": "2026-11-15T13:56:48Z",
+    "url": "https://github.com/appium/appium/releases/tag/%40appium/http-server%401.0.0"
   },
   "assets": [],
   "pinned": false,

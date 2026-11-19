@@ -22,10 +22,10 @@
   "default_branch": "preview",
   "download_url": "https://codeload.github.com/makeplane/plane/zip/refs/heads/preview",
   "release": {
-    "tag": "v1.4.3",
-    "name": "v1.4.3",
-    "published": "2026-10-28T19:36:28Z",
-    "url": "https://github.com/makeplane/plane/releases/tag/v1.4.3"
+    "tag": "v1.5.0",
+    "name": "v1.5.0",
+    "published": "2026-11-16T14:45:07Z",
+    "url": "https://github.com/makeplane/plane/releases/tag/v1.5.0"
   },
   "assets": [],
   "pinned": false,

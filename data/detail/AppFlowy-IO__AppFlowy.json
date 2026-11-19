@@ -21,46 +21,46 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/AppFlowy-IO/AppFlowy/zip/refs/heads/main",
   "release": {
-    "tag": "0.15.0",
-    "name": "v0.15.0",
-    "published": "2026-11-02T23:40:52Z",
-    "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/tag/0.15.0"
+    "tag": "0.15.1",
+    "name": "v0.15.1",
+    "published": "2026-11-15T11:08:51Z",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/tag/0.15.1"
   },
   "assets": [
     {
-      "name": "AppFlowy-0.15.0-windows-x86_64.exe",
-      "size": 94306136,
-      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.15.0/AppFlowy-0.15.0-windows-x86_64.exe"
+      "name": "AppFlowy-0.15.1-windows-x86_64.exe",
+      "size": 96723728,
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.15.1/AppFlowy-0.15.1-windows-x86_64.exe"
     },
     {
-      "name": "AppFlowy-0.15.0-macos-arm64.dmg",
-      "size": 119452957,
-      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.15.0/AppFlowy-0.15.0-macos-arm64.dmg"
+      "name": "AppFlowy-0.15.1-macos-arm64.dmg",
+      "size": 119286434,
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.15.1/AppFlowy-0.15.1-macos-arm64.dmg"
     },
     {
-      "name": "AppFlowy-0.15.0-macos-arm64.zip",
-      "size": 120707326,
-      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.15.0/AppFlowy-0.15.0-macos-arm64.zip"
+      "name": "AppFlowy-0.15.1-macos-arm64.zip",
+      "size": 120560799,
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.15.1/AppFlowy-0.15.1-macos-arm64.zip"
     },
     {
-      "name": "AppFlowy-0.15.0-windows-x86_64.zip",
-      "size": 136660487,
-      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.15.0/AppFlowy-0.15.0-windows-x86_64.zip"
+      "name": "AppFlowy-0.15.1-windows-x86_64.zip",
+      "size": 140087644,
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.15.1/AppFlowy-0.15.1-windows-x86_64.zip"
     },
     {
-      "name": "AppFlowy-0.15.0-linux-x86_64.deb",
-      "size": 150534036,
-      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.15.0/AppFlowy-0.15.0-linux-x86_64.deb"
+      "name": "AppFlowy-0.15.1-linux-x86_64.deb",
+      "size": 150423076,
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.15.1/AppFlowy-0.15.1-linux-x86_64.deb"
     },
     {
-      "name": "AppFlowy-0.15.0-linux-x86_64.AppImage",
-      "size": 191449592,
-      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.15.0/AppFlowy-0.15.0-linux-x86_64.AppImage"
+      "name": "AppFlowy-0.15.1-linux-x86_64.AppImage",
+      "size": 191187448,
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.15.1/AppFlowy-0.15.1-linux-x86_64.AppImage"
     },
     {
-      "name": "AppFlowy-0.15.0-android.apk",
-      "size": 255271922,
-      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.15.0/AppFlowy-0.15.0-android.apk"
+      "name": "AppFlowy-0.15.1-android.apk",
+      "size": 249914267,
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.15.1/AppFlowy-0.15.1-android.apk"
     }
   ],
   "pinned": false,

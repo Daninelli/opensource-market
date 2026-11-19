@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/transloadit/uppy/zip/refs/heads/main",
   "release": {
-    "tag": "uppy@6.0.7",
-    "name": "uppy@6.0.7",
-    "published": "2026-11-05T18:55:23Z",
-    "url": "https://github.com/transloadit/uppy/releases/tag/uppy%406.0.7"
+    "tag": "@uppy/companion@7.2.4",
+    "name": "@uppy/companion@7.2.4",
+    "published": "2026-11-19T06:37:44Z",
+    "url": "https://github.com/transloadit/uppy/releases/tag/%40uppy/companion%407.2.4"
   },
   "assets": [],
   "pinned": false,

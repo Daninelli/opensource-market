@@ -20,46 +20,46 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/rabbitmq/rabbitmq-server/zip/refs/heads/main",
   "release": {
-    "tag": "v4.4.0",
-    "name": "RabbitMQ 4.4.0",
-    "published": "2026-10-19T06:38:13Z",
-    "url": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.4.0"
+    "tag": "v4.4.1",
+    "name": "RabbitMQ 4.4.1",
+    "published": "2026-11-16T20:08:31Z",
+    "url": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.4.1"
   },
   "assets": [
     {
-      "name": "rabbitmq-server-4.4.0.exe",
-      "size": 24457312,
-      "url": "https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.4.0/rabbitmq-server-4.4.0.exe"
+      "name": "rabbitmq-server-4.4.1.exe",
+      "size": 24590544,
+      "url": "https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.4.1/rabbitmq-server-4.4.1.exe"
     },
     {
-      "name": "rabbitmq-server-windows-4.4.0.zip",
-      "size": 71254469,
-      "url": "https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.4.0/rabbitmq-server-windows-4.4.0.zip"
+      "name": "rabbitmq-server-windows-4.4.1.zip",
+      "size": 71410614,
+      "url": "https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.4.1/rabbitmq-server-windows-4.4.1.zip"
     },
     {
-      "name": "rabbitmq-server-4.4.0-1.el8.src.rpm",
-      "size": 3703969,
-      "url": "https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.4.0/rabbitmq-server-4.4.0-1.el8.src.rpm"
+      "name": "rabbitmq-server-4.4.1-1.el8.src.rpm",
+      "size": 3749725,
+      "url": "https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.4.1/rabbitmq-server-4.4.1-1.el8.src.rpm"
     },
     {
-      "name": "rabbitmq-server_4.4.0-1_all.deb",
-      "size": 24346052,
-      "url": "https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.4.0/rabbitmq-server_4.4.0-1_all.deb"
+      "name": "rabbitmq-server_4.4.1-1_all.deb",
+      "size": 24475884,
+      "url": "https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.4.1/rabbitmq-server_4.4.1-1_all.deb"
     },
     {
-      "name": "rabbitmq-server-4.4.0.manifest",
-      "size": 237606,
-      "url": "https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.4.0/rabbitmq-server-4.4.0.manifest"
+      "name": "rabbitmq-server-4.4.1.manifest",
+      "size": 239169,
+      "url": "https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.4.1/rabbitmq-server-4.4.1.manifest"
     },
     {
-      "name": "rabbitmq-server-4.4.0.tar.xz",
-      "size": 3665404,
-      "url": "https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.4.0/rabbitmq-server-4.4.0.tar.xz"
+      "name": "rabbitmq-server-4.4.1.tar.xz",
+      "size": 3711296,
+      "url": "https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.4.1/rabbitmq-server-4.4.1.tar.xz"
     },
     {
-      "name": "rabbitmq-server_4.4.0.orig.tar.xz",
-      "size": 3665404,
-      "url": "https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.4.0/rabbitmq-server_4.4.0.orig.tar.xz"
+      "name": "rabbitmq-server_4.4.1.orig.tar.xz",
+      "size": 3711296,
+      "url": "https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.4.1/rabbitmq-server_4.4.1.orig.tar.xz"
     }
   ],
   "pinned": false,

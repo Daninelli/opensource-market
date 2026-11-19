@@ -22,16 +22,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Egonex-AI/Understand-Anything/zip/refs/heads/main",
   "release": {
-    "tag": "v2.9.0",
-    "name": "v2.9.0 — Figma design graphs + .ua data directory",
-    "published": "2026-07-10T09:36:42Z",
-    "url": "https://github.com/Egonex-AI/Understand-Anything/releases/tag/v2.9.0"
+    "tag": "v2.9.8",
+    "name": "v2.9.8 — Code lessons + Devin/MCP support",
+    "published": "2026-11-15T12:10:30Z",
+    "url": "https://github.com/Egonex-AI/Understand-Anything/releases/tag/v2.9.8"
   },
   "assets": [
     {
       "name": "understand-anything-viewer.tgz",
-      "size": 794982,
-      "url": "https://github.com/Egonex-AI/Understand-Anything/releases/download/v2.9.0/understand-anything-viewer.tgz"
+      "size": 807775,
+      "url": "https://github.com/Egonex-AI/Understand-Anything/releases/download/v2.9.8/understand-anything-viewer.tgz"
     }
   ],
   "pinned": false,

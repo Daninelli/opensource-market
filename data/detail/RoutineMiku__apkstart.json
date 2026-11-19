@@ -22,26 +22,26 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/RoutineMiku/apkstart/zip/refs/heads/main",
   "release": {
-    "tag": "v0.4.3",
-    "name": "ApkStart v0.4.3",
-    "published": "2026-11-15T03:13:29Z",
-    "url": "https://github.com/RoutineMiku/apkstart/releases/tag/v0.4.3"
+    "tag": "v0.6.2",
+    "name": "ApkStart v0.6.2",
+    "published": "2026-11-19T03:30:32Z",
+    "url": "https://github.com/RoutineMiku/apkstart/releases/tag/v0.6.2"
   },
   "assets": [
     {
-      "name": "ApkStart-v0.4.3-win64-portable.zip",
-      "size": 99844497,
-      "url": "https://github.com/RoutineMiku/apkstart/releases/download/v0.4.3/ApkStart-v0.4.3-win64-portable.zip"
+      "name": "ApkStart-v0.6.2-win64-portable.zip",
+      "size": 102048464,
+      "url": "https://github.com/RoutineMiku/apkstart/releases/download/v0.6.2/ApkStart-v0.6.2-win64-portable.zip"
     },
     {
-      "name": "ApkStart-0.4.3-Setup.exe",
-      "size": 1449449799,
-      "url": "https://github.com/RoutineMiku/apkstart/releases/download/v0.4.3/ApkStart-0.4.3-Setup.exe"
+      "name": "ApkStart-0.6.2-Setup.exe",
+      "size": 1452271755,
+      "url": "https://github.com/RoutineMiku/apkstart/releases/download/v0.6.2/ApkStart-0.6.2-Setup.exe"
     },
     {
-      "name": "ApkStart-runtime-v0.4.3.zip",
-      "size": 1428769406,
-      "url": "https://github.com/RoutineMiku/apkstart/releases/download/v0.4.3/ApkStart-runtime-v0.4.3.zip"
+      "name": "ApkStart-runtime-v0.6.2.zip",
+      "size": 1432920847,
+      "url": "https://github.com/RoutineMiku/apkstart/releases/download/v0.6.2/ApkStart-runtime-v0.6.2.zip"
     }
   ],
   "pinned": false,

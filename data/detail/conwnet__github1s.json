@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/conwnet/github1s/zip/refs/heads/master",
   "release": {
-    "tag": "v0.35.4",
-    "name": "0.35.4 (Oct 20, 2026)",
-    "published": "2026-10-20T06:29:26Z",
-    "url": "https://github.com/conwnet/github1s/releases/tag/v0.35.4"
+    "tag": "v0.35.5",
+    "name": "0.35.5 (Nov 17, 2026)",
+    "published": "2026-11-17T12:30:12Z",
+    "url": "https://github.com/conwnet/github1s/releases/tag/v0.35.5"
   },
   "assets": [],
   "pinned": false,

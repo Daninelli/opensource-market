@@ -21,31 +21,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/run-llama/liteparse/zip/refs/heads/main",
   "release": {
-    "tag": "node-v2.19.0",
-    "name": "Node.js v2.19.0",
-    "published": "2026-11-13T03:24:00Z",
-    "url": "https://github.com/run-llama/liteparse/releases/tag/node-v2.19.0"
+    "tag": "node-v2.20.0",
+    "name": "Node.js v2.20.0",
+    "published": "2026-11-17T22:40:42Z",
+    "url": "https://github.com/run-llama/liteparse/releases/tag/node-v2.20.0"
   },
   "assets": [
     {
       "name": "lit-darwin-arm64.tar.gz",
-      "size": 7628742,
-      "url": "https://github.com/run-llama/liteparse/releases/download/node-v2.19.0/lit-darwin-arm64.tar.gz"
+      "size": 7663232,
+      "url": "https://github.com/run-llama/liteparse/releases/download/node-v2.20.0/lit-darwin-arm64.tar.gz"
     },
     {
       "name": "lit-darwin-x64.tar.gz",
-      "size": 8110309,
-      "url": "https://github.com/run-llama/liteparse/releases/download/node-v2.19.0/lit-darwin-x64.tar.gz"
+      "size": 8130129,
+      "url": "https://github.com/run-llama/liteparse/releases/download/node-v2.20.0/lit-darwin-x64.tar.gz"
     },
     {
       "name": "lit-linux-arm64.tar.gz",
-      "size": 8353872,
-      "url": "https://github.com/run-llama/liteparse/releases/download/node-v2.19.0/lit-linux-arm64.tar.gz"
+      "size": 8380278,
+      "url": "https://github.com/run-llama/liteparse/releases/download/node-v2.20.0/lit-linux-arm64.tar.gz"
     },
     {
       "name": "lit-linux-x64.tar.gz",
-      "size": 8720877,
-      "url": "https://github.com/run-llama/liteparse/releases/download/node-v2.19.0/lit-linux-x64.tar.gz"
+      "size": 8759295,
+      "url": "https://github.com/run-llama/liteparse/releases/download/node-v2.20.0/lit-linux-x64.tar.gz"
     }
   ],
   "pinned": false,

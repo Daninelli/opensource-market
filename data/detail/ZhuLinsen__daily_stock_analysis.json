@@ -21,31 +21,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ZhuLinsen/daily_stock_analysis/zip/refs/heads/main",
   "release": {
-    "tag": "v3.34.0",
-    "name": "v3.34.0",
-    "published": "2026-11-09T12:39:03Z",
-    "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/tag/v3.34.0"
+    "tag": "v3.35.0",
+    "name": "v3.35.0",
+    "published": "2026-11-16T13:21:05Z",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/tag/v3.35.0"
   },
   "assets": [
     {
-      "name": "daily-stock-analysis-windows-installer-v3.34.0.exe",
-      "size": 245536953,
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/download/v3.34.0/daily-stock-analysis-windows-installer-v3.34.0.exe"
+      "name": "daily-stock-analysis-windows-installer-v3.35.0.exe",
+      "size": 245758329,
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/download/v3.35.0/daily-stock-analysis-windows-installer-v3.35.0.exe"
     },
     {
-      "name": "daily-stock-analysis-macos-arm64-v3.34.0.dmg",
-      "size": 285520924,
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/download/v3.34.0/daily-stock-analysis-macos-arm64-v3.34.0.dmg"
+      "name": "daily-stock-analysis-macos-arm64-v3.35.0.dmg",
+      "size": 285788526,
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/download/v3.35.0/daily-stock-analysis-macos-arm64-v3.35.0.dmg"
     },
     {
-      "name": "daily-stock-analysis-macos-x64-v3.34.0.dmg",
-      "size": 298459954,
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/download/v3.34.0/daily-stock-analysis-macos-x64-v3.34.0.dmg"
+      "name": "daily-stock-analysis-macos-x64-v3.35.0.dmg",
+      "size": 298721809,
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/download/v3.35.0/daily-stock-analysis-macos-x64-v3.35.0.dmg"
     },
     {
-      "name": "daily-stock-analysis-windows-noinstall-v3.34.0.zip",
-      "size": 317600367,
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/download/v3.34.0/daily-stock-analysis-windows-noinstall-v3.34.0.zip"
+      "name": "daily-stock-analysis-windows-noinstall-v3.35.0.zip",
+      "size": 317833319,
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/releases/download/v3.35.0/daily-stock-analysis-windows-noinstall-v3.35.0.zip"
     }
   ],
   "pinned": false,

@@ -20,21 +20,21 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Anuken/Mindustry/zip/refs/heads/master",
   "release": {
-    "tag": "v160.7",
-    "name": "v8 Build 160.7",
-    "published": "2026-10-08T00:20:39Z",
-    "url": "https://github.com/Anuken/Mindustry/releases/tag/v160.7"
+    "tag": "v160.8",
+    "name": "v8 Build 160.8",
+    "published": "2026-11-18T20:23:09Z",
+    "url": "https://github.com/Anuken/Mindustry/releases/tag/v160.8"
   },
   "assets": [
     {
       "name": "dependencies.jar",
-      "size": 15442202,
-      "url": "https://github.com/Anuken/Mindustry/releases/download/v160.7/dependencies.jar"
+      "size": 15344152,
+      "url": "https://github.com/Anuken/Mindustry/releases/download/v160.8/dependencies.jar"
     },
     {
       "name": "server-release.jar",
-      "size": 19453000,
-      "url": "https://github.com/Anuken/Mindustry/releases/download/v160.7/server-release.jar"
+      "size": 19353710,
+      "url": "https://github.com/Anuken/Mindustry/releases/download/v160.8/server-release.jar"
     }
   ],
   "pinned": false,

@@ -22,41 +22,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/GyulyVGC/sniffnet/zip/refs/heads/main",
   "release": {
-    "tag": "v1.5.1",
-    "name": "v1.5.1",
-    "published": "2026-07-22T07:54:30Z",
-    "url": "https://github.com/GyulyVGC/sniffnet/releases/tag/v1.5.1"
+    "tag": "v1.6.0",
+    "name": "v1.6.0",
+    "published": "2026-11-16T09:39:14Z",
+    "url": "https://github.com/GyulyVGC/sniffnet/releases/tag/v1.6.0"
   },
   "assets": [
     {
       "name": "Sniffnet_macOS_AppleSilicon.dmg",
-      "size": 19585013,
-      "url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_macOS_AppleSilicon.dmg"
+      "size": 16382814,
+      "url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_macOS_AppleSilicon.dmg"
     },
     {
       "name": "Sniffnet_macOS_Intel.dmg",
-      "size": 20054969,
-      "url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_macOS_Intel.dmg"
+      "size": 16928753,
+      "url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_macOS_Intel.dmg"
     },
     {
       "name": "Sniffnet_Windows_x86.msi",
-      "size": 20578304,
-      "url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_x86.msi"
+      "size": 17604608,
+      "url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_Windows_x86.msi"
     },
     {
       "name": "Sniffnet_Windows_arm64.msi",
-      "size": 20746240,
-      "url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_arm64.msi"
+      "size": 17731584,
+      "url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_Windows_arm64.msi"
     },
     {
       "name": "Sniffnet_LinuxDEB_arm64.deb",
-      "size": 13500176,
-      "url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxDEB_arm64.deb"
+      "size": 12448292,
+      "url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_LinuxDEB_arm64.deb"
     },
     {
       "name": "Sniffnet_LinuxDEB_armhf.deb",
-      "size": 13624296,
-      "url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxDEB_armhf.deb"
+      "size": 12539392,
+      "url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_LinuxDEB_armhf.deb"
     }
   ],
   "pinned": false,

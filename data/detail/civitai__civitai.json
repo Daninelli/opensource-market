@@ -21,8 +21,34 @@
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/civitai/civitai/zip/refs/heads/main",
-  "release": null,
-  "assets": [],
+  "release": {
+    "tag": "feed-go-v0.0.30",
+    "name": "feed-go-v0.0.30",
+    "published": "2026-11-19T13:06:29Z",
+    "url": "https://github.com/civitai/civitai/releases/tag/feed-go-v0.0.30"
+  },
+  "assets": [
+    {
+      "name": "feed-go-v0.0.30-darwin-arm64",
+      "size": 29015298,
+      "url": "https://github.com/civitai/civitai/releases/download/feed-go-v0.0.30/feed-go-v0.0.30-darwin-arm64"
+    },
+    {
+      "name": "feed-go-v0.0.30-darwin-amd64",
+      "size": 31084464,
+      "url": "https://github.com/civitai/civitai/releases/download/feed-go-v0.0.30/feed-go-v0.0.30-darwin-amd64"
+    },
+    {
+      "name": "feed-go-v0.0.30-linux-arm64",
+      "size": 28049570,
+      "url": "https://github.com/civitai/civitai/releases/download/feed-go-v0.0.30/feed-go-v0.0.30-linux-arm64"
+    },
+    {
+      "name": "feed-go-v0.0.30-linux-amd64",
+      "size": 30269602,
+      "url": "https://github.com/civitai/civitai/releases/download/feed-go-v0.0.30/feed-go-v0.0.30-linux-amd64"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

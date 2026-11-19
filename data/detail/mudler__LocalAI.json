@@ -21,31 +21,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/mudler/LocalAI/zip/refs/heads/master",
   "release": {
-    "tag": "v4.12.1",
-    "name": "v4.12.1",
-    "published": "2026-10-23T10:27:00Z",
-    "url": "https://github.com/mudler/LocalAI/releases/tag/v4.12.1"
+    "tag": "v5.0.0",
+    "name": "v5.0.0",
+    "published": "2026-11-18T17:00:23Z",
+    "url": "https://github.com/mudler/LocalAI/releases/tag/v5.0.0"
   },
   "assets": [
     {
       "name": "LocalAI.dmg",
-      "size": 20568993,
-      "url": "https://github.com/mudler/LocalAI/releases/download/v4.12.1/LocalAI.dmg"
+      "size": 120721974,
+      "url": "https://github.com/mudler/LocalAI/releases/download/v5.0.0/LocalAI.dmg"
     },
     {
-      "name": "local-ai-v4.12.1-darwin-arm64",
-      "size": 192233395,
-      "url": "https://github.com/mudler/LocalAI/releases/download/v4.12.1/local-ai-v4.12.1-darwin-arm64"
+      "name": "local-ai-v5.0.0-darwin-arm64",
+      "size": 199644405,
+      "url": "https://github.com/mudler/LocalAI/releases/download/v5.0.0/local-ai-v5.0.0-darwin-arm64"
     },
     {
       "name": "LocalAI-Launcher-x86_64.AppImage",
-      "size": 11958776,
-      "url": "https://github.com/mudler/LocalAI/releases/download/v4.12.1/LocalAI-Launcher-x86_64.AppImage"
+      "size": 126376530,
+      "url": "https://github.com/mudler/LocalAI/releases/download/v5.0.0/LocalAI-Launcher-x86_64.AppImage"
     },
     {
-      "name": "local-ai-launcher-linux.tar.xz",
-      "size": 16699884,
-      "url": "https://github.com/mudler/LocalAI/releases/download/v4.12.1/local-ai-launcher-linux.tar.xz"
+      "name": "LocalAI-Launcher-arm64.AppImage",
+      "size": 127661015,
+      "url": "https://github.com/mudler/LocalAI/releases/download/v5.0.0/LocalAI-Launcher-arm64.AppImage"
+    },
+    {
+      "name": "addons-index.yaml",
+      "size": 212416,
+      "url": "https://github.com/mudler/LocalAI/releases/download/v5.0.0/addons-index.yaml"
+    },
+    {
+      "name": "LocalAI-Launcher-5.0.0-arm64-mac.zip",
+      "size": 116665632,
+      "url": "https://github.com/mudler/LocalAI/releases/download/v5.0.0/LocalAI-Launcher-5.0.0-arm64-mac.zip"
     }
   ],
   "pinned": false,

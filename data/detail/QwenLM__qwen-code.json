@@ -21,46 +21,46 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/QwenLM/qwen-code/zip/refs/heads/main",
   "release": {
-    "tag": "v0.27.2-nightly.20261113.6f754be654",
-    "name": "Release v0.27.2-nightly.20261113.6f754be654",
-    "published": "2026-11-14T11:31:46Z",
-    "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.27.2-nightly.20261113.6f754be654"
+    "tag": "v0.28.0-nightly.20261118.d9ac287c9f",
+    "name": "Release v0.28.0-nightly.20261118.d9ac287c9f",
+    "published": "2026-11-18T22:29:34Z",
+    "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.28.0-nightly.20261118.d9ac287c9f"
   },
   "assets": [
     {
       "name": "qwen-code-win-x64.zip",
-      "size": 74067844,
-      "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.27.2-nightly.20261113.6f754be654/qwen-code-win-x64.zip"
+      "size": 74515185,
+      "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.28.0-nightly.20261118.d9ac287c9f/qwen-code-win-x64.zip"
     },
     {
       "name": "qwen-code-darwin-arm64-opentui-preview.tar.gz",
-      "size": 79170568,
-      "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.27.2-nightly.20261113.6f754be654/qwen-code-darwin-arm64-opentui-preview.tar.gz"
+      "size": 79593567,
+      "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.28.0-nightly.20261118.d9ac287c9f/qwen-code-darwin-arm64-opentui-preview.tar.gz"
     },
     {
       "name": "qwen-code-darwin-x64-opentui-preview.tar.gz",
-      "size": 82426841,
-      "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.27.2-nightly.20261113.6f754be654/qwen-code-darwin-x64-opentui-preview.tar.gz"
+      "size": 82848018,
+      "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.28.0-nightly.20261118.d9ac287c9f/qwen-code-darwin-x64-opentui-preview.tar.gz"
     },
     {
       "name": "qwen-code-win-x64-opentui-preview.zip",
-      "size": 149250518,
-      "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.27.2-nightly.20261113.6f754be654/qwen-code-win-x64-opentui-preview.zip"
+      "size": 149697859,
+      "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.28.0-nightly.20261118.d9ac287c9f/qwen-code-win-x64-opentui-preview.zip"
     },
     {
       "name": "qwen-code-linux-arm64-opentui-preview.tar.gz",
-      "size": 90924383,
-      "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.27.2-nightly.20261113.6f754be654/qwen-code-linux-arm64-opentui-preview.tar.gz"
+      "size": 91342810,
+      "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.28.0-nightly.20261118.d9ac287c9f/qwen-code-linux-arm64-opentui-preview.tar.gz"
     },
     {
       "name": "qwen-code-linux-x64-opentui-preview.tar.gz",
-      "size": 91335848,
-      "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.27.2-nightly.20261113.6f754be654/qwen-code-linux-x64-opentui-preview.tar.gz"
+      "size": 91753795,
+      "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.28.0-nightly.20261118.d9ac287c9f/qwen-code-linux-x64-opentui-preview.tar.gz"
     },
     {
-      "name": "qwen-managed-agent-server-0.27.2-nightly.20261113.6f754be654.jar",
-      "size": 88969574,
-      "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.27.2-nightly.20261113.6f754be654/qwen-managed-agent-server-0.27.2-nightly.20261113.6f754be654.jar"
+      "name": "qwen-managed-agent-server-0.28.0-nightly.20261118.d9ac287c9f.jar",
+      "size": 88546551,
+      "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.28.0-nightly.20261118.d9ac287c9f/qwen-managed-agent-server-0.28.0-nightly.20261118.d9ac287c9f.jar"
     }
   ],
   "pinned": false,

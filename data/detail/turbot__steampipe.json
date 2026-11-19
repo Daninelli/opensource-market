@@ -21,31 +21,31 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/turbot/steampipe/zip/refs/heads/develop",
   "release": {
-    "tag": "v2.5.0",
-    "name": "v2.5.0",
-    "published": "2026-11-13T14:24:50Z",
-    "url": "https://github.com/turbot/steampipe/releases/tag/v2.5.0"
+    "tag": "v2.5.1",
+    "name": "v2.5.1",
+    "published": "2026-11-17T15:44:54Z",
+    "url": "https://github.com/turbot/steampipe/releases/tag/v2.5.1"
   },
   "assets": [
     {
       "name": "steampipe_darwin_arm64.zip",
-      "size": 20832111,
-      "url": "https://github.com/turbot/steampipe/releases/download/v2.5.0/steampipe_darwin_arm64.zip"
+      "size": 20829718,
+      "url": "https://github.com/turbot/steampipe/releases/download/v2.5.1/steampipe_darwin_arm64.zip"
     },
     {
       "name": "steampipe_darwin_amd64.zip",
-      "size": 22485100,
-      "url": "https://github.com/turbot/steampipe/releases/download/v2.5.0/steampipe_darwin_amd64.zip"
+      "size": 22484285,
+      "url": "https://github.com/turbot/steampipe/releases/download/v2.5.1/steampipe_darwin_amd64.zip"
     },
     {
       "name": "steampipe_linux_arm64.tar.gz",
-      "size": 19740267,
-      "url": "https://github.com/turbot/steampipe/releases/download/v2.5.0/steampipe_linux_arm64.tar.gz"
+      "size": 19740482,
+      "url": "https://github.com/turbot/steampipe/releases/download/v2.5.1/steampipe_linux_arm64.tar.gz"
     },
     {
       "name": "steampipe_linux_arm64.deb",
-      "size": 19741666,
-      "url": "https://github.com/turbot/steampipe/releases/download/v2.5.0/steampipe_linux_arm64.deb"
+      "size": 19740926,
+      "url": "https://github.com/turbot/steampipe/releases/download/v2.5.1/steampipe_linux_arm64.deb"
     }
   ],
   "pinned": false,

@@ -20,41 +20,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/future-architect/vuls/zip/refs/heads/master",
   "release": {
-    "tag": "v0.42.0",
-    "name": "v0.42.0",
-    "published": "2026-10-15T05:32:40Z",
-    "url": "https://github.com/future-architect/vuls/releases/tag/v0.42.0"
+    "tag": "v0.43.0",
+    "name": "v0.43.0",
+    "published": "2026-11-17T07:11:11Z",
+    "url": "https://github.com/future-architect/vuls/releases/tag/v0.43.0"
   },
   "assets": [
     {
-      "name": "snmp2cpe_0.42.0_windows_arm64.tar.gz",
-      "size": 2346022,
-      "url": "https://github.com/future-architect/vuls/releases/download/v0.42.0/snmp2cpe_0.42.0_windows_arm64.tar.gz"
+      "name": "snmp2cpe_0.43.0_windows_arm64.tar.gz",
+      "size": 2390628,
+      "url": "https://github.com/future-architect/vuls/releases/download/v0.43.0/snmp2cpe_0.43.0_windows_arm64.tar.gz"
     },
     {
-      "name": "snmp2cpe_0.42.0_darwin_arm64.tar.gz",
-      "size": 2356460,
-      "url": "https://github.com/future-architect/vuls/releases/download/v0.42.0/snmp2cpe_0.42.0_darwin_arm64.tar.gz"
+      "name": "snmp2cpe_0.43.0_darwin_arm64.tar.gz",
+      "size": 2403471,
+      "url": "https://github.com/future-architect/vuls/releases/download/v0.43.0/snmp2cpe_0.43.0_darwin_arm64.tar.gz"
     },
     {
-      "name": "trivy-to-vuls_0.42.0_windows_arm64.tar.gz",
-      "size": 2497049,
-      "url": "https://github.com/future-architect/vuls/releases/download/v0.42.0/trivy-to-vuls_0.42.0_windows_arm64.tar.gz"
+      "name": "trivy-to-vuls_0.43.0_windows_arm64.tar.gz",
+      "size": 2536223,
+      "url": "https://github.com/future-architect/vuls/releases/download/v0.43.0/trivy-to-vuls_0.43.0_windows_arm64.tar.gz"
     },
     {
-      "name": "trivy-to-vuls_0.42.0_darwin_arm64.tar.gz",
-      "size": 2518191,
-      "url": "https://github.com/future-architect/vuls/releases/download/v0.42.0/trivy-to-vuls_0.42.0_darwin_arm64.tar.gz"
+      "name": "trivy-to-vuls_0.43.0_darwin_arm64.tar.gz",
+      "size": 2554108,
+      "url": "https://github.com/future-architect/vuls/releases/download/v0.43.0/trivy-to-vuls_0.43.0_darwin_arm64.tar.gz"
     },
     {
-      "name": "snmp2cpe_0.42.0_linux_arm64.tar.gz",
-      "size": 2261457,
-      "url": "https://github.com/future-architect/vuls/releases/download/v0.42.0/snmp2cpe_0.42.0_linux_arm64.tar.gz"
+      "name": "snmp2cpe_0.43.0_linux_arm64.tar.gz",
+      "size": 2303013,
+      "url": "https://github.com/future-architect/vuls/releases/download/v0.43.0/snmp2cpe_0.43.0_linux_arm64.tar.gz"
     },
     {
-      "name": "trivy-to-vuls_0.42.0_linux_arm64.tar.gz",
-      "size": 2419909,
-      "url": "https://github.com/future-architect/vuls/releases/download/v0.42.0/trivy-to-vuls_0.42.0_linux_arm64.tar.gz"
+      "name": "trivy-to-vuls_0.43.0_linux_arm64.tar.gz",
+      "size": 2456010,
+      "url": "https://github.com/future-architect/vuls/releases/download/v0.43.0/trivy-to-vuls_0.43.0_linux_arm64.tar.gz"
     }
   ],
   "pinned": false,

@@ -22,16 +22,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/APIJSON/APIJSON/zip/refs/heads/main",
   "release": {
-    "tag": "8.3.2",
-    "name": "fix bugs for join, fake-delete, etc Latest",
-    "published": "2026-10-05T02:05:53Z",
-    "url": "https://github.com/APIJSON/APIJSON/releases/tag/8.3.2"
+    "tag": "8.4.0",
+    "name": "Turso for AI Agents",
+    "published": "2026-11-15T07:51:55Z",
+    "url": "https://github.com/APIJSON/APIJSON/releases/tag/8.4.0"
   },
   "assets": [
     {
-      "name": "APIJSON-8.3.2.jar",
-      "size": 280135,
-      "url": "https://github.com/APIJSON/APIJSON/releases/download/8.3.2/APIJSON-8.3.2.jar"
+      "name": "APIJSON-8.4.0.jar",
+      "size": 280648,
+      "url": "https://github.com/APIJSON/APIJSON/releases/download/8.4.0/APIJSON-8.4.0.jar"
     }
   ],
   "pinned": false,

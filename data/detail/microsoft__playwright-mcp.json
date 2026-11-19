@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/microsoft/playwright-mcp/zip/refs/heads/main",
   "release": {
-    "tag": "v0.0.85",
-    "name": "v0.0.85",
-    "published": "2026-11-09T18:28:53Z",
-    "url": "https://github.com/microsoft/playwright-mcp/releases/tag/v0.0.85"
+    "tag": "v0.0.86",
+    "name": "v0.0.86",
+    "published": "2026-11-18T18:50:38Z",
+    "url": "https://github.com/microsoft/playwright-mcp/releases/tag/v0.0.86"
   },
   "assets": [],
   "pinned": false,

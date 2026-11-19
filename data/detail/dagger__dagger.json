@@ -20,41 +20,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/dagger/dagger/zip/refs/heads/main",
   "release": {
-    "tag": "v0.21.11",
-    "name": "v0.21.11",
-    "published": "2026-10-21T22:50:26Z",
-    "url": "https://github.com/dagger/dagger/releases/tag/v0.21.11"
+    "tag": "v0.21.12",
+    "name": "v0.21.12",
+    "published": "2026-11-17T21:16:50Z",
+    "url": "https://github.com/dagger/dagger/releases/tag/v0.21.12"
   },
   "assets": [
     {
-      "name": "dagger_v0.21.11_windows_arm64.zip",
-      "size": 20622184,
-      "url": "https://github.com/dagger/dagger/releases/download/v0.21.11/dagger_v0.21.11_windows_arm64.zip"
+      "name": "dagger_v0.21.12_windows_arm64.zip",
+      "size": 20624333,
+      "url": "https://github.com/dagger/dagger/releases/download/v0.21.12/dagger_v0.21.12_windows_arm64.zip"
     },
     {
-      "name": "dagger_v0.21.11_darwin_arm64.tar.gz",
-      "size": 21321476,
-      "url": "https://github.com/dagger/dagger/releases/download/v0.21.11/dagger_v0.21.11_darwin_arm64.tar.gz"
+      "name": "dagger_v0.21.12_darwin_arm64.tar.gz",
+      "size": 21321158,
+      "url": "https://github.com/dagger/dagger/releases/download/v0.21.12/dagger_v0.21.12_darwin_arm64.tar.gz"
     },
     {
-      "name": "dagger_v0.21.11_darwin_amd64.tar.gz",
-      "size": 22651876,
-      "url": "https://github.com/dagger/dagger/releases/download/v0.21.11/dagger_v0.21.11_darwin_amd64.tar.gz"
+      "name": "dagger_v0.21.12_darwin_amd64.tar.gz",
+      "size": 22651890,
+      "url": "https://github.com/dagger/dagger/releases/download/v0.21.12/dagger_v0.21.12_darwin_amd64.tar.gz"
     },
     {
-      "name": "dagger_v0.21.11_windows_amd64.zip",
-      "size": 22772159,
-      "url": "https://github.com/dagger/dagger/releases/download/v0.21.11/dagger_v0.21.11_windows_amd64.zip"
+      "name": "dagger_v0.21.12_windows_amd64.zip",
+      "size": 22771626,
+      "url": "https://github.com/dagger/dagger/releases/download/v0.21.12/dagger_v0.21.12_windows_amd64.zip"
     },
     {
-      "name": "dagger_v0.21.11_linux_arm64.tar.gz",
-      "size": 20411232,
-      "url": "https://github.com/dagger/dagger/releases/download/v0.21.11/dagger_v0.21.11_linux_arm64.tar.gz"
+      "name": "dagger_v0.21.12_linux_arm64.tar.gz",
+      "size": 20411203,
+      "url": "https://github.com/dagger/dagger/releases/download/v0.21.12/dagger_v0.21.12_linux_arm64.tar.gz"
     },
     {
-      "name": "dagger_v0.21.11_linux_armv7.tar.gz",
-      "size": 20819332,
-      "url": "https://github.com/dagger/dagger/releases/download/v0.21.11/dagger_v0.21.11_linux_armv7.tar.gz"
+      "name": "dagger_v0.21.12_linux_armv7.tar.gz",
+      "size": 20820882,
+      "url": "https://github.com/dagger/dagger/releases/download/v0.21.12/dagger_v0.21.12_linux_armv7.tar.gz"
     }
   ],
   "pinned": false,

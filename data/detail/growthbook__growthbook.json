@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/growthbook/growthbook/zip/refs/heads/main",
   "release": {
-    "tag": "v5.2.0",
-    "name": "v5.2.0",
-    "published": "2026-11-03T04:00:13Z",
-    "url": "https://github.com/growthbook/growthbook/releases/tag/v5.2.0"
+    "tag": "v5.2.1",
+    "name": "v5.2.1",
+    "published": "2026-11-16T20:32:02Z",
+    "url": "https://github.com/growthbook/growthbook/releases/tag/v5.2.1"
   },
   "assets": [],
   "pinned": false,

@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/coreyhaines31/marketingskills/zip/refs/heads/main",
   "release": {
-    "tag": "v2.14.12",
-    "name": "v2.14.12 — Skills install cleanly under regex skill scanners that block on prompt-injection phrases.",
-    "published": "2026-11-11T17:49:23Z",
-    "url": "https://github.com/coreyhaines31/marketingskills/releases/tag/v2.14.12"
+    "tag": "v2.14.13",
+    "name": "v2.14.13 — Skills that produce visuals read an existing brand file, and point to Zach Stevens' desi…",
+    "published": "2026-11-18T01:16:17Z",
+    "url": "https://github.com/coreyhaines31/marketingskills/releases/tag/v2.14.13"
   },
   "assets": [],
   "pinned": false,

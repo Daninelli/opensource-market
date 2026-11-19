@@ -21,41 +21,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/apache/beam/zip/refs/heads/master",
   "release": {
-    "tag": "v2.77.0",
-    "name": "Beam 2.77.0 release",
-    "published": "2026-10-07T14:33:00Z",
-    "url": "https://github.com/apache/beam/releases/tag/v2.77.0"
+    "tag": "v2.78.0",
+    "name": "Beam 2.78.0 release",
+    "published": "2026-11-02T10:05:28Z",
+    "url": "https://github.com/apache/beam/releases/tag/v2.78.0"
   },
   "assets": [
     {
-      "name": "apache_beam-v2.77.0-prism-windows-arm64.zip",
-      "size": 23543187,
-      "url": "https://github.com/apache/beam/releases/download/v2.77.0/apache_beam-v2.77.0-prism-windows-arm64.zip"
+      "name": "apache_beam-v2.78.0-prism-windows-arm64.zip",
+      "size": 23994888,
+      "url": "https://github.com/apache/beam/releases/download/v2.78.0/apache_beam-v2.78.0-prism-windows-arm64.zip"
     },
     {
-      "name": "apache_beam-v2.77.0-prism-darwin-arm64.zip",
-      "size": 25364938,
-      "url": "https://github.com/apache/beam/releases/download/v2.77.0/apache_beam-v2.77.0-prism-darwin-arm64.zip"
+      "name": "apache_beam-v2.78.0-prism-darwin-arm64.zip",
+      "size": 25875613,
+      "url": "https://github.com/apache/beam/releases/download/v2.78.0/apache_beam-v2.78.0-prism-darwin-arm64.zip"
     },
     {
-      "name": "apache_beam-v2.77.0-prism-windows-amd64.zip",
-      "size": 25660780,
-      "url": "https://github.com/apache/beam/releases/download/v2.77.0/apache_beam-v2.77.0-prism-windows-amd64.zip"
+      "name": "apache_beam-v2.78.0-prism-windows-amd64.zip",
+      "size": 26165782,
+      "url": "https://github.com/apache/beam/releases/download/v2.78.0/apache_beam-v2.78.0-prism-windows-amd64.zip"
     },
     {
-      "name": "apache_beam-v2.77.0-prism-darwin-amd64.zip",
-      "size": 26717512,
-      "url": "https://github.com/apache/beam/releases/download/v2.77.0/apache_beam-v2.77.0-prism-darwin-amd64.zip"
+      "name": "apache_beam-v2.78.0-prism-darwin-amd64.zip",
+      "size": 27252526,
+      "url": "https://github.com/apache/beam/releases/download/v2.78.0/apache_beam-v2.78.0-prism-darwin-amd64.zip"
     },
     {
-      "name": "apache_beam-v2.77.0-prism-linux-arm64.zip",
-      "size": 23394381,
-      "url": "https://github.com/apache/beam/releases/download/v2.77.0/apache_beam-v2.77.0-prism-linux-arm64.zip"
+      "name": "apache_beam-v2.78.0-prism-linux-arm64.zip",
+      "size": 23860147,
+      "url": "https://github.com/apache/beam/releases/download/v2.78.0/apache_beam-v2.78.0-prism-linux-arm64.zip"
     },
     {
-      "name": "apache_beam-v2.77.0-prism-linux-amd64.zip",
-      "size": 25310961,
-      "url": "https://github.com/apache/beam/releases/download/v2.77.0/apache_beam-v2.77.0-prism-linux-amd64.zip"
+      "name": "apache_beam-v2.78.0-prism-linux-amd64.zip",
+      "size": 25817627,
+      "url": "https://github.com/apache/beam/releases/download/v2.78.0/apache_beam-v2.78.0-prism-linux-amd64.zip"
     }
   ],
   "pinned": false,

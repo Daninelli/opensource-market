@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/xyflow/xyflow/zip/refs/heads/main",
   "release": {
-    "tag": "@xyflow/svelte@1.7.1",
-    "name": "@xyflow/svelte@1.7.1",
-    "published": "2026-11-02T09:53:12Z",
-    "url": "https://github.com/xyflow/xyflow/releases/tag/%40xyflow/svelte%401.7.1"
+    "tag": "@xyflow/svelte@2.0.2",
+    "name": "@xyflow/svelte@2.0.2",
+    "published": "2026-11-17T15:50:41Z",
+    "url": "https://github.com/xyflow/xyflow/releases/tag/%40xyflow/svelte%402.0.2"
   },
   "assets": [],
   "pinned": false,

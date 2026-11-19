@@ -22,51 +22,51 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/pear-devs/pear-desktop/zip/refs/heads/master",
   "release": {
-    "tag": "v3.12.0",
-    "name": "3.12.0",
-    "published": "2026-06-28T15:43:30Z",
-    "url": "https://github.com/pear-devs/pear-desktop/releases/tag/v3.12.0"
+    "tag": "v3.12.1",
+    "name": "v3.12.1",
+    "published": "2026-11-15T07:44:26Z",
+    "url": "https://github.com/pear-devs/pear-desktop/releases/tag/v3.12.1"
   },
   "assets": [
     {
-      "name": "YouTube-Music-Web-Setup-3.12.0.exe",
-      "size": 681336,
-      "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/YouTube-Music-Web-Setup-3.12.0.exe"
+      "name": "YouTube-Music-Web-Setup-3.12.1.exe",
+      "size": 680935,
+      "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.1/YouTube-Music-Web-Setup-3.12.1.exe"
     },
     {
-      "name": "YouTube-Music-3.12.0-arm64.dmg",
-      "size": 124129961,
-      "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/YouTube-Music-3.12.0-arm64.dmg"
+      "name": "YouTube-Music-3.12.1-arm64.dmg",
+      "size": 127800279,
+      "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.1/YouTube-Music-3.12.1-arm64.dmg"
     },
     {
-      "name": "YouTube-Music-3.12.0.dmg",
-      "size": 125083440,
-      "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/YouTube-Music-3.12.0.dmg"
+      "name": "YouTube-Music-3.12.1.dmg",
+      "size": 130820402,
+      "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.1/YouTube-Music-3.12.1.dmg"
     },
     {
-      "name": "YouTube-Music-3.12.0.exe",
-      "size": 287332219,
-      "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/YouTube-Music-3.12.0.exe"
+      "name": "YouTube-Music-3.12.1.exe",
+      "size": 238034360,
+      "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.1/YouTube-Music-3.12.1.exe"
     },
     {
-      "name": "youtube-music-3.12.0.aarch64.rpm",
-      "size": 92037621,
-      "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/youtube-music-3.12.0.aarch64.rpm"
+      "name": "youtube-music-3.12.1.aarch64.rpm",
+      "size": 97544064,
+      "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.1/youtube-music-3.12.1.aarch64.rpm"
     },
     {
-      "name": "youtube-music-3.12.0.x86_64.rpm",
-      "size": 98236033,
-      "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/youtube-music-3.12.0.x86_64.rpm"
+      "name": "youtube-music-3.12.1.x86_64.rpm",
+      "size": 102305620,
+      "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.1/youtube-music-3.12.1.x86_64.rpm"
     },
     {
-      "name": "youtube-music-3.12.0-arm64.freebsd",
-      "size": 94332168,
-      "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/youtube-music-3.12.0-arm64.freebsd"
+      "name": "youtube-music-3.12.1-arm64.freebsd",
+      "size": 100409300,
+      "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.1/youtube-music-3.12.1-arm64.freebsd"
     },
     {
-      "name": "youtube-music-3.12.0-ia32.nsis.7z",
-      "size": 98913746,
-      "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/youtube-music-3.12.0-ia32.nsis.7z"
+      "name": "youtube-music-3.12.1.freebsd",
+      "size": 105588472,
+      "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.1/youtube-music-3.12.1.freebsd"
     }
   ],
   "pinned": false,

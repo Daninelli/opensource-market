@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/puckeditor/puck/zip/refs/heads/main",
   "release": {
-    "tag": "v0.24.0",
-    "name": "v0.24.0",
-    "published": "2026-10-29T09:39:34Z",
-    "url": "https://github.com/puckeditor/puck/releases/tag/v0.24.0"
+    "tag": "v0.24.1",
+    "name": "v0.24.1",
+    "published": "2026-11-18T17:17:50Z",
+    "url": "https://github.com/puckeditor/puck/releases/tag/v0.24.1"
   },
   "assets": [],
   "pinned": false,

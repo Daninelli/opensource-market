@@ -21,21 +21,21 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/stride3d/stride/zip/refs/heads/master",
   "release": {
-    "tag": "releases/4.4.2",
-    "name": "Stride 4.4.2",
-    "published": "2026-11-13T07:48:34Z",
-    "url": "https://github.com/stride3d/stride/releases/tag/releases/4.4.2"
+    "tag": "releases/4.4.3",
+    "name": "Stride 4.4.3",
+    "published": "2026-11-17T09:33:17Z",
+    "url": "https://github.com/stride3d/stride/releases/tag/releases/4.4.3"
   },
   "assets": [
     {
-      "name": "Stride.Core.IO.4.4.2.nupkg",
-      "size": 120845,
-      "url": "https://github.com/stride3d/stride/releases/download/releases/4.4.2/Stride.Core.IO.4.4.2.nupkg"
+      "name": "Stride.Core.IO.4.4.3.nupkg",
+      "size": 132071,
+      "url": "https://github.com/stride3d/stride/releases/download/releases/4.4.3/Stride.Core.IO.4.4.3.nupkg"
     },
     {
-      "name": "Stride.Core.Yaml.4.4.2.nupkg",
-      "size": 135424,
-      "url": "https://github.com/stride3d/stride/releases/download/releases/4.4.2/Stride.Core.Yaml.4.4.2.nupkg"
+      "name": "Stride.Core.Yaml.4.4.3.nupkg",
+      "size": 135423,
+      "url": "https://github.com/stride3d/stride/releases/download/releases/4.4.3/Stride.Core.Yaml.4.4.3.nupkg"
     }
   ],
   "pinned": false,

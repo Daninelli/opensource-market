@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/scalar/scalar/zip/refs/heads/main",
   "release": {
-    "tag": "release-2026-11-12-7e9d6bd",
-    "name": "Release 2026-11-12",
-    "published": "2026-11-12T14:00:29Z",
-    "url": "https://github.com/scalar/scalar/releases/tag/release-2026-11-12-7e9d6bd"
+    "tag": "release-2026-11-18-98a8140",
+    "name": "Release 2026-11-18",
+    "published": "2026-11-18T11:58:03Z",
+    "url": "https://github.com/scalar/scalar/releases/tag/release-2026-11-18-98a8140"
   },
   "assets": [],
   "pinned": false,

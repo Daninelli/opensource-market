@@ -21,36 +21,36 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/vnotex/vnote/zip/refs/heads/master",
   "release": {
-    "tag": "v4.14.4",
-    "name": "VNote 4.14.4",
-    "published": "2026-11-12T01:38:50Z",
-    "url": "https://github.com/vnotex/vnote/releases/tag/v4.14.4"
+    "tag": "v4.15.0",
+    "name": "VNote 4.15.0",
+    "published": "2026-11-19T06:34:36Z",
+    "url": "https://github.com/vnotex/vnote/releases/tag/v4.15.0"
   },
   "assets": [
     {
-      "name": "VNote-4.14.4-win64.delta.zip",
-      "size": 43265844,
-      "url": "https://github.com/vnotex/vnote/releases/download/v4.14.4/VNote-4.14.4-win64.delta.zip"
+      "name": "VNote-4.15.0-win64.delta.zip",
+      "size": 45839324,
+      "url": "https://github.com/vnotex/vnote/releases/download/v4.15.0/VNote-4.15.0-win64.delta.zip"
     },
     {
-      "name": "VNote-4.14.4-win64.zip",
-      "size": 193359418,
-      "url": "https://github.com/vnotex/vnote/releases/download/v4.14.4/VNote-4.14.4-win64.zip"
+      "name": "VNote-4.15.0-win64.zip",
+      "size": 193688416,
+      "url": "https://github.com/vnotex/vnote/releases/download/v4.15.0/VNote-4.15.0-win64.zip"
     },
     {
-      "name": "VNote-4.14.4-mac-universal-macos12.dmg",
-      "size": 336596241,
-      "url": "https://github.com/vnotex/vnote/releases/download/v4.14.4/VNote-4.14.4-mac-universal-macos12.dmg"
+      "name": "VNote-4.15.0-mac-universal-macos12.dmg",
+      "size": 337906396,
+      "url": "https://github.com/vnotex/vnote/releases/download/v4.15.0/VNote-4.15.0-mac-universal-macos12.dmg"
     },
     {
-      "name": "VNote-4.14.4-mac-universal.dmg",
-      "size": 340527225,
-      "url": "https://github.com/vnotex/vnote/releases/download/v4.14.4/VNote-4.14.4-mac-universal.dmg"
+      "name": "VNote-4.15.0-mac-universal.dmg",
+      "size": 341416072,
+      "url": "https://github.com/vnotex/vnote/releases/download/v4.15.0/VNote-4.15.0-mac-universal.dmg"
     },
     {
-      "name": "VNote-4.14.4-linux-x64.AppImage",
-      "size": 236554744,
-      "url": "https://github.com/vnotex/vnote/releases/download/v4.14.4/VNote-4.14.4-linux-x64.AppImage"
+      "name": "VNote-4.15.0-linux-x64.AppImage",
+      "size": 237316600,
+      "url": "https://github.com/vnotex/vnote/releases/download/v4.15.0/VNote-4.15.0-linux-x64.AppImage"
     }
   ],
   "pinned": false,

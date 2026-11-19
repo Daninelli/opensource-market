@@ -21,41 +21,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/xpipe-io/xpipe/zip/refs/heads/master",
   "release": {
-    "tag": "24.11",
-    "name": "24.11",
-    "published": "2026-11-14T21:22:40Z",
-    "url": "https://github.com/xpipe-io/xpipe/releases/tag/24.11"
+    "tag": "24.12",
+    "name": "24.12",
+    "published": "2026-11-15T22:55:17Z",
+    "url": "https://github.com/xpipe-io/xpipe/releases/tag/24.12"
   },
   "assets": [
     {
       "name": "xpipe-installer-windows-arm64.msi",
-      "size": 105947136,
-      "url": "https://github.com/xpipe-io/xpipe/releases/download/24.11/xpipe-installer-windows-arm64.msi"
+      "size": 104079360,
+      "url": "https://github.com/xpipe-io/xpipe/releases/download/24.12/xpipe-installer-windows-arm64.msi"
     },
     {
       "name": "xpipe-portable-windows-arm64.zip",
-      "size": 126744092,
-      "url": "https://github.com/xpipe-io/xpipe/releases/download/24.11/xpipe-portable-windows-arm64.zip"
+      "size": 124476163,
+      "url": "https://github.com/xpipe-io/xpipe/releases/download/24.12/xpipe-portable-windows-arm64.zip"
     },
     {
       "name": "xpipe-portable-macos-x86_64.dmg",
-      "size": 130217951,
-      "url": "https://github.com/xpipe-io/xpipe/releases/download/24.11/xpipe-portable-macos-x86_64.dmg"
+      "size": 129934701,
+      "url": "https://github.com/xpipe-io/xpipe/releases/download/24.12/xpipe-portable-macos-x86_64.dmg"
     },
     {
       "name": "xpipe-installer-macos-x86_64.pkg",
-      "size": 130464516,
-      "url": "https://github.com/xpipe-io/xpipe/releases/download/24.11/xpipe-installer-macos-x86_64.pkg"
+      "size": 130162988,
+      "url": "https://github.com/xpipe-io/xpipe/releases/download/24.12/xpipe-installer-macos-x86_64.pkg"
     },
     {
       "name": "xpipe-portable-linux-arm64.AppImage",
-      "size": 143944200,
-      "url": "https://github.com/xpipe-io/xpipe/releases/download/24.11/xpipe-portable-linux-arm64.AppImage"
+      "size": 141937160,
+      "url": "https://github.com/xpipe-io/xpipe/releases/download/24.12/xpipe-portable-linux-arm64.AppImage"
     },
     {
       "name": "xpipe-portable-linux-x86_64.AppImage",
-      "size": 146237944,
-      "url": "https://github.com/xpipe-io/xpipe/releases/download/24.11/xpipe-portable-linux-x86_64.AppImage"
+      "size": 144218616,
+      "url": "https://github.com/xpipe-io/xpipe/releases/download/24.12/xpipe-portable-linux-x86_64.AppImage"
     }
   ],
   "pinned": false,

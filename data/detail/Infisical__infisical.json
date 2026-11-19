@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Infisical/infisical/zip/refs/heads/main",
   "release": {
-    "tag": "v0.167.10",
-    "name": "v0.167.10",
-    "published": "2026-11-13T13:33:30Z",
-    "url": "https://github.com/Infisical/infisical/releases/tag/v0.167.10"
+    "tag": "v0.167.13",
+    "name": "v0.167.13",
+    "published": "2026-11-19T07:55:56Z",
+    "url": "https://github.com/Infisical/infisical/releases/tag/v0.167.13"
   },
   "assets": [],
   "pinned": false,

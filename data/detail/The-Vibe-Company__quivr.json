@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/The-Vibe-Company/quivr/zip/refs/heads/main",
   "release": {
-    "tag": "v2.0.2",
-    "name": "v2.0.2",
-    "published": "2026-10-30T13:59:45Z",
-    "url": "https://github.com/The-Vibe-Company/quivr/releases/tag/v2.0.2"
+    "tag": "v2.0.3",
+    "name": "v2.0.3",
+    "published": "2026-11-16T15:26:50Z",
+    "url": "https://github.com/The-Vibe-Company/quivr/releases/tag/v2.0.3"
   },
   "assets": [],
   "pinned": false,

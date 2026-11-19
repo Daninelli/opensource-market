@@ -22,21 +22,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/simstudioai/sim/zip/refs/heads/main",
   "release": {
-    "tag": "v0.9.58",
-    "name": "v0.9.58",
-    "published": "2026-11-15T00:43:35Z",
-    "url": "https://github.com/simstudioai/sim/releases/tag/v0.9.58"
+    "tag": "v0.9.63",
+    "name": "v0.9.63",
+    "published": "2026-11-19T00:50:39Z",
+    "url": "https://github.com/simstudioai/sim/releases/tag/v0.9.63"
   },
   "assets": [
     {
-      "name": "Sim-0.9.58-universal.dmg",
-      "size": 239674869,
-      "url": "https://github.com/simstudioai/sim/releases/download/v0.9.58/Sim-0.9.58-universal.dmg"
+      "name": "Sim-0.9.63-universal.dmg",
+      "size": 239679786,
+      "url": "https://github.com/simstudioai/sim/releases/download/v0.9.63/Sim-0.9.63-universal.dmg"
     },
     {
-      "name": "Sim-0.9.58-universal.zip",
-      "size": 230522599,
-      "url": "https://github.com/simstudioai/sim/releases/download/v0.9.58/Sim-0.9.58-universal.zip"
+      "name": "Sim-0.9.63-universal.zip",
+      "size": 230524608,
+      "url": "https://github.com/simstudioai/sim/releases/download/v0.9.63/Sim-0.9.63-universal.zip"
     }
   ],
   "pinned": false,

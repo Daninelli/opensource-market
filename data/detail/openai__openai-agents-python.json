@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/openai/openai-agents-python/zip/refs/heads/main",
   "release": {
-    "tag": "v0.24.0",
-    "name": "v0.24.0",
-    "published": "2026-10-15T02:20:12Z",
-    "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.24.0"
+    "tag": "v0.25.0",
+    "name": "v0.25.0",
+    "published": "2026-11-18T00:22:25Z",
+    "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.25.0"
   },
   "assets": [],
   "pinned": false,

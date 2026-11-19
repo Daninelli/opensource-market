@@ -20,10 +20,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/datalab-to/chandra/zip/refs/heads/master",
   "release": {
-    "tag": "v0.2.0",
-    "name": "Chandra OCR 2",
-    "published": "2026-03-18T15:16:25Z",
-    "url": "https://github.com/datalab-to/chandra/releases/tag/v0.2.0"
+    "tag": "v0.3.0",
+    "name": "v0.3.0 — Self-Contained Web Viewer, Security Fixes, & CLI Upgrades",
+    "published": "2026-11-16T19:38:24Z",
+    "url": "https://github.com/datalab-to/chandra/releases/tag/v0.3.0"
   },
   "assets": [],
   "pinned": false,

@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/playcanvas/engine/zip/refs/heads/main",
   "release": {
-    "tag": "v2.24.1",
-    "name": "v2.24.1",
-    "published": "2026-11-12T12:40:23Z",
-    "url": "https://github.com/playcanvas/engine/releases/tag/v2.24.1"
+    "tag": "v2.24.2",
+    "name": "v2.24.2",
+    "published": "2026-11-18T10:54:59Z",
+    "url": "https://github.com/playcanvas/engine/releases/tag/v2.24.2"
   },
   "assets": [],
   "pinned": false,

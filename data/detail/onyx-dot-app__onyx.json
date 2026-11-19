@@ -21,41 +21,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/onyx-dot-app/onyx/zip/refs/heads/main",
   "release": {
-    "tag": "v5.1.2",
-    "name": "v5.1.2",
-    "published": "2026-11-12T21:02:29Z",
-    "url": "https://github.com/onyx-dot-app/onyx/releases/tag/v5.1.2"
+    "tag": "v5.1.3",
+    "name": "v5.1.3",
+    "published": "2026-11-16T21:18:22Z",
+    "url": "https://github.com/onyx-dot-app/onyx/releases/tag/v5.1.3"
   },
   "assets": [
     {
       "name": "Onyx_arm64.exe",
-      "size": 3735423,
-      "url": "https://github.com/onyx-dot-app/onyx/releases/download/v5.1.2/Onyx_arm64.exe"
+      "size": 3742788,
+      "url": "https://github.com/onyx-dot-app/onyx/releases/download/v5.1.3/Onyx_arm64.exe"
     },
     {
       "name": "Onyx_x64.exe",
-      "size": 4104366,
-      "url": "https://github.com/onyx-dot-app/onyx/releases/download/v5.1.2/Onyx_x64.exe"
+      "size": 4105810,
+      "url": "https://github.com/onyx-dot-app/onyx/releases/download/v5.1.3/Onyx_x64.exe"
     },
     {
       "name": "Onyx_universal.dmg",
-      "size": 12461098,
-      "url": "https://github.com/onyx-dot-app/onyx/releases/download/v5.1.2/Onyx_universal.dmg"
+      "size": 12526515,
+      "url": "https://github.com/onyx-dot-app/onyx/releases/download/v5.1.3/Onyx_universal.dmg"
     },
     {
       "name": "Onyx_amd64.deb",
-      "size": 6814734,
-      "url": "https://github.com/onyx-dot-app/onyx/releases/download/v5.1.2/Onyx_amd64.deb"
+      "size": 6813368,
+      "url": "https://github.com/onyx-dot-app/onyx/releases/download/v5.1.3/Onyx_amd64.deb"
     },
     {
       "name": "Onyx_x86_64.rpm",
-      "size": 6815954,
-      "url": "https://github.com/onyx-dot-app/onyx/releases/download/v5.1.2/Onyx_x86_64.rpm"
+      "size": 6814280,
+      "url": "https://github.com/onyx-dot-app/onyx/releases/download/v5.1.3/Onyx_x86_64.rpm"
     },
     {
       "name": "Onyx_universal.app.tar.gz",
-      "size": 12436850,
-      "url": "https://github.com/onyx-dot-app/onyx/releases/download/v5.1.2/Onyx_universal.app.tar.gz"
+      "size": 12501238,
+      "url": "https://github.com/onyx-dot-app/onyx/releases/download/v5.1.3/Onyx_universal.app.tar.gz"
     }
   ],
   "pinned": false,

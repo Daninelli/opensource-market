@@ -20,41 +20,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/dolthub/dolt/zip/refs/heads/main",
   "release": {
-    "tag": "v2.7.3",
-    "name": "2.7.3",
-    "published": "2026-11-11T02:04:40Z",
-    "url": "https://github.com/dolthub/dolt/releases/tag/v2.7.3"
+    "tag": "v2.7.5",
+    "name": "2.7.5",
+    "published": "2026-11-18T01:23:29Z",
+    "url": "https://github.com/dolthub/dolt/releases/tag/v2.7.5"
   },
   "assets": [
     {
       "name": "dolt-windows-amd64.7z",
-      "size": 23361973,
-      "url": "https://github.com/dolthub/dolt/releases/download/v2.7.3/dolt-windows-amd64.7z"
+      "size": 23424838,
+      "url": "https://github.com/dolthub/dolt/releases/download/v2.7.5/dolt-windows-amd64.7z"
     },
     {
       "name": "dolt-windows-amd64.zip",
-      "size": 40168552,
-      "url": "https://github.com/dolthub/dolt/releases/download/v2.7.3/dolt-windows-amd64.zip"
+      "size": 40270690,
+      "url": "https://github.com/dolthub/dolt/releases/download/v2.7.5/dolt-windows-amd64.zip"
     },
     {
       "name": "dolt-darwin-arm64.tar.gz",
-      "size": 41210805,
-      "url": "https://github.com/dolthub/dolt/releases/download/v2.7.3/dolt-darwin-arm64.tar.gz"
+      "size": 41304407,
+      "url": "https://github.com/dolthub/dolt/releases/download/v2.7.5/dolt-darwin-arm64.tar.gz"
     },
     {
       "name": "dolt-darwin-amd64.tar.gz",
-      "size": 43740307,
-      "url": "https://github.com/dolthub/dolt/releases/download/v2.7.3/dolt-darwin-amd64.tar.gz"
+      "size": 43840755,
+      "url": "https://github.com/dolthub/dolt/releases/download/v2.7.5/dolt-darwin-amd64.tar.gz"
     },
     {
       "name": "dolt-linux-arm64.tar.gz",
-      "size": 40829258,
-      "url": "https://github.com/dolthub/dolt/releases/download/v2.7.3/dolt-linux-arm64.tar.gz"
+      "size": 40924876,
+      "url": "https://github.com/dolthub/dolt/releases/download/v2.7.5/dolt-linux-arm64.tar.gz"
     },
     {
-      "name": "dolt-2.7.3-1.aarch64.rpm",
-      "size": 40881529,
-      "url": "https://github.com/dolthub/dolt/releases/download/v2.7.3/dolt-2.7.3-1.aarch64.rpm"
+      "name": "dolt-2.7.5-1.aarch64.rpm",
+      "size": 40982646,
+      "url": "https://github.com/dolthub/dolt/releases/download/v2.7.5/dolt-2.7.5-1.aarch64.rpm"
     }
   ],
   "pinned": false,

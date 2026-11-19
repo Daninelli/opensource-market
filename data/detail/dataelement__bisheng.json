@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/dataelement/bisheng/zip/refs/heads/main",
   "release": {
-    "tag": "v3.0.1",
-    "name": "v3.0.1",
-    "published": "2026-11-10T18:44:29Z",
-    "url": "https://github.com/dataelement/bisheng/releases/tag/v3.0.1"
+    "tag": "v3.0.2",
+    "name": "v3.0.2",
+    "published": "2026-11-17T09:31:30Z",
+    "url": "https://github.com/dataelement/bisheng/releases/tag/v3.0.2"
   },
   "assets": [],
   "pinned": false,

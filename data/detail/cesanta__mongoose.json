@@ -23,21 +23,21 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/cesanta/mongoose/zip/refs/heads/master",
   "release": {
-    "tag": "7.23",
-    "name": "Mongoose 7.23",
-    "published": "2026-08-12T12:46:08Z",
-    "url": "https://github.com/cesanta/mongoose/releases/tag/7.23"
+    "tag": "7.24",
+    "name": "Mongoose 7.24",
+    "published": "2026-11-18T12:56:57Z",
+    "url": "https://github.com/cesanta/mongoose/releases/tag/7.24"
   },
   "assets": [
     {
-      "name": "Cesanta.I-CUBE-Mongoose.7.23.1.pack",
-      "size": 345124,
-      "url": "https://github.com/cesanta/mongoose/releases/download/7.23/Cesanta.I-CUBE-Mongoose.7.23.1.pack"
+      "name": "Cesanta.I-CUBE-Mongoose.pack",
+      "size": 376291,
+      "url": "https://github.com/cesanta/mongoose/releases/download/7.24/Cesanta.I-CUBE-Mongoose.pack"
     },
     {
-      "name": "Cesanta.I-CUBE-Mongoose.7.23.2.pack",
-      "size": 366545,
-      "url": "https://github.com/cesanta/mongoose/releases/download/7.23/Cesanta.I-CUBE-Mongoose.7.23.2.pack"
+      "name": "Cesanta.Mongoose.pack",
+      "size": 1393481,
+      "url": "https://github.com/cesanta/mongoose/releases/download/7.24/Cesanta.Mongoose.pack"
     }
   ],
   "pinned": false,

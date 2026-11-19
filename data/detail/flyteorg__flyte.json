@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/flyteorg/flyte/zip/refs/heads/main",
   "release": {
-    "tag": "v2.0.55",
-    "name": "v2.0.55",
-    "published": "2026-11-13T01:04:12Z",
-    "url": "https://github.com/flyteorg/flyte/releases/tag/v2.0.55"
+    "tag": "v2.0.56",
+    "name": "v2.0.56",
+    "published": "2026-11-18T08:42:30Z",
+    "url": "https://github.com/flyteorg/flyte/releases/tag/v2.0.56"
   },
   "assets": [],
   "pinned": false,

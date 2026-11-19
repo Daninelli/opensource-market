@@ -21,41 +21,41 @@
   "default_branch": "devel",
   "download_url": "https://codeload.github.com/dbeaver/dbeaver/zip/refs/heads/devel",
   "release": {
-    "tag": "26.2.4",
-    "name": "26.2.4",
-    "published": "2026-11-01T21:17:09Z",
-    "url": "https://github.com/dbeaver/dbeaver/releases/tag/26.2.4"
+    "tag": "26.2.5",
+    "name": "26.2.5",
+    "published": "2026-11-15T18:39:18Z",
+    "url": "https://github.com/dbeaver/dbeaver/releases/tag/26.2.5"
   },
   "assets": [
     {
-      "name": "dbeaver-ce-26.2.4-windows-aarch64.exe",
-      "size": 112682720,
-      "url": "https://github.com/dbeaver/dbeaver/releases/download/26.2.4/dbeaver-ce-26.2.4-windows-aarch64.exe"
+      "name": "dbeaver-ce-26.2.5-windows-aarch64.exe",
+      "size": 112579568,
+      "url": "https://github.com/dbeaver/dbeaver/releases/download/26.2.5/dbeaver-ce-26.2.5-windows-aarch64.exe"
     },
     {
-      "name": "dbeaver-ce-26.2.4-windows-x86_64.exe",
-      "size": 115077816,
-      "url": "https://github.com/dbeaver/dbeaver/releases/download/26.2.4/dbeaver-ce-26.2.4-windows-x86_64.exe"
+      "name": "dbeaver-ce-26.2.5-windows-x86_64.exe",
+      "size": 114998288,
+      "url": "https://github.com/dbeaver/dbeaver/releases/download/26.2.5/dbeaver-ce-26.2.5-windows-x86_64.exe"
     },
     {
-      "name": "dbeaver-ce-26.2.4-macos-aarch64.dmg",
-      "size": 124646758,
-      "url": "https://github.com/dbeaver/dbeaver/releases/download/26.2.4/dbeaver-ce-26.2.4-macos-aarch64.dmg"
+      "name": "dbeaver-ce-26.2.5-macos-aarch64.dmg",
+      "size": 124466382,
+      "url": "https://github.com/dbeaver/dbeaver/releases/download/26.2.5/dbeaver-ce-26.2.5-macos-aarch64.dmg"
     },
     {
-      "name": "dbeaver-ce-26.2.4-macos-x86_64.dmg",
-      "size": 125941223,
-      "url": "https://github.com/dbeaver/dbeaver/releases/download/26.2.4/dbeaver-ce-26.2.4-macos-x86_64.dmg"
+      "name": "dbeaver-ce-26.2.5-macos-x86_64.dmg",
+      "size": 125824381,
+      "url": "https://github.com/dbeaver/dbeaver/releases/download/26.2.5/dbeaver-ce-26.2.5-macos-x86_64.dmg"
     },
     {
-      "name": "dbeaver-ce-26.2.4-linux-aarch64.tar.gz",
-      "size": 128085287,
-      "url": "https://github.com/dbeaver/dbeaver/releases/download/26.2.4/dbeaver-ce-26.2.4-linux-aarch64.tar.gz"
+      "name": "dbeaver-ce-26.2.5-linux-aarch64.tar.gz",
+      "size": 127932836,
+      "url": "https://github.com/dbeaver/dbeaver/releases/download/26.2.5/dbeaver-ce-26.2.5-linux-aarch64.tar.gz"
     },
     {
-      "name": "dbeaver-ce-26.2.4-linux-aarch64.deb",
-      "size": 128116762,
-      "url": "https://github.com/dbeaver/dbeaver/releases/download/26.2.4/dbeaver-ce-26.2.4-linux-aarch64.deb"
+      "name": "dbeaver-ce-26.2.5-linux-aarch64.deb",
+      "size": 127972610,
+      "url": "https://github.com/dbeaver/dbeaver/releases/download/26.2.5/dbeaver-ce-26.2.5-linux-aarch64.deb"
     }
   ],
   "pinned": false,

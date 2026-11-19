@@ -22,10 +22,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/ONLYOFFICE/CommunityServer/zip/refs/heads/master",
   "release": {
-    "tag": "v12.8",
-    "name": "v12.8.0",
-    "published": "2026-05-05T09:49:52Z",
-    "url": "https://github.com/ONLYOFFICE/CommunityServer/releases/tag/v12.8"
+    "tag": "v12.9.0",
+    "name": "v12.9",
+    "published": "2026-11-16T15:51:44Z",
+    "url": "https://github.com/ONLYOFFICE/CommunityServer/releases/tag/v12.9.0"
   },
   "assets": [],
   "pinned": false,

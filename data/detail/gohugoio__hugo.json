@@ -21,51 +21,51 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/gohugoio/hugo/zip/refs/heads/master",
   "release": {
-    "tag": "v0.170.0",
-    "name": "v0.170.0",
-    "published": "2026-11-13T16:09:01Z",
-    "url": "https://github.com/gohugoio/hugo/releases/tag/v0.170.0"
+    "tag": "v0.170.1",
+    "name": "v0.170.1",
+    "published": "2026-11-17T17:08:14Z",
+    "url": "https://github.com/gohugoio/hugo/releases/tag/v0.170.1"
   },
   "assets": [
     {
-      "name": "hugo_0.170.0_windows-arm64.zip",
-      "size": 20680417,
-      "url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_0.170.0_windows-arm64.zip"
+      "name": "hugo_0.170.1_windows-arm64.zip",
+      "size": 20653465,
+      "url": "https://github.com/gohugoio/hugo/releases/download/v0.170.1/hugo_0.170.1_windows-arm64.zip"
     },
     {
-      "name": "hugo_0.170.0_windows-amd64.zip",
-      "size": 22563601,
-      "url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_0.170.0_windows-amd64.zip"
+      "name": "hugo_0.170.1_windows-amd64.zip",
+      "size": 22564996,
+      "url": "https://github.com/gohugoio/hugo/releases/download/v0.170.1/hugo_0.170.1_windows-amd64.zip"
     },
     {
-      "name": "hugo_0.170.0_darwin-universal.pkg",
-      "size": 41301923,
-      "url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_0.170.0_darwin-universal.pkg"
+      "name": "hugo_0.170.1_darwin-universal.pkg",
+      "size": 41307724,
+      "url": "https://github.com/gohugoio/hugo/releases/download/v0.170.1/hugo_0.170.1_darwin-universal.pkg"
     },
     {
-      "name": "hugo_withdeploy_0.170.0_darwin-universal.pkg",
-      "size": 58635493,
-      "url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_withdeploy_0.170.0_darwin-universal.pkg"
+      "name": "hugo_withdeploy_0.170.1_darwin-universal.pkg",
+      "size": 58646839,
+      "url": "https://github.com/gohugoio/hugo/releases/download/v0.170.1/hugo_withdeploy_0.170.1_darwin-universal.pkg"
     },
     {
-      "name": "hugo_0.170.0_linux-arm64.tar.gz",
-      "size": 19639913,
-      "url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_0.170.0_linux-arm64.tar.gz"
+      "name": "hugo_0.170.1_linux-arm64.tar.gz",
+      "size": 19640494,
+      "url": "https://github.com/gohugoio/hugo/releases/download/v0.170.1/hugo_0.170.1_linux-arm64.tar.gz"
     },
     {
-      "name": "hugo_extended_0.170.0_linux-arm64.tar.gz",
-      "size": 19639913,
-      "url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_extended_0.170.0_linux-arm64.tar.gz"
+      "name": "hugo_extended_0.170.1_linux-arm64.tar.gz",
+      "size": 19640494,
+      "url": "https://github.com/gohugoio/hugo/releases/download/v0.170.1/hugo_extended_0.170.1_linux-arm64.tar.gz"
     },
     {
-      "name": "hugo_0.170.0_netbsd-amd64.tar.gz",
-      "size": 21213561,
-      "url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_0.170.0_netbsd-amd64.tar.gz"
+      "name": "hugo_0.170.1_dragonfly-amd64.tar.gz",
+      "size": 21216694,
+      "url": "https://github.com/gohugoio/hugo/releases/download/v0.170.1/hugo_0.170.1_dragonfly-amd64.tar.gz"
     },
     {
-      "name": "hugo_0.170.0_dragonfly-amd64.tar.gz",
-      "size": 21213855,
-      "url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_0.170.0_dragonfly-amd64.tar.gz"
+      "name": "hugo_0.170.1_netbsd-amd64.tar.gz",
+      "size": 21218524,
+      "url": "https://github.com/gohugoio/hugo/releases/download/v0.170.1/hugo_0.170.1_netbsd-amd64.tar.gz"
     }
   ],
   "pinned": false,

@@ -21,26 +21,26 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/nezhahq/nezha/zip/refs/heads/master",
   "release": {
-    "tag": "v2.6.1",
-    "name": "v2.6.1",
-    "published": "2026-10-29T10:58:31Z",
-    "url": "https://github.com/nezhahq/nezha/releases/tag/v2.6.1"
+    "tag": "v2.6.2",
+    "name": "v2.6.2",
+    "published": "2026-11-18T14:56:54Z",
+    "url": "https://github.com/nezhahq/nezha/releases/tag/v2.6.2"
   },
   "assets": [
     {
       "name": "dashboard-windows-amd64.zip",
-      "size": 33224062,
-      "url": "https://github.com/nezhahq/nezha/releases/download/v2.6.1/dashboard-windows-amd64.zip"
+      "size": 33757225,
+      "url": "https://github.com/nezhahq/nezha/releases/download/v2.6.2/dashboard-windows-amd64.zip"
     },
     {
       "name": "dashboard-linux-arm64.zip",
-      "size": 31958814,
-      "url": "https://github.com/nezhahq/nezha/releases/download/v2.6.1/dashboard-linux-arm64.zip"
+      "size": 32496242,
+      "url": "https://github.com/nezhahq/nezha/releases/download/v2.6.2/dashboard-linux-arm64.zip"
     },
     {
       "name": "dashboard-linux-amd64.zip",
-      "size": 33564251,
-      "url": "https://github.com/nezhahq/nezha/releases/download/v2.6.1/dashboard-linux-amd64.zip"
+      "size": 34104008,
+      "url": "https://github.com/nezhahq/nezha/releases/download/v2.6.2/dashboard-linux-amd64.zip"
     }
   ],
   "pinned": false,

@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/langchain4j/langchain4j/zip/refs/heads/main",
   "release": {
-    "tag": "1.23.0",
-    "name": "1.23.0 and 1.23.0-beta33",
-    "published": "2026-10-28T16:54:13Z",
-    "url": "https://github.com/langchain4j/langchain4j/releases/tag/1.23.0"
+    "tag": "1.24.0",
+    "name": "1.24.0 and 1.24.0-beta34",
+    "published": "2026-11-18T15:20:00Z",
+    "url": "https://github.com/langchain4j/langchain4j/releases/tag/1.24.0"
   },
   "assets": [],
   "pinned": false,

@@ -22,12 +22,18 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/frappe/hrms/zip/refs/heads/develop",
   "release": {
-    "tag": "v16.53.2",
-    "name": "v16.53.2",
-    "published": "2026-11-11T03:18:04Z",
-    "url": "https://github.com/frappe/hrms/releases/tag/v16.53.2"
+    "tag": "v16.60.0",
+    "name": "v16.60.0",
+    "published": "2026-11-17T22:27:15Z",
+    "url": "https://github.com/frappe/hrms/releases/tag/v16.60.0"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "hrms-v16.60-a.png",
+      "size": 945141,
+      "url": "https://github.com/frappe/hrms/releases/download/v16.60.0/hrms-v16.60-a.png"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

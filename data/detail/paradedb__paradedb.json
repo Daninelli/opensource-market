@@ -21,26 +21,26 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/paradedb/paradedb/zip/refs/heads/main",
   "release": {
-    "tag": "v0.26.6",
-    "name": "v0.26.6",
-    "published": "2026-11-08T22:29:39Z",
-    "url": "https://github.com/paradedb/paradedb/releases/tag/v0.26.6"
+    "tag": "v0.27.0",
+    "name": "v0.27.0",
+    "published": "2026-11-19T06:41:47Z",
+    "url": "https://github.com/paradedb/paradedb/releases/tag/v0.27.0"
   },
   "assets": [
     {
-      "name": "postgresql-18-pg-search_0.26.6-1PARADEDB-resolute_amd64.deb",
-      "size": 54224148,
-      "url": "https://github.com/paradedb/paradedb/releases/download/v0.26.6/postgresql-18-pg-search_0.26.6-1PARADEDB-resolute_amd64.deb"
+      "name": "postgresql-17-pg-search_0.27.0-1PARADEDB-trixie_arm64.deb",
+      "size": 87876370,
+      "url": "https://github.com/paradedb/paradedb/releases/download/v0.27.0/postgresql-17-pg-search_0.27.0-1PARADEDB-trixie_arm64.deb"
     },
     {
-      "name": "postgresql-15-pg-search_0.26.6-1PARADEDB-resolute_amd64.deb",
-      "size": 54229856,
-      "url": "https://github.com/paradedb/paradedb/releases/download/v0.26.6/postgresql-15-pg-search_0.26.6-1PARADEDB-resolute_amd64.deb"
+      "name": "postgresql-15-pg-search_0.27.0-1PARADEDB-trixie_arm64.deb",
+      "size": 87880796,
+      "url": "https://github.com/paradedb/paradedb/releases/download/v0.27.0/postgresql-15-pg-search_0.27.0-1PARADEDB-trixie_arm64.deb"
     },
     {
       "name": "pg_search.schema.sql",
-      "size": 360825,
-      "url": "https://github.com/paradedb/paradedb/releases/download/v0.26.6/pg_search.schema.sql"
+      "size": 364037,
+      "url": "https://github.com/paradedb/paradedb/releases/download/v0.27.0/pg_search.schema.sql"
     }
   ],
   "pinned": false,

@@ -22,10 +22,10 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/opf/openproject/zip/refs/heads/dev",
   "release": {
-    "tag": "v17.9.7",
-    "name": "OpenProject 17.9.7",
-    "published": "2026-11-09T08:19:46Z",
-    "url": "https://github.com/opf/openproject/releases/tag/v17.9.7"
+    "tag": "v17.8.3",
+    "name": "OpenProject 17.8.3",
+    "published": "2026-11-19T12:07:25Z",
+    "url": "https://github.com/opf/openproject/releases/tag/v17.8.3"
   },
   "assets": [],
   "pinned": false,

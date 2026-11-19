@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/github/spec-kit/zip/refs/heads/main",
   "release": {
-    "tag": "v1.4.0",
-    "name": "Spec Kit - 1.4.0",
-    "published": "2026-11-10T21:26:08Z",
-    "url": "https://github.com/github/spec-kit/releases/tag/v1.4.0"
+    "tag": "v1.4.3",
+    "name": "Spec Kit - 1.4.3",
+    "published": "2026-11-19T14:31:35Z",
+    "url": "https://github.com/github/spec-kit/releases/tag/v1.4.3"
   },
   "assets": [],
   "pinned": false,

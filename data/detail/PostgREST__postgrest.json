@@ -22,41 +22,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/PostgREST/postgrest/zip/refs/heads/main",
   "release": {
-    "tag": "v16.5",
-    "name": "v16.5",
-    "published": "2026-10-20T05:03:08Z",
-    "url": "https://github.com/PostgREST/postgrest/releases/tag/v16.5"
+    "tag": "v16.6",
+    "name": "v16.6",
+    "published": "2026-11-16T23:45:34Z",
+    "url": "https://github.com/PostgREST/postgrest/releases/tag/v16.6"
   },
   "assets": [
     {
-      "name": "postgrest-v16.5-macos-x86-64.tar.xz",
-      "size": 2707116,
-      "url": "https://github.com/PostgREST/postgrest/releases/download/v16.5/postgrest-v16.5-macos-x86-64.tar.xz"
+      "name": "postgrest-v16.6-macos-x86-64.tar.xz",
+      "size": 2707268,
+      "url": "https://github.com/PostgREST/postgrest/releases/download/v16.6/postgrest-v16.6-macos-x86-64.tar.xz"
     },
     {
-      "name": "postgrest-v16.5-macos-aarch64.tar.xz",
-      "size": 9050912,
-      "url": "https://github.com/PostgREST/postgrest/releases/download/v16.5/postgrest-v16.5-macos-aarch64.tar.xz"
+      "name": "postgrest-v16.6-macos-aarch64.tar.xz",
+      "size": 10896748,
+      "url": "https://github.com/PostgREST/postgrest/releases/download/v16.6/postgrest-v16.6-macos-aarch64.tar.xz"
     },
     {
-      "name": "postgrest-v16.5-windows-x86-64.zip",
-      "size": 15077008,
-      "url": "https://github.com/PostgREST/postgrest/releases/download/v16.5/postgrest-v16.5-windows-x86-64.zip"
+      "name": "postgrest-v16.6-windows-x86-64.zip",
+      "size": 15076020,
+      "url": "https://github.com/PostgREST/postgrest/releases/download/v16.6/postgrest-v16.6-windows-x86-64.zip"
     },
     {
-      "name": "postgrest-v16.5-linux-static-aarch64.tar.xz",
-      "size": 3997716,
-      "url": "https://github.com/PostgREST/postgrest/releases/download/v16.5/postgrest-v16.5-linux-static-aarch64.tar.xz"
+      "name": "postgrest-v16.6-linux-static-aarch64.tar.xz",
+      "size": 3997964,
+      "url": "https://github.com/PostgREST/postgrest/releases/download/v16.6/postgrest-v16.6-linux-static-aarch64.tar.xz"
     },
     {
-      "name": "postgrest-v16.5-linux-static-x86-64.tar.xz",
-      "size": 4520424,
-      "url": "https://github.com/PostgREST/postgrest/releases/download/v16.5/postgrest-v16.5-linux-static-x86-64.tar.xz"
+      "name": "postgrest-v16.6-linux-static-x86-64.tar.xz",
+      "size": 4520420,
+      "url": "https://github.com/PostgREST/postgrest/releases/download/v16.6/postgrest-v16.6-linux-static-x86-64.tar.xz"
     },
     {
-      "name": "postgrest-v16.5-freebsd-x86-64.tar.xz",
-      "size": 8449092,
-      "url": "https://github.com/PostgREST/postgrest/releases/download/v16.5/postgrest-v16.5-freebsd-x86-64.tar.xz"
+      "name": "postgrest-v16.6-freebsd-x86-64.tar.xz",
+      "size": 8448568,
+      "url": "https://github.com/PostgREST/postgrest/releases/download/v16.6/postgrest-v16.6-freebsd-x86-64.tar.xz"
     }
   ],
   "pinned": false,

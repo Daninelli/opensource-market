@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/withastro/astro/zip/refs/heads/main",
   "release": {
-    "tag": "@astrojs/vue@7.1.6",
-    "name": "@astrojs/vue@7.1.6",
-    "published": "2026-11-13T18:57:44Z",
-    "url": "https://github.com/withastro/astro/releases/tag/%40astrojs/vue%407.1.6"
+    "tag": "@astrojs/node@11.1.14",
+    "name": "@astrojs/node@11.1.14",
+    "published": "2026-11-18T17:33:50Z",
+    "url": "https://github.com/withastro/astro/releases/tag/%40astrojs/node%4011.1.14"
   },
   "assets": [],
   "pinned": false,

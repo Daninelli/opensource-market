@@ -22,51 +22,51 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/ppy/osu/zip/refs/heads/master",
   "release": {
-    "tag": "2026.1005.0-lazer",
-    "name": "2026.1005.0-lazer",
-    "published": "2026-10-05T07:39:28Z",
-    "url": "https://github.com/ppy/osu/releases/tag/2026.1005.0-lazer"
+    "tag": "2026.1117.0-lazer",
+    "name": "2026.1117.0-lazer",
+    "published": "2026-11-17T08:51:12Z",
+    "url": "https://github.com/ppy/osu/releases/tag/2026.1117.0-lazer"
   },
   "assets": [
     {
       "name": "install.exe",
-      "size": 188951240,
-      "url": "https://github.com/ppy/osu/releases/download/2026.1005.0-lazer/install.exe"
+      "size": 192693720,
+      "url": "https://github.com/ppy/osu/releases/download/2026.1117.0-lazer/install.exe"
     },
     {
-      "name": "osulazer-2026.1005.0-lazer-linux-x64-delta.nupkg",
-      "size": 101253613,
-      "url": "https://github.com/ppy/osu/releases/download/2026.1005.0-lazer/osulazer-2026.1005.0-lazer-linux-x64-delta.nupkg"
+      "name": "osulazer-2026.1117.0-lazer-linux-x64-delta.nupkg",
+      "size": 5511659,
+      "url": "https://github.com/ppy/osu/releases/download/2026.1117.0-lazer/osulazer-2026.1117.0-lazer-linux-x64-delta.nupkg"
     },
     {
-      "name": "osulazer-2026.1005.0-lazer-linux-x64-full.nupkg",
-      "size": 185748181,
-      "url": "https://github.com/ppy/osu/releases/download/2026.1005.0-lazer/osulazer-2026.1005.0-lazer-linux-x64-full.nupkg"
+      "name": "osulazer-2026.1117.0-lazer-linux-x64-full.nupkg",
+      "size": 189482439,
+      "url": "https://github.com/ppy/osu/releases/download/2026.1117.0-lazer/osulazer-2026.1117.0-lazer-linux-x64-full.nupkg"
+    },
+    {
+      "name": "osu.iOS.ipa",
+      "size": 269016022,
+      "url": "https://github.com/ppy/osu/releases/download/2026.1117.0-lazer/osu.iOS.ipa"
     },
     {
       "name": "sh.ppy.osulazer.apk",
-      "size": 513213609,
-      "url": "https://github.com/ppy/osu/releases/download/2026.1005.0-lazer/sh.ppy.osulazer.apk"
+      "size": 174317185,
+      "url": "https://github.com/ppy/osu/releases/download/2026.1117.0-lazer/sh.ppy.osulazer.apk"
     },
     {
-      "name": "osulazer-2026.1005.0-lazer-osx-x64-delta.nupkg",
-      "size": 4479117,
-      "url": "https://github.com/ppy/osu/releases/download/2026.1005.0-lazer/osulazer-2026.1005.0-lazer-osx-x64-delta.nupkg"
+      "name": "osulazer-2026.1117.0-lazer-osx-x64-delta.nupkg",
+      "size": 2396389,
+      "url": "https://github.com/ppy/osu/releases/download/2026.1117.0-lazer/osulazer-2026.1117.0-lazer-osx-x64-delta.nupkg"
     },
     {
-      "name": "osulazer-2026.1005.0-lazer-osx-arm64-delta.nupkg",
-      "size": 4511078,
-      "url": "https://github.com/ppy/osu/releases/download/2026.1005.0-lazer/osulazer-2026.1005.0-lazer-osx-arm64-delta.nupkg"
+      "name": "osulazer-2026.1117.0-lazer-osx-arm64-delta.nupkg",
+      "size": 2397349,
+      "url": "https://github.com/ppy/osu/releases/download/2026.1117.0-lazer/osulazer-2026.1117.0-lazer-osx-arm64-delta.nupkg"
     },
     {
       "name": "osu.app.Apple.Silicon.zip",
-      "size": 191000299,
-      "url": "https://github.com/ppy/osu/releases/download/2026.1005.0-lazer/osu.app.Apple.Silicon.zip"
-    },
-    {
-      "name": "osu.app.Intel.zip",
-      "size": 193580430,
-      "url": "https://github.com/ppy/osu/releases/download/2026.1005.0-lazer/osu.app.Intel.zip"
+      "size": 194735097,
+      "url": "https://github.com/ppy/osu/releases/download/2026.1117.0-lazer/osu.app.Apple.Silicon.zip"
     }
   ],
   "pinned": false,

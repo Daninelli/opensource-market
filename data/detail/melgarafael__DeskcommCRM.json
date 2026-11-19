@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/melgarafael/DeskcommCRM/zip/refs/heads/main",
   "release": {
-    "tag": "v1.112.0",
-    "name": "v1.112.0",
-    "published": "2026-11-15T05:59:58Z",
-    "url": "https://github.com/melgarafael/DeskcommCRM/releases/tag/v1.112.0"
+    "tag": "v1.119.0",
+    "name": "v1.119.0",
+    "published": "2026-11-19T15:37:41Z",
+    "url": "https://github.com/melgarafael/DeskcommCRM/releases/tag/v1.119.0"
   },
   "assets": [],
   "pinned": false,

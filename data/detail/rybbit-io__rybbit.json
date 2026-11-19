@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/rybbit-io/rybbit/zip/refs/heads/master",
   "release": {
-    "tag": "v2.9.2",
-    "name": "v2.9.2",
-    "published": "2026-10-24T02:45:42Z",
-    "url": "https://github.com/rybbit-io/rybbit/releases/tag/v2.9.2"
+    "tag": "v2.9.3",
+    "name": "v2.9.3",
+    "published": "2026-11-18T05:25:44Z",
+    "url": "https://github.com/rybbit-io/rybbit/releases/tag/v2.9.3"
   },
   "assets": [],
   "pinned": false,

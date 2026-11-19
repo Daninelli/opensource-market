@@ -21,31 +21,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/volcengine/OpenViking/zip/refs/heads/main",
   "release": {
-    "tag": "openviking-superagent@0.5.2-preview",
-    "name": "OpenViking SuperAgent 0.5.2-preview",
-    "published": "2026-11-11T08:36:18Z",
-    "url": "https://github.com/volcengine/OpenViking/releases/tag/openviking-superagent%400.5.2-preview"
+    "tag": "openviking-superagent@0.5.5-preview",
+    "name": "OpenViking SuperAgent 0.5.5-preview",
+    "published": "2026-11-19T10:33:18Z",
+    "url": "https://github.com/volcengine/OpenViking/releases/tag/openviking-superagent%400.5.5-preview"
   },
   "assets": [
     {
-      "name": "superagent-0.5.2-preview-darwin-arm64.tar.gz",
-      "size": 98359359,
-      "url": "https://github.com/volcengine/OpenViking/releases/download/openviking-superagent%400.5.2-preview/superagent-0.5.2-preview-darwin-arm64.tar.gz"
+      "name": "superagent-0.5.5-preview-darwin-arm64.tar.gz",
+      "size": 100200191,
+      "url": "https://github.com/volcengine/OpenViking/releases/download/openviking-superagent%400.5.5-preview/superagent-0.5.5-preview-darwin-arm64.tar.gz"
     },
     {
-      "name": "superagent-0.5.2-preview-darwin-x64.tar.gz",
-      "size": 101834271,
-      "url": "https://github.com/volcengine/OpenViking/releases/download/openviking-superagent%400.5.2-preview/superagent-0.5.2-preview-darwin-x64.tar.gz"
+      "name": "superagent-0.5.5-preview-darwin-x64.tar.gz",
+      "size": 103774151,
+      "url": "https://github.com/volcengine/OpenViking/releases/download/openviking-superagent%400.5.5-preview/superagent-0.5.5-preview-darwin-x64.tar.gz"
     },
     {
-      "name": "superagent-0.5.2-preview-linux-arm64.tar.gz",
-      "size": 102250422,
-      "url": "https://github.com/volcengine/OpenViking/releases/download/openviking-superagent%400.5.2-preview/superagent-0.5.2-preview-linux-arm64.tar.gz"
+      "name": "superagent-0.5.5-preview-linux-arm64.tar.gz",
+      "size": 104283866,
+      "url": "https://github.com/volcengine/OpenViking/releases/download/openviking-superagent%400.5.5-preview/superagent-0.5.5-preview-linux-arm64.tar.gz"
     },
     {
-      "name": "superagent-0.5.2-preview-linux-x64.tar.gz",
-      "size": 104656192,
-      "url": "https://github.com/volcengine/OpenViking/releases/download/openviking-superagent%400.5.2-preview/superagent-0.5.2-preview-linux-x64.tar.gz"
+      "name": "superagent-0.5.5-preview-linux-x64.tar.gz",
+      "size": 106985367,
+      "url": "https://github.com/volcengine/OpenViking/releases/download/openviking-superagent%400.5.5-preview/superagent-0.5.5-preview-linux-x64.tar.gz"
     }
   ],
   "pinned": false,

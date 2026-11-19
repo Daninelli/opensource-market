@@ -22,10 +22,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/gunthercox/ChatterBot/zip/refs/heads/master",
   "release": {
-    "tag": "1.2.15",
-    "name": "1.2.15",
-    "published": "2026-08-25T11:29:58Z",
-    "url": "https://github.com/gunthercox/ChatterBot/releases/tag/1.2.15"
+    "tag": "1.2.16",
+    "name": "1.2.16",
+    "published": "2026-11-18T11:30:11Z",
+    "url": "https://github.com/gunthercox/ChatterBot/releases/tag/1.2.16"
   },
   "assets": [],
   "pinned": false,

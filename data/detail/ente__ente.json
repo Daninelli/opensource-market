@@ -21,16 +21,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ente/ente/zip/refs/heads/main",
   "release": {
-    "tag": "photos-v1.3.70",
-    "name": "photos-v1.3.70",
-    "published": "2026-11-13T05:36:48Z",
-    "url": "https://github.com/ente/ente/releases/tag/photos-v1.3.70"
+    "tag": "ente-cli-v0.4.5",
+    "name": "ente-cli-v0.4.5",
+    "published": "2026-11-18T09:36:21Z",
+    "url": "https://github.com/ente/ente/releases/tag/ente-cli-v0.4.5"
   },
   "assets": [
     {
-      "name": "ente-photos-v1.3.70.apk",
-      "size": 306448776,
-      "url": "https://github.com/ente/ente/releases/download/photos-v1.3.70/ente-photos-v1.3.70.apk"
+      "name": "ente-cli-v0.4.5-macos-arm64.tar.gz",
+      "size": 6180643,
+      "url": "https://github.com/ente/ente/releases/download/ente-cli-v0.4.5/ente-cli-v0.4.5-macos-arm64.tar.gz"
+    },
+    {
+      "name": "ente-cli-v0.4.5-macos-amd64.tar.gz",
+      "size": 6723219,
+      "url": "https://github.com/ente/ente/releases/download/ente-cli-v0.4.5/ente-cli-v0.4.5-macos-amd64.tar.gz"
+    },
+    {
+      "name": "ente-cli-v0.4.5-windows-arm64.zip",
+      "size": 7213579,
+      "url": "https://github.com/ente/ente/releases/download/ente-cli-v0.4.5/ente-cli-v0.4.5-windows-arm64.zip"
+    },
+    {
+      "name": "ente-cli-v0.4.5-windows-amd64.zip",
+      "size": 8092840,
+      "url": "https://github.com/ente/ente/releases/download/ente-cli-v0.4.5/ente-cli-v0.4.5-windows-amd64.zip"
+    },
+    {
+      "name": "ente-cli-v0.4.5-linux-arm64.tar.gz",
+      "size": 9429957,
+      "url": "https://github.com/ente/ente/releases/download/ente-cli-v0.4.5/ente-cli-v0.4.5-linux-arm64.tar.gz"
+    },
+    {
+      "name": "ente-cli-v0.4.5-linux-amd64.tar.gz",
+      "size": 9540196,
+      "url": "https://github.com/ente/ente/releases/download/ente-cli-v0.4.5/ente-cli-v0.4.5-linux-amd64.tar.gz"
     }
   ],
   "pinned": false,

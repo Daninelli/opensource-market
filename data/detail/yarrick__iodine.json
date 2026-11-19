@@ -20,21 +20,21 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/yarrick/iodine/zip/refs/heads/master",
   "release": {
-    "tag": "v0.9.0",
-    "name": "iodine 0.9.0 \"20 years\"",
-    "published": "2026-10-25T19:07:10Z",
-    "url": "https://github.com/yarrick/iodine/releases/tag/v0.9.0"
+    "tag": "v0.9.1",
+    "name": "0.9.1 \"Caps Lock\"",
+    "published": "2026-11-15T16:04:59Z",
+    "url": "https://github.com/yarrick/iodine/releases/tag/v0.9.1"
   },
   "assets": [
     {
-      "name": "iodine-0.9.0-windows.zip",
-      "size": 624267,
-      "url": "https://github.com/yarrick/iodine/releases/download/v0.9.0/iodine-0.9.0-windows.zip"
+      "name": "iodine-0.9.1-windows.zip",
+      "size": 626320,
+      "url": "https://github.com/yarrick/iodine/releases/download/v0.9.1/iodine-0.9.1-windows.zip"
     },
     {
-      "name": "iodine-0.9.0.tar.gz",
-      "size": 419142,
-      "url": "https://github.com/yarrick/iodine/releases/download/v0.9.0/iodine-0.9.0.tar.gz"
+      "name": "iodine-0.9.1.tar.gz",
+      "size": 419201,
+      "url": "https://github.com/yarrick/iodine/releases/download/v0.9.1/iodine-0.9.1.tar.gz"
     }
   ],
   "pinned": false,

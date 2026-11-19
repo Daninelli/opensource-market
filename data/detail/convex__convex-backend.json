@@ -21,41 +21,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/convex/convex-backend/zip/refs/heads/main",
   "release": {
-    "tag": "precompiled-2026-10-22-1447815",
-    "name": "Precompiled 2026-10-22-1447815",
-    "published": "2026-10-22T23:18:47Z",
-    "url": "https://github.com/convex/convex-backend/releases/tag/precompiled-2026-10-22-1447815"
+    "tag": "precompiled-2026-11-16-80befbc",
+    "name": "Precompiled 2026-11-16-80befbc",
+    "published": "2026-11-16T19:18:35Z",
+    "url": "https://github.com/convex/convex-backend/releases/tag/precompiled-2026-11-16-80befbc"
   },
   "assets": [
     {
       "name": "convex-local-backend-x86_64-pc-windows-msvc.zip",
-      "size": 50043642,
-      "url": "https://github.com/convex/convex-backend/releases/download/precompiled-2026-10-22-1447815/convex-local-backend-x86_64-pc-windows-msvc.zip"
+      "size": 50111408,
+      "url": "https://github.com/convex/convex-backend/releases/download/precompiled-2026-11-16-80befbc/convex-local-backend-x86_64-pc-windows-msvc.zip"
     },
     {
       "name": "convex-local-backend-aarch64-apple-darwin.zip",
-      "size": 55570799,
-      "url": "https://github.com/convex/convex-backend/releases/download/precompiled-2026-10-22-1447815/convex-local-backend-aarch64-apple-darwin.zip"
+      "size": 55669643,
+      "url": "https://github.com/convex/convex-backend/releases/download/precompiled-2026-11-16-80befbc/convex-local-backend-aarch64-apple-darwin.zip"
     },
     {
       "name": "convex-local-backend-x86_64-apple-darwin.zip",
-      "size": 59481970,
-      "url": "https://github.com/convex/convex-backend/releases/download/precompiled-2026-10-22-1447815/convex-local-backend-x86_64-apple-darwin.zip"
+      "size": 59531074,
+      "url": "https://github.com/convex/convex-backend/releases/download/precompiled-2026-11-16-80befbc/convex-local-backend-x86_64-apple-darwin.zip"
     },
     {
       "name": "convex-local-backend-aarch64-unknown-linux-gnu.zip",
-      "size": 62290340,
-      "url": "https://github.com/convex/convex-backend/releases/download/precompiled-2026-10-22-1447815/convex-local-backend-aarch64-unknown-linux-gnu.zip"
+      "size": 62255711,
+      "url": "https://github.com/convex/convex-backend/releases/download/precompiled-2026-11-16-80befbc/convex-local-backend-aarch64-unknown-linux-gnu.zip"
     },
     {
       "name": "convex-local-backend-x86_64-unknown-linux-gnu.zip",
-      "size": 64331338,
-      "url": "https://github.com/convex/convex-backend/releases/download/precompiled-2026-10-22-1447815/convex-local-backend-x86_64-unknown-linux-gnu.zip"
+      "size": 64230604,
+      "url": "https://github.com/convex/convex-backend/releases/download/precompiled-2026-11-16-80befbc/convex-local-backend-x86_64-unknown-linux-gnu.zip"
     },
     {
       "name": "dashboard.zip",
-      "size": 6661919,
-      "url": "https://github.com/convex/convex-backend/releases/download/precompiled-2026-10-22-1447815/dashboard.zip"
+      "size": 6298871,
+      "url": "https://github.com/convex/convex-backend/releases/download/precompiled-2026-11-16-80befbc/dashboard.zip"
     }
   ],
   "pinned": false,

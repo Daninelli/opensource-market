@@ -21,41 +21,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/JetBrains/intellij-community/zip/refs/heads/master",
   "release": {
-    "tag": "pycharm/2026.2.5",
-    "name": "pycharm/2026.2.5",
-    "published": "2026-11-13T13:47:46Z",
-    "url": "https://github.com/JetBrains/intellij-community/releases/tag/pycharm/2026.2.5"
+    "tag": "pycharm/2026.3.0.1",
+    "name": "pycharm/2026.3.0.1",
+    "published": "2026-11-19T08:33:34Z",
+    "url": "https://github.com/JetBrains/intellij-community/releases/tag/pycharm/2026.3.0.1"
   },
   "assets": [
     {
-      "name": "pycharm-2026.2.5-aarch64.exe",
-      "size": 456086216,
-      "url": "https://github.com/JetBrains/intellij-community/releases/download/pycharm/2026.2.5/pycharm-2026.2.5-aarch64.exe"
+      "name": "pycharm-2026.3.0.1-aarch64.exe",
+      "size": 457779016,
+      "url": "https://github.com/JetBrains/intellij-community/releases/download/pycharm/2026.3.0.1/pycharm-2026.3.0.1-aarch64.exe"
     },
     {
-      "name": "pycharm-2026.2.5.exe",
-      "size": 488877096,
-      "url": "https://github.com/JetBrains/intellij-community/releases/download/pycharm/2026.2.5/pycharm-2026.2.5.exe"
+      "name": "pycharm-2026.3.0.1.exe",
+      "size": 493114808,
+      "url": "https://github.com/JetBrains/intellij-community/releases/download/pycharm/2026.3.0.1/pycharm-2026.3.0.1.exe"
     },
     {
-      "name": "pycharm-2026.2.5-aarch64.dmg",
-      "size": 610551267,
-      "url": "https://github.com/JetBrains/intellij-community/releases/download/pycharm/2026.2.5/pycharm-2026.2.5-aarch64.dmg"
+      "name": "pycharm-2026.3.0.1-aarch64.dmg",
+      "size": 612438143,
+      "url": "https://github.com/JetBrains/intellij-community/releases/download/pycharm/2026.3.0.1/pycharm-2026.3.0.1-aarch64.dmg"
     },
     {
-      "name": "pycharm-2026.2.5.dmg",
-      "size": 620254494,
-      "url": "https://github.com/JetBrains/intellij-community/releases/download/pycharm/2026.2.5/pycharm-2026.2.5.dmg"
+      "name": "pycharm-2026.3.0.1.dmg",
+      "size": 624726635,
+      "url": "https://github.com/JetBrains/intellij-community/releases/download/pycharm/2026.3.0.1/pycharm-2026.3.0.1.dmg"
     },
     {
-      "name": "pycharm-2026.2.5.tar.gz",
-      "size": 650319599,
-      "url": "https://github.com/JetBrains/intellij-community/releases/download/pycharm/2026.2.5/pycharm-2026.2.5.tar.gz"
+      "name": "pycharm-2026.3.0.1.tar.gz",
+      "size": 652173555,
+      "url": "https://github.com/JetBrains/intellij-community/releases/download/pycharm/2026.3.0.1/pycharm-2026.3.0.1.tar.gz"
     },
     {
-      "name": "pycharm-2026.2.5-aarch64.tar.gz",
-      "size": 676016491,
-      "url": "https://github.com/JetBrains/intellij-community/releases/download/pycharm/2026.2.5/pycharm-2026.2.5-aarch64.tar.gz"
+      "name": "pycharm-2026.3.0.1-aarch64.tar.gz",
+      "size": 668765469,
+      "url": "https://github.com/JetBrains/intellij-community/releases/download/pycharm/2026.3.0.1/pycharm-2026.3.0.1-aarch64.tar.gz"
     }
   ],
   "pinned": false,
