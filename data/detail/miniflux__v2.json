@@ -15,7 +15,7 @@
   ],
   "deploy_type": "二进制 / Docker",
   "platform": "github",
-  "updated_at": "2026-11-18T03:59:47Z",
+  "updated_at": "2026-11-19T04:08:18Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/miniflux/v2/zip/refs/heads/main",

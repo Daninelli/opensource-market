@@ -16,7 +16,7 @@
   ],
   "deploy_type": "源码 / 二进制",
   "platform": "github",
-  "updated_at": "2026-11-17T18:16:30Z",
+  "updated_at": "2026-11-19T01:44:39Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/78/xiaozhi-esp32/zip/refs/heads/main",

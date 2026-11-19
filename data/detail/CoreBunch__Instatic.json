@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-11-18T11:35:41Z",
+  "updated_at": "2026-11-19T09:02:35Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/CoreBunch/Instatic/zip/refs/heads/main",

@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-11-18T05:54:41Z",
+  "updated_at": "2026-11-19T11:00:59Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/openebs/openebs/zip/refs/heads/develop",

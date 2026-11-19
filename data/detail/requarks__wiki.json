@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-11-18T08:23:42Z",
+  "updated_at": "2026-11-19T09:54:23Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "scarlett",
   "download_url": "https://codeload.github.com/requarks/wiki/zip/refs/heads/scarlett",

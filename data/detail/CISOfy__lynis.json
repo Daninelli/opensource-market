@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-09-16T21:41:02Z",
+  "updated_at": "2026-11-19T10:17:22Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/CISOfy/lynis/zip/refs/heads/master",
