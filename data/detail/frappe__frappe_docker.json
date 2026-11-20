@@ -18,7 +18,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-11-18T17:00:00Z",
+  "updated_at": "2026-11-20T11:21:31Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/frappe/frappe_docker/zip/refs/heads/main",

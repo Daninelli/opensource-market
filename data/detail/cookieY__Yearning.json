@@ -16,10 +16,10 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-08-24T11:46:31Z",
+  "updated_at": "2026-11-19T15:58:33Z",
   "added_at": "2026-10-18T00:03:43+08:00",
-  "default_branch": "next",
-  "download_url": "https://codeload.github.com/cookieY/Yearning/zip/refs/heads/next",
+  "default_branch": "v4",
+  "download_url": "https://codeload.github.com/cookieY/Yearning/zip/refs/heads/v4",
   "release": {
     "tag": "v3.1.9.1",
     "name": "v3.1.9.1",

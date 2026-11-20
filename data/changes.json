@@ -1,6 +1,6 @@
 {
   "note": "由 tools/track-changes.mjs 自动维护；只追加变动记录，不重新计算历史",
-  "updated_at": "2026-11-17T11:52:31.817Z",
+  "updated_at": "2026-11-20T11:39:37.551Z",
   "events": [
     {
       "date": "2026-11-17",
@@ -10393,6 +10393,12 @@
     },
     "musescore/MuseScore": {
       "license": "GPL-3.0",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "agalwood/Motrix": {
+      "license": "MIT",
       "pinned": false,
       "pin_label": null,
       "archived": false
