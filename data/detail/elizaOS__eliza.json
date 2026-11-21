@@ -15,10 +15,10 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-11-20T10:34:38Z",
+  "updated_at": "2026-11-21T11:00:10Z",
   "added_at": "2026-10-18T00:03:43+08:00",
-  "default_branch": "develop",
-  "download_url": "https://codeload.github.com/elizaOS/eliza/zip/refs/heads/develop",
+  "default_branch": "vibestack",
+  "download_url": "https://codeload.github.com/elizaOS/eliza/zip/refs/heads/vibestack",
   "release": {
     "tag": "v2.0.5",
     "name": "v2.0.5",

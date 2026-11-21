@@ -16,7 +16,7 @@
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-11-15T05:53:45Z",
+  "updated_at": "2026-11-20T19:26:31Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "next",
   "download_url": "https://codeload.github.com/so-fancy/diff-so-fancy/zip/refs/heads/next",

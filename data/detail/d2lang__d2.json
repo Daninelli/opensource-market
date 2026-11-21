@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-11-20T04:17:40Z",
+  "updated_at": "2026-11-21T08:43:28Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/d2lang/d2/zip/refs/heads/master",
