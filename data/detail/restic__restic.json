@@ -15,7 +15,7 @@
   ],
   "deploy_type": "二进制",
   "platform": "github",
-  "updated_at": "2026-11-19T15:17:17Z",
+  "updated_at": "2026-11-21T13:59:32Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/restic/restic/zip/refs/heads/master",
