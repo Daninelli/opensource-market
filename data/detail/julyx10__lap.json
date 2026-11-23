@@ -22,51 +22,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/julyx10/lap/zip/refs/heads/main",
   "release": {
-    "tag": "v0.4.0",
-    "name": "v0.4.0",
-    "published": "2026-11-17T13:56:29Z",
-    "url": "https://github.com/julyx10/lap/releases/tag/v0.4.0"
+    "tag": "v0.4.1",
+    "name": "v0.4.1",
+    "published": "2026-11-20T07:54:17Z",
+    "url": "https://github.com/julyx10/lap/releases/tag/v0.4.1"
   },
   "assets": [
     {
-      "name": "Lap_0.4.0_aarch64.dmg",
-      "size": 210085762,
-      "url": "https://github.com/julyx10/lap/releases/download/v0.4.0/Lap_0.4.0_aarch64.dmg"
+      "name": "Lap_0.4.1_aarch64.dmg",
+      "size": 210104476,
+      "url": "https://github.com/julyx10/lap/releases/download/v0.4.1/Lap_0.4.1_aarch64.dmg"
     },
     {
-      "name": "Lap_0.4.0_x64.dmg",
-      "size": 225168456,
-      "url": "https://github.com/julyx10/lap/releases/download/v0.4.0/Lap_0.4.0_x64.dmg"
+      "name": "Lap_0.4.1_x64.dmg",
+      "size": 225184089,
+      "url": "https://github.com/julyx10/lap/releases/download/v0.4.1/Lap_0.4.1_x64.dmg"
     },
     {
-      "name": "Lap_0.4.0_x64_en-US.msi",
-      "size": 238088192,
-      "url": "https://github.com/julyx10/lap/releases/download/v0.4.0/Lap_0.4.0_x64_en-US.msi"
+      "name": "Lap_0.4.1_x64_en-US.msi",
+      "size": 238100480,
+      "url": "https://github.com/julyx10/lap/releases/download/v0.4.1/Lap_0.4.1_x64_en-US.msi"
     },
     {
-      "name": "Lap_0.4.0_arm64_en-US.msi",
-      "size": 268369920,
-      "url": "https://github.com/julyx10/lap/releases/download/v0.4.0/Lap_0.4.0_arm64_en-US.msi"
+      "name": "Lap_0.4.1_arm64_en-US.msi",
+      "size": 268402688,
+      "url": "https://github.com/julyx10/lap/releases/download/v0.4.1/Lap_0.4.1_arm64_en-US.msi"
     },
     {
-      "name": "Lap_0.4.0_arm64.deb",
-      "size": 215687978,
-      "url": "https://github.com/julyx10/lap/releases/download/v0.4.0/Lap_0.4.0_arm64.deb"
+      "name": "Lap_0.4.1_arm64.deb",
+      "size": 215676818,
+      "url": "https://github.com/julyx10/lap/releases/download/v0.4.1/Lap_0.4.1_arm64.deb"
     },
     {
-      "name": "Lap_0.4.0_amd64.deb",
-      "size": 225788782,
-      "url": "https://github.com/julyx10/lap/releases/download/v0.4.0/Lap_0.4.0_amd64.deb"
+      "name": "Lap_0.4.1_amd64.deb",
+      "size": 225787310,
+      "url": "https://github.com/julyx10/lap/releases/download/v0.4.1/Lap_0.4.1_amd64.deb"
     },
     {
       "name": "Lap_aarch64.app.tar.gz",
-      "size": 211567687,
-      "url": "https://github.com/julyx10/lap/releases/download/v0.4.0/Lap_aarch64.app.tar.gz"
+      "size": 211585082,
+      "url": "https://github.com/julyx10/lap/releases/download/v0.4.1/Lap_aarch64.app.tar.gz"
     },
     {
       "name": "Lap_x86_64.app.tar.gz",
-      "size": 225457412,
-      "url": "https://github.com/julyx10/lap/releases/download/v0.4.0/Lap_x86_64.app.tar.gz"
+      "size": 225476029,
+      "url": "https://github.com/julyx10/lap/releases/download/v0.4.1/Lap_x86_64.app.tar.gz"
     }
   ],
   "pinned": false,

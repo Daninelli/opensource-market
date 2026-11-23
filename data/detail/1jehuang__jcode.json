@@ -20,46 +20,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/1jehuang/jcode/zip/refs/heads/master",
   "release": {
-    "tag": "v1.0.1",
-    "name": "v1.0.1",
-    "published": "2026-11-18T13:08:58Z",
-    "url": "https://github.com/1jehuang/jcode/releases/tag/v1.0.1"
+    "tag": "v1.1.2",
+    "name": "jcode v1.1.2 · Linux",
+    "published": "2026-11-23T09:10:12Z",
+    "url": "https://github.com/1jehuang/jcode/releases/tag/v1.1.2"
   },
   "assets": [
     {
-      "name": "jcode-windows-aarch64.tar.gz",
-      "size": 46024292,
-      "url": "https://github.com/1jehuang/jcode/releases/download/v1.0.1/jcode-windows-aarch64.tar.gz"
-    },
-    {
-      "name": "jcode-windows-x86_64.tar.gz",
-      "size": 52650826,
-      "url": "https://github.com/1jehuang/jcode/releases/download/v1.0.1/jcode-windows-x86_64.tar.gz"
-    },
-    {
-      "name": "jcode-macos-aarch64.tar.gz",
-      "size": 57530655,
-      "url": "https://github.com/1jehuang/jcode/releases/download/v1.0.1/jcode-macos-aarch64.tar.gz"
-    },
-    {
-      "name": "jcode-macos-x86_64.tar.gz",
-      "size": 62332653,
-      "url": "https://github.com/1jehuang/jcode/releases/download/v1.0.1/jcode-macos-x86_64.tar.gz"
-    },
-    {
       "name": "jcode-linux-x86_64.tar.gz",
-      "size": 62892433,
-      "url": "https://github.com/1jehuang/jcode/releases/download/v1.0.1/jcode-linux-x86_64.tar.gz"
-    },
-    {
-      "name": "jcode-linux-aarch64.tar.gz",
-      "size": 63803438,
-      "url": "https://github.com/1jehuang/jcode/releases/download/v1.0.1/jcode-linux-aarch64.tar.gz"
-    },
-    {
-      "name": "jcode-freebsd-x86_64.tar.gz",
-      "size": 60973699,
-      "url": "https://github.com/1jehuang/jcode/releases/download/v1.0.1/jcode-freebsd-x86_64.tar.gz"
+      "size": 60354857,
+      "url": "https://github.com/1jehuang/jcode/releases/download/v1.1.2/jcode-linux-x86_64.tar.gz"
     }
   ],
   "pinned": false,

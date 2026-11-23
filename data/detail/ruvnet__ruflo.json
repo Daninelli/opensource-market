@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ruvnet/ruflo/zip/refs/heads/main",
   "release": {
-    "tag": "v3.78.1",
-    "name": "v3.78.1 — SONA balanced-mode recall fix",
-    "published": "2026-11-19T17:00:34Z",
-    "url": "https://github.com/ruvnet/ruflo/releases/tag/v3.78.1"
+    "tag": "v3.80.0",
+    "name": "v3.80.0 — SIM handoff ingestion, darwin 0.16, federation and ledger fixes",
+    "published": "2026-11-21T03:34:46Z",
+    "url": "https://github.com/ruvnet/ruflo/releases/tag/v3.80.0"
   },
   "assets": [],
   "pinned": false,

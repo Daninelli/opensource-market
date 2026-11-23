@@ -20,51 +20,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/JanDeDobbeleer/oh-my-posh/zip/refs/heads/main",
   "release": {
-    "tag": "v33.0.0",
-    "name": "v33.0.0",
-    "published": "2026-11-17T12:43:14Z",
-    "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v33.0.0"
+    "tag": "v33.3.1",
+    "name": "v33.3.1",
+    "published": "2026-11-23T07:20:23Z",
+    "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v33.3.1"
   },
   "assets": [
     {
       "name": "posh-windows-arm64.exe",
-      "size": 13872392,
-      "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v33.0.0/posh-windows-arm64.exe"
+      "size": 13899024,
+      "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v33.3.1/posh-windows-arm64.exe"
     },
     {
       "name": "posh-darwin-arm64",
-      "size": 14019762,
-      "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v33.0.0/posh-darwin-arm64"
+      "size": 14036514,
+      "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v33.3.1/posh-darwin-arm64"
     },
     {
       "name": "posh-darwin-amd64",
-      "size": 14972208,
-      "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v33.0.0/posh-darwin-amd64"
+      "size": 15005216,
+      "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v33.3.1/posh-darwin-amd64"
     },
     {
       "name": "posh-windows-amd64.exe",
-      "size": 15146248,
-      "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v33.0.0/posh-windows-amd64.exe"
+      "size": 15175432,
+      "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v33.3.1/posh-windows-amd64.exe"
     },
     {
       "name": "posh-linux-arm64",
-      "size": 13566112,
-      "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v33.0.0/posh-linux-arm64"
+      "size": 13631648,
+      "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v33.3.1/posh-linux-arm64"
     },
     {
       "name": "posh-linux-arm",
       "size": 14287008,
-      "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v33.0.0/posh-linux-arm"
+      "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v33.3.1/posh-linux-arm"
     },
     {
       "name": "posh-android-arm",
-      "size": 14229188,
-      "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v33.0.0/posh-android-arm"
+      "size": 14258628,
+      "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v33.3.1/posh-android-arm"
     },
     {
       "name": "themes.zip",
       "size": 154945,
-      "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v33.0.0/themes.zip"
+      "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v33.3.1/themes.zip"
     }
   ],
   "pinned": false,

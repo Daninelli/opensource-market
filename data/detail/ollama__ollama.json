@@ -22,41 +22,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ollama/ollama/zip/refs/heads/main",
   "release": {
-    "tag": "v0.40.16",
-    "name": "v0.40.16",
-    "published": "2026-11-09T18:21:19Z",
-    "url": "https://github.com/ollama/ollama/releases/tag/v0.40.16"
+    "tag": "v0.40.17",
+    "name": "v0.40.17",
+    "published": "2026-11-10T22:25:00Z",
+    "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17"
   },
   "assets": [
     {
       "name": "ollama-darwin.tgz",
-      "size": 186116182,
-      "url": "https://github.com/ollama/ollama/releases/download/v0.40.16/ollama-darwin.tgz"
+      "size": 187626746,
+      "url": "https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-darwin.tgz"
     },
     {
       "name": "Ollama-darwin.zip",
-      "size": 229245253,
-      "url": "https://github.com/ollama/ollama/releases/download/v0.40.16/Ollama-darwin.zip"
+      "size": 230778782,
+      "url": "https://github.com/ollama/ollama/releases/download/v0.40.17/Ollama-darwin.zip"
     },
     {
       "name": "ollama-windows-amd64-rocm.zip",
-      "size": 258665009,
-      "url": "https://github.com/ollama/ollama/releases/download/v0.40.16/ollama-windows-amd64-rocm.zip"
+      "size": 258677621,
+      "url": "https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-windows-amd64-rocm.zip"
     },
     {
       "name": "ollama-windows-arm64.zip",
-      "size": 386918926,
-      "url": "https://github.com/ollama/ollama/releases/download/v0.40.16/ollama-windows-arm64.zip"
+      "size": 387167070,
+      "url": "https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-windows-arm64.zip"
     },
     {
       "name": "ollama-linux-arm64-jetpack6.tar.zst",
-      "size": 275401361,
-      "url": "https://github.com/ollama/ollama/releases/download/v0.40.16/ollama-linux-arm64-jetpack6.tar.zst"
+      "size": 275481289,
+      "url": "https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-linux-arm64-jetpack6.tar.zst"
     },
     {
       "name": "ollama-linux-arm64-jetpack5.tar.zst",
-      "size": 303457982,
-      "url": "https://github.com/ollama/ollama/releases/download/v0.40.16/ollama-linux-arm64-jetpack5.tar.zst"
+      "size": 303328689,
+      "url": "https://github.com/ollama/ollama/releases/download/v0.40.17/ollama-linux-arm64-jetpack5.tar.zst"
     }
   ],
   "pinned": false,

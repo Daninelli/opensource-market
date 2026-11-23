@@ -21,41 +21,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/cube-js/cube/zip/refs/heads/master",
   "release": {
-    "tag": "v1.8.30",
-    "name": "v1.8.30",
-    "published": "2026-11-19T15:29:46Z",
-    "url": "https://github.com/cube-js/cube/releases/tag/v1.8.30"
+    "tag": "v1.8.32",
+    "name": "v1.8.32",
+    "published": "2026-11-21T18:55:07Z",
+    "url": "https://github.com/cube-js/cube/releases/tag/v1.8.32"
   },
   "assets": [
     {
       "name": "cube-aarch64-apple-darwin.tar.gz",
-      "size": 2640947,
-      "url": "https://github.com/cube-js/cube/releases/download/v1.8.30/cube-aarch64-apple-darwin.tar.gz"
+      "size": 2662035,
+      "url": "https://github.com/cube-js/cube/releases/download/v1.8.32/cube-aarch64-apple-darwin.tar.gz"
     },
     {
       "name": "cube-x86_64-apple-darwin.tar.gz",
-      "size": 2812782,
-      "url": "https://github.com/cube-js/cube/releases/download/v1.8.30/cube-x86_64-apple-darwin.tar.gz"
+      "size": 2833728,
+      "url": "https://github.com/cube-js/cube/releases/download/v1.8.32/cube-x86_64-apple-darwin.tar.gz"
     },
     {
       "name": "cube-x86_64-pc-windows-msvc.tar.gz",
-      "size": 2924861,
-      "url": "https://github.com/cube-js/cube/releases/download/v1.8.30/cube-x86_64-pc-windows-msvc.tar.gz"
+      "size": 2951264,
+      "url": "https://github.com/cube-js/cube/releases/download/v1.8.32/cube-x86_64-pc-windows-msvc.tar.gz"
     },
     {
       "name": "native-win32-x64-unknown-fallback.tar.gz",
-      "size": 21714793,
-      "url": "https://github.com/cube-js/cube/releases/download/v1.8.30/native-win32-x64-unknown-fallback.tar.gz"
+      "size": 21721811,
+      "url": "https://github.com/cube-js/cube/releases/download/v1.8.32/native-win32-x64-unknown-fallback.tar.gz"
     },
     {
       "name": "cube-aarch64-unknown-linux-musl.tar.gz",
-      "size": 2774404,
-      "url": "https://github.com/cube-js/cube/releases/download/v1.8.30/cube-aarch64-unknown-linux-musl.tar.gz"
+      "size": 2795786,
+      "url": "https://github.com/cube-js/cube/releases/download/v1.8.32/cube-aarch64-unknown-linux-musl.tar.gz"
     },
     {
       "name": "cube-x86_64-unknown-linux-musl.tar.gz",
-      "size": 2935564,
-      "url": "https://github.com/cube-js/cube/releases/download/v1.8.30/cube-x86_64-unknown-linux-musl.tar.gz"
+      "size": 2957187,
+      "url": "https://github.com/cube-js/cube/releases/download/v1.8.32/cube-x86_64-unknown-linux-musl.tar.gz"
     }
   ],
   "pinned": false,

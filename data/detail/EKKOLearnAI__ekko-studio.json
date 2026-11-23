@@ -20,51 +20,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/EKKOLearnAI/ekko-studio/zip/refs/heads/main",
   "release": {
-    "tag": "v0.8.28",
-    "name": "Ekko Studio v0.8.28",
-    "published": "2026-11-17T23:27:52Z",
-    "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/tag/v0.8.28"
+    "tag": "v0.8.30",
+    "name": "Ekko Studio v0.8.30",
+    "published": "2026-11-21T11:03:14Z",
+    "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/tag/v0.8.30"
   },
   "assets": [
     {
-      "name": "Ekko.Studio-0.8.28-arm64.exe",
-      "size": 247696492,
-      "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.28/Ekko.Studio-0.8.28-arm64.exe"
+      "name": "Ekko.Studio-0.8.30-arm64.exe",
+      "size": 247718025,
+      "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.30/Ekko.Studio-0.8.30-arm64.exe"
     },
     {
-      "name": "Ekko.Studio-0.8.28-x64.exe",
-      "size": 257184541,
-      "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.28/Ekko.Studio-0.8.28-x64.exe"
+      "name": "Ekko.Studio-0.8.30-x64.exe",
+      "size": 257206178,
+      "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.30/Ekko.Studio-0.8.30-x64.exe"
     },
     {
-      "name": "Ekko.Studio-0.8.28-arm64.dmg",
-      "size": 328715734,
-      "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.28/Ekko.Studio-0.8.28-arm64.dmg"
+      "name": "Ekko.Studio-0.8.30-arm64.dmg",
+      "size": 328799267,
+      "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.30/Ekko.Studio-0.8.30-arm64.dmg"
     },
     {
-      "name": "Ekko.Studio-0.8.28-x64.dmg",
-      "size": 335477140,
-      "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.28/Ekko.Studio-0.8.28-x64.dmg"
+      "name": "Ekko.Studio-0.8.30-x64.dmg",
+      "size": 335517774,
+      "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.30/Ekko.Studio-0.8.30-x64.dmg"
     },
     {
-      "name": "Ekko.Studio-0.8.28-amd64.deb",
-      "size": 244459440,
-      "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.28/Ekko.Studio-0.8.28-amd64.deb"
+      "name": "Ekko.Studio-0.8.30-amd64.deb",
+      "size": 244432460,
+      "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.30/Ekko.Studio-0.8.30-amd64.deb"
     },
     {
-      "name": "Ekko.Studio-0.8.28-x86_64.AppImage",
-      "size": 311361989,
-      "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.28/Ekko.Studio-0.8.28-x86_64.AppImage"
+      "name": "Ekko.Studio-0.8.30-x86_64.AppImage",
+      "size": 311382547,
+      "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.30/Ekko.Studio-0.8.30-x86_64.AppImage"
     },
     {
-      "name": "hermes-web-ui-0.8.28.tar.gz",
-      "size": 214400325,
-      "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.28/hermes-web-ui-0.8.28.tar.gz"
+      "name": "hermes-web-ui-0.8.30.tar.gz",
+      "size": 214449064,
+      "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.30/hermes-web-ui-0.8.30.tar.gz"
     },
     {
-      "name": "Ekko.Studio-0.8.28-arm64.zip",
-      "size": 330352427,
-      "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.28/Ekko.Studio-0.8.28-arm64.zip"
+      "name": "Ekko.Studio-0.8.30-arm64.zip",
+      "size": 330378342,
+      "url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.30/Ekko.Studio-0.8.30-arm64.zip"
     }
   ],
   "pinned": false,

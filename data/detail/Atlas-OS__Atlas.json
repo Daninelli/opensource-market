@@ -20,21 +20,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Atlas-OS/Atlas/zip/refs/heads/main",
   "release": {
-    "tag": "0.5.0-hotfix",
-    "name": "0.5.0-hotfix",
-    "published": "2025-10-21T19:13:24Z",
-    "url": "https://github.com/Atlas-OS/Atlas/releases/tag/0.5.0-hotfix"
+    "tag": "0.6.1",
+    "name": "Atlas 0.6.1",
+    "published": "2026-11-22T21:26:58Z",
+    "url": "https://github.com/Atlas-OS/Atlas/releases/tag/0.6.1"
   },
   "assets": [
     {
-      "name": "AtlasPlaybook_v0.5.0-hotfix.zip",
-      "size": 47948364,
-      "url": "https://github.com/Atlas-OS/Atlas/releases/download/0.5.0-hotfix/AtlasPlaybook_v0.5.0-hotfix.zip"
+      "name": "AtlasManager.exe",
+      "size": 24067584,
+      "url": "https://github.com/Atlas-OS/Atlas/releases/download/0.6.1/AtlasManager.exe"
     },
     {
-      "name": "AtlasPlaybook_v0.5.0-hotfix.apbx",
-      "size": 48024713,
-      "url": "https://github.com/Atlas-OS/Atlas/releases/download/0.5.0-hotfix/AtlasPlaybook_v0.5.0-hotfix.apbx"
+      "name": "Atlas-v0.6.1.atlaspkg",
+      "size": 44348410,
+      "url": "https://github.com/Atlas-OS/Atlas/releases/download/0.6.1/Atlas-v0.6.1.atlaspkg"
     }
   ],
   "pinned": false,

@@ -21,41 +21,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/grafana/pyroscope/zip/refs/heads/main",
   "release": {
-    "tag": "v2.4.3",
-    "name": "v2.4.3",
-    "published": "2026-11-03T21:09:45Z",
-    "url": "https://github.com/grafana/pyroscope/releases/tag/v2.4.3"
+    "tag": "v2.4.4",
+    "name": "v2.4.4",
+    "published": "2026-11-20T21:29:21Z",
+    "url": "https://github.com/grafana/pyroscope/releases/tag/v2.4.4"
   },
   "assets": [
     {
-      "name": "profilecli_2.4.3_windows_arm64.zip",
-      "size": 24596366,
-      "url": "https://github.com/grafana/pyroscope/releases/download/v2.4.3/profilecli_2.4.3_windows_arm64.zip"
+      "name": "profilecli_2.4.4_windows_arm64.zip",
+      "size": 24549815,
+      "url": "https://github.com/grafana/pyroscope/releases/download/v2.4.4/profilecli_2.4.4_windows_arm64.zip"
     },
     {
-      "name": "profilecli_2.4.3_darwin_arm64.tar.gz",
-      "size": 25690678,
-      "url": "https://github.com/grafana/pyroscope/releases/download/v2.4.3/profilecli_2.4.3_darwin_arm64.tar.gz"
+      "name": "profilecli_2.4.4_darwin_arm64.tar.gz",
+      "size": 25650007,
+      "url": "https://github.com/grafana/pyroscope/releases/download/v2.4.4/profilecli_2.4.4_darwin_arm64.tar.gz"
     },
     {
-      "name": "profilecli_2.4.3_darwin_amd64.tar.gz",
-      "size": 27643465,
-      "url": "https://github.com/grafana/pyroscope/releases/download/v2.4.3/profilecli_2.4.3_darwin_amd64.tar.gz"
+      "name": "profilecli_2.4.4_darwin_amd64.tar.gz",
+      "size": 27598213,
+      "url": "https://github.com/grafana/pyroscope/releases/download/v2.4.4/profilecli_2.4.4_darwin_amd64.tar.gz"
     },
     {
-      "name": "profilecli_2.4.3_windows_amd64.zip",
-      "size": 27691418,
-      "url": "https://github.com/grafana/pyroscope/releases/download/v2.4.3/profilecli_2.4.3_windows_amd64.zip"
+      "name": "profilecli_2.4.4_windows_amd64.zip",
+      "size": 27634059,
+      "url": "https://github.com/grafana/pyroscope/releases/download/v2.4.4/profilecli_2.4.4_windows_amd64.zip"
     },
     {
-      "name": "profilecli_2.4.3_linux_arm64.tar.gz",
-      "size": 24469808,
-      "url": "https://github.com/grafana/pyroscope/releases/download/v2.4.3/profilecli_2.4.3_linux_arm64.tar.gz"
+      "name": "profilecli_2.4.4_linux_arm64.tar.gz",
+      "size": 24424410,
+      "url": "https://github.com/grafana/pyroscope/releases/download/v2.4.4/profilecli_2.4.4_linux_arm64.tar.gz"
     },
     {
-      "name": "profilecli_2.4.3_linux_amd64.tar.gz",
-      "size": 27058161,
-      "url": "https://github.com/grafana/pyroscope/releases/download/v2.4.3/profilecli_2.4.3_linux_amd64.tar.gz"
+      "name": "profilecli_2.4.4_linux_amd64.tar.gz",
+      "size": 27009654,
+      "url": "https://github.com/grafana/pyroscope/releases/download/v2.4.4/profilecli_2.4.4_linux_amd64.tar.gz"
     }
   ],
   "pinned": false,

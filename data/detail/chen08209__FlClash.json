@@ -34,29 +34,29 @@
       "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-0.9.4-windows-arm64-setup.exe"
     },
     {
-      "name": "FlClash-dev-0.9.4-windows-arm64-setup.exe",
-      "size": 40094374,
-      "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-dev-0.9.4-windows-arm64-setup.exe"
+      "name": "FlClash-0.9.4-windows-amd64-setup.exe",
+      "size": 43132829,
+      "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-0.9.4-windows-amd64-setup.exe"
     },
     {
-      "name": "FlClash-dev-0.9.4-macos-arm64.dmg",
+      "name": "FlClash-0.9.4-macos-arm64.dmg",
       "size": 55625224,
-      "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-dev-0.9.4-macos-arm64.dmg"
+      "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-0.9.4-macos-arm64.dmg"
     },
     {
-      "name": "FlClash-dev-0.9.4-macos-amd64.dmg",
+      "name": "FlClash-0.9.4-macos-amd64.dmg",
       "size": 59502497,
-      "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-dev-0.9.4-macos-amd64.dmg"
+      "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-0.9.4-macos-amd64.dmg"
     },
     {
-      "name": "FlClash-dev-0.9.4-linux-arm64.deb",
+      "name": "FlClash-0.9.4-linux-arm64.deb",
       "size": 37198700,
-      "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-dev-0.9.4-linux-arm64.deb"
+      "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-0.9.4-linux-arm64.deb"
     },
     {
-      "name": "FlClash-dev-0.9.4-linux-amd64.deb",
+      "name": "FlClash-0.9.4-linux-amd64.deb",
       "size": 40854652,
-      "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-dev-0.9.4-linux-amd64.deb"
+      "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-0.9.4-linux-amd64.deb"
     },
     {
       "name": "FlClash-0.9.4-android-arm64-v8a.apk",
@@ -64,9 +64,9 @@
       "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-0.9.4-android-arm64-v8a.apk"
     },
     {
-      "name": "FlClash-dev-0.9.4-android-arm64.apk",
+      "name": "FlClash-0.9.4-android-arm64.apk",
       "size": 60863675,
-      "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-dev-0.9.4-android-arm64.apk"
+      "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-0.9.4-android-arm64.apk"
     }
   ],
   "pinned": false,

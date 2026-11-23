@@ -22,41 +22,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/duckdb/duckdb/zip/refs/heads/main",
   "release": {
-    "tag": "v2.0.0",
-    "name": "DuckDB v2.0.0 \"Cyanoptera\"",
-    "published": "2026-10-21T12:49:12Z",
-    "url": "https://github.com/duckdb/duckdb/releases/tag/v2.0.0"
+    "tag": "v2.0.1",
+    "name": "DuckDB v2.0.1 Bugfix Release",
+    "published": "2026-11-20T13:34:16Z",
+    "url": "https://github.com/duckdb/duckdb/releases/tag/v2.0.1"
   },
   "assets": [
     {
-      "name": "duckdb-cli-windows-arm64.tar.gz",
-      "size": 18241206,
-      "url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-windows-arm64.tar.gz"
+      "name": "duckdb-cli-windows-arm64.zip",
+      "size": 18511260,
+      "url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-windows-arm64.zip"
     },
     {
-      "name": "duckdb-shared-libs-windows-arm64.tar.gz",
-      "size": 18389170,
-      "url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-windows-arm64.tar.gz"
+      "name": "duckdb-cli-windows-arm64.tar.gz",
+      "size": 18557617,
+      "url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-windows-arm64.tar.gz"
     },
     {
       "name": "duckdb-cli-linux-arm64-musl.tar.gz",
-      "size": 20724107,
-      "url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-linux-arm64-musl.tar.gz"
+      "size": 21126553,
+      "url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-linux-arm64-musl.tar.gz"
     },
     {
       "name": "duckdb-cli-linux-arm64.tar.gz",
-      "size": 22306407,
-      "url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-linux-arm64.tar.gz"
+      "size": 22648356,
+      "url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-linux-arm64.tar.gz"
     },
     {
       "name": "libduckdb-src.zip",
-      "size": 182166,
-      "url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/libduckdb-src.zip"
+      "size": 185183,
+      "url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/libduckdb-src.zip"
     },
     {
       "name": "duckdb-shared-libs-osx-arm64.tar.gz",
-      "size": 19130734,
-      "url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-osx-arm64.tar.gz"
+      "size": 19317344,
+      "url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-shared-libs-osx-arm64.tar.gz"
     }
   ],
   "pinned": false,

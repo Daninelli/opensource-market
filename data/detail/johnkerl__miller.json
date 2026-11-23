@@ -20,51 +20,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/johnkerl/miller/zip/refs/heads/main",
   "release": {
-    "tag": "v6.22.0",
-    "name": "v6.22.0: Unicode-boxed I/O format, XDG spec, `datediff` DSL function",
-    "published": "2026-09-25T21:19:32Z",
-    "url": "https://github.com/johnkerl/miller/releases/tag/v6.22.0"
+    "tag": "v6.23.0",
+    "name": "Miller 6.23.0: performance improvements and bugfixes",
+    "published": "2026-11-22T22:34:32Z",
+    "url": "https://github.com/johnkerl/miller/releases/tag/v6.23.0"
   },
   "assets": [
     {
-      "name": "miller-6.22.0-windows-arm64.zip",
-      "size": 5442146,
-      "url": "https://github.com/johnkerl/miller/releases/download/v6.22.0/miller-6.22.0-windows-arm64.zip"
+      "name": "miller-6.23.0-windows-arm64.zip",
+      "size": 5569207,
+      "url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-windows-arm64.zip"
     },
     {
-      "name": "miller-6.22.0-darwin-arm64.tar.gz",
-      "size": 5602314,
-      "url": "https://github.com/johnkerl/miller/releases/download/v6.22.0/miller-6.22.0-darwin-arm64.tar.gz"
+      "name": "miller-6.23.0-darwin-arm64.tar.gz",
+      "size": 5731147,
+      "url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-darwin-arm64.tar.gz"
     },
     {
-      "name": "miller-6.22.0-windows-386.zip",
-      "size": 5997171,
-      "url": "https://github.com/johnkerl/miller/releases/download/v6.22.0/miller-6.22.0-windows-386.zip"
+      "name": "miller-6.23.0-windows-386.zip",
+      "size": 6127366,
+      "url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-windows-386.zip"
     },
     {
-      "name": "miller-6.22.0-darwin-amd64.tar.gz",
-      "size": 6170870,
-      "url": "https://github.com/johnkerl/miller/releases/download/v6.22.0/miller-6.22.0-darwin-amd64.tar.gz"
+      "name": "miller-6.23.0-darwin-amd64.tar.gz",
+      "size": 6328151,
+      "url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-darwin-amd64.tar.gz"
     },
     {
-      "name": "miller-6.22.0-1.src.rpm",
-      "size": 3232113,
-      "url": "https://github.com/johnkerl/miller/releases/download/v6.22.0/miller-6.22.0-1.src.rpm"
+      "name": "miller-6.23.0-1.src.rpm",
+      "size": 3242518,
+      "url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-1.src.rpm"
     },
     {
-      "name": "miller-6.22.0-linux-arm64.deb",
-      "size": 5357410,
-      "url": "https://github.com/johnkerl/miller/releases/download/v6.22.0/miller-6.22.0-linux-arm64.deb"
+      "name": "miller-6.23.0-linux-arm64.deb",
+      "size": 5485214,
+      "url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-arm64.deb"
     },
     {
-      "name": "miller-6.22.0.tar.gz",
-      "size": 3498744,
-      "url": "https://github.com/johnkerl/miller/releases/download/v6.22.0/miller-6.22.0.tar.gz"
+      "name": "miller-6.23.0.tar.gz",
+      "size": 3510427,
+      "url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0.tar.gz"
     },
     {
-      "name": "miller-6.22.0-freebsd-arm64.tar.gz",
-      "size": 5334138,
-      "url": "https://github.com/johnkerl/miller/releases/download/v6.22.0/miller-6.22.0-freebsd-arm64.tar.gz"
+      "name": "miller-6.23.0-freebsd-arm64.tar.gz",
+      "size": 5463111,
+      "url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-freebsd-arm64.tar.gz"
     }
   ],
   "pinned": false,

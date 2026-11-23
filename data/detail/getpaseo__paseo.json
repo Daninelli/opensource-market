@@ -20,51 +20,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/getpaseo/paseo/zip/refs/heads/main",
   "release": {
-    "tag": "v0.16.2",
-    "name": "Paseo v0.16.2",
-    "published": "2026-11-18T14:47:21Z",
-    "url": "https://github.com/getpaseo/paseo/releases/tag/v0.16.2"
+    "tag": "v0.17.3",
+    "name": "Paseo v0.17.3",
+    "published": "2026-11-22T17:46:11Z",
+    "url": "https://github.com/getpaseo/paseo/releases/tag/v0.17.3"
   },
   "assets": [
     {
-      "name": "Paseo-Setup-0.16.2-arm64.exe",
-      "size": 146687180,
-      "url": "https://github.com/getpaseo/paseo/releases/download/v0.16.2/Paseo-Setup-0.16.2-arm64.exe"
+      "name": "Paseo-Setup-0.17.3-arm64.exe",
+      "size": 146746417,
+      "url": "https://github.com/getpaseo/paseo/releases/download/v0.17.3/Paseo-Setup-0.17.3-arm64.exe"
     },
     {
-      "name": "Paseo-Setup-0.16.2-x64.exe",
-      "size": 152319810,
-      "url": "https://github.com/getpaseo/paseo/releases/download/v0.16.2/Paseo-Setup-0.16.2-x64.exe"
+      "name": "Paseo-Setup-0.17.3-x64.exe",
+      "size": 152379142,
+      "url": "https://github.com/getpaseo/paseo/releases/download/v0.17.3/Paseo-Setup-0.17.3-x64.exe"
     },
     {
-      "name": "Paseo-0.16.2-arm64.dmg",
-      "size": 188895820,
-      "url": "https://github.com/getpaseo/paseo/releases/download/v0.16.2/Paseo-0.16.2-arm64.dmg"
+      "name": "Paseo-0.17.3-arm64.dmg",
+      "size": 189095102,
+      "url": "https://github.com/getpaseo/paseo/releases/download/v0.17.3/Paseo-0.17.3-arm64.dmg"
     },
     {
-      "name": "Paseo-0.16.2-x64.dmg",
-      "size": 200421678,
-      "url": "https://github.com/getpaseo/paseo/releases/download/v0.16.2/Paseo-0.16.2-x64.dmg"
+      "name": "Paseo-0.17.3-x64.dmg",
+      "size": 200621771,
+      "url": "https://github.com/getpaseo/paseo/releases/download/v0.17.3/Paseo-0.17.3-x64.dmg"
     },
     {
-      "name": "Paseo-0.16.2-x86_64.rpm",
-      "size": 115264469,
-      "url": "https://github.com/getpaseo/paseo/releases/download/v0.16.2/Paseo-0.16.2-x86_64.rpm"
+      "name": "Paseo-0.17.3-x86_64.rpm",
+      "size": 115534673,
+      "url": "https://github.com/getpaseo/paseo/releases/download/v0.17.3/Paseo-0.17.3-x86_64.rpm"
     },
     {
-      "name": "Paseo-0.16.2-amd64.deb",
-      "size": 136659384,
-      "url": "https://github.com/getpaseo/paseo/releases/download/v0.16.2/Paseo-0.16.2-amd64.deb"
+      "name": "Paseo-0.17.3-amd64.deb",
+      "size": 136814632,
+      "url": "https://github.com/getpaseo/paseo/releases/download/v0.17.3/Paseo-0.17.3-amd64.deb"
     },
     {
-      "name": "paseo-v0.16.2-android.apk",
-      "size": 382061813,
-      "url": "https://github.com/getpaseo/paseo/releases/download/v0.16.2/paseo-v0.16.2-android.apk"
+      "name": "paseo-v0.17.3-android.apk",
+      "size": 382340017,
+      "url": "https://github.com/getpaseo/paseo/releases/download/v0.17.3/paseo-v0.17.3-android.apk"
     },
     {
-      "name": "Paseo-0.16.2-x64.tar.gz",
-      "size": 165692526,
-      "url": "https://github.com/getpaseo/paseo/releases/download/v0.16.2/Paseo-0.16.2-x64.tar.gz"
+      "name": "Paseo-0.17.3-x64.tar.gz",
+      "size": 165831810,
+      "url": "https://github.com/getpaseo/paseo/releases/download/v0.17.3/Paseo-0.17.3-x64.tar.gz"
     }
   ],
   "pinned": false,

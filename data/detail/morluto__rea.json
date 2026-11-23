@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/morluto/rea/zip/refs/heads/main",
   "release": {
-    "tag": "rea-agents-6.9.0",
-    "name": "rea-agents: v6.9.0",
-    "published": "2026-11-12T08:59:13Z",
-    "url": "https://github.com/morluto/rea/releases/tag/rea-agents-6.9.0"
+    "tag": "rea-agents-6.10.1",
+    "name": "rea-agents: v6.10.1",
+    "published": "2026-11-20T05:30:51Z",
+    "url": "https://github.com/morluto/rea/releases/tag/rea-agents-6.10.1"
   },
   "assets": [],
   "pinned": false,

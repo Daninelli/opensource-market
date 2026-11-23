@@ -21,16 +21,16 @@
   "default_branch": "scarlett",
   "download_url": "https://codeload.github.com/requarks/wiki/zip/refs/heads/scarlett",
   "release": {
-    "tag": "3.4.0",
-    "name": "3.4.0",
-    "published": "2026-11-15T08:34:27Z",
-    "url": "https://github.com/requarks/wiki/releases/tag/3.4.0"
+    "tag": "3.6.1",
+    "name": "3.6.1",
+    "published": "2026-11-23T10:24:05Z",
+    "url": "https://github.com/requarks/wiki/releases/tag/3.6.1"
   },
   "assets": [
     {
       "name": "wiki-js.tar.gz",
-      "size": 20845477,
-      "url": "https://github.com/requarks/wiki/releases/download/3.4.0/wiki-js.tar.gz"
+      "size": 21054653,
+      "url": "https://github.com/requarks/wiki/releases/download/3.6.1/wiki-js.tar.gz"
     }
   ],
   "pinned": false,

@@ -21,26 +21,26 @@
   "default_branch": "10",
   "download_url": "https://codeload.github.com/firerpa/lamda/zip/refs/heads/10",
   "release": {
-    "tag": "v10.12",
-    "name": "v10.12",
-    "published": "2026-11-15T11:41:37Z",
-    "url": "https://github.com/firerpa/lamda/releases/tag/v10.12"
+    "tag": "v10.14",
+    "name": "v10.14",
+    "published": "2026-11-22T03:20:05Z",
+    "url": "https://github.com/firerpa/lamda/releases/tag/v10.14"
   },
   "assets": [
     {
       "name": "startmitm.exe",
-      "size": 22462821,
-      "url": "https://github.com/firerpa/lamda/releases/download/v10.12/startmitm.exe"
+      "size": 22455708,
+      "url": "https://github.com/firerpa/lamda/releases/download/v10.14/startmitm.exe"
     },
     {
       "name": "lamda-mod-debian-armeabi-v7a.tar.gz",
-      "size": 32786126,
-      "url": "https://github.com/firerpa/lamda/releases/download/v10.12/lamda-mod-debian-armeabi-v7a.tar.gz"
+      "size": 32790554,
+      "url": "https://github.com/firerpa/lamda/releases/download/v10.14/lamda-mod-debian-armeabi-v7a.tar.gz"
     },
     {
       "name": "lamda-mod-debian-x86_64.tar.gz",
-      "size": 36499219,
-      "url": "https://github.com/firerpa/lamda/releases/download/v10.12/lamda-mod-debian-x86_64.tar.gz"
+      "size": 36500206,
+      "url": "https://github.com/firerpa/lamda/releases/download/v10.14/lamda-mod-debian-x86_64.tar.gz"
     }
   ],
   "pinned": false,

@@ -21,10 +21,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/virgiliojr94/book-to-skill/zip/refs/heads/master",
   "release": {
-    "tag": "v2.0.0",
-    "name": "v2.0.0",
-    "published": "2026-11-19T13:22:36Z",
-    "url": "https://github.com/virgiliojr94/book-to-skill/releases/tag/v2.0.0"
+    "tag": "v2.0.1",
+    "name": "v2.0.1",
+    "published": "2026-11-19T21:48:15Z",
+    "url": "https://github.com/virgiliojr94/book-to-skill/releases/tag/v2.0.1"
   },
   "assets": [],
   "pinned": false,

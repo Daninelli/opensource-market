@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/lint-staged/lint-staged/zip/refs/heads/main",
   "release": {
-    "tag": "v17.6.1",
-    "name": "v17.6.1",
-    "published": "2026-11-15T17:49:10Z",
-    "url": "https://github.com/lint-staged/lint-staged/releases/tag/v17.6.1"
+    "tag": "v17.6.2",
+    "name": "v17.6.2",
+    "published": "2026-11-22T06:47:45Z",
+    "url": "https://github.com/lint-staged/lint-staged/releases/tag/v17.6.2"
   },
   "assets": [],
   "pinned": false,

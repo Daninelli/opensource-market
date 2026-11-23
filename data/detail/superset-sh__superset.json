@@ -20,41 +20,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/superset-sh/superset/zip/refs/heads/main",
   "release": {
-    "tag": "desktop-v2.0.10",
-    "name": "Paradev Desktop desktop-v2.0.10",
-    "published": "2026-11-19T06:54:07Z",
-    "url": "https://github.com/ParadevAI/Paradev/releases/tag/desktop-v2.0.10"
+    "tag": "desktop-v2.0.11",
+    "name": "Paradev Desktop desktop-v2.0.11",
+    "published": "2026-11-20T19:35:05Z",
+    "url": "https://github.com/ParadevAI/Paradev/releases/tag/desktop-v2.0.11"
   },
   "assets": [
     {
-      "name": "Paradev-2.0.10-arm64.dmg",
-      "size": 252424246,
-      "url": "https://github.com/ParadevAI/Paradev/releases/download/desktop-v2.0.10/Paradev-2.0.10-arm64.dmg"
+      "name": "Paradev-2.0.11-arm64.dmg",
+      "size": 252487328,
+      "url": "https://github.com/ParadevAI/Paradev/releases/download/desktop-v2.0.11/Paradev-2.0.11-arm64.dmg"
     },
     {
       "name": "Paradev-arm64.dmg",
-      "size": 252424246,
-      "url": "https://github.com/ParadevAI/Paradev/releases/download/desktop-v2.0.10/Paradev-arm64.dmg"
+      "size": 252487328,
+      "url": "https://github.com/ParadevAI/Paradev/releases/download/desktop-v2.0.11/Paradev-arm64.dmg"
     },
     {
-      "name": "superset-2.0.10-amd64.deb",
-      "size": 277438778,
-      "url": "https://github.com/ParadevAI/Paradev/releases/download/desktop-v2.0.10/superset-2.0.10-amd64.deb"
+      "name": "superset-2.0.11-amd64.deb",
+      "size": 277479374,
+      "url": "https://github.com/ParadevAI/Paradev/releases/download/desktop-v2.0.11/superset-2.0.11-amd64.deb"
     },
     {
-      "name": "Superset-x86_64.AppImage",
-      "size": 280085230,
-      "url": "https://github.com/ParadevAI/Paradev/releases/download/desktop-v2.0.10/Superset-x86_64.AppImage"
+      "name": "Paradev-x86_64.AppImage",
+      "size": 280109371,
+      "url": "https://github.com/ParadevAI/Paradev/releases/download/desktop-v2.0.11/Paradev-x86_64.AppImage"
     },
     {
-      "name": "Superset-2.0.10-arm64-mac.zip",
-      "size": 242947305,
-      "url": "https://github.com/ParadevAI/Paradev/releases/download/desktop-v2.0.10/Superset-2.0.10-arm64-mac.zip"
+      "name": "Superset-2.0.11-arm64-mac.zip",
+      "size": 242979757,
+      "url": "https://github.com/ParadevAI/Paradev/releases/download/desktop-v2.0.11/Superset-2.0.11-arm64-mac.zip"
     },
     {
       "name": "Superset-arm64-mac.zip",
-      "size": 242947305,
-      "url": "https://github.com/ParadevAI/Paradev/releases/download/desktop-v2.0.10/Superset-arm64-mac.zip"
+      "size": 242979757,
+      "url": "https://github.com/ParadevAI/Paradev/releases/download/desktop-v2.0.11/Superset-arm64-mac.zip"
     }
   ],
   "pinned": false,

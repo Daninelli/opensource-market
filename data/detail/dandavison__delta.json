@@ -20,31 +20,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/dandavison/delta/zip/refs/heads/main",
   "release": {
-    "tag": "0.21.1",
-    "name": "0.21.1",
-    "published": "2026-11-19T02:13:51Z",
-    "url": "https://github.com/dandavison/delta/releases/tag/0.21.1"
+    "tag": "0.22.0",
+    "name": "0.22.0",
+    "published": "2026-11-23T04:11:06Z",
+    "url": "https://github.com/dandavison/delta/releases/tag/0.22.0"
   },
   "assets": [
     {
-      "name": "delta-0.21.1-aarch64-apple-darwin.tar.gz",
-      "size": 4361621,
-      "url": "https://github.com/dandavison/delta/releases/download/0.21.1/delta-0.21.1-aarch64-apple-darwin.tar.gz"
+      "name": "delta-0.22.0-aarch64-apple-darwin.tar.gz",
+      "size": 4557911,
+      "url": "https://github.com/dandavison/delta/releases/download/0.22.0/delta-0.22.0-aarch64-apple-darwin.tar.gz"
     },
     {
-      "name": "delta-0.21.1-x86_64-pc-windows-msvc.zip",
-      "size": 4714925,
-      "url": "https://github.com/dandavison/delta/releases/download/0.21.1/delta-0.21.1-x86_64-pc-windows-msvc.zip"
+      "name": "delta-0.22.0-x86_64-pc-windows-msvc.zip",
+      "size": 4914399,
+      "url": "https://github.com/dandavison/delta/releases/download/0.22.0/delta-0.22.0-x86_64-pc-windows-msvc.zip"
     },
     {
-      "name": "git-delta_0.21.1_armhf.deb",
-      "size": 3432264,
-      "url": "https://github.com/dandavison/delta/releases/download/0.21.1/git-delta_0.21.1_armhf.deb"
+      "name": "git-delta_0.22.0_armhf.deb",
+      "size": 3573120,
+      "url": "https://github.com/dandavison/delta/releases/download/0.22.0/git-delta_0.22.0_armhf.deb"
     },
     {
-      "name": "git-delta_0.21.1_arm64.deb",
-      "size": 3457544,
-      "url": "https://github.com/dandavison/delta/releases/download/0.21.1/git-delta_0.21.1_arm64.deb"
+      "name": "git-delta_0.22.0_arm64.deb",
+      "size": 3595176,
+      "url": "https://github.com/dandavison/delta/releases/download/0.22.0/git-delta_0.22.0_arm64.deb"
     }
   ],
   "pinned": false,

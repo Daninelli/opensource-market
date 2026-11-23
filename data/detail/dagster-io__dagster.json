@@ -21,26 +21,26 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/dagster-io/dagster/zip/refs/heads/master",
   "release": {
-    "tag": "1.13.30",
-    "name": "1.13.30 (core) / 0.29.30 (libraries)",
-    "published": "2026-11-12T21:04:51Z",
-    "url": "https://github.com/dagster-io/dagster/releases/tag/1.13.30"
+    "tag": "1.13.31",
+    "name": "1.13.31 (core) / 0.29.31 (libraries)",
+    "published": "2026-11-19T22:35:08Z",
+    "url": "https://github.com/dagster-io/dagster/releases/tag/1.13.31"
   },
   "assets": [
     {
       "name": "create-dagster-x86_64-apple-darwin.tar.xz",
-      "size": 56813352,
-      "url": "https://github.com/dagster-io/dagster/releases/download/1.13.30/create-dagster-x86_64-apple-darwin.tar.xz"
+      "size": 56881188,
+      "url": "https://github.com/dagster-io/dagster/releases/download/1.13.31/create-dagster-x86_64-apple-darwin.tar.xz"
     },
     {
       "name": "create-dagster-aarch64-apple-darwin.tar.xz",
-      "size": 56973700,
-      "url": "https://github.com/dagster-io/dagster/releases/download/1.13.30/create-dagster-aarch64-apple-darwin.tar.xz"
+      "size": 57041000,
+      "url": "https://github.com/dagster-io/dagster/releases/download/1.13.31/create-dagster-aarch64-apple-darwin.tar.xz"
     },
     {
       "name": "create-dagster-x86_64-unknown-linux-gnu.tar.xz",
-      "size": 98428980,
-      "url": "https://github.com/dagster-io/dagster/releases/download/1.13.30/create-dagster-x86_64-unknown-linux-gnu.tar.xz"
+      "size": 98496596,
+      "url": "https://github.com/dagster-io/dagster/releases/download/1.13.31/create-dagster-x86_64-unknown-linux-gnu.tar.xz"
     }
   ],
   "pinned": false,

@@ -21,31 +21,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/STranslate/STranslate/zip/refs/heads/main",
   "release": {
-    "tag": "v2.0.11",
-    "name": "v2.0.11",
-    "published": "2026-11-17T14:02:35Z",
-    "url": "https://github.com/STranslate/STranslate/releases/tag/v2.0.11"
+    "tag": "v2.0.12",
+    "name": "v2.0.12",
+    "published": "2026-11-21T08:21:54Z",
+    "url": "https://github.com/STranslate/STranslate/releases/tag/v2.0.12"
   },
   "assets": [
     {
       "name": "STranslate-win-Portable.zip",
-      "size": 55890978,
-      "url": "https://github.com/STranslate/STranslate/releases/download/v2.0.11/STranslate-win-Portable.zip"
+      "size": 55966905,
+      "url": "https://github.com/STranslate/STranslate/releases/download/v2.0.12/STranslate-win-Portable.zip"
     },
     {
       "name": "STranslate-win-Setup.exe",
-      "size": 63428277,
-      "url": "https://github.com/STranslate/STranslate/releases/download/v2.0.11/STranslate-win-Setup.exe"
+      "size": 63504204,
+      "url": "https://github.com/STranslate/STranslate/releases/download/v2.0.12/STranslate-win-Setup.exe"
     },
     {
-      "name": "STranslate-2.0.11-delta.nupkg",
-      "size": 2148842,
-      "url": "https://github.com/STranslate/STranslate/releases/download/v2.0.11/STranslate-2.0.11-delta.nupkg"
+      "name": "STranslate-2.0.12-delta.nupkg",
+      "size": 7178630,
+      "url": "https://github.com/STranslate/STranslate/releases/download/v2.0.12/STranslate-2.0.12-delta.nupkg"
     },
     {
-      "name": "STranslate-2.0.11-full.nupkg",
-      "size": 55897269,
-      "url": "https://github.com/STranslate/STranslate/releases/download/v2.0.11/STranslate-2.0.11-full.nupkg"
+      "name": "STranslate-2.0.12-full.nupkg",
+      "size": 55973196,
+      "url": "https://github.com/STranslate/STranslate/releases/download/v2.0.12/STranslate-2.0.12-full.nupkg"
     }
   ],
   "pinned": false,

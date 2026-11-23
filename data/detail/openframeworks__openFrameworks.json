@@ -22,39 +22,39 @@
   "release": {
     "tag": "nightly",
     "name": "Nightly Release",
-    "published": "2026-11-19T07:38:00Z",
+    "published": "2026-11-23T06:55:50Z",
     "url": "https://github.com/openframeworks/openFrameworks/releases/tag/nightly"
   },
   "assets": [
     {
-      "name": "of_v20261119_linux_armv7l_rpi_gcc10_release.tar.gz",
-      "size": 201720988,
-      "url": "https://github.com/openframeworks/openFrameworks/releases/download/nightly/of_v20261119_linux_armv7l_rpi_gcc10_release.tar.gz"
+      "name": "of_v20261123_linux_armv7l_rpi_gcc10_release.tar.gz",
+      "size": 201723660,
+      "url": "https://github.com/openframeworks/openFrameworks/releases/download/nightly/of_v20261123_linux_armv7l_rpi_gcc10_release.tar.gz"
     },
     {
-      "name": "of_v20261119_linux_armv6l_rpi_gcc10_release.tar.gz",
-      "size": 201865101,
-      "url": "https://github.com/openframeworks/openFrameworks/releases/download/nightly/of_v20261119_linux_armv6l_rpi_gcc10_release.tar.gz"
+      "name": "of_v20261123_linux_armv6l_rpi_gcc10_release.tar.gz",
+      "size": 201869568,
+      "url": "https://github.com/openframeworks/openFrameworks/releases/download/nightly/of_v20261123_linux_armv6l_rpi_gcc10_release.tar.gz"
     },
     {
-      "name": "of_v20261119_android_windows_release.zip",
-      "size": 486310203,
-      "url": "https://github.com/openframeworks/openFrameworks/releases/download/nightly/of_v20261119_android_windows_release.zip"
+      "name": "of_v20261123_android_windows_release.zip",
+      "size": 486328158,
+      "url": "https://github.com/openframeworks/openFrameworks/releases/download/nightly/of_v20261123_android_windows_release.zip"
     },
     {
-      "name": "of_v20261119_android_macos_release.tar.gz",
-      "size": 551049002,
-      "url": "https://github.com/openframeworks/openFrameworks/releases/download/nightly/of_v20261119_android_macos_release.tar.gz"
+      "name": "of_v20261123_android_macos_release.tar.gz",
+      "size": 551079047,
+      "url": "https://github.com/openframeworks/openFrameworks/releases/download/nightly/of_v20261123_android_macos_release.tar.gz"
     },
     {
-      "name": "of_v20261119_msys2_ucrt64_release.zip",
-      "size": 415280686,
-      "url": "https://github.com/openframeworks/openFrameworks/releases/download/nightly/of_v20261119_msys2_ucrt64_release.zip"
+      "name": "of_v20261123_msys2_ucrt64_release.zip",
+      "size": 415297483,
+      "url": "https://github.com/openframeworks/openFrameworks/releases/download/nightly/of_v20261123_msys2_ucrt64_release.zip"
     },
     {
-      "name": "of_v20261119_msys2_clangarm64_release.zip",
-      "size": 415333858,
-      "url": "https://github.com/openframeworks/openFrameworks/releases/download/nightly/of_v20261119_msys2_clangarm64_release.zip"
+      "name": "of_v20261123_msys2_clangarm64_release.zip",
+      "size": 415350655,
+      "url": "https://github.com/openframeworks/openFrameworks/releases/download/nightly/of_v20261123_msys2_clangarm64_release.zip"
     }
   ],
   "pinned": false,

@@ -22,10 +22,10 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/teableio/teable/zip/refs/heads/develop",
   "release": {
-    "tag": "release.2026-11-19T10-43-10Z.3988",
-    "name": "release.2026-11-19T10-43-10Z.3988",
-    "published": "2026-11-19T11:39:39Z",
-    "url": "https://github.com/teableio/teable/releases/tag/release.2026-11-19T10-43-10Z.3988"
+    "tag": "release.2026-11-23T09-53-24Z.4031",
+    "name": "release.2026-11-23T09-53-24Z.4031",
+    "published": "2026-11-23T10:49:04Z",
+    "url": "https://github.com/teableio/teable/releases/tag/release.2026-11-23T09-53-24Z.4031"
   },
   "assets": [],
   "pinned": false,

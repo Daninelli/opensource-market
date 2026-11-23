@@ -20,31 +20,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/CoreBunch/Instatic/zip/refs/heads/main",
   "release": {
-    "tag": "v0.0.22",
-    "name": "Instatic 0.0.22",
-    "published": "2026-11-16T11:28:13Z",
-    "url": "https://github.com/CoreBunch/Instatic/releases/tag/v0.0.22"
+    "tag": "v0.0.23",
+    "name": "Instatic 0.0.23",
+    "published": "2026-11-22T20:35:07Z",
+    "url": "https://github.com/CoreBunch/Instatic/releases/tag/v0.0.23"
   },
   "assets": [
     {
-      "name": "instatic-server-0.0.22-darwin-arm64.tar.gz",
-      "size": 44155299,
-      "url": "https://github.com/CoreBunch/Instatic/releases/download/v0.0.22/instatic-server-0.0.22-darwin-arm64.tar.gz"
+      "name": "instatic-server-0.0.23-darwin-arm64.tar.gz",
+      "size": 44561177,
+      "url": "https://github.com/CoreBunch/Instatic/releases/download/v0.0.23/instatic-server-0.0.23-darwin-arm64.tar.gz"
     },
     {
-      "name": "instatic-server-0.0.22-darwin-x64.tar.gz",
-      "size": 47666049,
-      "url": "https://github.com/CoreBunch/Instatic/releases/download/v0.0.22/instatic-server-0.0.22-darwin-x64.tar.gz"
+      "name": "instatic-server-0.0.23-darwin-x64.tar.gz",
+      "size": 48063034,
+      "url": "https://github.com/CoreBunch/Instatic/releases/download/v0.0.23/instatic-server-0.0.23-darwin-x64.tar.gz"
     },
     {
-      "name": "instatic-server-0.0.22-windows-x64.tar.gz",
-      "size": 58456023,
-      "url": "https://github.com/CoreBunch/Instatic/releases/download/v0.0.22/instatic-server-0.0.22-windows-x64.tar.gz"
+      "name": "instatic-server-0.0.23-windows-x64.tar.gz",
+      "size": 58854243,
+      "url": "https://github.com/CoreBunch/Instatic/releases/download/v0.0.23/instatic-server-0.0.23-windows-x64.tar.gz"
     },
     {
-      "name": "instatic-server-0.0.22-linux-x64.tar.gz",
-      "size": 55130058,
-      "url": "https://github.com/CoreBunch/Instatic/releases/download/v0.0.22/instatic-server-0.0.22-linux-x64.tar.gz"
+      "name": "instatic-server-0.0.23-linux-x64.tar.gz",
+      "size": 55529652,
+      "url": "https://github.com/CoreBunch/Instatic/releases/download/v0.0.23/instatic-server-0.0.23-linux-x64.tar.gz"
     }
   ],
   "pinned": false,

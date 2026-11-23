@@ -21,41 +21,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/lexmount/moli/zip/refs/heads/main",
   "release": {
-    "tag": "v1.1.26",
-    "name": "Moli v1.1.26",
-    "published": "2026-11-17T16:15:15Z",
-    "url": "https://github.com/lexmount/moli/releases/tag/v1.1.26"
+    "tag": "v1.1.27",
+    "name": "Moli v1.1.27",
+    "published": "2026-11-20T11:08:30Z",
+    "url": "https://github.com/lexmount/moli/releases/tag/v1.1.27"
   },
   "assets": [
     {
       "name": "moli-aarch64-pc-windows-msvc.zip",
-      "size": 41573949,
-      "url": "https://github.com/lexmount/moli/releases/download/v1.1.26/moli-aarch64-pc-windows-msvc.zip"
+      "size": 41424653,
+      "url": "https://github.com/lexmount/moli/releases/download/v1.1.27/moli-aarch64-pc-windows-msvc.zip"
     },
     {
       "name": "moli-aarch64-apple-darwin.tar.gz",
-      "size": 41976827,
-      "url": "https://github.com/lexmount/moli/releases/download/v1.1.26/moli-aarch64-apple-darwin.tar.gz"
+      "size": 41793115,
+      "url": "https://github.com/lexmount/moli/releases/download/v1.1.27/moli-aarch64-apple-darwin.tar.gz"
     },
     {
       "name": "moli-x86_64-pc-windows-msvc.zip",
-      "size": 45336012,
-      "url": "https://github.com/lexmount/moli/releases/download/v1.1.26/moli-x86_64-pc-windows-msvc.zip"
+      "size": 43791379,
+      "url": "https://github.com/lexmount/moli/releases/download/v1.1.27/moli-x86_64-pc-windows-msvc.zip"
     },
     {
       "name": "moli-x86_64-apple-darwin.tar.gz",
-      "size": 45878050,
-      "url": "https://github.com/lexmount/moli/releases/download/v1.1.26/moli-x86_64-apple-darwin.tar.gz"
+      "size": 45732974,
+      "url": "https://github.com/lexmount/moli/releases/download/v1.1.27/moli-x86_64-apple-darwin.tar.gz"
     },
     {
       "name": "moli-aarch64-unknown-linux-gnu.tar.gz",
-      "size": 44787174,
-      "url": "https://github.com/lexmount/moli/releases/download/v1.1.26/moli-aarch64-unknown-linux-gnu.tar.gz"
+      "size": 44599410,
+      "url": "https://github.com/lexmount/moli/releases/download/v1.1.27/moli-aarch64-unknown-linux-gnu.tar.gz"
     },
     {
       "name": "moli-x86_64-unknown-linux-gnu.tar.gz",
-      "size": 45658541,
-      "url": "https://github.com/lexmount/moli/releases/download/v1.1.26/moli-x86_64-unknown-linux-gnu.tar.gz"
+      "size": 45617048,
+      "url": "https://github.com/lexmount/moli/releases/download/v1.1.27/moli-x86_64-unknown-linux-gnu.tar.gz"
     }
   ],
   "pinned": false,

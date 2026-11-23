@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/browser-use/browser-use/zip/refs/heads/main",
   "release": {
-    "tag": "1.0.6",
-    "name": "browser-use 1.0.6",
-    "published": "2026-11-16T00:51:24Z",
-    "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.6"
+    "tag": "1.0.8",
+    "name": "browser-use 1.0.8",
+    "published": "2026-11-22T03:30:41Z",
+    "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.8"
   },
   "assets": [],
   "pinned": false,

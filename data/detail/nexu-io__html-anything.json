@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/nexu-io/html-anything/zip/refs/heads/main",
   "release": {
-    "tag": "v0.1.1",
-    "name": "OpenMotion 0.1.1 — Your Next Cut Starts Here 🎬",
-    "published": "2026-11-18T11:32:07Z",
-    "url": "https://github.com/nexu-io/openmotion/releases/tag/v0.1.1"
+    "tag": "v0.2.1",
+    "name": "OpenMotion 0.2.1 — Your Super Motion Agent Just Got Bigger 🚀",
+    "published": "2026-11-21T10:30:45Z",
+    "url": "https://github.com/nexu-io/openmotion/releases/tag/v0.2.1"
   },
   "assets": [],
   "pinned": false,

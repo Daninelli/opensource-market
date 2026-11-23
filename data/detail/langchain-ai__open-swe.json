@@ -20,41 +20,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/langchain-ai/open-swe/zip/refs/heads/main",
   "release": {
-    "tag": "desktop-v0.3.19",
-    "name": "Robin Desktop v0.3.19",
-    "published": "2026-11-17T00:57:41Z",
-    "url": "https://github.com/langchain-ai/open-swe/releases/tag/desktop-v0.3.19"
+    "tag": "desktop-v0.3.20",
+    "name": "Robin Desktop v0.3.20",
+    "published": "2026-11-21T23:23:19Z",
+    "url": "https://github.com/langchain-ai/open-swe/releases/tag/desktop-v0.3.20"
   },
   "assets": [
     {
       "name": "oswe-darwin-arm64.tar.gz",
-      "size": 25412149,
-      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.19/oswe-darwin-arm64.tar.gz"
+      "size": 25408327,
+      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.20/oswe-darwin-arm64.tar.gz"
     },
     {
       "name": "oswe-darwin-x64.tar.gz",
-      "size": 28476380,
-      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.19/oswe-darwin-x64.tar.gz"
+      "size": 28472369,
+      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.20/oswe-darwin-x64.tar.gz"
     },
     {
       "name": "oswe-linux-arm64.tar.gz",
-      "size": 36640977,
-      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.19/oswe-linux-arm64.tar.gz"
+      "size": 36636504,
+      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.20/oswe-linux-arm64.tar.gz"
     },
     {
       "name": "oswe-linux-x64.tar.gz",
-      "size": 36685221,
-      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.19/oswe-linux-x64.tar.gz"
+      "size": 36680701,
+      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.20/oswe-linux-x64.tar.gz"
     },
     {
-      "name": "Open-SWE-0.3.19-arm64-mac.zip",
-      "size": 181081105,
-      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.19/Open-SWE-0.3.19-arm64-mac.zip"
+      "name": "Open-SWE-0.3.20-arm64-mac.zip",
+      "size": 179958785,
+      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.20/Open-SWE-0.3.20-arm64-mac.zip"
     },
     {
-      "name": "Robin-0.3.19-arm64-mac.zip",
-      "size": 181081105,
-      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.19/Robin-0.3.19-arm64-mac.zip"
+      "name": "Robin-0.3.20-arm64-mac.zip",
+      "size": 179958785,
+      "url": "https://github.com/langchain-ai/open-swe/releases/download/desktop-v0.3.20/Robin-0.3.20-arm64-mac.zip"
     }
   ],
   "pinned": false,

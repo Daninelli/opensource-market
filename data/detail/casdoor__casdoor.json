@@ -21,41 +21,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/casdoor/casdoor/zip/refs/heads/master",
   "release": {
-    "tag": "v4.29.0",
-    "name": "v4.29.0",
-    "published": "2026-11-15T09:43:46Z",
-    "url": "https://github.com/casdoor/casdoor/releases/tag/v4.29.0"
+    "tag": "v4.30.0",
+    "name": "v4.30.0",
+    "published": "2026-11-21T11:36:19Z",
+    "url": "https://github.com/casdoor/casdoor/releases/tag/v4.30.0"
   },
   "assets": [
     {
       "name": "casdoor_Windows_arm64.zip",
-      "size": 38781701,
-      "url": "https://github.com/casdoor/casdoor/releases/download/v4.29.0/casdoor_Windows_arm64.zip"
+      "size": 39008662,
+      "url": "https://github.com/casdoor/casdoor/releases/download/v4.30.0/casdoor_Windows_arm64.zip"
     },
     {
       "name": "casdoor_Darwin_arm64.tar.gz",
-      "size": 40476645,
-      "url": "https://github.com/casdoor/casdoor/releases/download/v4.29.0/casdoor_Darwin_arm64.tar.gz"
+      "size": 40690731,
+      "url": "https://github.com/casdoor/casdoor/releases/download/v4.30.0/casdoor_Darwin_arm64.tar.gz"
     },
     {
       "name": "casdoor_Darwin_x86_64.tar.gz",
-      "size": 43401938,
-      "url": "https://github.com/casdoor/casdoor/releases/download/v4.29.0/casdoor_Darwin_x86_64.tar.gz"
+      "size": 43639192,
+      "url": "https://github.com/casdoor/casdoor/releases/download/v4.30.0/casdoor_Darwin_x86_64.tar.gz"
     },
     {
       "name": "casdoor_Windows_x86_64.zip",
-      "size": 43579169,
-      "url": "https://github.com/casdoor/casdoor/releases/download/v4.29.0/casdoor_Windows_x86_64.zip"
+      "size": 43796460,
+      "url": "https://github.com/casdoor/casdoor/releases/download/v4.30.0/casdoor_Windows_x86_64.zip"
     },
     {
       "name": "casdoor_Linux_arm64.tar.gz",
-      "size": 38450496,
-      "url": "https://github.com/casdoor/casdoor/releases/download/v4.29.0/casdoor_Linux_arm64.tar.gz"
+      "size": 38670411,
+      "url": "https://github.com/casdoor/casdoor/releases/download/v4.30.0/casdoor_Linux_arm64.tar.gz"
     },
     {
       "name": "casdoor_Linux_x86_64.tar.gz",
-      "size": 42362706,
-      "url": "https://github.com/casdoor/casdoor/releases/download/v4.29.0/casdoor_Linux_x86_64.tar.gz"
+      "size": 42592650,
+      "url": "https://github.com/casdoor/casdoor/releases/download/v4.30.0/casdoor_Linux_x86_64.tar.gz"
     }
   ],
   "pinned": false,

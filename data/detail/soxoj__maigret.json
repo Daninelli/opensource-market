@@ -22,16 +22,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/soxoj/maigret/zip/refs/heads/main",
   "release": {
-    "tag": "v0.6.6",
-    "name": "v0.6.6",
-    "published": "2026-09-18T08:17:59Z",
-    "url": "https://github.com/soxoj/maigret/releases/tag/v0.6.6"
+    "tag": "v0.6.7",
+    "name": "v0.6.7",
+    "published": "2026-11-21T13:45:03Z",
+    "url": "https://github.com/soxoj/maigret/releases/tag/v0.6.7"
   },
   "assets": [
     {
       "name": "maigret_standalone.exe",
-      "size": 43391135,
-      "url": "https://github.com/soxoj/maigret/releases/download/v0.6.6/maigret_standalone.exe"
+      "size": 53349905,
+      "url": "https://github.com/soxoj/maigret/releases/download/v0.6.7/maigret_standalone.exe"
     }
   ],
   "pinned": false,

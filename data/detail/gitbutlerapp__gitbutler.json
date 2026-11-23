@@ -22,10 +22,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/gitbutlerapp/gitbutler/zip/refs/heads/master",
   "release": {
-    "tag": "release/0.23.4",
-    "name": "release/0.23.4",
-    "published": "2026-11-11T22:47:59Z",
-    "url": "https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.23.4"
+    "tag": "release/0.23.5",
+    "name": "release/0.23.5",
+    "published": "2026-11-20T13:44:18Z",
+    "url": "https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.23.5"
   },
   "assets": [],
   "pinned": false,

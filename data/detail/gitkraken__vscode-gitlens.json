@@ -20,16 +20,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/gitkraken/vscode-gitlens/zip/refs/heads/main",
   "release": {
-    "tag": "v19.6.0",
-    "name": "v19.6.0",
-    "published": "2026-11-10T21:24:37Z",
-    "url": "https://github.com/gitkraken/vscode-gitlens/releases/tag/v19.6.0"
+    "tag": "v19.6.1",
+    "name": "v19.6.1",
+    "published": "2026-11-20T19:28:07Z",
+    "url": "https://github.com/gitkraken/vscode-gitlens/releases/tag/v19.6.1"
   },
   "assets": [
     {
-      "name": "gitlens-19.6.0.vsix",
-      "size": 5085235,
-      "url": "https://github.com/gitkraken/vscode-gitlens/releases/download/v19.6.0/gitlens-19.6.0.vsix"
+      "name": "gitlens-19.6.1.vsix",
+      "size": 5085304,
+      "url": "https://github.com/gitkraken/vscode-gitlens/releases/download/v19.6.1/gitlens-19.6.1.vsix"
     }
   ],
   "pinned": false,

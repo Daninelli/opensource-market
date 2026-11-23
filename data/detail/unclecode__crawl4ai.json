@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/unclecode/crawl4ai/zip/refs/heads/main",
   "release": {
-    "tag": "v0.9.5",
-    "name": "Release v0.9.5",
-    "published": "2026-10-14T10:25:39Z",
-    "url": "https://github.com/unclecode/crawl4ai/releases/tag/v0.9.5"
+    "tag": "v0.9.6",
+    "name": "Release v0.9.6",
+    "published": "2026-11-20T09:46:52Z",
+    "url": "https://github.com/unclecode/crawl4ai/releases/tag/v0.9.6"
   },
   "assets": [],
   "pinned": false,

@@ -22,36 +22,36 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/velero-io/velero/zip/refs/heads/main",
   "release": {
-    "tag": "v1.18.4",
-    "name": "v1.18.4",
-    "published": "2026-09-28T06:20:12Z",
-    "url": "https://github.com/velero-io/velero/releases/tag/v1.18.4"
+    "tag": "v1.19.0",
+    "name": "v1.19.0",
+    "published": "2026-11-23T07:02:35Z",
+    "url": "https://github.com/velero-io/velero/releases/tag/v1.19.0"
   },
   "assets": [
     {
-      "name": "velero-v1.18.4-darwin-arm64.tar.gz",
-      "size": 60571452,
-      "url": "https://github.com/velero-io/velero/releases/download/v1.18.4/velero-v1.18.4-darwin-arm64.tar.gz"
+      "name": "velero-v1.19.0-darwin-arm64.tar.gz",
+      "size": 61305957,
+      "url": "https://github.com/velero-io/velero/releases/download/v1.19.0/velero-v1.19.0-darwin-arm64.tar.gz"
     },
     {
-      "name": "velero-v1.18.4-windows-amd64.tar.gz",
-      "size": 61116641,
-      "url": "https://github.com/velero-io/velero/releases/download/v1.18.4/velero-v1.18.4-windows-amd64.tar.gz"
+      "name": "velero-v1.19.0-windows-amd64.tar.gz",
+      "size": 62429479,
+      "url": "https://github.com/velero-io/velero/releases/download/v1.19.0/velero-v1.19.0-windows-amd64.tar.gz"
     },
     {
-      "name": "velero-v1.18.4-darwin-amd64.tar.gz",
-      "size": 64015636,
-      "url": "https://github.com/velero-io/velero/releases/download/v1.18.4/velero-v1.18.4-darwin-amd64.tar.gz"
+      "name": "velero-v1.19.0-darwin-amd64.tar.gz",
+      "size": 64984256,
+      "url": "https://github.com/velero-io/velero/releases/download/v1.19.0/velero-v1.19.0-darwin-amd64.tar.gz"
     },
     {
-      "name": "velero-v1.18.4-linux-arm64.tar.gz",
-      "size": 55379929,
-      "url": "https://github.com/velero-io/velero/releases/download/v1.18.4/velero-v1.18.4-linux-arm64.tar.gz"
+      "name": "velero-v1.19.0-linux-arm64.tar.gz",
+      "size": 56551021,
+      "url": "https://github.com/velero-io/velero/releases/download/v1.19.0/velero-v1.19.0-linux-arm64.tar.gz"
     },
     {
-      "name": "velero-v1.18.4-linux-ppc64le.tar.gz",
-      "size": 55585829,
-      "url": "https://github.com/velero-io/velero/releases/download/v1.18.4/velero-v1.18.4-linux-ppc64le.tar.gz"
+      "name": "velero-v1.19.0-linux-ppc64le.tar.gz",
+      "size": 56852029,
+      "url": "https://github.com/velero-io/velero/releases/download/v1.19.0/velero-v1.19.0-linux-ppc64le.tar.gz"
     }
   ],
   "pinned": false,

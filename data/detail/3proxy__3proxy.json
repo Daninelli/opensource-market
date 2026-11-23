@@ -22,41 +22,36 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/3proxy/3proxy/zip/refs/heads/master",
   "release": {
-    "tag": "1.0.3",
-    "name": "3proxy-1.0.3",
-    "published": "2026-11-07T09:01:22Z",
-    "url": "https://github.com/3proxy/3proxy/releases/tag/1.0.3"
+    "tag": "1.0.4",
+    "name": "3proxy-1.0.4",
+    "published": "2026-11-21T09:14:48Z",
+    "url": "https://github.com/3proxy/3proxy/releases/tag/1.0.4"
   },
   "assets": [
     {
-      "name": "3proxy-1.0.3.arm.deb",
-      "size": 218436,
-      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.3/3proxy-1.0.3.arm.deb"
+      "name": "3proxy-1.0.4.arm.deb",
+      "size": 218804,
+      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.4/3proxy-1.0.4.arm.deb"
     },
     {
-      "name": "3proxy-1.0.3.arm64.deb",
-      "size": 248792,
-      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.3/3proxy-1.0.3.arm64.deb"
+      "name": "3proxy-1.0.4.arm64.deb",
+      "size": 248822,
+      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.4/3proxy-1.0.4.arm64.deb"
     },
     {
-      "name": "3proxy_1.0.3-r1_mipsel_24kc.ipk",
-      "size": 111293,
-      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.3/3proxy_1.0.3-r1_mipsel_24kc.ipk"
+      "name": "3proxy_1.0.4-r1_mipsel_24kc.ipk",
+      "size": 111381,
+      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.4/3proxy_1.0.4-r1_mipsel_24kc.ipk"
     },
     {
-      "name": "3proxy_1.0.3-r1_aarch64_cortex-a53.ipk",
-      "size": 128154,
-      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.3/3proxy_1.0.3-r1_aarch64_cortex-a53.ipk"
+      "name": "3proxy-1.0.4-lite.zip",
+      "size": 511613,
+      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.4/3proxy-1.0.4-lite.zip"
     },
     {
-      "name": "3proxy-1.0.3-lite.zip",
-      "size": 511405,
-      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.3/3proxy-1.0.3-lite.zip"
-    },
-    {
-      "name": "3proxy-1.0.3.tar.gz",
-      "size": 591781,
-      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.3/3proxy-1.0.3.tar.gz"
+      "name": "3proxy-1.0.4.tar.gz",
+      "size": 595329,
+      "url": "https://github.com/3proxy/3proxy/releases/download/1.0.4/3proxy-1.0.4.tar.gz"
     }
   ],
   "pinned": false,

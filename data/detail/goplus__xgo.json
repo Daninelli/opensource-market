@@ -20,41 +20,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/goplus/xgo/zip/refs/heads/main",
   "release": {
-    "tag": "v1.7.5",
-    "name": "v1.7.5",
-    "published": "2026-07-22T02:04:48Z",
-    "url": "https://github.com/goplus/xgo/releases/tag/v1.7.5"
+    "tag": "v1.8.0",
+    "name": "v1.8.0",
+    "published": "2026-11-20T00:56:13Z",
+    "url": "https://github.com/goplus/xgo/releases/tag/v1.8.0"
   },
   "assets": [
     {
-      "name": "xgo1.7.5.darwin-arm64.tar.gz",
-      "size": 19725241,
-      "url": "https://github.com/goplus/xgo/releases/download/v1.7.5/xgo1.7.5.darwin-arm64.tar.gz"
+      "name": "xgo1.8.0.windows-arm64.zip",
+      "size": 21410422,
+      "url": "https://github.com/goplus/xgo/releases/download/v1.8.0/xgo1.8.0.windows-arm64.zip"
     },
     {
-      "name": "xgo1.7.5.windows-arm64.zip",
-      "size": 20393956,
-      "url": "https://github.com/goplus/xgo/releases/download/v1.7.5/xgo1.7.5.windows-arm64.zip"
+      "name": "xgo1.8.0.darwin-arm64.tar.gz",
+      "size": 21575499,
+      "url": "https://github.com/goplus/xgo/releases/download/v1.8.0/xgo1.8.0.darwin-arm64.tar.gz"
     },
     {
-      "name": "xgo1.7.5.darwin-amd64.tar.gz",
-      "size": 20818502,
-      "url": "https://github.com/goplus/xgo/releases/download/v1.7.5/xgo1.7.5.darwin-amd64.tar.gz"
+      "name": "xgo1.8.0.windows-386.zip",
+      "size": 23013792,
+      "url": "https://github.com/goplus/xgo/releases/download/v1.8.0/xgo1.8.0.windows-386.zip"
     },
     {
-      "name": "xgo1.7.5.windows-386.zip",
-      "size": 21247286,
-      "url": "https://github.com/goplus/xgo/releases/download/v1.7.5/xgo1.7.5.windows-386.zip"
+      "name": "xgo1.8.0.darwin-amd64.tar.gz",
+      "size": 23138042,
+      "url": "https://github.com/goplus/xgo/releases/download/v1.8.0/xgo1.8.0.darwin-amd64.tar.gz"
     },
     {
-      "name": "xgo1.7.5.linux-arm64.tar.gz",
-      "size": 19695228,
-      "url": "https://github.com/goplus/xgo/releases/download/v1.7.5/xgo1.7.5.linux-arm64.tar.gz"
+      "name": "xgo1.8.0.linux-arm64.tar.gz",
+      "size": 20758318,
+      "url": "https://github.com/goplus/xgo/releases/download/v1.8.0/xgo1.8.0.linux-arm64.tar.gz"
     },
     {
-      "name": "xgo1.7.5.linux-arm64.deb",
-      "size": 19729934,
-      "url": "https://github.com/goplus/xgo/releases/download/v1.7.5/xgo1.7.5.linux-arm64.deb"
+      "name": "xgo1.8.0.linux-arm64.deb",
+      "size": 20794802,
+      "url": "https://github.com/goplus/xgo/releases/download/v1.8.0/xgo1.8.0.linux-arm64.deb"
     }
   ],
   "pinned": false,

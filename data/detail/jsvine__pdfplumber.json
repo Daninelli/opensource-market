@@ -20,10 +20,10 @@
   "default_branch": "stable",
   "download_url": "https://codeload.github.com/jsvine/pdfplumber/zip/refs/heads/stable",
   "release": {
-    "tag": "v0.11.10",
-    "name": "v0.11.10",
-    "published": "2026-06-15T03:34:21Z",
-    "url": "https://github.com/jsvine/pdfplumber/releases/tag/v0.11.10"
+    "tag": "v0.11.11",
+    "name": "v0.11.11",
+    "published": "2026-11-21T02:41:53Z",
+    "url": "https://github.com/jsvine/pdfplumber/releases/tag/v0.11.11"
   },
   "assets": [],
   "pinned": false,

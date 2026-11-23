@@ -20,31 +20,31 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/jo-inc/camofox-browser/zip/refs/heads/master",
   "release": {
-    "tag": "camoufox-backup-428447379",
-    "name": "Camoufox backup v158.0.1-beta.41",
-    "published": "2026-11-02T03:25:03Z",
-    "url": "https://github.com/jo-inc/camofox-browser/releases/tag/camoufox-backup-428447379"
+    "tag": "camoufox-backup-454829964",
+    "name": "Camoufox backup v159.0-beta.43",
+    "published": "2026-11-23T03:26:39Z",
+    "url": "https://github.com/jo-inc/camofox-browser/releases/tag/camoufox-backup-454829964"
   },
   "assets": [
     {
-      "name": "camoufox-158.0.1-beta.41-win.i686.zip",
-      "size": 1304891471,
-      "url": "https://github.com/jo-inc/camofox-browser/releases/download/camoufox-backup-428447379/camoufox-158.0.1-beta.41-win.i686.zip"
+      "name": "camoufox-159.0-beta.43-win.i686.zip",
+      "size": 1310827368,
+      "url": "https://github.com/jo-inc/camofox-browser/releases/download/camoufox-backup-454829964/camoufox-159.0-beta.43-win.i686.zip"
     },
     {
-      "name": "camoufox-158.0.1-beta.41-win.x86_64.zip",
-      "size": 1320075455,
-      "url": "https://github.com/jo-inc/camofox-browser/releases/download/camoufox-backup-428447379/camoufox-158.0.1-beta.41-win.x86_64.zip"
+      "name": "camoufox-159.0-beta.43-win.x86_64.zip",
+      "size": 1327924520,
+      "url": "https://github.com/jo-inc/camofox-browser/releases/download/camoufox-backup-454829964/camoufox-159.0-beta.43-win.x86_64.zip"
     },
     {
-      "name": "camoufox-158.0.1-beta.41-lin.arm64.zip",
-      "size": 1297503606,
-      "url": "https://github.com/jo-inc/camofox-browser/releases/download/camoufox-backup-428447379/camoufox-158.0.1-beta.41-lin.arm64.zip"
+      "name": "camoufox-159.0-beta.43-mac.arm64.zip",
+      "size": 1303552990,
+      "url": "https://github.com/jo-inc/camofox-browser/releases/download/camoufox-backup-454829964/camoufox-159.0-beta.43-mac.arm64.zip"
     },
     {
-      "name": "camoufox-158.0.1-beta.41-mac.arm64.zip",
-      "size": 1297694189,
-      "url": "https://github.com/jo-inc/camofox-browser/releases/download/camoufox-backup-428447379/camoufox-158.0.1-beta.41-mac.arm64.zip"
+      "name": "camoufox-159.0-beta.43-lin.arm64.zip",
+      "size": 1305557894,
+      "url": "https://github.com/jo-inc/camofox-browser/releases/download/camoufox-backup-454829964/camoufox-159.0-beta.43-lin.arm64.zip"
     }
   ],
   "pinned": false,

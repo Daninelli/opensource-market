@@ -20,26 +20,26 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/weaviate/weaviate/zip/refs/heads/main",
   "release": {
-    "tag": "v1.40.6",
-    "name": "v1.40.6 - Security fixes, reindexing reliability, and faster aggregations",
-    "published": "2026-11-19T15:34:17Z",
-    "url": "https://github.com/weaviate/weaviate/releases/tag/v1.40.6"
+    "tag": "v1.40.7",
+    "name": "v1.40.7 - Reindexing and replica recovery fixes",
+    "published": "2026-11-20T12:58:32Z",
+    "url": "https://github.com/weaviate/weaviate/releases/tag/v1.40.7"
   },
   "assets": [
     {
-      "name": "weaviate-v1.40.6-darwin-all.zip",
-      "size": 169054612,
-      "url": "https://github.com/weaviate/weaviate/releases/download/v1.40.6/weaviate-v1.40.6-darwin-all.zip"
+      "name": "weaviate-v1.40.7-darwin-all.zip",
+      "size": 169065260,
+      "url": "https://github.com/weaviate/weaviate/releases/download/v1.40.7/weaviate-v1.40.7-darwin-all.zip"
     },
     {
-      "name": "weaviate-v1.40.6-linux-arm64.tar.gz",
-      "size": 81610273,
-      "url": "https://github.com/weaviate/weaviate/releases/download/v1.40.6/weaviate-v1.40.6-linux-arm64.tar.gz"
+      "name": "weaviate-v1.40.7-linux-arm64.tar.gz",
+      "size": 81612140,
+      "url": "https://github.com/weaviate/weaviate/releases/download/v1.40.7/weaviate-v1.40.7-linux-arm64.tar.gz"
     },
     {
-      "name": "weaviate-v1.40.6-linux-amd64.tar.gz",
-      "size": 85457712,
-      "url": "https://github.com/weaviate/weaviate/releases/download/v1.40.6/weaviate-v1.40.6-linux-amd64.tar.gz"
+      "name": "weaviate-v1.40.7-linux-amd64.tar.gz",
+      "size": 85470548,
+      "url": "https://github.com/weaviate/weaviate/releases/download/v1.40.7/weaviate-v1.40.7-linux-amd64.tar.gz"
     }
   ],
   "pinned": false,

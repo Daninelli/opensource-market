@@ -22,16 +22,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/tt-a1i/archify/zip/refs/heads/main",
   "release": {
-    "tag": "v3.2.0",
-    "name": "v3.2.0",
-    "published": "2026-10-19T00:43:00Z",
-    "url": "https://github.com/tt-a1i/archify/releases/tag/v3.2.0"
+    "tag": "v3.3.0",
+    "name": "v3.3.0",
+    "published": "2026-11-22T18:04:07Z",
+    "url": "https://github.com/tt-a1i/archify/releases/tag/v3.3.0"
   },
   "assets": [
     {
       "name": "archify.zip",
-      "size": 5271959,
-      "url": "https://github.com/tt-a1i/archify/releases/download/v3.2.0/archify.zip"
+      "size": 5422839,
+      "url": "https://github.com/tt-a1i/archify/releases/download/v3.3.0/archify.zip"
     }
   ],
   "pinned": false,

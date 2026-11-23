@@ -22,46 +22,46 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/tursodatabase/turso/zip/refs/heads/main",
   "release": {
-    "tag": "v0.8.3",
-    "name": "v0.8.3",
-    "published": "2026-10-12T15:03:37Z",
-    "url": "https://github.com/tursodatabase/turso/releases/tag/v0.8.3"
+    "tag": "v0.8.4",
+    "name": "0.8.4 -- 2026-11-20",
+    "published": "2026-11-20T09:28:03Z",
+    "url": "https://github.com/tursodatabase/turso/releases/tag/v0.8.4"
   },
   "assets": [
     {
       "name": "turso_cli-aarch64-apple-darwin.tar.xz",
-      "size": 5472828,
-      "url": "https://github.com/tursodatabase/turso/releases/download/v0.8.3/turso_cli-aarch64-apple-darwin.tar.xz"
+      "size": 5472724,
+      "url": "https://github.com/tursodatabase/turso/releases/download/v0.8.4/turso_cli-aarch64-apple-darwin.tar.xz"
     },
     {
       "name": "turso_cli-x86_64-apple-darwin.tar.xz",
-      "size": 6727276,
-      "url": "https://github.com/tursodatabase/turso/releases/download/v0.8.3/turso_cli-x86_64-apple-darwin.tar.xz"
+      "size": 6724408,
+      "url": "https://github.com/tursodatabase/turso/releases/download/v0.8.4/turso_cli-x86_64-apple-darwin.tar.xz"
     },
     {
       "name": "turso_cli-aarch64-pc-windows-msvc.zip",
-      "size": 7591165,
-      "url": "https://github.com/tursodatabase/turso/releases/download/v0.8.3/turso_cli-aarch64-pc-windows-msvc.zip"
+      "size": 7589298,
+      "url": "https://github.com/tursodatabase/turso/releases/download/v0.8.4/turso_cli-aarch64-pc-windows-msvc.zip"
     },
     {
       "name": "turso_cli-x86_64-pc-windows-msvc.zip",
-      "size": 8085744,
-      "url": "https://github.com/tursodatabase/turso/releases/download/v0.8.3/turso_cli-x86_64-pc-windows-msvc.zip"
+      "size": 8096412,
+      "url": "https://github.com/tursodatabase/turso/releases/download/v0.8.4/turso_cli-x86_64-pc-windows-msvc.zip"
     },
     {
       "name": "turso_cli-aarch64-unknown-linux-gnu.tar.xz",
-      "size": 18336456,
-      "url": "https://github.com/tursodatabase/turso/releases/download/v0.8.3/turso_cli-aarch64-unknown-linux-gnu.tar.xz"
+      "size": 18340388,
+      "url": "https://github.com/tursodatabase/turso/releases/download/v0.8.4/turso_cli-aarch64-unknown-linux-gnu.tar.xz"
     },
     {
       "name": "turso_cli-x86_64-unknown-linux-gnu.tar.xz",
-      "size": 19335772,
-      "url": "https://github.com/tursodatabase/turso/releases/download/v0.8.3/turso_cli-x86_64-unknown-linux-gnu.tar.xz"
+      "size": 19322268,
+      "url": "https://github.com/tursodatabase/turso/releases/download/v0.8.4/turso_cli-x86_64-unknown-linux-gnu.tar.xz"
     },
     {
       "name": "source.tar.gz",
-      "size": 16814838,
-      "url": "https://github.com/tursodatabase/turso/releases/download/v0.8.3/source.tar.gz"
+      "size": 16815832,
+      "url": "https://github.com/tursodatabase/turso/releases/download/v0.8.4/source.tar.gz"
     }
   ],
   "pinned": false,

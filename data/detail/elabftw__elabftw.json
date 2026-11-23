@@ -22,16 +22,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/elabftw/elabftw/zip/refs/heads/master",
   "release": {
-    "tag": "6.0.10",
-    "name": "elabftw-6.0.10",
-    "published": "2026-11-18T17:16:56Z",
-    "url": "https://github.com/elabftw/elabftw/releases/tag/6.0.10"
+    "tag": "6.0.11",
+    "name": "elabftw-6.0.11",
+    "published": "2026-11-20T10:14:09Z",
+    "url": "https://github.com/elabftw/elabftw/releases/tag/6.0.11"
   },
   "assets": [
     {
       "name": "openapi.yaml",
       "size": 261934,
-      "url": "https://github.com/elabftw/elabftw/releases/download/6.0.10/openapi.yaml"
+      "url": "https://github.com/elabftw/elabftw/releases/download/6.0.11/openapi.yaml"
     }
   ],
   "pinned": false,

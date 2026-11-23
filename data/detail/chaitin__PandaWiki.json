@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/chaitin/PandaWiki/zip/refs/heads/main",
   "release": {
-    "tag": "v3.87.5",
-    "name": "v3.87.5",
-    "published": "2026-10-21T03:51:15Z",
-    "url": "https://github.com/chaitin/PandaWiki/releases/tag/v3.87.5"
+    "tag": "v3.87.7",
+    "name": "v3.87.7",
+    "published": "2026-11-19T06:24:55Z",
+    "url": "https://github.com/chaitin/PandaWiki/releases/tag/v3.87.7"
   },
   "assets": [],
   "pinned": false,

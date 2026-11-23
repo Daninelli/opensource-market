@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/PrefectHQ/fastmcp/zip/refs/heads/main",
   "release": {
-    "tag": "v4.2.2",
-    "name": "v4.2.2: Tea for Two (Too)",
-    "published": "2026-11-18T19:12:03Z",
-    "url": "https://github.com/PrefectHQ/fastmcp/releases/tag/v4.2.2"
+    "tag": "v4.2.5",
+    "name": "v4.2.5: Smoke Signals",
+    "published": "2026-11-23T07:28:57Z",
+    "url": "https://github.com/PrefectHQ/fastmcp/releases/tag/v4.2.5"
   },
   "assets": [],
   "pinned": false,

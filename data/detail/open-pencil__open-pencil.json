@@ -20,51 +20,51 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/open-pencil/open-pencil/zip/refs/heads/master",
   "release": {
-    "tag": "v0.16.0",
-    "name": "v0.16.0",
-    "published": "2026-10-14T12:37:16Z",
-    "url": "https://github.com/open-pencil/open-pencil/releases/tag/v0.16.0"
+    "tag": "v0.17.0",
+    "name": "v0.17.0",
+    "published": "2026-11-22T12:35:42Z",
+    "url": "https://github.com/open-pencil/open-pencil/releases/tag/v0.17.0"
   },
   "assets": [
     {
-      "name": "OpenPencil_0.16.0_arm64-setup.exe",
-      "size": 13414529,
-      "url": "https://github.com/open-pencil/open-pencil/releases/download/v0.16.0/OpenPencil_0.16.0_arm64-setup.exe"
+      "name": "OpenPencil_0.17.0_arm64-setup.exe",
+      "size": 16268389,
+      "url": "https://github.com/open-pencil/open-pencil/releases/download/v0.17.0/OpenPencil_0.17.0_arm64-setup.exe"
     },
     {
-      "name": "OpenPencil_0.16.0_x64-setup.exe",
-      "size": 13959325,
-      "url": "https://github.com/open-pencil/open-pencil/releases/download/v0.16.0/OpenPencil_0.16.0_x64-setup.exe"
+      "name": "OpenPencil_0.17.0_x64-setup.exe",
+      "size": 16915025,
+      "url": "https://github.com/open-pencil/open-pencil/releases/download/v0.17.0/OpenPencil_0.17.0_x64-setup.exe"
     },
     {
-      "name": "OpenPencil_0.16.0_aarch64.dmg",
-      "size": 16213804,
-      "url": "https://github.com/open-pencil/open-pencil/releases/download/v0.16.0/OpenPencil_0.16.0_aarch64.dmg"
+      "name": "OpenPencil_0.17.0_aarch64.dmg",
+      "size": 19490106,
+      "url": "https://github.com/open-pencil/open-pencil/releases/download/v0.17.0/OpenPencil_0.17.0_aarch64.dmg"
     },
     {
-      "name": "OpenPencil_0.16.0_x64.dmg",
-      "size": 16846140,
-      "url": "https://github.com/open-pencil/open-pencil/releases/download/v0.16.0/OpenPencil_0.16.0_x64.dmg"
+      "name": "OpenPencil_0.17.0_x64.dmg",
+      "size": 20205832,
+      "url": "https://github.com/open-pencil/open-pencil/releases/download/v0.17.0/OpenPencil_0.17.0_x64.dmg"
     },
     {
-      "name": "OpenPencil-0.16.0-1.x86_64.rpm",
-      "size": 18832761,
-      "url": "https://github.com/open-pencil/open-pencil/releases/download/v0.16.0/OpenPencil-0.16.0-1.x86_64.rpm"
+      "name": "OpenPencil-0.17.0-1.x86_64.rpm",
+      "size": 22465848,
+      "url": "https://github.com/open-pencil/open-pencil/releases/download/v0.17.0/OpenPencil-0.17.0-1.x86_64.rpm"
     },
     {
-      "name": "OpenPencil_0.16.0_amd64.deb",
-      "size": 18833038,
-      "url": "https://github.com/open-pencil/open-pencil/releases/download/v0.16.0/OpenPencil_0.16.0_amd64.deb"
+      "name": "OpenPencil_0.17.0_amd64.deb",
+      "size": 22466244,
+      "url": "https://github.com/open-pencil/open-pencil/releases/download/v0.17.0/OpenPencil_0.17.0_amd64.deb"
+    },
+    {
+      "name": "OpenPencil_0.17.0_sourcemaps.tar.gz",
+      "size": 15996064,
+      "url": "https://github.com/open-pencil/open-pencil/releases/download/v0.17.0/OpenPencil_0.17.0_sourcemaps.tar.gz"
     },
     {
       "name": "OpenPencil_aarch64.app.tar.gz",
-      "size": 16417594,
-      "url": "https://github.com/open-pencil/open-pencil/releases/download/v0.16.0/OpenPencil_aarch64.app.tar.gz"
-    },
-    {
-      "name": "OpenPencil_x64.app.tar.gz",
-      "size": 16969199,
-      "url": "https://github.com/open-pencil/open-pencil/releases/download/v0.16.0/OpenPencil_x64.app.tar.gz"
+      "size": 19700167,
+      "url": "https://github.com/open-pencil/open-pencil/releases/download/v0.17.0/OpenPencil_aarch64.app.tar.gz"
     }
   ],
   "pinned": false,

@@ -1,0 +1,78 @@
+{
+  "repo": "kunkundi/crossdesk",
+  "slug": "kunkundi__crossdesk",
+  "name": "CrossDesk",
+  "note_zh": "轻量跨平台远程桌面，覆盖桌面/移动/网页/CLI，支持 DeskHub 多机并发管理",
+  "category": "工具",
+  "category_slug": "tool",
+  "subcategory": "效率工具",
+  "subcategory_slug": "utility",
+  "license": "GPL-3.0",
+  "license_category": "open",
+  "archived": false,
+  "tech_stack": [
+    "C++",
+    "WebRTC",
+    "Slint"
+  ],
+  "deploy_type": "客户端 / 桌面应用",
+  "platform": "github",
+  "updated_at": "2026-11-23T10:38:31Z",
+  "added_at": "2026-11-23T19:12:41+08:00",
+  "default_branch": "mcp",
+  "download_url": "https://codeload.github.com/kunkundi/crossdesk/zip/refs/heads/mcp",
+  "release": {
+    "tag": "v1.7.6-20261112",
+    "name": "Release v1.7.6-20261112",
+    "published": "2026-11-12T05:15:49Z",
+    "url": "https://github.com/kunkundi/crossdesk/releases/tag/v1.7.6-20261112"
+  },
+  "assets": [
+    {
+      "name": "crossdesk-win-x64-v1.7.6-20261112.exe",
+      "size": 19724068,
+      "url": "https://github.com/kunkundi/crossdesk/releases/download/v1.7.6-20261112/crossdesk-win-x64-v1.7.6-20261112.exe"
+    },
+    {
+      "name": "crossdesk-win-x64-portable-v1.7.6-20261112.zip",
+      "size": 27641310,
+      "url": "https://github.com/kunkundi/crossdesk/releases/download/v1.7.6-20261112/crossdesk-win-x64-portable-v1.7.6-20261112.zip"
+    },
+    {
+      "name": "crossdesk-macos-arm64-v1.7.6-20261112.pkg",
+      "size": 28066422,
+      "url": "https://github.com/kunkundi/crossdesk/releases/download/v1.7.6-20261112/crossdesk-macos-arm64-v1.7.6-20261112.pkg"
+    },
+    {
+      "name": "crossdesk-macos-x64-v1.7.6-20261112.pkg",
+      "size": 30441968,
+      "url": "https://github.com/kunkundi/crossdesk/releases/download/v1.7.6-20261112/crossdesk-macos-x64-v1.7.6-20261112.pkg"
+    },
+    {
+      "name": "crossdesk-linux-arm64-v1.7.6-20261112.deb",
+      "size": 20218396,
+      "url": "https://github.com/kunkundi/crossdesk/releases/download/v1.7.6-20261112/crossdesk-linux-arm64-v1.7.6-20261112.deb"
+    },
+    {
+      "name": "crossdesk-virtual-desktop-xfce-linux-arm64-v1.7.6-20261112.deb",
+      "size": 20218456,
+      "url": "https://github.com/kunkundi/crossdesk/releases/download/v1.7.6-20261112/crossdesk-virtual-desktop-xfce-linux-arm64-v1.7.6-20261112.deb"
+    },
+    {
+      "name": "crossdesk-android-arm64-v1.7.6-20261112.apk",
+      "size": 27410538,
+      "url": "https://github.com/kunkundi/crossdesk/releases/download/v1.7.6-20261112/crossdesk-android-arm64-v1.7.6-20261112.apk"
+    },
+    {
+      "name": "crossdesk-ios-arm64-unsigned-v1.7.6-20261112.zip",
+      "size": 12127300,
+      "url": "https://github.com/kunkundi/crossdesk/releases/download/v1.7.6-20261112/crossdesk-ios-arm64-unsigned-v1.7.6-20261112.zip"
+    }
+  ],
+  "pinned": false,
+  "pin_label": null,
+  "pin_note": null,
+  "submitted_by": null,
+  "gitee": null,
+  "changes": []
+}

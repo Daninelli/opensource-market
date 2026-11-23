@@ -20,41 +20,41 @@
   "default_branch": "release/v2",
   "download_url": "https://codeload.github.com/telepresenceio/telepresence/zip/refs/heads/release%2Fv2",
   "release": {
-    "tag": "v2.33.3",
-    "name": "v2.33.3",
-    "published": "2026-11-19T15:03:23Z",
-    "url": "https://github.com/telepresenceio/telepresence/releases/tag/v2.33.3"
+    "tag": "v2.33.4",
+    "name": "v2.33.4",
+    "published": "2026-11-22T04:00:34Z",
+    "url": "https://github.com/telepresenceio/telepresence/releases/tag/v2.33.4"
   },
   "assets": [
     {
       "name": "telepresence-windows-arm64.msi",
-      "size": 20811776,
-      "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.3/telepresence-windows-arm64.msi"
+      "size": 20824064,
+      "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.4/telepresence-windows-arm64.msi"
     },
     {
       "name": "telepresence-windows-amd64.msi",
-      "size": 23035904,
-      "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.3/telepresence-windows-amd64.msi"
+      "size": 23027712,
+      "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.4/telepresence-windows-amd64.msi"
     },
     {
       "name": "telepresence-darwin-arm64.pkg",
-      "size": 28142119,
-      "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.3/telepresence-darwin-arm64.pkg"
+      "size": 28141923,
+      "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.4/telepresence-darwin-arm64.pkg"
     },
     {
       "name": "telepresence-darwin-amd64.pkg",
-      "size": 31986296,
-      "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.3/telepresence-darwin-amd64.pkg"
+      "size": 31986148,
+      "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.4/telepresence-darwin-amd64.pkg"
     },
     {
       "name": "telepresence-linux-arm64.deb",
-      "size": 36683864,
-      "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.3/telepresence-linux-arm64.deb"
+      "size": 36683710,
+      "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.4/telepresence-linux-arm64.deb"
     },
     {
       "name": "telepresence-linux-arm64.rpm",
-      "size": 38259575,
-      "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.3/telepresence-linux-arm64.rpm"
+      "size": 38278978,
+      "url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.4/telepresence-linux-arm64.rpm"
     }
   ],
   "pinned": false,

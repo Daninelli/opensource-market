@@ -22,41 +22,36 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/TNT-Likely/BeeCount/zip/refs/heads/main",
   "release": {
-    "tag": "4.0.0",
-    "name": "4.0.0",
-    "published": "2026-11-14T11:29:23Z",
-    "url": "https://github.com/TNT-Likely/BeeCount/releases/tag/4.0.0"
+    "tag": "4.0.1",
+    "name": "4.0.1",
+    "published": "2026-11-22T12:00:00Z",
+    "url": "https://github.com/TNT-Likely/BeeCount/releases/tag/4.0.1"
   },
   "assets": [
     {
-      "name": "beecount-4.0.0-unsigned.ipa",
-      "size": 21079790,
-      "url": "https://github.com/TNT-Likely/BeeCount/releases/download/4.0.0/beecount-4.0.0-unsigned.ipa"
+      "name": "beecount-4.0.1-unsigned.ipa",
+      "size": 21388048,
+      "url": "https://github.com/TNT-Likely/BeeCount/releases/download/4.0.1/beecount-4.0.1-unsigned.ipa"
     },
     {
-      "name": "beecount-4.0.0-signed.ipa",
-      "size": 40150168,
-      "url": "https://github.com/TNT-Likely/BeeCount/releases/download/4.0.0/beecount-4.0.0-signed.ipa"
+      "name": "beecount-4.0.1.apk",
+      "size": 21181045,
+      "url": "https://github.com/TNT-Likely/BeeCount/releases/download/4.0.1/beecount-4.0.1.apk"
     },
     {
-      "name": "beecount-4.0.0.apk",
-      "size": 20924052,
-      "url": "https://github.com/TNT-Likely/BeeCount/releases/download/4.0.0/beecount-4.0.0.apk"
+      "name": "beecount-4.0.1-x86_64.apk",
+      "size": 21336849,
+      "url": "https://github.com/TNT-Likely/BeeCount/releases/download/4.0.1/beecount-4.0.1-x86_64.apk"
     },
     {
-      "name": "beecount-4.0.0-x86_64.apk",
-      "size": 21099061,
-      "url": "https://github.com/TNT-Likely/BeeCount/releases/download/4.0.0/beecount-4.0.0-x86_64.apk"
+      "name": "beecount-4.0.1-iphoneos.app.zip",
+      "size": 21758923,
+      "url": "https://github.com/TNT-Likely/BeeCount/releases/download/4.0.1/beecount-4.0.1-iphoneos.app.zip"
     },
     {
-      "name": "beecount-4.0.0-iphoneos.app.zip",
-      "size": 21011113,
-      "url": "https://github.com/TNT-Likely/BeeCount/releases/download/4.0.0/beecount-4.0.0-iphoneos.app.zip"
-    },
-    {
-      "name": "beecount-4.0.0-iphonesimulator.app.zip",
-      "size": 78414703,
-      "url": "https://github.com/TNT-Likely/BeeCount/releases/download/4.0.0/beecount-4.0.0-iphonesimulator.app.zip"
+      "name": "beecount-4.0.1-iphonesimulator.app.zip",
+      "size": 79219991,
+      "url": "https://github.com/TNT-Likely/BeeCount/releases/download/4.0.1/beecount-4.0.1-iphonesimulator.app.zip"
     }
   ],
   "pinned": false,

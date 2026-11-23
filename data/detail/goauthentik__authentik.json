@@ -20,41 +20,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/goauthentik/authentik/zip/refs/heads/main",
   "release": {
-    "tag": "version/2026.8.5",
-    "name": "Release 2026.8.5",
-    "published": "2026-10-21T12:57:59Z",
-    "url": "https://github.com/goauthentik/authentik/releases/tag/version/2026.8.5"
+    "tag": "version/2026.8.6",
+    "name": "Release 2026.8.6",
+    "published": "2026-11-20T02:25:45Z",
+    "url": "https://github.com/goauthentik/authentik/releases/tag/version/2026.8.6"
   },
   "assets": [
     {
       "name": "authentik-outpost-proxy-aarch64-apple-darwin",
-      "size": 12912736,
-      "url": "https://github.com/goauthentik/authentik/releases/download/version/2026.8.5/authentik-outpost-proxy-aarch64-apple-darwin"
+      "size": 12912592,
+      "url": "https://github.com/goauthentik/authentik/releases/download/version/2026.8.6/authentik-outpost-proxy-aarch64-apple-darwin"
     },
     {
       "name": "authentik-outpost-proxy-x86_64-apple-darwin",
-      "size": 13939580,
-      "url": "https://github.com/goauthentik/authentik/releases/download/version/2026.8.5/authentik-outpost-proxy-x86_64-apple-darwin"
+      "size": 13972388,
+      "url": "https://github.com/goauthentik/authentik/releases/download/version/2026.8.6/authentik-outpost-proxy-x86_64-apple-darwin"
     },
     {
       "name": "authentik-outpost-proxy-aarch64-unknown-linux-gnu",
-      "size": 15621080,
-      "url": "https://github.com/goauthentik/authentik/releases/download/version/2026.8.5/authentik-outpost-proxy-aarch64-unknown-linux-gnu"
+      "size": 15621200,
+      "url": "https://github.com/goauthentik/authentik/releases/download/version/2026.8.6/authentik-outpost-proxy-aarch64-unknown-linux-gnu"
     },
     {
       "name": "authentik-outpost-proxy-x86_64-unknown-linux-gnu",
-      "size": 18195304,
-      "url": "https://github.com/goauthentik/authentik/releases/download/version/2026.8.5/authentik-outpost-proxy-x86_64-unknown-linux-gnu"
+      "size": 18567000,
+      "url": "https://github.com/goauthentik/authentik/releases/download/version/2026.8.6/authentik-outpost-proxy-x86_64-unknown-linux-gnu"
     },
     {
       "name": "proxy.oci.tar",
-      "size": 139484160,
-      "url": "https://github.com/goauthentik/authentik/releases/download/version/2026.8.5/proxy.oci.tar"
+      "size": 144397824,
+      "url": "https://github.com/goauthentik/authentik/releases/download/version/2026.8.6/proxy.oci.tar"
     },
     {
       "name": "radius.oci.tar",
-      "size": 152823296,
-      "url": "https://github.com/goauthentik/authentik/releases/download/version/2026.8.5/radius.oci.tar"
+      "size": 157708800,
+      "url": "https://github.com/goauthentik/authentik/releases/download/version/2026.8.6/radius.oci.tar"
     }
   ],
   "pinned": false,

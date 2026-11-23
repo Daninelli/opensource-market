@@ -21,36 +21,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/usememos/memos/zip/refs/heads/main",
   "release": {
-    "tag": "26.11.1",
-    "name": "26.11.1",
-    "published": "2026-11-16T01:12:25Z",
-    "url": "https://github.com/usememos/memos/releases/tag/26.11.1"
+    "tag": "26.11.2",
+    "name": "26.11.2",
+    "published": "2026-11-22T09:22:22Z",
+    "url": "https://github.com/usememos/memos/releases/tag/26.11.2"
   },
   "assets": [
     {
-      "name": "memos_26.11.1_darwin_arm64.tar.gz",
-      "size": 20584864,
-      "url": "https://github.com/usememos/memos/releases/download/26.11.1/memos_26.11.1_darwin_arm64.tar.gz"
+      "name": "memos_26.11.2_windows_arm64.zip",
+      "size": 19890203,
+      "url": "https://github.com/usememos/memos/releases/download/26.11.2/memos_26.11.2_windows_arm64.zip"
     },
     {
-      "name": "memos_26.11.1_windows_amd64.zip",
-      "size": 21733931,
-      "url": "https://github.com/usememos/memos/releases/download/26.11.1/memos_26.11.1_windows_amd64.zip"
+      "name": "memos_26.11.2_darwin_arm64.tar.gz",
+      "size": 20635073,
+      "url": "https://github.com/usememos/memos/releases/download/26.11.2/memos_26.11.2_darwin_arm64.tar.gz"
     },
     {
-      "name": "memos_26.11.1_darwin_amd64.tar.gz",
-      "size": 21747493,
-      "url": "https://github.com/usememos/memos/releases/download/26.11.1/memos_26.11.1_darwin_amd64.tar.gz"
+      "name": "memos_26.11.2_windows_amd64.zip",
+      "size": 21779150,
+      "url": "https://github.com/usememos/memos/releases/download/26.11.2/memos_26.11.2_windows_amd64.zip"
     },
     {
-      "name": "memos_26.11.1_linux_arm64.tar.gz",
-      "size": 19730772,
-      "url": "https://github.com/usememos/memos/releases/download/26.11.1/memos_26.11.1_linux_arm64.tar.gz"
+      "name": "memos_26.11.2_darwin_amd64.tar.gz",
+      "size": 21787723,
+      "url": "https://github.com/usememos/memos/releases/download/26.11.2/memos_26.11.2_darwin_amd64.tar.gz"
     },
     {
-      "name": "memos_26.11.1_linux_armv7.tar.gz",
-      "size": 20195296,
-      "url": "https://github.com/usememos/memos/releases/download/26.11.1/memos_26.11.1_linux_armv7.tar.gz"
+      "name": "memos_26.11.2_linux_arm64.tar.gz",
+      "size": 19773290,
+      "url": "https://github.com/usememos/memos/releases/download/26.11.2/memos_26.11.2_linux_arm64.tar.gz"
+    },
+    {
+      "name": "memos_26.11.2_linux_armv7.tar.gz",
+      "size": 20237266,
+      "url": "https://github.com/usememos/memos/releases/download/26.11.2/memos_26.11.2_linux_armv7.tar.gz"
     }
   ],
   "pinned": false,

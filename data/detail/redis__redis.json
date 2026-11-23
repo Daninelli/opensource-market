@@ -22,16 +22,16 @@
   "default_branch": "unstable",
   "download_url": "https://codeload.github.com/redis/redis/zip/refs/heads/unstable",
   "release": {
-    "tag": "8.10.3",
-    "name": "8.10.3",
-    "published": "2026-10-26T11:56:24Z",
-    "url": "https://github.com/redis/redis/releases/tag/8.10.3"
+    "tag": "8.12.0",
+    "name": "8.12.0",
+    "published": "2026-11-22T12:50:51Z",
+    "url": "https://github.com/redis/redis/releases/tag/8.12.0"
   },
   "assets": [
     {
-      "name": "redis-full.tar.gz",
-      "size": 21647086,
-      "url": "https://github.com/redis/redis/releases/download/8.10.3/redis-full.tar.gz"
+      "name": "redis-full-8.12.0.tar.gz",
+      "size": 24314056,
+      "url": "https://github.com/redis/redis/releases/download/8.12.0/redis-full-8.12.0.tar.gz"
     }
   ],
   "pinned": false,

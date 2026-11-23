@@ -21,10 +21,10 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/bluewave-labs/Checkmate/zip/refs/heads/develop",
   "release": {
-    "tag": "v4.0.0",
-    "name": "V4.0.0",
-    "published": "2026-11-16T20:45:17Z",
-    "url": "https://github.com/bluewave-labs/Checkmate/releases/tag/v4.0.0"
+    "tag": "v4.1.0",
+    "name": "V4.1.0",
+    "published": "2026-11-19T23:27:22Z",
+    "url": "https://github.com/bluewave-labs/Checkmate/releases/tag/v4.1.0"
   },
   "assets": [],
   "pinned": false,

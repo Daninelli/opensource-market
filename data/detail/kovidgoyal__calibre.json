@@ -22,41 +22,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/kovidgoyal/calibre/zip/refs/heads/master",
   "release": {
-    "tag": "v9.18.0",
-    "name": "version 9.18.0",
-    "published": "2026-11-06T02:37:50Z",
-    "url": "https://github.com/kovidgoyal/calibre/releases/tag/v9.18.0"
+    "tag": "v9.19.0",
+    "name": "version 9.19.0",
+    "published": "2026-11-21T06:12:07Z",
+    "url": "https://github.com/kovidgoyal/calibre/releases/tag/v9.19.0"
   },
   "assets": [
     {
-      "name": "calibre-portable-installer-9.18.0.exe",
-      "size": 259196168,
-      "url": "https://github.com/kovidgoyal/calibre/releases/download/v9.18.0/calibre-portable-installer-9.18.0.exe"
+      "name": "calibre-portable-installer-9.19.0.exe",
+      "size": 259843848,
+      "url": "https://github.com/kovidgoyal/calibre/releases/download/v9.19.0/calibre-portable-installer-9.19.0.exe"
     },
     {
-      "name": "calibre-64bit-9.18.0.msi",
-      "size": 291291136,
-      "url": "https://github.com/kovidgoyal/calibre/releases/download/v9.18.0/calibre-64bit-9.18.0.msi"
+      "name": "calibre-64bit-9.19.0.msi",
+      "size": 291713024,
+      "url": "https://github.com/kovidgoyal/calibre/releases/download/v9.19.0/calibre-64bit-9.19.0.msi"
     },
     {
-      "name": "calibre-9.18.0.dmg",
-      "size": 406181327,
-      "url": "https://github.com/kovidgoyal/calibre/releases/download/v9.18.0/calibre-9.18.0.dmg"
+      "name": "calibre-9.19.0.dmg",
+      "size": 408549188,
+      "url": "https://github.com/kovidgoyal/calibre/releases/download/v9.19.0/calibre-9.19.0.dmg"
     },
     {
-      "name": "calibre-9.18.0.tar.xz",
-      "size": 50364528,
-      "url": "https://github.com/kovidgoyal/calibre/releases/download/v9.18.0/calibre-9.18.0.tar.xz"
+      "name": "calibre-9.19.0.tar.xz",
+      "size": 50527240,
+      "url": "https://github.com/kovidgoyal/calibre/releases/download/v9.19.0/calibre-9.19.0.tar.xz"
     },
     {
-      "name": "calibre-9.18.0-arm64.txz",
-      "size": 227149592,
-      "url": "https://github.com/kovidgoyal/calibre/releases/download/v9.18.0/calibre-9.18.0-arm64.txz"
+      "name": "calibre-9.19.0-arm64.txz",
+      "size": 227682756,
+      "url": "https://github.com/kovidgoyal/calibre/releases/download/v9.19.0/calibre-9.19.0-arm64.txz"
     },
     {
-      "name": "calibre-9.18.0-x86_64.txz",
-      "size": 240948148,
-      "url": "https://github.com/kovidgoyal/calibre/releases/download/v9.18.0/calibre-9.18.0-x86_64.txz"
+      "name": "calibre-9.19.0-x86_64.txz",
+      "size": 241350288,
+      "url": "https://github.com/kovidgoyal/calibre/releases/download/v9.19.0/calibre-9.19.0-x86_64.txz"
     }
   ],
   "pinned": false,

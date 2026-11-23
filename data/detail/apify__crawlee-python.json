@@ -20,10 +20,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/apify/crawlee-python/zip/refs/heads/master",
   "release": {
-    "tag": "v1.11.2",
-    "name": "1.11.2",
-    "published": "2026-11-10T10:12:52Z",
-    "url": "https://github.com/apify/crawlee-python/releases/tag/v1.11.2"
+    "tag": "v1.11.3",
+    "name": "1.11.3",
+    "published": "2026-11-23T11:01:40Z",
+    "url": "https://github.com/apify/crawlee-python/releases/tag/v1.11.3"
   },
   "assets": [],
   "pinned": false,

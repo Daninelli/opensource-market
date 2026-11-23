@@ -22,12 +22,23 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/strelov1/freehire/zip/refs/heads/main",
   "release": {
-    "tag": "deploy-20261119-1635",
-    "name": "Deploy 2026-11-19 16:35 UTC",
-    "published": "2026-11-19T16:35:41Z",
-    "url": "https://github.com/strelov1/freehire/releases/tag/deploy-20261119-1635"
+    "tag": "extension-v0.1.15",
+    "name": "extension v0.1.15",
+    "published": "2026-11-23T11:05:38Z",
+    "url": "https://github.com/strelov1/freehire/releases/tag/extension-v0.1.15"
   },
-  "assets": [],
+  "assets": [
+    {
+      "name": "freehire-extension-0.1.15-sources.zip",
+      "size": 764213,
+      "url": "https://github.com/strelov1/freehire/releases/download/extension-v0.1.15/freehire-extension-0.1.15-sources.zip"
+    },
+    {
+      "name": "freehire-extension-0.1.15-firefox.zip",
+      "size": 1375654,
+      "url": "https://github.com/strelov1/freehire/releases/download/extension-v0.1.15/freehire-extension-0.1.15-firefox.zip"
+    }
+  ],
   "pinned": false,
   "pin_label": null,
   "pin_note": null,

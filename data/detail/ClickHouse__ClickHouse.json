@@ -22,31 +22,31 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/ClickHouse/ClickHouse/zip/refs/heads/master",
   "release": {
-    "tag": "v26.9.33.10-stable",
-    "name": "Release v26.9.33.10-stable",
-    "published": "2026-11-19T15:51:25Z",
-    "url": "https://github.com/ClickHouse/ClickHouse/releases/tag/v26.9.33.10-stable"
+    "tag": "v26.9.36.3-stable",
+    "name": "Release v26.9.36.3-stable",
+    "published": "2026-11-22T16:42:32Z",
+    "url": "https://github.com/ClickHouse/ClickHouse/releases/tag/v26.9.36.3-stable"
   },
   "assets": [
     {
-      "name": "clickhouse-client_26.9.33.10_amd64.deb",
-      "size": 428686,
-      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.9.33.10-stable/clickhouse-client_26.9.33.10_amd64.deb"
+      "name": "clickhouse-client_26.9.36.3_amd64.deb",
+      "size": 428698,
+      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.9.36.3-stable/clickhouse-client_26.9.36.3_amd64.deb"
     },
     {
-      "name": "clickhouse-client_26.9.33.10_arm64.deb",
-      "size": 428692,
-      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.9.33.10-stable/clickhouse-client_26.9.33.10_arm64.deb"
+      "name": "clickhouse-client_26.9.36.3_arm64.deb",
+      "size": 428698,
+      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.9.36.3-stable/clickhouse-client_26.9.36.3_arm64.deb"
     },
     {
-      "name": "clickhouse-client-26.9.33.10-amd64.tgz",
-      "size": 413745,
-      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.9.33.10-stable/clickhouse-client-26.9.33.10-amd64.tgz"
+      "name": "clickhouse-client-26.9.36.3-arm64.tgz",
+      "size": 413748,
+      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.9.36.3-stable/clickhouse-client-26.9.36.3-arm64.tgz"
     },
     {
-      "name": "clickhouse-client-26.9.33.10-arm64.tgz",
-      "size": 413746,
-      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.9.33.10-stable/clickhouse-client-26.9.33.10-arm64.tgz"
+      "name": "clickhouse-client-26.9.36.3-amd64.tgz",
+      "size": 413749,
+      "url": "https://github.com/ClickHouse/ClickHouse/releases/download/v26.9.36.3-stable/clickhouse-client-26.9.36.3-amd64.tgz"
     }
   ],
   "pinned": false,

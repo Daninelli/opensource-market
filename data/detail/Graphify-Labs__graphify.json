@@ -22,26 +22,16 @@
   "default_branch": "v8",
   "download_url": "https://codeload.github.com/Graphify-Labs/graphify/zip/refs/heads/v8",
   "release": {
-    "tag": "v0.9.112",
-    "name": "graphify 0.9.112",
-    "published": "2026-11-17T15:42:01Z",
-    "url": "https://github.com/Graphify-Labs/graphify/releases/tag/v0.9.112"
+    "tag": "v0.9.115",
+    "name": "v0.9.115",
+    "published": "2026-11-21T21:27:32Z",
+    "url": "https://github.com/Graphify-Labs/graphify/releases/tag/v0.9.115"
   },
   "assets": [
     {
       "name": "graphify-self-graph.tar.gz",
-      "size": 578267,
-      "url": "https://github.com/Graphify-Labs/graphify/releases/download/v0.9.112/graphify-self-graph.tar.gz"
-    },
-    {
-      "name": "graphifyy-0.9.112-py3-none-any.whl",
-      "size": 1997065,
-      "url": "https://github.com/Graphify-Labs/graphify/releases/download/v0.9.112/graphifyy-0.9.112-py3-none-any.whl"
-    },
-    {
-      "name": "graphifyy-0.9.112.tar.gz",
-      "size": 3544169,
-      "url": "https://github.com/Graphify-Labs/graphify/releases/download/v0.9.112/graphifyy-0.9.112.tar.gz"
+      "size": 573448,
+      "url": "https://github.com/Graphify-Labs/graphify/releases/download/v0.9.115/graphify-self-graph.tar.gz"
     }
   ],
   "pinned": false,

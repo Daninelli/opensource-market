@@ -20,10 +20,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/go-vgo/robotgo/zip/refs/heads/master",
   "release": {
-    "tag": "v1.3.7",
-    "name": "v1.3.7",
-    "published": "2026-10-22T20:53:12Z",
-    "url": "https://github.com/go-vgo/robotgo/releases/tag/v1.3.7"
+    "tag": "v1.3.8",
+    "name": "v1.3.8",
+    "published": "2026-11-20T13:22:37Z",
+    "url": "https://github.com/go-vgo/robotgo/releases/tag/v1.3.8"
   },
   "assets": [],
   "pinned": false,

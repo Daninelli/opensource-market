@@ -21,41 +21,46 @@
   "default_branch": "dev",
   "download_url": "https://codeload.github.com/kortix-ai/suna/zip/refs/heads/dev",
   "release": {
-    "tag": "v0.16.1",
-    "name": "v0.16.1 — Loopmaxxing launch, setup reminders, and connector setup fixes",
-    "published": "2026-11-19T16:34:24Z",
-    "url": "https://github.com/kortix-ai/CompanyOS/releases/tag/v0.16.1"
+    "tag": "v0.16.4",
+    "name": "v0.16.4 — Kortix in Chrome, colored wallpapers, and workspace setup from the CLI",
+    "published": "2026-11-22T01:41:05Z",
+    "url": "https://github.com/kortix-ai/CompanyOS/releases/tag/v0.16.4"
   },
   "assets": [
     {
-      "name": "kortix-darwin-arm64",
-      "size": 99810146,
-      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.16.1/kortix-darwin-arm64"
+      "name": "KortixCapture-v0.16.4-x64.msi",
+      "size": 19083264,
+      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.16.4/KortixCapture-v0.16.4-x64.msi"
     },
     {
-      "name": "kortix-tui-darwin-arm64",
-      "size": 105936098,
-      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.16.1/kortix-tui-darwin-arm64"
+      "name": "KortixCapture-x64.msi",
+      "size": 19083264,
+      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.16.4/KortixCapture-x64.msi"
     },
     {
-      "name": "Kortix-Setup-0.16.0.exe",
-      "size": 130193616,
-      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.16.1/Kortix-Setup-0.16.0.exe"
+      "name": "KortixCapture-universal.pkg",
+      "size": 46007219,
+      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.16.4/KortixCapture-universal.pkg"
     },
     {
-      "name": "kortix-linux-x64",
-      "size": 119695536,
-      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.16.1/kortix-linux-x64"
+      "name": "KortixCapture-v0.16.4-universal.pkg",
+      "size": 46007219,
+      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.16.4/KortixCapture-v0.16.4-universal.pkg"
     },
     {
-      "name": "kortix-linux-arm64",
-      "size": 119786488,
-      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.16.1/kortix-linux-arm64"
+      "name": "kortix-capture_amd64.deb",
+      "size": 20703410,
+      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.16.4/kortix-capture_amd64.deb"
     },
     {
-      "name": "Kortix-0.16.0-universal-mac.zip",
-      "size": 247689627,
-      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.16.1/Kortix-0.16.0-universal-mac.zip"
+      "name": "kortix-capture_v0.16.4_amd64.deb",
+      "size": 20703410,
+      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.16.4/kortix-capture_v0.16.4_amd64.deb"
+    },
+    {
+      "name": "Kortix-0.16.2-universal-mac.zip",
+      "size": 247692074,
+      "url": "https://github.com/kortix-ai/CompanyOS/releases/download/v0.16.4/Kortix-0.16.2-universal-mac.zip"
     }
   ],
   "pinned": false,

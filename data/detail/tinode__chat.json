@@ -22,41 +22,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/tinode/chat/zip/refs/heads/master",
   "release": {
-    "tag": "v0.25.3",
-    "name": "Bug fixes, dependencies updated, dependencies upgraded.",
-    "published": "2026-07-04T14:36:42Z",
-    "url": "https://github.com/tinode/chat/releases/tag/v0.25.3"
+    "tag": "v0.25.5",
+    "name": "Security, privacy, reliability, localization",
+    "published": "2026-11-22T14:20:44Z",
+    "url": "https://github.com/tinode/chat/releases/tag/v0.25.5"
   },
   "assets": [
     {
       "name": "tinode-mysql.mac-arm64.tar.gz",
-      "size": 32707922,
-      "url": "https://github.com/tinode/chat/releases/download/v0.25.3/tinode-mysql.mac-arm64.tar.gz"
+      "size": 32803924,
+      "url": "https://github.com/tinode/chat/releases/download/v0.25.5/tinode-mysql.mac-arm64.tar.gz"
     },
     {
       "name": "tinode-rethinkdb.mac-arm64.tar.gz",
-      "size": 33896103,
-      "url": "https://github.com/tinode/chat/releases/download/v0.25.3/tinode-rethinkdb.mac-arm64.tar.gz"
+      "size": 34007342,
+      "url": "https://github.com/tinode/chat/releases/download/v0.25.5/tinode-rethinkdb.mac-arm64.tar.gz"
     },
     {
       "name": "tinode-mysql.windows-amd64.zip",
-      "size": 34145625,
-      "url": "https://github.com/tinode/chat/releases/download/v0.25.3/tinode-mysql.windows-amd64.zip"
+      "size": 34239779,
+      "url": "https://github.com/tinode/chat/releases/download/v0.25.5/tinode-mysql.windows-amd64.zip"
     },
     {
       "name": "tinode-rethinkdb.windows-amd64.zip",
-      "size": 35400767,
-      "url": "https://github.com/tinode/chat/releases/download/v0.25.3/tinode-rethinkdb.windows-amd64.zip"
+      "size": 35504563,
+      "url": "https://github.com/tinode/chat/releases/download/v0.25.5/tinode-rethinkdb.windows-amd64.zip"
     },
     {
       "name": "tinode-mysql.linux-arm64.tar.gz",
-      "size": 31823450,
-      "url": "https://github.com/tinode/chat/releases/download/v0.25.3/tinode-mysql.linux-arm64.tar.gz"
+      "size": 31915878,
+      "url": "https://github.com/tinode/chat/releases/download/v0.25.5/tinode-mysql.linux-arm64.tar.gz"
     },
     {
       "name": "tinode-rethinkdb.linux-arm64.tar.gz",
-      "size": 32948772,
-      "url": "https://github.com/tinode/chat/releases/download/v0.25.3/tinode-rethinkdb.linux-arm64.tar.gz"
+      "size": 33051416,
+      "url": "https://github.com/tinode/chat/releases/download/v0.25.5/tinode-rethinkdb.linux-arm64.tar.gz"
     }
   ],
   "pinned": false,

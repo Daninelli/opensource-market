@@ -20,16 +20,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/feder-cr/invisible_dots/zip/refs/heads/main",
   "release": {
-    "tag": "golden-291cd28cd840",
-    "name": "Golden image golden-291cd28cd840",
-    "published": "2026-11-19T07:53:55Z",
-    "url": "https://github.com/oss-invisible/dots/releases/tag/golden-291cd28cd840"
+    "tag": "golden-66b684c8bf87",
+    "name": "Golden image golden-66b684c8bf87",
+    "published": "2026-11-21T19:29:22Z",
+    "url": "https://github.com/oss-invisible/dots/releases/tag/golden-66b684c8bf87"
   },
   "assets": [
     {
-      "name": "golden-20261119073423-291cd28cd840.qcow2.part00",
-      "size": 776011776,
-      "url": "https://github.com/oss-invisible/dots/releases/download/golden-291cd28cd840/golden-20261119073423-291cd28cd840.qcow2.part00"
+      "name": "golden-20261121192433-66b684c8bf87.qcow2.part00",
+      "size": 820641792,
+      "url": "https://github.com/oss-invisible/dots/releases/download/golden-66b684c8bf87/golden-20261121192433-66b684c8bf87.qcow2.part00"
     }
   ],
   "pinned": false,

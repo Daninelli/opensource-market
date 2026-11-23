@@ -20,26 +20,26 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/bettercap/bettercap/zip/refs/heads/master",
   "release": {
-    "tag": "v2.41.7",
-    "name": "v2.41.7",
-    "published": "2026-05-11T09:46:36Z",
-    "url": "https://github.com/bettercap/bettercap/releases/tag/v2.41.7"
+    "tag": "v2.42.0",
+    "name": "v2.42.0",
+    "published": "2026-11-21T21:58:29Z",
+    "url": "https://github.com/bettercap/bettercap/releases/tag/v2.42.0"
   },
   "assets": [
     {
       "name": "bettercap_windows_amd64.zip",
-      "size": 23041685,
-      "url": "https://github.com/bettercap/bettercap/releases/download/v2.41.7/bettercap_windows_amd64.zip"
+      "size": 24226569,
+      "url": "https://github.com/bettercap/bettercap/releases/download/v2.42.0/bettercap_windows_amd64.zip"
     },
     {
       "name": "bettercap_darwin_arm64.zip",
-      "size": 23918095,
-      "url": "https://github.com/bettercap/bettercap/releases/download/v2.41.7/bettercap_darwin_arm64.zip"
+      "size": 25433391,
+      "url": "https://github.com/bettercap/bettercap/releases/download/v2.42.0/bettercap_darwin_arm64.zip"
     },
     {
       "name": "bettercap_linux_amd64.zip",
-      "size": 27404814,
-      "url": "https://github.com/bettercap/bettercap/releases/download/v2.41.7/bettercap_linux_amd64.zip"
+      "size": 28733971,
+      "url": "https://github.com/bettercap/bettercap/releases/download/v2.42.0/bettercap_linux_amd64.zip"
     }
   ],
   "pinned": false,

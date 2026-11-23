@@ -21,36 +21,36 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/SoftEtherVPN/SoftEtherVPN/zip/refs/heads/master",
   "release": {
-    "tag": "5.2.5190",
-    "name": "5.2.5190",
-    "published": "2026-11-18T20:12:42Z",
-    "url": "https://github.com/SoftEtherVPN/SoftEtherVPN/releases/tag/5.2.5190"
+    "tag": "5.2.5191",
+    "name": "5.2.5191",
+    "published": "2026-11-22T19:21:53Z",
+    "url": "https://github.com/SoftEtherVPN/SoftEtherVPN/releases/tag/5.2.5191"
   },
   "assets": [
     {
       "name": "softether-vpnclient-5.02.5187.x86.exe",
-      "size": 36687360,
-      "url": "https://github.com/SoftEtherVPN/SoftEtherVPN/releases/download/5.2.5190/softether-vpnclient-5.02.5187.x86.exe"
+      "size": 36695552,
+      "url": "https://github.com/SoftEtherVPN/SoftEtherVPN/releases/download/5.2.5191/softether-vpnclient-5.02.5187.x86.exe"
     },
     {
       "name": "softether-vpnserver_vpnbridge-5.02.5187.x86.exe",
-      "size": 39976960,
-      "url": "https://github.com/SoftEtherVPN/SoftEtherVPN/releases/download/5.2.5190/softether-vpnserver_vpnbridge-5.02.5187.x86.exe"
+      "size": 39985152,
+      "url": "https://github.com/SoftEtherVPN/SoftEtherVPN/releases/download/5.2.5191/softether-vpnserver_vpnbridge-5.02.5187.x86.exe"
     },
     {
-      "name": "softether-vpnclient-android-5.2.5190-armeabi-v7a.apk",
+      "name": "softether-vpnclient-android-5.2.5191-armeabi-v7a.apk",
       "size": 31794117,
-      "url": "https://github.com/SoftEtherVPN/SoftEtherVPN/releases/download/5.2.5190/softether-vpnclient-android-5.2.5190-armeabi-v7a.apk"
+      "url": "https://github.com/SoftEtherVPN/SoftEtherVPN/releases/download/5.2.5191/softether-vpnclient-android-5.2.5191-armeabi-v7a.apk"
     },
     {
-      "name": "softether-vpnclient-android-5.2.5190-arm64-v8a.apk",
+      "name": "softether-vpnclient-android-5.2.5191-arm64-v8a.apk",
       "size": 35227933,
-      "url": "https://github.com/SoftEtherVPN/SoftEtherVPN/releases/download/5.2.5190/softether-vpnclient-android-5.2.5190-arm64-v8a.apk"
+      "url": "https://github.com/SoftEtherVPN/SoftEtherVPN/releases/download/5.2.5191/softether-vpnclient-android-5.2.5191-arm64-v8a.apk"
     },
     {
-      "name": "SoftEtherVPN-5.2.5190.tar.xz",
-      "size": 19490264,
-      "url": "https://github.com/SoftEtherVPN/SoftEtherVPN/releases/download/5.2.5190/SoftEtherVPN-5.2.5190.tar.xz"
+      "name": "SoftEtherVPN-5.2.5191.tar.xz",
+      "size": 19554088,
+      "url": "https://github.com/SoftEtherVPN/SoftEtherVPN/releases/download/5.2.5191/SoftEtherVPN-5.2.5191.tar.xz"
     }
   ],
   "pinned": false,

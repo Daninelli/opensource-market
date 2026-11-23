@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/kimai/kimai/zip/refs/heads/main",
   "release": {
-    "tag": "2.72.0",
-    "name": "2.72.0",
-    "published": "2026-11-13T14:14:14Z",
-    "url": "https://github.com/kimai/kimai/releases/tag/2.72.0"
+    "tag": "2.72.1",
+    "name": "2.72.1",
+    "published": "2026-11-20T16:41:21Z",
+    "url": "https://github.com/kimai/kimai/releases/tag/2.72.1"
   },
   "assets": [],
   "pinned": false,

@@ -21,10 +21,10 @@
   "default_branch": "release",
   "download_url": "https://codeload.github.com/SillyTavern/SillyTavern/zip/refs/heads/release",
   "release": {
-    "tag": "1.19.0",
-    "name": "1.19.0",
-    "published": "2026-09-14T18:05:11Z",
-    "url": "https://github.com/SillyTavern/SillyTavern/releases/tag/1.19.0"
+    "tag": "1.19.1",
+    "name": "1.19.1",
+    "published": "2026-11-19T22:25:06Z",
+    "url": "https://github.com/SillyTavern/SillyTavern/releases/tag/1.19.1"
   },
   "assets": [],
   "pinned": false,

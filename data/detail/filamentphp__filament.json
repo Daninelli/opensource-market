@@ -23,10 +23,10 @@
   "default_branch": "4.x",
   "download_url": "https://codeload.github.com/filamentphp/filament/zip/refs/heads/4.x",
   "release": {
-    "tag": "v5.11.4",
-    "name": "v5.11.4",
-    "published": "2026-11-15T21:50:49Z",
-    "url": "https://github.com/filamentphp/filament/releases/tag/v5.11.4"
+    "tag": "v5.12.0",
+    "name": "v5.12.0",
+    "published": "2026-11-21T23:20:27Z",
+    "url": "https://github.com/filamentphp/filament/releases/tag/v5.12.0"
   },
   "assets": [],
   "pinned": false,

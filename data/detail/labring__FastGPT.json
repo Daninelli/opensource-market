@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/labring/FastGPT/zip/refs/heads/main",
   "release": {
-    "tag": "v4.17.4",
-    "name": "v4.17.4",
-    "published": "2026-11-05T06:20:19Z",
-    "url": "https://github.com/labring/FastGPT/releases/tag/v4.17.4"
+    "tag": "v4.17.5",
+    "name": "v4.17.5",
+    "published": "2026-11-23T08:56:18Z",
+    "url": "https://github.com/labring/FastGPT/releases/tag/v4.17.5"
   },
   "assets": [],
   "pinned": false,

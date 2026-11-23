@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/swagger-api/swagger-ui/zip/refs/heads/main",
   "release": {
-    "tag": "v5.35.1",
-    "name": "v5.35.1",
-    "published": "2026-11-19T09:10:21Z",
-    "url": "https://github.com/swagger-api/swagger-ui/releases/tag/v5.35.1"
+    "tag": "v5.36.0",
+    "name": "v5.36.0",
+    "published": "2026-11-23T07:26:03Z",
+    "url": "https://github.com/swagger-api/swagger-ui/releases/tag/v5.36.0"
   },
   "assets": [],
   "pinned": false,

@@ -21,31 +21,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/openai/codex/zip/refs/heads/main",
   "release": {
-    "tag": "rust-v0.170.0",
-    "name": "0.170.0",
-    "published": "2026-11-18T03:40:48Z",
-    "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0"
+    "tag": "rust-v0.171.0",
+    "name": "0.171.0",
+    "published": "2026-11-20T00:44:47Z",
+    "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0"
   },
   "assets": [
     {
       "name": "codex-command-runner-aarch64-pc-windows-msvc.exe.zst",
-      "size": 2354550,
-      "url": "https://github.com/openai/codex/releases/download/rust-v0.170.0/codex-command-runner-aarch64-pc-windows-msvc.exe.zst"
+      "size": 2324561,
+      "url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-command-runner-aarch64-pc-windows-msvc.exe.zst"
     },
     {
       "name": "codex-responses-api-proxy-aarch64-apple-darwin.zst",
-      "size": 2641584,
-      "url": "https://github.com/openai/codex/releases/download/rust-v0.170.0/codex-responses-api-proxy-aarch64-apple-darwin.zst"
+      "size": 2741294,
+      "url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-responses-api-proxy-aarch64-apple-darwin.zst"
     },
     {
       "name": "codex-command-runner-aarch64-pc-windows-msvc.exe.zip",
-      "size": 2934242,
-      "url": "https://github.com/openai/codex/releases/download/rust-v0.170.0/codex-command-runner-aarch64-pc-windows-msvc.exe.zip"
+      "size": 2901394,
+      "url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-command-runner-aarch64-pc-windows-msvc.exe.zip"
     },
     {
       "name": "codex-responses-api-proxy-aarch64-apple-darwin.tar.gz",
-      "size": 3630591,
-      "url": "https://github.com/openai/codex/releases/download/rust-v0.170.0/codex-responses-api-proxy-aarch64-apple-darwin.tar.gz"
+      "size": 3752298,
+      "url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-responses-api-proxy-aarch64-apple-darwin.tar.gz"
     }
   ],
   "pinned": false,

@@ -22,10 +22,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/PrefectHQ/prefect/zip/refs/heads/main",
   "release": {
-    "tag": "3.9.3",
-    "name": "3.9.3 - `aclose()`ing time",
-    "published": "2026-11-13T19:24:07Z",
-    "url": "https://github.com/PrefectHQ/prefect/releases/tag/3.9.3"
+    "tag": "3.9.4",
+    "name": "3.9.4 - It’s not you, it’s `CTRL_BREAK`",
+    "published": "2026-11-19T18:41:01Z",
+    "url": "https://github.com/PrefectHQ/prefect/releases/tag/3.9.4"
   },
   "assets": [],
   "pinned": false,

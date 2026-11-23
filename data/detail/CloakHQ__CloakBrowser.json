@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/CloakHQ/CloakBrowser/zip/refs/heads/main",
   "release": {
-    "tag": "chromium-v156.0.8078.47.1-pro",
-    "name": "Chromium v156.0.8078.47.1 — Stealth Build (Pro)",
-    "published": "2026-11-03T18:16:17Z",
-    "url": "https://github.com/CloakHQ/CloakBrowser/releases/tag/chromium-v156.0.8078.47.1-pro"
+    "tag": "chromium-v156.0.8078.47.8-pro",
+    "name": "Chromium v156.0.8078.47.8 — Stealth Build (Pro)",
+    "published": "2026-11-21T18:24:58Z",
+    "url": "https://github.com/CloakHQ/CloakBrowser/releases/tag/chromium-v156.0.8078.47.8-pro"
   },
   "assets": [],
   "pinned": false,

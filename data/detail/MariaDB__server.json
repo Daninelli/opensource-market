@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/MariaDB/server/zip/refs/heads/main",
   "release": {
-    "tag": "mariadb-13.0.2",
-    "name": "MariaDB Community Server 13.0.2",
-    "published": "2026-09-15T15:55:36Z",
-    "url": "https://github.com/MariaDB/server/releases/tag/mariadb-13.0.2"
+    "tag": "mariadb-13.1.2",
+    "name": "MariaDB Community Server 13.1.2",
+    "published": "2026-11-21T17:19:10Z",
+    "url": "https://github.com/MariaDB/server/releases/tag/mariadb-13.1.2"
   },
   "assets": [],
   "pinned": false,

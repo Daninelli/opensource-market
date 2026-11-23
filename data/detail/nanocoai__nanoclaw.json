@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/nanocoai/nanoclaw/zip/refs/heads/main",
   "release": {
-    "tag": "v2026.10.0",
-    "name": "v2026.10.0",
-    "published": "2026-10-09T11:26:13Z",
-    "url": "https://github.com/nanocoai/nanoclaw/releases/tag/v2026.10.0"
+    "tag": "v2026.11.0",
+    "name": "v2026.11.0",
+    "published": "2026-11-20T18:45:10Z",
+    "url": "https://github.com/nanocoai/nanoclaw/releases/tag/v2026.11.0"
   },
   "assets": [],
   "pinned": false,

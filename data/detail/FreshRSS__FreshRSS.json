@@ -21,10 +21,10 @@
   "default_branch": "edge",
   "download_url": "https://codeload.github.com/FreshRSS/FreshRSS/zip/refs/heads/edge",
   "release": {
-    "tag": "1.30.4",
-    "name": "FreshRSS 1.30.4",
-    "published": "2026-10-21T20:45:47Z",
-    "url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4"
+    "tag": "1.31.0",
+    "name": "FreshRSS 1.31.0",
+    "published": "2026-11-23T08:27:04Z",
+    "url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.31.0"
   },
   "assets": [],
   "pinned": false,

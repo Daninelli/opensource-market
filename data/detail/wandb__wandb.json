@@ -22,21 +22,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/wandb/wandb/zip/refs/heads/main",
   "release": {
-    "tag": "v0.31.0",
-    "name": "v0.31.0",
-    "published": "2026-10-16T19:10:51Z",
-    "url": "https://github.com/wandb/wandb/releases/tag/v0.31.0"
+    "tag": "v0.31.2",
+    "name": "v0.31.2",
+    "published": "2026-11-21T01:21:09Z",
+    "url": "https://github.com/wandb/wandb/releases/tag/v0.31.2"
   },
   "assets": [
     {
-      "name": "wandb-0.31.0.tar.gz",
-      "size": 43561200,
-      "url": "https://github.com/wandb/wandb/releases/download/v0.31.0/wandb-0.31.0.tar.gz"
+      "name": "wandb-0.31.2.tar.gz",
+      "size": 43984070,
+      "url": "https://github.com/wandb/wandb/releases/download/v0.31.2/wandb-0.31.2.tar.gz"
     },
     {
-      "name": "wandb-0.31.0.zip",
-      "size": 48002690,
-      "url": "https://github.com/wandb/wandb/releases/download/v0.31.0/wandb-0.31.0.zip"
+      "name": "wandb-0.31.2.zip",
+      "size": 48508601,
+      "url": "https://github.com/wandb/wandb/releases/download/v0.31.2/wandb-0.31.2.zip"
     }
   ],
   "pinned": false,

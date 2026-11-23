@@ -22,10 +22,10 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/n8n-io/n8n/zip/refs/heads/master",
   "release": {
-    "tag": "n8n@2.48.6",
-    "name": "n8n@2.48.6",
-    "published": "2026-11-19T08:29:57Z",
-    "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.48.6"
+    "tag": "n8n@2.48.8",
+    "name": "n8n@2.48.8",
+    "published": "2026-11-23T08:34:00Z",
+    "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.48.8"
   },
   "assets": [],
   "pinned": false,

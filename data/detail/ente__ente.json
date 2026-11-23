@@ -21,41 +21,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/ente/ente/zip/refs/heads/main",
   "release": {
-    "tag": "ente-cli-v0.4.5",
-    "name": "ente-cli-v0.4.5",
-    "published": "2026-11-18T09:36:21Z",
-    "url": "https://github.com/ente/ente/releases/tag/ente-cli-v0.4.5"
+    "tag": "locker-v1.0.13",
+    "name": "locker-v1.0.13",
+    "published": "2026-11-23T05:05:16Z",
+    "url": "https://github.com/ente/ente/releases/tag/locker-v1.0.13"
   },
   "assets": [
     {
-      "name": "ente-cli-v0.4.5-macos-arm64.tar.gz",
-      "size": 6180643,
-      "url": "https://github.com/ente/ente/releases/download/ente-cli-v0.4.5/ente-cli-v0.4.5-macos-arm64.tar.gz"
-    },
-    {
-      "name": "ente-cli-v0.4.5-macos-amd64.tar.gz",
-      "size": 6723219,
-      "url": "https://github.com/ente/ente/releases/download/ente-cli-v0.4.5/ente-cli-v0.4.5-macos-amd64.tar.gz"
-    },
-    {
-      "name": "ente-cli-v0.4.5-windows-arm64.zip",
-      "size": 7213579,
-      "url": "https://github.com/ente/ente/releases/download/ente-cli-v0.4.5/ente-cli-v0.4.5-windows-arm64.zip"
-    },
-    {
-      "name": "ente-cli-v0.4.5-windows-amd64.zip",
-      "size": 8092840,
-      "url": "https://github.com/ente/ente/releases/download/ente-cli-v0.4.5/ente-cli-v0.4.5-windows-amd64.zip"
-    },
-    {
-      "name": "ente-cli-v0.4.5-linux-arm64.tar.gz",
-      "size": 9429957,
-      "url": "https://github.com/ente/ente/releases/download/ente-cli-v0.4.5/ente-cli-v0.4.5-linux-arm64.tar.gz"
-    },
-    {
-      "name": "ente-cli-v0.4.5-linux-amd64.tar.gz",
-      "size": 9540196,
-      "url": "https://github.com/ente/ente/releases/download/ente-cli-v0.4.5/ente-cli-v0.4.5-linux-amd64.tar.gz"
+      "name": "ente-locker-v1.0.13.apk",
+      "size": 221820216,
+      "url": "https://github.com/ente/ente/releases/download/locker-v1.0.13/ente-locker-v1.0.13.apk"
     }
   ],
   "pinned": false,

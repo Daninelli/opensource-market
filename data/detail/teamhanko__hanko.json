@@ -21,41 +21,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/teamhanko/hanko/zip/refs/heads/main",
   "release": {
-    "tag": "backend/v3.1.0",
-    "name": "Hanko v3.1",
-    "published": "2026-10-01T12:51:22Z",
-    "url": "https://github.com/teamhanko/hanko/releases/tag/backend/v3.1.0"
+    "tag": "backend/v3.2.0",
+    "name": "Hanko v3.2",
+    "published": "2026-11-20T11:45:29Z",
+    "url": "https://github.com/teamhanko/hanko/releases/tag/backend/v3.2.0"
   },
   "assets": [
     {
-      "name": "hanko_Windows_arm64.zip",
-      "size": 12940745,
-      "url": "https://github.com/teamhanko/hanko/releases/download/backend/v3.1.0/hanko_Windows_arm64.zip"
+      "name": "hanko_v3.2.0_Windows_arm64.zip",
+      "size": 13026695,
+      "url": "https://github.com/teamhanko/hanko/releases/download/backend/v3.2.0/hanko_v3.2.0_Windows_arm64.zip"
     },
     {
-      "name": "hanko_Darwin_arm64.tar.gz",
-      "size": 13422588,
-      "url": "https://github.com/teamhanko/hanko/releases/download/backend/v3.1.0/hanko_Darwin_arm64.tar.gz"
+      "name": "hanko_v3.2.0_Darwin_arm64.tar.gz",
+      "size": 13506140,
+      "url": "https://github.com/teamhanko/hanko/releases/download/backend/v3.2.0/hanko_v3.2.0_Darwin_arm64.tar.gz"
     },
     {
-      "name": "hanko_Windows_i386.zip",
-      "size": 13920166,
-      "url": "https://github.com/teamhanko/hanko/releases/download/backend/v3.1.0/hanko_Windows_i386.zip"
+      "name": "hanko_v3.2.0_Windows_i386.zip",
+      "size": 14008094,
+      "url": "https://github.com/teamhanko/hanko/releases/download/backend/v3.2.0/hanko_v3.2.0_Windows_i386.zip"
     },
     {
-      "name": "hanko_Darwin_x86_64.tar.gz",
-      "size": 14408566,
-      "url": "https://github.com/teamhanko/hanko/releases/download/backend/v3.1.0/hanko_Darwin_x86_64.tar.gz"
+      "name": "hanko_v3.2.0_Darwin_x86_64.tar.gz",
+      "size": 14494795,
+      "url": "https://github.com/teamhanko/hanko/releases/download/backend/v3.2.0/hanko_v3.2.0_Darwin_x86_64.tar.gz"
     },
     {
-      "name": "hanko_Linux_arm64.tar.gz",
-      "size": 12815897,
-      "url": "https://github.com/teamhanko/hanko/releases/download/backend/v3.1.0/hanko_Linux_arm64.tar.gz"
+      "name": "hanko_v3.2.0_Linux_arm64.tar.gz",
+      "size": 12894060,
+      "url": "https://github.com/teamhanko/hanko/releases/download/backend/v3.2.0/hanko_v3.2.0_Linux_arm64.tar.gz"
     },
     {
-      "name": "hanko_Linux_i386.tar.gz",
-      "size": 13318329,
-      "url": "https://github.com/teamhanko/hanko/releases/download/backend/v3.1.0/hanko_Linux_i386.tar.gz"
+      "name": "hanko_v3.2.0_Linux_i386.tar.gz",
+      "size": 13406031,
+      "url": "https://github.com/teamhanko/hanko/releases/download/backend/v3.2.0/hanko_v3.2.0_Linux_i386.tar.gz"
     }
   ],
   "pinned": false,

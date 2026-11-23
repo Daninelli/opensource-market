@@ -21,16 +21,16 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/orangehrm/orangehrm/zip/refs/heads/main",
   "release": {
-    "tag": "v5.9",
-    "name": "OrangeHRM 5.9",
-    "published": "2026-06-28T23:46:59Z",
-    "url": "https://github.com/orangehrm/orangehrm/releases/tag/v5.9"
+    "tag": "v5.9.1",
+    "name": "OrangeHRM 5.9.1",
+    "published": "2026-11-20T18:00:09Z",
+    "url": "https://github.com/orangehrm/orangehrm/releases/tag/v5.9.1"
   },
   "assets": [
     {
-      "name": "orangehrm-5.9.zip",
-      "size": 22228229,
-      "url": "https://github.com/orangehrm/orangehrm/releases/download/v5.9/orangehrm-5.9.zip"
+      "name": "orangehrm-5.9.1.zip",
+      "size": 22297485,
+      "url": "https://github.com/orangehrm/orangehrm/releases/download/v5.9.1/orangehrm-5.9.1.zip"
     }
   ],
   "pinned": false,

@@ -22,41 +22,46 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/yorukot/superfile/zip/refs/heads/main",
   "release": {
-    "tag": "v1.6.0",
-    "name": "v1.6.0",
-    "published": "2026-06-07T17:54:13Z",
-    "url": "https://github.com/yorukot/superfile/releases/tag/v1.6.0"
+    "tag": "v1.6.1",
+    "name": "v1.6.1",
+    "published": "2026-11-20T18:37:40Z",
+    "url": "https://github.com/yorukot/superfile/releases/tag/v1.6.1"
   },
   "assets": [
     {
-      "name": "superfile-windows-v1.6.0-arm64.zip",
-      "size": 12541266,
-      "url": "https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-windows-v1.6.0-arm64.zip"
+      "name": "superfile-windows-v1.6.1-arm64.zip",
+      "size": 13380717,
+      "url": "https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-windows-v1.6.1-arm64.zip"
     },
     {
-      "name": "superfile-darwin-v1.6.0-arm64.tar.gz",
-      "size": 13054051,
-      "url": "https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-darwin-v1.6.0-arm64.tar.gz"
+      "name": "superfile-darwin-v1.6.1-arm64.tar.gz",
+      "size": 14340066,
+      "url": "https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-darwin-v1.6.1-arm64.tar.gz"
     },
     {
-      "name": "superfile-windows-v1.6.0-amd64.zip",
-      "size": 13743007,
-      "url": "https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-windows-v1.6.0-amd64.zip"
+      "name": "superfile-windows-v1.6.1-amd64.zip",
+      "size": 14683054,
+      "url": "https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-windows-v1.6.1-amd64.zip"
     },
     {
-      "name": "superfile-darwin-v1.6.0-amd64.tar.gz",
-      "size": 13879956,
-      "url": "https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-darwin-v1.6.0-amd64.tar.gz"
+      "name": "superfile-darwin-v1.6.1-amd64.tar.gz",
+      "size": 15509974,
+      "url": "https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-darwin-v1.6.1-amd64.tar.gz"
     },
     {
-      "name": "superfile-linux-v1.6.0-arm64.tar.gz",
-      "size": 12358649,
-      "url": "https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-linux-v1.6.0-arm64.tar.gz"
+      "name": "superfile-linux-v1.6.1-arm64.tar.gz",
+      "size": 13245340,
+      "url": "https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-linux-v1.6.1-arm64.tar.gz"
     },
     {
-      "name": "superfile-linux-v1.6.0-amd64.tar.gz",
-      "size": 13490110,
-      "url": "https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-linux-v1.6.0-amd64.tar.gz"
+      "name": "superfile-linux-v1.6.1-amd64.tar.gz",
+      "size": 14463280,
+      "url": "https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-linux-v1.6.1-amd64.tar.gz"
+    },
+    {
+      "name": "superfile-docs-v1.6.1.tar.gz",
+      "size": 7909092,
+      "url": "https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-docs-v1.6.1.tar.gz"
     }
   ],
   "pinned": false,

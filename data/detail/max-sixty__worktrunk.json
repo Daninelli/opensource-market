@@ -20,41 +20,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/max-sixty/worktrunk/zip/refs/heads/main",
   "release": {
-    "tag": "v0.82.0",
-    "name": "0.82.0",
-    "published": "2026-11-14T21:20:53Z",
-    "url": "https://github.com/max-sixty/worktrunk/releases/tag/v0.82.0"
+    "tag": "v0.83.0",
+    "name": "0.83.0",
+    "published": "2026-11-21T16:47:15Z",
+    "url": "https://github.com/max-sixty/worktrunk/releases/tag/v0.83.0"
   },
   "assets": [
     {
       "name": "worktrunk-aarch64-apple-darwin.tar.xz",
-      "size": 6702380,
-      "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-aarch64-apple-darwin.tar.xz"
+      "size": 6759880,
+      "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.83.0/worktrunk-aarch64-apple-darwin.tar.xz"
     },
     {
       "name": "worktrunk-x86_64-apple-darwin.tar.xz",
-      "size": 7350672,
-      "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-x86_64-apple-darwin.tar.xz"
+      "size": 7390252,
+      "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.83.0/worktrunk-x86_64-apple-darwin.tar.xz"
     },
     {
       "name": "worktrunk-x86_64-pc-windows-msvc.zip",
-      "size": 17724940,
-      "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-x86_64-pc-windows-msvc.zip"
+      "size": 17869155,
+      "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.83.0/worktrunk-x86_64-pc-windows-msvc.zip"
     },
     {
       "name": "worktrunk-aarch64-unknown-linux-musl.tar.xz",
-      "size": 7503684,
-      "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-aarch64-unknown-linux-musl.tar.xz"
+      "size": 7515420,
+      "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.83.0/worktrunk-aarch64-unknown-linux-musl.tar.xz"
     },
     {
       "name": "worktrunk-x86_64-unknown-linux-musl.tar.xz",
-      "size": 8418872,
-      "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-x86_64-unknown-linux-musl.tar.xz"
+      "size": 8459472,
+      "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.83.0/worktrunk-x86_64-unknown-linux-musl.tar.xz"
     },
     {
       "name": "source.tar.gz",
-      "size": 4181990,
-      "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/source.tar.gz"
+      "size": 4227938,
+      "url": "https://github.com/max-sixty/worktrunk/releases/download/v0.83.0/source.tar.gz"
     }
   ],
   "pinned": false,

@@ -20,36 +20,36 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/o2sh/onefetch/zip/refs/heads/main",
   "release": {
-    "tag": "3.2.0",
-    "name": "3.2.0",
-    "published": "2026-10-31T12:55:36Z",
-    "url": "https://github.com/o2sh/onefetch/releases/tag/3.2.0"
+    "tag": "3.3.0",
+    "name": "3.3.0",
+    "published": "2026-11-21T20:03:27Z",
+    "url": "https://github.com/o2sh/onefetch/releases/tag/3.3.0"
   },
   "assets": [
     {
       "name": "onefetch-win.tar.gz",
-      "size": 5646196,
-      "url": "https://github.com/o2sh/onefetch/releases/download/3.2.0/onefetch-win.tar.gz"
+      "size": 5898455,
+      "url": "https://github.com/o2sh/onefetch/releases/download/3.3.0/onefetch-win.tar.gz"
     },
     {
       "name": "onefetch-setup.exe",
-      "size": 6329824,
-      "url": "https://github.com/o2sh/onefetch/releases/download/3.2.0/onefetch-setup.exe"
+      "size": 6577747,
+      "url": "https://github.com/o2sh/onefetch/releases/download/3.3.0/onefetch-setup.exe"
     },
     {
       "name": "onefetch_amd64.deb",
-      "size": 4469540,
-      "url": "https://github.com/o2sh/onefetch/releases/download/3.2.0/onefetch_amd64.deb"
+      "size": 4701080,
+      "url": "https://github.com/o2sh/onefetch/releases/download/3.3.0/onefetch_amd64.deb"
     },
     {
       "name": "onefetch-linux.tar.gz",
-      "size": 5742705,
-      "url": "https://github.com/o2sh/onefetch/releases/download/3.2.0/onefetch-linux.tar.gz"
+      "size": 5974595,
+      "url": "https://github.com/o2sh/onefetch/releases/download/3.3.0/onefetch-linux.tar.gz"
     },
     {
       "name": "onefetch-mac.tar.gz",
-      "size": 5212543,
-      "url": "https://github.com/o2sh/onefetch/releases/download/3.2.0/onefetch-mac.tar.gz"
+      "size": 5476232,
+      "url": "https://github.com/o2sh/onefetch/releases/download/3.3.0/onefetch-mac.tar.gz"
     }
   ],
   "pinned": false,

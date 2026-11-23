@@ -20,21 +20,21 @@
   "default_branch": "trunk",
   "download_url": "https://codeload.github.com/SeleniumHQ/docker-selenium/zip/refs/heads/trunk",
   "release": {
-    "tag": "4.52.0-20261101",
-    "name": "4.52.0-20261101",
-    "published": "2026-11-05T05:19:45Z",
-    "url": "https://github.com/SeleniumHQ/docker-selenium/releases/tag/4.52.0-20261101"
+    "tag": "4.53.0-20261120",
+    "name": "4.53.0-20261120",
+    "published": "2026-11-20T12:30:54Z",
+    "url": "https://github.com/SeleniumHQ/docker-selenium/releases/tag/4.53.0-20261120"
   },
   "assets": [
     {
       "name": "k8s_fullDistributed_secureIngress_externalCerts_ingressHostName_ingressTLSInline_autoScaling_scaledJob_existingKEDA_prefixSelenium_nodeChromium_enableTracing.yaml",
-      "size": 103958,
-      "url": "https://github.com/SeleniumHQ/docker-selenium/releases/download/4.52.0-20261101/k8s_fullDistributed_secureIngress_externalCerts_ingressHostName_ingressTLSInline_autoScaling_scaledJob_existingKEDA_prefixSelenium_nodeChromium_enableTracing.yaml"
+      "size": 103712,
+      "url": "https://github.com/SeleniumHQ/docker-selenium/releases/download/4.53.0-20261120/k8s_fullDistributed_secureIngress_externalCerts_ingressHostName_ingressTLSInline_autoScaling_scaledJob_existingKEDA_prefixSelenium_nodeChromium_enableTracing.yaml"
     },
     {
       "name": "k8s_prefixSelenium_basicAuth_secureServer_autoScaling_scaledJob_existingKEDA.yaml",
-      "size": 115171,
-      "url": "https://github.com/SeleniumHQ/docker-selenium/releases/download/4.52.0-20261101/k8s_prefixSelenium_basicAuth_secureServer_autoScaling_scaledJob_existingKEDA.yaml"
+      "size": 115331,
+      "url": "https://github.com/SeleniumHQ/docker-selenium/releases/download/4.53.0-20261120/k8s_prefixSelenium_basicAuth_secureServer_autoScaling_scaledJob_existingKEDA.yaml"
     }
   ],
   "pinned": false,

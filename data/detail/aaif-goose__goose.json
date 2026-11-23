@@ -21,51 +21,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/aaif-goose/goose/zip/refs/heads/main",
   "release": {
-    "tag": "v1.60.1",
-    "name": "v1.60.1",
-    "published": "2026-11-18T01:21:19Z",
-    "url": "https://github.com/aaif-goose/goose/releases/tag/v1.60.1"
+    "tag": "v1.60.2",
+    "name": "v1.60.2",
+    "published": "2026-11-20T06:18:55Z",
+    "url": "https://github.com/aaif-goose/goose/releases/tag/v1.60.2"
   },
   "assets": [
     {
       "name": "goose-acp-aarch64-apple-darwin.tar.gz",
-      "size": 9272458,
-      "url": "https://github.com/aaif-goose/goose/releases/download/v1.60.1/goose-acp-aarch64-apple-darwin.tar.gz"
+      "size": 9273787,
+      "url": "https://github.com/aaif-goose/goose/releases/download/v1.60.2/goose-acp-aarch64-apple-darwin.tar.gz"
     },
     {
       "name": "goose-acp-x86_64-pc-windows-msvc.zip",
-      "size": 9846290,
-      "url": "https://github.com/aaif-goose/goose/releases/download/v1.60.1/goose-acp-x86_64-pc-windows-msvc.zip"
+      "size": 9832133,
+      "url": "https://github.com/aaif-goose/goose/releases/download/v1.60.2/goose-acp-x86_64-pc-windows-msvc.zip"
     },
     {
       "name": "goose-acp-x86_64-apple-darwin.tar.gz",
-      "size": 9892014,
-      "url": "https://github.com/aaif-goose/goose/releases/download/v1.60.1/goose-acp-x86_64-apple-darwin.tar.gz"
+      "size": 9892504,
+      "url": "https://github.com/aaif-goose/goose/releases/download/v1.60.2/goose-acp-x86_64-apple-darwin.tar.gz"
     },
     {
       "name": "goose-x86_64-pc-windows-msvc.zip",
-      "size": 54424295,
-      "url": "https://github.com/aaif-goose/goose/releases/download/v1.60.1/goose-x86_64-pc-windows-msvc.zip"
+      "size": 54449330,
+      "url": "https://github.com/aaif-goose/goose/releases/download/v1.60.2/goose-x86_64-pc-windows-msvc.zip"
     },
     {
       "name": "goose-acp-aarch64-unknown-linux-gnu.tar.gz",
-      "size": 10343295,
-      "url": "https://github.com/aaif-goose/goose/releases/download/v1.60.1/goose-acp-aarch64-unknown-linux-gnu.tar.gz"
+      "size": 10343714,
+      "url": "https://github.com/aaif-goose/goose/releases/download/v1.60.2/goose-acp-aarch64-unknown-linux-gnu.tar.gz"
     },
     {
       "name": "goose-acp-x86_64-unknown-linux-gnu.tar.gz",
-      "size": 10911999,
-      "url": "https://github.com/aaif-goose/goose/releases/download/v1.60.1/goose-acp-x86_64-unknown-linux-gnu.tar.gz"
+      "size": 10911646,
+      "url": "https://github.com/aaif-goose/goose/releases/download/v1.60.2/goose-acp-x86_64-unknown-linux-gnu.tar.gz"
     },
     {
       "name": "Goose.zip",
-      "size": 184226988,
-      "url": "https://github.com/aaif-goose/goose/releases/download/v1.60.1/Goose.zip"
+      "size": 184230930,
+      "url": "https://github.com/aaif-goose/goose/releases/download/v1.60.2/Goose.zip"
     },
     {
       "name": "Goose_intel_mac.zip",
-      "size": 196366887,
-      "url": "https://github.com/aaif-goose/goose/releases/download/v1.60.1/Goose_intel_mac.zip"
+      "size": 196381822,
+      "url": "https://github.com/aaif-goose/goose/releases/download/v1.60.2/Goose_intel_mac.zip"
     }
   ],
   "pinned": false,

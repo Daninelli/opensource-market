@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/x-extends/vxe-table/zip/refs/heads/main",
   "release": {
-    "tag": "4.24.2",
-    "name": "v4.24.2",
-    "published": "2026-11-18T14:28:47Z",
-    "url": "https://github.com/x-extends/vxe-table/releases/tag/4.24.2"
+    "tag": "4.24.3",
+    "name": "v4.24.3",
+    "published": "2026-11-20T07:04:13Z",
+    "url": "https://github.com/x-extends/vxe-table/releases/tag/4.24.3"
   },
   "assets": [],
   "pinned": false,

@@ -21,10 +21,10 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/palantir/blueprint/zip/refs/heads/develop",
   "release": {
-    "tag": "@blueprintjs/table@6.3.3",
-    "name": "@blueprintjs/table@6.3.3",
-    "published": "2026-11-18T16:18:21Z",
-    "url": "https://github.com/palantir/blueprint/releases/tag/%40blueprintjs/table%406.3.3"
+    "tag": "@blueprintjs/docs-theme@6.2.11",
+    "name": "@blueprintjs/docs-theme@6.2.11",
+    "published": "2026-11-19T18:40:29Z",
+    "url": "https://github.com/palantir/blueprint/releases/tag/%40blueprintjs/docs-theme%406.2.11"
   },
   "assets": [],
   "pinned": false,

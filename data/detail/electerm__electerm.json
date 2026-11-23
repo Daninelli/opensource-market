@@ -21,41 +21,41 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/electerm/electerm/zip/refs/heads/master",
   "release": {
-    "tag": "v5.11.8",
-    "name": "v5.11.8",
-    "published": "2026-11-16T00:23:02Z",
-    "url": "https://github.com/electerm/electerm/releases/tag/v5.11.8"
+    "tag": "v5.12.6",
+    "name": "5.12.6",
+    "published": "2026-11-22T03:34:20Z",
+    "url": "https://github.com/electerm/electerm/releases/tag/v5.12.6"
   },
   "assets": [
     {
-      "name": "electerm-5.11.8-win7.tar.gz",
-      "size": 98384277,
-      "url": "https://github.com/electerm/electerm/releases/download/v5.11.8/electerm-5.11.8-win7.tar.gz"
+      "name": "electerm-5.12.6-mac10-x64.dmg",
+      "size": 93477217,
+      "url": "https://github.com/electerm/electerm/releases/download/v5.12.6/electerm-5.12.6-mac10-x64.dmg"
     },
     {
-      "name": "electerm-5.11.8-win-x64-installer.exe",
-      "size": 120196384,
-      "url": "https://github.com/electerm/electerm/releases/download/v5.11.8/electerm-5.11.8-win-x64-installer.exe"
+      "name": "electerm-5.12.6-win-x64-installer.exe",
+      "size": 120253327,
+      "url": "https://github.com/electerm/electerm/releases/download/v5.12.6/electerm-5.12.6-win-x64-installer.exe"
     },
     {
-      "name": "electerm-5.11.8-mac-arm64.dmg",
-      "size": 123942113,
-      "url": "https://github.com/electerm/electerm/releases/download/v5.11.8/electerm-5.11.8-mac-arm64.dmg"
+      "name": "electerm-5.12.6-mac-arm64.dmg",
+      "size": 124486222,
+      "url": "https://github.com/electerm/electerm/releases/download/v5.12.6/electerm-5.12.6-mac-arm64.dmg"
     },
     {
-      "name": "electerm-5.11.8-mac-x64.dmg",
-      "size": 129520033,
-      "url": "https://github.com/electerm/electerm/releases/download/v5.11.8/electerm-5.11.8-mac-x64.dmg"
+      "name": "electerm-5.12.6-win-x64-loose.tar.gz",
+      "size": 152658407,
+      "url": "https://github.com/electerm/electerm/releases/download/v5.12.6/electerm-5.12.6-win-x64-loose.tar.gz"
     },
     {
-      "name": "electerm-5.11.8-linux-aarch64-legacy.rpm",
-      "size": 63171032,
-      "url": "https://github.com/electerm/electerm/releases/download/v5.11.8/electerm-5.11.8-linux-aarch64-legacy.rpm"
+      "name": "electerm-5.12.6-linux-aarch64-legacy.rpm",
+      "size": 63207344,
+      "url": "https://github.com/electerm/electerm/releases/download/v5.12.6/electerm-5.12.6-linux-aarch64-legacy.rpm"
     },
     {
-      "name": "electerm-5.11.8-linux-aarch64.rpm",
-      "size": 63258117,
-      "url": "https://github.com/electerm/electerm/releases/download/v5.11.8/electerm-5.11.8-linux-aarch64.rpm"
+      "name": "electerm-5.12.6-linux-aarch64.rpm",
+      "size": 63273577,
+      "url": "https://github.com/electerm/electerm/releases/download/v5.12.6/electerm-5.12.6-linux-aarch64.rpm"
     }
   ],
   "pinned": false,

@@ -22,21 +22,21 @@
   "default_branch": "6.x-dev",
   "download_url": "https://codeload.github.com/matomo-org/matomo/zip/refs/heads/6.x-dev",
   "release": {
-    "tag": "5.14.3",
-    "name": "5.14.3",
-    "published": "2026-11-16T20:01:20Z",
-    "url": "https://github.com/matomo-org/matomo/releases/tag/5.14.3"
+    "tag": "6.0.0",
+    "name": "6.0.0",
+    "published": "2026-11-23T09:49:11Z",
+    "url": "https://github.com/matomo-org/matomo/releases/tag/6.0.0"
   },
   "assets": [
     {
-      "name": "matomo-5.14.3.tar.gz",
-      "size": 22758118,
-      "url": "https://github.com/matomo-org/matomo/releases/download/5.14.3/matomo-5.14.3.tar.gz"
+      "name": "matomo-6.0.0.tar.gz",
+      "size": 23300495,
+      "url": "https://github.com/matomo-org/matomo/releases/download/6.0.0/matomo-6.0.0.tar.gz"
     },
     {
-      "name": "piwik-5.14.3.tar.gz",
-      "size": 22760030,
-      "url": "https://github.com/matomo-org/matomo/releases/download/5.14.3/piwik-5.14.3.tar.gz"
+      "name": "piwik-6.0.0.tar.gz",
+      "size": 23301291,
+      "url": "https://github.com/matomo-org/matomo/releases/download/6.0.0/piwik-6.0.0.tar.gz"
     }
   ],
   "pinned": false,

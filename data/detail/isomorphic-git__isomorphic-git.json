@@ -20,10 +20,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/isomorphic-git/isomorphic-git/zip/refs/heads/main",
   "release": {
-    "tag": "v1.44.17",
-    "name": "v1.44.17",
-    "published": "2026-11-18T09:13:38Z",
-    "url": "https://github.com/isomorphic-git/isomorphic-git/releases/tag/v1.44.17"
+    "tag": "v1.44.18",
+    "name": "v1.44.18",
+    "published": "2026-11-21T11:33:12Z",
+    "url": "https://github.com/isomorphic-git/isomorphic-git/releases/tag/v1.44.18"
   },
   "assets": [],
   "pinned": false,

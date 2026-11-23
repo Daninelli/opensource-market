@@ -20,36 +20,36 @@
   "default_branch": "develop",
   "download_url": "https://codeload.github.com/floccusaddon/floccus/zip/refs/heads/develop",
   "release": {
-    "tag": "v5.13.0",
-    "name": "v5.13.0",
-    "published": "2026-11-08T10:55:35Z",
-    "url": "https://github.com/floccusaddon/floccus/releases/tag/v5.13.0"
+    "tag": "v5.14.0",
+    "name": "v5.14.0",
+    "published": "2026-11-21T08:31:07Z",
+    "url": "https://github.com/floccusaddon/floccus/releases/tag/v5.14.0"
   },
   "assets": [
     {
-      "name": "floccus-build-v5.13.0.apk",
-      "size": 12698670,
-      "url": "https://github.com/floccusaddon/floccus/releases/download/v5.13.0/floccus-build-v5.13.0.apk"
+      "name": "floccus-build-v5.14.0.apk",
+      "size": 12753501,
+      "url": "https://github.com/floccusaddon/floccus/releases/download/v5.14.0/floccus-build-v5.14.0.apk"
     },
     {
-      "name": "floccus-build-v5.13.0-chrome.zip",
-      "size": 14673227,
-      "url": "https://github.com/floccusaddon/floccus/releases/download/v5.13.0/floccus-build-v5.13.0-chrome.zip"
+      "name": "floccus-build-v5.14.0-firefox.zip",
+      "size": 9101269,
+      "url": "https://github.com/floccusaddon/floccus/releases/download/v5.14.0/floccus-build-v5.14.0-firefox.zip"
     },
     {
-      "name": "floccus-build-v5.13.0-firefox.zip",
-      "size": 14673282,
-      "url": "https://github.com/floccusaddon/floccus/releases/download/v5.13.0/floccus-build-v5.13.0-firefox.zip"
+      "name": "floccus-build-v5.14.0-chrome.zip",
+      "size": 15018036,
+      "url": "https://github.com/floccusaddon/floccus/releases/download/v5.14.0/floccus-build-v5.14.0-chrome.zip"
     },
     {
-      "name": "floccus-build-v5.13.0.xpi",
-      "size": 14673282,
-      "url": "https://github.com/floccusaddon/floccus/releases/download/v5.13.0/floccus-build-v5.13.0.xpi"
+      "name": "floccus-build-v5.14.0.xpi",
+      "size": 15018072,
+      "url": "https://github.com/floccusaddon/floccus/releases/download/v5.14.0/floccus-build-v5.14.0.xpi"
     },
     {
-      "name": "floccus-build-v5.13.0.crx",
-      "size": 14673820,
-      "url": "https://github.com/floccusaddon/floccus/releases/download/v5.13.0/floccus-build-v5.13.0.crx"
+      "name": "floccus-build-v5.14.0.crx",
+      "size": 15018629,
+      "url": "https://github.com/floccusaddon/floccus/releases/download/v5.14.0/floccus-build-v5.14.0.crx"
     }
   ],
   "pinned": false,

@@ -21,36 +21,36 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/rorkai/App-Store-Connect-CLI/zip/refs/heads/main",
   "release": {
-    "tag": "7.0.0",
-    "name": "7.0.0",
-    "published": "2026-11-17T12:33:15Z",
-    "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/tag/7.0.0"
+    "tag": "7.2.0",
+    "name": "7.2.0",
+    "published": "2026-11-22T20:41:18Z",
+    "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/tag/7.2.0"
   },
   "assets": [
     {
-      "name": "asc_7.0.0_macOS_arm64",
-      "size": 65068896,
-      "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/download/7.0.0/asc_7.0.0_macOS_arm64"
+      "name": "asc_7.2.0_macOS_arm64",
+      "size": 65430496,
+      "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/download/7.2.0/asc_7.2.0_macOS_arm64"
     },
     {
-      "name": "asc_7.0.0_windows_amd64.exe",
-      "size": 66897408,
-      "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/download/7.0.0/asc_7.0.0_windows_amd64.exe"
+      "name": "asc_7.2.0_windows_amd64.exe",
+      "size": 67302912,
+      "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/download/7.2.0/asc_7.2.0_windows_amd64.exe"
     },
     {
-      "name": "asc_7.0.0_macOS_amd64",
-      "size": 72590368,
-      "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/download/7.0.0/asc_7.0.0_macOS_amd64"
+      "name": "asc_7.2.0_macOS_amd64",
+      "size": 72987152,
+      "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/download/7.2.0/asc_7.2.0_macOS_amd64"
     },
     {
-      "name": "asc_7.0.0_linux_arm64",
-      "size": 59637920,
-      "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/download/7.0.0/asc_7.0.0_linux_arm64"
+      "name": "asc_7.2.0_linux_arm64",
+      "size": 60031136,
+      "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/download/7.2.0/asc_7.2.0_linux_arm64"
     },
     {
-      "name": "asc_7.0.0_linux_amd64",
-      "size": 65941664,
-      "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/download/7.0.0/asc_7.0.0_linux_amd64"
+      "name": "asc_7.2.0_linux_amd64",
+      "size": 66338976,
+      "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/download/7.2.0/asc_7.2.0_linux_amd64"
     }
   ],
   "pinned": false,

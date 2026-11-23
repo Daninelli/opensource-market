@@ -22,51 +22,51 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/agalwood/Motrix/zip/refs/heads/main",
   "release": {
-    "tag": "v2.4.3",
-    "name": "v2.4.3",
-    "published": "2026-11-17T03:17:03Z",
-    "url": "https://github.com/agalwood/Motrix/releases/tag/v2.4.3"
+    "tag": "v2.4.5",
+    "name": "v2.4.5",
+    "published": "2026-11-20T06:00:20Z",
+    "url": "https://github.com/agalwood/Motrix/releases/tag/v2.4.5"
   },
   "assets": [
     {
-      "name": "Motrix-Setup-2.4.3-arm64.exe",
-      "size": 127416808,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.3/Motrix-Setup-2.4.3-arm64.exe"
+      "name": "Motrix-Setup-2.4.5-arm64.exe",
+      "size": 127443216,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.5/Motrix-Setup-2.4.5-arm64.exe"
     },
     {
-      "name": "Motrix-Setup-2.4.3.exe",
-      "size": 133386225,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.3/Motrix-Setup-2.4.3.exe"
+      "name": "Motrix-Setup-2.4.5.exe",
+      "size": 133412120,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.5/Motrix-Setup-2.4.5.exe"
     },
     {
-      "name": "Motrix-2.4.3-arm64.dmg",
-      "size": 138678015,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.3/Motrix-2.4.3-arm64.dmg"
+      "name": "Motrix-2.4.5-arm64.dmg",
+      "size": 138715621,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.5/Motrix-2.4.5-arm64.dmg"
     },
     {
-      "name": "Motrix-2.4.3-x64.dmg",
-      "size": 146000603,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.3/Motrix-2.4.3-x64.dmg"
+      "name": "Motrix-2.4.5-x64.dmg",
+      "size": 146011642,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.5/Motrix-2.4.5-x64.dmg"
     },
     {
-      "name": "Motrix-Native-Host-2.4.3-linux-arm64.tar.gz",
-      "size": 391952,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.3/Motrix-Native-Host-2.4.3-linux-arm64.tar.gz"
+      "name": "Motrix-Native-Host-2.4.5-linux-arm64.tar.gz",
+      "size": 391951,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.5/Motrix-Native-Host-2.4.5-linux-arm64.tar.gz"
     },
     {
-      "name": "Motrix-Native-Host-2.4.3-linux-x64.tar.gz",
+      "name": "Motrix-Native-Host-2.4.5-linux-x64.tar.gz",
       "size": 416352,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.3/Motrix-Native-Host-2.4.3-linux-x64.tar.gz"
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.5/Motrix-Native-Host-2.4.5-linux-x64.tar.gz"
     },
     {
-      "name": "Motrix-2.4.3-fnos-x64.fpk",
-      "size": 60016707,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.3/Motrix-2.4.3-fnos-x64.fpk"
+      "name": "Motrix-2.4.5-fnos-x64.fpk",
+      "size": 60026939,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.5/Motrix-2.4.5-fnos-x64.fpk"
     },
     {
-      "name": "Motrix-2.4.3-fnos-arm64.fpk",
-      "size": 60219254,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.3/Motrix-2.4.3-fnos-arm64.fpk"
+      "name": "Motrix-2.4.5-fnos-arm64.fpk",
+      "size": 60242137,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.4.5/Motrix-2.4.5-fnos-arm64.fpk"
     }
   ],
   "pinned": false,

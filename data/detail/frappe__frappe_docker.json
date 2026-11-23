@@ -23,10 +23,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/frappe/frappe_docker/zip/refs/heads/main",
   "release": {
-    "tag": "v4.2.0",
-    "name": "v4.2.0",
-    "published": "2026-10-30T11:26:25Z",
-    "url": "https://github.com/frappe/frappe_docker/releases/tag/v4.2.0"
+    "tag": "v4.3.0",
+    "name": "v4.3.0",
+    "published": "2026-11-20T11:21:31Z",
+    "url": "https://github.com/frappe/frappe_docker/releases/tag/v4.3.0"
   },
   "assets": [],
   "pinned": false,

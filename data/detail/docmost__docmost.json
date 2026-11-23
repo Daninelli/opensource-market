@@ -21,21 +21,21 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/docmost/docmost/zip/refs/heads/main",
   "release": {
-    "tag": "v0.97.0",
-    "name": "v0.97.0",
-    "published": "2026-10-25T14:12:25Z",
-    "url": "https://github.com/docmost/docmost/releases/tag/v0.97.0"
+    "tag": "v0.98.0",
+    "name": "v0.98.0",
+    "published": "2026-11-20T22:04:19Z",
+    "url": "https://github.com/docmost/docmost/releases/tag/v0.98.0"
   },
   "assets": [
     {
       "name": "docmost-arm64.docker.tar.gz",
-      "size": 219344845,
-      "url": "https://github.com/docmost/docmost/releases/download/v0.97.0/docmost-arm64.docker.tar.gz"
+      "size": 132191872,
+      "url": "https://github.com/docmost/docmost/releases/download/v0.98.0/docmost-arm64.docker.tar.gz"
     },
     {
       "name": "docmost-amd64.docker.tar.gz",
-      "size": 219628346,
-      "url": "https://github.com/docmost/docmost/releases/download/v0.97.0/docmost-amd64.docker.tar.gz"
+      "size": 132339967,
+      "url": "https://github.com/docmost/docmost/releases/download/v0.98.0/docmost-amd64.docker.tar.gz"
     }
   ],
   "pinned": false,

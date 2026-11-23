@@ -20,26 +20,41 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/pacifio/atlas/zip/refs/heads/main",
   "release": {
-    "tag": "alpha-0.4.1-org-agent",
-    "name": "alpha-0.4.1-org-agent",
-    "published": "2026-11-03T07:19:50Z",
-    "url": "https://github.com/tryatlas/atlas/releases/tag/alpha-0.4.1-org-agent"
+    "tag": "alpha-0.5.1",
+    "name": "alpha: v0.5.1",
+    "published": "2026-11-21T12:48:46Z",
+    "url": "https://github.com/tryatlas/atlas/releases/tag/alpha-0.5.1"
   },
   "assets": [
     {
-      "name": "Atlas_0.4.1_aarch64.dmg",
-      "size": 88543980,
-      "url": "https://github.com/tryatlas/atlas/releases/download/alpha-0.4.1-org-agent/Atlas_0.4.1_aarch64.dmg"
+      "name": "Atlas_0.5.1_aarch64.dmg",
+      "size": 88003673,
+      "url": "https://github.com/tryatlas/atlas/releases/download/alpha-0.5.1/Atlas_0.5.1_aarch64.dmg"
     },
     {
-      "name": "Atlas_0.4.1_x64_en-US.msi",
-      "size": 92643328,
-      "url": "https://github.com/tryatlas/atlas/releases/download/alpha-0.4.1-org-agent/Atlas_0.4.1_x64_en-US.msi"
+      "name": "Atlas_0.5.1_x64_en-US.msi",
+      "size": 93184000,
+      "url": "https://github.com/tryatlas/atlas/releases/download/alpha-0.5.1/Atlas_0.5.1_x64_en-US.msi"
     },
     {
-      "name": "Atlas_0.4.1_x86_64.dmg",
-      "size": 98284339,
-      "url": "https://github.com/tryatlas/atlas/releases/download/alpha-0.4.1-org-agent/Atlas_0.4.1_x86_64.dmg"
+      "name": "Atlas_0.5.1_x86_64.dmg",
+      "size": 98924682,
+      "url": "https://github.com/tryatlas/atlas/releases/download/alpha-0.5.1/Atlas_0.5.1_x86_64.dmg"
+    },
+    {
+      "name": "tryatlas_0.5.1_arm64.deb",
+      "size": 62903922,
+      "url": "https://github.com/tryatlas/atlas/releases/download/alpha-0.5.1/tryatlas_0.5.1_arm64.deb"
+    },
+    {
+      "name": "tryatlas_0.5.1_amd64.deb",
+      "size": 66845412,
+      "url": "https://github.com/tryatlas/atlas/releases/download/alpha-0.5.1/tryatlas_0.5.1_amd64.deb"
+    },
+    {
+      "name": "tryatlas-bin-0.5.1-1-x86_64.pkg.tar.zst",
+      "size": 85782509,
+      "url": "https://github.com/tryatlas/atlas/releases/download/alpha-0.5.1/tryatlas-bin-0.5.1-1-x86_64.pkg.tar.zst"
     }
   ],
   "pinned": false,

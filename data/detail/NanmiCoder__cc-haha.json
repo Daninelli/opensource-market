@@ -20,46 +20,46 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/NanmiCoder/cc-haha/zip/refs/heads/main",
   "release": {
-    "tag": "v0.7.8",
-    "name": "Claude Code Haha v0.7.8",
-    "published": "2026-11-10T07:18:24Z",
-    "url": "https://github.com/NanmiCoder/cc-haha/releases/tag/v0.7.8"
+    "tag": "v0.7.9",
+    "name": "Claude Code Haha v0.7.9",
+    "published": "2026-11-20T10:57:32Z",
+    "url": "https://github.com/NanmiCoder/cc-haha/releases/tag/v0.7.9"
   },
   "assets": [
     {
-      "name": "Claude-Code-Haha-0.7.8-Windows-arm64-Setup.exe",
-      "size": 227906940,
-      "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.7.8/Claude-Code-Haha-0.7.8-Windows-arm64-Setup.exe"
+      "name": "Claude-Code-Haha-0.7.9-Windows-arm64-Setup.exe",
+      "size": 227957946,
+      "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.7.9/Claude-Code-Haha-0.7.9-Windows-arm64-Setup.exe"
     },
     {
-      "name": "Claude-Code-Haha-0.7.8-Windows-x64-Setup.exe",
-      "size": 230611497,
-      "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.7.8/Claude-Code-Haha-0.7.8-Windows-x64-Setup.exe"
+      "name": "Claude-Code-Haha-0.7.9-Windows-x64-Setup.exe",
+      "size": 230662994,
+      "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.7.9/Claude-Code-Haha-0.7.9-Windows-x64-Setup.exe"
     },
     {
-      "name": "Claude-Code-Haha-0.7.8-macOS-arm64-update.zip",
-      "size": 247736940,
-      "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.7.8/Claude-Code-Haha-0.7.8-macOS-arm64-update.zip"
+      "name": "Claude-Code-Haha-0.7.9-macOS-arm64-update.zip",
+      "size": 247793979,
+      "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.7.9/Claude-Code-Haha-0.7.9-macOS-arm64-update.zip"
     },
     {
-      "name": "Claude-Code-Haha-0.7.8-macOS-Apple-Silicon.dmg",
-      "size": 256192267,
-      "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.7.8/Claude-Code-Haha-0.7.8-macOS-Apple-Silicon.dmg"
+      "name": "Claude-Code-Haha-0.7.9-macOS-Apple-Silicon.dmg",
+      "size": 256220766,
+      "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.7.9/Claude-Code-Haha-0.7.9-macOS-Apple-Silicon.dmg"
     },
     {
-      "name": "Claude-Code-Haha-0.7.8-Linux-arm64.rpm",
-      "size": 201913557,
-      "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.7.8/Claude-Code-Haha-0.7.8-Linux-arm64.rpm"
+      "name": "Claude-Code-Haha-0.7.9-Linux-arm64.rpm",
+      "size": 201958425,
+      "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.7.9/Claude-Code-Haha-0.7.9-Linux-arm64.rpm"
     },
     {
-      "name": "Claude-Code-Haha-0.7.8-Linux-x64.rpm",
-      "size": 212428265,
-      "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.7.8/Claude-Code-Haha-0.7.8-Linux-x64.rpm"
+      "name": "Claude-Code-Haha-0.7.9-Linux-x64.rpm",
+      "size": 212489701,
+      "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.7.9/Claude-Code-Haha-0.7.9-Linux-x64.rpm"
     },
     {
-      "name": "cc-haha-mobile-0.1.4-0f25d12c-932b-471c-8577-7aeb18f53caf.apk",
-      "size": 187123216,
-      "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.7.8/cc-haha-mobile-0.1.4-0f25d12c-932b-471c-8577-7aeb18f53caf.apk"
+      "name": "cc-haha-mobile-0.1.5-917252c8-4702-4785-98e0-0881c43a5561.apk",
+      "size": 187126456,
+      "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.7.9/cc-haha-mobile-0.1.5-917252c8-4702-4785-98e0-0881c43a5561.apk"
     }
   ],
   "pinned": false,

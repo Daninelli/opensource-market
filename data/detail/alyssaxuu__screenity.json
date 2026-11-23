@@ -21,16 +21,16 @@
   "default_branch": "master",
   "download_url": "https://codeload.github.com/alyssaxuu/screenity/zip/refs/heads/master",
   "release": {
-    "tag": "v4.7.2",
-    "name": "Screenity 4.7.2",
-    "published": "2026-10-25T11:04:48Z",
-    "url": "https://github.com/alyssaxuu/screenity/releases/tag/v4.7.2"
+    "tag": "v4.8.0",
+    "name": "Screenity 4.8.0",
+    "published": "2026-11-20T16:39:29Z",
+    "url": "https://github.com/alyssaxuu/screenity/releases/tag/v4.8.0"
   },
   "assets": [
     {
       "name": "build.zip",
-      "size": 11579652,
-      "url": "https://github.com/alyssaxuu/screenity/releases/download/v4.7.2/build.zip"
+      "size": 12358102,
+      "url": "https://github.com/alyssaxuu/screenity/releases/download/v4.8.0/build.zip"
     }
   ],
   "pinned": false,

@@ -21,10 +21,10 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/kanboard/kanboard/zip/refs/heads/main",
   "release": {
-    "tag": "v1.2.57",
-    "name": "Kanboard 1.2.57",
-    "published": "2026-10-31T00:52:06Z",
-    "url": "https://github.com/kanboard/kanboard/releases/tag/v1.2.57"
+    "tag": "v1.2.58",
+    "name": "Kanboard 1.2.58",
+    "published": "2026-11-21T03:39:09Z",
+    "url": "https://github.com/kanboard/kanboard/releases/tag/v1.2.58"
   },
   "assets": [],
   "pinned": false,

@@ -22,31 +22,31 @@
   "default_branch": "main",
   "download_url": "https://codeload.github.com/civitai/civitai/zip/refs/heads/main",
   "release": {
-    "tag": "feed-go-v0.0.30",
-    "name": "feed-go-v0.0.30",
-    "published": "2026-11-19T13:06:29Z",
-    "url": "https://github.com/civitai/civitai/releases/tag/feed-go-v0.0.30"
+    "tag": "feed-go-v0.0.41",
+    "name": "feed-go-v0.0.41",
+    "published": "2026-11-23T05:38:21Z",
+    "url": "https://github.com/civitai/civitai/releases/tag/feed-go-v0.0.41"
   },
   "assets": [
     {
-      "name": "feed-go-v0.0.30-darwin-arm64",
-      "size": 29015298,
-      "url": "https://github.com/civitai/civitai/releases/download/feed-go-v0.0.30/feed-go-v0.0.30-darwin-arm64"
+      "name": "feed-go-v0.0.41-darwin-arm64",
+      "size": 29371698,
+      "url": "https://github.com/civitai/civitai/releases/download/feed-go-v0.0.41/feed-go-v0.0.41-darwin-arm64"
     },
     {
-      "name": "feed-go-v0.0.30-darwin-amd64",
-      "size": 31084464,
-      "url": "https://github.com/civitai/civitai/releases/download/feed-go-v0.0.30/feed-go-v0.0.30-darwin-amd64"
+      "name": "feed-go-v0.0.41-darwin-amd64",
+      "size": 31466752,
+      "url": "https://github.com/civitai/civitai/releases/download/feed-go-v0.0.41/feed-go-v0.0.41-darwin-amd64"
     },
     {
-      "name": "feed-go-v0.0.30-linux-arm64",
-      "size": 28049570,
-      "url": "https://github.com/civitai/civitai/releases/download/feed-go-v0.0.30/feed-go-v0.0.30-linux-arm64"
+      "name": "feed-go-v0.0.41-linux-arm64",
+      "size": 28377250,
+      "url": "https://github.com/civitai/civitai/releases/download/feed-go-v0.0.41/feed-go-v0.0.41-linux-arm64"
     },
     {
-      "name": "feed-go-v0.0.30-linux-amd64",
-      "size": 30269602,
-      "url": "https://github.com/civitai/civitai/releases/download/feed-go-v0.0.30/feed-go-v0.0.30-linux-amd64"
+      "name": "feed-go-v0.0.41-linux-amd64",
+      "size": 30642338,
+      "url": "https://github.com/civitai/civitai/releases/download/feed-go-v0.0.41/feed-go-v0.0.41-linux-amd64"
     }
   ],
   "pinned": false,
