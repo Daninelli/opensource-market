@@ -9,7 +9,7 @@
   "subcategory_slug": "agent",
   "license": "CC-BY-4.0",
   "license_category": "unknown",
-  "archived": false,
+  "archived": true,
   "tech_stack": [
     "Python"
   ],
@@ -31,5 +31,11 @@
   "pin_note": null,
   "submitted_by": null,
   "gitee": null,
-  "changes": []
+  "changes": [
+    {
+      "date": "2026-11-21",
+      "repo": "microsoft/autogen",
+      "type": "archived"
+    }
+  ]
 }

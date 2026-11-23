@@ -16,7 +16,7 @@
   ],
   "deploy_type": "前端源码 / Docker 部署",
   "platform": "github",
-  "updated_at": "2026-11-19T09:02:52Z",
+  "updated_at": "2026-11-21T09:24:28Z",
   "added_at": "2026-10-19T23:57:19+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/GitbookIO/gitbook/zip/refs/heads/main",

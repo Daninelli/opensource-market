@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23T11:17:42.754Z",
-  "refreshed_at": "2026-11-19T11:40:29.424Z",
+  "generated_at": "2026-11-23T11:26:32.731Z",
+  "refreshed_at": "2026-11-22T11:24:42.438Z",
   "days": 7,
   "total_projects": 1717,
   "count": 2,
@@ -29,8 +29,8 @@
       "subcategory": "下载工具",
       "note_zh": "基于 aria2 的全能下载管理器，支持 HTTP/FTP/BT/磁力，跨平台替代 IDM",
       "license": "MIT",
-      "stars": 58536,
-      "updated_at": "2026-11-19T16:14:09Z",
+      "stars": 58672,
+      "updated_at": "2026-11-22T10:28:16Z",
       "download_url": "https://codeload.github.com/agalwood/Motrix/zip/refs/heads/main",
       "platform": "github",
       "submitted_by": null
