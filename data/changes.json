@@ -1,6 +1,6 @@
 {
   "note": "由 tools/track-changes.mjs 自动维护；只追加变动记录，不重新计算历史",
-  "updated_at": "2026-11-21T11:01:35.944Z",
+  "updated_at": "2026-11-23T12:38:36.492Z",
   "events": [
     {
       "date": "2026-11-21",
@@ -10404,6 +10404,12 @@
     },
     "agalwood/Motrix": {
       "license": "MIT",
+      "pinned": false,
+      "pin_label": null,
+      "archived": false
+    },
+    "kunkundi/crossdesk": {
+      "license": "GPL-3.0",
       "pinned": false,
       "pin_label": null,
       "archived": false

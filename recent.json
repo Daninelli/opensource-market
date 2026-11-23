@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23T11:26:32.731Z",
-  "refreshed_at": "2026-11-22T11:24:42.438Z",
+  "generated_at": "2026-11-23T12:38:36.215Z",
+  "refreshed_at": "2026-11-23T12:38:36.037Z",
   "days": 7,
   "total_projects": 1717,
   "count": 2,
@@ -14,7 +14,7 @@
       "subcategory": "效率工具",
       "note_zh": "轻量跨平台远程桌面，覆盖桌面/移动/网页/CLI，支持 DeskHub 多机并发管理",
       "license": "GPL-3.0",
-      "stars": 6388,
+      "stars": 6440,
       "updated_at": "2026-11-23T10:38:31Z",
       "download_url": "https://codeload.github.com/kunkundi/crossdesk/zip/refs/heads/mcp",
       "platform": "github",
@@ -29,8 +29,8 @@
       "subcategory": "下载工具",
       "note_zh": "基于 aria2 的全能下载管理器，支持 HTTP/FTP/BT/磁力，跨平台替代 IDM",
       "license": "MIT",
-      "stars": 58672,
-      "updated_at": "2026-11-22T10:28:16Z",
+      "stars": 58719,
+      "updated_at": "2026-11-23T10:41:15Z",
       "download_url": "https://codeload.github.com/agalwood/Motrix/zip/refs/heads/main",
       "platform": "github",
       "submitted_by": null
