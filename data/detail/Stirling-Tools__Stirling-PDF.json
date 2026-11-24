@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-11-23T12:37:30Z",
+  "updated_at": "2026-11-24T13:22:17Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/Stirling-Tools/Stirling-PDF/zip/refs/heads/main",

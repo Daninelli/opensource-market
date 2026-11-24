@@ -17,7 +17,7 @@
   ],
   "deploy_type": "源码 / 自托管服务",
   "platform": "github",
-  "updated_at": "2026-11-20T12:06:38Z",
+  "updated_at": "2026-11-23T13:12:48Z",
   "added_at": "2026-10-19T12:18:42.273Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/wagtail/wagtail/zip/refs/heads/main",

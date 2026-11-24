@@ -15,7 +15,7 @@
   ],
   "deploy_type": "源码 / Docker",
   "platform": "github",
-  "updated_at": "2026-11-22T20:36:30Z",
+  "updated_at": "2026-11-23T14:51:56Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/assafelovic/gpt-researcher/zip/refs/heads/main",

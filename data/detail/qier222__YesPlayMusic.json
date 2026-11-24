@@ -7,7 +7,7 @@
   "category_slug": "media",
   "subcategory": "影音媒体",
   "subcategory_slug": "streaming",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "license_category": "open",
   "archived": false,
   "tech_stack": [
@@ -17,10 +17,10 @@
   ],
   "deploy_type": "客户端 / 桌面应用",
   "platform": "github",
-  "updated_at": "2026-10-10T11:05:47Z",
+  "updated_at": "2026-11-24T09:02:19Z",
   "added_at": "2026-10-19T12:18:42.273Z",
-  "default_branch": "master",
-  "download_url": "https://codeload.github.com/qier222/YesPlayMusic/zip/refs/heads/master",
+  "default_branch": "main",
+  "download_url": "https://codeload.github.com/qier222/YesPlayMusic/zip/refs/heads/main",
   "release": {
     "tag": "v0.4.11",
     "name": "0.4.11",
@@ -74,5 +74,13 @@
   "pin_note": null,
   "submitted_by": null,
   "gitee": null,
-  "changes": []
+  "changes": [
+    {
+      "date": "2026-11-24",
+      "repo": "qier222/YesPlayMusic",
+      "type": "license",
+      "from": "MIT",
+      "to": "GPL-3.0"
+    }
+  ]
 }

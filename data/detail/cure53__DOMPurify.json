@@ -15,7 +15,7 @@
   ],
   "deploy_type": "依赖库",
   "platform": "github",
-  "updated_at": "2026-11-22T14:25:38Z",
+  "updated_at": "2026-11-24T10:57:02Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/cure53/DOMPurify/zip/refs/heads/main",

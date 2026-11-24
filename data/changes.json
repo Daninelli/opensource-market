@@ -1,7 +1,14 @@
 {
   "note": "由 tools/track-changes.mjs 自动维护；只追加变动记录，不重新计算历史",
-  "updated_at": "2026-11-23T12:38:36.492Z",
+  "updated_at": "2026-11-24T13:43:18.869Z",
   "events": [
+    {
+      "date": "2026-11-24",
+      "repo": "qier222/YesPlayMusic",
+      "type": "license",
+      "from": "MIT",
+      "to": "GPL-3.0"
+    },
     {
       "date": "2026-11-21",
       "repo": "microsoft/autogen",
@@ -3713,7 +3720,7 @@
       "archived": false
     },
     "qier222/YesPlayMusic": {
-      "license": "MIT",
+      "license": "GPL-3.0",
       "pinned": false,
       "pin_label": null,
       "archived": false

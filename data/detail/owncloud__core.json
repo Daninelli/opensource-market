@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 传统部署",
   "platform": "github",
-  "updated_at": "2026-11-23T10:12:55Z",
+  "updated_at": "2026-11-24T03:29:13Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/owncloud/core/zip/refs/heads/master",
