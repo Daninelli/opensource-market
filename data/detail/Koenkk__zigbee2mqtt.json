@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-11-24T20:35:57Z",
+  "updated_at": "2026-11-25T20:33:29Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/Koenkk/zigbee2mqtt/zip/refs/heads/master",

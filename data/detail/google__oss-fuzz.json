@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker 部署 / 源码",
   "platform": "github",
-  "updated_at": "2026-11-25T11:26:38Z",
+  "updated_at": "2026-11-26T10:11:45Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/google/oss-fuzz/zip/refs/heads/master",
