@@ -15,7 +15,7 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-11-25T17:52:57Z",
+  "updated_at": "2026-11-27T00:19:53Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/huginn/huginn/zip/refs/heads/master",

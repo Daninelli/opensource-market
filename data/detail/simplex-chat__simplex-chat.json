@@ -16,10 +16,10 @@
   ],
   "deploy_type": "客户端 / 桌面应用",
   "platform": "github",
-  "updated_at": "2026-11-26T12:00:02Z",
+  "updated_at": "2026-11-27T10:58:16Z",
   "added_at": "2026-10-18T00:03:43+08:00",
-  "default_branch": "stable",
-  "download_url": "https://codeload.github.com/simplex-chat/simplex-chat/zip/refs/heads/stable",
+  "default_branch": "master",
+  "download_url": "https://codeload.github.com/simplex-chat/simplex-chat/zip/refs/heads/master",
   "release": {
     "tag": "v7.1.4",
     "name": "v7.1.4",
