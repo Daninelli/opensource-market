@@ -16,7 +16,7 @@
   ],
   "deploy_type": "Docker",
   "platform": "github",
-  "updated_at": "2026-11-27T11:12:11Z",
+  "updated_at": "2026-11-28T07:11:09Z",
   "added_at": "2026-10-18T12:28:58.583Z",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/bitwarden/server/zip/refs/heads/main",

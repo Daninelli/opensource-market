@@ -9,14 +9,14 @@
   "subcategory_slug": "agent",
   "license": "AGPL-3.0",
   "license_category": "open",
-  "archived": false,
+  "archived": true,
   "tech_stack": [
     "Python",
     "PyTorch"
   ],
   "deploy_type": "命令行 / 源码",
   "platform": "github",
-  "updated_at": "2026-11-24T00:05:25Z",
+  "updated_at": "2026-11-28T10:32:25Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "master",
   "download_url": "https://codeload.github.com/p-e-w/heretic/zip/refs/heads/master",
@@ -38,5 +38,11 @@
   "pin_note": null,
   "submitted_by": null,
   "gitee": null,
-  "changes": []
+  "changes": [
+    {
+      "date": "2026-11-28",
+      "repo": "p-e-w/heretic",
+      "type": "archived"
+    }
+  ]
 }

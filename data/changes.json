@@ -1,7 +1,12 @@
 {
   "note": "由 tools/track-changes.mjs 自动维护；只追加变动记录，不重新计算历史",
-  "updated_at": "2026-11-24T13:43:18.869Z",
+  "updated_at": "2026-11-28T11:45:26.411Z",
   "events": [
+    {
+      "date": "2026-11-28",
+      "repo": "p-e-w/heretic",
+      "type": "archived"
+    },
     {
       "date": "2026-11-24",
       "repo": "qier222/YesPlayMusic",
@@ -6207,7 +6212,7 @@
       "license": "AGPL-3.0",
       "pinned": false,
       "pin_label": null,
-      "archived": false
+      "archived": true
     },
     "SillyTavern/SillyTavern": {
       "license": "AGPL-3.0",

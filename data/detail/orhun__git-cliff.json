@@ -15,7 +15,7 @@
   ],
   "deploy_type": "命令行 / 二进制",
   "platform": "github",
-  "updated_at": "2026-11-21T21:09:45Z",
+  "updated_at": "2026-11-27T22:00:22Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/orhun/git-cliff/zip/refs/heads/main",

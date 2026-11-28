@@ -15,7 +15,7 @@
   ],
   "deploy_type": "依赖库 / 命令行",
   "platform": "github",
-  "updated_at": "2026-11-27T03:27:38Z",
+  "updated_at": "2026-11-28T03:27:02Z",
   "added_at": "2026-10-18T00:03:43+08:00",
   "default_branch": "main",
   "download_url": "https://codeload.github.com/mksglu/context-mode/zip/refs/heads/main",
